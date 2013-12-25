@@ -1,0 +1,229 @@
+{
+  "markus_schlegel": {
+    "name": "Markus Schlegel",
+    "team": [
+      "2010-11-02",
+      "2011-11-08"
+    ],
+    "twitter": "https://twitter.com/markus_schlegel"
+  },
+  "sir_pepe": {
+    "name": "Peter Kröner",
+    "team": [
+      "2010-11-02"
+    ],
+    "twitter": "https://twitter.com/sir_pepe"
+  },
+  "derSchepp": {
+    "name": "Christian Schaefer",
+    "team": [
+      "2010-11-09"
+    ],
+    "twitter": "https://twitter.com/derSchepp"
+  },
+  "drublic": {
+    "name": "Hans Reinl",
+    "team": [
+      "2011-11-03"
+    ],
+    "twitter": "https://twitter.com/drublic"
+  },
+  "distilledhype": {
+    "name": "Kahlil Lechelt",
+    "team": [
+      "2011-08-25",
+      "2013-03-01"
+    ],
+    "twitter": "https://twitter.com/distilledhype"
+  },
+  "rodneyrehm": {
+    "name": "Rodney Rehm",
+    "team": [
+      "2011-09-16"
+    ],
+    "twitter": "https://twitter.com/rodneyrehm"
+  },
+  "ddprrt": {
+    "name": "Stefan Baumgartner",
+    "team": [
+      "2013-06-09"
+    ],
+    "twitter": "https://twitter.com/ddprrt"
+  },
+  "marcthiele": {
+    "name": "Marc Thiele",
+    "twitter": "https://twitter.com/marcthiele"
+  },
+  "derPepo": {
+    "name": "Pascal Szewczyk",
+    "twitter": "https://twitter.com/derPepo"
+  },
+  "djesse": {
+    "name": "Dirk Jesse",
+    "twitter": "https://twitter.com/djesse"
+  },
+  "MadeMyDay": {
+    "name": "Marc Hinse",
+    "twitter": "https://twitter.com/MadeMyDay"
+  },
+  "makochnet": {
+    "name": "Marcel Koch",
+    "twitter": "https://twitter.com/makochnet"
+  },
+  "helloanselm": {
+    "name": "Anselm Hannemann",
+    "twitter": "https://twitter.com/helloanselm"
+  },
+  "fhemberger": {
+    "name": "Frederic Hemberger",
+    "twitter": "https://twitter.com/fhemberger"
+  },
+  "maddesigns": {
+    "name": "Sven Wolfermann",
+    "twitter": "https://twitter.com/maddesigns"
+  },
+  "fernmuendlich": {
+    "name": "Maik Wagner",
+    "twitter": "https://twitter.com/fernmuendlich"
+  },
+  "macx": {
+    "name": "David Maciejewski",
+    "twitter": "https://twitter.com/macx"
+  },
+  "draftkraft": {
+    "name": "Haymo Meran",
+    "twitter": "https://twitter.com/draftkraft"
+  },
+  "yellowled": {
+    "name": "Matthias Mees",
+    "twitter": "https://twitter.com/yellowled"
+  },
+  "bueltge": {
+    "name": "Frank Bueltge",
+    "twitter": "https://twitter.com/bueltge"
+  },
+  "Flocke": {
+    "name": "Jens Grochtdreis",
+    "twitter": "https://twitter.com/Flocke"
+  },
+  "derCemDerin": {
+    "name": "Cem Derin",
+    "twitter": "https://twitter.com/derCemDerin"
+  },
+  "dantz": {
+    "name": "Andreas Dantz",
+    "twitter": "https://twitter.com/dantz"
+  },
+  "dm_ms": {
+    "name": "Daniel Melanchthon",
+    "twitter": "https://twitter.com/dm_ms"
+  },
+  "Tobias Oberrauch": {
+    "name": "Tobias Oberrauch",
+    "xing": "https://www.xing.com/profiles/Tobias_Oberrauch"
+  },
+  "nicobruenjes": {
+    "name": "Nico Brünjes",
+    "twitter": "https://twitter.com/nicobruenjes"
+  },
+  "gerritvanaaken": {
+    "name": "Gerrit van Aaken",
+    "twitter": "https://twitter.com/gerritvanaaken"
+  },
+  "muehlwitz": {
+    "name": "Guido Mühlwitz",
+    "twitter": "https://twitter.com/muehlwitz"
+  },
+  "polarity": {
+    "name": "Robert Agthe",
+    "twitter": "https://twitter.com/polarity"
+  },
+  "asciidisco": {
+    "name": "asciidisco",
+    "twitter": "https://twitter.com/asciidisco"
+  },
+  "bkastl": {
+    "name": "Benedikt Kastl",
+    "twitter": "https://twitter.com/bkastl"
+  },
+  "czillgens": {
+    "name": "Christopher Zillgens",
+    "twitter": "https://twitter.com/czillgens"
+  },
+  "marcozehe": {
+    "name": "Marco Zehe",
+    "twitter": "https://twitter.com/marcozehe"
+  },
+  "brucel": {
+    "name": "Bruce Lawson",
+    "twitter": "https://twitter.com/brucel"
+  },
+  "paul_irish": {
+    "name": "Paul Irish",
+    "twitter": "https://twitter.com/paul_irish"
+  },
+  "klick_ass": {
+    "name": "Andre Jay Meissner",
+    "twitter": "https://twitter.com/klick_ass"
+  },
+  "g16n": {
+    "name": "Gunnar Bittersmann",
+    "twitter": "https://twitter.com/g16n"
+  },
+  "codepo8": {
+    "name": "Christian Heilmann",
+    "twitter": "https://twitter.com/codepo8"
+  },
+  "thedeftone": {
+    "name": "Jan Monschke",
+    "twitter": "https://twitter.com/thedeftone"
+  },
+  "sippndipp": {
+    "name": "Sebastian Deutsch",
+    "twitter": "https://twitter.com/sippndipp"
+  },
+  "justphilmusic": {
+    "name": "Philipp Tarasiewicz",
+    "twitter": "https://twitter.com/justphilmusic"
+  },
+  "sascha_brink": {
+    "name": "Sascha Brink",
+    "twitter": "https://twitter.com/sascha_brink"
+  },
+  "roobijn": {
+    "name": "Robin Böhm",
+    "twitter": "https://twitter.com/roobijn"
+  },
+  "stn1978": {
+    "name": "Stefan Nitzsche",
+    "twitter": "https://twitter.com/stn1978"
+  },
+  "patrick_h_lauke": {
+    "name": "Patrick Lauke",
+    "twitter": "https://twitter.com/patrick_h_lauke"
+  },
+  "codestars": {
+    "name": "Ole Michaelis",
+    "twitter": "https://twitter.com/codestars"
+  },
+  "jkphl": {
+    "name": "Joschi Kuphal",
+    "twitter": "https://twitter.com/jkphl"
+  },
+  "IngoKasch": {
+    "name": "Ingo Kasch",
+    "twitter": "https://twitter.com/IngoKasch"
+  },
+  "bastianallgeier": {
+    "name": "Bastian Allgeier",
+    "twitter": "https://twitter.com/bastianallgeier"
+  },
+  "espylaub": {
+    "name": "Alex Feyerke",
+    "twitter": "https://twitter.com/espylaub"
+  },
+  "christophrumpel": {
+    "name": "Christoph Rumpel",
+    "twitter": "https://twitter.com/christophrumpel"
+  }
+}

@@ -1,0 +1,1929 @@
+{
+  "1": {
+    "id": 1,
+    "date": "2013-12-25",
+    "duration": "00:57:46",
+    "people": [
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/1/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1/0/Revision1_-Sencha-Animator-Webfernsehen-und-Firesheep.mp3"
+  },
+  "2": {
+    "id": 2,
+    "date": "2013-12-25",
+    "duration": "01:05:48",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/2/",
+    "audio": "http://workingdraft.de/podpress_trac/web/25/0/revision21.mp3"
+  },
+  "3": {
+    "id": 3,
+    "date": "2013-12-25",
+    "duration": "01:06:07",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/3/",
+    "audio": "http://workingdraft.de/podpress_trac/web/60/0/Revision-3_-FF4Beta7-F1-und-Google-Instant-Previews.mp3"
+  },
+  "4": {
+    "id": 4,
+    "date": "2013-12-25",
+    "duration": "00:59:06",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "polarity"
+    ],
+    "href": "http://workingdraft.de/4/",
+    "audio": "http://workingdraft.de/podpress_trac/web/93/0/Revision-4_-Sencha-Touch-1.0-IE9-JS-und-HTML5-Gaming.mp3"
+  },
+  "5": {
+    "id": 5,
+    "date": "2010-11-30",
+    "duration": "00:50:28",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/5/",
+    "audio": "http://workingdraft.de/podpress_trac/web/105/0/Revision5_-iOS-4.2-Opera-11-Web-Messaging-und-Kinect.mp3"
+  },
+  "6": {
+    "id": 6,
+    "date": "2013-12-25",
+    "duration": "01:02:51",
+    "people": [
+      "derSchepp",
+      "markus_schlegel"
+    ],
+    "href": "http://workingdraft.de/6/",
+    "audio": "http://workingdraft.de/podpress_trac/web/130/0/Revision-6_-Firebug-1.6-head.js-Adventskalender-und-alle-sind-krank.mp3"
+  },
+  "7": {
+    "id": 7,
+    "date": "2013-12-25",
+    "duration": "00:38:33",
+    "people": [
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/7/",
+    "audio": "http://workingdraft.de/podpress_trac/web/145/0/Revision-7_-Dateisystem-Android-2.3-Websockets-Protokoll-Glitch-CSS-2.1.mp3"
+  },
+  "8": {
+    "id": 8,
+    "date": "2013-12-25",
+    "duration": "01:18:46",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/8/",
+    "audio": "http://workingdraft.de/podpress_trac/web/164/0/Revision-8_-CrankShaft-Treesaver-und-ControlJS.mp3"
+  },
+  "9": {
+    "id": 9,
+    "date": "2013-12-25",
+    "duration": "00:57:41",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "muehlwitz",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/9/",
+    "audio": "http://workingdraft.de/podpress_trac/web/186/0/Revision-9_-DOM-Monster-Drupal-7-und-2.2250738585072011e-308.mp3"
+  },
+  "10": {
+    "id": 10,
+    "date": "2013-12-25",
+    "duration": "01:21:29",
+    "people": [
+      "derSchepp",
+      "gerritvanaaken",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/10/",
+    "audio": "http://workingdraft.de/podpress_trac/web/212/0/Revision-10_-H.264-vs.-WebM-Shadow-DOM-und-w3fools.com_.mp3"
+  },
+  "11": {
+    "id": 11,
+    "date": "2011-01-25",
+    "duration": "01:06:07",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "nicobruenjes"
+    ],
+    "href": "http://workingdraft.de/11/",
+    "audio": "http://workingdraft.de/podpress_trac/web/250/0/wd-11.mp3"
+  },
+  "12": {
+    "id": 12,
+    "date": "2013-12-25",
+    "duration": "01:03:22",
+    "people": [
+      "Tobias Oberrauch",
+      "derSchepp",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/12/",
+    "audio": "http://workingdraft.de/podpress_trac/web/279/0/wd-12.mp3"
+  },
+  "13": {
+    "id": 13,
+    "date": "2013-12-25",
+    "duration": "01:09:19",
+    "people": [
+      "MadeMyDay",
+      "derSchepp",
+      "markus_schlegel"
+    ],
+    "href": "http://workingdraft.de/13/",
+    "audio": "http://workingdraft.de/podpress_trac/web/307/0/wd-13.mp3"
+  },
+  "14": {
+    "id": 14,
+    "date": "2013-12-25",
+    "duration": "01:11:24",
+    "people": [
+      "MadeMyDay",
+      "derSchepp",
+      "markus_schlegel"
+    ],
+    "href": "http://workingdraft.de/14/",
+    "audio": "http://workingdraft.de/podpress_trac/web/329/0/wd-14.mp3"
+  },
+  "15": {
+    "id": 15,
+    "date": "2013-12-25",
+    "duration": "01:01:55",
+    "people": [
+      "MadeMyDay",
+      "derSchepp"
+    ],
+    "href": "http://workingdraft.de/15/",
+    "audio": "http://workingdraft.de/podpress_trac/web/355/0/wd-15.mp3"
+  },
+  "16": {
+    "id": 16,
+    "date": "2013-12-25",
+    "duration": "02:01:26",
+    "people": [
+      "derSchepp",
+      "dm_ms",
+      "markus_schlegel"
+    ],
+    "href": "http://workingdraft.de/16/",
+    "audio": "http://workingdraft.de/podpress_trac/web/407/0/wd-16.mp3"
+  },
+  "17": {
+    "id": 17,
+    "date": "2013-12-25",
+    "duration": "01:05:40",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/17/",
+    "audio": "http://workingdraft.de/podpress_trac/web/422/0/wd-17.mp3"
+  },
+  "18": {
+    "id": 18,
+    "date": "2013-12-25",
+    "duration": "01:07:32",
+    "people": [
+      "derCemDerin",
+      "derSchepp"
+    ],
+    "href": "http://workingdraft.de/18/",
+    "audio": "http://workingdraft.de/podpress_trac/web/445/0/wd-18.mp3"
+  },
+  "19": {
+    "id": 19,
+    "date": "2011-03-29",
+    "duration": "00:59:24",
+    "people": [
+      "dantz",
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/19/",
+    "audio": "http://workingdraft.de/podpress_trac/web/462/0/wd-19.mp3"
+  },
+  "20": {
+    "id": 20,
+    "date": "2013-12-25",
+    "duration": "00:52:35",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/20/",
+    "audio": "http://workingdraft.de/podpress_trac/web/473/0/wd-20.mp3"
+  },
+  "21": {
+    "id": 21,
+    "date": "2013-12-25",
+    "duration": "01:32:56",
+    "people": [
+      "derSchepp",
+      "djesse",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/21/",
+    "audio": "http://workingdraft.de/podpress_trac/web/482/0/wd-21.mp3"
+  },
+  "22": {
+    "id": 22,
+    "date": "2013-12-25",
+    "duration": "01:01:40",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/22/",
+    "audio": "http://workingdraft.de/podpress_trac/web/490/0/wd-22.mp3"
+  },
+  "23": {
+    "id": 23,
+    "date": "2013-12-25",
+    "duration": "00:59:16",
+    "people": [
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/23/",
+    "audio": "http://workingdraft.de/podpress_trac/web/520/0/wd-23.mp3"
+  },
+  "24": {
+    "id": 24,
+    "date": "2013-12-25",
+    "duration": "00:53:53",
+    "people": [
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/24/",
+    "audio": "http://workingdraft.de/podpress_trac/web/537/0/wd-24.mp3"
+  },
+  "25": {
+    "id": 25,
+    "date": "2013-12-25",
+    "duration": "00:58:45",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/25/",
+    "audio": "http://workingdraft.de/podpress_trac/web/555/0/wd-25.mp3"
+  },
+  "26": {
+    "id": 26,
+    "date": "2013-12-26",
+    "duration": "01:36:23",
+    "people": [
+      "Flocke",
+      "markus_schlegel"
+    ],
+    "href": "http://workingdraft.de/26/",
+    "audio": "http://workingdraft.de/podpress_trac/web/577/0/wd-26.mp3"
+  },
+  "27": {
+    "id": 27,
+    "date": "2013-12-25",
+    "duration": "01:14:16",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/27/",
+    "audio": ""
+  },
+  "28": {
+    "id": 28,
+    "date": "2013-12-25",
+    "duration": "01:57:32",
+    "people": [
+      "derCemDerin",
+      "derSchepp",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/28/",
+    "audio": "http://workingdraft.de/podpress_trac/web/611/0/wd-28.mp3"
+  },
+  "29": {
+    "id": 29,
+    "date": "2011-06-28",
+    "duration": "00:37:21",
+    "people": [
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/29/",
+    "audio": "http://workingdraft.de/podpress_trac/web/629/0/wd-29.mp3"
+  },
+  "30": {
+    "id": 30,
+    "date": "2013-12-25",
+    "duration": "01:23:24",
+    "people": [
+      "Flocke",
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/30/",
+    "audio": "http://workingdraft.de/podpress_trac/web/641/0/wd-30.mp3"
+  },
+  "31": {
+    "id": 31,
+    "date": "2013-12-25",
+    "duration": "01:23:02",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/31/",
+    "audio": "http://workingdraft.de/podpress_trac/web/657/0/wd-31.mp3"
+  },
+  "32": {
+    "id": 32,
+    "date": "2013-12-25",
+    "duration": "01:28:14",
+    "people": [
+      "bueltge",
+      "derSchepp"
+    ],
+    "href": "http://workingdraft.de/32/",
+    "audio": "http://workingdraft.de/podpress_trac/web/666/0/wd-32.mp3"
+  },
+  "33": {
+    "id": 33,
+    "date": "2011-07-26",
+    "duration": "01:09:50",
+    "people": [
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/33/",
+    "audio": "http://workingdraft.de/podpress_trac/web/684/0/wd-33.mp3"
+  },
+  "34": {
+    "id": 34,
+    "date": "2013-12-25",
+    "duration": "00:57:40",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/34/",
+    "audio": "http://workingdraft.de/podpress_trac/web/700/0/wd-34.mp3"
+  },
+  "35": {
+    "id": 35,
+    "date": "2013-12-25",
+    "duration": "00:54:50",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/35/",
+    "audio": "http://workingdraft.de/podpress_trac/web/711/0/wd-35.mp3"
+  },
+  "36": {
+    "id": 36,
+    "date": "2013-12-25",
+    "duration": "01:08:27",
+    "people": [
+      "derSchepp",
+      "helloanselm",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/36/",
+    "audio": "http://workingdraft.de/podpress_trac/web/727/0/wd-36.mp3"
+  },
+  "37": {
+    "id": 37,
+    "date": "2011-08-25",
+    "duration": "01:37:55",
+    "people": [
+      "MadeMyDay",
+      "derSchepp",
+      "distilledhype",
+      "markus_schlegel"
+    ],
+    "href": "http://workingdraft.de/37/",
+    "audio": "http://workingdraft.de/podpress_trac/web/742/0/wd-37.mp3"
+  },
+  "38": {
+    "id": 38,
+    "date": "2011-08-30",
+    "duration": "01:35:57",
+    "people": [
+      "derSchepp",
+      "djesse",
+      "yellowled"
+    ],
+    "href": "http://workingdraft.de/38/",
+    "audio": "http://workingdraft.de/podpress_trac/web/751/0/wd-38.mp3"
+  },
+  "39": {
+    "id": 39,
+    "date": "2013-12-25",
+    "duration": "00:48:50",
+    "people": [
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/39/",
+    "audio": "http://workingdraft.de/podpress_trac/web/774/0/wd-39.mp3"
+  },
+  "40": {
+    "id": 40,
+    "date": "2013-12-25",
+    "duration": "01:40:07",
+    "people": [
+      "derSchepp",
+      "fhemberger",
+      "markus_schlegel",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/40/",
+    "audio": "http://workingdraft.de/podpress_trac/web/783/0/wd-40.mp3"
+  },
+  "41": {
+    "id": 41,
+    "date": "2011-09-27",
+    "duration": "01:18:01",
+    "people": [
+      "derSchepp",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/41/",
+    "audio": "http://workingdraft.de/podpress_trac/web/793/0/wd-41.mp3"
+  },
+  "42": {
+    "id": 42,
+    "date": "2013-12-25",
+    "duration": "01:20:02",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/42/",
+    "audio": "http://workingdraft.de/podpress_trac/web/812/0/wd-42.mp3"
+  },
+  "43": {
+    "id": 43,
+    "date": "2013-12-25",
+    "duration": "01:15:54",
+    "people": [
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/43/",
+    "audio": "http://workingdraft.de/podpress_trac/web/826/0/wd-43.mp3"
+  },
+  "44": {
+    "id": 44,
+    "date": "2011-10-28",
+    "duration": "01:01:05",
+    "people": [
+      "derSchepp",
+      "maddesigns",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/44/",
+    "audio": "http://workingdraft.de/podpress_trac/web/845/0/wd-44.mp3"
+  },
+  "45": {
+    "id": 45,
+    "date": "2013-12-25",
+    "duration": "01:16:39",
+    "people": [
+      "MadeMyDay",
+      "derSchepp",
+      "drublic"
+    ],
+    "href": "http://workingdraft.de/45/",
+    "audio": "http://workingdraft.de/podpress_trac/web/856/0/wd-45.mp3"
+  },
+  "46": {
+    "id": 46,
+    "date": "2013-12-25",
+    "duration": "01:22:44",
+    "people": [
+      "derSchepp",
+      "draftkraft",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/46/",
+    "audio": "http://workingdraft.de/podpress_trac/web/875/0/wd-46.mp3"
+  },
+  "47": {
+    "id": 47,
+    "date": "2013-12-25",
+    "duration": "00:54:32",
+    "people": [
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/47/",
+    "audio": "http://workingdraft.de/podpress_trac/web/886/0/wd-47.mp3"
+  },
+  "48": {
+    "id": 48,
+    "date": "2013-12-26",
+    "duration": "00:54:00",
+    "video": "http://www.youtube.com/watch?v=aFEiw0SEMyw",
+    "lang": "EN",
+    "people": [
+      "MadeMyDay",
+      "derSchepp",
+      "drublic",
+      "fernmuendlich",
+      "fhemberger",
+      "helloanselm",
+      "macx",
+      "maddesigns",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/48/",
+    "audio": "http://workingdraft.de/podpress_trac/web/890/0/wd-48.mp3"
+  },
+  "49": {
+    "id": 49,
+    "date": "2013-12-25",
+    "duration": "01:19:55",
+    "people": [
+      "derSchepp",
+      "drublic"
+    ],
+    "href": "http://workingdraft.de/49/",
+    "audio": "http://workingdraft.de/podpress_trac/web/914/0/wd-49.mp3"
+  },
+  "50": {
+    "id": 50,
+    "date": "2013-12-25",
+    "duration": "01:02:43",
+    "people": [
+      "derSchepp",
+      "makochnet"
+    ],
+    "href": "http://workingdraft.de/50/",
+    "audio": "http://workingdraft.de/podpress_trac/web/925/0/wd-50.mp3"
+  },
+  "51": {
+    "id": 51,
+    "date": "2013-12-25",
+    "duration": "01:13:20",
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic"
+    ],
+    "href": "http://workingdraft.de/51/",
+    "audio": "http://workingdraft.de/podpress_trac/web/931/0/wd-51.mp3"
+  },
+  "52": {
+    "id": 52,
+    "date": "2013-12-25",
+    "duration": "01:01:32",
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/52/",
+    "audio": "http://workingdraft.de/podpress_trac/web/945/0/wd-52.mp3"
+  },
+  "53": {
+    "id": 53,
+    "date": "2011-12-30",
+    "duration": "00:49:53",
+    "video": "http://www.youtube.com/watch?v=va9xlJCbDZI",
+    "lang": "EN",
+    "people": [
+      "distilledhype",
+      "drublic",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/53/",
+    "audio": "http://workingdraft.de/podpress_trac/web/951/0/wd-53.mp3"
+  },
+  "54": {
+    "id": 54,
+    "date": "2013-12-25",
+    "duration": "01:17:44",
+    "people": [
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/54/",
+    "audio": "http://workingdraft.de/podpress_trac/web/962/0/wd-54.mp3"
+  },
+  "55": {
+    "id": 55,
+    "date": "2013-12-25",
+    "duration": "01:01:21",
+    "people": [
+      "derSchepp",
+      "distilledhype"
+    ],
+    "href": "http://workingdraft.de/55/",
+    "audio": "http://workingdraft.de/podpress_trac/web/974/0/wd-55.mp3"
+  },
+  "56": {
+    "id": 56,
+    "date": "2012-01-26",
+    "duration": "01:03:50",
+    "people": [
+      "MadeMyDay",
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/56/",
+    "audio": "http://workingdraft.de/podpress_trac/web/990/0/wd-56.mp3"
+  },
+  "57": {
+    "id": 57,
+    "date": "2013-12-25",
+    "duration": "00:50:26",
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/57/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1004/0/wd-57.mp3"
+  },
+  "58": {
+    "id": 58,
+    "date": "2013-12-25",
+    "duration": "01:31:36",
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/58/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1018/0/wd-58.mp3"
+  },
+  "59": {
+    "id": 59,
+    "date": "2013-12-25",
+    "duration": "01:15:22",
+    "people": [
+      "distilledhype",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/59/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1038/0/wd-59.mp3"
+  },
+  "60": {
+    "id": 60,
+    "date": "2012-02-29",
+    "duration": "01:15:01",
+    "people": [
+      "derSchepp",
+      "djesse"
+    ],
+    "href": "http://workingdraft.de/60/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1053/0/wd-60.mp3"
+  },
+  "61": {
+    "id": 61,
+    "date": "2013-12-25",
+    "duration": "01:04:24",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/61/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1063/0/wd-61.mp3"
+  },
+  "62": {
+    "id": 62,
+    "date": "2013-12-25",
+    "duration": "00:56:55",
+    "people": [
+      "derPepo",
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/62/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1081/0/wd-62.mp3"
+  },
+  "63": {
+    "id": 63,
+    "date": "2012-03-29",
+    "duration": "01:20:38",
+    "live": true,
+    "people": [
+      "drublic",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/63/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1095/0/wd-63.mp3"
+  },
+  "64": {
+    "id": 64,
+    "date": "2013-12-25",
+    "duration": "01:12:49",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic",
+      "marcthiele"
+    ],
+    "href": "http://workingdraft.de/64/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1109/0/wd-64.mp3"
+  },
+  "65": {
+    "id": 65,
+    "date": "2013-12-25",
+    "duration": "00:53:59",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/65/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1125/0/wd-65.mp3"
+  },
+  "66": {
+    "id": 66,
+    "date": "2013-12-25",
+    "duration": "00:53:37",
+    "live": true,
+    "people": [
+      "distilledhype",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/66/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1142/0/wd-66.mp3"
+  },
+  "67": {
+    "id": 67,
+    "date": "2013-12-25",
+    "duration": "01:14:21",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/67/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1153/0/wd-67.mp3"
+  },
+  "68": {
+    "id": 68,
+    "date": "2012-04-30",
+    "duration": "00:59:21",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic",
+      "fhemberger"
+    ],
+    "href": "http://workingdraft.de/68/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1167/0/wd-68.mp3"
+  },
+  "69": {
+    "id": 69,
+    "date": "2013-12-25",
+    "duration": "00:57:29",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/69/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1183/0/wd-69.mp3"
+  },
+  "70": {
+    "id": 70,
+    "date": "2013-12-25",
+    "duration": "00:50:24",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic",
+      "fhemberger",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/70/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1195/0/wd-70.mp3"
+  },
+  "71": {
+    "id": 71,
+    "date": "2013-12-25",
+    "duration": "01:07:49",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic"
+    ],
+    "href": "http://workingdraft.de/71/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1216/0/wd-71.mp3"
+  },
+  "72": {
+    "id": 72,
+    "date": "2013-12-25",
+    "duration": "01:00:59",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/72/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1227/0/wd-72.mp3"
+  },
+  "73": {
+    "id": 73,
+    "date": "2013-12-25",
+    "duration": "01:09:06",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "drublic",
+      "helloanselm"
+    ],
+    "href": "http://workingdraft.de/73/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1250/0/wd73.mp3"
+  },
+  "74": {
+    "id": 74,
+    "date": "2013-12-25",
+    "duration": "00:20:52",
+    "live": true,
+    "people": [
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/74/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1262/0/wd-74.mp3"
+  },
+  "75": {
+    "id": 75,
+    "date": "2013-12-25",
+    "duration": "00:15:50",
+    "live": true,
+    "people": [
+      "distilledhype",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/75/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1271/0/wd-75.mp3"
+  },
+  "76": {
+    "id": 76,
+    "date": "2013-12-25",
+    "duration": "01:13:13",
+    "live": true,
+    "people": [
+      "asciidisco",
+      "distilledhype",
+      "drublic"
+    ],
+    "href": "http://workingdraft.de/76/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1285/0/wd-76.mp3"
+  },
+  "77": {
+    "id": 77,
+    "date": "2012-06-27",
+    "duration": "01:04:12",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/77/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1309/0/wd-77.mp3"
+  },
+  "78": {
+    "id": 78,
+    "date": "2013-12-25",
+    "duration": "01:15:08",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/78/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1333/0/wd-78.mp3"
+  },
+  "79": {
+    "id": 79,
+    "date": "2013-12-25",
+    "duration": "00:35:52",
+    "live": true,
+    "people": [
+      "distilledhype",
+      "drublic",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/79/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1351/0/wd-79.mp3"
+  },
+  "80": {
+    "id": 80,
+    "date": "2013-12-25",
+    "duration": "00:53:25",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/80/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1365/0/wd-80.mp3"
+  },
+  "81": {
+    "id": 81,
+    "date": "2012-07-29",
+    "duration": "00:47:30",
+    "live": true,
+    "people": [
+      "bkastl",
+      "derSchepp",
+      "distilledhype",
+      "drublic"
+    ],
+    "href": "http://workingdraft.de/81/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1378/0/wd-81.mp3"
+  },
+  "82": {
+    "id": 82,
+    "date": "2013-12-25",
+    "duration": "01:13:07",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic",
+      "helloanselm"
+    ],
+    "href": "http://workingdraft.de/82/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1389/0/wd-82.mp3"
+  },
+  "83": {
+    "id": 83,
+    "date": "2013-12-25",
+    "duration": "00:52:22",
+    "live": true,
+    "people": [
+      "drublic",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/83/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1398/0/wd-83.mp3"
+  },
+  "84": {
+    "id": 84,
+    "date": "2013-12-25",
+    "duration": "01:01:18",
+    "live": true,
+    "people": [
+      "asciidisco",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/84/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1414/0/wd-84.mp3"
+  },
+  "85": {
+    "id": 85,
+    "date": "2013-12-25",
+    "duration": "01:18:38",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "drublic",
+      "marcthiele",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/85/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1428/0/wd-85.mp3"
+  },
+  "86": {
+    "id": 86,
+    "date": "2012-08-31",
+    "duration": "00:35:24",
+    "live": true,
+    "people": [
+      "asciidisco",
+      "drublic",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/86/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1457/0/wd86.mp3"
+  },
+  "87": {
+    "id": 87,
+    "date": "2013-12-25",
+    "duration": "00:38:30",
+    "live": true,
+    "people": [
+      "distilledhype",
+      "drublic",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/87/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1475/0/wd87.mp3"
+  },
+  "88": {
+    "id": 88,
+    "date": "2013-12-25",
+    "duration": "00:48:16",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/88/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1484/0/wd-88.mp3"
+  },
+  "89": {
+    "id": 89,
+    "date": "2012-09-27",
+    "duration": "01:12:09",
+    "live": true,
+    "people": [
+      "distilledhype",
+      "drublic",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/89/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1501/0/wd89.mp3"
+  },
+  "90": {
+    "id": 90,
+    "date": "2013-12-25",
+    "duration": "01:04:18",
+    "live": true,
+    "people": [
+      "asciidisco",
+      "fhemberger",
+      "helloanselm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/90/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1528/0/wd-90.mp3"
+  },
+  "91": {
+    "id": 91,
+    "date": "2013-12-25",
+    "duration": "01:03:25",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "drublic",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/91/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1521/0/wd-91.mp3"
+  },
+  "92": {
+    "id": 92,
+    "date": "2013-12-25",
+    "duration": "01:19:25",
+    "live": true,
+    "people": [
+      "distilledhype",
+      "djesse",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/92/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1550/0/wd-92.mp3"
+  },
+  "93": {
+    "id": 93,
+    "date": "2012-10-26",
+    "duration": "01:40:11",
+    "live": true,
+    "people": [
+      "czillgens",
+      "derSchepp",
+      "distilledhype",
+      "drublic"
+    ],
+    "href": "http://workingdraft.de/93/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1569/0/wd-93.mp3"
+  },
+  "94": {
+    "id": 94,
+    "date": "2013-12-25",
+    "duration": "00:40:08",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/94/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1592/0/wd-94.mp3"
+  },
+  "95": {
+    "id": 95,
+    "date": "2013-12-25",
+    "duration": "01:30:41",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "marcozehe",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/95/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1607/0/wd-95.mp3"
+  },
+  "96": {
+    "id": 96,
+    "date": "2013-12-25",
+    "duration": "00:30:04",
+    "live": true,
+    "people": [
+      "drublic",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/96/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1620/0/wd-96.mp3"
+  },
+  "97": {
+    "id": 97,
+    "date": "2012-11-25",
+    "duration": "00:48:06",
+    "lang": "EN",
+    "live": true,
+    "people": [
+      "brucel",
+      "derSchepp",
+      "drublic",
+      "helloanselm",
+      "macx",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/97/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1636/0/wd-97.mp3"
+  },
+  "98": {
+    "id": 98,
+    "date": "2012-11-28",
+    "duration": "00:59:10",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/98/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1655/0/wd98.mp3"
+  },
+  "99": {
+    "id": 99,
+    "date": "2013-12-25",
+    "duration": "01:18:52",
+    "live": true,
+    "people": [
+      "MadeMyDay",
+      "distilledhype",
+      "drublic",
+      "fhemberger",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/99/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1672/0/wd-99.mp3"
+  },
+  "100": {
+    "id": 100,
+    "date": "2013-12-25",
+    "duration": "00:56:36",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic",
+      "paul_irish",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/100/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1694/0/wd-100.mp3"
+  },
+  "101": {
+    "id": 101,
+    "date": "2013-12-25",
+    "duration": "00:51:52",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "drublic",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/101/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1714/0/wd-101.mp3"
+  },
+  "102": {
+    "id": 102,
+    "date": "2013-12-25",
+    "duration": "01:20:00",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "drublic",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/102/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1737/0/wd-102.mp3"
+  },
+  "103": {
+    "id": 103,
+    "date": "2013-12-25",
+    "duration": "00:05:59",
+    "live": true,
+    "people": [
+      "distilledhype",
+      "drublic",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/103/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1765/0/wd-103.mp3"
+  },
+  "104": {
+    "id": 104,
+    "date": "2013-12-25",
+    "duration": "01:27:15",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "drublic",
+      "klick_ass",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/104/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1774/0/wd-104.mp3"
+  },
+  "105": {
+    "id": 105,
+    "date": "2013-01-30",
+    "duration": "00:53:13",
+    "live": true,
+    "people": [
+      "asciidisco",
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/105/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1789/0/wd-105.mp3"
+  },
+  "106": {
+    "id": 106,
+    "date": "2013-12-25",
+    "duration": "00:48:59",
+    "live": true,
+    "people": [
+      "distilledhype",
+      "drublic",
+      "fhemberger"
+    ],
+    "href": "http://workingdraft.de/106/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1798/0/wd-106.mp3"
+  },
+  "107": {
+    "id": 107,
+    "date": "2013-12-25",
+    "duration": "00:45:50",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "drublic",
+      "helloanselm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/107/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1808/0/wd-107.mp3"
+  },
+  "108": {
+    "id": 108,
+    "date": "2013-12-25",
+    "duration": "00:47:52",
+    "live": true,
+    "people": [
+      "asciidisco",
+      "derSchepp",
+      "drublic"
+    ],
+    "href": "http://workingdraft.de/108/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1816/0/wd-108.mp3"
+  },
+  "109": {
+    "id": 109,
+    "date": "2013-12-25",
+    "duration": "00:38:43",
+    "live": true,
+    "people": [
+      "dantz",
+      "distilledhype",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/109/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1827/0/wd-109.mp3"
+  },
+  "110": {
+    "id": 110,
+    "date": "2013-12-25",
+    "duration": "00:37:28",
+    "live": true,
+    "people": [
+      "drublic",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/110/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1838/0/wd-110.mp3"
+  },
+  "111": {
+    "id": 111,
+    "date": "2013-12-25",
+    "duration": "00:55:58",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "fhemberger",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/111/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1845/0/wd-111.mp3"
+  },
+  "112": {
+    "id": 112,
+    "date": "2013-12-25",
+    "duration": "00:40:22",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/112/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1853/0/wd-112.mp3"
+  },
+  "113": {
+    "id": 113,
+    "date": "2013-03-29",
+    "duration": "00:49:31",
+    "live": true,
+    "people": [
+      "drublic",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/113/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1868/0/wd-113.mp3"
+  },
+  "114": {
+    "id": 114,
+    "date": "2013-12-25",
+    "duration": "01:06:37",
+    "live": true,
+    "people": [
+      "dantz",
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/114/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1874/0/wd-114.mp3"
+  },
+  "115": {
+    "id": 115,
+    "date": "2013-12-25",
+    "duration": "00:55:23",
+    "live": true,
+    "people": [
+      "MadeMyDay",
+      "drublic",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/115/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1886/0/wd-115.mp3"
+  },
+  "116": {
+    "id": 116,
+    "date": "2013-12-25",
+    "duration": "01:41:58",
+    "live": true,
+    "people": [
+      "brucel",
+      "derSchepp",
+      "g16n",
+      "maddesigns",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/116/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1900/0/wd-116.mp3"
+  },
+  "117": {
+    "id": 117,
+    "date": "2013-04-25",
+    "duration": "01:07:02",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/117/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1913/0/wd-117.mp3"
+  },
+  "118": {
+    "id": 118,
+    "date": "2013-12-25",
+    "duration": "00:38:27",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "drublic"
+    ],
+    "href": "http://workingdraft.de/118/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1920/0/wd-118.mp3"
+  },
+  "119": {
+    "id": 119,
+    "date": "2013-12-25",
+    "duration": "00:51:51",
+    "live": true,
+    "people": [
+      "drublic",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/119/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1932/0/wd-119.mp3"
+  },
+  "120": {
+    "id": 120,
+    "date": "2013-12-25",
+    "duration": "00:50:40",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "drublic"
+    ],
+    "href": "http://workingdraft.de/120/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1942/0/wd-120.mp3"
+  },
+  "121": {
+    "id": 121,
+    "date": "2013-12-25",
+    "duration": "01:05:04",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/121/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1951/0/wd-121.mp3"
+  },
+  "122": {
+    "id": 122,
+    "date": "2013-12-25",
+    "duration": "00:34:17",
+    "people": [
+      "codepo8",
+      "derSchepp",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/122/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1959/0/wd-122.mp3"
+  },
+  "123": {
+    "id": 123,
+    "date": "2013-12-25",
+    "duration": "00:53:53",
+    "live": true,
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/123/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1963/0/wd-123.mp3"
+  },
+  "124": {
+    "id": 124,
+    "date": "2013-12-25",
+    "duration": "00:50:08",
+    "live": true,
+    "people": [
+      "ddprrt",
+      "derSchepp"
+    ],
+    "href": "http://workingdraft.de/124/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1970/0/wd-124.mp3"
+  },
+  "125": {
+    "id": 125,
+    "date": "2013-06-25",
+    "duration": "00:33:08",
+    "live": true,
+    "people": [
+      "drublic",
+      "helloanselm"
+    ],
+    "href": "http://workingdraft.de/125/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1981/0/wd-125.mp3"
+  },
+  "126": {
+    "id": 126,
+    "date": "2013-12-25",
+    "duration": "00:46:48",
+    "live": true,
+    "people": [
+      "ddprrt",
+      "derSchepp"
+    ],
+    "href": "http://workingdraft.de/126/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1989/0/wd-126.mp3"
+  },
+  "127": {
+    "id": 127,
+    "date": "2013-12-25",
+    "duration": "00:46:21",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/127/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2000/0/wd-127.mp3"
+  },
+  "128": {
+    "id": 128,
+    "date": "2013-12-25",
+    "duration": "01:18:56",
+    "live": true,
+    "people": [
+      "ddprrt",
+      "rodneyrehm",
+      "sippndipp",
+      "sir_pepe",
+      "thedeftone"
+    ],
+    "href": "http://workingdraft.de/128/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2014/0/wd-128.mp3"
+  },
+  "129": {
+    "id": 129,
+    "date": "2013-12-26",
+    "duration": "01:07:45",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/129/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2021/0/wd-129.mp3"
+  },
+  "130": {
+    "id": 130,
+    "date": "2013-12-25",
+    "duration": "01:02:14",
+    "live": true,
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "justphilmusic",
+      "roobijn",
+      "sascha_brink"
+    ],
+    "href": "http://workingdraft.de/130/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2032/0/wd-130.mp3"
+  },
+  "131": {
+    "id": 131,
+    "date": "2013-12-25",
+    "duration": "00:38:30",
+    "people": [
+      "ddprrt",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/131/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2043/0/wd-131.mp3"
+  },
+  "132": {
+    "id": 132,
+    "date": "2013-12-25",
+    "duration": "01:08:35",
+    "live": true,
+    "people": [
+      "asciidisco",
+      "derSchepp",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/132/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2054/0/wd-132.mp3"
+  },
+  "133": {
+    "id": 133,
+    "date": "2013-08-25",
+    "duration": "01:00:31",
+    "live": true,
+    "people": [
+      "Flocke",
+      "ddprrt",
+      "helloanselm"
+    ],
+    "href": "http://workingdraft.de/133/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2068/0/wd-133.mp3"
+  },
+  "134": {
+    "id": 134,
+    "date": "2013-12-25",
+    "duration": "00:52:04",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/134/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2077/0/wd-134.mp3"
+  },
+  "135": {
+    "id": 135,
+    "date": "2013-12-25",
+    "duration": "00:48:32",
+    "live": true,
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "yellowled"
+    ],
+    "href": "http://workingdraft.de/135/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2083/0/wd-135.mp3"
+  },
+  "136": {
+    "id": 136,
+    "date": "2013-12-25",
+    "duration": "00:55:40",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "drublic",
+      "stn1978"
+    ],
+    "href": "http://workingdraft.de/136/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2090/0/wd-136.mp3"
+  },
+  "137": {
+    "id": 137,
+    "date": "2013-12-26",
+    "duration": "01:25:37",
+    "live": true,
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/137/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2096/0/wd-137.mp3"
+  },
+  "138": {
+    "id": 138,
+    "date": "2013-12-25",
+    "duration": "01:15:25",
+    "live": true,
+    "people": [
+      "Flocke",
+      "ddprrt",
+      "derSchepp",
+      "yellowled"
+    ],
+    "href": "http://workingdraft.de/138/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2100/0/wd-138.mp3"
+  },
+  "139": {
+    "id": 139,
+    "date": "2013-12-25",
+    "duration": "01:16:21",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "patrick_h_lauke",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/139/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2109/0/wd-139.mp3"
+  },
+  "140": {
+    "id": 140,
+    "date": null,
+    "duration": "",
+    "live": true,
+    "people": [
+      "IngoKasch",
+      "asciidisco",
+      "jkphl",
+      "rodneyrehm"
+    ]
+  },
+  "141": {
+    "id": 141,
+    "date": "2013-12-25",
+    "duration": "00:50:47",
+    "live": true,
+    "people": [
+      "codestars",
+      "ddprrt",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/141/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2126/0/wd-141.mp3"
+  },
+  "142": {
+    "id": 142,
+    "date": "2013-10-27",
+    "duration": "00:59:16",
+    "live": true,
+    "people": [
+      "ddprrt",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/142/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2132/0/wd-142.mp3"
+  },
+  "143": {
+    "id": 143,
+    "date": "2013-12-25",
+    "duration": "00:59:03",
+    "live": true,
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/143/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2141/0/wd-143.mp3"
+  },
+  "144": {
+    "id": 144,
+    "date": "2013-12-25",
+    "duration": "00:52:11",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "drublic",
+      "maddesigns"
+    ],
+    "href": "http://workingdraft.de/144/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2151/0/wd-144.mp3"
+  },
+  "145": {
+    "id": 145,
+    "date": "2013-12-25",
+    "duration": "00:58:05",
+    "live": true,
+    "people": [
+      "bastianallgeier",
+      "derSchepp",
+      "drublic",
+      "espylaub",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/145/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2156/0/wd-145.mp3"
+  },
+  "146": {
+    "id": 146,
+    "date": "2013-12-26",
+    "duration": "01:14:31",
+    "live": true,
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "helloanselm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/146/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2167/0/wd-146.mp3"
+  },
+  "147": {
+    "id": 147,
+    "date": "2013-12-25",
+    "duration": "01:08:24",
+    "live": true,
+    "people": [
+      "christophrumpel",
+      "ddprrt",
+      "derSchepp",
+      "drublic"
+    ],
+    "href": "http://workingdraft.de/147/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2177/0/wd-147.mp3"
+  },
+  "148": {
+    "id": 148,
+    "date": "2013-12-25",
+    "duration": "00:48:48",
+    "live": true,
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/148/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2186/0/wd-148.mp3"
+  },
+  "149": {
+    "id": 149,
+    "date": "2013-12-25",
+    "duration": "00:59:23",
+    "live": true,
+    "people": [
+      "ddprrt",
+      "drublic",
+      "gerritvanaaken"
+    ],
+    "href": "http://workingdraft.de/149/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2193/0/wd-149.mp3"
+  },
+  "150": {
+    "id": 150,
+    "date": null,
+    "duration": "00:00:00",
+    "people": []
+  },
+  "151": {
+    "id": 151,
+    "date": null,
+    "duration": "00:00:00",
+    "people": [
+      "rodneyrehm",
+      "sir_pepe"
+    ]
+  }
+}
