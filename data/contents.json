@@ -1,1 +1,219 @@
-{}
+{
+  "1": {
+    "episode": "1",
+    "topics": [
+      {
+        "name": "Microsoft: „Our Strategy with Silverlight has shifted.“",
+        "href": "http://www.zdnet.com/blog/microsoft/microsoft-our-strategy-with-silverlight-has-shifted/7834"
+      },
+      {
+        "name": "Sencha CSS-Animator",
+        "href": "http://www.sencha.com/products/animator/"
+      },
+      {
+        "name": "Adobe: Export fla files to html",
+        "href": "http://www.youtube.com/watch?v=ryZP00_KhYE"
+      },
+      {
+        "name": "Vimeo Couch Mode",
+        "href": "http://vimeo.com/couchmode"
+      },
+      {
+        "name": "Youtube Lean Back",
+        "href": "http://youtube.com/leanback"
+      },
+      {
+        "name": "Google WebFont Loader",
+        "href": "http://code.google.com/intl/de-DE/apis/webfonts/docs/webfont_loader.html"
+      },
+      {
+        "name": "Facebook Open Graph: XML-Meta-Tags",
+        "href": "http://www.blog.tocki.de/2010-10-21/facebook-open-graph-meta-tags-header/"
+      },
+      {
+        "name": "Audio-API Demo",
+        "href": "http://hacks.mozilla.org/2010/10/audio-data-api-audio-generation-demo/"
+      },
+      {
+        "name": "JavaScript Stacktraces",
+        "href": "http://github.com/emwendelin/javascript-stacktrace"
+      },
+      {
+        "name": "Firefox-Plugin: Firesheep",
+        "href": "http://codebutler.com/firesheep"
+      },
+      {
+        "name": "HTTPS Everywhere",
+        "href": "https://www.eff.org/https-everywhere"
+      },
+      {
+        "name": "HTTP cookies, or how not to design protocols",
+        "href": "http://lcamtuf.blogspot.com/2010/10/http-cookies-or-how-not-to-design.html"
+      },
+      {
+        "name": "Mozilla: „No kill switch for Firesheep addon“",
+        "href": "http://www.computerworld.com/s/article/9193420/Mozilla_No_kill_switch_for_Firesheep_add_on"
+      }
+    ],
+    "news": [],
+    "links": [],
+    "randomSpec": []
+  },
+  "2": {
+    "episode": 2,
+    "topics": [
+      {
+        "name": "mod_pagespeed",
+        "href": "http://code.google.com/intl/de-DE/speed/page-speed/docs/module.html"
+      },
+      {
+        "name": "CSS-JS-Booster",
+        "href": "https://github.com/Schepp/CSS-JS-Booster"
+      },
+      {
+        "name": "Chalk-Webapp ausschließlich für das iPad",
+        "href": "http://37signals.com/svn/posts/2637-introducing-chalk-a-fun-little-browser-based-app-for-ipad-inspired-by-our-new-office"
+      },
+      {
+        "name": "poly:logo 003: Webapplikationen",
+        "href": "http://polylogo.org/3"
+      },
+      {
+        "name": "yepnope.js – A Feature-Test Based Loader For Your Polyfills! ",
+        "href": "https://github.com/SlexAxton/yepnope.js"
+      },
+      {
+        "name": "HTML5Boilerplate",
+        "href": "http://html5boilerplate.com/"
+      },
+      {
+        "name": "GPU-accelerated compositing in Chrome",
+        "href": "http://www.chromium.org/developers/design-documents/gpu-accelerated-compositing-in-chrome"
+      },
+      {
+        "name": "Sub-Pixel-genaue Positionierung von Schrift im IE9",
+        "href": "http://blogs.msdn.com/b/ie/archive/2010/11/03/sub-pixel-fonts-in-ie9.aspx"
+      },
+      {
+        "name": "Adobe’s enhancing WebKit for better typography",
+        "href": "http://blogs.adobe.com/jnack/2010/11/adobes-enhancing-webkit-for-better-typography.html"
+      },
+      {
+        "name": "jQSlickWrap",
+        "href": "http://code.google.com/p/jqslickwrap/"
+      },
+      {
+        "name": "hyphenator.js",
+        "href": "http://code.google.com/p/hyphenator/"
+      },
+      {
+        "name": "node-canvas: Canvas für node.js",
+        "href": "http://www.learnboost.com/introducing-node-canvas-server-side-html5-canvas-api/"
+      },
+      {
+        "name": "CRE167: node.js",
+        "href": "http://chaosradio.ccc.de/cre167.html"
+      }
+    ],
+    "news": [],
+    "links": [],
+    "randomSpec": []
+  },
+  "4": {
+    "episode": 4,
+    "topics": [
+      {
+        "name": "Sencha Touch 1.0",
+        "href": "http://www.sencha.com/products/touch/"
+      },
+      {
+        "name": "Turbine",
+        "href": "http://turbine.peterkroener.de/"
+      },
+      {
+        "name": "sass-lang",
+        "href": "http://sass-lang.com/"
+      },
+      {
+        "name": "Less CSS",
+        "href": "http://lesscss.org/"
+      },
+      {
+        "name": "Dead Code Elimination for Beginners",
+        "href": "http://blog.mozilla.com/rob-sayre/2010/11/17/dead-code-elimination-for-beginners/"
+      },
+      {
+        "name": "HTML-Validierungsdienst Validome wieder online",
+        "href": "http://www.heise.de/newsticker/meldung/HTML-Validierungsdienst-Validome-wieder-online-1139525.html"
+      },
+      {
+        "name": "Last Call des WOFF-Schriftformats",
+        "href": "http://www.w3.org/News/2010#entry-8956"
+      },
+      {
+        "name": "Impact.js",
+        "href": "http://impactjs.org/"
+      },
+      {
+        "name": "Akihabra",
+        "href": "http://www.kesiev.com/akihabara/"
+      },
+      {
+        "name": "Aves Engine",
+        "href": "http://www.golem.de/1004/74719.html"
+      },
+      {
+        "name": "Biolab Disaster",
+        "href": "http://www.phoboslab.org/biolab/"
+      }
+    ],
+    "news": [],
+    "links": [],
+    "randomSpec": []
+  },
+  "12": {
+    "episode": 12,
+    "topics": [
+      {
+        "name": "Peters HTML5-Buch",
+        "href": "https://www.opensourcepress.de/index.php?26&backPID=178&tt_products=318"
+      },
+      {
+        "name": "Eric Meyers CSS Reset 2.0",
+        "href": "http://meyerweb.com/eric/tools/css/reset/index.html"
+      },
+      {
+        "name": "CSS-Farbwert currentcolor",
+        "href": "http://nimbupani.com/current-color-in-css.html"
+      },
+      {
+        "name": "CSS3-Einheit für Schriften: rem",
+        "href": "http://www.w3.org/TR/css3-values/#relative0"
+      },
+      {
+        "name": "Firefox 4 will den Acid3-Test gar nicht bestehen",
+        "href": "http://limi.net/articles/firefox-acid3"
+      },
+      {
+        "name": "IE9 RC1",
+        "href": "http://babelfish.yahoo.com/translate_url?doit=done&tt=url&intl=1&fr=bf-home&trurl=http://winreview.ru/Brauzeri/928/Internet-Explorer-90080736010-WIN7-IE9-Partner110113-2300-&lp=ru_en&btnTrUrl=Translate"
+      },
+      {
+        "name": "Brendan Eich über seine Wunsch-Zukunft für JavaScript",
+        "href": "http://brendaneich.com/2011/01/harmony-of-my-dreams/"
+      }
+    ],
+    "news": [],
+    "links": [
+      {
+        "name": "Android 3.0 Platform Highlights",
+        "href": "http://developer.android.com/sdk/android-3.0-highlights.html"
+      },
+      {
+        "name": "Cocos2-javascript",
+        "href": "http://cocos2d-javascript.org/about"
+      }
+    ],
+    "randomSpec": []
+  }
+}

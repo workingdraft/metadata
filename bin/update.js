@@ -18,12 +18,18 @@ var tasks = (options.episodes || Object.keys(episodes)).map(function(id) {
   id = parseInt(id, 10);
   var episode = episodes[id];
   var content = contents[id];
+  var _included = options.episodes && options.episodes.indexOf(id) > -1;
   
-  if (!options.episodes && episode.href && content) {
+  if (episode.href && content && !_included) {
     // this episode has already been mapped, no need to repeat unless it was requested
     return true;
   }
   
+  if (!episode.date && !_included) {
+    // this episode can't be updated, as it hasn't been published yet
+    return true;
+  }
+    
   if (options.except && options.except.indexOf(id) > -1) {
     // this episode was excluded from the update
     return true;
