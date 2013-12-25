@@ -2,10 +2,7 @@
 
 module.exports = function(mandatory) {
   var options = {};
-  var parseIntArray = function(val) {
-    return parseInt(val, 10);
-  };
-  
+
   process.argv.slice(2).forEach(function (val, index, array) {
     if (val === '--limit') {
       options.limit = parseInt(array[index+1], 10);
@@ -16,7 +13,7 @@ module.exports = function(mandatory) {
       }
     }
     if (val === '--episode' || val === '--episodes') {
-      options.episodes = (array[index+1] + "").split(',').map(parseIntArray).filter(function(val){ return !isNaN(val) && !!val; });
+      options.episodes = (array[index+1] + "").split(',').map(Number).filter(function(val){ return !isNaN(val) && !!val; });
       if (!options.episodes.length) {
         console.error('invalid option --episodes ' + array[index+1]);
         console.error('consult --help for usage information');
