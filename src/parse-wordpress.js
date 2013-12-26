@@ -126,26 +126,34 @@ function definitionListTitles(list) {
 function analyzeList(list, title) {
   var titleSplit = splitTimedTitle(title);
   
+  function toObject(name, href, time) {
+    var data = {
+      name: name
+    };
+    
+    href && (data.href = href);
+    time && (data.time = time);
+    
+    return data;
+  }
+  
   if (list.is('dl')) {
     return definitionListTitles(list).map(function() {
       var split = splitTimedTitle(this);
-      var data = {
-        name: split.name,
-        href: sanitizeUrl(this.find('a').attr('href')),
-        time: split.time || titleSplit.time
-      };
-      
-      !data.href && delete data.href;
-      !data.time && delete data.time;
-      
-      return data;
+      return toObject(
+        split.name,
+        sanitizeUrl(this.find('a').attr('href')),
+        split.time || titleSplit.time
+      );
     });
   } else if (list.is('ul')) {
     return list.find('li a').map(function() {
-      return {
-        name: this.text(),
-        href: sanitizeUrl(this.attr('href'))
-      };
+      var split = splitTimedTitle(this.parent());
+      return toObject(
+        split.name,
+        sanitizeUrl(this.attr('href')),
+        split.time || titleSplit.time
+      );
     });
   }
   
