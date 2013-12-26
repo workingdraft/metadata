@@ -1,0 +1,97 @@
+{
+  "episode": 68,
+  "id": 68,
+  "date": "2012-04-30",
+  "duration": "00:59:21",
+  "live": true,
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Frederic Hemberger",
+      "twitter": "https://twitter.com/fhemberger"
+    }
+  ],
+  "href": "http://workingdraft.de/68/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1167/0/wd-68.mp3",
+  "topics": [
+    {
+      "name": "Kein Hot Pink mehr in der Boilerplate",
+      "href": "https://github.com/h5bp/html5-boilerplate/commit/1d320b59a390041f25cf87d790f6472a25a512ef",
+      "time": "00:00:20"
+    },
+    {
+      "name": "Grunt",
+      "href": "http://weblog.bocoup.com/introducing-grunt/",
+      "time": "00:08:14"
+    },
+    {
+      "name": "<dialog>",
+      "href": "http://dev.w3.org/html5/spec/commands.html#the-dialog-element",
+      "time": "00:18:17"
+    },
+    {
+      "name": "Mobile Testing",
+      "time": "00:28:44"
+    },
+    {
+      "name": "jQuery – The Little Things",
+      "href": "http://blog.rodneyrehm.de/archives/13-jQuery-The-Little-Things.html",
+      "time": "00:43:05"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Uberspace-Videotutorial",
+      "href": "https://gehaxelt.in/blog/ueberspace-einsteigervideo/",
+      "time": "00:49:34"
+    },
+    {
+      "name": "JavaScript Enlightment: Free PDF eBook",
+      "href": "http://javascriptenlightenment.com/",
+      "time": "00:49:34"
+    },
+    {
+      "name": "Miso Dataset",
+      "href": "http://misoproject.com/dataset/",
+      "time": "00:49:34"
+    },
+    {
+      "name": "BEM",
+      "href": "http://coding.smashingmagazine.com/2012/04/16/a-new-front-end-methodology-bem/",
+      "time": "00:49:34"
+    },
+    {
+      "name": "Modern Web Development, Part 1 – The Webkit Inspector",
+      "href": "http://jtaby.com/2012/04/23/modern-web-development-part-1.html",
+      "time": "00:49:34"
+    },
+    {
+      "name": "dGrid",
+      "href": "http://dojofoundation.org/packages/dgrid/",
+      "time": "00:49:34"
+    }
+  ],
+  "randomSpec": []
+}

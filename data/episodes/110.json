@@ -1,0 +1,83 @@
+{
+  "episode": 110,
+  "id": 110,
+  "date": "2013-12-25",
+  "duration": "00:37:28",
+  "live": true,
+  "people": [
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/110/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1838/0/wd-110.mp3",
+  "topics": [
+    {
+      "name": "Mobile Browser Performance",
+      "time": "00:01:56"
+    }
+  ],
+  "news": [
+    {
+      "name": "Internet Explorer 10 auf Windows 7",
+      "href": "http://blogs.msdn.com/b/ie/archive/2013/02/26/ie10-for-windows-7-globally-available-for-consumers-and-businesses.aspx",
+      "time": "00:00:11"
+    },
+    {
+      "name": "Intrinsic Dimensions",
+      "href": "http://dev.w3.org/csswg/css3-box/#the-width-and-height-properties",
+      "time": "00:00:11"
+    },
+    {
+      "name": "jQuery 2.0 beta2",
+      "href": "http://blog.jquery.com/2013/03/01/jquery-2-0-beta-2-released/",
+      "time": "00:00:11"
+    },
+    {
+      "name": "CoffeeScript 1.6.1",
+      "href": "http://coffeescript.org/",
+      "time": "00:00:11"
+    }
+  ],
+  "links": [
+    {
+      "name": "grunt-devtools",
+      "href": "https://github.com/vladikoff/grunt-devtools",
+      "time": "00:34:45"
+    },
+    {
+      "name": "WebKit for Developers",
+      "href": "http://paulirish.com/2013/webkit-for-developers/",
+      "time": "00:34:45"
+    },
+    {
+      "name": "Full-text search in your browser",
+      "href": "http://blog.new-bamboo.co.uk/2013/02/26/full-text-search-in-your-browser",
+      "time": "00:34:45"
+    },
+    {
+      "name": "Designing Better JavaScript APIs (Video)",
+      "href": "http://www.youtube.com/watch?v=53tdQeV_pOI",
+      "time": "00:34:45"
+    }
+  ],
+  "randomSpec": []
+}

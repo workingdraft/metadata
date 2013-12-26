@@ -1,0 +1,78 @@
+{
+  "episode": 22,
+  "id": 22,
+  "date": "2013-12-25",
+  "duration": "01:01:40",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Markus Schlegel",
+      "team": [
+        "2010-11-02",
+        "2011-11-08"
+      ],
+      "twitter": "https://twitter.com/markus_schlegel"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/22/",
+  "audio": "http://workingdraft.de/podpress_trac/web/490/0/wd-22.mp3",
+  "topics": [
+    {
+      "name": "Der Internet Explorer erscheint als Preview in Version 10",
+      "href": "http://blogs.msdn.com/b/ie/archive/2011/04/12/native-html5-first-ie10-platform-preview-available-for-download.aspx"
+    },
+    {
+      "name": "I for one welcome our micro-framework overlords",
+      "href": "http://mir.aculo.us/2011/04/11/i-for-one-welcome-our-new-micro-framework-overlords/"
+    },
+    {
+      "name": "Live.js",
+      "href": "http://livejs.com/"
+    },
+    {
+      "name": "Google Calendar bekommt ein neues Favicon",
+      "href": "http://gmailblog.blogspot.com/2011/04/5-years-of-google-calendar-and-new.html"
+    },
+    {
+      "name": "CSS-Gradient-Klick-Editor von Microsoft",
+      "href": "http://ie.microsoft.com/testdrive/Graphics/CSSGradientBackgroundMaker/Default.html"
+    },
+    {
+      "name": "jQuery.easie.js",
+      "href": "http://janne.aukia.com/easie/"
+    },
+    {
+      "name": "Bookmarklet-Creator",
+      "href": "http://chris.zarate.org/projects/bookmarkleter/"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Media-Query-Tester",
+      "href": "http://bueltge.de/test/media-query-tester.php"
+    },
+    {
+      "name": "confess.js",
+      "href": "https://github.com/jamesgpearce/confess"
+    },
+    {
+      "name": "CSS Stress Testing and Performance Profiling",
+      "href": "http://andy.edinborough.org/CSS-Stress-Testing-and-Performance-Profiling"
+    }
+  ],
+  "randomSpec": []
+}

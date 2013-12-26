@@ -1,0 +1,89 @@
+{
+  "episode": 112,
+  "id": 112,
+  "date": "2013-12-25",
+  "duration": "00:40:22",
+  "live": true,
+  "flags": [
+    "no-topics"
+  ],
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/112/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1853/0/wd-112.mp3",
+  "topics": [],
+  "news": [],
+  "links": [
+    {
+      "name": "Min-Content",
+      "href": "http://demosthenes.info/blog/662/Design-From-the-Inside-Out-With-CSS-MinContent",
+      "time": "00:34:28"
+    },
+    {
+      "name": "Vertical text with CSS 3 Writing Modes",
+      "href": "http://generatedcontent.org/post/45384206019/writing-modes",
+      "time": "00:34:28"
+    },
+    {
+      "name": "Shadow DOM 201: CSS and Styling – HTML5 Rocks",
+      "href": "http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-201/",
+      "time": "00:34:28"
+    },
+    {
+      "name": "Sublime Web Inspector",
+      "href": "http://sokolovstas.github.com/SublimeWebInspector/",
+      "time": "00:34:28"
+    },
+    {
+      "name": "Future of Firefox DevTools",
+      "href": "http://paulrouget.com/e/devtoolsnext/",
+      "time": "00:34:28"
+    },
+    {
+      "name": "Sublime Text 3 Compatible Packages",
+      "href": "https://github.com/wbond/sublime_package_control/wiki/Sublime-Text-3-Compatible-Packages",
+      "time": "00:34:28"
+    },
+    {
+      "name": "Awesome PHP Libraries",
+      "href": "https://gist.github.com/ziadoz/1677679",
+      "time": "00:34:28"
+    }
+  ],
+  "randomSpec": [
+    {
+      "name": "Event Sources",
+      "href": "http://www.w3.org/TR/eventsource/",
+      "time": "00:01:05"
+    },
+    {
+      "name": "Indeterminate Checkboxes",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/multipage/the-input-element.html#dom-input-indeterminate",
+      "time": "00:11:08"
+    },
+    {
+      "name": "async und defer",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/multipage/scripting-1.html#attr-script-async",
+      "time": "00:20:11"
+    },
+    {
+      "name": "Parsing HTML documents",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/multipage/parsing.html#parsing",
+      "time": "00:29:30"
+    }
+  ]
+}

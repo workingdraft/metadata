@@ -1,0 +1,107 @@
+{
+  "episode": 41,
+  "id": 41,
+  "date": "2011-09-27",
+  "duration": "01:18:01",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/41/",
+  "audio": "http://workingdraft.de/podpress_trac/web/793/0/wd-41.mp3",
+  "topics": [
+    {
+      "name": "setImmediate API",
+      "href": "http://ie.microsoft.com/testdrive/Performance/setImmediateSorting/Default.html",
+      "time": "00:00:26"
+    },
+    {
+      "name": "Exclusive preview of the hottest CSS specs",
+      "href": "http://www.netmagazine.com/features/exclusive-preview-hottest-css-specs",
+      "time": "00:11:03"
+    },
+    {
+      "name": "CSS Variables",
+      "href": "http://dev.w3.org/csswg/css-variables/",
+      "time": "00:25:15"
+    },
+    {
+      "name": "Die wahren Probleme von HTML5 Polyfills: HTML5 shim und das Ende des 3 Schichten-Modells (Teil 1)",
+      "href": "http://www.protofunc.com/2011/09/25/die-wahren-probleme-von-html5-polyfills-html5-shim-und-das-ende-des-3-schichten-modells-teil-1/",
+      "time": "00:36:55"
+    },
+    {
+      "name": "Datenschutztheater",
+      "href": "http://www.datenschutz-hamburg.de/news/detail/article/beanstandungsfreier-betrieb-von-google-analytics-ab-sofort-moeglich.html?tx_ttnews%5BbackPid%5D=170&cHash=09e1cbe956f62edb1e9f0386b4ca78f5",
+      "time": "00:52:30"
+    },
+    {
+      "name": "Beanstandungsfreier Betrieb von Google Analytics ab sofort möglich",
+      "href": "http://www.datenschutz-hamburg.de/news/detail/article/beanstandungsfreier-betrieb-von-google-analytics-ab-sofort-moeglich.html?tx_ttnews%5BbackPid%5D=170&cHash=09e1cbe956f62edb1e9f0386b4ca78f5",
+      "time": "00:55:55"
+    },
+    {
+      "name": "Kauder will Internet-Entzug",
+      "href": "Urheberrecht: Kauder will Internet-Entzug",
+      "time": "01:12:15"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Cubic Bezier",
+      "href": "http://cubic-bezier.com/#.17,.67,.83,.67",
+      "time": "01:14:21:000"
+    },
+    {
+      "name": "A Farewell to CSS3 Gradients",
+      "href": "http://designfestival.com/a-farewell-to-css3-gradients/",
+      "time": "01:14:21:000"
+    },
+    {
+      "name": "cwebgl – WebGL stack in javascript",
+      "href": "http://code.google.com/p/cwebgl/",
+      "time": "01:14:21:000"
+    },
+    {
+      "name": "HTML Muncher",
+      "href": "http://htmlmuncher.com/",
+      "time": "01:14:21:000"
+    },
+    {
+      "name": "ImageAlpha",
+      "href": "http://pngmini.com/",
+      "time": "01:14:21:000"
+    },
+    {
+      "name": "jquery.inview",
+      "href": "https://github.com/protonet/jquery.inview",
+      "time": "01:14:21:000"
+    },
+    {
+      "name": "Tinkerbin",
+      "href": "http://tinkerbin.com/",
+      "time": "01:14:21:000"
+    }
+  ],
+  "randomSpec": []
+}

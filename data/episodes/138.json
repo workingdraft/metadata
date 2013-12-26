@@ -1,0 +1,89 @@
+{
+  "episode": 138,
+  "id": 138,
+  "date": "2013-12-25",
+  "duration": "01:15:25",
+  "live": true,
+  "people": [
+    {
+      "name": "Jens Grochtdreis",
+      "twitter": "https://twitter.com/Flocke"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Matthias Mees",
+      "twitter": "https://twitter.com/yellowled"
+    }
+  ],
+  "href": "http://workingdraft.de/138/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2100/0/wd-138.mp3",
+  "topics": [
+    {
+      "name": "Content Management Systeme",
+      "time": "00:02:07"
+    }
+  ],
+  "news": [
+    {
+      "name": "jQuery 1.11 and 2.1 Beta 1 Released",
+      "href": "http://blog.jquery.com/2013/09/19/jquery-1-11-and-2-1-beta-1-released/",
+      "time": "00:00:45"
+    }
+  ],
+  "links": [
+    {
+      "name": "I can smell your CMS",
+      "href": "http://fronteers.nl/congres/2012/sessions/i-can-smell-your-cms-phil-hawksworth",
+      "time": "01:10:48"
+    },
+    {
+      "name": "Safari iOS7 – HTML5, Problems und APIs",
+      "href": "http://www.mobilexweb.com/blog/safari-ios7-html5-problems-apis-review",
+      "time": "01:10:48"
+    },
+    {
+      "name": "Complete Guide to the <table> element",
+      "href": "http://css-tricks.com/complete-guide-table-element/",
+      "time": "01:10:48"
+    },
+    {
+      "name": "Barrierefreie Datentabellen",
+      "href": "http://www.einfach-fuer-alle.de/artikel/barrierefreie-datentabellen/",
+      "time": "01:10:48"
+    },
+    {
+      "name": "Controlling CSS Animations/Transitions with JavaScript",
+      "href": "http://css-tricks.com/controlling-css-animations-transitions-javascript/",
+      "time": "01:10:48"
+    },
+    {
+      "name": "animo.js",
+      "href": "http://labs.bigroomstudios.com/libraries/animo-js",
+      "time": "01:10:48"
+    },
+    {
+      "name": "Fireshell",
+      "href": "http://getfireshell.com/",
+      "time": "01:10:48"
+    },
+    {
+      "name": "Sass Color Functions",
+      "href": "http://jackiebalzer.com/color",
+      "time": "01:10:48"
+    }
+  ],
+  "randomSpec": []
+}

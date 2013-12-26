@@ -1,0 +1,64 @@
+{
+  "episode": 59,
+  "id": 59,
+  "date": "2013-12-25",
+  "duration": "01:15:22",
+  "people": [
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/59/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1038/0/wd-59.mp3",
+  "topics": [
+    {
+      "name": "Mozilla Developer Network",
+      "href": "https://developer.mozilla.org/",
+      "time": "00:02:40"
+    },
+    {
+      "name": "Writing forward-compatible websites",
+      "href": "https://developer.mozilla.org/Writing_Forward_Compatible_Websites",
+      "time": "00:04:30"
+    },
+    {
+      "name": "& [01:06:55] Code Kit und Live Reload",
+      "href": "http://incident57.com/codekit/",
+      "time": "01:02:30"
+    },
+    {
+      "name": "Git Tower",
+      "href": "http://www.git-tower.com/",
+      "time": "01:04:25"
+    },
+    {
+      "name": "Sublime Text 2",
+      "href": "http://www.sublimetext.com/"
+    },
+    {
+      "name": "Gesammelte Erkenntnisse und Thesen"
+    }
+  ],
+  "news": [],
+  "links": [],
+  "randomSpec": []
+}

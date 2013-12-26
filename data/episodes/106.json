@@ -1,0 +1,97 @@
+{
+  "episode": 106,
+  "id": 106,
+  "date": "2013-12-25",
+  "duration": "00:48:59",
+  "live": true,
+  "people": [
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Frederic Hemberger",
+      "twitter": "https://twitter.com/fhemberger"
+    }
+  ],
+  "href": "http://workingdraft.de/106/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1798/0/wd-106.mp3",
+  "topics": [
+    {
+      "name": "modern.IE – Testing made easier in Internet Explorer",
+      "href": "http://www.modern.ie/",
+      "time": "00:01:49"
+    },
+    {
+      "name": "Balancing Text for better Readability",
+      "href": "http://blogs.adobe.com/webplatform/2013/01/30/balancing-text-for-better-readability/",
+      "time": "00:17:35"
+    },
+    {
+      "name": "Should You “Use Strict” in Your Production JavaScript?",
+      "href": "http://scriptogr.am/micmath/post/should-you-use-strict-in-your-production-javascript",
+      "time": "00:29:38"
+    }
+  ],
+  "news": [
+    {
+      "name": "Sublime Text 3 Beta",
+      "href": "http://www.sublimetext.com/blog/articles/sublime-text-3-beta",
+      "time": "00:00:29"
+    },
+    {
+      "name": "Flight",
+      "href": "http://twitter.github.com/flight/",
+      "time": "00:00:29"
+    }
+  ],
+  "links": [
+    {
+      "name": "Big JS-Compatibility-Table",
+      "href": "http://compatibility.shwups-cms.ch/de/home/",
+      "time": "00:42:44"
+    },
+    {
+      "name": "js-testing-boilerplates",
+      "href": "https://github.com/js-coder/js-testing-boilerplates",
+      "time": "00:42:44"
+    },
+    {
+      "name": "remoteStorage – An open protocol for per-user storage",
+      "href": "http://remotestorage.io/",
+      "time": "00:42:44"
+    },
+    {
+      "name": "HTML5-Apps mit Firefox OS",
+      "href": "http://icant.co.uk/talks/h5/appday.html",
+      "time": "00:42:44"
+    },
+    {
+      "name": "hint.css – styled tooltips without javascript",
+      "href": "http://kushagragour.in/lab/hint/",
+      "time": "00:42:44"
+    },
+    {
+      "name": "CSSConf",
+      "href": "http://cssconf.com/",
+      "time": "00:42:44"
+    },
+    {
+      "name": "Thema",
+      "href": "http://blog.chromium.org/2013/02/hello-firefox-this-is-chrome-calling.html",
+      "time": "00:42:44"
+    }
+  ],
+  "randomSpec": []
+}

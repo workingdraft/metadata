@@ -1,0 +1,108 @@
+{
+  "episode": 64,
+  "id": 64,
+  "date": "2013-12-25",
+  "duration": "01:12:49",
+  "live": true,
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Marc Thiele",
+      "twitter": "https://twitter.com/marcthiele"
+    }
+  ],
+  "href": "http://workingdraft.de/64/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1109/0/wd-64.mp3",
+  "topics": [
+    {
+      "name": "Introduction to JavaScript Source Maps",
+      "href": "http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/",
+      "time": "00:02:42"
+    },
+    {
+      "name": "Using event capturing to improve Basecamp page load times",
+      "href": "http://37signals.com/svn/posts/3137-using-event-capturing-to-improve-basecamp-page-load-times",
+      "time": "00:10:50"
+    },
+    {
+      "name": "About HTML semantics and front-end architecture",
+      "href": "http://nicolasgallagher.com/about-html-semantics-front-end-architecture/",
+      "time": "00:18:14"
+    },
+    {
+      "name": "[css4-images] The image-set() function (for responsive images)",
+      "href": "http://lists.w3.org/Archives/Public/www-style/2012Feb/1103.html",
+      "time": "00:32:43"
+    },
+    {
+      "name": "beyond tellerrand – play",
+      "href": "http://play12.beyondtellerrand.com/",
+      "time": "00:43:21"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Hammer.js – A javascript library for multi-touch gestures",
+      "href": "http://eightmedia.github.com/hammer.js/",
+      "time": "01:05:27"
+    },
+    {
+      "name": "CSS Gradient Editor",
+      "href": "http://glan.github.com/CSS-Patterns-Workbench/",
+      "time": "01:05:27"
+    },
+    {
+      "name": "Love Hotels and Unicode",
+      "href": "http://www.reigndesign.com/blog/love-hotels-and-unicode/",
+      "time": "01:05:27"
+    },
+    {
+      "name": "jSVG – An attempt to bring simple SVG Asset Management into modern browsers",
+      "href": "http://jsvg.swissamigos.com/",
+      "time": "01:05:27"
+    },
+    {
+      "name": "AliceJS – A Lightweight Independent CSS Engine",
+      "href": "http://blackberry.github.com/Alice/",
+      "time": "01:05:27"
+    },
+    {
+      "name": "backlift",
+      "href": "http://www.backlift.com/index.html",
+      "time": "01:05:27"
+    },
+    {
+      "name": "swagger",
+      "href": "http://swagger.wordnik.com/",
+      "time": "01:05:27"
+    },
+    {
+      "name": "BrowserQuest – a massively multiplayer HTML5 (WebSocket + Canvas) game experiment",
+      "href": "http://hacks.mozilla.org/2012/03/browserquest/",
+      "time": "01:05:27"
+    }
+  ],
+  "randomSpec": []
+}

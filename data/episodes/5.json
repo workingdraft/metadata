@@ -1,0 +1,61 @@
+{
+  "episode": 5,
+  "id": 5,
+  "date": "2010-11-30",
+  "duration": "00:50:28",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Markus Schlegel",
+      "team": [
+        "2010-11-02",
+        "2011-11-08"
+      ],
+      "twitter": "https://twitter.com/markus_schlegel"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/5/",
+  "audio": "http://workingdraft.de/podpress_trac/web/105/0/Revision5_-iOS-4.2-Opera-11-Web-Messaging-und-Kinect.mp3",
+  "topics": [
+    {
+      "name": "Safari on iOS 4.2",
+      "href": "http://www.mobilexweb.com/blog/safari-ios-accelerometer-websockets-html5"
+    },
+    {
+      "name": "This one goes to eleven!",
+      "href": "http://www.opera.com/browser/next/"
+    },
+    {
+      "name": "Technikwürze 146 unter anderem über Jetpack",
+      "href": "http://technikwuerze.de/podcast/technikwuerze146/"
+    },
+    {
+      "name": "Opera Mobile 10.1",
+      "href": "http://www.heise.de/newsticker/meldung/Opera-Mobile-10-1-mit-schneller-JavaScript-Engine-1141503.html"
+    },
+    {
+      "name": "W3C Working Draft der Web Messaging API",
+      "href": "http://www.w3.org/TR/2010/WD-webmessaging-20101118/"
+    },
+    {
+      "name": "DepthJS",
+      "href": "http://vimeo.com/17180651"
+    }
+  ],
+  "news": [],
+  "links": [],
+  "randomSpec": []
+}

@@ -1,0 +1,85 @@
+{
+  "episode": 73,
+  "id": 73,
+  "date": "2013-12-25",
+  "duration": "01:09:06",
+  "live": true,
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "twitter": "https://twitter.com/helloanselm"
+    }
+  ],
+  "href": "http://workingdraft.de/73/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1250/0/wd73.mp3",
+  "topics": [
+    {
+      "name": "Quota Management API",
+      "href": "http://dvcs.w3.org/hg/quota/raw-file/tip/Overview.html",
+      "time": "00:00:00"
+    },
+    {
+      "name": "CSS Compositing & Blending",
+      "href": "http://adobe.github.com/web-platform/demos/compositing/",
+      "time": "00:00:00"
+    },
+    {
+      "name": "CORS: Louis Rémi reicht’s nicht",
+      "href": "http://louisremi.com/2011/12/06/cors-an-insufficient-solution-for-same-origin-restrictions/",
+      "time": "00:00:00"
+    },
+    {
+      "name": "Die Responsive Images Story",
+      "href": "http://www.peterkroener.de/die-responsive-images-story/",
+      "time": "00:00:00"
+    },
+    {
+      "name": "Über die Smashing Conference",
+      "href": "http://getkirby.com/blog/smashingconf",
+      "time": "00:00:00"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Adobe Brackets: An Introduction",
+      "href": "http://www.youtube.com/watch?v=xirIHMtpc4c&feature=youtu.be",
+      "time": "00:00:00"
+    },
+    {
+      "name": "NUMBOO Magazin",
+      "href": "http://magazin.numboo.de/03/deckblatt/",
+      "time": "00:00:00"
+    },
+    {
+      "name": "CSS Flexbox Carousel",
+      "href": "http://www.andismith.com/blog/2012/05/css3-flexbox-carousel/",
+      "time": "00:00:00"
+    },
+    {
+      "name": "JavaScriptSQL",
+      "href": "http://javascriptsql.sourceforge.net/ARCH/en/index.html",
+      "time": "00:00:00"
+    },
+    {
+      "name": "Über fixe Positionierung und scrollen in iOS",
+      "href": "http://remysharp.com/2012/05/24/issues-with-position-fixed-scrolling-on-ios/",
+      "time": "00:00:00"
+    }
+  ],
+  "randomSpec": []
+}

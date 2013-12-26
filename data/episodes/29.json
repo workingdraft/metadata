@@ -1,0 +1,55 @@
+{
+  "episode": 29,
+  "id": 29,
+  "date": "2011-06-28",
+  "duration": "00:37:21",
+  "people": [
+    {
+      "name": "Markus Schlegel",
+      "team": [
+        "2010-11-02",
+        "2011-11-08"
+      ],
+      "twitter": "https://twitter.com/markus_schlegel"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/29/",
+  "audio": "http://workingdraft.de/podpress_trac/web/629/0/wd-29.mp3",
+  "topics": [
+    {
+      "name": "VisualSearch.js",
+      "href": "http://documentcloud.github.com/visualsearch/"
+    },
+    {
+      "name": "CDNjs.com",
+      "href": "http://www.cdnjs.com/#/search/"
+    },
+    {
+      "name": "Twitter promoted Tweets",
+      "href": "http://mashable.com/2011/06/23/twitter-promoted-tweets-timeline-2/"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "CSS Animation Keyframe Events",
+      "href": "http://functionsource.com/post/css-animation-keyframe-events"
+    },
+    {
+      "name": "Spritecow",
+      "href": "http://www.spritecow.com/"
+    },
+    {
+      "name": "Webfont Load Enhancer",
+      "href": "https://github.com/MichaelvanLaar/Webfont-Load-Enhancer"
+    }
+  ],
+  "randomSpec": []
+}

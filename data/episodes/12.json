@@ -1,0 +1,78 @@
+{
+  "episode": 12,
+  "id": 12,
+  "date": "2013-12-25",
+  "duration": "01:03:22",
+  "people": [
+    {
+      "name": "Tobias Oberrauch",
+      "xing": "https://www.xing.com/profiles/Tobias_Oberrauch"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Markus Schlegel",
+      "team": [
+        "2010-11-02",
+        "2011-11-08"
+      ],
+      "twitter": "https://twitter.com/markus_schlegel"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/12/",
+  "audio": "http://workingdraft.de/podpress_trac/web/279/0/wd-12.mp3",
+  "topics": [
+    {
+      "name": "Peters HTML5-Buch",
+      "href": "https://www.opensourcepress.de/index.php?26&backPID=178&tt_products=318"
+    },
+    {
+      "name": "Eric Meyers CSS Reset 2.0",
+      "href": "http://meyerweb.com/eric/tools/css/reset/index.html"
+    },
+    {
+      "name": "CSS-Farbwert currentcolor",
+      "href": "http://nimbupani.com/current-color-in-css.html"
+    },
+    {
+      "name": "CSS3-Einheit für Schriften: rem",
+      "href": "http://www.w3.org/TR/css3-values/#relative0"
+    },
+    {
+      "name": "Firefox 4 will den Acid3-Test gar nicht bestehen",
+      "href": "http://limi.net/articles/firefox-acid3"
+    },
+    {
+      "name": "IE9 RC1",
+      "href": "http://babelfish.yahoo.com/translate_url?doit=done&tt=url&intl=1&fr=bf-home&trurl=http://winreview.ru/Brauzeri/928/Internet-Explorer-90080736010-WIN7-IE9-Partner110113-2300-&lp=ru_en&btnTrUrl=Translate"
+    },
+    {
+      "name": "Brendan Eich über seine Wunsch-Zukunft für JavaScript",
+      "href": "http://brendaneich.com/2011/01/harmony-of-my-dreams/"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Android 3.0 Platform Highlights",
+      "href": "http://developer.android.com/sdk/android-3.0-highlights.html"
+    },
+    {
+      "name": "Cocos2-javascript",
+      "href": "http://cocos2d-javascript.org/about"
+    }
+  ],
+  "randomSpec": []
+}

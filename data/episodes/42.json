@@ -1,0 +1,87 @@
+{
+  "episode": 42,
+  "id": 42,
+  "date": "2013-12-25",
+  "duration": "01:20:02",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Markus Schlegel",
+      "team": [
+        "2010-11-02",
+        "2011-11-08"
+      ],
+      "twitter": "https://twitter.com/markus_schlegel"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/42/",
+  "audio": "http://workingdraft.de/podpress_trac/web/812/0/wd-42.mp3",
+  "topics": [
+    {
+      "name": "You may soon be developing for 76 browsers.",
+      "href": "http://paulirish.com/2011/browser-market-pollution-iex-is-the-new-ie6/",
+      "time": "00:00:44:000"
+    },
+    {
+      "name": "Web technologies need an owner",
+      "href": "http://joehewitt.com/2011/09/22/web-technologies-need-an-owner",
+      "time": "00:19:39:000"
+    },
+    {
+      "name": "SMACSS – A Scalable and Modular Architecture for CSS",
+      "href": "http://smacss.com/book/",
+      "time": "00:39:50:000"
+    },
+    {
+      "name": "CSS shaders",
+      "href": "https://dvcs.w3.org/hg/FXTF/raw-file/tip/custom/index.html",
+      "time": "00:54:42:000"
+    },
+    {
+      "name": "Ein Award",
+      "time": "01:04:50:000"
+    },
+    {
+      "name": "Multimediatreff in Köln",
+      "href": "http://www.multimediatreff.de/naechstestreffen.php",
+      "time": "01:09:05:000"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Stripe.com",
+      "href": "https://stripe.com/"
+    },
+    {
+      "name": "Peerbind",
+      "href": "http://peerbind.com/"
+    },
+    {
+      "name": "git-dude",
+      "href": "https://github.com/sickill/git-dude"
+    },
+    {
+      "name": "cdnplanet.com",
+      "href": "http://www.cdnplanet.com/"
+    },
+    {
+      "name": "Streetview mit jQuery",
+      "href": "http://www.netmagazine.com/tutorials/create-interactive-street-view-jquery"
+    }
+  ],
+  "randomSpec": []
+}

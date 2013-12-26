@@ -1,0 +1,98 @@
+{
+  "episode": 130,
+  "id": 130,
+  "date": "2013-12-25",
+  "duration": "01:02:14",
+  "live": true,
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Philipp Tarasiewicz",
+      "twitter": "https://twitter.com/justphilmusic"
+    },
+    {
+      "name": "Robin Böhm",
+      "twitter": "https://twitter.com/roobijn"
+    },
+    {
+      "name": "Sascha Brink",
+      "twitter": "https://twitter.com/sascha_brink"
+    }
+  ],
+  "href": "http://workingdraft.de/130/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2032/0/wd-130.mp3",
+  "topics": [
+    {
+      "name": "AngularJS",
+      "href": "http://angularjs.org/",
+      "time": "00:00:00"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "IE11 Developer Preview for Windows 7",
+      "href": "http://blogs.msdn.com/b/ie/archive/2013/07/25/ie11-developer-preview-for-windows-7-enabling-next-generation-sites-and-apps-faster.aspx",
+      "time": "00:53:18"
+    },
+    {
+      "name": "Bootstrap 3 RC1",
+      "href": "http://twbs.github.io/bootstrap/",
+      "time": "00:53:18"
+    },
+    {
+      "name": "Android and the eternal dying mobile browser",
+      "href": "http://www.mobilexweb.com/blog/android-browser-eternal-dying",
+      "time": "00:53:18"
+    },
+    {
+      "name": "On Mobile, Data URIs are 6x Slower than Source Linking",
+      "href": "http://www.mobify.com/blog/data-uris-are-slow-on-mobile/",
+      "time": "00:53:18"
+    },
+    {
+      "name": "Generators in v8",
+      "href": "http://wingolog.org/archives/2013/05/08/generators-in-v8",
+      "time": "00:53:18"
+    },
+    {
+      "name": "NerdyData",
+      "href": "http://nerdydata.com/",
+      "time": "00:53:18"
+    },
+    {
+      "name": "Top 10 Proactive Web Application Security Measures",
+      "href": "https://blog.whitehatsec.com/top-10-proactive-web-application-security-measures/#.Uf4goZI71zI",
+      "time": "00:53:18"
+    },
+    {
+      "name": "Thinkster – A better way to learn AngularJS",
+      "href": "http://www.thinkster.io/",
+      "time": "00:53:18"
+    },
+    {
+      "name": "jspm.io",
+      "href": "http://jspm.io/",
+      "time": "00:53:18"
+    },
+    {
+      "name": "AngularJS.de – Das deutsche Portal zu AngularJS",
+      "href": "http://angularjs.de/",
+      "time": "00:53:18"
+    }
+  ],
+  "randomSpec": []
+}

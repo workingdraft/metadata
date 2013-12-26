@@ -1,0 +1,90 @@
+{
+  "episode": 95,
+  "id": 95,
+  "date": "2013-12-25",
+  "duration": "01:30:41",
+  "live": true,
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Marco Zehe",
+      "twitter": "https://twitter.com/marcozehe"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    }
+  ],
+  "href": "http://workingdraft.de/95/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1607/0/wd-95.mp3",
+  "topics": [
+    {
+      "name": "The Vanilla Web Diet",
+      "href": "http://christianheilmann.com/2012/10/30/book-idea-the-vanilla-web-diet/",
+      "time": "00:00:58"
+    },
+    {
+      "name": "Accessibility – what is it good for?",
+      "href": "http://www.marcozehe.de/2012/10/22/accessibility-what-is-it-good-for/",
+      "time": "00:24:32"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Web Development for Windows Phone",
+      "href": "http://msdn.microsoft.com/en-us/library/windowsphone/develop/ff462082%28v=vs.105%29.aspx",
+      "time": "01:23:25"
+    },
+    {
+      "name": "Device screen resultions ordered by OS",
+      "href": "http://generatedcontent.org/post/34217358607/deviceresolution",
+      "time": "01:23:25"
+    },
+    {
+      "name": "Learn CSS Layout",
+      "href": "http://learnlayout.com/",
+      "time": "01:23:25"
+    },
+    {
+      "name": "A new Mobile UX Design Material",
+      "href": "http://uxdesign.smashingmagazine.com/2012/10/30/motion-animation-new-mobile-ux-design-material/",
+      "time": "01:23:25"
+    },
+    {
+      "name": "Sly",
+      "href": "http://darsa.in/sly/",
+      "time": "01:23:25"
+    },
+    {
+      "name": "localStorageDB",
+      "href": "http://kailashnadh.name/code/localstoragedb/",
+      "time": "01:23:25"
+    },
+    {
+      "name": "Lawnchair",
+      "href": "http://brian.io/lawnchair/",
+      "time": "01:23:25"
+    },
+    {
+      "name": "The Rule Of Three",
+      "href": "http://lostechies.com/derickbailey/2012/10/31/abstraction-the-rule-of-three/",
+      "time": "01:23:25"
+    },
+    {
+      "name": "Writing Fast, Memory-Efficient Javascript",
+      "href": "http://coding.smashingmagazine.com/2012/11/05/writing-fast-memory-efficient-javascript/",
+      "time": "01:23:25"
+    }
+  ],
+  "randomSpec": []
+}

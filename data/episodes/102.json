@@ -1,0 +1,114 @@
+{
+  "episode": 102,
+  "id": 102,
+  "date": "2013-12-25",
+  "duration": "01:20:00",
+  "live": true,
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/102/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1737/0/wd-102.mp3",
+  "topics": [
+    {
+      "name": "HTML5 Bones",
+      "href": "http://html5bones.com/",
+      "time": "00:00:22"
+    },
+    {
+      "name": "Progressive jpegs: a new best practice",
+      "href": "http://calendar.perfplanet.com/2012/progressive-jpegs-a-new-best-practice/",
+      "time": "00:17:06"
+    },
+    {
+      "name": "JS Developer Survey",
+      "href": "http://dailyjs.com/2012/12/24/javascript-survey-results/",
+      "time": "00:27:50"
+    },
+    {
+      "name": "Starting an Open Source Project",
+      "href": "http://coding.smashingmagazine.com/2013/01/03/starting-open-source-project/",
+      "time": "00:56:06"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Why moving elements with translate() is better than pos:abs top/left",
+      "href": "http://paulirish.com/2012/why-moving-elements-with-translate-is-better-than-posabs-topleft/",
+      "time": "01:11:59"
+    },
+    {
+      "name": "Web Browser Compatibility Tables",
+      "href": "http://webbrowsercompatibility.com/",
+      "time": "01:11:59"
+    },
+    {
+      "name": "Socrates Online Markdown Editor",
+      "href": "http://socrates.io/",
+      "time": "01:11:59"
+    },
+    {
+      "name": "Giving Content Priority with CSS3 Grid Layout",
+      "href": "http://24ways.org/2012/css3-grid-layout/",
+      "time": "01:11:59"
+    },
+    {
+      "name": "FineUploader",
+      "href": "http://fineuploader.com/",
+      "time": "01:11:59"
+    },
+    {
+      "name": "The Future of Javascript – a CoffeeScript like workflow",
+      "href": "http://www.2ality.com/2012/12/es6-workflow.html",
+      "time": "01:11:59"
+    },
+    {
+      "name": "Interactive Guide to Web Typography",
+      "href": "http://kaikkonendesign.fi/typography/",
+      "time": "01:11:59"
+    },
+    {
+      "name": "Top 20 Web Dev Talks of 2012",
+      "href": "http://www.netmagazine.com/features/top-20-web-conference-talks-2012",
+      "time": "01:11:59"
+    },
+    {
+      "name": "When I first heard the name “Safari”",
+      "time": "01:11:59"
+    },
+    {
+      "name": "Web Platform Doc Sprint Berlin",
+      "href": "http://web-platform-doc-sprint-berlin.eventbrite.com/",
+      "time": "01:11:59"
+    }
+  ],
+  "randomSpec": []
+}

@@ -1,0 +1,80 @@
+{
+  "episode": 141,
+  "id": 141,
+  "date": "2013-12-25",
+  "duration": "00:50:47",
+  "live": true,
+  "people": [
+    {
+      "name": "Ole Michaelis",
+      "twitter": "https://twitter.com/codestars"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/141/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2126/0/wd-141.mp3",
+  "topics": [
+    {
+      "name": "DevOps",
+      "time": "00:00:57"
+    },
+    {
+      "name": "Statische Seiten",
+      "time": "00:22:40"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Javascript Modules, AMD, and the road ahead.",
+      "href": "http://yahooeng.tumblr.com/post/62383009835/javascript-modules-amd-and-the-road-ahead",
+      "time": "00:46:31"
+    },
+    {
+      "name": "Getting Started With Web Components and polymer.js",
+      "href": "http://4waisenkinder.de/blog/2013/09/21/getting-started-with-web-components-and-polymer-dot-js/",
+      "time": "00:46:31"
+    },
+    {
+      "name": "Internet Explorer, Blob URLs, Web Workers, die Same Origin Policy und der IE-Bugtracker",
+      "href": "http://www.peterkroener.de/internet-explorer-blob-urls-web-workers-die-same-origin-policy-und-der-ie-bugtracker/",
+      "time": "00:46:31"
+    },
+    {
+      "name": "StahlstadtJS",
+      "href": "http://www.meetup.com/stahlstadt-js/",
+      "time": "00:46:31"
+    },
+    {
+      "name": "JSunconference",
+      "href": "http://2014.jsunconf.eu/",
+      "time": "00:46:31"
+    }
+  ],
+  "randomSpec": [
+    {
+      "name": "Outline-Algorithmus",
+      "time": "00:38:33"
+    }
+  ]
+}

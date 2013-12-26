@@ -1,0 +1,84 @@
+{
+  "episode": 87,
+  "id": 87,
+  "date": "2013-12-25",
+  "duration": "00:38:30",
+  "live": true,
+  "people": [
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    }
+  ],
+  "href": "http://workingdraft.de/87/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1475/0/wd87.mp3",
+  "topics": [
+    {
+      "name": "Stick your landings! position: sticky lands in WebKit – HTML5Rocks Updates",
+      "href": "http://updates.html5rocks.com/2012/08/Stick-your-landings-position-sticky-lands-in-WebKit",
+      "time": "00:01:14"
+    },
+    {
+      "name": "visionmedia/rework",
+      "href": "https://github.com/visionmedia/rework",
+      "time": "00:12:20"
+    },
+    {
+      "name": "rstacruz/css-condense",
+      "href": "https://github.com/rstacruz/css-condense",
+      "time": "00:22:49"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Heatfilter",
+      "href": "https://github.com/qfox/Heatfiler",
+      "time": "00:31:20"
+    },
+    {
+      "name": "Domvas. Print DOM Elements in Canvas",
+      "href": "http://paulbakaus.com/2012/08/30/painting-the-dom-to-canvas-with-domvas/",
+      "time": "00:31:20"
+    },
+    {
+      "name": "jQuery Conf 2012 Videos",
+      "href": "http://confreaks.com/events/jqcon2012",
+      "time": "00:31:20"
+    },
+    {
+      "name": "A Front-End Manifesto",
+      "href": "http://f2em.com/",
+      "time": "00:31:20"
+    },
+    {
+      "name": "Railsgirls: Cologne 28-29th September 2012",
+      "href": "http://railsgirls.com/cologne",
+      "time": "00:31:20"
+    },
+    {
+      "name": "NodeCopter",
+      "href": "http://nodecopter.com/",
+      "time": "00:31:20"
+    }
+  ],
+  "randomSpec": []
+}

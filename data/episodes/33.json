@@ -1,0 +1,59 @@
+{
+  "episode": 33,
+  "id": 33,
+  "date": "2011-07-26",
+  "duration": "01:09:50",
+  "people": [
+    {
+      "name": "Markus Schlegel",
+      "team": [
+        "2010-11-02",
+        "2011-11-08"
+      ],
+      "twitter": "https://twitter.com/markus_schlegel"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/33/",
+  "audio": "http://workingdraft.de/podpress_trac/web/684/0/wd-33.mp3",
+  "topics": [
+    {
+      "name": "Safari 5.1",
+      "href": "http://www.apple.com/de/safari/whats-new.html",
+      "time": "00:00:43:000"
+    },
+    {
+      "name": "Uberspace.de",
+      "href": "https://uberspace.de/",
+      "time": "00:22:23:000"
+    },
+    {
+      "name": "MDN Search",
+      "href": "https://chrome.google.com/webstore/detail/dcigbgdcdfockaomfcmpobjjnnbfpiin",
+      "time": "00:35:14:000"
+    },
+    {
+      "name": "EU-Cookie-FAQ",
+      "href": "http://networkedblogs.com/ki8cb",
+      "time": "00:46:24:000"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "responsivepx.com",
+      "href": "http://responsivepx.com/"
+    },
+    {
+      "name": "Noch mehr Polyfills",
+      "href": "https://github.com/remy/polyfills"
+    }
+  ],
+  "randomSpec": []
+}

@@ -1,0 +1,96 @@
+{
+  "episode": 108,
+  "id": 108,
+  "date": "2013-12-25",
+  "duration": "00:47:52",
+  "live": true,
+  "people": [
+    {
+      "name": "asciidisco",
+      "twitter": "https://twitter.com/asciidisco"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    }
+  ],
+  "href": "http://workingdraft.de/108/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1816/0/wd-108.mp3",
+  "topics": [
+    {
+      "name": "asm.js",
+      "href": "http://asmjs.org/spec/latest/",
+      "time": "00:01:53"
+    },
+    {
+      "name": "UA Sniffing",
+      "href": "https://plus.google.com/104906919451670502090/posts/hUVziQApKtJ",
+      "time": "00:15:02"
+    },
+    {
+      "name": "Opera wechselt zu WebKit",
+      "href": "http://my.opera.com/ODIN/blog/300-million-users-and-move-to-webkit",
+      "time": "00:25:31"
+    }
+  ],
+  "news": [
+    {
+      "name": "Adobe Edge Relow",
+      "href": "http://www.golem.de/news/edge-reflow-html5-tool-fuer-responsive-webdesign-von-adobe-1302-97610.html",
+      "time": "00:00:22"
+    },
+    {
+      "name": "Grunt 0.4.0 veröffentlich",
+      "href": "http://gruntjs.com/blog/2013-02-18-grunt-0.4.0-released",
+      "time": "00:00:22"
+    }
+  ],
+  "links": [
+    {
+      "name": "Edge Conference – Videos",
+      "href": "http://www.youtube.com/playlist?list=PLNYkxOF6rcICCU_UD67Ga0qLvMjnBBwft",
+      "time": "00:40:45"
+    },
+    {
+      "name": "Screensharing with getUserMedia",
+      "href": "https://plus.google.com/118075919496626375791/posts/7U9fkCRM4SM",
+      "time": "00:40:45"
+    },
+    {
+      "name": "Dialogboxen und a11y",
+      "href": "http://www.nczonline.net/blog/2013/02/12/making-an-accessible-dialog-box/",
+      "time": "00:40:45"
+    },
+    {
+      "name": "Distilled Hype sucht Nachwuchs",
+      "href": "https://twitter.com/distilledhype/status/302769351654768640",
+      "time": "00:40:45"
+    },
+    {
+      "name": "Flexbox richtig gemacht",
+      "href": "http://css-tricks.com/using-flexbox/",
+      "time": "00:40:45"
+    },
+    {
+      "name": "Textillate",
+      "href": "http://jschr.github.com/textillate/",
+      "time": "00:40:45"
+    },
+    {
+      "name": "Lazy Line Painter",
+      "href": "http://lazylinepainter.info/",
+      "time": "00:40:45"
+    }
+  ],
+  "randomSpec": []
+}

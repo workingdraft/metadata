@@ -1,0 +1,85 @@
+{
+  "episode": 128,
+  "id": 128,
+  "date": "2013-12-25",
+  "duration": "01:18:56",
+  "live": true,
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    },
+    {
+      "name": "Sebastian Deutsch",
+      "twitter": "https://twitter.com/sippndipp"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    },
+    {
+      "name": "Jan Monschke",
+      "twitter": "https://twitter.com/thedeftone"
+    }
+  ],
+  "href": "http://workingdraft.de/128/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2014/0/wd-128.mp3",
+  "topics": [
+    {
+      "name": "The Battle of CoffeeScript Hill",
+      "time": "00:00:36"
+    },
+    {
+      "name": "Why mobile web-apps are slow",
+      "href": "http://sealedabstract.com/rants/why-mobile-web-apps-are-slow/",
+      "time": "00:50:48"
+    },
+    {
+      "name": "Modular HTML components with RequireJS",
+      "href": "http://simonsmith.io/modular-html-components-with-requirejs/",
+      "time": "01:10:36"
+    }
+  ],
+  "news": [
+    {
+      "name": "Audio-APIs landen im Firefox",
+      "time": "00:00:10"
+    }
+  ],
+  "links": [
+    {
+      "name": "Sublime Worksheet",
+      "href": "https://github.com/jcartledge/sublime-worksheet",
+      "time": "01:14:18"
+    },
+    {
+      "name": "Grunt: LiveReload reloaded",
+      "href": "http://yellowled.de/archiv/43/Grunt-LiveReload-reloaded.html",
+      "time": "01:14:18"
+    },
+    {
+      "name": "Animating lists with CSS 3 transitions",
+      "href": "http://blog.stevensanderson.com/2013/03/15/animating-lists-with-css-3-transitions/",
+      "time": "01:14:18"
+    },
+    {
+      "name": "Devs Meetup in Freiburg: Funktionale Programmierung",
+      "href": "http://devsmeetup.de/",
+      "time": "01:14:18"
+    }
+  ],
+  "randomSpec": []
+}

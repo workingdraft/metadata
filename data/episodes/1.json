@@ -1,0 +1,82 @@
+{
+  "episode": 1,
+  "id": 1,
+  "date": "2013-12-25",
+  "duration": "00:57:46",
+  "people": [
+    {
+      "name": "Markus Schlegel",
+      "team": [
+        "2010-11-02",
+        "2011-11-08"
+      ],
+      "twitter": "https://twitter.com/markus_schlegel"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/1/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1/0/Revision1_-Sencha-Animator-Webfernsehen-und-Firesheep.mp3",
+  "topics": [
+    {
+      "name": "Microsoft: „Our Strategy with Silverlight has shifted.“",
+      "href": "http://www.zdnet.com/blog/microsoft/microsoft-our-strategy-with-silverlight-has-shifted/7834"
+    },
+    {
+      "name": "Sencha CSS-Animator",
+      "href": "http://www.sencha.com/products/animator/"
+    },
+    {
+      "name": "Adobe: Export fla files to html",
+      "href": "http://www.youtube.com/watch?v=ryZP00_KhYE"
+    },
+    {
+      "name": "Vimeo Couch Mode",
+      "href": "http://vimeo.com/couchmode"
+    },
+    {
+      "name": "Youtube Lean Back",
+      "href": "http://youtube.com/leanback"
+    },
+    {
+      "name": "Google WebFont Loader",
+      "href": "http://code.google.com/intl/de-DE/apis/webfonts/docs/webfont_loader.html"
+    },
+    {
+      "name": "Facebook Open Graph: XML-Meta-Tags",
+      "href": "http://www.blog.tocki.de/2010-10-21/facebook-open-graph-meta-tags-header/"
+    },
+    {
+      "name": "Audio-API Demo",
+      "href": "http://hacks.mozilla.org/2010/10/audio-data-api-audio-generation-demo/"
+    },
+    {
+      "name": "JavaScript Stacktraces",
+      "href": "http://github.com/emwendelin/javascript-stacktrace"
+    },
+    {
+      "name": "Firefox-Plugin: Firesheep",
+      "href": "http://codebutler.com/firesheep"
+    },
+    {
+      "name": "HTTPS Everywhere",
+      "href": "https://www.eff.org/https-everywhere"
+    },
+    {
+      "name": "HTTP cookies, or how not to design protocols",
+      "href": "http://lcamtuf.blogspot.com/2010/10/http-cookies-or-how-not-to-design.html"
+    },
+    {
+      "name": "Mozilla: „No kill switch for Firesheep addon“",
+      "href": "http://www.computerworld.com/s/article/9193420/Mozilla_No_kill_switch_for_Firesheep_add_on"
+    }
+  ],
+  "news": [],
+  "links": [],
+  "randomSpec": []
+}

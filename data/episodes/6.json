@@ -1,0 +1,62 @@
+{
+  "episode": 6,
+  "id": 6,
+  "date": "2013-12-25",
+  "duration": "01:02:51",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Markus Schlegel",
+      "team": [
+        "2010-11-02",
+        "2011-11-08"
+      ],
+      "twitter": "https://twitter.com/markus_schlegel"
+    }
+  ],
+  "href": "http://workingdraft.de/6/",
+  "audio": "http://workingdraft.de/podpress_trac/web/130/0/Revision-6_-Firebug-1.6-head.js-Adventskalender-und-alle-sind-krank.mp3",
+  "topics": [
+    {
+      "name": "Google Chrome 8",
+      "href": "http://googlechromereleases.blogspot.com/"
+    },
+    {
+      "name": "Firebug 1.6",
+      "href": "http://getfirebug.com/wiki/index.php/Firebug_Release_Notes#Firebug_1.6"
+    },
+    {
+      "name": "head.js",
+      "href": "http://headjs.com/"
+    },
+    {
+      "name": "Water under Ice",
+      "href": "https://github.com/thirtysixthspan/waterunderice"
+    },
+    {
+      "name": "Webkrauts-Adventskalender: Löschen ist keine Lösung",
+      "href": "http://www.webkrauts.de/2010/12/02/loeschen-ist-keine-loesung/"
+    },
+    {
+      "name": "calendar.perfplanet.com",
+      "href": "http://calendar.perfplanet.com/2010/"
+    },
+    {
+      "name": "24ways",
+      "href": "http://24ways.org"
+    },
+    {
+      "name": "17 Fragen zum JMStV",
+      "href": "http://t3n.de/news/neuer-jmstv-286977/"
+    }
+  ],
+  "news": [],
+  "links": [],
+  "randomSpec": []
+}

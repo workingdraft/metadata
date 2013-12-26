@@ -1,0 +1,97 @@
+{
+  "episode": 80,
+  "id": 80,
+  "date": "2013-12-25",
+  "duration": "00:53:25",
+  "live": true,
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    }
+  ],
+  "href": "http://workingdraft.de/80/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1365/0/wd-80.mp3",
+  "topics": [
+    {
+      "name": "styles.max.css",
+      "href": "http://daneden.me/max-css/",
+      "time": "00:00:39"
+    },
+    {
+      "name": "It’s time to stop blaming Internet Explorer",
+      "href": "http://www.nczonline.net/blog/2012/07/11/its-time-to-stop-blaming-internet-explorer/",
+      "time": "00:12:40"
+    },
+    {
+      "name": "box-decoration-break in Anmarsch",
+      "href": "http://bricss.net/post/24672339016/box-decoration-break-finally-coming-to-more-browsers",
+      "time": "00:22:06"
+    },
+    {
+      "name": "X-tag – reduce your html",
+      "href": "http://weblog.latte.ca/blake/employment/mozilla/x-tags.html",
+      "time": "00:40:22"
+    }
+  ],
+  "news": [
+    {
+      "name": "getUserMedia() ist in Firefox gelandet",
+      "href": "https://hacks.mozilla.org/2012/07/getusermedia-is-ready-to-roll/",
+      "time": "00:00:15"
+    }
+  ],
+  "links": [
+    {
+      "name": "Moqup",
+      "href": "https://moqups.com/",
+      "time": "00:49:48"
+    },
+    {
+      "name": "Avoiding Faux Weights And Styles With Google Web Fonts",
+      "href": "http://www.smashingmagazine.com/2012/07/11/avoiding-faux-weights-styles-google-web-fonts/",
+      "time": "00:49:48"
+    },
+    {
+      "name": "CSS Parser",
+      "href": "http://www.xanthir.com/blog/b4Ju0",
+      "time": "00:49:48"
+    },
+    {
+      "name": "DailyJS: JS101: The Function Constructor",
+      "href": "http://dailyjs.com/2012/07/09/function-2/",
+      "time": "00:49:48"
+    },
+    {
+      "name": "JSConf.US 2012 Videos",
+      "href": "http://2012.jsconf.us/",
+      "time": "00:49:48"
+    }
+  ],
+  "randomSpec": []
+}

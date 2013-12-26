@@ -1,0 +1,79 @@
+{
+  "episode": 45,
+  "id": 45,
+  "date": "2013-12-25",
+  "duration": "01:16:39",
+  "people": [
+    {
+      "name": "Marc Hinse",
+      "twitter": "https://twitter.com/MadeMyDay"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    }
+  ],
+  "href": "http://workingdraft.de/45/",
+  "audio": "http://workingdraft.de/podpress_trac/web/856/0/wd-45.mp3",
+  "topics": [
+    {
+      "name": "Broadway: An H.264 Decoder in JavaScript Running at 30fps",
+      "href": "http://badassjs.com/post/12035631618/broadway-an-h-264-decoder-in-javascript-running-at",
+      "time": "00:00:50"
+    },
+    {
+      "name": "WHATWG Weekly: Now it’s <time> for <data>",
+      "href": "http://blog.whatwg.org/weekly-time-data",
+      "time": "00:08:40"
+    },
+    {
+      "name": "Announcing the jQuery Standards Team",
+      "href": "http://blog.jquery.com/2011/10/24/announcing-the-jquery-standards-team/",
+      "time": "00:24:10"
+    },
+    {
+      "name": "Displaying hidden elements like <head> using CSS",
+      "href": "http://mathiasbynens.be/notes/css-hidden-elements",
+      "time": "00:34:55"
+    },
+    {
+      "name": "Umatchedstyle CSSOff",
+      "href": "http://www.unmatchedstyle.com/cssoff/",
+      "time": "00:49:44"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "The Node Toolbox",
+      "href": "http://toolbox.no.de/",
+      "time": "01:12:05"
+    },
+    {
+      "name": "Vimeo Musicstore",
+      "href": "http://vimeo.com/musicstore",
+      "time": "01:12:05"
+    },
+    {
+      "name": "Useful Coding Tools and JavaScript Libraries For Web Developers",
+      "href": "http://www.smashingmagazine.com/2011/10/28/useful-coding-workflow-tools-for-web-designers-developers/",
+      "time": "01:12:05"
+    },
+    {
+      "name": "Animatable: A CSS transitions gallery",
+      "href": "http://lea.verou.me/2011/10/animatable-a-css-transitions-gallery/",
+      "time": "01:12:05"
+    }
+  ],
+  "randomSpec": []
+}

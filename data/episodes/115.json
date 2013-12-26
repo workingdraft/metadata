@@ -1,0 +1,121 @@
+{
+  "episode": 115,
+  "id": 115,
+  "date": "2013-12-25",
+  "duration": "00:55:23",
+  "live": true,
+  "people": [
+    {
+      "name": "Marc Hinse",
+      "twitter": "https://twitter.com/MadeMyDay"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    }
+  ],
+  "href": "http://workingdraft.de/115/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1886/0/wd-115.mp3",
+  "topics": [
+    {
+      "name": "Blink",
+      "time": "00:01:29"
+    },
+    {
+      "name": "Servo",
+      "href": "https://blog.mozilla.org/blog/2013/04/03/mozilla-and-samsung-collaborate-on-next-generation-web-browser-engine/",
+      "time": "00:17:25"
+    },
+    {
+      "name": "Media Queries are a hack",
+      "href": "http://ianstormtaylor.com/media-queries-are-a-hack/",
+      "time": "00:20:55"
+    },
+    {
+      "name": "Responsive Deliverables",
+      "href": "http://daverupert.com/2013/04/responsive-deliverables/",
+      "time": "00:29:09"
+    },
+    {
+      "name": "New save symbol needed?",
+      "href": "http://branch.com/b/redesigning-the-save-symbol-let-s-do-this",
+      "time": "00:31:27"
+    }
+  ],
+  "news": [
+    {
+      "name": "<hgroup> kommt weg",
+      "href": "http://lists.w3.org/Archives/Public/public-html-admin/2013Apr/0003.html",
+      "time": "00:00:20"
+    }
+  ],
+  "links": [
+    {
+      "name": "Media Queries in SVG images – Cloud Four Blog",
+      "href": "http://blog.cloudfour.com/media-queries-in-svg-images/",
+      "time": "00:46:48"
+    },
+    {
+      "name": "<learning class='always'>...",
+      "href": "http://blog.whydoifollow.com/post/angularjs-where-to-start",
+      "time": "00:46:48"
+    },
+    {
+      "name": "10 tips for designing localised interfaces",
+      "href": "http://www.netmagazine.com/features/10-tips-designing-localised-interfaces",
+      "time": "00:46:48"
+    },
+    {
+      "name": "How To Sell The Value Of Mobile To Clients",
+      "href": "http://www.smashingmagazine.com/2013/04/05/how-to-sell-the-value-of-mobile-to-clients/",
+      "time": "00:46:48"
+    },
+    {
+      "name": "Annotate your code",
+      "href": "https://trello.com/card/paul-lewis-google-annotate-your-code-gain-insightsup/515b37273df03b734b006048/7",
+      "time": "00:46:48"
+    },
+    {
+      "name": "Page weight grows 24% year-over-year (not 44%)",
+      "href": "http://www.stevesouders.com/blog/2013/04/05/page-weight-grows-24-year-over-year-not-44/",
+      "time": "00:46:48"
+    },
+    {
+      "name": "datalist experiment",
+      "href": "http://demo.agektmr.com/datalist/",
+      "time": "00:46:48"
+    },
+    {
+      "name": "[Job] Interaction Designer",
+      "href": "https://www.google.com/about/jobs/search/#!t=jo&jid=290002",
+      "time": "00:46:48"
+    },
+    {
+      "name": "[Job] Developer Evangelist",
+      "href": "http://www.mailjet.com/jobs/dev-evangelist-london-or-germany,13.htm",
+      "time": "00:46:48"
+    },
+    {
+      "name": "[Job] Junior Mobile Web Developer",
+      "href": "http://www.dasauge.de/jobs/stellenangebote/fest/e229111",
+      "time": "00:46:48"
+    }
+  ],
+  "randomSpec": [
+    {
+      "name": "CDATA sections",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/#syntax-cdata",
+      "time": "00:42:53"
+    }
+  ]
+}

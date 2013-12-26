@@ -1,0 +1,89 @@
+{
+  "episode": 92,
+  "id": 92,
+  "date": "2013-12-25",
+  "duration": "01:19:25",
+  "live": true,
+  "people": [
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Dirk Jesse",
+      "twitter": "https://twitter.com/djesse"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/92/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1550/0/wd-92.mp3",
+  "topics": [
+    {
+      "name": "Firefox 16",
+      "href": "http://www.mozilla.org/en-US/firefox/16.0/releasenotes/",
+      "time": "00:00:49"
+    },
+    {
+      "name": "Thinkin’ Tags",
+      "href": "http://www.thinkintags.com",
+      "time": "00:18:39"
+    },
+    {
+      "name": "Using the HTML5 Fullscreen API for Phishing Attacks",
+      "href": "http://feross.org/html5-fullscreen-api-attack/",
+      "time": "00:55:22"
+    }
+  ],
+  "news": [
+    {
+      "name": "jQuery UI 1.9 ist da",
+      "href": "http://blog.jqueryui.com/2012/10/jquery-ui-1-9-0/",
+      "time": "00:00:21"
+    }
+  ],
+  "links": [
+    {
+      "name": "Understanding Javascript OOP",
+      "href": "http://killdream.github.com/blog/2011/10/understanding-javascript-oop/",
+      "time": "01:15:07"
+    },
+    {
+      "name": "Exploring FlexBox",
+      "href": "http://demo.agektmr.com/flexbox/",
+      "time": "01:15:07"
+    },
+    {
+      "name": "Browser Package Manager Comparison",
+      "href": "https://github.com/wilmoore/frontend-packagers",
+      "time": "01:15:07"
+    },
+    {
+      "name": "Designing JavaScript APIs For Usability",
+      "href": "http://coding.smashingmagazine.com/2012/10/09/designing-javascript-apis-usability/",
+      "time": "01:15:07"
+    },
+    {
+      "name": "jQuery Europe 2013",
+      "href": "http://events.jquery.org/2013/eu/",
+      "time": "01:15:07"
+    }
+  ],
+  "randomSpec": []
+}

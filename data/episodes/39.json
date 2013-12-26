@@ -1,0 +1,75 @@
+{
+  "episode": 39,
+  "id": 39,
+  "date": "2013-12-25",
+  "duration": "00:48:50",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/39/",
+  "audio": "http://workingdraft.de/podpress_trac/web/774/0/wd-39.mp3",
+  "topics": [
+    {
+      "name": "JAIL",
+      "href": "https://github.com/sebarmeli/JAIL",
+      "time": "00:00:18"
+    },
+    {
+      "name": "The “designers should code” bullshit and a not so new idea",
+      "href": "http://intenseminimalism.com/2011/designers-shouldnt-code-the-digital-duo/",
+      "time": "00:12:08"
+    },
+    {
+      "name": "Sugar",
+      "href": "http://sugarjs.com/",
+      "time": "00:22:55"
+    },
+    {
+      "name": "Socket.IO",
+      "href": "http://socket.io/",
+      "time": "00:30:53"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Keymaster",
+      "href": "https://github.com/madrobby/keymaster",
+      "time": "00:41:25"
+    },
+    {
+      "name": "JPEGmini",
+      "href": "http://www.jpegmini.com/main/home",
+      "time": "00:41:25"
+    },
+    {
+      "name": "Browserstack",
+      "href": "http://www.browserstack.com/",
+      "time": "00:41:25"
+    },
+    {
+      "name": "Automated installation of the Microsoft IE App Compat virtual machines",
+      "href": "https://github.com/xdissent/ievms",
+      "time": "00:41:25"
+    },
+    {
+      "name": "2 Klicks für mehr Datenschutz",
+      "href": "http://www.heise.de/ct/artikel/2-Klicks-fuer-mehr-Datenschutz-1333879.html",
+      "time": "00:41:25"
+    }
+  ],
+  "randomSpec": []
+}

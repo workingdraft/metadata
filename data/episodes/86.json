@@ -1,0 +1,85 @@
+{
+  "episode": 86,
+  "id": 86,
+  "date": "2012-08-31",
+  "duration": "00:35:24",
+  "live": true,
+  "people": [
+    {
+      "name": "asciidisco",
+      "twitter": "https://twitter.com/asciidisco"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    }
+  ],
+  "href": "http://workingdraft.de/86/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1457/0/wd86.mp3",
+  "topics": [
+    {
+      "name": "CAS: Cascading Attribute Sheets",
+      "href": "http://www.xanthir.com/blog/b4K_0",
+      "time": "00:00:44"
+    },
+    {
+      "name": "JavaScript Object.observe",
+      "href": "http://weblog.bocoup.com/javascript-object-observe/",
+      "time": "00:15:21"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Pixelplant",
+      "href": "https://www.pixelplant.com/",
+      "time": "00:26:17"
+    },
+    {
+      "name": "Grunt Plugins",
+      "href": "http://sindresorhus.com/grunt-plugins/",
+      "time": "00:26:17"
+    },
+    {
+      "name": "Date Range Picker",
+      "href": "http://www.dangrossman.info/2012/08/20/a-date-range-picker-for-twitter-bootstrap/",
+      "time": "00:26:17"
+    },
+    {
+      "name": "The Innovations of Internet Explorer",
+      "href": "http://www.nczonline.net/blog/2012/08/22/the-innovations-of-internet-explorer/",
+      "time": "00:26:17"
+    },
+    {
+      "name": "Vom Internet Explorer unterstützte, aber unspezifizierte Attribute",
+      "href": "http://msdn.microsoft.com/en-us/library/ff520759",
+      "time": "00:26:17"
+    },
+    {
+      "name": "Towards a Retina Web",
+      "href": "http://coding.smashingmagazine.com/2012/08/20/towards-retina-web/",
+      "time": "00:26:17"
+    },
+    {
+      "name": "Responsive Javascript Helpers",
+      "href": "http://edenspiekermann.com/en/blog/responsive-javascript-helpers",
+      "time": "00:26:17"
+    },
+    {
+      "name": "JS 101: Equality",
+      "href": "http://dailyjs.com/2012/08/27/equality/",
+      "time": "00:26:17"
+    }
+  ],
+  "randomSpec": []
+}

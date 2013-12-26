@@ -1,0 +1,77 @@
+{
+  "episode": 46,
+  "id": 46,
+  "date": "2013-12-25",
+  "duration": "01:22:44",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Haymo Meran",
+      "twitter": "https://twitter.com/draftkraft"
+    },
+    {
+      "name": "Markus Schlegel",
+      "team": [
+        "2010-11-02",
+        "2011-11-08"
+      ],
+      "twitter": "https://twitter.com/markus_schlegel"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/46/",
+  "audio": "http://workingdraft.de/podpress_trac/web/875/0/wd-46.mp3",
+  "topics": [
+    {
+      "name": "jQuery 1.7 released",
+      "href": "http://blog.jquery.com/2011/11/03/jquery-1-7-released/",
+      "time": "00:02:14"
+    },
+    {
+      "name": "Sisyphus.js – Gmail-like client-side drafts and bit more",
+      "href": "http://simsalabim.github.com/sisyphus/",
+      "time": "00:14:33"
+    },
+    {
+      "name": "CSS Media Queries",
+      "href": "http://zomigi.com/blog/essential-considerations-for-crafting-quality-media-queries/",
+      "time": "00:26:13"
+    },
+    {
+      "name": "Sencha Offline Web Apps Workshop Position Paper",
+      "href": "http://www.w3.org/2011/web-apps-ws/papers/Sencha.html",
+      "time": "00:42:13"
+    },
+    {
+      "name": "Aloha Editor – HTML5 WYSIWYG Editor",
+      "href": "http://aloha-editor.org",
+      "time": "00:55:33"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Node v0.6.0",
+      "href": "http://blog.nodejs.org/2011/11/05/node-v0-6-0/",
+      "time": "01:19:52"
+    },
+    {
+      "name": "h5ai – a beautified Apache index",
+      "href": "http://larsjung.de/h5ai/",
+      "time": "01:19:52"
+    }
+  ],
+  "randomSpec": []
+}

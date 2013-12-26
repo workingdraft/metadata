@@ -1,0 +1,98 @@
+{
+  "episode": 26,
+  "id": 26,
+  "date": "2013-12-26",
+  "duration": "01:36:23",
+  "people": [
+    {
+      "name": "Jens Grochtdreis",
+      "twitter": "https://twitter.com/Flocke"
+    },
+    {
+      "name": "Markus Schlegel",
+      "team": [
+        "2010-11-02",
+        "2011-11-08"
+      ],
+      "twitter": "https://twitter.com/markus_schlegel"
+    }
+  ],
+  "href": "http://workingdraft.de/26/",
+  "audio": "http://workingdraft.de/podpress_trac/web/577/0/wd-26.mp3",
+  "topics": [
+    {
+      "name": "Google Finally Delivers On Promise Of Admin-Free Chrome Frame Installs For IE",
+      "href": "http://techcrunch.com/2011/05/10/google-chrome-frame-ie-admin/",
+      "time": "00:01:23"
+    },
+    {
+      "name": "Compact Navigation, Print Preview and the CSS3 Grid Layout Module",
+      "href": "http://peter.sh/2011/05/compact-navigation-print-preview-and-the-css3-grid-layout-module/",
+      "time": "00:10:38"
+    },
+    {
+      "name": "Stylesheet Limits in Internet Explorer",
+      "href": "http://blogs.msdn.com/b/ieinternals/archive/2011/05/14/10164546.aspx",
+      "time": "00:22:39"
+    },
+    {
+      "name": "CSS Floats and Positioning Level 3",
+      "href": "http://www.interoperabilitybridges.com/css3-floats/",
+      "time": "00:30:28"
+    },
+    {
+      "name": "In defense of CSS hacks — introducing “safe CSS hacks”",
+      "href": "http://mathiasbynens.be/notes/safe-css-hacks",
+      "time": "00:42:17"
+    },
+    {
+      "name": "Holmes – The CSS Markup Detective",
+      "href": "http://www.red-root.com/sandbox/holmes/",
+      "time": "01:03:53"
+    },
+    {
+      "name": "Hype",
+      "href": "http://tumultco.com/hype/features/",
+      "time": "01:11:44"
+    },
+    {
+      "name": "Der Rauswerfer-Rant: weightwatchers.de: Spaß mit Chrome",
+      "href": "http://www.weightwatchers.de/",
+      "time": "01:21:19"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "WebGL Inspector",
+      "href": "http://benvanik.github.com/WebGL-Inspector/",
+      "time": "01:31:39"
+    },
+    {
+      "name": "Byte-saving Techniques",
+      "href": "https://github.com/jed/140bytes/wiki/Byte-saving-techniques",
+      "time": "01:31:39"
+    },
+    {
+      "name": "jswiki",
+      "href": "https://github.com/bebraw/jswiki/wiki",
+      "time": "01:31:39"
+    },
+    {
+      "name": "CSS3 – Information and samples",
+      "href": "http://robertnyman.com/css3/",
+      "time": "01:31:39"
+    },
+    {
+      "name": "HTML5 – Information and samples for HTML5 and related APIs",
+      "href": "http://robertnyman.com/html5/",
+      "time": "01:31:39"
+    },
+    {
+      "name": "json:select()",
+      "href": "http://jsonselect.org/#overview",
+      "time": "01:31:39"
+    }
+  ],
+  "randomSpec": []
+}

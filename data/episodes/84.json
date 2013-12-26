@@ -1,0 +1,100 @@
+{
+  "episode": 84,
+  "id": 84,
+  "date": "2013-12-25",
+  "duration": "01:01:18",
+  "live": true,
+  "people": [
+    {
+      "name": "asciidisco",
+      "twitter": "https://twitter.com/asciidisco"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/84/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1414/0/wd-84.mp3",
+  "topics": [
+    {
+      "name": "jQuery 1.8 Released",
+      "href": "http://blog.jquery.com/2012/08/09/jquery-1-8-released/",
+      "time": "00:01:17"
+    },
+    {
+      "name": "10 things I hate about Git",
+      "href": "https://steveko.wordpress.com/2012/02/24/10-things-i-hate-about-git/",
+      "time": "00:15:54"
+    },
+    {
+      "name": "The Art of staying up to date",
+      "href": "http://www.smashingmagazine.com/2012/08/09/productivity-staying-up-to-date/",
+      "time": "00:28:09"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Fontello",
+      "href": "http://fontello.com/",
+      "time": "00:56:16"
+    },
+    {
+      "name": "Remote Debugging für Firefox auf Android",
+      "href": "https://hacks.mozilla.org/2012/08/remote-debugging-on-firefox-for-android/",
+      "time": "00:56:16"
+    },
+    {
+      "name": "browserver",
+      "href": "http://browserver.org/",
+      "time": "00:56:16"
+    },
+    {
+      "name": "A closer look at _.extend and copying properties",
+      "href": "http://www.2ality.com/2012/08/underscore-extend.html",
+      "time": "00:56:16"
+    },
+    {
+      "name": "Just Gauge",
+      "href": "http://www.justgage.com/",
+      "time": "00:56:16"
+    },
+    {
+      "name": "PSA – SmashingMag Interns",
+      "href": "http://www.smashingmagazine.com/internship/",
+      "time": "00:56:16"
+    },
+    {
+      "name": "Neue Version von URI.js",
+      "href": "http://medialize.github.com/URI.js/",
+      "time": "00:56:16"
+    },
+    {
+      "name": "Internationalizing JavaScript Applications",
+      "href": "http://norbertlindenberg.com/2012/08/javascript-internationalization/",
+      "time": "00:56:16"
+    },
+    {
+      "name": "Placeholder in SASS",
+      "href": "http://sass-lang.com/docs/yardoc/file.SASS_CHANGELOG.html#320_10_august_2012",
+      "time": "00:56:16"
+    },
+    {
+      "name": "Impressionist",
+      "href": "http://www.hsivaram.com/impressionist/alpha3/",
+      "time": "00:56:16"
+    }
+  ],
+  "randomSpec": []
+}

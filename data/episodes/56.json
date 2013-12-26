@@ -1,0 +1,99 @@
+{
+  "episode": 56,
+  "id": 56,
+  "date": "2012-01-26",
+  "duration": "01:03:50",
+  "people": [
+    {
+      "name": "Marc Hinse",
+      "twitter": "https://twitter.com/MadeMyDay"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/56/",
+  "audio": "http://workingdraft.de/podpress_trac/web/990/0/wd-56.mp3",
+  "topics": [
+    {
+      "name": "Google Web Fonts Families",
+      "href": "http://somadesign.ca/demos/better-google-fonts/",
+      "time": "00:00:15"
+    },
+    {
+      "name": "Font.js: A Powerful Font Toolkit for JavaScript",
+      "href": "http://badassjs.com/post/16355968400/font-js-a-powerful-font-toolkit-for-javascript",
+      "time": "00:10:00"
+    },
+    {
+      "name": "CSS Basic User Interface Module Level 3 (CSS3 UI)",
+      "href": "http://www.w3.org/TR/2012/WD-css3-ui-20120117/#nav-index0",
+      "time": "00:22:00"
+    },
+    {
+      "name": "WebRTC",
+      "href": "http://www.golem.de/1201/89166.html",
+      "time": "00:29:27"
+    },
+    {
+      "name": "Wunderkit",
+      "href": "http://www.wunderkit.com",
+      "time": "00:39:05"
+    },
+    {
+      "name": "Trello",
+      "href": "http://trello.com",
+      "time": "00:53:48"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Gridpak",
+      "href": "http://gridpak.com/about/",
+      "time": "00:57:30"
+    },
+    {
+      "name": "YAML 4 ist da!",
+      "href": "http://www.yaml.de/",
+      "time": "00:57:30"
+    },
+    {
+      "name": "Kirby",
+      "href": "http://getkirby.com/",
+      "time": "00:57:30"
+    },
+    {
+      "name": "The Edge of HTML5",
+      "href": "http://html5-demos.appspot.com/static/html5-therealbleedingedge/template/index.html#1",
+      "time": "00:57:30"
+    },
+    {
+      "name": "ES6 Harmony Collections Fast Polyfill",
+      "href": "https://github.com/WebReflection/es6-collections",
+      "time": "00:57:30"
+    },
+    {
+      "name": "Animation Compass Plugin",
+      "href": "https://github.com/ericam/compass-animation",
+      "time": "00:57:30"
+    },
+    {
+      "name": "HTML5 Please",
+      "href": "http://html5please.us/",
+      "time": "00:57:30"
+    }
+  ],
+  "randomSpec": []
+}

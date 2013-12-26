@@ -1,0 +1,86 @@
+{
+  "episode": 67,
+  "id": 67,
+  "date": "2013-12-25",
+  "duration": "01:14:21",
+  "live": true,
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/67/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1153/0/wd-67.mp3",
+  "topics": [
+    {
+      "name": "Meteor",
+      "href": "http://meteor.com/",
+      "time": "00:00:20"
+    },
+    {
+      "name": "Media Query & Asset Downloading Results",
+      "href": "http://timkadlec.com/2012/04/media-query-asset-downloading-results/",
+      "time": "00:15:21"
+    },
+    {
+      "name": "Spielereien mit CSS Regions",
+      "href": "http://experiments.hertzen.com/css-regions/index.html",
+      "time": "00:31:30"
+    },
+    {
+      "name": "Light Table",
+      "href": "http://www.chris-granger.com/2012/04/12/light-table---a-new-ide-concept/",
+      "time": "00:45:44"
+    },
+    {
+      "name": "Move Over 1024×768: The Most Popular Screen Resolution On The Web Is Now 1366×768",
+      "href": "http://techcrunch.com/2012/04/11/move-over-1024x768-the-most-popular-screen-resolution-on-the-web-is-now-1366x768/",
+      "time": "00:55:12"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "The Current State of HTML5 Forms",
+      "href": "http://wufoo.com/html5/",
+      "time": "01:11:47"
+    },
+    {
+      "name": "Understanding MVVM",
+      "href": "http://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/",
+      "time": "01:11:47"
+    },
+    {
+      "name": "Mobile Patterns",
+      "href": "http://mobile-patterns.com/",
+      "time": "01:11:47"
+    }
+  ],
+  "randomSpec": []
+}

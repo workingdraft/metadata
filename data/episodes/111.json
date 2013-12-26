@@ -1,0 +1,91 @@
+{
+  "episode": 111,
+  "id": 111,
+  "date": "2013-12-25",
+  "duration": "00:55:58",
+  "live": true,
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Frederic Hemberger",
+      "twitter": "https://twitter.com/fhemberger"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/111/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1845/0/wd-111.mp3",
+  "topics": [
+    {
+      "name": "Data Compression Proxy",
+      "href": "https://developers.google.com/chrome/mobile/docs/data-compression",
+      "time": "00:01:51"
+    },
+    {
+      "name": "The Good & Bad of Level 4 Media Queries",
+      "href": "http://www.stucox.com/blog/the-good-and-bad-of-level-4-media-queries/",
+      "time": "00:17:35"
+    },
+    {
+      "name": "http-client-hints",
+      "href": "https://github.com/igrigorik/http-client-hints",
+      "time": "00:27:48"
+    }
+  ],
+  "news": [
+    {
+      "name": "Google and MPEG LA Agree, Free VP8",
+      "href": "https://hacks.mozilla.org/2013/03/google-and-mpeg-la-announce-agreement/",
+      "time": "00:00:23"
+    },
+    {
+      "name": "Opera 14 Beta",
+      "href": "http://my.opera.com/ODIN/blog/2013/03/05/opera-14-beta-for-android-is-out",
+      "time": "00:00:23"
+    },
+    {
+      "name": "Node.js 0.10",
+      "href": "http://blog.nodejs.org/2013/03/11/node-v0-10-0-stable/",
+      "time": "00:00:23"
+    }
+  ],
+  "links": [
+    {
+      "name": "Finer grained control of hyphenation with CSS4 Text – Generated Content by David Storey",
+      "href": "http://generatedcontent.org/post/44751461516/finer-grained-control-of-hyphenation-with-css4-text",
+      "time": "00:51:05"
+    },
+    {
+      "name": "Using SVG",
+      "href": "http://css-tricks.com/using-svg/",
+      "time": "00:51:05"
+    },
+    {
+      "name": "Codebase",
+      "href": "http://www.codebasehq.com/",
+      "time": "00:51:05"
+    },
+    {
+      "name": "Spenden für Tern",
+      "href": "http://www.indiegogo.com/projects/tern-intelligent-javascript-editing",
+      "time": "00:51:05"
+    },
+    {
+      "name": "Meaningful Transitions",
+      "href": "http://www.ui-transitions.com/",
+      "time": "00:51:05"
+    }
+  ],
+  "randomSpec": []
+}

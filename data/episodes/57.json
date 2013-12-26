@@ -1,0 +1,85 @@
+{
+  "episode": 57,
+  "id": 57,
+  "date": "2013-12-25",
+  "duration": "00:50:26",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/57/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1004/0/wd-57.mp3",
+  "topics": [
+    {
+      "name": "IE10 Compat Inspector",
+      "href": "http://blogs.msdn.com/b/ie/archive/2012/01/20/ie10-compat-inspector.aspx",
+      "time": "00:00:16"
+    },
+    {
+      "name": "IDBExplorer",
+      "href": "http://blogs.msdn.com/b/ie/archive/2012/01/25/debugging-indexeddb-applications.aspx",
+      "time": "00:05:50"
+    },
+    {
+      "name": "Pik6",
+      "href": "http://pik6.peterkroener.de/",
+      "time": "00:10:55"
+    },
+    {
+      "name": "Wieder eine neue Gradient-Syntax! WTF?",
+      "href": "http://www.w3.org/TR/css3-images/",
+      "time": "00:17:07"
+    },
+    {
+      "name": "Jekyll Bootstrap",
+      "href": "http://jekyllbootstrap.com/",
+      "time": "00:29:20"
+    },
+    {
+      "name": "Wrap.js",
+      "href": "https://github.com/geddesign/wrap.js",
+      "time": "00:42:53"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "PolyClip",
+      "href": "http://www.useragentman.com/blog/2011/10/29/clipping-jpeg-images-into-non-rectangular-polygons-using-polyclip-js/",
+      "time": "00:46:45"
+    },
+    {
+      "name": "Hogan.js",
+      "href": "http://twitter.github.com/hogan.js/",
+      "time": "00:46:45"
+    }
+  ],
+  "randomSpec": []
+}

@@ -1,0 +1,64 @@
+{
+  "episode": 136,
+  "id": 136,
+  "date": "2013-12-25",
+  "duration": "00:55:40",
+  "live": true,
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Stefan Nitzsche",
+      "twitter": "https://twitter.com/stn1978"
+    }
+  ],
+  "href": "http://workingdraft.de/136/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2090/0/wd-136.mp3",
+  "topics": [
+    {
+      "name": "Smashing Conference",
+      "href": "http://smashingconf.com/",
+      "time": "00:01:45"
+    },
+    {
+      "name": "Design-Workflow",
+      "time": "00:22:41"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Favicon Cheat Sheet",
+      "href": "https://github.com/audreyr/favicon-cheat-sheet",
+      "time": "00:46:41"
+    },
+    {
+      "name": "favico.js",
+      "href": "http://lab.ejci.net/favico.js/",
+      "time": "00:46:41"
+    },
+    {
+      "name": "Implementing Native Drag and Drop",
+      "href": "http://blog.teamtreehouse.com/implementing-native-drag-and-drop",
+      "time": "00:46:41"
+    },
+    {
+      "name": "Developer Meetup in Freiburg",
+      "href": "http://devsmeetup.de/",
+      "time": "00:46:41"
+    }
+  ],
+  "randomSpec": []
+}

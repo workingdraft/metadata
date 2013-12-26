@@ -1,0 +1,80 @@
+{
+  "episode": 144,
+  "id": 144,
+  "date": "2013-12-25",
+  "duration": "00:52:11",
+  "live": true,
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Sven Wolfermann",
+      "twitter": "https://twitter.com/maddesigns"
+    }
+  ],
+  "href": "http://workingdraft.de/144/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2151/0/wd-144.mp3",
+  "topics": [
+    {
+      "name": "Responsive Bilder und RESS",
+      "href": "http://maddesigns.de/RESS/#1",
+      "time": "00:05:38"
+    },
+    {
+      "name": "Hörerfrage: Welche FTP/SFTP/SCP-Clients nutzen wir so?",
+      "time": "00:37:06"
+    }
+  ],
+  "news": [
+    {
+      "name": "3 Jahre Working Draft!",
+      "href": "http://workingdraft.de/1/",
+      "time": "00:01:09"
+    },
+    {
+      "name": "Firefox 25 veröffentlicht",
+      "href": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/25",
+      "time": "00:01:09"
+    },
+    {
+      "name": "Cisco’s H.264",
+      "href": "https://brendaneich.com/2013/10/ciscos-h-264-good-news/",
+      "time": "00:01:09"
+    },
+    {
+      "name": "Android 4.4 KitKat",
+      "href": "http://www.mobilexweb.com/blog/android-4-4-kitkat-browser-chrome-webview",
+      "time": "00:01:09"
+    }
+  ],
+  "links": [
+    {
+      "name": "Conditioner.js",
+      "href": "http://conditionerjs.com/",
+      "time": "00:47:20"
+    },
+    {
+      "name": "The new Kellum method",
+      "href": "http://scottkellum.com/2013/10/25/the-new-kellum-method.html",
+      "time": "00:47:20"
+    },
+    {
+      "name": "TrifleJS",
+      "href": "http://triflejs.org/",
+      "time": "00:47:20"
+    }
+  ],
+  "randomSpec": []
+}

@@ -1,0 +1,77 @@
+{
+  "episode": 148,
+  "id": 148,
+  "date": "2013-12-25",
+  "duration": "00:48:48",
+  "live": true,
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/148/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2186/0/wd-148.mp3",
+  "topics": [
+    {
+      "name": "DOM Mutation Events & Mutation Observers",
+      "href": "http://dev.opera.com/articles/view/mutation-observers-tutorial/",
+      "time": "00:00:26"
+    },
+    {
+      "name": "ECMAScript 6: Generators",
+      "href": "http://www.peterkroener.de/ecmascript-6-generators/",
+      "time": "00:19:09"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Chrome Dev Summit: Service Worker",
+      "href": "http://www.youtube.com/watch?v=1aPR43fhIWk",
+      "time": "00:42:31"
+    },
+    {
+      "name": "Responsive Comments",
+      "href": "http://responsivecomments.com/",
+      "time": "00:42:31"
+    },
+    {
+      "name": "noUISlider",
+      "href": "http://refreshless.com/nouislider/",
+      "time": "00:42:31"
+    },
+    {
+      "name": "Unicode in Fonts",
+      "href": "http://unicode.johnholtripley.co.uk/",
+      "time": "00:42:31"
+    },
+    {
+      "name": "LocalForage",
+      "href": "https://github.com/mozilla/localforage",
+      "time": "00:42:31"
+    },
+    {
+      "name": "Advent, Advent …",
+      "time": "00:42:31"
+    }
+  ],
+  "randomSpec": []
+}

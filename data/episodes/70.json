@@ -1,0 +1,105 @@
+{
+  "episode": 70,
+  "id": 70,
+  "date": "2013-12-25",
+  "duration": "00:50:24",
+  "live": true,
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Frederic Hemberger",
+      "twitter": "https://twitter.com/fhemberger"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/70/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1195/0/wd-70.mp3",
+  "topics": [
+    {
+      "name": "JavaScript Styleguides",
+      "href": "http://addyosmani.com/blog/javascript-style-guides-and-beautifiers/",
+      "time": "00:00:18"
+    },
+    {
+      "name": "Barrierefreiheit und die Beschwerdekultur im Internet",
+      "href": "http://www.oliveira-online.net/wordpress/index.php/2012/05/01/barrierefreiheit-und-die-beschwerdekultur-im-internet/",
+      "time": "00:19:00"
+    },
+    {
+      "name": "A Step for Open Sharing: AddThis Integrates Web Intents",
+      "href": "http://www.addthis.com/blog/2012/05/01/a-step-for-open-sharing-addthis-integrates-web-intents/",
+      "time": "00:35:20"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Videos vom MMT29",
+      "href": "http://www.youtube.com/watch?v=jZeiZIAjlAk",
+      "time": "00:44:28"
+    },
+    {
+      "name": "The Web Platform: Browser Technologies",
+      "href": "http://platform.html5.org/",
+      "time": "00:44:28"
+    },
+    {
+      "name": "Die neue Git-Homepage",
+      "href": "https://github.com/blog/1125-new-git-homepage",
+      "time": "00:44:28"
+    },
+    {
+      "name": "Node WebKit Agent",
+      "href": "https://github.com/c4milo/node-webkit-agent",
+      "time": "00:44:28"
+    },
+    {
+      "name": "Backbone.js CRUD Application",
+      "href": "http://coenraets.org/blog/2012/05/single-page-crud-application-with-backbone-js-and-twitter-bootstrap/",
+      "time": "00:44:28"
+    },
+    {
+      "name": "Bessere Performance mit element.classList",
+      "href": "https://plus.google.com/113127438179392830442/posts/APArpwWqew3",
+      "time": "00:44:28"
+    },
+    {
+      "name": "Cross-Browser Fullscreen API",
+      "href": "https://github.com/sindresorhus/screenfull.js",
+      "time": "00:44:28"
+    },
+    {
+      "name": "G+-Zirkelteiler mit nur JS-Menschen",
+      "href": "https://plus.google.com/114636678211810483111/posts/5gCXuXiWuLD",
+      "time": "00:44:28"
+    }
+  ],
+  "randomSpec": []
+}

@@ -1,0 +1,83 @@
+{
+  "episode": 107,
+  "id": 107,
+  "date": "2013-12-25",
+  "duration": "00:45:50",
+  "live": true,
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "twitter": "https://twitter.com/helloanselm"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/107/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1808/0/wd-107.mp3",
+  "topics": [
+    {
+      "name": "Ditching responsive design",
+      "href": "https://gocardless.com/blog/unresponsive-design/",
+      "time": "00:00:49"
+    },
+    {
+      "name": "Bericht vom Web Platform Doc Sprint Berlin",
+      "href": "http://eventifier.co/event/wpds13",
+      "time": "00:23:51"
+    }
+  ],
+  "news": [
+    {
+      "name": "<main>-Support in Firefox",
+      "href": "http://firefoxnightly.tumblr.com/post/41871992210/element-main-is-now-supported-by-firefoxnightly",
+      "time": "00:00:21"
+    }
+  ],
+  "links": [
+    {
+      "name": "DevTools: Visually Re-engineering CSS For Faster Paint Times",
+      "href": "http://addyosmani.com/blog/devtools-visually-re-engineering-css-for-faster-paint-times/",
+      "time": "00:41:00"
+    },
+    {
+      "name": "Front-Trends 2013",
+      "href": "http://2013.front-trends.com/",
+      "time": "00:41:00"
+    },
+    {
+      "name": "BLOKK font",
+      "href": "http://blokkfont.com/",
+      "time": "00:41:00"
+    },
+    {
+      "name": "Extensionizr – boilerplate for your chrome extension",
+      "href": "http://extensionizr.com/",
+      "time": "00:41:00"
+    },
+    {
+      "name": "CSS Regions Polyfill",
+      "href": "http://corlan.org/2013/02/08/say-hello-to-css-regions-polyfill/",
+      "time": "00:41:00"
+    }
+  ],
+  "randomSpec": []
+}

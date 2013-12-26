@@ -1,0 +1,101 @@
+{
+  "episode": 123,
+  "id": 123,
+  "date": "2013-12-25",
+  "duration": "00:53:53",
+  "live": true,
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/123/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1963/0/wd-123.mp3",
+  "topics": [
+    {
+      "name": "Smartphone Browser localStorage is up to 5x Faster than Native Cache",
+      "href": "http://www.mobify.com/blog/smartphone-localstorage-outperforms-browser-cache/",
+      "time": "00:00:26"
+    },
+    {
+      "name": "Cargo-Culting in JavaScript",
+      "href": "http://net.tutsplus.com/tutorials/javascript-ajax/cargo-culting-in-javascript/",
+      "time": "00:16:07"
+    },
+    {
+      "name": "Using HTML5 prerendering to speed up a multi-page registration process",
+      "href": "http://www.holovaty.com/writing/prerendering/",
+      "time": "00:28:50"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "How to keep up to date on Front-End Technologies",
+      "href": "http://uptodate.frontendrescue.org/",
+      "time": "00:48:32"
+    },
+    {
+      "name": "HeidiSQL 8.0",
+      "href": "http://www.heidisql.com/forum.php?t=12650",
+      "time": "00:48:32"
+    },
+    {
+      "name": "XRegExp",
+      "href": "http://xregexp.com/",
+      "time": "00:48:32"
+    },
+    {
+      "name": "Autoprefixer",
+      "href": "https://github.com/ai/autoprefixer",
+      "time": "00:48:32"
+    },
+    {
+      "name": "Tern for Sublime",
+      "href": "https://github.com/marijnh/tern_for_sublime",
+      "time": "00:48:32"
+    },
+    {
+      "name": "Sass Style Guide",
+      "href": "http://css-tricks.com/sass-style-guide/",
+      "time": "00:48:32"
+    },
+    {
+      "name": "Developer MeetUp Freiburg",
+      "href": "http://devsmeetup.de/",
+      "time": "00:48:32"
+    }
+  ],
+  "randomSpec": [
+    {
+      "name": "CanvasPathMethods",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/#canvaspathmethods",
+      "time": "00:41:38"
+    }
+  ]
+}

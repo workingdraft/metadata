@@ -1,0 +1,70 @@
+{
+  "episode": 109,
+  "id": 109,
+  "date": "2013-12-25",
+  "duration": "00:38:43",
+  "live": true,
+  "people": [
+    {
+      "name": "Andreas Dantz",
+      "twitter": "https://twitter.com/dantz"
+    },
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    }
+  ],
+  "href": "http://workingdraft.de/109/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1827/0/wd-109.mp3",
+  "topics": [
+    {
+      "name": "CSS Counter Styles",
+      "href": "http://www.w3.org/TR/2013/WD-css-counter-styles-3-20130221/",
+      "time": "00:00:23"
+    },
+    {
+      "name": "Mobile Betriebssysteme",
+      "time": "00:06:35"
+    },
+    {
+      "name": "HTML5-Linkelement",
+      "href": "http://www.iandevlin.com/blog/2013/02/html5/link",
+      "time": "00:14:17"
+    },
+    {
+      "name": "jQuery Europe Conference",
+      "href": "http://events.jquery.org/2013/eu/",
+      "time": "00:27:41"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "grunt-parallel",
+      "href": "https://github.com/iammerrick/grunt-parallel",
+      "time": "00:36:34"
+    },
+    {
+      "name": "Dig Deep into CSS Gradients",
+      "href": "http://hugogiraudel.com/2013/02/04/css-gradients/",
+      "time": "00:36:34"
+    },
+    {
+      "name": "CSS Tests – fonts and text",
+      "href": "http://www.quirksmode.org/blog/archives/2013/02/new_css_tests_f.html",
+      "time": "00:36:34"
+    }
+  ],
+  "randomSpec": []
+}

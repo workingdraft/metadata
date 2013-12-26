@@ -1,0 +1,71 @@
+{
+  "episode": 18,
+  "id": 18,
+  "date": "2013-12-25",
+  "duration": "01:07:32",
+  "people": [
+    {
+      "name": "Cem Derin",
+      "twitter": "https://twitter.com/derCemDerin"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    }
+  ],
+  "href": "http://workingdraft.de/18/",
+  "audio": "http://workingdraft.de/podpress_trac/web/445/0/wd-18.mp3",
+  "topics": [
+    {
+      "name": "Wallaby – Convert Adobe Flash FLA files into HTML and reach more devices",
+      "href": "http://labs.adobe.com/technologies/wallaby/"
+    },
+    {
+      "name": "Scoped Styles in HTML5",
+      "href": "http://www.impressivewebs.com/scoped-styles-html5/"
+    },
+    {
+      "name": "A function for detecting if the browser is in a given media mode",
+      "href": "https://gist.github.com/08602e7d2ee448be834c"
+    },
+    {
+      "name": "weinre – Web Inspector Remote",
+      "href": "http://pmuellr.github.com/weinre/"
+    },
+    {
+      "name": "Internet Explorer 9 Network Performance Improvements",
+      "href": "http://blogs.msdn.com/b/ie/archive/2011/03/17/internet-explorer-9-network-performance-improvements.aspx"
+    },
+    {
+      "name": "Apple handcuffs ‘open’ web apps on iPhone home screen",
+      "href": "http://www.theregister.co.uk/2011/03/15/apple_ios_throttles_web_apps_on_home_screen/"
+    },
+    {
+      "name": "WideImage und Imagine",
+      "href": "http://wideimage.sourceforge.net/"
+    },
+    {
+      "name": "Twitters veränderte API-Richtlinien",
+      "href": "http://www.golem.de/1103/82061.html"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "When is a stylesheet really loaded?",
+      "href": "http://www.phpied.com/when-is-a-stylesheet-really-loaded/"
+    },
+    {
+      "name": "iScroll 4",
+      "href": "http://cubiq.org/iscroll-4"
+    },
+    {
+      "name": "NowJS",
+      "href": "http://nowjs.com"
+    }
+  ],
+  "randomSpec": []
+}

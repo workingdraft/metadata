@@ -1,0 +1,90 @@
+{
+  "episode": 17,
+  "id": 17,
+  "date": "2013-12-25",
+  "duration": "01:05:40",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Markus Schlegel",
+      "team": [
+        "2010-11-02",
+        "2011-11-08"
+      ],
+      "twitter": "https://twitter.com/markus_schlegel"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/17/",
+  "audio": "http://workingdraft.de/podpress_trac/web/422/0/wd-17.mp3",
+  "topics": [
+    {
+      "name": "requestAnimationFrame for smart animating",
+      "href": "http://paulirish.com/2011/requestanimationframe-for-smart-animating/"
+    },
+    {
+      "name": "Optimizely: A/B Testing you’ll actually use",
+      "href": "http://optimizely.appspot.com/"
+    },
+    {
+      "name": "CamanJS – JS Image Manipulation",
+      "href": "http://camanjs.com"
+    },
+    {
+      "name": "HTML Timing",
+      "href": "http://labs.kompozer.net/timesheets/"
+    },
+    {
+      "name": "WebGL 1.0 ist fertig",
+      "href": "http://www.golem.de/1103/81890.html"
+    },
+    {
+      "name": "WebGL-2D",
+      "href": "https://github.com/corbanbrook/webgl-2d"
+    },
+    {
+      "name": "Mozilla OpenWebApps",
+      "href": "http://mozillalabs.com/blog/2011/03/first-developer-release-of-web-apps-project/"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Blur-Radius explained",
+      "href": "http://dbaron.org/log/20110225-blur-radius"
+    },
+    {
+      "name": "D3",
+      "href": "http://mbostock.github.com/d3/"
+    },
+    {
+      "name": "Why Hover Menus Do Users More Harm Than Good",
+      "href": "http://uxmovement.com/navigation/why-hover-menus-do-users-more-harm-than-good"
+    },
+    {
+      "name": "Why do lints warn about using parseInt without a radix?",
+      "href": "http://whereswalden.com/2011/02/26/the-proper-way-to-call-parseint-tldr-parseintstr-radix"
+    },
+    {
+      "name": "JavaScript Garden",
+      "href": "http://bonsaiden.github.com/JavaScript-Garden/#intro"
+    },
+    {
+      "name": "Undo.js",
+      "href": "https://github.com/jzaefferer/undo"
+    }
+  ],
+  "randomSpec": []
+}

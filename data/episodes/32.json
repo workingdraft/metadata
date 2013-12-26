@@ -1,0 +1,77 @@
+{
+  "episode": 32,
+  "id": 32,
+  "date": "2013-12-25",
+  "duration": "01:28:14",
+  "people": [
+    {
+      "name": "Frank Bueltge",
+      "twitter": "https://twitter.com/bueltge"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    }
+  ],
+  "href": "http://workingdraft.de/32/",
+  "audio": "http://workingdraft.de/podpress_trac/web/666/0/wd-32.mp3",
+  "topics": [
+    {
+      "name": "Why I’ve built an Alternative to GitHub",
+      "href": "http://blog.codeplane.com/why-ive-built-an-alternative-to-github.html",
+      "time": "00:03:45"
+    },
+    {
+      "name": "Understanding Mobile Cache Sizes",
+      "href": "http://www.blaze.io/mobile/understanding-mobile-cache-sizes/",
+      "time": "00:12:33"
+    },
+    {
+      "name": "BoxJS, BoxJSON, BoxCSS und BoxResizer",
+      "href": "http://boxjs.com/",
+      "time": "00:26:02"
+    },
+    {
+      "name": "BrowserID – A better way to sign in",
+      "href": "https://browserid.org/",
+      "time": "00:34:36"
+    },
+    {
+      "name": "Sprite3D.js",
+      "href": "http://minimal.be/lab/Sprite3D/",
+      "time": "00:43:04"
+    },
+    {
+      "name": "Web Education moving forward – Opera WSC goes to the W3C!",
+      "href": "http://my.opera.com/ODIN/blog/2011/07/15/web-education-moving-forward-opera-wsc-goes-to-the-w3c",
+      "time": "00:48:40"
+    },
+    {
+      "name": "WordCamp 2011 in Köln",
+      "href": "http://wordcamp.de/",
+      "time": "01:02:35"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "oCanvas",
+      "href": "http://ocanvas.org/",
+      "time": "01:18:31"
+    },
+    {
+      "name": "PDFKit – A PDF generation library for Node.js",
+      "href": "http://devongovett.github.com/pdfkit/",
+      "time": "01:18:31"
+    },
+    {
+      "name": "Waldo",
+      "href": "http://javascriptweblog.wordpress.com/2011/07/11/waldo-search-the-javascript-runtime-in-under-1-kb/",
+      "time": "01:18:31"
+    }
+  ],
+  "randomSpec": []
+}

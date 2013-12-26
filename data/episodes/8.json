@@ -1,0 +1,65 @@
+{
+  "episode": 8,
+  "id": 8,
+  "date": "2013-12-25",
+  "duration": "01:18:46",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Markus Schlegel",
+      "team": [
+        "2010-11-02",
+        "2011-11-08"
+      ],
+      "twitter": "https://twitter.com/markus_schlegel"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/8/",
+  "audio": "http://workingdraft.de/podpress_trac/web/164/0/Revision-8_-CrankShaft-Treesaver-und-ControlJS.mp3",
+  "topics": [
+    {
+      "name": "CrankShaft",
+      "href": "http://blog.chromium.org/2010/12/new-crankshaft-for-v8.html"
+    },
+    {
+      "name": "Treesaver",
+      "href": "http://faz-community.faz.net/blogs/netzkonom/archive/2010/12/15/die-revanche-des-web-auf-flipboard.aspx"
+    },
+    {
+      "name": "XHTML 2.0-Dokumente wurden als W3C-Notes veröffentlicht",
+      "href": "http://www.w3.org/News/2010.html#entry-8982"
+    },
+    {
+      "name": "HTML5 Extension for Windows Media Player Firefox Plug-in",
+      "href": "http://www.interoperabilitybridges.com/html5-extension-for-wmp-plugin"
+    },
+    {
+      "name": "HTML5-Elemente im IE ohne JavaScript",
+      "href": "http://www.debeterevormgever.nl/html5-ie-without-javascript/"
+    },
+    {
+      "name": "MySQL 5.5",
+      "href": "http://dev.mysql.com/doc/refman/5.5/en/mysql-nutshell.html"
+    },
+    {
+      "name": "ControlJS",
+      "href": "http://stevesouders.com/controljs/"
+    }
+  ],
+  "news": [],
+  "links": [],
+  "randomSpec": []
+}

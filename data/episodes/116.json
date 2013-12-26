@@ -1,0 +1,93 @@
+{
+  "episode": 116,
+  "id": 116,
+  "date": "2013-12-25",
+  "duration": "01:41:58",
+  "live": true,
+  "people": [
+    {
+      "name": "Bruce Lawson",
+      "twitter": "https://twitter.com/brucel"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Gunnar Bittersmann",
+      "twitter": "https://twitter.com/g16n"
+    },
+    {
+      "name": "Sven Wolfermann",
+      "twitter": "https://twitter.com/maddesigns"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/116/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1900/0/wd-116.mp3",
+  "topics": [
+    {
+      "name": "Breaking Development Orlando",
+      "href": "http://bdconf.com/2013/orlando",
+      "time": "00:03:02"
+    },
+    {
+      "name": "Transitional Interfaces",
+      "href": "https://medium.com/design-ux/926eb80d64e3",
+      "time": "00:20:51"
+    },
+    {
+      "name": "IDs versus Classes",
+      "time": "00:33:07"
+    }
+  ],
+  "news": [
+    {
+      "name": "Persona einsatzbereit",
+      "href": "http://www.golem.de/news/persona-mozillas-passwortkiller-1304-98624.html",
+      "time": "00:02:15"
+    }
+  ],
+  "links": [
+    {
+      "name": "Detecting Touch – the WHY, not the HOW",
+      "href": "https://hacks.mozilla.org/2013/04/detecting-touch-its-the-why-not-the-how/",
+      "time": "01:30:50"
+    },
+    {
+      "name": "Movement.js",
+      "href": "http://movement.mgechev.com/",
+      "time": "01:30:50"
+    },
+    {
+      "name": "TimeJump",
+      "href": "http://davatron5000.github.io/TimeJump/",
+      "time": "01:30:50"
+    },
+    {
+      "name": "Flexbox",
+      "time": "01:30:50"
+    }
+  ],
+  "randomSpec": [
+    {
+      "name": "HTML5: das dialog-Element",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/#the-dialog-element",
+      "time": "01:13:44"
+    },
+    {
+      "name": "CSS3: CSS Multi-column Layout Module",
+      "href": "http://www.w3.org/TR/css3-multicol/",
+      "time": "01:13:44"
+    }
+  ]
+}

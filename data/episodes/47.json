@@ -1,0 +1,60 @@
+{
+  "episode": 47,
+  "id": 47,
+  "date": "2013-12-25",
+  "duration": "00:54:32",
+  "people": [
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/47/",
+  "audio": "http://workingdraft.de/podpress_trac/web/886/0/wd-47.mp3",
+  "topics": [
+    {
+      "name": "Working Draft bei Google Plus",
+      "href": "https://plus.google.com/100063817839650840647",
+      "time": "00:00:34"
+    },
+    {
+      "name": "Firefox 8",
+      "href": "https://developer.mozilla.org/en/Firefox_8_for_developers",
+      "time": "00:01:10"
+    },
+    {
+      "name": "Firefox Aurora 10",
+      "href": "http://hacks.mozilla.org/2011/11/announcing-firefox-aurora-10/",
+      "time": "00:25:10"
+    },
+    {
+      "name": "jQuery soll wieder schlanker werden",
+      "href": "http://blog.jquery.com/2011/11/08/building-a-slimmer-jquery/",
+      "time": "00:29:06"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Shapecatcher",
+      "href": "http://shapecatcher.com/",
+      "time": "00:51:00"
+    },
+    {
+      "name": "Mag.js sucht Autoren",
+      "href": "https://twitter.com/#!/rauschma/status/134710592257802241",
+      "time": "00:51:00"
+    }
+  ],
+  "randomSpec": []
+}

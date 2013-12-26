@@ -1,0 +1,102 @@
+{
+  "episode": 40,
+  "id": 40,
+  "date": "2013-12-25",
+  "duration": "01:40:07",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Frederic Hemberger",
+      "twitter": "https://twitter.com/fhemberger"
+    },
+    {
+      "name": "Markus Schlegel",
+      "team": [
+        "2010-11-02",
+        "2011-11-08"
+      ],
+      "twitter": "https://twitter.com/markus_schlegel"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    }
+  ],
+  "href": "http://workingdraft.de/40/",
+  "audio": "http://workingdraft.de/podpress_trac/web/783/0/wd-40.mp3",
+  "topics": [
+    {
+      "name": "Flexbox is Dead, Long Live Flexbox!",
+      "href": "http://www.xanthir.com/blog/b4Dm0",
+      "time": "00:03:44"
+    },
+    {
+      "name": "W3C Conditional Rules",
+      "href": "http://www.w3.org/TR/css3-conditional/",
+      "time": "00:18:25"
+    },
+    {
+      "name": "WebSocket binary message support",
+      "href": "https://plus.google.com/115535723976198353696/posts/ERN6zYozENV",
+      "time": "00:24:25"
+    },
+    {
+      "name": "JPEG 2000 on the Web",
+      "href": "http://www.syntensity.com/static/openjpeg.html",
+      "time": "00:30:00"
+    },
+    {
+      "name": "Help The Community: Report Browser Bugs",
+      "href": "http://coding.smashingmagazine.com/2011/09/07/help-the-community-report-browser-bugs/",
+      "time": "00:41:27"
+    },
+    {
+      "name": "Mobile Web: Taiwan, Opera and WebOS",
+      "href": "http://paulrouget.com/e/mobilewebapps/",
+      "time": "00:48:12"
+    },
+    {
+      "name": "Octopress – A blogging framework for hackers",
+      "href": "http://octopress.org/",
+      "time": "00:59:33"
+    },
+    {
+      "name": "Smarty – PHP Template Engine",
+      "href": "http://www.smarty.net/",
+      "time": "01:04:07"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Ready Set Raphael",
+      "href": "http://readysetraphael.com/",
+      "time": "01:33:42"
+    },
+    {
+      "name": "Die Node.js Knockout Gewinner",
+      "href": "http://blog.nodeknockout.com/post/9895206272/node-knockout-winners",
+      "time": "01:33:42"
+    },
+    {
+      "name": "imgmin",
+      "href": "https://github.com/rflynn/imgmin",
+      "time": "01:33:42"
+    },
+    {
+      "name": "Frontend Conf Zürich Videos",
+      "href": "http://www.ustream.tv/user/Frontendconf_Zurich/videos",
+      "time": "01:33:42"
+    }
+  ],
+  "randomSpec": []
+}

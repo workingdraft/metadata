@@ -1,0 +1,71 @@
+{
+  "episode": 23,
+  "id": 23,
+  "date": "2013-12-25",
+  "duration": "00:59:16",
+  "people": [
+    {
+      "name": "Markus Schlegel",
+      "team": [
+        "2010-11-02",
+        "2011-11-08"
+      ],
+      "twitter": "https://twitter.com/markus_schlegel"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/23/",
+  "audio": "http://workingdraft.de/podpress_trac/web/520/0/wd-23.mp3",
+  "topics": [
+    {
+      "name": "Node.js + SPDY",
+      "href": "https://github.com/donnerjack13589/node-spdy"
+    },
+    {
+      "name": "Calendar API",
+      "href": "http://www.w3.org/TR/2011/WD-calendar-api-20110419/"
+    },
+    {
+      "name": "Battery Status API",
+      "href": "http://www.w3.org/TR/2011/WD-battery-status-20110426/"
+    },
+    {
+      "name": "CSS/SVG-Filters",
+      "href": "https://dvcs.w3.org/hg/FXTF/raw-file/tip/filters/publish/Filters.html#FilterProperty"
+    },
+    {
+      "name": "Eve",
+      "href": "http://functionsource.com/post/eve-when-typing-events-is-too-much"
+    },
+    {
+      "name": "CoffeeKup",
+      "href": "http://coffeekup.org/"
+    },
+    {
+      "name": "HTML5 Accessibility Chops: the alt decision",
+      "href": "http://www.paciellogroup.com/blog/2011/04/html5-accessibility-chops-the-alt-decision/"
+    },
+    {
+      "name": "CSS3-Transitions …",
+      "href": "http://www.w3.org/TR/css3-transitions/#the-transition-property-property-"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "txt2re.com",
+      "href": "http://txt2re.com/"
+    },
+    {
+      "name": "Sloppy",
+      "href": "http://www.dallaway.com/sloppy/"
+    }
+  ],
+  "randomSpec": []
+}

@@ -1,0 +1,90 @@
+{
+  "episode": 10,
+  "id": 10,
+  "date": "2013-12-25",
+  "duration": "01:21:29",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Gerrit van Aaken",
+      "twitter": "https://twitter.com/gerritvanaaken"
+    },
+    {
+      "name": "Markus Schlegel",
+      "team": [
+        "2010-11-02",
+        "2011-11-08"
+      ],
+      "twitter": "https://twitter.com/markus_schlegel"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/10/",
+  "audio": "http://workingdraft.de/podpress_trac/web/212/0/Revision-10_-H.264-vs.-WebM-Shadow-DOM-und-w3fools.com_.mp3",
+  "topics": [
+    {
+      "name": "HTML Video Codec Support in Chrome",
+      "href": "http://blog.chromium.org/2011/01/html-video-codec-support-in-chrome.html"
+    },
+    {
+      "name": "JavaScript Full Screen API, Navigation Timing and repeating CSS Gradients",
+      "href": "http://peter.sh/2011/01/javascript-full-screen-api-navigation-timing-and-repeating-css-gradients/"
+    },
+    {
+      "name": "photoshopetiquette.com",
+      "href": "http://photoshopetiquette.com/"
+    },
+    {
+      "name": "IndexedDB in Firefox 4",
+      "href": "https://hacks.mozilla.org/2011/01/indexeddb-in-firefox-4/"
+    },
+    {
+      "name": "jQuery 1.5 Beta 1 released",
+      "href": "http://blog.jquery.com/2011/01/14/jquery-1-5-beta-1-released/"
+    },
+    {
+      "name": "Dojo 1.6 Release Notes",
+      "href": "http://docs.dojocampus.org/releasenotes/1.6"
+    },
+    {
+      "name": "What the heck is Shadow DOM?",
+      "href": "http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/"
+    },
+    {
+      "name": "CSSOM, Vars, Mixins, etc. (=HTML Slides, zu navigieren per Cursortasten)",
+      "href": "http://www.xanthir.com/talks/2011-01-12/slides.html"
+    },
+    {
+      "name": "w3fools.com",
+      "href": "http://w3fools.com/"
+    },
+    {
+      "name": "CSS3 gradients in Webkit …",
+      "href": "http://webkit.org/blog/1424/css3-gradients/"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Mobile Perf",
+      "href": "http://www.stevesouders.com/mobileperf/"
+    },
+    {
+      "name": "Flash 10.2 beta",
+      "href": "http://labs.adobe.com/technologies/flashplayer10/"
+    }
+  ],
+  "randomSpec": []
+}

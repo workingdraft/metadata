@@ -1,0 +1,98 @@
+{
+  "episode": 91,
+  "id": 91,
+  "date": "2013-12-25",
+  "duration": "01:03:25",
+  "live": true,
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    }
+  ],
+  "href": "http://workingdraft.de/91/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1521/0/wd-91.mp3",
+  "topics": [
+    {
+      "name": "Konferenzen",
+      "time": "00:01:20"
+    },
+    {
+      "name": "JPEG Compression and Retina",
+      "href": "http://blog.netvlies.nl/design-interactie/retina-revolution/",
+      "time": "00:44:33"
+    }
+  ],
+  "news": [
+    {
+      "name": "Webplatform.org",
+      "href": "http://webplatform.org/",
+      "time": "00:00:21"
+    }
+  ],
+  "links": [
+    {
+      "name": "History API – Endless Scroll Experiment",
+      "href": "http://warpspire.com/experiments/history-api/",
+      "time": "00:55:00"
+    },
+    {
+      "name": "ModestMaps",
+      "href": "http://modestmaps.com/",
+      "time": "00:55:00"
+    },
+    {
+      "name": "XLSX.js",
+      "href": "http://blog.innovatejs.com/?p=24",
+      "time": "00:55:00"
+    },
+    {
+      "name": "Guide to HTML5 APIs",
+      "href": "http://www.netmagazine.com/features/developer-s-guide-html5-apis",
+      "time": "00:55:00"
+    },
+    {
+      "name": "Don’t initialize all the things on DomReady",
+      "href": "http://www.elijahmanor.com/2012/10/dont-initialize-all-things-in.html",
+      "time": "00:55:00"
+    },
+    {
+      "name": "Master of the :nth-child",
+      "href": "http://nthmaster.com/",
+      "time": "00:55:00"
+    },
+    {
+      "name": "Jed Internationalization Toolkit",
+      "href": "http://slexaxton.github.com/Jed/",
+      "time": "00:55:00"
+    },
+    {
+      "name": "Complete List of HTML Meta Tags",
+      "href": "http://code.lancepollard.com/complete-list-of-html-meta-tags/",
+      "time": "00:55:00"
+    },
+    {
+      "name": "Bourbon Sass Mixins",
+      "href": "http://thoughtbot.com/bourbon/",
+      "time": "00:55:00"
+    }
+  ],
+  "randomSpec": []
+}

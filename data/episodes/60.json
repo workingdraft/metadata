@@ -1,0 +1,81 @@
+{
+  "episode": 60,
+  "id": 60,
+  "date": "2012-02-29",
+  "duration": "01:15:01",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Dirk Jesse",
+      "twitter": "https://twitter.com/djesse"
+    }
+  ],
+  "href": "http://workingdraft.de/60/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1053/0/wd-60.mp3",
+  "topics": [
+    {
+      "name": "Adobe Edge Preview 4",
+      "href": "http://labs.adobe.com/technologies/edge/",
+      "time": "00:00:18"
+    },
+    {
+      "name": "Aktuelle Neuerungen in WebKit",
+      "href": "http://www.webkit.org/blog/",
+      "time": "00:10:49"
+    },
+    {
+      "name": "Web Components (+ Polyfill)",
+      "href": "http://dvcs.w3.org/hg/webcomponents/raw-file/tip/explainer/index.html",
+      "time": "00:20:57"
+    },
+    {
+      "name": "Saving images and files in localStorage",
+      "href": "http://hacks.mozilla.org/2012/02/saving-images-and-files-in-localstorage/",
+      "time": "00:33:30"
+    },
+    {
+      "name": "Quellen von und Strategien zur Informationsbeschaffung",
+      "time": "00:41:56"
+    },
+    {
+      "name": "Verlosung von 3 Karten für den MMT 29",
+      "href": "http://mmt29.multimediatreff.de",
+      "time": "01:07:36"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Whatfont Tool",
+      "href": "http://chengyinliu.com/whatfont.html",
+      "time": "01:08:40"
+    },
+    {
+      "name": "Overthrow: An overflow polyfill for responsive design",
+      "href": "http://filamentgroup.com/lab/overthrow",
+      "time": "01:08:40"
+    },
+    {
+      "name": "Android Measuring Stick",
+      "href": "http://pxldot.com/post/18281312362/android-measuring-stick",
+      "time": "01:08:40"
+    },
+    {
+      "name": "Chaplin",
+      "href": "https://github.com/moviepilot/chaplin",
+      "time": "01:08:40"
+    },
+    {
+      "name": "HTML5 Game Dev News",
+      "href": "http://www.html5gamedevs.com/",
+      "time": "01:08:40"
+    }
+  ],
+  "randomSpec": []
+}

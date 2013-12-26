@@ -1,0 +1,55 @@
+{
+  "episode": 16,
+  "id": 16,
+  "date": "2013-12-25",
+  "duration": "02:01:26",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Daniel Melanchthon",
+      "twitter": "https://twitter.com/dm_ms"
+    },
+    {
+      "name": "Markus Schlegel",
+      "team": [
+        "2010-11-02",
+        "2011-11-08"
+      ],
+      "twitter": "https://twitter.com/markus_schlegel"
+    }
+  ],
+  "href": "http://workingdraft.de/16/",
+  "audio": "http://workingdraft.de/podpress_trac/web/407/0/wd-16.mp3",
+  "topics": [
+    {
+      "name": "Was zeichnet IE9 aus?"
+    },
+    {
+      "name": "Warum werden manche neue Features unterstützt, warum manche nicht?"
+    },
+    {
+      "name": "Was denkt Microsoft hinsichtlich der Videocodec-Problematik?"
+    },
+    {
+      "name": "Wird es kürzere Releasezyklen geben? Was kann man tun, um die alten IEs schneller zu verdrängen?"
+    },
+    {
+      "name": "Warum wird das Entwickeln für die vielen IE-Versionen nicht erleichtert?"
+    },
+    {
+      "name": "Mehr Wissenvermittlung in deutschen Landen?"
+    },
+    {
+      "name": "Engagement im W3C"
+    }
+  ],
+  "news": [],
+  "links": [],
+  "randomSpec": []
+}

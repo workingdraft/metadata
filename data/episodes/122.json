@@ -1,0 +1,35 @@
+{
+  "episode": 122,
+  "id": 122,
+  "date": "2013-12-25",
+  "duration": "00:34:17",
+  "flags": [
+    "no-topics"
+  ],
+  "people": [
+    {
+      "name": "Christian Heilmann",
+      "twitter": "https://twitter.com/codepo8"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    }
+  ],
+  "href": "http://workingdraft.de/122/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1959/0/wd-122.mp3",
+  "topics": [],
+  "news": [],
+  "links": [],
+  "randomSpec": []
+}

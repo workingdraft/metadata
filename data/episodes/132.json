@@ -1,0 +1,76 @@
+{
+  "episode": 132,
+  "id": 132,
+  "date": "2013-12-25",
+  "duration": "01:08:35",
+  "live": true,
+  "people": [
+    {
+      "name": "asciidisco",
+      "twitter": "https://twitter.com/asciidisco"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    }
+  ],
+  "href": "http://workingdraft.de/132/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2054/0/wd-132.mp3",
+  "topics": [
+    {
+      "name": "Testing Situation heute – Hallo DalekJS",
+      "href": "http://dalekjs.com/",
+      "time": "00:01:36"
+    }
+  ],
+  "news": [
+    {
+      "name": "Firefox 23 ist da",
+      "href": "http://www.mozilla.org/en-US/firefox/23.0/releasenotes/",
+      "time": "00:00:31"
+    }
+  ],
+  "links": [
+    {
+      "name": "Techniques for mobile and responsive cross-browser testing",
+      "href": "http://webuild.envato.com/blog/techniques-for-mobile-and-responsive-cross-browser-testing/",
+      "time": "01:03:36"
+    },
+    {
+      "name": "How To Do A Procedural City In 100 Lines – Learning Three.js",
+      "href": "http://learningthreejs.com/blog/2013/08/02/how-to-do-a-procedural-city-in-100lines/",
+      "time": "01:03:36"
+    },
+    {
+      "name": "visibility:visible innerhalb von visibility:hidden",
+      "href": "http://jsbin.com/exepef/1/edit",
+      "time": "01:03:36"
+    },
+    {
+      "name": "Ultrasonic Networking on the Web",
+      "href": "http://smus.com/ultrasonic-networking/",
+      "time": "01:03:36"
+    },
+    {
+      "name": "Absolute Horizontal And Vertical Centering In CSS",
+      "href": "http://coding.smashingmagazine.com/2013/08/09/absolute-horizontal-vertical-centering-css/",
+      "time": "01:03:36"
+    },
+    {
+      "name": "KarlsruheJS",
+      "href": "http://karlsruhejs.org/",
+      "time": "01:03:36"
+    }
+  ],
+  "randomSpec": []
+}

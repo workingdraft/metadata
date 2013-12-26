@@ -1,0 +1,55 @@
+{
+  "episode": 15,
+  "id": 15,
+  "date": "2013-12-25",
+  "duration": "01:01:55",
+  "people": [
+    {
+      "name": "Marc Hinse",
+      "twitter": "https://twitter.com/MadeMyDay"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    }
+  ],
+  "href": "http://workingdraft.de/15/",
+  "audio": "http://workingdraft.de/podpress_trac/web/355/0/wd-15.mp3",
+  "topics": [
+    {
+      "name": "Is IE9 a modern browser?",
+      "href": "http://people.mozilla.com/~prouget/ie9/"
+    },
+    {
+      "name": "Performance Innumeracy & False Positives",
+      "href": "http://infrequently.org/2011/02/on-performance-innumeracy-false-positives/"
+    },
+    {
+      "name": "Use efficient CSS selectors",
+      "href": "http://www.css-101.org/descendant-selector/go_fetch_yourself.php"
+    },
+    {
+      "name": "CSS drop-shadows without images",
+      "href": "http://nicolasgallagher.com/css-drop-shadows-without-images/demo/"
+    },
+    {
+      "name": "The 80/20 Rule Applied to Web Design",
+      "href": "http://www.webdesignerdepot.com/2011/02/the-8020-rule-applied-to-web-design/"
+    },
+    {
+      "name": "HARDWRK SSD HDD Adapter Kit für MacBook Pro",
+      "href": "http://hardwrk.com/macbook-ssd-hdd-adapter-kit.html"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Surefire DOM Element insertion",
+      "href": "http://paulirish.com/2011/surefire-dom-element-insertion/"
+    }
+  ],
+  "randomSpec": []
+}

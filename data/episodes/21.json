@@ -1,0 +1,86 @@
+{
+  "episode": 21,
+  "id": 21,
+  "date": "2013-12-25",
+  "duration": "01:32:56",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Dirk Jesse",
+      "twitter": "https://twitter.com/djesse"
+    },
+    {
+      "name": "Markus Schlegel",
+      "team": [
+        "2010-11-02",
+        "2011-11-08"
+      ],
+      "twitter": "https://twitter.com/markus_schlegel"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/21/",
+  "audio": "http://workingdraft.de/podpress_trac/web/482/0/wd-21.mp3",
+  "topics": [
+    {
+      "name": "SPDY on Google servers?",
+      "href": "http://groups.google.com/group/spdy-dev/browse_thread/thread/4c2396ecbc36b1c4?pli=1"
+    },
+    {
+      "name": "Mobile Website oder Web-App?",
+      "href": "http://praegnanz.de/weblog/mobile-website-oder-web-app"
+    },
+    {
+      "name": "The JavaScript Disruption",
+      "href": "http://www.richardrodger.com/2011/04/05/the-javascript-disruption/"
+    },
+    {
+      "name": "Webshims Lib",
+      "href": "http://afarkas.github.com/webshim/demos/index.html"
+    },
+    {
+      "name": "Suche in Chrome per type=search anmelden",
+      "href": "http://markus-schlegel.com/weblog/suche-in-chrome-per-typesearch-anmelden"
+    },
+    {
+      "name": "It’s a mad, mad, mad, mad manimation",
+      "href": "http://stuffandnonsense.co.uk/blog/about/its_a_mad_mad_mad_mad_manimation/"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Handling javascript errors on production websites",
+      "href": "http://www.position-absolute.com/articles/handling-javascript-errors-on-production-websites/"
+    },
+    {
+      "name": "Patternify",
+      "href": "http://www.patternify.com/"
+    },
+    {
+      "name": "The Cicada Principle and Why It Matters to Web Designers",
+      "href": "http://designfestival.com/the-cicada-principle-and-why-it-matters-to-web-designers/"
+    },
+    {
+      "name": "Lost and Taken Textur Galerie",
+      "href": "http://lostandtaken.com/gallery"
+    },
+    {
+      "name": "Fuel",
+      "href": "http://fuelphp.com/"
+    }
+  ],
+  "randomSpec": []
+}

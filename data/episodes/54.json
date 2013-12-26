@@ -1,0 +1,80 @@
+{
+  "episode": 54,
+  "id": 54,
+  "date": "2013-12-25",
+  "duration": "01:17:44",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/54/",
+  "audio": "http://workingdraft.de/podpress_trac/web/962/0/wd-54.mp3",
+  "topics": [
+    {
+      "name": "Firefox",
+      "href": "http://www.mozilla.org/de/firefox/",
+      "time": "00:00:19"
+    },
+    {
+      "name": "Proposed HTML elements and attributes",
+      "href": "http://www.w3.org/html/wg/next/markup/",
+      "time": "00:23:48"
+    },
+    {
+      "name": "The New Web Typography",
+      "href": "http://ie.microsoft.com/testdrive/Graphics/opentype/opentype-fontbureau/index.html",
+      "time": "00:35:25"
+    },
+    {
+      "name": "Profiling CSS for fun and profit. Optimization notes.",
+      "href": "http://perfectionkills.com/profiling-css-for-fun-and-profit-optimization-notes/",
+      "time": "00:40:33"
+    },
+    {
+      "name": "Proposal: Scripting detection using CSS media queries",
+      "href": "http://www.nczonline.net/blog/2012/01/04/proposal-scripting-detection-using-css-media-queries/",
+      "time": "00:55:20"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "A Fix for the iOS Orientationchange Zoom Bug",
+      "href": "http://filamentgroup.com/lab/a_fix_for_the_ios_orientationchange_zoom_bug/",
+      "time": "01:11:57"
+    },
+    {
+      "name": "Impress.js",
+      "href": "http://bartaz.github.com/impress.js/",
+      "time": "01:11:57"
+    },
+    {
+      "name": "Fabric now has (almost complete) SVG export",
+      "href": "https://twitter.com/#!/kangax/status/153955271725690882",
+      "time": "01:11:57"
+    },
+    {
+      "name": "ShopTalk – A live web design and development podcast by Chris Coyier and Dave Rupert.",
+      "href": "http://shoptalkshow.com/",
+      "time": "01:11:57"
+    },
+    {
+      "name": "FTP Server des Chaos Computer Club mit allen 28C3-Vorträgen zum Download.",
+      "href": "ftp://ftp.ccc.de/congress/2011/",
+      "time": "01:11:57"
+    }
+  ],
+  "randomSpec": []
+}

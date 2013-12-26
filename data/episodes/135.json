@@ -1,0 +1,76 @@
+{
+  "episode": 135,
+  "id": 135,
+  "date": "2013-12-25",
+  "duration": "00:48:32",
+  "live": true,
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Matthias Mees",
+      "twitter": "https://twitter.com/yellowled"
+    }
+  ],
+  "href": "http://workingdraft.de/135/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2083/0/wd-135.mp3",
+  "topics": [
+    {
+      "name": "Progressive Enhancement – Still alive and kicking.",
+      "href": "http://danielmall.com/articles/progressive-enhancement/",
+      "time": "00:02:41"
+    },
+    {
+      "name": "Bower – A package manager for the web",
+      "href": "http://yellowled.de/archiv/46/Asset-Verwaltung-mit-Bower.html",
+      "time": "00:19:00"
+    }
+  ],
+  "news": [
+    {
+      "name": "Stripe",
+      "href": "https://stripe.com/global#germany",
+      "time": "00:01:36"
+    },
+    {
+      "name": "Opera 16 released",
+      "href": "http://my.opera.com/desktopteam/blog/2013/08/27/opera-16",
+      "time": "00:01:36"
+    }
+  ],
+  "links": [
+    {
+      "name": "XDomain",
+      "href": "https://github.com/jpillora/xdomain",
+      "time": "00:44:30"
+    },
+    {
+      "name": "Transitions for Off-Canvas Navigations",
+      "href": "http://tympanus.net/codrops/2013/08/28/transitions-for-off-canvas-navigations/",
+      "time": "00:44:30"
+    },
+    {
+      "name": "HTML5 Progress Element",
+      "href": "http://css-tricks.com/html5-progress-element/",
+      "time": "00:44:30"
+    },
+    {
+      "name": "Anfragen aus der Hölle",
+      "href": "http://anfragenausderhoelle.tumblr.com/",
+      "time": "00:44:30"
+    }
+  ],
+  "randomSpec": []
+}

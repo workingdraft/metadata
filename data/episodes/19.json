@@ -1,0 +1,86 @@
+{
+  "episode": 19,
+  "id": 19,
+  "date": "2011-03-29",
+  "duration": "00:59:24",
+  "people": [
+    {
+      "name": "Andreas Dantz",
+      "twitter": "https://twitter.com/dantz"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/19/",
+  "audio": "http://workingdraft.de/podpress_trac/web/462/0/wd-19.mp3",
+  "topics": [
+    {
+      "name": "Barcamp Ruhr 4",
+      "href": "http://www.barcampruhr3.de/networks/wiki/index.berichte"
+    },
+    {
+      "name": "Firefox 4 ist da!",
+      "href": "http://www.getfirefox.de/"
+    },
+    {
+      "name": "HTML5-Handbuch",
+      "href": "http://webkompetenz.wikidot.com/docs:html-handbuch"
+    },
+    {
+      "name": "Native webcam support and orientation events",
+      "href": "http://my.opera.com/core/blog/2011/03/23/webcam-orientation-preview"
+    },
+    {
+      "name": "Cache Manifest Validator",
+      "href": "http://manifest-validator.com/"
+    },
+    {
+      "name": "IE9 MIME-Handling Change: text/css",
+      "href": "http://msdn.microsoft.com/en-us/library/gg622939(v=vs.85).aspx"
+    },
+    {
+      "name": "Illuminations for Developers",
+      "href": "http://www.illuminations-for-developers.com/"
+    },
+    {
+      "name": "CSS Pivot",
+      "href": "http://www.csspivot.com/"
+    },
+    {
+      "name": "Ceaser CSS Easing Animation Tool",
+      "href": "http://matthewlein.com/ceaser/"
+    },
+    {
+      "name": "Targeting mobile-optimized CSS at Windows Phone 7",
+      "href": "http://blogs.msdn.com/b/iemobile/archive/2010/12/08/targeting-mobile-optimized-css-at-windows-phone-7.aspx"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "context-blender",
+      "href": "https://github.com/Phrogz/context-blender"
+    },
+    {
+      "name": "Don’t Trust IE9′s Document Modes",
+      "href": "http://www.craig-russell.co.uk/dont-trust-ie9s-document-modes/"
+    },
+    {
+      "name": "CSS Regions Module",
+      "href": "http://dev.w3.org/csswg/css3-regions/Overview.src.html"
+    }
+  ],
+  "randomSpec": []
+}

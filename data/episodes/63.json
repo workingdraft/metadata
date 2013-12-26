@@ -1,0 +1,76 @@
+{
+  "episode": 63,
+  "id": 63,
+  "date": "2012-03-29",
+  "duration": "01:20:38",
+  "live": true,
+  "people": [
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/63/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1095/0/wd-63.mp3",
+  "topics": [
+    {
+      "name": "CSS: The Bad Parts",
+      "href": "http://www.impressivewebs.com/css-the-bad-parts/",
+      "time": "00:00:17"
+    },
+    {
+      "name": "iPad – Retina Display FTW oder WTF?",
+      "href": "http://praegnanz.de/weblog/webdesign-retina-display-fonts",
+      "time": "00:13:14"
+    },
+    {
+      "name": "Responsive Werbung",
+      "href": "http://www.ravelrumba.com/blog/responsive-ads-real-world-ad-server-implementation/",
+      "time": "00:28:50"
+    },
+    {
+      "name": "Firefox 11",
+      "href": "https://developer.mozilla.org/en/Firefox_11_for_developers",
+      "time": "00:50:43"
+    },
+    {
+      "name": "Open Source Data",
+      "time": "01:01:28"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Paul Irish über nen heißesten Scheiß im Chrome auf der SXSW",
+      "href": "https://plus.google.com/113127438179392830442/posts/W5ZRu1gWQBi",
+      "time": "01:15:25"
+    },
+    {
+      "name": "ScrollPath",
+      "href": "https://github.com/JoelBesada/scrollpath",
+      "time": "01:15:25"
+    },
+    {
+      "name": "JavaScript Extremoptimierungssport",
+      "time": "01:15:25"
+    }
+  ],
+  "randomSpec": []
+}

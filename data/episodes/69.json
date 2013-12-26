@@ -1,0 +1,76 @@
+{
+  "episode": 69,
+  "id": 69,
+  "date": "2013-12-25",
+  "duration": "00:57:29",
+  "live": true,
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/69/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1183/0/wd-69.mp3",
+  "topics": [
+    {
+      "name": "Opera implementiert -webkit-Präfixes",
+      "href": "http://dev.opera.com/articles/view/opera-mobile-emulator-experimental-webkit-prefix-support/",
+      "time": "00:00:31"
+    },
+    {
+      "name": "Conditional CSS",
+      "href": "http://adactio.com/journal/5429/",
+      "time": "00:31:22"
+    },
+    {
+      "name": "Content Choreography in Responsive Web Design",
+      "href": "http://www.jordanm.co.uk/contentchoreography",
+      "time": "00:43:18"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "idb.filesystem.js",
+      "href": "http://ericbidelman.tumblr.com/post/21649963613/idb-filesystem-js-bringing-the-html5-filesystem-api",
+      "time": "00:53:03"
+    },
+    {
+      "name": "Optimizing with the timeline panel",
+      "href": "http://gent.ilcore.com/2012/04/optimizing-with-timeline-panel.html",
+      "time": "00:53:03"
+    },
+    {
+      "name": "CSS background-attachment: local",
+      "href": "http://lea.verou.me/2012/04/background-attachment-local/",
+      "time": "00:53:03"
+    }
+  ],
+  "randomSpec": []
+}

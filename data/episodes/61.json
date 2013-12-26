@@ -1,0 +1,89 @@
+{
+  "episode": 61,
+  "id": 61,
+  "date": "2013-12-25",
+  "duration": "01:04:24",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/61/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1063/0/wd-61.mp3",
+  "topics": [
+    {
+      "name": "HTML5 Please API",
+      "href": "http://api.html5please.com/",
+      "time": "00:00:12"
+    },
+    {
+      "name": "Boot to Gecko",
+      "href": "http://hacks.mozilla.org/2012/02/mozillas-boot-to-gecko-the-web-is-the-platform/",
+      "time": "00:12:16"
+    },
+    {
+      "name": "PHP 5.4.0 ist da",
+      "href": "http://www.golem.de/news/scriptsprache-php-5-4-0-veroeffentlicht-1203-90202.html",
+      "time": "00:23:22"
+    },
+    {
+      "name": "Neue Image Replacement Techniken",
+      "time": "00:31:32"
+    },
+    {
+      "name": "SQL.js",
+      "href": "https://github.com/kripken/sql.js",
+      "time": "00:45:44"
+    },
+    {
+      "name": "Verlosung der Karten für den MMT 29",
+      "time": "00:58:00"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Anselm’s Weekly Weblinks",
+      "time": "00:59:07"
+    },
+    {
+      "name": "Android x86",
+      "href": "http://www.android-x86.org/",
+      "time": "00:59:07"
+    },
+    {
+      "name": "basket.js",
+      "href": "http://addyosmani.github.com/basket.js/",
+      "time": "00:59:07"
+    },
+    {
+      "name": "Vendor-prefixed CSS Property Overview",
+      "href": "http://peter.sh/experiments/vendor-prefixed-css-property-overview/",
+      "time": "00:59:07"
+    },
+    {
+      "name": "MapBox",
+      "href": "http://mapbox.com/",
+      "time": "00:59:07"
+    }
+  ],
+  "randomSpec": []
+}

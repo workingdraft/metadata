@@ -1,0 +1,106 @@
+{
+  "episode": 38,
+  "id": 38,
+  "date": "2011-08-30",
+  "duration": "01:35:57",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Dirk Jesse",
+      "twitter": "https://twitter.com/djesse"
+    },
+    {
+      "name": "Matthias Mees",
+      "twitter": "https://twitter.com/yellowled"
+    }
+  ],
+  "href": "http://workingdraft.de/38/",
+  "audio": "http://workingdraft.de/podpress_trac/web/751/0/wd-38.mp3",
+  "topics": [
+    {
+      "name": "Introducing WebAPI",
+      "href": "http://hacks.mozilla.org/2011/08/introducing-webapi/",
+      "time": "00:02:00"
+    },
+    {
+      "name": "Component Model",
+      "href": "http://wiki.whatwg.org/wiki/Component_Model",
+      "time": "00:15:08"
+    },
+    {
+      "name": "Getting rusty – we need new best practices for a different development world",
+      "href": "http://www.wait-till-i.com/2011/08/15/getting-rusty-we-need-new-best-practices-for-a-different-development-world/",
+      "time": "00:22:24"
+    },
+    {
+      "name": "Bootstrap, from Twitter",
+      "href": "http://twitter.github.com/bootstrap/",
+      "time": "00:50:20"
+    },
+    {
+      "name": "The Semantic Grid System",
+      "href": "http://semantic.gs/",
+      "time": "01:03:55"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Get started with WebGL: draw a square",
+      "href": "http://www.netmagazine.com/tutorials/get-started-webgl-draw-square",
+      "time": "01:28:00"
+    },
+    {
+      "name": "onProximityFade",
+      "href": "http://linowski.ca/experiments/onProximityFade/demo.html",
+      "time": "01:28:00"
+    },
+    {
+      "name": "JSConf Videos",
+      "href": "http://blip.tv/jsconf",
+      "time": "01:28:00"
+    },
+    {
+      "name": "The Latest in HTML5",
+      "href": "http://html5-demos.appspot.com/static/html5-whats-new/template/index.html#1",
+      "time": "01:28:00"
+    },
+    {
+      "name": "Pagoda Box",
+      "href": "http://www.pagodabox.com/",
+      "time": "01:28:00"
+    },
+    {
+      "name": "Recurly.js",
+      "href": "http://js.recurly.com/",
+      "time": "01:28:00"
+    },
+    {
+      "name": "TransformJS",
+      "href": "http://transformjs.strobeapp.com/",
+      "time": "01:28:00"
+    },
+    {
+      "name": "Fabric.js",
+      "href": "http://perfectionkills.com/fabric-js-0-5-is-out/",
+      "time": "01:28:00"
+    },
+    {
+      "name": "FLEXSLIDER",
+      "href": "http://flex.madebymufffin.com/",
+      "time": "01:28:00"
+    },
+    {
+      "name": "flux slider",
+      "href": "http://www.joelambert.co.uk/flux/",
+      "time": "01:28:00"
+    }
+  ],
+  "randomSpec": []
+}

@@ -1,0 +1,97 @@
+{
+  "episode": 79,
+  "id": 79,
+  "date": "2013-12-25",
+  "duration": "00:35:52",
+  "live": true,
+  "people": [
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/79/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1351/0/wd-79.mp3",
+  "topics": [
+    {
+      "name": "Why no FileSystem API in Firefox?",
+      "href": "http://hacks.mozilla.org/2012/07/why-no-filesystem-api-in-firefox/",
+      "time": "00:01:14"
+    },
+    {
+      "name": "Chrome Apps: JavaScript Desktop Development",
+      "href": "http://dailyjs.com/2012/07/05/evolution-chrome-apps/",
+      "time": "00:16:06"
+    }
+  ],
+  "news": [
+    {
+      "name": "Fullscreen-API",
+      "href": "http://www.w3.org/TR/2012/WD-fullscreen-20120703/",
+      "time": "00:00:22"
+    },
+    {
+      "name": "Weniger Prefixes in Firefox",
+      "href": "http://paulrouget.com/e/unprefixing-in-firefox-16/",
+      "time": "00:00:22"
+    }
+  ],
+  "links": [
+    {
+      "name": "Git in 15 Minutes",
+      "href": "http://try.github.com/levels/1/challenges/1",
+      "time": "00:30:42"
+    },
+    {
+      "name": "GitHub Android App Released",
+      "href": "https://github.com/blog/1187-github-android-app-released",
+      "time": "00:30:42"
+    },
+    {
+      "name": "PHP – The right way",
+      "href": "http://www.phptherightway.com/",
+      "time": "00:30:42"
+    },
+    {
+      "name": "Replacing Text in DOM",
+      "href": "http://james.padolsey.com/javascript/replacing-text-in-the-dom-solved/",
+      "time": "00:30:42"
+    },
+    {
+      "name": "iOS has a :hover problem",
+      "href": "http://www.nczonline.net/blog/2012/07/05/ios-has-a-hover-problem/",
+      "time": "00:30:42"
+    },
+    {
+      "name": "TYPO3 Codesprint Freiburg",
+      "href": "http://wiki.typo3.org/Code_Sprint_Freiburg_2012",
+      "time": "00:30:42"
+    }
+  ],
+  "randomSpec": []
+}

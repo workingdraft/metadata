@@ -1,0 +1,93 @@
+{
+  "episode": 52,
+  "id": 52,
+  "date": "2013-12-25",
+  "duration": "01:01:32",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/52/",
+  "audio": "http://workingdraft.de/podpress_trac/web/945/0/wd-52.mp3",
+  "topics": [
+    {
+      "name": "Dabblet",
+      "href": "http://dabblet.com/",
+      "time": "00:00:11"
+    },
+    {
+      "name": "Auto-saving CSS And JavaScript Changes Locally From The Chrome Developer Tools",
+      "href": "http://addyosmani.com/blog/autosave-changes-chrome-dev-tools/",
+      "time": "00:10:55"
+    },
+    {
+      "name": "Android—Ice Cream Sandwich: The HTML5 Developer Scorecard",
+      "href": "http://www.sencha.com/blog/galaxy-nexus-the-html5-developer-scorecard/",
+      "time": "00:17:46"
+    },
+    {
+      "name": "Internet Explorer – Microsoft führt automatische Updates ein",
+      "href": "http://www.golem.de/1112/88460.html",
+      "time": "00:28:16"
+    },
+    {
+      "name": "Zwei kostenfreie Codecs kandidieren für MPEG-Standard",
+      "href": "http://www.heise.de/ix/meldung/Zwei-kostenfreie-Codecs-kandidieren-fuer-MPEG-Standard-1393341.html",
+      "time": "00:28:35"
+    },
+    {
+      "name": "Speed Tracer",
+      "href": "http://code.google.com/intl/de-DE/webtoolkit/speedtracer/",
+      "time": "00:38:46"
+    },
+    {
+      "name": "Should You Learn CoffeeScript?",
+      "href": "http://net.tutsplus.com/articles/interviews/should-you-learn-coffeescript/",
+      "time": "00:45:16"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Videos des MMT29 – HTML5, CSS3 & Co vom 03.12.2011",
+      "href": "http://www.youtube.com/multimediatreff",
+      "time": "00:56:24"
+    },
+    {
+      "name": "Tutorial zum Verwenden von Backbone.js mit AMD",
+      "href": "http://backbonetutorials.com/organizing-backbone-using-modules/",
+      "time": "00:56:24"
+    },
+    {
+      "name": "HTML 5 Canvas Deep Dive",
+      "href": "http://projects.joshy.org/presentations/HTML/CanvasDeepDive/presentation.html",
+      "time": "00:56:24"
+    },
+    {
+      "name": "Better error handling with window.onerror",
+      "href": "http://dev.opera.com/articles/view/better-error-handling-with-window-onerror/",
+      "time": "00:56:24"
+    }
+  ],
+  "randomSpec": []
+}

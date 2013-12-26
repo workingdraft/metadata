@@ -1,0 +1,113 @@
+{
+  "episode": 82,
+  "id": 82,
+  "date": "2013-12-25",
+  "duration": "01:13:07",
+  "live": true,
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "twitter": "https://twitter.com/helloanselm"
+    }
+  ],
+  "href": "http://workingdraft.de/82/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1389/0/wd-82.mp3",
+  "topics": [
+    {
+      "name": "Discussion about CSS reusability",
+      "href": "http://css-tricks.com/a-discussion-about-css-reusability/",
+      "time": "00:00:40"
+    },
+    {
+      "name": "XOXOCO – Is it time for the password-less login?",
+      "href": "http://notes.xoxco.com/post/27999787765/is-it-time-for-password-less-login",
+      "time": "00:17:05"
+    },
+    {
+      "name": "Content Security Policy",
+      "href": "https://dvcs.w3.org/hg/content-security-policy/raw-file/tip/csp-specification.dev.html#script-interfaces--experimental",
+      "time": "00:24:25"
+    },
+    {
+      "name": "Troy Hunt: Lessons in website security anti-patterns by Tesco",
+      "href": "http://www.troyhunt.com/2012/07/lessons-in-website-security-anti.html",
+      "time": "00:30:40"
+    },
+    {
+      "name": "BinaryJS – Realtime binary streaming for the web using websockets",
+      "href": "http://binaryjs.com/",
+      "time": "00:45:40"
+    },
+    {
+      "name": "Separate var statements",
+      "href": "http://kahlil.co/2012/07/28/Separate-var-Statements/",
+      "time": "00:53:00"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Backbone.js: Hackers Guide Part 2",
+      "href": "http://dailyjs.com/2012/07/26/mvstar-3/",
+      "time": "01:05:50"
+    },
+    {
+      "name": "Journey Through The JavaScript MVC Jungle",
+      "href": "http://coding.smashingmagazine.com/2012/07/27/journey-through-the-javascript-mvc-jungle/",
+      "time": "01:05:50"
+    },
+    {
+      "name": "Selling Accessibility – Negative Factors",
+      "href": "http://www.karlgroves.com/2012/07/26/selling-accessibility-negative-factors/",
+      "time": "01:05:50"
+    },
+    {
+      "name": "My wife is really getting into whiskey",
+      "href": "http://robots.thoughtbot.com/post/28143948206/my-wife-is-getting-really-into-whiskey",
+      "time": "01:05:50"
+    },
+    {
+      "name": "Summer Reading…and Programming",
+      "href": "http://www.robinsloan.com/summer-reading/and-programming/",
+      "time": "01:05:50"
+    },
+    {
+      "name": "insidrrr – Offenes Kompetenznetzwerk für interaktive Medien",
+      "href": "http://insidrrr.com/",
+      "time": "01:05:50"
+    },
+    {
+      "name": "Cologne.js",
+      "href": "http://colognejs.de/",
+      "time": "01:05:50"
+    },
+    {
+      "name": "BrainCamp Cologne",
+      "href": "http://braincamp-cologne.com/",
+      "time": "01:05:50"
+    }
+  ],
+  "randomSpec": []
+}

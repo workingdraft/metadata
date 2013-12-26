@@ -1,0 +1,64 @@
+{
+  "episode": 142,
+  "id": 142,
+  "date": "2013-10-27",
+  "duration": "00:59:16",
+  "live": true,
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/142/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2132/0/wd-142.mp3",
+  "topics": [
+    {
+      "name": "Hörerfrage: Wie nutzt ihr Webfonts?",
+      "href": "https://twitter.com/malteriechmann/status/390883254984654848",
+      "time": "00:00:14"
+    },
+    {
+      "name": "Hörerfrage: Mit welchen Entwicklungsumgebungen arbeitet ihr?",
+      "href": "https://twitter.com/bln42/status/391592494179180544",
+      "time": "00:17:12"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "SirPepe/Unsync",
+      "href": "https://github.com/SirPepe/Unsync",
+      "time": "00:55:40"
+    },
+    {
+      "name": "learn-travis",
+      "href": "https://github.com/nelsonic/learn-travis",
+      "time": "00:55:40"
+    }
+  ],
+  "randomSpec": [
+    {
+      "name": "Standardstyles für Elemente",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/#the-css-user-agent-style-sheet-and-presentational-hints",
+      "time": "00:46:00"
+    }
+  ]
+}

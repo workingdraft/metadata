@@ -1,0 +1,102 @@
+{
+  "episode": 28,
+  "id": 28,
+  "date": "2013-12-25",
+  "duration": "01:57:32",
+  "people": [
+    {
+      "name": "Cem Derin",
+      "twitter": "https://twitter.com/derCemDerin"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Markus Schlegel",
+      "team": [
+        "2010-11-02",
+        "2011-11-08"
+      ],
+      "twitter": "https://twitter.com/markus_schlegel"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/28/",
+  "audio": "http://workingdraft.de/podpress_trac/web/611/0/wd-28.mp3",
+  "topics": [
+    {
+      "name": "jsmad",
+      "href": "http://jsmad.org/",
+      "time": "00:00:55"
+    },
+    {
+      "name": "Lazy HTML Evaluation",
+      "href": "http://www.phpied.com/lazy-html-evaluation/",
+      "time": "00:06:35"
+    },
+    {
+      "name": "iOS 5- und Lion-Scrollgeschichten",
+      "href": "http://davidbcalhoun.com/2011/new-mobile-safari-stuff-in-ios5-position-fixed-overflow-scroll-new-input-type-support-web-workers-ecmascript-5",
+      "time": "00:15:11"
+    },
+    {
+      "name": "Google Instant Pages",
+      "href": "http://www.youtube.com/watch?v=_Jn93FDx9oI",
+      "time": "00:23:23"
+    },
+    {
+      "name": "Responsive Images",
+      "href": "https://github.com/filamentgroup/Responsive-Images",
+      "time": "00:44:09"
+    },
+    {
+      "name": "Markus regt sich über Web-Storage-Events auf!",
+      "href": "http://dev.w3.org/html5/webstorage/#the-storage-event",
+      "time": "00:59:52"
+    },
+    {
+      "name": "Deutschland ist Internet-Entwicklungsland",
+      "href": "http://grochtdreis.de/weblog/2011/06/01/deutschland-ist-internet-entwicklungsland/",
+      "time": "01:09:15"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "SubtlePatterns.com",
+      "href": "http://subtlepatterns.com/",
+      "time": "01:51:12"
+    },
+    {
+      "name": "A fresh look at JavaScript mixins",
+      "href": "http://javascriptweblog.wordpress.com/2011/05/31/a-fresh-look-at-javascript-mixins/",
+      "time": "01:51:12"
+    },
+    {
+      "name": "Trimage",
+      "href": "http://trimage.org/",
+      "time": "01:51:12"
+    },
+    {
+      "name": "How, When, And Why Script Loaders Are Appropriate",
+      "href": "http://msdn.microsoft.com/en-us/scriptjunkie/hh227261.aspx",
+      "time": "01:51:12"
+    },
+    {
+      "name": "Visual Event",
+      "href": "http://www.sprymedia.co.uk/article/Visual+Event",
+      "time": "01:51:12"
+    }
+  ],
+  "randomSpec": []
+}

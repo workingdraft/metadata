@@ -1,0 +1,93 @@
+{
+  "episode": 51,
+  "id": 51,
+  "date": "2013-12-25",
+  "duration": "01:13:20",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    }
+  ],
+  "href": "http://workingdraft.de/51/",
+  "audio": "http://workingdraft.de/podpress_trac/web/931/0/wd-51.mp3",
+  "topics": [
+    {
+      "name": "csg.js",
+      "href": "http://evanw.github.com/csg.js/",
+      "time": "00:03:12"
+    },
+    {
+      "name": "nanoScroller.js",
+      "href": "http://jamesflorentino.com/jquery.nanoscroller/",
+      "time": "00:12:30"
+    },
+    {
+      "name": "Docco",
+      "href": "http://jashkenas.github.com/docco/",
+      "time": "00:21:35"
+    },
+    {
+      "name": "Writing Modular JavaScript With AMD, CommonJS & ES Harmony",
+      "href": "http://addyosmani.com/writing-modular-js/",
+      "time": "00:28:24"
+    },
+    {
+      "name": "jQuery Blog: What is happening to the jQuery Plugins Site?",
+      "href": "http://blog.jquery.com/2011/12/08/what-is-happening-to-the-jquery-plugins-site/",
+      "time": "00:45:44"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "VideoJS",
+      "href": "http://videojs.com/",
+      "time": "01:08:01"
+    },
+    {
+      "name": "Wordless",
+      "href": "http://welaika.github.com/wordless/",
+      "time": "01:08:01"
+    },
+    {
+      "name": "Abschied von der Google Maps API – Ersatz durch Leaflet von CloudMade",
+      "href": "http://blog.gpsies.com/article/174/abschied-von-der-google-maps-api-ersatz-durch-leaflet-von-cloudmade",
+      "time": "01:08:01"
+    },
+    {
+      "name": "Echo JS",
+      "href": "http://www.echojs.com/",
+      "time": "01:08:01"
+    },
+    {
+      "name": "Ember.js",
+      "href": "http://www.emberjs.com/",
+      "time": "01:08:01"
+    },
+    {
+      "name": "dochub",
+      "href": "http://dochub.io/",
+      "time": "01:08:01"
+    }
+  ],
+  "randomSpec": []
+}

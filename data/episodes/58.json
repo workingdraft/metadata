@@ -1,0 +1,119 @@
+{
+  "episode": 58,
+  "id": 58,
+  "date": "2013-12-25",
+  "duration": "01:31:36",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/58/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1018/0/wd-58.mp3",
+  "topics": [
+    {
+      "name": "Vendor-Prefix-Gate",
+      "href": "http://lists.w3.org/Archives/Public/www-style/2012Feb/0313.html",
+      "time": "00:00:22"
+    },
+    {
+      "name": "Musings on Preprocessing",
+      "href": "http://css-tricks.com/musings-on-preprocessing/",
+      "time": "00:28:30"
+    },
+    {
+      "name": "Neue CSS3-Drafts und neue Möglichkeiten",
+      "time": "00:51:42"
+    },
+    {
+      "name": "SEO Ranking Faktoren für Deutschland 2012",
+      "href": "http://www.searchmetrics.com/de/service/ranking-faktoren/de/",
+      "time": "01:05:05"
+    },
+    {
+      "name": "Mozilla arbeitet an Push-Nachrichten",
+      "href": "http://www.golem.de/news/mozilla-push-nachrichten-fuers-web-1202-89555.html",
+      "time": "01:09:47"
+    },
+    {
+      "name": "Remote Tilt",
+      "href": "http://remote-tilt.com/",
+      "time": "01:14:22"
+    },
+    {
+      "name": "Multimediatreff 29",
+      "href": "http://multimediatreff.de/",
+      "time": "01:20:17"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "ShareJS",
+      "href": "http://sharejs.org/",
+      "time": "01:24:12"
+    },
+    {
+      "name": "CSS3 Test",
+      "href": "http://lea.verou.me/2012/02/exactly-how-much-css3-does-your-browser-support/",
+      "time": "01:24:12"
+    },
+    {
+      "name": "Warum man das Placeholder-Attribut nicht als Ersatz für Labels nehmen sollte",
+      "href": "http://www.zachleat.com/web/placeholder/",
+      "time": "01:24:12"
+    },
+    {
+      "name": "Addy Osmanis Talk über skalierbares JavaScript",
+      "href": "http://addyosmani.com/scalable-javascript-videos/",
+      "time": "01:24:12"
+    },
+    {
+      "name": "JavaScript Jabber",
+      "href": "http://javascriptjabber.com/",
+      "time": "01:24:12"
+    },
+    {
+      "name": "Music for programming",
+      "href": "http://musicforprogramming.net/",
+      "time": "01:24:12"
+    },
+    {
+      "name": "http://designpepper.com/podcasts-for-hackers",
+      "href": "http://designpepper.com/podcasts-for-hackers",
+      "time": "01:24:12"
+    },
+    {
+      "name": "Better JS with CoffeeScript",
+      "href": "https://vimeo.com/35258313",
+      "time": "01:24:12"
+    }
+  ],
+  "randomSpec": []
+}

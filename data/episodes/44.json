@@ -1,0 +1,74 @@
+{
+  "episode": 44,
+  "id": 44,
+  "date": "2011-10-28",
+  "duration": "01:01:05",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Sven Wolfermann",
+      "twitter": "https://twitter.com/maddesigns"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/44/",
+  "audio": "http://workingdraft.de/podpress_trac/web/845/0/wd-44.mp3",
+  "topics": [
+    {
+      "name": "Additional HTTP Status Codes",
+      "href": "https://tools.ietf.org/html/draft-nottingham-http-new-status-02",
+      "time": "00:00:00"
+    },
+    {
+      "name": "RequireJS 1.0 released",
+      "href": "http://tagneto.blogspot.com/2011/10/requirejs-10-released.html",
+      "time": "00:00:00"
+    },
+    {
+      "name": "More fun using the Web, with getUserMedia and native pages!",
+      "href": "http://labs.opera.com/news/2011/10/19/",
+      "time": "00:00:00"
+    },
+    {
+      "name": "PimpMyJS",
+      "href": "http://pimpmyjs.com/",
+      "time": "00:00:00"
+    },
+    {
+      "name": "TYPO3 4.6 Release Notes",
+      "href": "http://wiki.typo3.org/TYPO3_4.6",
+      "time": "00:00:00"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "CSS Term Poster (PDF)",
+      "href": "http://img.dreamdealer.nl/dd/css_term_poster.pdf",
+      "time": "00:00:00"
+    },
+    {
+      "name": "Animate.css",
+      "href": "http://daneden.me/animate/",
+      "time": "00:00:00"
+    },
+    {
+      "name": "CSS3 Mobile Pack for Adobe® Fireworks® CS5",
+      "href": "http://blogs.adobe.com/labs/archives/2011/10/adobe-fireworks-css3-mobile-pack-released-to-labs.html",
+      "time": "00:00:00"
+    }
+  ],
+  "randomSpec": []
+}

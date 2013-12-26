@@ -1,0 +1,90 @@
+{
+  "episode": 117,
+  "id": 117,
+  "date": "2013-04-25",
+  "duration": "01:07:02",
+  "live": true,
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/117/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1913/0/wd-117.mp3",
+  "topics": [
+    {
+      "name": "I know jQuery. Now what?",
+      "href": "http://remysharp.com/2013/04/19/i-know-jquery-now-what/",
+      "time": "00:00:56"
+    },
+    {
+      "name": "Font Loading Performance",
+      "href": "http://css-tricks.com/preventing-the-performance-hit-from-custom-fonts/",
+      "time": "00:27:26"
+    }
+  ],
+  "news": [
+    {
+      "name": "jQuery 2.0 erschienen",
+      "href": "http://blog.jquery.com/2013/04/18/jquery-2-0-released/",
+      "time": "00:00:21"
+    }
+  ],
+  "links": [
+    {
+      "name": "Animating with Physics",
+      "href": "http://taybenlor.com/2013/04/19/animating-with-physics.html",
+      "time": "00:59:05"
+    },
+    {
+      "name": "Hand.js",
+      "href": "http://blogs.msdn.com/b/eternalcoding/archive/2013/01/16/hand-js-a-polyfill-for-supporting-pointer-events-on-every-browser.aspx",
+      "time": "00:59:05"
+    },
+    {
+      "name": "Chrome für Enterprise",
+      "href": "http://www.golem.de/news/google-chrome-bekommt-unterstuetzung-fuer-veraltete-browser-1304-98764.html",
+      "time": "00:59:05"
+    },
+    {
+      "name": "SVG filters",
+      "href": "http://docs.webplatform.org/wiki/svg/tutorials/smarter_svg_filters",
+      "time": "00:59:05"
+    },
+    {
+      "name": "Pseudo-Classes to Style Form elements",
+      "href": "http://tjvantoll.com/2013/04/15/list-of-pseudo-elements-to-style-form-controls/",
+      "time": "00:59:05"
+    }
+  ],
+  "randomSpec": [
+    {
+      "name": "CSS3: Resolution-Media-Query",
+      "href": "http://www.w3.org/TR/css3-mediaqueries/#resolution",
+      "time": "00:43:10"
+    },
+    {
+      "name": "HTML5: Table Sorting",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/#table-sorting-model",
+      "time": "00:43:10"
+    }
+  ]
+}

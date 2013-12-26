@@ -1,0 +1,66 @@
+{
+  "episode": 127,
+  "id": 127,
+  "date": "2013-12-25",
+  "duration": "00:46:21",
+  "live": true,
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/127/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2000/0/wd-127.mp3",
+  "topics": [
+    {
+      "name": "Kompatibilität im IE11",
+      "time": "00:00:21"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Google Glass Browser",
+      "href": "http://www.mobilexweb.com/blog/google-glass-browser-html5-responsive-web-design",
+      "time": "00:39:44"
+    },
+    {
+      "name": "Basic JavaScript: an introduction to the language",
+      "href": "http://www.2ality.com/2013/06/basic-javascript.html?spref=tw",
+      "time": "00:39:44"
+    },
+    {
+      "name": "Web Platform Doc Sprint Zurich",
+      "href": "https://wpds-zurich.eventbrite.com/",
+      "time": "00:39:44"
+    }
+  ],
+  "randomSpec": [
+    {
+      "name": "Browser-Infrastruktur",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/#browsing-the-web",
+      "time": "00:23:47"
+    },
+    {
+      "name": "Media Elements",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/#media-elements",
+      "time": "00:23:47"
+    },
+    {
+      "name": "Das Mark-Element",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/#the-mark-element",
+      "time": "00:23:47"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "episode": 143,
+  "id": 143,
+  "date": "2013-12-25",
+  "duration": "00:59:03",
+  "live": true,
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/143/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2141/0/wd-143.mp3",
+  "topics": [
+    {
+      "name": "CSS best practices",
+      "time": "00:00:40"
+    },
+    {
+      "name": "Introducing layout boundaries",
+      "href": "http://wilsonpage.co.uk/introducing-layout-boundaries/",
+      "time": "00:19:11"
+    },
+    {
+      "name": "Batching image insertion",
+      "href": "http://wilsonpage.co.uk/batching-image-insertion/",
+      "time": "00:28:57"
+    },
+    {
+      "name": "Hörerfrage: Wie geht ihr vor, wenn ihr ohne Designer arbeiten müsst/dürft?",
+      "time": "00:47:59"
+    }
+  ],
+  "news": [
+    {
+      "name": "LESSCSS 1.5",
+      "href": "https://github.com/less/less.js/blob/master/CHANGELOG.md",
+      "time": "00:00:12"
+    }
+  ],
+  "links": [
+    {
+      "name": "Snap.svg und BonsaiJS",
+      "href": "http://snapsvg.io/",
+      "time": "00:56:28"
+    },
+    {
+      "name": "1. Kasseler Web Montag",
+      "href": "http://webkrauts.de/termine/2013/1-kasseler-web-montag",
+      "time": "00:56:28"
+    },
+    {
+      "name": "Automating Front-end Workflow",
+      "href": "https://speakerdeck.com/addyosmani/automating-front-end-workflow",
+      "time": "00:56:28"
+    },
+    {
+      "name": "localtunnel",
+      "href": "http://localtunnel.me/",
+      "time": "00:56:28"
+    }
+  ],
+  "randomSpec": [
+    {
+      "name": "Das img-Element",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/#the-img-element",
+      "time": "00:50:08"
+    }
+  ]
+}

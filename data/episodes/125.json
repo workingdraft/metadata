@@ -1,0 +1,83 @@
+{
+  "episode": 125,
+  "id": 125,
+  "date": "2013-06-25",
+  "duration": "00:33:08",
+  "live": true,
+  "people": [
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "twitter": "https://twitter.com/helloanselm"
+    }
+  ],
+  "href": "http://workingdraft.de/125/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1981/0/wd-125.mp3",
+  "topics": [
+    {
+      "name": "Bye, Bye, Chrome Frame",
+      "href": "http://blog.chromium.org/2013/06/retiring-chrome-frame.html",
+      "time": "00:00:33"
+    },
+    {
+      "name": "CSS stacking with display:table",
+      "href": "http://www.iandevlin.com/blog/2013/06/css/css-stacking-with-display-table",
+      "time": "00:12:44"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Web Development Reading List",
+      "href": "http://wdrl.helloanselm.com/",
+      "time": "00:23:00"
+    },
+    {
+      "name": "Why We Need Responsive Images",
+      "href": "http://www.timkadlec.com/2013/06/why-we-need-responsive-images/",
+      "time": "00:23:00"
+    },
+    {
+      "name": "DevTool Secrets",
+      "href": "http://devtoolsecrets.com/",
+      "time": "00:23:00"
+    },
+    {
+      "name": "Grumpicon",
+      "href": "http://www.grumpicon.com/",
+      "time": "00:23:00"
+    },
+    {
+      "name": "Web Fonts and the Critical Path",
+      "href": "http://ianfeather.co.uk/web-fonts-and-the-critical-path/",
+      "time": "00:23:00"
+    },
+    {
+      "name": "Designing for the empty state",
+      "href": "http://tympanus.net/codrops/2013/01/09/designing-for-the-empty-states/",
+      "time": "00:23:00"
+    },
+    {
+      "name": "Front-Trends Videos",
+      "href": "http://vimeo.com/fronttrends",
+      "time": "00:23:00"
+    },
+    {
+      "name": "HTML Inspector",
+      "href": "http://philipwalton.com/articles/introducing-html-inspector/",
+      "time": "00:23:00"
+    },
+    {
+      "name": "The JavaScript Behind Touch-Friendly Sliders",
+      "href": "http://css-tricks.com/the-javascript-behind-touch-friendly-sliders/",
+      "time": "00:23:00"
+    }
+  ],
+  "randomSpec": []
+}

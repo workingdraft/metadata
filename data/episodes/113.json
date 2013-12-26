@@ -1,0 +1,97 @@
+{
+  "episode": 113,
+  "id": 113,
+  "date": "2013-03-29",
+  "duration": "00:49:31",
+  "live": true,
+  "people": [
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    }
+  ],
+  "href": "http://workingdraft.de/113/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1868/0/wd-113.mp3",
+  "topics": [
+    {
+      "name": "jQuery vom CDN – oder nicht?",
+      "href": "http://www.stevesouders.com/blog/2013/03/18/http-archive-jquery/",
+      "time": "00:01:51"
+    },
+    {
+      "name": "Resize Event für DOM Elemente",
+      "href": "http://www.backalleycoder.com/2013/03/18/cross-browser-event-based-element-resize-detection/",
+      "time": "00:17:22"
+    }
+  ],
+  "news": [
+    {
+      "name": "Backbone.js 1.0 ist da.",
+      "href": "http://ashkenas.com/backbonejs-1.0/",
+      "time": "00:00:18"
+    },
+    {
+      "name": "IE10 (Metro) mag Flash",
+      "href": "http://news.cnet.com/8301-1023_3-57573755-93/microsoft-backs-away-from-flash-ban-in-ie10/",
+      "time": "00:00:18"
+    },
+    {
+      "name": "IE11 ist like Gecko",
+      "href": "http://mobilism.nl/blog/2013/03/ie11-to-disguise-itself",
+      "time": "00:00:18"
+    }
+  ],
+  "links": [
+    {
+      "name": "Chart.js",
+      "href": "http://www.chartjs.org/",
+      "time": "00:40:10"
+    },
+    {
+      "name": "Unifying Touch and Mouse",
+      "href": "http://blogs.msdn.com/b/davrous/archive/2013/02/20/handling-touch-in-your-html5-apps-thanks-to-the-pointer-events-of-ie10-and-windows-8.aspx",
+      "time": "00:40:10"
+    },
+    {
+      "name": "Superhero.js",
+      "href": "http://superherojs.com/",
+      "time": "00:40:10"
+    },
+    {
+      "name": "Drawscript",
+      "href": "http://drawscri.pt/",
+      "time": "00:40:10"
+    },
+    {
+      "name": "The Short Cutts",
+      "href": "http://www.theshortcutts.com/",
+      "time": "00:40:10"
+    },
+    {
+      "name": "WebPlatformTools",
+      "href": "http://webplatformtools.org/",
+      "time": "00:40:10"
+    },
+    {
+      "name": "Discover DevTools",
+      "href": "http://discover-devtools.codeschool.com/",
+      "time": "00:40:10"
+    },
+    {
+      "name": "Printing The Web",
+      "href": "http://drublic.de/blog/printing-the-web/",
+      "time": "00:40:10"
+    }
+  ],
+  "randomSpec": []
+}

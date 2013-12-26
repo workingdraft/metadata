@@ -1,0 +1,95 @@
+{
+  "episode": 121,
+  "id": 121,
+  "date": "2013-12-25",
+  "duration": "01:05:04",
+  "live": true,
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/121/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1951/0/wd-121.mp3",
+  "topics": [
+    {
+      "name": "Chrome’s requestAutocomplete()",
+      "href": "http://blog.alexmaccaw.com/requestautocomplete",
+      "time": "00:01:00"
+    },
+    {
+      "name": "Web Components",
+      "href": "http://www.golem.de/news/web-components-html-elemente-selber-bauen-1305-99318.html",
+      "time": "00:17:06"
+    },
+    {
+      "name": "Is This Thing On?",
+      "href": "http://www.icenium.com/blog/icenium-team-blog/2013/04/23/is-this-thing-on-(part-1)",
+      "time": "00:31:31"
+    }
+  ],
+  "news": [
+    {
+      "name": "Firefox 21",
+      "href": "http://www.mozilla.org/en-US/firefox/21.0/releasenotes/",
+      "time": "00:00:20"
+    }
+  ],
+  "links": [
+    {
+      "name": "Prepros",
+      "href": "http://alphapixels.com/prepros/",
+      "time": "01:01:50"
+    },
+    {
+      "name": "Handy Sass Mixins",
+      "href": "http://web-design-weekly.com/2013/05/12/handy-sass-mixins/",
+      "time": "01:01:50"
+    },
+    {
+      "name": "Codeblock.js",
+      "href": "http://filepicker.github.io/codeblock.js/",
+      "time": "01:01:50"
+    },
+    {
+      "name": "How to Style Google Maps",
+      "href": "http://www.hongkiat.com/blog/google-maps-styles/",
+      "time": "01:01:50"
+    },
+    {
+      "name": "JavaScript Regular Expression Enlightenment",
+      "href": "http://tech.pro/tutorial/1214/javascript-regular-expression-enlightenment",
+      "time": "01:01:50"
+    },
+    {
+      "name": "Vier Diskussionen",
+      "href": "http://vier.fm/diskussionen/",
+      "time": "01:01:50"
+    }
+  ],
+  "randomSpec": [
+    {
+      "name": "Sandbox-Attribut",
+      "href": " http://www.whatwg.org/specs/web-apps/current-work/#attr-iframe-sandbox",
+      "time": "00:35:30"
+    }
+  ]
+}

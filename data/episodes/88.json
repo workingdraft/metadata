@@ -1,0 +1,122 @@
+{
+  "episode": 88,
+  "id": 88,
+  "date": "2013-12-25",
+  "duration": "00:48:16",
+  "live": true,
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    }
+  ],
+  "href": "http://workingdraft.de/88/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1484/0/wd-88.mp3",
+  "topics": [
+    {
+      "name": "Der Opus Codec landet in Firefox",
+      "href": "http://firefoxnightly.tumblr.com/post/30799860532/opus-codec-in-audio-and-video-now-support",
+      "time": "00:01:50"
+    },
+    {
+      "name": "Understanding the Shadow DOM",
+      "href": "http://blog.romanliutikov.com/coding/discover-the-dark-side-with-shadow-dom/",
+      "time": "00:12:25"
+    },
+    {
+      "name": "Hot Web Standards July/August 2012",
+      "href": "http://www.netmagazine.com/features/hot-web-standards-julyaugust-2012",
+      "time": "00:18:15"
+    },
+    {
+      "name": "Bower",
+      "href": "http://twitter.github.com/bower/",
+      "time": "00:29:20"
+    }
+  ],
+  "news": [
+    {
+      "name": "Adobe CSS Shaders – ab sofort ein Standard",
+      "href": "http://www.webmonkey.com/2012/09/adobes-css-shaders-now-an-official-web-standard/",
+      "time": "00:00:14"
+    },
+    {
+      "name": "Yeoman!",
+      "href": "http://yeoman.io/",
+      "time": "00:00:14"
+    }
+  ],
+  "links": [
+    {
+      "name": "BrainCamp Cologne – Videos",
+      "href": "http://www.youtube.com/user/BrainCampCGN?feature=watch",
+      "time": "00:38:00"
+    },
+    {
+      "name": "Unicon – Grunt Plugin für SVG/PNG",
+      "href": "http://filamentgroup.com/lab/unicon/",
+      "time": "00:38:00"
+    },
+    {
+      "name": "Opera Mini and Javascript",
+      "href": "http://dev.opera.com/articles/view/opera-mini-and-javascript/",
+      "time": "00:38:00"
+    },
+    {
+      "name": "jsPDF",
+      "href": "http://jspdf.com/",
+      "time": "00:38:00"
+    },
+    {
+      "name": "Terrific",
+      "href": "http://terrifically.org/",
+      "time": "00:38:00"
+    },
+    {
+      "name": "Clarify.io",
+      "href": "http://clarify.io/",
+      "time": "00:38:00"
+    },
+    {
+      "name": "Kern.js",
+      "href": "http://www.kernjs.com/",
+      "time": "00:38:00"
+    },
+    {
+      "name": "SIE",
+      "href": "http://sourceforge.jp/projects/sie/",
+      "time": "00:38:00"
+    },
+    {
+      "name": "Emmet – formerly known as Zen Coding",
+      "href": "https://github.com/sergeche/emmet-sublime",
+      "time": "00:38:00"
+    }
+  ],
+  "randomSpec": []
+}

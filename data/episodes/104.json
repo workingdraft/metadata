@@ -1,0 +1,107 @@
+{
+  "episode": 104,
+  "id": 104,
+  "date": "2013-12-25",
+  "duration": "01:27:15",
+  "live": true,
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Andre Jay Meissner",
+      "twitter": "https://twitter.com/klick_ass"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/104/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1774/0/wd-104.mp3",
+  "topics": [
+    {
+      "name": "Scoped Stylesheets",
+      "href": "http://mcc.id.au/blog/2013/01/scoped-style-sheets",
+      "time": "00:03:00"
+    },
+    {
+      "name": "The Harsh Truth about HTML5 Structure Elements (Teil 1, Teil 2, Teil 3)",
+      "href": "http://www.webdesignerdepot.com/2013/01/the-harsh-truth-about-html5s-structural-semantics-part-1/",
+      "time": "00:17:52"
+    },
+    {
+      "name": "opendevicelab.com",
+      "href": "http://opendevicelab.com/",
+      "time": "00:39:32"
+    },
+    {
+      "name": "Web Platform Doc Sprint Europe",
+      "href": "http://lanyrd.com/2013/wpds/",
+      "time": "01:03:12"
+    }
+  ],
+  "news": [
+    {
+      "name": "jQuery-News",
+      "time": "00:01:45"
+    }
+  ],
+  "links": [
+    {
+      "name": "jQuery Image Zoom Plugin",
+      "href": "http://www.elevateweb.co.uk/image-zoom/examples",
+      "time": "01:21:43"
+    },
+    {
+      "name": "Understanding the CSS Clip Property",
+      "href": "http://tympanus.net/codrops/2013/01/16/understanding-the-css-clip-property/",
+      "time": "01:21:43"
+    },
+    {
+      "name": "CSS-Animations.js",
+      "href": "https://github.com/jlongster/css-animations.js",
+      "time": "01:21:43"
+    },
+    {
+      "name": "Monads and Gonads",
+      "href": "http://www.youtube.com/watch?v=b0EF0VTs9Dc",
+      "time": "01:21:43"
+    },
+    {
+      "name": "Z-Index issues",
+      "href": "http://philipwalton.com/articles/what-no-one-told-you-about-z-index/",
+      "time": "01:21:43"
+    },
+    {
+      "name": "An Introduction to Source Maps",
+      "href": "http://net.tutsplus.com/tutorials/tools-and-tips/source-maps-101/",
+      "time": "01:21:43"
+    },
+    {
+      "name": "Understand the Favicon",
+      "href": "http://www.jonathantneal.com/blog/understand-the-favicon/",
+      "time": "01:21:43"
+    },
+    {
+      "name": "Learning HTML & CSS",
+      "href": "http://learn.shayhowe.com/html-css/",
+      "time": "01:21:43"
+    }
+  ],
+  "randomSpec": []
+}

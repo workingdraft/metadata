@@ -1,0 +1,114 @@
+{
+  "episode": 81,
+  "id": 81,
+  "date": "2012-07-29",
+  "duration": "00:47:30",
+  "live": true,
+  "people": [
+    {
+      "name": "Benedikt Kastl",
+      "twitter": "https://twitter.com/bkastl"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    }
+  ],
+  "href": "http://workingdraft.de/81/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1378/0/wd-81.mp3",
+  "topics": [
+    {
+      "name": "Seamless iFrames",
+      "href": "http://benvinegar.github.com/seamless-talk/",
+      "time": "00:01:30"
+    },
+    {
+      "name": "How we learned to leave default font-size alone and embrace the em",
+      "href": "http://filamentgroup.com/lab/how_we_learned_to_leave_body_font_size_alone/",
+      "time": "00:14:40"
+    },
+    {
+      "name": "HTML5 Web applications and libraries survey",
+      "href": "https://hacks.mozilla.org/2012/07/html5-web-applications-and-libraries-survey-first-results/",
+      "time": "00:28:40"
+    }
+  ],
+  "news": [
+    {
+      "name": "Outlook 2013",
+      "href": "http://www.campaignmonitor.com/blog/post/3769/a-designers-guide-to-outlook-2013",
+      "time": "00:00:25"
+    },
+    {
+      "name": "Offline Apps für den Desktop mit Webtechnik",
+      "href": "http://www.golem.de/news/packaged-apps-offline-apps-fuer-den-desktop-mit-webtechnik-bauen-1207-93292.html",
+      "time": "00:00:25"
+    }
+  ],
+  "links": [
+    {
+      "name": "EpicEditor – An embeddable JavaScript Markdown editor",
+      "href": "http://oscargodson.github.com/EpicEditor/",
+      "time": "00:39:40"
+    },
+    {
+      "name": "Socialite.js",
+      "href": "http://socialitejs.com/",
+      "time": "00:39:40"
+    },
+    {
+      "name": "Forkit.js",
+      "href": "http://lab.hakim.se/forkit-js/",
+      "time": "00:39:40"
+    },
+    {
+      "name": "Montage and Ninja are here – destroy/dstorey",
+      "href": "http://generatedcontent.org/post/27398344690/ninja-montage",
+      "time": "00:39:40"
+    },
+    {
+      "name": "DailyJS: Backbone.js: Hacker’s Guide",
+      "href": "http://dailyjs.com/2012/07/19/mvstar-2/",
+      "time": "00:39:40"
+    },
+    {
+      "name": "I18N",
+      "href": "http://coding.smashingmagazine.com/2012/07/18/12-commandments-software-localization/",
+      "time": "00:39:40"
+    },
+    {
+      "name": "MySQL Datenbanken abgleichen mit Toad > Datenbanken > MySQL, Synchronisation",
+      "href": "http://www.guido-muehlwitz.de/2012/07/mysql-datenbanken-abgleichen/",
+      "time": "00:39:40"
+    },
+    {
+      "name": "Latency: The New Web Performance Bottleneck – igvita.com",
+      "href": "http://www.igvita.com/2012/07/19/latency-the-new-web-performance-bottleneck/",
+      "time": "00:39:40"
+    },
+    {
+      "name": "Inspire Conference | Leiden, The Netherlands | 9th – 12th December 2012",
+      "href": "http://2012.inspireconf.com/",
+      "time": "00:39:40"
+    }
+  ],
+  "randomSpec": []
+}

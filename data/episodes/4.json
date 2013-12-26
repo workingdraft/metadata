@@ -1,0 +1,78 @@
+{
+  "episode": 4,
+  "id": 4,
+  "date": "2013-12-25",
+  "duration": "00:59:06",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Markus Schlegel",
+      "team": [
+        "2010-11-02",
+        "2011-11-08"
+      ],
+      "twitter": "https://twitter.com/markus_schlegel"
+    },
+    {
+      "name": "Robert Agthe",
+      "twitter": "https://twitter.com/polarity"
+    }
+  ],
+  "href": "http://workingdraft.de/4/",
+  "audio": "http://workingdraft.de/podpress_trac/web/93/0/Revision-4_-Sencha-Touch-1.0-IE9-JS-und-HTML5-Gaming.mp3",
+  "topics": [
+    {
+      "name": "Sencha Touch 1.0",
+      "href": "http://www.sencha.com/products/touch/"
+    },
+    {
+      "name": "Turbine",
+      "href": "http://turbine.peterkroener.de/"
+    },
+    {
+      "name": "sass-lang",
+      "href": "http://sass-lang.com/"
+    },
+    {
+      "name": "Less CSS",
+      "href": "http://lesscss.org/"
+    },
+    {
+      "name": "Dead Code Elimination for Beginners",
+      "href": "http://blog.mozilla.com/rob-sayre/2010/11/17/dead-code-elimination-for-beginners/"
+    },
+    {
+      "name": "HTML-Validierungsdienst Validome wieder online",
+      "href": "http://www.heise.de/newsticker/meldung/HTML-Validierungsdienst-Validome-wieder-online-1139525.html"
+    },
+    {
+      "name": "Last Call des WOFF-Schriftformats",
+      "href": "http://www.w3.org/News/2010#entry-8956"
+    },
+    {
+      "name": "Impact.js",
+      "href": "http://impactjs.org/"
+    },
+    {
+      "name": "Akihabra",
+      "href": "http://www.kesiev.com/akihabara/"
+    },
+    {
+      "name": "Aves Engine",
+      "href": "http://www.golem.de/1004/74719.html"
+    },
+    {
+      "name": "Biolab Disaster",
+      "href": "http://www.phoboslab.org/biolab/"
+    }
+  ],
+  "news": [],
+  "links": [],
+  "randomSpec": []
+}

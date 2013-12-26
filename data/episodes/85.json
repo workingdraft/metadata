@@ -1,0 +1,103 @@
+{
+  "episode": 85,
+  "id": 85,
+  "date": "2013-12-25",
+  "duration": "01:18:38",
+  "live": true,
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Marc Thiele",
+      "twitter": "https://twitter.com/marcthiele"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/85/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1428/0/wd-85.mp3",
+  "topics": [
+    {
+      "name": "beyond tellerrand 2012 und Smashing Conference 2012",
+      "href": "http://2012.beyondtellerrand.com/",
+      "time": "00:01:00"
+    },
+    {
+      "name": "Let’s Talk about CSS Variables",
+      "href": "http://www.xanthir.com/blog/b4KT0",
+      "time": "00:28:02"
+    },
+    {
+      "name": "Farbverläufe erklärbärt",
+      "href": "http://www.peterkroener.de/aenderungen-in-der-neuen-css3-farbverlauf-syntax-ohne-vendor-prefix/",
+      "time": "00:38:23"
+    },
+    {
+      "name": "Interpreting some of Twitter’s API changes",
+      "href": "http://www.marco.org/2012/08/16/twitter-api-changes",
+      "time": "00:51:00"
+    }
+  ],
+  "news": [
+    {
+      "name": "Safari 6 and Chrome 21 add image-set to support retina images",
+      "href": "http://blog.cloudfour.com/safari-6-and-chrome-21-add-image-set-to-support-retina-images/",
+      "time": "00:00:19"
+    }
+  ],
+  "links": [
+    {
+      "name": "requirejs/xrayquire",
+      "href": "https://github.com/requirejs/xrayquire",
+      "time": "01:12:45"
+    },
+    {
+      "name": "Using ARIA in HTML5",
+      "href": "http://dvcs.w3.org/hg/aria-unofficial/raw-file/tip/index.html",
+      "time": "01:12:45"
+    },
+    {
+      "name": "CSS Layout Evolution",
+      "href": "http://fantasai.inkedblade.net/weblog/2012/css-layout-evolution/",
+      "time": "01:12:45"
+    },
+    {
+      "name": "DropPHP",
+      "href": "http://fabi.me/php-projects/dropphp-dropbox-api-client/",
+      "time": "01:12:45"
+    },
+    {
+      "name": "Firefox JIT Inspector",
+      "href": "https://addons.mozilla.org/de/firefox/addon/jit-inspector/",
+      "time": "01:12:45"
+    },
+    {
+      "name": "A day in the life of V8 (Slides)",
+      "href": "http://blip.tv/jsconf/jsconf2012-vyacheslav-egorov-6141593",
+      "time": "01:12:45"
+    },
+    {
+      "name": "Custom Sublime Text Build Systems For Popular Tools And Languages",
+      "href": "http://addyosmani.com/blog/custom-sublime-text-build-systems-for-popular-tools-and-languages/",
+      "time": "01:12:45"
+    }
+  ],
+  "randomSpec": []
+}

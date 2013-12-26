@@ -1,0 +1,102 @@
+{
+  "episode": 90,
+  "id": 90,
+  "date": "2013-12-25",
+  "duration": "01:04:18",
+  "live": true,
+  "people": [
+    {
+      "name": "asciidisco",
+      "twitter": "https://twitter.com/asciidisco"
+    },
+    {
+      "name": "Frederic Hemberger",
+      "twitter": "https://twitter.com/fhemberger"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "twitter": "https://twitter.com/helloanselm"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/90/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1528/0/wd-90.mp3",
+  "topics": [
+    {
+      "name": "Safari for iPhone ignores viewport settings on .mobi domains",
+      "href": "http://www.davidroessli.com/logs/2010/04/safari_ignores_viewport_mobi_domains/",
+      "time": "00:01:51"
+    },
+    {
+      "name": "Schwere Sicherheitslücke bei Samsung",
+      "href": "http://winfuture.de/news,72182.html",
+      "time": "00:13:34"
+    },
+    {
+      "name": "Persona – BrowserID goes beta",
+      "href": "http://identity.mozilla.com/post/32395255498/announcing-the-first-beta-release-of-persona",
+      "time": "00:28:06"
+    },
+    {
+      "name": "TypeScript",
+      "href": "http://www.typescriptlang.org/",
+      "time": "00:37:24"
+    }
+  ],
+  "news": [
+    {
+      "name": "Media Fragments URI",
+      "href": "http://www.w3.org/TR/2012/REC-media-frags-20120925/",
+      "time": "00:01:08"
+    }
+  ],
+  "links": [
+    {
+      "name": "Subtle Patterns",
+      "href": "http://subtlepatterns.com/",
+      "time": "00:59:12"
+    },
+    {
+      "name": "iOS 6 html hardware acceleration changes and how to fix them",
+      "href": "http://indiegamr.com/ios6-html-hardware-acceleration-changes-and-how-to-fix-them/",
+      "time": "00:59:12"
+    },
+    {
+      "name": "Thinkin’ Tags geht Live",
+      "href": "http://www.highresolution.info/weblog/entry/thinkin_tags_geht_live/",
+      "time": "00:59:12"
+    },
+    {
+      "name": "Jetstrap – The Bootstrap Interface Builder",
+      "href": "http://jetstrap.com/",
+      "time": "00:59:12"
+    },
+    {
+      "name": "Styler",
+      "href": "https://github.com/tonistiigi/styler",
+      "time": "00:59:12"
+    },
+    {
+      "name": "Videos von LXJS",
+      "href": "https://www.youtube.com/user/lxjs2012?feature=watch",
+      "time": "00:59:12"
+    },
+    {
+      "name": "Cody Lindley frontend-tools list",
+      "href": "https://github.com/codylindley/frontend-tools",
+      "time": "00:59:12"
+    },
+    {
+      "name": "Dom Enlightment",
+      "href": "http://domenlightenment.com/",
+      "time": "00:59:12"
+    }
+  ],
+  "randomSpec": []
+}

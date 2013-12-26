@@ -1,0 +1,51 @@
+{
+  "episode": 74,
+  "id": 74,
+  "date": "2013-12-25",
+  "duration": "00:20:52",
+  "live": true,
+  "people": [
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/74/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1262/0/wd-74.mp3",
+  "topics": [
+    {
+      "name": "Sweep the Sleaze",
+      "href": "http://informationarchitects.net/blog/sweep-the-sleaze/",
+      "time": "00:01:02"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Code Painter",
+      "href": "https://github.com/fawek/codepainter",
+      "time": "00:18:03"
+    },
+    {
+      "name": "Videos von Fluent 2012",
+      "href": "http://www.youtube.com/view_play_list?p=PL75AC4484E6866741",
+      "time": "00:18:03"
+    },
+    {
+      "name": "Sorting – We’re Doing It Wrong",
+      "href": "http://blog.rodneyrehm.de/archives/14-Sorting-Were-Doing-It-Wrong.html",
+      "time": "00:18:03"
+    }
+  ],
+  "randomSpec": []
+}

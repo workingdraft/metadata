@@ -1,0 +1,75 @@
+{
+  "episode": 13,
+  "id": 13,
+  "date": "2013-12-25",
+  "duration": "01:09:19",
+  "people": [
+    {
+      "name": "Marc Hinse",
+      "twitter": "https://twitter.com/MadeMyDay"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Markus Schlegel",
+      "team": [
+        "2010-11-02",
+        "2011-11-08"
+      ],
+      "twitter": "https://twitter.com/markus_schlegel"
+    }
+  ],
+  "href": "http://workingdraft.de/13/",
+  "audio": "http://workingdraft.de/podpress_trac/web/307/0/wd-13.mp3",
+  "topics": [
+    {
+      "name": "Marcs Screen Presenter",
+      "href": "http://www.mademyday.de/screen-presenter-screendesgins-praesentieren.html"
+    },
+    {
+      "name": "Prism is now Chromeless",
+      "href": "https://mozillalabs.com/blog/2011/02/prism-is-now-chromeless/"
+    },
+    {
+      "name": "Clipboard API Editor’s Draft",
+      "href": "http://dev.w3.org/2006/webapi/clipops/clipops.html"
+    },
+    {
+      "name": "Web Audio API in Chrome und Firefox 4",
+      "href": "http://lists.w3.org/Archives/Public/public-xg-audio/2011Feb/0000.html"
+    },
+    {
+      "name": "Abusing HTTP Status Codes to Expose Private Information",
+      "href": "https://grepular.com/Abusing_HTTP_Status_Codes_to_Expose_Private_Information"
+    },
+    {
+      "name": "The New Bulletproof @Font-Face Syntax",
+      "href": "http://www.fontspring.com/blog/the-new-bulletproof-font-face-syntax"
+    },
+    {
+      "name": "firecss.com",
+      "href": "http://firecss.com/"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Chrome 11, a renewed XSS Filter and vertical text for multiple-column layouts",
+      "href": "http://peter.sh/2011/02/chrome-11-a-renewed-xss-filter-and-vertical-text-for-multiple-column-layouts/"
+    },
+    {
+      "name": "Farbwert in Opera und dem IE9: invert",
+      "href": "http://jsfiddle.net/leaverou/yxjgC/"
+    },
+    {
+      "name": "popcorn.js",
+      "href": "http://popcornjs.org/"
+    }
+  ],
+  "randomSpec": []
+}

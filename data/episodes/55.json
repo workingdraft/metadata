@@ -1,0 +1,86 @@
+{
+  "episode": 55,
+  "id": 55,
+  "date": "2013-12-25",
+  "duration": "01:01:21",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    }
+  ],
+  "href": "http://workingdraft.de/55/",
+  "audio": "http://workingdraft.de/podpress_trac/web/974/0/wd-55.mp3",
+  "topics": [
+    {
+      "name": "JavaScript Pattern Collection",
+      "href": "http://shichuan.github.com/javascript-patterns/",
+      "time": "00:00:40"
+    },
+    {
+      "name": "What You May Not Know About jQuery",
+      "href": "http://www.kendoui.com/blogs/teamblog/posts/12-01-06/what_you_may_not_know_about_jquery.aspx?utm_source=javascriptweekly&utm_medium=email",
+      "time": "00:03:50"
+    },
+    {
+      "name": "Sublime Text 2",
+      "href": "http://www.sublimetext.com/2",
+      "time": "00:11:40"
+    },
+    {
+      "name": "CSSDeck",
+      "href": "http://cssdeck.com/",
+      "time": "00:15:41"
+    },
+    {
+      "name": "Smashing Magazine Redesign",
+      "href": "http://www.smashingmagazine.com/",
+      "time": "00:20:41"
+    },
+    {
+      "name": "Making Love to WebKit",
+      "href": "http://acko.net/blog/making-love-to-webkit/",
+      "time": "00:35:37"
+    },
+    {
+      "name": "Live Reload",
+      "href": "http://livereload.com/",
+      "time": "00:41:58"
+    },
+    {
+      "name": "Neues in WebKit",
+      "href": "http://peter.sh/2012/01/font-css-properties-selector-source-location-and-calc-tests/",
+      "time": "00:46:08"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "The Top 10 Javascript MVC Frameworks Reviewed",
+      "href": "http://codebrief.com/2012/01/the-top-10-javascript-mvc-frameworks-reviewed/",
+      "time": "00:55:38"
+    },
+    {
+      "name": "PxLoader",
+      "href": "http://thinkpixellab.com/pxloader/",
+      "time": "00:55:38"
+    },
+    {
+      "name": "jQ.Mobi",
+      "href": "http://www.jqmobi.com/",
+      "time": "00:55:38"
+    }
+  ],
+  "randomSpec": []
+}

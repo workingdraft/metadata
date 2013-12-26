@@ -1,0 +1,60 @@
+{
+  "episode": 97,
+  "id": 97,
+  "date": "2012-11-25",
+  "duration": "00:48:06",
+  "lang": "EN",
+  "live": true,
+  "people": [
+    {
+      "name": "Bruce Lawson",
+      "twitter": "https://twitter.com/brucel"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "twitter": "https://twitter.com/helloanselm"
+    },
+    {
+      "name": "David Maciejewski",
+      "twitter": "https://twitter.com/macx"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    }
+  ],
+  "href": "http://workingdraft.de/97/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1636/0/wd-97.mp3",
+  "topics": [
+    {
+      "name": "beyond tellerrand 2012",
+      "href": "http://2012.beyondtellerrand.com/",
+      "time": "00:00:00"
+    },
+    {
+      "name": "Interview mit Bruce Lawson",
+      "href": "http://www.brucelawson.co.uk/",
+      "time": "00:17:30"
+    }
+  ],
+  "news": [],
+  "links": [],
+  "randomSpec": []
+}

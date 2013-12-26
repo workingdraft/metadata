@@ -1,0 +1,126 @@
+{
+  "episode": 89,
+  "id": 89,
+  "date": "2012-09-27",
+  "duration": "01:12:09",
+  "live": true,
+  "people": [
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/89/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1501/0/wd89.mp3",
+  "topics": [
+    {
+      "name": "See your site like the rest of the world does. On the Nokia X2-01",
+      "href": "http://generatedcontent.org/post/31441135779/mobileweb-row",
+      "time": "00:01:35"
+    },
+    {
+      "name": "Ember versus Backbone versus gar nix",
+      "time": "00:18:12"
+    },
+    {
+      "name": "New Web Stuff in iOS6",
+      "href": "http://www.mobilexweb.com/blog/iphone-5-ios-6-html5-developers",
+      "time": "00:46:19"
+    }
+  ],
+  "news": [
+    {
+      "name": "CSS Image Values and Replaced Content Module Level 4",
+      "href": "http://www.w3.org/TR/css4-images/",
+      "time": "00:00:22"
+    },
+    {
+      "name": "Google Apps stellt IE8-Support ein",
+      "href": "http://googleappsupdates.blogspot.ca/2012/09/supporting-modern-browsers-internet.html",
+      "time": "00:00:22"
+    },
+    {
+      "name": "Adobe Edge Tools & Services",
+      "href": "http://html.adobe.com/",
+      "time": "00:00:22"
+    }
+  ],
+  "links": [
+    {
+      "name": "Icon Font Roundup",
+      "href": "http://www.webdesignerdepot.com/2012/09/a-roundup-of-great-icon-fonts/",
+      "time": "01:04:22"
+    },
+    {
+      "name": "Responsive Patterns",
+      "href": "http://bradfrost.github.com/this-is-responsive/patterns.html",
+      "time": "01:04:22"
+    },
+    {
+      "name": "Yeoman – Level-up Your Daily Workflow",
+      "href": "http://drublic.de/blog/yeoman/",
+      "time": "01:04:22"
+    },
+    {
+      "name": "Avoid the tamagotchis",
+      "href": "http://klick-ass.com/awesomeness/avoid-the-tamagotchis-a-list-of-open-device-labs/",
+      "time": "01:04:22"
+    },
+    {
+      "name": "Warum du noch heute ein Berlin Desknot werden solltest",
+      "href": "http://klick-ass.com/de/events/why-you-should-join-the-berlin-desknots-today/",
+      "time": "01:04:22"
+    },
+    {
+      "name": "Flick Scrolling",
+      "href": "http://simurai.com/post/31460815120/flick-scroll",
+      "time": "01:04:22"
+    },
+    {
+      "name": "Clearing Browser Cache",
+      "href": "http://www.stevesouders.com/blog/2012/09/10/clearing-browser-data/",
+      "time": "01:04:22"
+    },
+    {
+      "name": "CSS Custom Filters Now Available Under Flag in Chrome Canary",
+      "href": "http://blogs.adobe.com/webplatform/2012/09/21/css-custom-filters-now-available-under-flag-in-chrome-canary/",
+      "time": "01:04:22"
+    },
+    {
+      "name": "Oh really, why is that? Web performance for the curious",
+      "href": "http://www.youtube.com/watch?v=kiPe7DPmEgE",
+      "time": "01:04:22"
+    },
+    {
+      "name": "The Web Ahead",
+      "href": "http://5by5.tv/webahead",
+      "time": "01:04:22"
+    }
+  ],
+  "randomSpec": []
+}

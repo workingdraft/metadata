@@ -1,0 +1,80 @@
+{
+  "episode": 119,
+  "id": 119,
+  "date": "2013-12-25",
+  "duration": "00:51:51",
+  "live": true,
+  "people": [
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/119/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1932/0/wd-119.mp3",
+  "topics": [
+    {
+      "name": "Thank God We Have A Specification",
+      "href": "http://coding.smashingmagazine.com/2013/04/26/css3-transitions-thank-god-specification/",
+      "time": "00:02:00"
+    },
+    {
+      "name": "Using flag in language selector is still okay",
+      "href": "https://coderwall.com/p/knyvug",
+      "time": "00:25:25"
+    }
+  ],
+  "news": [
+    {
+      "name": "nosniff header",
+      "href": "https://github.com/blog/1482-heads-up-nosniff-header-support-coming-to-chrome-and-firefox",
+      "time": "00:00:18"
+    }
+  ],
+  "links": [
+    {
+      "name": "Intern",
+      "href": "http://theintern.io/",
+      "time": "00:46:02"
+    },
+    {
+      "name": "Pik7 1.0.0",
+      "href": "http://pik.peterkroener.de/",
+      "time": "00:46:02"
+    },
+    {
+      "name": "HTML differences from HTML5",
+      "href": "http://html-differences.whatwg.org/",
+      "time": "00:46:02"
+    },
+    {
+      "name": "CSS Modals",
+      "href": "http://drublic.github.io/css-modal/",
+      "time": "00:46:02"
+    }
+  ],
+  "randomSpec": [
+    {
+      "name": "Canvas-Element bzw. Canvas-Pfadfunktionen",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/multipage/the-canvas-element.html",
+      "time": "00:36:22"
+    }
+  ]
+}

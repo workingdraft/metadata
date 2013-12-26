@@ -1,0 +1,95 @@
+{
+  "episode": 126,
+  "id": 126,
+  "date": "2013-12-25",
+  "duration": "00:46:48",
+  "live": true,
+  "flags": [
+    "no-topics"
+  ],
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    }
+  ],
+  "href": "http://workingdraft.de/126/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1989/0/wd-126.mp3",
+  "topics": [],
+  "news": [
+    {
+      "name": "Firefox 22",
+      "href": "https://www.mozilla.org/en-US/firefox/22.0/releasenotes/?utm_source=html5weekly&utm_medium=email",
+      "time": "00:00:41"
+    },
+    {
+      "name": "iOS 7 beta and the new Safari for web developers",
+      "href": "http://www.mobilexweb.com/blog/ios7-beta-safari-html5",
+      "time": "00:00:41"
+    }
+  ],
+  "links": [
+    {
+      "name": "CSSRegions.js",
+      "href": "http://adobe-webplatform.github.io/css-regions-polyfill/",
+      "time": "00:39:16"
+    },
+    {
+      "name": "Hinweis zur vergangenen Sendung: display:table hat Auswirkungen auf manche Screenreader",
+      "href": "http://www.456bereastreet.com/archive/201110/using_displaytable_has_semantic_effects_in_some_screen_readers/",
+      "time": "00:39:16"
+    },
+    {
+      "name": "Good UI",
+      "href": "http://goodui.org/",
+      "time": "00:39:16"
+    },
+    {
+      "name": "Mobile Web Problems",
+      "href": "http://bradfrostweb.com/blog/post/mobile-web-problems/",
+      "time": "00:39:16"
+    },
+    {
+      "name": "UI Transitions",
+      "href": "http://sarasoueidan.com/blog/ui-transitions-creative-add-remove-effects-for-list-items/",
+      "time": "00:39:16"
+    },
+    {
+      "name": "Building Apps For Firefox OS, Chrome OS And The Web",
+      "href": "http://thenittygritty.co/ffos-apps",
+      "time": "00:39:16"
+    }
+  ],
+  "randomSpec": [
+    {
+      "name": "input[type=\"image\"]",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/#image-button-state-(type=image)",
+      "time": "00:07:02"
+    },
+    {
+      "name": "Form Submission",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/#form-submission-0",
+      "time": "00:16:12"
+    },
+    {
+      "name": "Pseudo-classes",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/#pseudo-classes",
+      "time": "00:20:35"
+    },
+    {
+      "name": "Origin",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/#origin-0",
+      "time": "00:32:35"
+    }
+  ]
+}

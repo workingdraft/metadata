@@ -1,0 +1,131 @@
+{
+  "episode": 76,
+  "id": 76,
+  "date": "2013-12-25",
+  "duration": "01:13:13",
+  "live": true,
+  "people": [
+    {
+      "name": "asciidisco",
+      "twitter": "https://twitter.com/asciidisco"
+    },
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    }
+  ],
+  "href": "http://workingdraft.de/76/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1285/0/wd-76.mp3",
+  "topics": [
+    {
+      "name": "Zombie.js",
+      "href": "http://zombie.labnotes.org/",
+      "time": "00:02:21"
+    },
+    {
+      "name": "Auf echten mobilen Endgeräten testen ohne Bankrott zu gehen",
+      "href": "http://bradfrostweb.com/blog/mobile/test-on-real-mobile-devices-without-breaking-the-bank/",
+      "time": "00:14:15"
+    },
+    {
+      "name": "Mobile Safari auf iOS 6",
+      "href": "http://taitems.tumblr.com/post/24936855546/what-ios-6-mobile-safari-offers-front-end-devs",
+      "time": "00:25:34"
+    },
+    {
+      "name": "Volo.js",
+      "href": "https://github.com/volojs/volo",
+      "time": "00:31:42"
+    },
+    {
+      "name": "JavaScript Doc Tools",
+      "time": "00:45:54"
+    }
+  ],
+  "news": [
+    {
+      "name": "image-resolution in Webkit",
+      "href": "http://www.w3.org/TR/css3-images/#image-resolution",
+      "time": "00:00:40"
+    },
+    {
+      "name": "CSS Variables in WebKit (prefixed)",
+      "href": "http://trac.webkit.org/changeset/120154",
+      "time": "00:00:40"
+    },
+    {
+      "name": "Border-Image in Firefox 15",
+      "href": "http://dbaron.org/log/20120612-border-image",
+      "time": "00:00:40"
+    },
+    {
+      "name": "Opera 12 ist da",
+      "href": "http://my.opera.com/ODIN/blog/hello-opera-12",
+      "time": "00:00:40"
+    },
+    {
+      "name": "Die IE7-Steuer",
+      "href": "http://www.kogan.com/au/blog/new-internet-explorer-7-tax/",
+      "time": "00:00:40"
+    }
+  ],
+  "links": [
+    {
+      "name": "Gradient Finder",
+      "href": "http://gradientfinder.com/",
+      "time": "00:56:05"
+    },
+    {
+      "name": "Mozilla CSS Extensions",
+      "href": "https://developer.mozilla.org/en/CSS/CSS_Reference/Mozilla_Extensions",
+      "time": "00:56:05"
+    },
+    {
+      "name": "Debunking Responsive CSS Performance Myths",
+      "href": "http://www.igvita.com/2012/06/14/debunking-responsive-css-performance-myths/",
+      "time": "00:56:05"
+    },
+    {
+      "name": "ECMAScript 6: Maps, Sets und Weak Maps",
+      "href": "http://www.peterkroener.de/es6-maps-sets-weak-maps/",
+      "time": "00:56:05"
+    },
+    {
+      "name": "Require.js Hogan Plugin",
+      "href": "https://github.com/millermedeiros/requirejs-hogan-plugin",
+      "time": "00:56:05"
+    },
+    {
+      "name": "EditorConfig",
+      "href": "http://editorconfig.org",
+      "time": "00:56:05"
+    },
+    {
+      "name": "How Browsers Work Internally (Video)",
+      "href": "http://vimeo.com/44182484",
+      "time": "00:56:05"
+    },
+    {
+      "name": "memSQL",
+      "href": "http://www.golem.de/news/memsql-mysql-kompatibel-aber-30-mal-schneller-1206-92595.html",
+      "time": "00:56:05"
+    },
+    {
+      "name": "Pew Pew Manifesto",
+      "href": "http://blogs.adobe.com/bparadie/2012/05/07/the-pew-pew-manifesto/",
+      "time": "00:56:05"
+    }
+  ],
+  "randomSpec": []
+}

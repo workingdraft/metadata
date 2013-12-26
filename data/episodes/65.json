@@ -1,0 +1,76 @@
+{
+  "episode": 65,
+  "id": 65,
+  "date": "2013-12-25",
+  "duration": "00:53:59",
+  "live": true,
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/65/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1125/0/wd-65.mp3",
+  "topics": [
+    {
+      "name": "Maintaining CSS Style States using Infinite Transition Delays",
+      "href": "http://dabblet.com/gist/2076449",
+      "time": "00:00:31"
+    },
+    {
+      "name": "SVG Stacks",
+      "href": "http://simurai.com/post/20251013889/svg-stacks",
+      "time": "00:14:55"
+    },
+    {
+      "name": "jQuery Hooks",
+      "href": "http://blog.rodneyrehm.de/archives/11-jQuery-Hooks.html",
+      "time": "00:27:05"
+    },
+    {
+      "name": "Peters ES6-Serie",
+      "href": "http://www.peterkroener.de/arikel/ecmascript-6/",
+      "time": "00:38:34"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Timeline",
+      "href": "http://timeline.verite.co/",
+      "time": "00:51:21"
+    },
+    {
+      "name": "Intelligist",
+      "href": "http://srobbin.com/jquery-plugins/intelligist/",
+      "time": "00:51:21"
+    }
+  ],
+  "randomSpec": []
+}

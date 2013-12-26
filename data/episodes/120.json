@@ -1,0 +1,92 @@
+{
+  "episode": 120,
+  "id": 120,
+  "date": "2013-12-25",
+  "duration": "00:50:40",
+  "live": true,
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    }
+  ],
+  "href": "http://workingdraft.de/120/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1942/0/wd-120.mp3",
+  "topics": [
+    {
+      "name": "CSS is not an amoral monster",
+      "href": "http://undercaffeinated.tumblr.com/post/49878531442/css-is-not-an-amoral-monster",
+      "time": "00:00:52"
+    },
+    {
+      "name": "You Can’t Detect A Touchscreen",
+      "href": "http://www.stucox.com/blog/you-cant-detect-a-touchscreen/",
+      "time": "00:18:46"
+    },
+    {
+      "name": "Encrypted Media Extensions",
+      "href": "http://www.golem.de/news/drm-fuers-web-w3c-treibt-entwicklung-der-encrypted-media-extensions-voran-1305-99173.html",
+      "time": "00:28:20"
+    }
+  ],
+  "news": [
+    {
+      "name": "JPEGmini Windows App",
+      "href": "http://www.jpegmini.com/windows",
+      "time": "00:00:15"
+    }
+  ],
+  "links": [
+    {
+      "name": "AngularJS Buch / Tutorial",
+      "href": "http://angularjs.de/buch/",
+      "time": "00:41:39"
+    },
+    {
+      "name": "csste.st",
+      "href": "http://csste.st/",
+      "time": "00:41:39"
+    },
+    {
+      "name": "How to markup sub-headings (now that <hgroup> is gone)",
+      "href": "http://html5doctor.com/howto-subheadings/",
+      "time": "00:41:39"
+    },
+    {
+      "name": "Unicode Table",
+      "href": "http://unicode-table.com/",
+      "time": "00:41:39"
+    },
+    {
+      "name": "Ghostlab",
+      "href": "http://vanamco.com/ghostlab/",
+      "time": "00:41:39"
+    },
+    {
+      "name": "The :empty selector",
+      "href": "http://demosthenes.info/blog/692/Vanishing-Acts-The-CSS-empty-Selector",
+      "time": "00:41:39"
+    },
+    {
+      "name": "Zopfli",
+      "href": "https://plus.google.com/u/0/106697091536876736486/posts/ea4Sy8bwAoU",
+      "time": "00:41:39"
+    },
+    {
+      "name": "Avoiding Unnecessary Paints",
+      "href": "http://www.html5rocks.com/en/tutorials/speed/unnecessary-paints/",
+      "time": "00:41:39"
+    }
+  ],
+  "randomSpec": []
+}

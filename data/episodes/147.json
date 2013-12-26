@@ -1,0 +1,107 @@
+{
+  "episode": 147,
+  "id": 147,
+  "date": "2013-12-25",
+  "duration": "01:08:24",
+  "live": true,
+  "people": [
+    {
+      "name": "Christoph Rumpel",
+      "twitter": "https://twitter.com/christophrumpel"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    }
+  ],
+  "href": "http://workingdraft.de/147/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2177/0/wd-147.mp3",
+  "topics": [
+    {
+      "name": "INIT",
+      "href": "http://thenittygritty.co/reducing-boilerplate-code-front-end-init",
+      "time": "00:01:29"
+    },
+    {
+      "name": "Know when to CDN",
+      "href": "http://www.kendoui.com/blogs/teamblog/posts/13-11-07/know-when-to-cdn.aspx",
+      "time": "00:17:57"
+    },
+    {
+      "name": "Laravel",
+      "href": "http://laravel.com/",
+      "time": "00:40:48"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "uncss",
+      "href": "https://github.com/giakki/uncss",
+      "time": "00:57:01"
+    },
+    {
+      "name": "object-fit Polyfill",
+      "href": "http://helloanselm.com/2013/fix-image-resizing-with-object-fit/",
+      "time": "00:57:01"
+    },
+    {
+      "name": "Die Google Page Speed Insights um UX-Hinweise ergänzt",
+      "href": "https://twitter.com/davatron5000/status/403624163664875520",
+      "time": "00:57:01"
+    },
+    {
+      "name": "pa11y",
+      "href": "http://pa11y.org/",
+      "time": "00:57:01"
+    },
+    {
+      "name": "DPLOY",
+      "href": "http://leanmeanfightingmachine.github.io/dploy/",
+      "time": "00:57:01"
+    },
+    {
+      "name": "60fps scrolling using pointer-events: none",
+      "href": "http://www.thecssninja.com/javascript/pointer-events-60fps",
+      "time": "00:57:01"
+    },
+    {
+      "name": "Kate Kiefer Lee: Voice and tone",
+      "href": "https://vimeo.com/74356973",
+      "time": "00:57:01"
+    },
+    {
+      "name": "Chrome Extension: Clockwork",
+      "href": "https://chrome.google.com/webstore/detail/clockwork/dmggabnehkmmfmdffgajcflpdjlnoemp",
+      "time": "00:57:01"
+    },
+    {
+      "name": "Chrome Extension: JSON Formatter",
+      "href": "https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa",
+      "time": "00:57:01"
+    },
+    {
+      "name": "Laravel Meetup Vienna",
+      "href": "http://www.meetup.com/Laravel-Frameworkers-Vienna/events/151465372/",
+      "time": "00:57:01"
+    }
+  ],
+  "randomSpec": []
+}

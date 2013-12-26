@@ -1,0 +1,82 @@
+{
+  "episode": 36,
+  "id": 36,
+  "date": "2013-12-25",
+  "duration": "01:08:27",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "twitter": "https://twitter.com/helloanselm"
+    },
+    {
+      "name": "Markus Schlegel",
+      "team": [
+        "2010-11-02",
+        "2011-11-08"
+      ],
+      "twitter": "https://twitter.com/markus_schlegel"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/36/",
+  "audio": "http://workingdraft.de/podpress_trac/web/727/0/wd-36.mp3",
+  "topics": [
+    {
+      "name": "Redesigning the Browser Window",
+      "href": "http://blogg.antrop.se/interaktionsdesign/redesigning-the-browser-window/",
+      "time": "00:02:29:000"
+    },
+    {
+      "name": "HTML5 Boilerplate 2.0",
+      "href": "http://html5boilerplate.com/#v2",
+      "time": "00:17:02:000"
+    },
+    {
+      "name": "Script-Loader vs. keine Script-Loader",
+      "href": "https://github.com/paulirish/html5-boilerplate/issues/28#issuecomment-1773156",
+      "time": "00:32:06:000"
+    },
+    {
+      "name": "Adobe Muse",
+      "href": "http://muse.adobe.com/",
+      "time": "00:44:21:000"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Finding memory leaks",
+      "href": "http://gent.ilcore.com/2011/08/finding-memory-leaks.html"
+    },
+    {
+      "name": "TTF Auto Hint",
+      "href": "http://www.freetype.org/ttfautohint/"
+    },
+    {
+      "name": "diagram.ly",
+      "href": "http://www.diagram.ly/"
+    },
+    {
+      "name": "Understanding Hardware Acceleration on Mobile Browsers",
+      "href": "http://www.sencha.com/blog/understanding-hardware-acceleration-on-mobile-browsers/"
+    },
+    {
+      "name": "Responsive layout tester",
+      "href": "http://mattkersley.com/responsive/"
+    }
+  ],
+  "randomSpec": []
+}

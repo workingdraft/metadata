@@ -1,0 +1,83 @@
+{
+  "episode": 103,
+  "id": 103,
+  "date": "2013-12-25",
+  "duration": "00:05:59",
+  "live": true,
+  "flags": [
+    "no-topics"
+  ],
+  "people": [
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/103/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1765/0/wd-103.mp3",
+  "topics": [],
+  "news": [
+    {
+      "name": "Firefox 18",
+      "time": "00:00:15"
+    },
+    {
+      "name": "Chrome Beta-Channel für Android",
+      "href": "http://blog.chromium.org/2013/01/beta-channel-arrives-for-android-phones.html",
+      "time": "00:00:15"
+    }
+  ],
+  "links": [
+    {
+      "name": "Lightboxes suck for small screens",
+      "href": "http://bradfrostweb.com/blog/post/conditional-lightbox/",
+      "time": "00:01:25"
+    },
+    {
+      "name": "Antwort",
+      "href": "http://internations.github.com/antwort/",
+      "time": "00:01:25"
+    },
+    {
+      "name": "Introduction to Persona",
+      "href": "http://davidwalsh.name/introduction-persona",
+      "time": "00:01:25"
+    },
+    {
+      "name": "End to End JavaScript Video Streaming",
+      "href": "http://www.denkwerk.com/2013/01/14/end-to-end-javascript-video-streaming-2/",
+      "time": "00:01:25"
+    },
+    {
+      "name": "Gmail and the GC",
+      "href": "https://medium.com/joys-of-javascript/6b1ea3ffca45",
+      "time": "00:01:25"
+    }
+  ],
+  "randomSpec": []
+}

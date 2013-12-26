@@ -1,0 +1,61 @@
+{
+  "episode": 31,
+  "id": 31,
+  "date": "2013-12-25",
+  "duration": "01:23:02",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Markus Schlegel",
+      "team": [
+        "2010-11-02",
+        "2011-11-08"
+      ],
+      "twitter": "https://twitter.com/markus_schlegel"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/31/",
+  "audio": "http://workingdraft.de/podpress_trac/web/657/0/wd-31.mp3",
+  "topics": [
+    {
+      "name": "00:00:24.000 Google Takeout",
+      "href": "https://www.google.com/takeout/"
+    },
+    {
+      "name": "00:08:35.000 WebCL",
+      "href": "http://www.conceivablytech.com/8261/products/gpu-apps-for-your-browser-first-webcl-demos-arrive"
+    },
+    {
+      "name": "00:22:22.000 Pseudo Spriting",
+      "href": "http://css-tricks.com/13224-pseudo-spriting/"
+    },
+    {
+      "name": "00:30:00.000 Using Cross-domain images in WebGL and Canvas",
+      "href": "http://blog.chromium.org/2011/07/using-cross-domain-images-in-webgl-and.html"
+    },
+    {
+      "name": "00:35:10.000 JavaScript Memory Management und Verbesserungen am Speichermanagement des FF",
+      "href": "http://engineering.socialcast.com/2011/06/javascript-memory-management/"
+    },
+    {
+      "name": "00:56:00.000 HTML5 Parsing in IE10 ohne Conditional Comments",
+      "href": "http://blogs.msdn.com/b/ie/archive/2011/07/06/html5-parsing-in-ie10.aspx"
+    }
+  ],
+  "news": [],
+  "links": [],
+  "randomSpec": []
+}

@@ -1,0 +1,44 @@
+{
+  "episode": 53,
+  "id": 53,
+  "date": "2011-12-30",
+  "duration": "00:49:53",
+  "video": "http://www.youtube.com/watch?v=va9xlJCbDZI",
+  "lang": "EN",
+  "people": [
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    }
+  ],
+  "href": "http://workingdraft.de/53/",
+  "audio": "http://workingdraft.de/podpress_trac/web/951/0/wd-53.mp3",
+  "topics": [
+    {
+      "name": "Smashing Magazine Meetup – Die Paneldiskussion",
+      "href": "http://www.youtube.com/watch?v=va9xlJCbDZI",
+      "time": "00:13:02"
+    }
+  ],
+  "news": [],
+  "links": [],
+  "randomSpec": []
+}

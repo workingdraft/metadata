@@ -1,0 +1,67 @@
+{
+  "episode": 14,
+  "id": 14,
+  "date": "2013-12-25",
+  "duration": "01:11:24",
+  "people": [
+    {
+      "name": "Marc Hinse",
+      "twitter": "https://twitter.com/MadeMyDay"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Markus Schlegel",
+      "team": [
+        "2010-11-02",
+        "2011-11-08"
+      ],
+      "twitter": "https://twitter.com/markus_schlegel"
+    }
+  ],
+  "href": "http://workingdraft.de/14/",
+  "audio": "http://workingdraft.de/podpress_trac/web/329/0/wd-14.mp3",
+  "topics": [
+    {
+      "name": "Breaking the Web with hash-bangs",
+      "href": "http://isolani.co.uk/blog/javascript/BreakingTheWebWithHashBangs"
+    },
+    {
+      "name": "Windows 7 die Nummer 1 in Deutschland",
+      "href": "http://blogs.technet.com/b/dmelanchthon/archive/2011/02/02/windows-7-die-nummer-1-in-deutschland.aspx"
+    },
+    {
+      "name": "Sandboxed IE Browsers from Spoon",
+      "href": "http://www.iecss.com/spoon/"
+    },
+    {
+      "name": "PhantomJS",
+      "href": "https://code.google.com/p/phantomjs/"
+    },
+    {
+      "name": "Blaze.io: Test Your Website Performance On A Mobile Device",
+      "href": "http://www.blaze.io/mobile/"
+    },
+    {
+      "name": "Open Sourcing My Genetic Data",
+      "href": "http://manu.sporny.org/2011/public-domain-genome/"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "EaselJS",
+      "href": "http://easeljs.com/"
+    },
+    {
+      "name": "IE9 on Windows Phone 7",
+      "href": "http://blogs.msdn.com/b/ie/archive/2011/02/14/ie9-on-windows-phone.aspx"
+    }
+  ],
+  "randomSpec": []
+}

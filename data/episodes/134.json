@@ -1,0 +1,95 @@
+{
+  "episode": 134,
+  "id": 134,
+  "date": "2013-12-25",
+  "duration": "00:52:04",
+  "live": true,
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/134/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2077/0/wd-134.mp3",
+  "topics": [
+    {
+      "name": "Heydon Pickering: Semantic CSS With Intelligent Selectors",
+      "href": "http://coding.smashingmagazine.com/2013/08/20/semantic-css-with-intelligent-selectors/",
+      "time": "00:00:36"
+    }
+  ],
+  "news": [
+    {
+      "name": "Yeoman 1.0",
+      "href": "http://yeoman.io/blog/hello-1.0.html",
+      "time": "00:00:13"
+    },
+    {
+      "name": "Bootstrap 3.0",
+      "href": "https://github.com/twbs/bootstrap/releases",
+      "time": "00:00:13"
+    }
+  ],
+  "links": [
+    {
+      "name": "html2pdf.it",
+      "href": "http://www.html2pdf.it/",
+      "time": "00:47:41"
+    },
+    {
+      "name": "NProgress",
+      "href": "http://ricostacruz.com/nprogress/",
+      "time": "00:47:41"
+    },
+    {
+      "name": "Web Components Resources",
+      "href": "https://gist.github.com/ebidel/6314025",
+      "time": "00:47:41"
+    },
+    {
+      "name": "Font Hacking",
+      "href": "http://www.heydonworks.com/article/font-hacking",
+      "time": "00:47:41"
+    },
+    {
+      "name": "Tridiv",
+      "href": "http://tridiv.com/",
+      "time": "00:47:41"
+    },
+    {
+      "name": "PLAY & MAKE 20013",
+      "href": "http://2013.playandmake.com/",
+      "time": "00:47:41"
+    }
+  ],
+  "randomSpec": [
+    {
+      "name": "CSS Generated Content for Paged Media",
+      "href": "http://www.w3.org/TR/css3-gcpm/",
+      "time": "00:38:20"
+    },
+    {
+      "name": "Der Matrix-Filter der CSS3-Transformations-Spezifikationen",
+      "href": "http://www.w3.org/TR/css3-transforms/#transform-functions",
+      "time": "00:38:20"
+    }
+  ]
+}

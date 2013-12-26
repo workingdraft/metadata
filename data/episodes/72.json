@@ -1,0 +1,101 @@
+{
+  "episode": 72,
+  "id": 72,
+  "date": "2013-12-25",
+  "duration": "01:00:59",
+  "live": true,
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/72/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1227/0/wd-72.mp3",
+  "topics": [
+    {
+      "name": "SASS versus LESS",
+      "href": "http://css-tricks.com/sass-vs-less/",
+      "time": "00:00:22"
+    },
+    {
+      "name": "Media Queries Level 4",
+      "href": "http://dev.w3.org/csswg/css4-mediaqueries/",
+      "time": "00:22:00"
+    },
+    {
+      "name": "Google Bot now crawls arbitrary Javascript sites",
+      "href": "http://swapped.tumblr.com/post/23133779276/google-bot-now-crawls-arbitrary-javascript-sites",
+      "time": "00:27:57"
+    },
+    {
+      "name": "Google Chrome Canary: webkitdirectory attribute walkthrough",
+      "href": "https://plus.google.com/115133653231679625609/posts/Dk5UhZ6zfF3",
+      "time": "00:41:20"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "SpahQL",
+      "href": "http://angryamoeba.co.uk/spahql-announce/",
+      "time": "00:47:55"
+    },
+    {
+      "name": "JSCheck-Tutorial",
+      "href": "http://net.tutsplus.com/tutorials/javascript-ajax/meet-crockford%E2%80%99s-jscheck/",
+      "time": "00:47:55"
+    },
+    {
+      "name": "Responsive Tables",
+      "href": "http://www.zurb.com/article/982/a-new-take-on-responsive-tables",
+      "time": "00:47:55"
+    },
+    {
+      "name": "Our Approach to Routing in Ember.js",
+      "href": "http://tomdale.net/2012/05/ember-routing/",
+      "time": "00:47:55"
+    },
+    {
+      "name": "wysihtml5 – A better approach to rich text editing",
+      "href": "http://xing.github.com/wysihtml5/",
+      "time": "00:47:55"
+    },
+    {
+      "name": "How To Choose The Right Face For A Beautiful Body",
+      "href": "http://www.smashingmagazine.com/2012/05/21/how-to-choose-the-right-face-for-a-beautiful-body/",
+      "time": "00:47:55"
+    },
+    {
+      "name": "GitHub for Windows",
+      "href": "https://github.com/blog/1127-github-for-windows",
+      "time": "00:47:55"
+    }
+  ],
+  "randomSpec": []
+}

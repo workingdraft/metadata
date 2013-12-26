@@ -1,0 +1,82 @@
+{
+  "episode": 66,
+  "id": 66,
+  "date": "2013-12-25",
+  "duration": "00:53:37",
+  "live": true,
+  "people": [
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/66/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1142/0/wd-66.mp3",
+  "topics": [
+    {
+      "name": "CSS-Vars Reloaded",
+      "href": "http://www.w3.org/TR/css-variables/",
+      "time": "00:00:25"
+    },
+    {
+      "name": "The select menu navigation pattern",
+      "href": "http://www.stuffandnonsense.co.uk/blog/about/the_select_menu_navigation_pattern",
+      "time": "00:10:17"
+    },
+    {
+      "name": "Brendan Eich ist homophob",
+      "href": "http://projects.latimes.com/prop8/donation/8930/",
+      "time": "00:31:00"
+    },
+    {
+      "name": "Werbeblock",
+      "time": "00:40:24"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Round-up of web browser internals resources",
+      "href": "http://updates.html5rocks.com/2012/04/Round-up-of-Web-Browser-Internals-Resources",
+      "time": "00:47:47"
+    },
+    {
+      "name": "locache",
+      "href": "https://github.com/d0ugal/locache",
+      "time": "00:47:47"
+    },
+    {
+      "name": "CoffeeScript in der Browser-Konsole",
+      "time": "00:47:47"
+    },
+    {
+      "name": "AngularJS Tutorial + Anatomy of Backbone",
+      "href": "http://www.youtube.com/watch?v=WuiHuZq_cg4",
+      "time": "00:47:47"
+    },
+    {
+      "name": "Emblr",
+      "href": "http://emberjs.tumblr.com/",
+      "time": "00:47:47"
+    }
+  ],
+  "randomSpec": []
+}

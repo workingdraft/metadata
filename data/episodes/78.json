@@ -1,0 +1,120 @@
+{
+  "episode": 78,
+  "id": 78,
+  "date": "2013-12-25",
+  "duration": "01:15:08",
+  "live": true,
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/78/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1333/0/wd-78.mp3",
+  "topics": [
+    {
+      "name": "Editoren & IDEs",
+      "time": "00:01:08"
+    },
+    {
+      "name": "Die Zukunft von jQuery",
+      "time": "00:20:42"
+    },
+    {
+      "name": "Yeoman",
+      "href": "http://yeoman.io/",
+      "time": "00:34:20"
+    },
+    {
+      "name": "Chrome für iOS",
+      "href": "http://www.mobilexweb.com/blog/chrome-ios-android-4-1-jelly-bean-html5",
+      "time": "00:54:23"
+    }
+  ],
+  "news": [
+    {
+      "name": "New (experimental) CSS feature: Hierarchies",
+      "href": "http://lists.webkit.org/pipermail/webkit-dev/2012-June/021315.html",
+      "time": "00:00:16"
+    },
+    {
+      "name": "Web Intents",
+      "href": "http://www.w3.org/TR/2012/WD-web-intents-20120626/",
+      "time": "00:00:16"
+    }
+  ],
+  "links": [
+    {
+      "name": "Retinafy your Website",
+      "href": "http://f.cl.ly/items/192E3I3O3o1w2b0a1g2l/How%20to%20Retinafy%20your%20Website.pdf",
+      "time": "01:04:47"
+    },
+    {
+      "name": "Tinycon – Favicon Alert Bubbles",
+      "href": "http://tommoor.github.com/tinycon/",
+      "time": "01:04:47"
+    },
+    {
+      "name": "Introduction To JavaScript Unit Testing",
+      "href": "http://coding.smashingmagazine.com/2012/06/27/introduction-to-javascript-unit-testing/",
+      "time": "01:04:47"
+    },
+    {
+      "name": "Symbolset",
+      "href": "http://symbolset.com/",
+      "time": "01:04:47"
+    },
+    {
+      "name": "Recommendations for building smartphone-optimized websites",
+      "href": "http://googlewebmastercentral.blogspot.de/2012/06/recommendations-for-building-smartphone.html",
+      "time": "01:04:47"
+    },
+    {
+      "name": "Google IO 2012 Notes",
+      "href": "http://christianheilmann.com/2012/07/02/google-io-2012-notes-lots-of-them/",
+      "time": "01:04:47"
+    },
+    {
+      "name": "SirPepe/HTML5Resources",
+      "href": "https://github.com/SirPepe/HTML5Resources",
+      "time": "01:04:47"
+    },
+    {
+      "name": "Repo.js",
+      "href": "http://darcyclarke.me/dev/repojs/",
+      "time": "01:04:47"
+    },
+    {
+      "name": "Peity",
+      "href": "http://benpickles.github.com/peity/",
+      "time": "01:04:47"
+    }
+  ],
+  "randomSpec": []
+}

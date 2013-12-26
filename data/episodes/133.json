@@ -1,0 +1,83 @@
+{
+  "episode": 133,
+  "id": 133,
+  "date": "2013-08-25",
+  "duration": "01:00:31",
+  "live": true,
+  "people": [
+    {
+      "name": "Jens Grochtdreis",
+      "twitter": "https://twitter.com/Flocke"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "twitter": "https://twitter.com/helloanselm"
+    }
+  ],
+  "href": "http://workingdraft.de/133/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2068/0/wd-133.mp3",
+  "topics": [
+    {
+      "name": "Robustes PNG Fallback für SVG",
+      "href": "http://lynn.ru/examples/svg/en.html",
+      "time": "00:01:00"
+    },
+    {
+      "name": "Warum Responsive Web-Design Schrott ist",
+      "href": "http://www.mobile-zeitgeist.com/2013/08/07/warum-responsive-webdesign-schrott-ist/",
+      "time": "00:14:00"
+    },
+    {
+      "name": "Responsive Webdesign braucht kein Framework.",
+      "href": "http://grochtdreis.de/weblog/2013/08/14/responsive-webdesign-benoetigt-kein-framework/",
+      "time": "00:26:00"
+    },
+    {
+      "name": "Missverständnis Framework",
+      "href": "http://grochtdreis.de/weblog/2013/08/19/missverstaendnis-framework/",
+      "time": "00:36:20"
+    }
+  ],
+  "news": [
+    {
+      "name": "Webkit unterstützt das srcset Attribut",
+      "href": "https://www.webkit.org/blog/2910/improved-support-for-high-resolution-displays-with-the-srcset-image-attribute/",
+      "time": "00:00:20"
+    },
+    {
+      "name": "Opera Developer",
+      "href": "http://www.opera.com/developer",
+      "time": "00:00:20"
+    }
+  ],
+  "links": [
+    {
+      "name": "Speed Awareness Month.",
+      "href": "http://www.speedawarenessmonth.com/",
+      "time": "00:57:20"
+    },
+    {
+      "name": "Web Platform Doc Sprint Zürich.",
+      "href": "http://wpds-zurich.eventbrite.com/",
+      "time": "00:57:20"
+    },
+    {
+      "name": "Handle deprecated and unmaintained repositories.",
+      "href": "http://helloanselm.com/2013/handle-deprecated-unmaintained-repositories/",
+      "time": "00:57:20"
+    },
+    {
+      "name": "LESS Mixins.",
+      "href": "https://github.com/drublic/less-mixins",
+      "time": "00:57:20"
+    }
+  ],
+  "randomSpec": []
+}

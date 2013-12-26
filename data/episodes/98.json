@@ -1,0 +1,98 @@
+{
+  "episode": 98,
+  "id": 98,
+  "date": "2012-11-28",
+  "duration": "00:59:10",
+  "live": true,
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/98/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1655/0/wd98.mp3",
+  "topics": [
+    {
+      "name": "IE10 for Win7",
+      "href": "http://windows.microsoft.com/en-US/internet-explorer/downloads/ie-10/worldwide-languages",
+      "time": "00:01:48"
+    },
+    {
+      "name": "HTML5 soll 2014 fertiger Webstandard sein",
+      "time": "00:16:00"
+    },
+    {
+      "name": "Code Smells in CSS",
+      "href": "http://csswizardry.com/2012/11/code-smells-in-css/",
+      "time": "00:32:50"
+    }
+  ],
+  "news": [
+    {
+      "name": "Firefox 17",
+      "href": "http://www.mozilla.org/en-US/firefox/17.0/releasenotes/",
+      "time": "00:00:19"
+    },
+    {
+      "name": "Updates zu Chrome und anderen",
+      "href": "https://plus.google.com/+GoogleChromeDevelopers/posts/Vjv26hBFte3",
+      "time": "00:00:19"
+    }
+  ],
+  "links": [
+    {
+      "name": "Aardwolf",
+      "href": "http://lexandera.com/aardwolf/",
+      "time": "00:54:32"
+    },
+    {
+      "name": "How to Build a Service that Supports EVERY Android Browser",
+      "href": "http://www.kinvey.com/blog/107/how-to-build-a-service-that-supports-every-android-browser",
+      "time": "00:54:32"
+    },
+    {
+      "name": "jQuery Builder",
+      "href": "http://projects.jga.me/jquery-builder/",
+      "time": "00:54:32"
+    },
+    {
+      "name": "Worauf es beim Einsatz reaktionsfähiger Typografie ankommt",
+      "href": "http://t3n.de/magazin/responsive-webdesign-reaktionsfahige-typografie-230315/",
+      "time": "00:54:32"
+    },
+    {
+      "name": "duri.me und Spritebaker",
+      "href": "http://duri.me/",
+      "time": "00:54:32"
+    },
+    {
+      "name": "Chrome Devtools Cheatsheet",
+      "href": "http://anti-code.com/devtools-cheatsheet/",
+      "time": "00:54:32"
+    },
+    {
+      "name": "Blue Beanie Day is coming – get your Beanie on!",
+      "href": "http://klick-ass.com/swag/blue-beanie-day-is-coming-get-your-beanie-on/",
+      "time": "00:54:32"
+    }
+  ],
+  "randomSpec": []
+}

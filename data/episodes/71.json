@@ -1,0 +1,113 @@
+{
+  "episode": 71,
+  "id": 71,
+  "date": "2013-12-25",
+  "duration": "01:07:49",
+  "live": true,
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    }
+  ],
+  "href": "http://workingdraft.de/71/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1216/0/wd-71.mp3",
+  "topics": [
+    {
+      "name": "JavaScript-Fehler schneller Analysieren mit Error.stack",
+      "href": "http://blogs.msdn.com/b/ie/archive/2012/05/10/diagnosing-javascript-errors-faster-with-error-stack.aspx",
+      "time": "00:00:30"
+    },
+    {
+      "name": "CSS keyframe based JavaScript events",
+      "href": "http://www.iamntz.com/3157/frontend-developer/css-keyframe-based-events/",
+      "time": "00:08:23"
+    },
+    {
+      "name": "Let’s Get Physical (Units)",
+      "href": "http://smus.com/physical-units/",
+      "time": "00:15:54"
+    },
+    {
+      "name": "Hitch – Stärke Aussagekraft durch besseres CSS ist die Devise",
+      "time": "00:31:09"
+    },
+    {
+      "name": "DOM MutationObserver – Auf DOM-Änderungen reagieren ohne die Performance zu killen",
+      "href": "http://hacks.mozilla.org/2012/05/dom-mutationobserver-reacting-to-dom-changes-without-killing-browser-performance/",
+      "time": "00:42:46"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Tooling & The Webapp Development Stack",
+      "href": "http://paulirish.com/2012/talk-tooling-the-webapp-development-stack/",
+      "time": "00:55:15"
+    },
+    {
+      "name": "Application Cache is a Douchebag",
+      "href": "http://www.alistapart.com/articles/application-cache-is-a-douchebag/",
+      "time": "00:55:15"
+    },
+    {
+      "name": "HTML5 Audio — The State of Play",
+      "href": "http://html5doctor.com/html5-audio-the-state-of-play/",
+      "time": "00:55:15"
+    },
+    {
+      "name": "Giving the Velocity website a performance makeover",
+      "href": "http://radar.oreilly.com/2012/05/velocity-performance-makeover.html",
+      "time": "00:55:15"
+    },
+    {
+      "name": "The Toolbox",
+      "href": "http://www.thetoolbox.cc/",
+      "time": "00:55:15"
+    },
+    {
+      "name": "jQuery Vector Maps",
+      "href": "http://jqvmap.com/",
+      "time": "00:55:15"
+    },
+    {
+      "name": "cssarrowplease",
+      "href": "http://cssarrowplease.com/",
+      "time": "00:55:15"
+    },
+    {
+      "name": "jQuery Knob",
+      "href": "http://anthonyterrien.com/knob/",
+      "time": "00:55:15"
+    },
+    {
+      "name": "jQuery.ish",
+      "href": "https://github.com/bshack/jQuery.ish",
+      "time": "00:55:15"
+    },
+    {
+      "name": "How To Survive A Robot Uprising",
+      "href": "http://www.youtube.com/watch?feature=player_embedded&v=-G3RoBHMu-o",
+      "time": "00:55:15"
+    }
+  ],
+  "randomSpec": []
+}

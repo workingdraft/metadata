@@ -1,0 +1,90 @@
+{
+  "episode": 24,
+  "id": 24,
+  "date": "2013-12-25",
+  "duration": "00:53:53",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/24/",
+  "audio": "http://workingdraft.de/podpress_trac/web/537/0/wd-24.mp3",
+  "topics": [
+    {
+      "name": "Silbentrennung landet im Firefox",
+      "href": "https://bugzilla.mozilla.org/show_bug.cgi?id=253317",
+      "time": "00:00:28"
+    },
+    {
+      "name": "Neuerungen in jQuery 1.6",
+      "href": "http://api.jquery.com/category/version/1.6/",
+      "time": "00:07:06"
+    },
+    {
+      "name": "jquery.com uses only 34% of jQuery",
+      "href": "http://blog.bolinfest.com/2011/04/jquerycom-uses-only-34-of-jquery.html",
+      "time": "00:11:32"
+    },
+    {
+      "name": "JavaScript Semicolon Insertion – Everything you need to know",
+      "href": "http://inimino.org/~inimino/blog/javascript_semicolons",
+      "time": "00:19:06"
+    },
+    {
+      "name": "traceur-compiler – Google’s vehicle for Javascript Language Design Experimentation",
+      "href": "https://code.google.com/p/traceur-compiler/",
+      "time": "00:26:20"
+    },
+    {
+      "name": "RewardJS",
+      "href": "http://rewardjs.com/",
+      "time": "00:37:16"
+    },
+    {
+      "name": "Measure Page Load Time with Site Speed Analytics Report",
+      "href": "http://analytics.blogspot.com/2011/05/measure-page-load-time-with-site-speed.html",
+      "time": "00:42:59"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Microjs",
+      "href": "http://microjs.com/",
+      "time": "00:49:33"
+    },
+    {
+      "name": "CSS Piffle",
+      "href": "http://piffle.abdoc.net/",
+      "time": "00:50:10"
+    },
+    {
+      "name": "HTML Email Boilerplate",
+      "href": "http://htmlemailboilerplate.com/",
+      "time": "00:50:45"
+    },
+    {
+      "name": "humans.txt",
+      "href": "http://humanstxt.org/",
+      "time": "00:51:35"
+    },
+    {
+      "name": "70+ Beispiele für mobile Websites",
+      "href": "http://www.blog.tocki.de/2011-05-05/70-beispiele-fur-mobile-websites/",
+      "time": "00:52:33"
+    }
+  ],
+  "randomSpec": []
+}

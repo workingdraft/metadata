@@ -1,0 +1,67 @@
+{
+  "episode": 50,
+  "id": 50,
+  "date": "2013-12-25",
+  "duration": "01:02:43",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Marcel Koch",
+      "twitter": "https://twitter.com/makochnet"
+    }
+  ],
+  "href": "http://workingdraft.de/50/",
+  "audio": "http://workingdraft.de/podpress_trac/web/925/0/wd-50.mp3",
+  "topics": [
+    {
+      "name": "HTML5 for Applications: The Fourth IE10 Platform Preview",
+      "href": "http://blogs.msdn.com/b/ie/archive/2011/11/29/html5-for-applications-the-fourth-ie10-platform-preview.aspx",
+      "time": "00:01:47"
+    },
+    {
+      "name": "“Mobile first” CSS and getting Sass to help with legacy IE",
+      "href": "http://nicolasgallagher.com/mobile-first-css-sass-and-ie/",
+      "time": "00:08:22"
+    },
+    {
+      "name": "Opera Dragonfly Style Profiler Preview",
+      "href": "http://my.opera.com/dragonfly/blog/style-profiler-preview",
+      "time": "00:16:14"
+    },
+    {
+      "name": "TitBit: Opera’s Neat ‘Spacebar’ Trick",
+      "href": "http://www.abalook.com/journal/2011/4/17/titbit-operarsquos-neat-lsquospacebarrsquo-trick.html",
+      "time": "00:23:17"
+    },
+    {
+      "name": "Creating Custom Font Stacks with Unicode-Range",
+      "href": "http://24ways.org/2011/unicode-range",
+      "time": "00:29:50"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Diverse Atzventzkalender",
+      "href": "http://24ways.org/2011/",
+      "time": "00:57:48"
+    },
+    {
+      "name": "Zoomify HTML5",
+      "href": "http://www.zoomify.com/html5.htm",
+      "time": "00:57:48"
+    },
+    {
+      "name": "Sight",
+      "href": "https://chrome.google.com/webstore/detail/epmaefhielclhlnmjofcdapbeepkmggh",
+      "time": "00:57:48"
+    }
+  ],
+  "randomSpec": []
+}

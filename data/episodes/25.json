@@ -1,0 +1,73 @@
+{
+  "episode": 25,
+  "id": 25,
+  "date": "2013-12-25",
+  "duration": "00:58:45",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Markus Schlegel",
+      "team": [
+        "2010-11-02",
+        "2011-11-08"
+      ],
+      "twitter": "https://twitter.com/markus_schlegel"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/25/",
+  "audio": "http://workingdraft.de/podpress_trac/web/555/0/wd-25.mp3",
+  "topics": [
+    {
+      "name": "jQuery 1.6.1 Released",
+      "href": "http://blog.jquery.com/2011/05/12/jquery-1-6-1-released/",
+      "time": "00:00:42"
+    },
+    {
+      "name": "Page Speed Online API",
+      "href": "https://code.google.com/apis/pagespeedonline/v1/getting_started.html",
+      "time": "00:02:53"
+    },
+    {
+      "name": "Inspectable Shadow DOM, the file browser and new default avatars",
+      "href": "http://peter.sh/2011/05/inspectable-shadow-dom-the-file-browser-and-new-default-avatars/",
+      "time": "00:08:37"
+    },
+    {
+      "name": "Proposal for a tab visibility API",
+      "href": "http://www.mail-archive.com/whatwg@lists.whatwg.org/msg24397.html",
+      "time": "00:20:06"
+    },
+    {
+      "name": "Google Chromebooks",
+      "href": "http://www.google.com/chromebook/#",
+      "time": "00:34:54"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "ROME – 3 Dreams of Black",
+      "href": "http://www.ro.me",
+      "time": "00:56:03"
+    },
+    {
+      "name": "Cameron Adams – Anatomy of a Mashup",
+      "href": "http://daftpunk.themaninblue.com/",
+      "time": "00:56:33"
+    }
+  ],
+  "randomSpec": []
+}

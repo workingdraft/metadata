@@ -1,0 +1,78 @@
+{
+  "episode": 149,
+  "id": 149,
+  "date": "2013-12-25",
+  "duration": "00:59:23",
+  "live": true,
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Gerrit van Aaken",
+      "twitter": "https://twitter.com/gerritvanaaken"
+    }
+  ],
+  "href": "http://workingdraft.de/149/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2193/0/wd-149.mp3",
+  "topics": [
+    {
+      "name": "Die Toolchain-Welt aus Designersicht",
+      "time": "00:02:44"
+    },
+    {
+      "name": "Wissenswertes zum Thema WebFonts",
+      "href": "http://www.webtypobuch.de",
+      "time": "00:18:52"
+    },
+    {
+      "name": "Offline First vs. Progressive Enhancement. Unvereinbar?",
+      "time": "00:38:22"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Share Grunt Configuration",
+      "href": "http://thenittygritty.co/shared-grunt-configuration",
+      "time": "00:51:00"
+    },
+    {
+      "name": "Phantomas",
+      "href": "http://calendar.perfplanet.com/2013/phantomas/",
+      "time": "00:51:00"
+    },
+    {
+      "name": "How the browser preloader makes pages load faster",
+      "href": "http://andydavies.me/blog/2013/10/22/how-the-browser-pre-loader-makes-pages-load-faster/",
+      "time": "00:51:00"
+    },
+    {
+      "name": "Android Chrome Dev Tools",
+      "href": "http://www.html5rocks.com/en/tutorials/developertools/mobile/",
+      "time": "00:51:00"
+    },
+    {
+      "name": "Have I been PWNED?",
+      "href": "http://haveibeenpwned.com/",
+      "time": "00:51:00"
+    },
+    {
+      "name": "Front-end development quiz",
+      "href": "http://davidshariff.com/quiz/",
+      "time": "00:51:00"
+    }
+  ],
+  "randomSpec": []
+}

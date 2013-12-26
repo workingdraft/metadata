@@ -1,0 +1,130 @@
+{
+  "episode": 129,
+  "id": 129,
+  "date": "2013-12-26",
+  "duration": "01:07:45",
+  "live": true,
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/129/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2021/0/wd-129.mp3",
+  "topics": [
+    {
+      "name": "Keygen-Element",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/multipage/the-button-element.html#the-keygen-element",
+      "time": "00:00:40"
+    },
+    {
+      "name": "WebGL",
+      "href": "http://de.wikipedia.org/wiki/WebGL",
+      "time": "00:04:43"
+    },
+    {
+      "name": "Application Cache",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/multipage/offline.html#offline",
+      "time": "00:06:57"
+    },
+    {
+      "name": "Frameworks wie Bootstrap, Foundation, Boilerplates und deren Zukunftssicherheit",
+      "href": "http://twitter.github.io/bootstrap/",
+      "time": "00:11:55"
+    },
+    {
+      "name": "CSS Grid Systems",
+      "time": "00:17:25"
+    },
+    {
+      "name": "WebRTC",
+      "href": "http://www.webrtc.org/",
+      "time": "00:20:30"
+    },
+    {
+      "name": "Schriftgrößen: px, %, em oder rem?",
+      "time": "00:00:00"
+    },
+    {
+      "name": "Wie strukturiert man CSS-Dateien?",
+      "time": "00:27:12"
+    },
+    {
+      "name": "(Responsive) Wireframes? Wenn ja, wie?",
+      "time": "00:32:17"
+    },
+    {
+      "name": "JS-MVC-Frameworks: Warum? Welche?",
+      "time": "00:34:44"
+    },
+    {
+      "name": "Warum wird #a11y selten beachtet? Was ist diesbezüglich neu in HTML5?",
+      "time": "00:37:14"
+    },
+    {
+      "name": "Server-Sent Events",
+      "href": "http://www.w3.org/TR/eventsource/",
+      "time": "00:42:21"
+    },
+    {
+      "name": "HTML5 Drag & Drop",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/multipage/dnd.html#dnd",
+      "time": "00:45:18"
+    },
+    {
+      "name": "Welche Hardware zum Entwickeln benutzen?",
+      "time": "00:50:26"
+    },
+    {
+      "name": "Geolocation",
+      "href": "http://www.w3.org/TR/geolocation-API/",
+      "time": "00:55:34"
+    },
+    {
+      "name": "Device APIs",
+      "time": "00:59:59"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Evaluating the Performance of SPDY-enabled Web Servers",
+      "href": "http://www.neotys.com/blog/performance-of-spdy-enabled-web-servers/",
+      "time": "01:04:22"
+    },
+    {
+      "name": "CSS Day Coverage – Videos und Slides sind komplett",
+      "href": "http://cssday.nl/coverage",
+      "time": "01:04:22"
+    },
+    {
+      "name": "AngularJS Fundamentals In 60-ish Minutes – YouTube",
+      "href": "http://www.youtube.com/watch?v=i9MHigUZKEM",
+      "time": "01:04:22"
+    },
+    {
+      "name": "Looking Into the Future of Sass",
+      "href": "http://davidwalsh.name/future-sass",
+      "time": "01:04:22"
+    }
+  ],
+  "randomSpec": []
+}

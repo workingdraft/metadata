@@ -1,0 +1,129 @@
+{
+  "episode": 93,
+  "id": 93,
+  "date": "2012-10-26",
+  "duration": "01:40:11",
+  "live": true,
+  "people": [
+    {
+      "name": "Christopher Zillgens",
+      "twitter": "https://twitter.com/czillgens"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    }
+  ],
+  "href": "http://workingdraft.de/93/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1569/0/wd-93.mp3",
+  "topics": [
+    {
+      "name": "Lea Verou’s neues Tool Contrast Ratio",
+      "href": "http://lea.verou.me/2012/10/easy-color-contrast-ratios/",
+      "time": "00:01:42"
+    },
+    {
+      "name": "Hierarchische Media Queries",
+      "href": "http://www.the-haystack.com/2012/10/17/nesting-media-queries/",
+      "time": "00:12:29"
+    },
+    {
+      "name": "Wir sollten aufhören an unseren Tools rum zu nörgeln",
+      "href": "http://timkadlec.com/2012/10/blame-the-implementation-not-the-technique/",
+      "time": "00:23:42"
+    },
+    {
+      "name": "Deine Website ist langsamer als du denkst",
+      "href": "http://www.netmagazine.com/features/your-mobile-site-slower-you-think",
+      "time": "00:42:25"
+    },
+    {
+      "name": "Christoph Zillgens Buch",
+      "href": "http://responsive-webdesign-buch.de/",
+      "time": "00:53:52"
+    }
+  ],
+  "news": [
+    {
+      "name": "Shadow DOM",
+      "href": "http://www.w3.org/TR/2012/WD-shadow-dom-20121016/",
+      "time": "00:00:55"
+    },
+    {
+      "name": "CSS Exclusions in Chrome Canary",
+      "href": "http://hansmuller-webkit.blogspot.de/2012/10/experimental-css-exclusions-shape.html",
+      "time": "00:00:55"
+    }
+  ],
+  "links": [
+    {
+      "name": "Vue",
+      "href": "http://simmo.github.com/vue/",
+      "time": "01:31:43"
+    },
+    {
+      "name": "OOCSS + SASS",
+      "href": "http://ianstormtaylor.com/oocss-plus-sass-is-the-best-way-to-css/",
+      "time": "01:31:43"
+    },
+    {
+      "name": "TakeOff Conference 2013",
+      "href": "http://takeoffconf.com/",
+      "time": "01:31:43"
+    },
+    {
+      "name": "Error-Logging auf der Client-Side",
+      "href": "http://dev.opera.com/articles/view/client-side-error-logging/",
+      "time": "01:31:43"
+    },
+    {
+      "name": "IE10 Snap Mode and Responsive Design",
+      "href": "http://timkadlec.com/2012/10/ie10-snap-mode-and-responsive-design/",
+      "time": "01:31:43"
+    },
+    {
+      "name": "Line-Height",
+      "href": "http://de.slideshare.net/maxdesign/line-height",
+      "time": "01:31:43"
+    },
+    {
+      "name": "Text re-encoding for optimising storage capacity in the browser",
+      "href": "http://labs.ft.com/2012/06/text-re-encoding-for-optimising-storage-capacity-in-the-browser/",
+      "time": "01:31:43"
+    },
+    {
+      "name": "Contre Jour – Behind the Scenes",
+      "href": "http://www.youtube.com/watch?feature=player_embedded&v=-DTW-lTbXvk",
+      "time": "01:31:43"
+    },
+    {
+      "name": "JavaScript Promises",
+      "href": "https://gist.github.com/3889970",
+      "time": "01:31:43"
+    },
+    {
+      "name": "CSS Filters Polyfill",
+      "href": "https://github.com/Schepp/CSS-Filters-Polyfill",
+      "time": "01:31:43"
+    }
+  ],
+  "randomSpec": []
+}

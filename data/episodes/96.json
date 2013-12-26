@@ -1,0 +1,69 @@
+{
+  "episode": 96,
+  "id": 96,
+  "date": "2013-12-25",
+  "duration": "00:30:04",
+  "live": true,
+  "people": [
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/96/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1620/0/wd-96.mp3",
+  "topics": [
+    {
+      "name": "HTML5 forms (and IE10 (Mobile))",
+      "href": "http://blog.trasatti.it/2012/11/html5-forms-and-ie10-mobile.html",
+      "time": "00:03:17"
+    }
+  ],
+  "news": [
+    {
+      "name": "Neue Chrome-Beta",
+      "href": "http://blog.chromium.org/2012/11/a-web-developers-guide-to-latest-chrome.html",
+      "time": "00:10:00"
+    },
+    {
+      "name": "Opera 12.10",
+      "href": "http://my.opera.com/ODIN/blog/opera-12-10-is-out",
+      "time": "00:10:00"
+    },
+    {
+      "name": "Firefox OS Simulator",
+      "href": "http://www.blueskyonmars.com/2012/11/08/r2d2b2g-is-becoming-the-firefox-os-simulator/",
+      "time": "00:10:00"
+    }
+  ],
+  "links": [
+    {
+      "name": "Garlicjs und Sisyphus",
+      "href": "http://garlicjs.org/",
+      "time": "00:27:20"
+    },
+    {
+      "name": "Responsive background images with fixed or fluid aspect ratios",
+      "href": "http://voormedia.com/blog/2012/11/responsive-background-images-with-fixed-or-fluid-aspect-ratios",
+      "time": "00:27:20"
+    }
+  ],
+  "randomSpec": []
+}

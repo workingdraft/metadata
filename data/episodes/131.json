@@ -1,0 +1,80 @@
+{
+  "episode": 131,
+  "id": 131,
+  "date": "2013-12-25",
+  "duration": "00:38:30",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/131/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2043/0/wd-131.mp3",
+  "topics": [
+    {
+      "name": "Grid-Framework-Empfehlungen",
+      "time": "00:00:33"
+    },
+    {
+      "name": "Push-Funktionalität",
+      "time": "00:04:19"
+    },
+    {
+      "name": "Local Storage",
+      "time": "00:11:33"
+    },
+    {
+      "name": "Packaging von Webapps zur Offline-Nutzung",
+      "time": "00:14:21"
+    },
+    {
+      "name": "Die Zukunft von WebP",
+      "time": "00:19:57"
+    },
+    {
+      "name": "Was ist von <nav> und <menu> zu halten?",
+      "time": "00:25:07"
+    },
+    {
+      "name": "Was ist von Flexbox zu halten?",
+      "time": "00:27:23"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "DalekJS introduction on Vimeo",
+      "href": "https://vimeo.com/71466029",
+      "time": "00:35:03"
+    },
+    {
+      "name": "VerbalExpressions",
+      "href": "https://github.com/jehna/VerbalExpressions",
+      "time": "00:35:03"
+    },
+    {
+      "name": "WebPlatform DocSprint Zurich",
+      "href": "http://wpds-zurich.eventbrite.com/",
+      "time": "00:35:03"
+    }
+  ],
+  "randomSpec": []
+}

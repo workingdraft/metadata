@@ -1,0 +1,74 @@
+{
+  "episode": 27,
+  "id": 27,
+  "date": "2013-12-25",
+  "duration": "01:14:16",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Markus Schlegel",
+      "team": [
+        "2010-11-02",
+        "2011-11-08"
+      ],
+      "twitter": "https://twitter.com/markus_schlegel"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/27/",
+  "audio": "",
+  "topics": [
+    {
+      "name": "[00:00:19.000] @viewport in Opera",
+      "href": "http://dev.opera.com/articles/view/an-introduction-to-meta-viewport-and-viewport/"
+    },
+    {
+      "name": "[00:11:44.000] W3C Resource Timing",
+      "href": "http://www.w3.org/TR/2011/WD-resource-timing-20110524/"
+    },
+    {
+      "name": "[00:15:56.000] sencha.io",
+      "href": "http://www.sencha.com/products/io/"
+    },
+    {
+      "name": "[00:24:55.000] CSS pointer-events",
+      "href": "https://developer.mozilla.org/en/CSS/pointer-events"
+    },
+    {
+      "name": "[00:41:27.000] Firefox Aurora 6",
+      "href": "https://hacks.mozilla.org/2011/05/aurora-6-is-here/"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "[01:11:03.000] Gehosteter Winere-Server",
+      "href": "http://debug.phonegap.com/"
+    },
+    {
+      "name": "[01:11:52.000] Website aus Schokolade und Bier und Awesomesauce",
+      "href": "http://www.sagres.pt/sagrespretachocolate/#/homepage"
+    },
+    {
+      "name": "[01:12:39.000] Inline the crap out of your site",
+      "href": "http://inliner.leftlogic.com/"
+    },
+    {
+      "name": "[01:13:47.000] SVG Background Gradient Maker",
+      "href": "http://ie.microsoft.com/testdrive/Graphics/SVGGradientBackgroundMaker/Default.html"
+    }
+  ],
+  "randomSpec": []
+}

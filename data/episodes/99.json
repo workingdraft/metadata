@@ -1,0 +1,100 @@
+{
+  "episode": 99,
+  "id": 99,
+  "date": "2013-12-25",
+  "duration": "01:18:52",
+  "live": true,
+  "people": [
+    {
+      "name": "Marc Hinse",
+      "twitter": "https://twitter.com/MadeMyDay"
+    },
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Frederic Hemberger",
+      "twitter": "https://twitter.com/fhemberger"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/99/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1672/0/wd-99.mp3",
+  "topics": [
+    {
+      "name": "ProcessWire",
+      "href": "http://processwire.com/",
+      "time": "00:00:33"
+    },
+    {
+      "name": "Sueddeutsche.de",
+      "href": "http://www.sueddeutsche.de/",
+      "time": "00:18:26"
+    },
+    {
+      "name": "File API – an introduction",
+      "href": "http://msdn.microsoft.com/en-gb/magazine/jj835793.aspx",
+      "time": "00:37:57"
+    },
+    {
+      "name": "Grunt",
+      "time": "00:47:38"
+    },
+    {
+      "name": "The Nitty Gritty",
+      "href": "http://thenittygritty.co/",
+      "time": "01:05:19"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Adventskalender für Webentwickler",
+      "time": "01:13:25"
+    },
+    {
+      "name": "IE10 CSS Hacks",
+      "href": "http://www.impressivewebs.com/ie10-css-hacks/",
+      "time": "01:13:25"
+    },
+    {
+      "name": "Getting serious about SVG",
+      "href": "http://mapbox.com/osmdev/2012/11/20/getting-serious-about-svg/",
+      "time": "01:13:25"
+    },
+    {
+      "name": "Walkabout.js",
+      "href": "https://github.com/ianb/walkabout.js",
+      "time": "01:13:25"
+    },
+    {
+      "name": "Startup Ipsum",
+      "href": "http://startupipsum.co",
+      "time": "01:13:25"
+    },
+    {
+      "name": "Cologne.js meets Nodecopter",
+      "href": "http://colognejs.de/",
+      "time": "01:13:25"
+    }
+  ],
+  "randomSpec": []
+}

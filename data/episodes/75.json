@@ -1,0 +1,74 @@
+{
+  "episode": 75,
+  "id": 75,
+  "date": "2013-12-25",
+  "duration": "00:15:50",
+  "live": true,
+  "people": [
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/75/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1271/0/wd-75.mp3",
+  "topics": [
+    {
+      "name": "JSON vs. MessagePack vs. JSON5",
+      "time": "00:01:19"
+    }
+  ],
+  "news": [
+    {
+      "name": "Transitions, Transforms and Animations may be released unprefixed",
+      "href": "http://www.w3.org/blog/CSS/2012/06/06/resolutions-40/",
+      "time": "00:00:11"
+    },
+    {
+      "name": "MySQL Root Exploit",
+      "href": "https://www.secmaniac.com/blog/2012/06/11/massive-mysql-authentication-bypass-exploit/",
+      "time": "00:00:11"
+    }
+  ],
+  "links": [
+    {
+      "name": "Third-Party JavaScript Development: The Future!",
+      "href": "http://weblog.bocoup.com/third-party-javascript-development-future/",
+      "time": "00:11:02"
+    },
+    {
+      "name": "gmaps.js",
+      "href": "http://hpneo.github.com/gmaps/examples.html",
+      "time": "00:11:02"
+    },
+    {
+      "name": "Bunyip",
+      "href": "http://ryanseddon.github.com/bunyip/",
+      "time": "00:11:02"
+    },
+    {
+      "name": "Trying out ECMAScript.next’s for…of loop in Firefox 13",
+      "href": "http://www.2ality.com/2012/06/for-of-ff13.html",
+      "time": "00:11:02"
+    }
+  ],
+  "randomSpec": []
+}

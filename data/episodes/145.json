@@ -1,0 +1,82 @@
+{
+  "episode": 145,
+  "id": 145,
+  "date": "2013-12-25",
+  "duration": "00:58:05",
+  "live": true,
+  "people": [
+    {
+      "name": "Bastian Allgeier",
+      "twitter": "https://twitter.com/bastianallgeier"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Alex Feyerke",
+      "twitter": "https://twitter.com/espylaub"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/145/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2156/0/wd-145.mp3",
+  "topics": [
+    {
+      "name": "Grand Decentral Station",
+      "href": "http://decentralize.it/",
+      "time": "00:02:09"
+    },
+    {
+      "name": "Hood.ie",
+      "href": "http://hood.ie/",
+      "time": "00:30:13"
+    }
+  ],
+  "news": [
+    {
+      "name": "IE11 für Windows 7",
+      "href": "http://blogs.msdn.com/b/ie/archive/2013/11/07/ie11-for-windows-7-globally-available-for-consumers-and-businesses.aspx",
+      "time": "00:01:45"
+    }
+  ],
+  "links": [
+    {
+      "name": "CSS Shapes",
+      "href": "http://sarasoueidan.com/blog/css-shapes/index.html",
+      "time": "00:56:00"
+    },
+    {
+      "name": "cite and blockquote – reloaded",
+      "href": "http://html5doctor.com/cite-and-blockquote-reloaded/",
+      "time": "00:56:00"
+    },
+    {
+      "name": "Icon fonts, unicode ranges, and IE8’s compatibility mode",
+      "href": "http://adactio.com/journal/6555/",
+      "time": "00:56:00"
+    },
+    {
+      "name": "Why We Need Responsive Images: Part Deux",
+      "href": "http://timkadlec.com/2013/11/why-we-need-responsive-images-part-deux/",
+      "time": "00:56:00"
+    }
+  ],
+  "randomSpec": []
+}

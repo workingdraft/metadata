@@ -1,0 +1,108 @@
+{
+  "episode": 37,
+  "id": 37,
+  "date": "2011-08-25",
+  "duration": "01:37:55",
+  "people": [
+    {
+      "name": "Marc Hinse",
+      "twitter": "https://twitter.com/MadeMyDay"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Markus Schlegel",
+      "team": [
+        "2010-11-02",
+        "2011-11-08"
+      ],
+      "twitter": "https://twitter.com/markus_schlegel"
+    }
+  ],
+  "href": "http://workingdraft.de/37/",
+  "audio": "http://workingdraft.de/podpress_trac/web/742/0/wd-37.mp3",
+  "topics": [
+    {
+      "name": "speak.js – Text-To-Speech on the Web",
+      "href": "http://syntensity.com/static/espeak.html",
+      "time": "00:02:06"
+    },
+    {
+      "name": "tween.js",
+      "href": "https://github.com/sole/tween.js",
+      "time": "00:10:53"
+    },
+    {
+      "name": "Cross-browser contextmenu support with a polyfill",
+      "href": "https://plus.google.com/115133653231679625609/posts/CJMyExJTbug",
+      "time": "00:17:56"
+    },
+    {
+      "name": "Native Client – Googles Vision vom nativen Web",
+      "href": "http://www.golem.de/1108/85854.html",
+      "time": "00:34:02"
+    },
+    {
+      "name": "pjscrape",
+      "href": "http://nrabinowitz.github.com/pjscrape/",
+      "time": "00:55:26"
+    },
+    {
+      "name": "backbone.js und andere MVC/MVVM-JavaScript-Frameworks",
+      "href": "http://documentcloud.github.com/backbone/",
+      "time": "01:02:08"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "How Browsers Work: Behind the Scenes of Modern Web Browsers",
+      "href": "http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/",
+      "time": "01:31:41"
+    },
+    {
+      "name": "Verbesserungen am Netzwerkstack von Firefox 6",
+      "href": "https://plus.google.com/100166083286297802191/posts/hFZ6UWExvfA",
+      "time": "01:31:41"
+    },
+    {
+      "name": "Browserling",
+      "href": "http://browserling.com/",
+      "time": "01:31:41"
+    },
+    {
+      "name": "Spin.js",
+      "href": "http://fgnass.github.com/spin.js/",
+      "time": "01:31:41"
+    },
+    {
+      "name": "Firefox Scratchpad",
+      "href": "http://blog.mozilla.com/devtools/2011/08/15/introducing-scratchpad/",
+      "time": "01:31:41"
+    },
+    {
+      "name": "Rasta.js",
+      "href": "http://rastajs.errorjs.com/",
+      "time": "01:31:41"
+    },
+    {
+      "name": "Usability in Icons",
+      "href": "http://stiern.com/articles/usability/usability-in-icons/",
+      "time": "01:31:41"
+    }
+  ],
+  "randomSpec": []
+}

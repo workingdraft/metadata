@@ -1,0 +1,85 @@
+{
+  "episode": 94,
+  "id": 94,
+  "date": "2013-12-25",
+  "duration": "00:40:08",
+  "live": true,
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    }
+  ],
+  "href": "http://workingdraft.de/94/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1592/0/wd-94.mp3",
+  "topics": [
+    {
+      "name": "Test The Web Forward!",
+      "time": "00:00:20"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "So, you want to be a Front-end Engineer",
+      "href": "https://speakerdeck.com/dmosher/so-you-want-to-be-a-front-end-engineer",
+      "time": "00:31:42"
+    },
+    {
+      "name": "CSS FilterLab",
+      "href": "http://www.adobe.com/devnet/html5/articles/css-filterlab.html",
+      "time": "00:31:42"
+    },
+    {
+      "name": "3D CSS Tester",
+      "href": "http://thewebrocks.com/demos/3D-css-tester/",
+      "time": "00:31:42"
+    },
+    {
+      "name": "CSS Layout Resources",
+      "href": "http://zomigi.com/blog/future-css-layout-fowd/",
+      "time": "00:31:42"
+    },
+    {
+      "name": "Test’em",
+      "href": "https://github.com/airportyh/testem",
+      "time": "00:31:42"
+    },
+    {
+      "name": "Distilled Hype & @JSCentral",
+      "href": "http://distilledhype.com/",
+      "time": "00:31:42"
+    },
+    {
+      "name": "Fronteers Jam Session Videos",
+      "href": "http://vimeo.com/channels/fronteers12",
+      "time": "00:31:42"
+    }
+  ],
+  "randomSpec": []
+}

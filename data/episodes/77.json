@@ -1,0 +1,114 @@
+{
+  "episode": 77,
+  "id": 77,
+  "date": "2012-06-27",
+  "duration": "01:04:12",
+  "live": true,
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/77/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1309/0/wd-77.mp3",
+  "topics": [
+    {
+      "name": "The Sabotage of Do Not Track",
+      "href": "http://laboratorium.net/archive/2012/06/19/the_sabotage_of_do_not_track",
+      "time": "00:00:55"
+    },
+    {
+      "name": "I Want a DAMNodeInserted Event",
+      "href": "http://www.backalleycoder.com/2012/04/25/i-want-a-damnodeinserted/",
+      "time": "00:18:30"
+    },
+    {
+      "name": "X-Tag – Web Components Workshop und Working with CSS Regions and Shadow DOM",
+      "href": "https://air.mozilla.org/x-tags/",
+      "time": "00:29:05"
+    },
+    {
+      "name": "Der IHK-Zwang muss abgeschafft werden",
+      "href": "http://www.perun.net/2012/06/24/kommentar-der-ihk-zwang-muss-abgeschafft-werden/",
+      "time": "00:42:35"
+    }
+  ],
+  "news": [
+    {
+      "name": "It’s Official, CSS Media Queries Are a Web Standard",
+      "href": "http://www.webmonkey.com/2012/06/its-official-css-media-queries-are-a-web-standard",
+      "time": "00:00:22"
+    }
+  ],
+  "links": [
+    {
+      "name": "reFiddle",
+      "href": "http://refiddle.com/",
+      "time": "00:57:05"
+    },
+    {
+      "name": "Asynchronous programming and continuation-passing style in JavaScript",
+      "href": "http://www.2ality.com/2012/06/continuation-passing-style.html",
+      "time": "00:57:05"
+    },
+    {
+      "name": "DailyJS #js101",
+      "href": "http://dailyjs.com/tags.html#js101",
+      "time": "00:57:05"
+    },
+    {
+      "name": "Grunt plugins published to Npm",
+      "href": "http://jsfiddle.net/cowboy/qzRjD/show/",
+      "time": "00:57:05"
+    },
+    {
+      "name": "pageguide.js",
+      "href": "http://tracelytics.github.com/pageguide/",
+      "time": "00:57:05"
+    },
+    {
+      "name": "10 things you didn’t know JavaScript could do",
+      "href": "http://www.netmagazine.com/features/10-things-you-didnt-know-javascript-could-do",
+      "time": "00:57:05"
+    },
+    {
+      "name": "Cool URIs don’t change",
+      "href": "http://www.w3.org/Provider/Style/URI.html",
+      "time": "00:57:05"
+    },
+    {
+      "name": "Shumway & bikeshed.js",
+      "href": "http://badassjs.com/post/25369867558/shumway-mozillas-flash-vm-and-runtime-in-javascript",
+      "time": "00:57:05"
+    },
+    {
+      "name": "CSS generated content and screen readers",
+      "href": "http://www.456bereastreet.com/archive/201205/css_generated_content_and_screen_readers/",
+      "time": "00:57:05"
+    },
+    {
+      "name": "Skrollr",
+      "href": "https://github.com/Prinzhorn/skrollr",
+      "time": "00:57:05"
+    }
+  ],
+  "randomSpec": []
+}

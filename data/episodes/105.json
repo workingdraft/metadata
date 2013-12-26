@@ -1,0 +1,63 @@
+{
+  "episode": 105,
+  "id": 105,
+  "date": "2013-01-30",
+  "duration": "00:53:13",
+  "live": true,
+  "people": [
+    {
+      "name": "asciidisco",
+      "twitter": "https://twitter.com/asciidisco"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/105/",
+  "audio": "http://workingdraft.de/podpress_trac/web/1789/0/wd-105.mp3",
+  "topics": [
+    {
+      "name": "CSS-Performance",
+      "time": "00:00:17"
+    },
+    {
+      "name": "Web Workers",
+      "time": "00:24:41"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "Writing Testable Frontend Javascript",
+      "href": "https://shanetomlinson.com/2013/testing-javascript-frontend-part-1-anti-patterns-and-fixes/",
+      "time": "00:49:14"
+    },
+    {
+      "name": "Paymill – The Payment Engineers",
+      "href": "https://www.paymill.com/de-de/",
+      "time": "00:49:14"
+    },
+    {
+      "name": "A11Y Project",
+      "href": "http://a11yproject.com/",
+      "time": "00:49:14"
+    },
+    {
+      "name": "Surface – A building block for web-based text editors.",
+      "href": "http://interior.substance.io/modules/surface.html",
+      "time": "00:49:14"
+    }
+  ],
+  "randomSpec": []
+}

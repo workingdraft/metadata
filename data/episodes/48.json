@@ -1,0 +1,71 @@
+{
+  "episode": 48,
+  "id": 48,
+  "date": "2013-12-26",
+  "duration": "00:54:00",
+  "video": "http://www.youtube.com/watch?v=aFEiw0SEMyw",
+  "lang": "EN",
+  "people": [
+    {
+      "name": "Marc Hinse",
+      "twitter": "https://twitter.com/MadeMyDay"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic"
+    },
+    {
+      "name": "Maik Wagner",
+      "twitter": "https://twitter.com/fernmuendlich"
+    },
+    {
+      "name": "Frederic Hemberger",
+      "twitter": "https://twitter.com/fhemberger"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "twitter": "https://twitter.com/helloanselm"
+    },
+    {
+      "name": "David Maciejewski",
+      "twitter": "https://twitter.com/macx"
+    },
+    {
+      "name": "Sven Wolfermann",
+      "twitter": "https://twitter.com/maddesigns"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    }
+  ],
+  "href": "http://workingdraft.de/48/",
+  "audio": "http://workingdraft.de/podpress_trac/web/890/0/wd-48.mp3",
+  "topics": [
+    {
+      "name": "beyond tellerrand 2011",
+      "href": "http://2011.beyondtellerrand.com/"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "beyond tellerrand Videos",
+      "href": "http://vimeo.com/channels/beyondtellerrand"
+    }
+  ],
+  "randomSpec": []
+}

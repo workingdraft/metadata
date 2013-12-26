@@ -1,0 +1,67 @@
+{
+  "episode": 11,
+  "id": 11,
+  "date": "2011-01-25",
+  "duration": "01:06:07",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Markus Schlegel",
+      "team": [
+        "2010-11-02",
+        "2011-11-08"
+      ],
+      "twitter": "https://twitter.com/markus_schlegel"
+    },
+    {
+      "name": "Nico Brünjes",
+      "twitter": "https://twitter.com/nicobruenjes"
+    }
+  ],
+  "href": "http://workingdraft.de/11/",
+  "audio": "http://workingdraft.de/podpress_trac/web/250/0/wd-11.mp3",
+  "topics": [
+    {
+      "name": "W3C HTML5 Logo!",
+      "href": "http://www.w3.org/html/logo/"
+    },
+    {
+      "name": "HTML is the new HTML5",
+      "href": "http://blog.whatwg.org/html-is-the-new-html5"
+    },
+    {
+      "name": "Using CSS Selectors as Fragment Identifiers",
+      "href": "http://simonstl.com/articles/cssFragID.html"
+    },
+    {
+      "name": "Learning from Twitter",
+      "href": "http://ejohn.org/blog/learning-from-twitter/"
+    },
+    {
+      "name": "Hinter dem mobilen Proxy",
+      "href": "http://codecandies.de/2011/01/20/hinter-dem-mobilen-proxy/"
+    },
+    {
+      "name": "Mozilla plant Do-not-track-HTTP-Header",
+      "href": "http://www.golem.de/1101/80917.html"
+    },
+    {
+      "name": "ARPAgeddon (IPv4 Countdown)",
+      "href": "https://twitter.com/#!/IPv4Countdown"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "UglifyJS",
+      "href": "https://github.com/mishoo/UglifyJS/"
+    }
+  ],
+  "randomSpec": []
+}
