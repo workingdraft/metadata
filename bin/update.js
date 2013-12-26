@@ -137,6 +137,15 @@ function findAnomalies() {
     !episode.href && log(id, "Link is missing");
     !episode.people.length && log(id, "People are missing");
     
+    episode.flags && episode.flags.forEach(function(flag) {
+      switch (flag) {
+        case 'no-topics':
+          content = content || {};
+          content.topics = ['foo'];
+          break;
+      }
+    });
+    
     if (!content) {
       log(id, "content is missing completely - parse error?");
     } else {
