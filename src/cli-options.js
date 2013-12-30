@@ -28,6 +28,9 @@ module.exports = function(mandatory) {
         process.exit(1);
       }
     }
+    if (val === '--force') {
+      options.force = true;
+    }
     if (val === '--help') {
       console.log("OPTIONS:");
       console.log(" --episode 1,2,3   update episodes 1, 2 and 3");

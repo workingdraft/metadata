@@ -20,7 +20,7 @@ var tasks = (options.episodes || Object.keys(episodes)).map(function(id) {
   var content = contents[id];
   var _included = options.episodes && options.episodes.indexOf(id) > -1;
   
-  if (episode.href && content && !_included) {
+  if (episode.href && content && !_included && !options.force) {
     // this episode has already been mapped, no need to repeat unless it was requested
     return true;
   }
