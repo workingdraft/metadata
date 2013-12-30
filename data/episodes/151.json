@@ -1,0 +1,65 @@
+{
+  "episode": 151,
+  "id": 151,
+  "date": "2013-12-29",
+  "duration": "00:48:35",
+  "people": [
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/151/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2225/0/wd-151.mp3",
+  "topics": [
+    {
+      "name": "Myth",
+      "href": "http://www.myth.io/",
+      "time": "00:00:24"
+    },
+    {
+      "name": "Goodbye WordPress: 2014 Will Be the Year of Flat-File CMSes — Type & Grids",
+      "href": "http://www.typeandgrids.com/blog/goodbye-wordpress-2014-will-be-the-year-of-flat-file-cmses",
+      "time": "00:35:05"
+    }
+  ],
+  "news": [],
+  "links": [
+    {
+      "name": "addyosmani/es6-tools",
+      "href": "https://github.com/addyosmani/es6-tools",
+      "time": "00:45:32"
+    },
+    {
+      "name": "SpinKit",
+      "href": "http://tobiasahlin.com/spinkit/",
+      "time": "00:45:32"
+    },
+    {
+      "name": "How Do Users Really Hold Mobile Devices?",
+      "href": "http://www.uxmatters.com/mt/archives/2013/02/how-do-users-really-hold-mobile-devices.php",
+      "time": "00:45:32"
+    },
+    {
+      "name": "Lea Verou: CSS in the 4th Dimension",
+      "href": "http://www.youtube.com/watch?v=NTJUFQmHbvc",
+      "time": "00:45:32"
+    },
+    {
+      "name": "generator-init",
+      "href": "https://github.com/use-init/generator-init",
+      "time": "00:45:32"
+    }
+  ],
+  "randomSpec": []
+}

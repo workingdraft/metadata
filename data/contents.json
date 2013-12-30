@@ -8357,5 +8357,94 @@
       }
     ],
     "randomSpec": []
+  },
+  "150": {
+    "episode": 150,
+    "topics": [],
+    "news": [
+      {
+        "name": "CSS-Variablen im Firefox",
+        "href": "http://mcc.id.au/blog/2013/12/variables",
+        "time": "00:00:37"
+      }
+    ],
+    "links": [
+      {
+        "name": "What You May Not Know About the Z-Index Property",
+        "href": "http://dev.tutsplus.com/articles/what-you-may-not-know-about-the-z-index-property--webdesign-16892",
+        "time": "00:14:01"
+      },
+      {
+        "name": "jquery.adaptive-backgrounds.js",
+        "href": "http://briangonzalez.github.io/jquery.adaptive-backgrounds.js/",
+        "time": "00:14:01"
+      },
+      {
+        "name": "Understanding the Real-World Performance of your Web Application Across IE11 and Other Browsers",
+        "href": "http://blogs.msdn.com/b/ie/archive/2013/12/12/understanding-the-real-world-performance-of-your-web-application-across-ie11-and-other-browsers.aspx",
+        "time": "00:14:01"
+      },
+      {
+        "name": "JavaScript Promises – There and back again",
+        "href": "http://www.html5rocks.com/en/tutorials/es6/promises/",
+        "time": "00:14:01"
+      },
+      {
+        "name": "hoodie-plugin-angularjs",
+        "href": "https://github.com/elmarburke/hoodie-plugin-angularjs",
+        "time": "00:14:01"
+      }
+    ],
+    "randomSpec": [
+      {
+        "name": "Das colgroup-Element",
+        "href": "http://www.whatwg.org/specs/web-apps/current-work/#the-colgroup-element",
+        "time": "00:01:31"
+      }
+    ]
+  },
+  "151": {
+    "episode": 151,
+    "topics": [
+      {
+        "name": "Myth",
+        "href": "http://www.myth.io/",
+        "time": "00:00:24"
+      },
+      {
+        "name": "Goodbye WordPress: 2014 Will Be the Year of Flat-File CMSes — Type & Grids",
+        "href": "http://www.typeandgrids.com/blog/goodbye-wordpress-2014-will-be-the-year-of-flat-file-cmses",
+        "time": "00:35:05"
+      }
+    ],
+    "news": [],
+    "links": [
+      {
+        "name": "addyosmani/es6-tools",
+        "href": "https://github.com/addyosmani/es6-tools",
+        "time": "00:45:32"
+      },
+      {
+        "name": "SpinKit",
+        "href": "http://tobiasahlin.com/spinkit/",
+        "time": "00:45:32"
+      },
+      {
+        "name": "How Do Users Really Hold Mobile Devices?",
+        "href": "http://www.uxmatters.com/mt/archives/2013/02/how-do-users-really-hold-mobile-devices.php",
+        "time": "00:45:32"
+      },
+      {
+        "name": "Lea Verou: CSS in the 4th Dimension",
+        "href": "http://www.youtube.com/watch?v=NTJUFQmHbvc",
+        "time": "00:45:32"
+      },
+      {
+        "name": "generator-init",
+        "href": "https://github.com/use-init/generator-init",
+        "time": "00:45:32"
+      }
+    ],
+    "randomSpec": []
   }
 }

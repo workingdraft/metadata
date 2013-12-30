@@ -1,0 +1,66 @@
+{
+  "episode": 150,
+  "id": 150,
+  "date": "2013-12-29",
+  "duration": "00:17:58",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe"
+    }
+  ],
+  "href": "http://workingdraft.de/150/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2198/0/wd-150.mp3",
+  "topics": [],
+  "news": [
+    {
+      "name": "CSS-Variablen im Firefox",
+      "href": "http://mcc.id.au/blog/2013/12/variables",
+      "time": "00:00:37"
+    }
+  ],
+  "links": [
+    {
+      "name": "What You May Not Know About the Z-Index Property",
+      "href": "http://dev.tutsplus.com/articles/what-you-may-not-know-about-the-z-index-property--webdesign-16892",
+      "time": "00:14:01"
+    },
+    {
+      "name": "jquery.adaptive-backgrounds.js",
+      "href": "http://briangonzalez.github.io/jquery.adaptive-backgrounds.js/",
+      "time": "00:14:01"
+    },
+    {
+      "name": "Understanding the Real-World Performance of your Web Application Across IE11 and Other Browsers",
+      "href": "http://blogs.msdn.com/b/ie/archive/2013/12/12/understanding-the-real-world-performance-of-your-web-application-across-ie11-and-other-browsers.aspx",
+      "time": "00:14:01"
+    },
+    {
+      "name": "JavaScript Promises – There and back again",
+      "href": "http://www.html5rocks.com/en/tutorials/es6/promises/",
+      "time": "00:14:01"
+    },
+    {
+      "name": "hoodie-plugin-angularjs",
+      "href": "https://github.com/elmarburke/hoodie-plugin-angularjs",
+      "time": "00:14:01"
+    }
+  ],
+  "randomSpec": [
+    {
+      "name": "Das colgroup-Element",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/#the-colgroup-element",
+      "time": "00:01:31"
+    }
+  ]
+}

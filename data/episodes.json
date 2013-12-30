@@ -1925,17 +1925,27 @@
   },
   "150": {
     "id": 150,
-    "date": null,
-    "duration": "00:00:00",
-    "people": []
+    "date": "2013-12-29",
+    "duration": "00:17:58",
+    "people": [
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/150/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2198/0/wd-150.mp3"
   },
   "151": {
     "id": 151,
-    "date": null,
-    "duration": "00:00:00",
+    "date": "2013-12-29",
+    "duration": "00:48:35",
+    "flags": [
+      "no-topics"
+    ],
     "people": [
       "rodneyrehm",
       "sir_pepe"
-    ]
+    ],
+    "href": "http://workingdraft.de/151/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2225/0/wd-151.mp3"
   }
 }
