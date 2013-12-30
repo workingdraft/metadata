@@ -13,6 +13,7 @@ function analyze(html) {
   }
   
   var data = {
+    title: ($('.postcontainer h2').text() || "").replace(/^revision \d+:\s+/i, ''),
     audio: content.find(".podpress_downloadimglink").attr("href") || "",
     href: $('[rel="bookmark"]').attr("href") || "",
     topics: [],
