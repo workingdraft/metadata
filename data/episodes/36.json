@@ -1,7 +1,7 @@
 {
   "episode": 36,
   "id": 36,
-  "date": "2013-12-25",
+  "date": "2011-08-17",
   "duration": "01:08:27",
   "people": [
     {
@@ -33,6 +33,7 @@
   ],
   "href": "http://workingdraft.de/36/",
   "audio": "http://workingdraft.de/podpress_trac/web/727/0/wd-36.mp3",
+  "title": "Ohne Jan, aber mit Delay",
   "topics": [
     {
       "name": "Redesigning the Browser Window",
@@ -59,23 +60,28 @@
   "links": [
     {
       "name": "Finding memory leaks",
-      "href": "http://gent.ilcore.com/2011/08/finding-memory-leaks.html"
+      "href": "http://gent.ilcore.com/2011/08/finding-memory-leaks.html",
+      "time": "01:03:07:000"
     },
     {
       "name": "TTF Auto Hint",
-      "href": "http://www.freetype.org/ttfautohint/"
+      "href": "http://www.freetype.org/ttfautohint/",
+      "time": "01:03:07:000"
     },
     {
       "name": "diagram.ly",
-      "href": "http://www.diagram.ly/"
+      "href": "http://www.diagram.ly/",
+      "time": "01:03:07:000"
     },
     {
       "name": "Understanding Hardware Acceleration on Mobile Browsers",
-      "href": "http://www.sencha.com/blog/understanding-hardware-acceleration-on-mobile-browsers/"
+      "href": "http://www.sencha.com/blog/understanding-hardware-acceleration-on-mobile-browsers/",
+      "time": "01:03:07:000"
     },
     {
       "name": "Responsive layout tester",
-      "href": "http://mattkersley.com/responsive/"
+      "href": "http://mattkersley.com/responsive/",
+      "time": "01:03:07:000"
     }
   ],
   "randomSpec": []

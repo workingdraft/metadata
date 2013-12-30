@@ -1,7 +1,7 @@
 {
   "episode": 116,
   "id": 116,
-  "date": "2013-12-25",
+  "date": "2013-04-16",
   "duration": "01:41:58",
   "live": true,
   "people": [
@@ -34,6 +34,7 @@
   ],
   "href": "http://workingdraft.de/116/",
   "audio": "http://workingdraft.de/podpress_trac/web/1900/0/wd-116.mp3",
+  "title": "Konferenzen, Motion Design, IDs versus Classes",
   "topics": [
     {
       "name": "Breaking Development Orlando",

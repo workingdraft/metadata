@@ -28,6 +28,7 @@
   ],
   "href": "http://workingdraft.de/41/",
   "audio": "http://workingdraft.de/podpress_trac/web/793/0/wd-41.mp3",
+  "title": "setImmediate API, CSS Compositing und überflüssiges HTML5",
   "topics": [
     {
       "name": "setImmediate API",

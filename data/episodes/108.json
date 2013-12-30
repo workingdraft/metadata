@@ -1,7 +1,7 @@
 {
   "episode": 108,
   "id": 108,
-  "date": "2013-12-25",
+  "date": "2013-02-20",
   "duration": "00:47:52",
   "live": true,
   "people": [
@@ -26,6 +26,7 @@
   ],
   "href": "http://workingdraft.de/108/",
   "audio": "http://workingdraft.de/podpress_trac/web/1816/0/wd-108.mp3",
+  "title": "asm.js, UA Sniffing und Operas Wechsel zu WebKit",
   "topics": [
     {
       "name": "asm.js",

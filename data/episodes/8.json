@@ -1,7 +1,7 @@
 {
   "episode": 8,
   "id": 8,
-  "date": "2013-12-25",
+  "date": "2010-12-21",
   "duration": "01:18:46",
   "people": [
     {
@@ -29,6 +29,7 @@
   ],
   "href": "http://workingdraft.de/8/",
   "audio": "http://workingdraft.de/podpress_trac/web/164/0/Revision-8_-CrankShaft-Treesaver-und-ControlJS.mp3",
+  "title": "CrankShaft, Treesaver und ControlJS",
   "topics": [
     {
       "name": "CrankShaft",

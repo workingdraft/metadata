@@ -1,7 +1,7 @@
 {
   "episode": 104,
   "id": 104,
-  "date": "2013-12-25",
+  "date": "2013-01-23",
   "duration": "01:27:15",
   "live": true,
   "people": [
@@ -33,6 +33,7 @@
   ],
   "href": "http://workingdraft.de/104/",
   "audio": "http://workingdraft.de/podpress_trac/web/1774/0/wd-104.mp3",
+  "title": "Open Device Labs und Webplatform.org-Docsprints",
   "topics": [
     {
       "name": "Scoped Stylesheets",

@@ -1,7 +1,7 @@
 {
   "episode": 13,
   "id": 13,
-  "date": "2013-12-25",
+  "date": "2011-02-08",
   "duration": "01:09:19",
   "people": [
     {
@@ -26,6 +26,7 @@
   ],
   "href": "http://workingdraft.de/13/",
   "audio": "http://workingdraft.de/podpress_trac/web/307/0/wd-13.mp3",
+  "title": "Screen Presenter, Chromeless und Clipboard API",
   "topics": [
     {
       "name": "Marcs Screen Presenter",

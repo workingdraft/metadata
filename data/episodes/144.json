@@ -1,7 +1,7 @@
 {
   "episode": 144,
   "id": 144,
-  "date": "2013-12-25",
+  "date": "2013-11-17",
   "duration": "00:52:11",
   "live": true,
   "people": [
@@ -26,6 +26,7 @@
   ],
   "href": "http://workingdraft.de/144/",
   "audio": "http://workingdraft.de/podpress_trac/web/2151/0/wd-144.mp3",
+  "title": "RESS und unsere Deployment Strategien",
   "topics": [
     {
       "name": "Responsive Bilder und RESS",

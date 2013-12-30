@@ -22,6 +22,7 @@
   ],
   "href": "http://workingdraft.de/113/",
   "audio": "http://workingdraft.de/podpress_trac/web/1868/0/wd-113.mp3",
+  "title": "jQuery vom CDN und Resize Events auf DOM Elementen",
   "topics": [
     {
       "name": "jQuery vom CDN – oder nicht?",

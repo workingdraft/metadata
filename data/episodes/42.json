@@ -1,7 +1,7 @@
 {
   "episode": 42,
   "id": 42,
-  "date": "2013-12-25",
+  "date": "2011-12-08",
   "duration": "01:20:02",
   "people": [
     {
@@ -29,6 +29,7 @@
   ],
   "href": "http://workingdraft.de/42/",
   "audio": "http://workingdraft.de/podpress_trac/web/812/0/wd-42.mp3",
+  "title": "Zweiundvierzig!",
   "topics": [
     {
       "name": "You may soon be developing for 76 browsers.",

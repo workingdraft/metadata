@@ -1,7 +1,7 @@
 {
   "episode": 26,
   "id": 26,
-  "date": "2013-12-26",
+  "date": "2011-05-24",
   "duration": "01:36:23",
   "people": [
     {
@@ -19,6 +19,7 @@
   ],
   "href": "http://workingdraft.de/26/",
   "audio": "http://workingdraft.de/podpress_trac/web/577/0/wd-26.mp3",
+  "title": "Viel Internet Explorer",
   "topics": [
     {
       "name": "Google Finally Delivers On Promise Of Admin-Free Chrome Frame Installs For IE",

@@ -1,7 +1,7 @@
 {
   "episode": 128,
   "id": 128,
-  "date": "2013-12-25",
+  "date": "2013-07-20",
   "duration": "01:18:56",
   "live": true,
   "people": [
@@ -37,6 +37,7 @@
   ],
   "href": "http://workingdraft.de/128/",
   "audio": "http://workingdraft.de/podpress_trac/web/2014/0/wd-128.mp3",
+  "title": "CoffeeScript, mobile Apps, Gewinne",
   "topics": [
     {
       "name": "The Battle of CoffeeScript Hill",

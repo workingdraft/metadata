@@ -1,7 +1,7 @@
 {
   "episode": 91,
   "id": 91,
-  "date": "2013-12-25",
+  "date": "2012-10-11",
   "duration": "01:03:25",
   "live": true,
   "people": [
@@ -29,6 +29,7 @@
   ],
   "href": "http://workingdraft.de/91/",
   "audio": "http://workingdraft.de/podpress_trac/web/1521/0/wd-91.mp3",
+  "title": "Konferenzen und HiDPI Bilder",
   "topics": [
     {
       "name": "Konferenzen",

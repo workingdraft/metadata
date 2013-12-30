@@ -1,7 +1,7 @@
 {
   "episode": 3,
   "id": 3,
-  "date": "2013-12-25",
+  "date": "2010-11-16",
   "duration": "01:06:07",
   "people": [
     {
@@ -29,6 +29,7 @@
   ],
   "href": "http://workingdraft.de/3/",
   "audio": "http://workingdraft.de/podpress_trac/web/60/0/Revision-3_-FF4Beta7-F1-und-Google-Instant-Previews.mp3",
+  "title": "FF4Beta7, F1 und Google Instant Previews",
   "topics": [
     {
       "name": "Mozilla F1",

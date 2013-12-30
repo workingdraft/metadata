@@ -1,7 +1,7 @@
 {
   "episode": 106,
   "id": 106,
-  "date": "2013-12-25",
+  "date": "2013-02-08",
   "duration": "00:48:59",
   "live": true,
   "people": [
@@ -27,6 +27,7 @@
   ],
   "href": "http://workingdraft.de/106/",
   "audio": "http://workingdraft.de/podpress_trac/web/1798/0/wd-106.mp3",
+  "title": "modern.IE, Textbalance und der ES5 Strict Mode",
   "topics": [
     {
       "name": "modern.IE – Testing made easier in Internet Explorer",

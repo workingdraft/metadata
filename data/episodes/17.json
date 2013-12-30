@@ -1,7 +1,7 @@
 {
   "episode": 17,
   "id": 17,
-  "date": "2013-12-25",
+  "date": "2011-03-08",
   "duration": "01:05:40",
   "people": [
     {
@@ -29,6 +29,7 @@
   ],
   "href": "http://workingdraft.de/17/",
   "audio": "http://workingdraft.de/podpress_trac/web/422/0/wd-17.mp3",
+  "title": "A/B-Test, Animationen, Canvas und WebGL",
   "topics": [
     {
       "name": "requestAnimationFrame for smart animating",

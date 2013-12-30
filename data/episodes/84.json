@@ -1,7 +1,7 @@
 {
   "episode": 84,
   "id": 84,
-  "date": "2013-12-25",
+  "date": "2012-08-16",
   "duration": "01:01:18",
   "live": true,
   "people": [
@@ -26,6 +26,7 @@
   ],
   "href": "http://workingdraft.de/84/",
   "audio": "http://workingdraft.de/podpress_trac/web/1414/0/wd-84.mp3",
+  "title": "jQuery, Git, Informationsverwaltung und jede Menge Links",
   "topics": [
     {
       "name": "jQuery 1.8 Released",

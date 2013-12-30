@@ -1,7 +1,7 @@
 {
   "episode": 110,
   "id": 110,
-  "date": "2013-12-25",
+  "date": "2013-03-05",
   "duration": "00:37:28",
   "live": true,
   "people": [
@@ -29,6 +29,7 @@
   ],
   "href": "http://workingdraft.de/110/",
   "audio": "http://workingdraft.de/podpress_trac/web/1838/0/wd-110.mp3",
+  "title": "Rendering Performance",
   "topics": [
     {
       "name": "Mobile Browser Performance",

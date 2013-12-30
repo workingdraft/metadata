@@ -1,7 +1,7 @@
 {
   "episode": 135,
   "id": 135,
-  "date": "2013-12-25",
+  "date": "2013-09-09",
   "duration": "00:48:32",
   "live": true,
   "people": [
@@ -26,6 +26,7 @@
   ],
   "href": "http://workingdraft.de/135/",
   "audio": "http://workingdraft.de/podpress_trac/web/2083/0/wd-135.mp3",
+  "title": "Progressive Enhancement, Sigh JavaScript und Bower",
   "topics": [
     {
       "name": "Progressive Enhancement – Still alive and kicking.",

@@ -1,7 +1,7 @@
 {
   "episode": 49,
   "id": 49,
-  "date": "2013-12-25",
+  "date": "2011-12-01",
   "duration": "01:19:55",
   "people": [
     {
@@ -21,6 +21,7 @@
   ],
   "href": "http://workingdraft.de/49/",
   "audio": "http://workingdraft.de/podpress_trac/web/914/0/wd-49.mp3",
+  "title": "Devtools und Kleinvieh",
   "topics": [
     {
       "name": "Developer Tools in Firefox Aurora 10",

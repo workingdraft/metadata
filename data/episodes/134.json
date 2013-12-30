@@ -1,7 +1,7 @@
 {
   "episode": 134,
   "id": 134,
-  "date": "2013-12-25",
+  "date": "2013-09-05",
   "duration": "00:52:04",
   "live": true,
   "people": [
@@ -29,6 +29,7 @@
   ],
   "href": "http://workingdraft.de/134/",
   "audio": "http://workingdraft.de/podpress_trac/web/2077/0/wd-134.mp3",
+  "title": "News, CSS, Links",
   "topics": [
     {
       "name": "Heydon Pickering: Semantic CSS With Intelligent Selectors",

@@ -1,7 +1,7 @@
 {
   "episode": 24,
   "id": 24,
-  "date": "2013-12-25",
+  "date": "2011-05-10",
   "duration": "00:53:53",
   "people": [
     {
@@ -21,6 +21,7 @@
   ],
   "href": "http://workingdraft.de/24/",
   "audio": "http://workingdraft.de/podpress_trac/web/537/0/wd-24.mp3",
+  "title": "Silbentrennung, Semikola und Reward.js",
   "topics": [
     {
       "name": "Silbentrennung landet im Firefox",

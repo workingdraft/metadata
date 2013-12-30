@@ -1,7 +1,7 @@
 {
   "episode": 76,
   "id": 76,
-  "date": "2013-12-25",
+  "date": "2012-06-23",
   "duration": "01:13:13",
   "live": true,
   "people": [
@@ -27,6 +27,7 @@
   ],
   "href": "http://workingdraft.de/76/",
   "audio": "http://workingdraft.de/podpress_trac/web/1285/0/wd-76.mp3",
+  "title": "Testen, Dokumentieren und Abhängigkeiten verwalten",
   "topics": [
     {
       "name": "Zombie.js",

@@ -1,6 +1,7 @@
 {
   "1": {
     "episode": 1,
+    "title": "Sencha Animator, Webfernsehen und Firesheep",
     "topics": [
       {
         "name": "Microsoft: „Our Strategy with Silverlight has shifted.“",
@@ -61,6 +62,7 @@
   },
   "2": {
     "episode": 2,
+    "title": "mod_pagespeed, Sub-Pixel-Positionierung und viel Hall",
     "topics": [
       {
         "name": "mod_pagespeed",
@@ -79,7 +81,7 @@
         "href": "http://polylogo.org/3"
       },
       {
-        "name": "yepnope.js – A Feature-Test Based Loader For Your Polyfills! ",
+        "name": "yepnope.js – A Feature-Test Based Loader For Your Polyfills!",
         "href": "https://github.com/SlexAxton/yepnope.js"
       },
       {
@@ -121,6 +123,7 @@
   },
   "3": {
     "episode": 3,
+    "title": "FF4Beta7, F1 und Google Instant Previews",
     "topics": [
       {
         "name": "Mozilla F1",
@@ -165,6 +168,7 @@
   },
   "4": {
     "episode": 4,
+    "title": "Sencha Touch 1.0, IE9-JS und HTML5-Gaming",
     "topics": [
       {
         "name": "Sencha Touch 1.0",
@@ -217,6 +221,7 @@
   },
   "5": {
     "episode": 5,
+    "title": "iOS 4.2, Opera 11, Web Messaging und Kinect",
     "topics": [
       {
         "name": "Safari on iOS 4.2",
@@ -249,6 +254,7 @@
   },
   "6": {
     "episode": 6,
+    "title": "Firebug 1.6, head.js, Adventskalender und alle sind krank",
     "topics": [
       {
         "name": "Google Chrome 8",
@@ -289,6 +295,7 @@
   },
   "7": {
     "episode": 7,
+    "title": "Dateisystem, Android 2.3, Websockets-Protokoll-Glitch, CSS 2.1",
     "topics": [
       {
         "name": "Experimentelle Filesystem-API",
@@ -313,6 +320,7 @@
   },
   "8": {
     "episode": 8,
+    "title": "CrankShaft, Treesaver und ControlJS",
     "topics": [
       {
         "name": "CrankShaft",
@@ -349,6 +357,7 @@
   },
   "9": {
     "episode": 9,
+    "title": "DOM-Monster, Drupal 7 und 2.2250738585072011e-308",
     "topics": [
       {
         "name": "Einsteiger-Tutorial zu CoffeeScript",
@@ -381,6 +390,7 @@
   },
   "10": {
     "episode": 10,
+    "title": "H.264 vs. WebM, Shadow DOM und w3fools.com",
     "topics": [
       {
         "name": "HTML Video Codec Support in Chrome",
@@ -438,6 +448,7 @@
   },
   "11": {
     "episode": 11,
+    "title": "HTML5 +Logo -5, Markup-Manipulation und IP-Adressen-Endzeit",
     "topics": [
       {
         "name": "W3C HTML5 Logo!",
@@ -479,6 +490,7 @@
   },
   "12": {
     "episode": 12,
+    "title": "CSS-Reset, IE9 RC1 und Harmony",
     "topics": [
       {
         "name": "Peters HTML5-Buch",
@@ -524,6 +536,7 @@
   },
   "13": {
     "episode": 13,
+    "title": "Screen Presenter, Chromeless und Clipboard API",
     "topics": [
       {
         "name": "Marcs Screen Presenter",
@@ -573,6 +586,7 @@
   },
   "14": {
     "episode": 14,
+    "title": "Hashbangs, PhantomJS und Github-Gene",
     "topics": [
       {
         "name": "Breaking the Web with hash-bangs",
@@ -614,6 +628,7 @@
   },
   "15": {
     "episode": 15,
+    "title": "IE9 unmodern? Teure Featuredetection? Pareto-Prinzip?",
     "topics": [
       {
         "name": "Is IE9 a modern browser?",
@@ -651,6 +666,7 @@
   },
   "16": {
     "episode": 16,
+    "title": "Interview mit Microsoft",
     "topics": [
       {
         "name": "Was zeichnet IE9 aus?"
@@ -680,6 +696,7 @@
   },
   "17": {
     "episode": 17,
+    "title": "A/B-Test, Animationen, Canvas und WebGL",
     "topics": [
       {
         "name": "requestAnimationFrame for smart animating",
@@ -741,6 +758,7 @@
   },
   "18": {
     "episode": 18,
+    "title": "Scoped Styles, Web Inspector Remote, Bildmanipulation in PHP",
     "topics": [
       {
         "name": "Wallaby – Convert Adobe Flash FLA files into HTML and reach more devices",
@@ -794,6 +812,7 @@
   },
   "19": {
     "episode": 19,
+    "title": "Barcamp, HTML5 Buch, Device-API und Manifest-Validator",
     "topics": [
       {
         "name": "Barcamp Ruhr 4",
@@ -855,6 +874,7 @@
   },
   "20": {
     "episode": 20,
+    "title": "HTTPArchive, dynaTrace und AmplifyJS",
     "topics": [
       {
         "name": "border-image-Generator",
@@ -900,6 +920,7 @@
   },
   "21": {
     "episode": 21,
+    "title": "SPDY, Mobile UI, Webshims, und alles hardboiled!",
     "topics": [
       {
         "name": "SPDY on Google servers?",
@@ -953,6 +974,7 @@
   },
   "22": {
     "episode": 22,
+    "title": "IE10, Live.js und Favicons",
     "topics": [
       {
         "name": "Der Internet Explorer erscheint als Preview in Version 10",
@@ -1002,6 +1024,7 @@
   },
   "23": {
     "episode": 23,
+    "title": "Node-SPDY, Zukunftskram und CoffeeKup",
     "topics": [
       {
         "name": "Node.js + SPDY",
@@ -1051,6 +1074,7 @@
   },
   "24": {
     "episode": 24,
+    "title": "Silbentrennung, Semikola und Reward.js",
     "topics": [
       {
         "name": "Silbentrennung landet im Firefox",
@@ -1120,6 +1144,7 @@
   },
   "25": {
     "episode": 25,
+    "title": "Visibility API und Chromebooks",
     "topics": [
       {
         "name": "jQuery 1.6.1 Released",
@@ -1164,6 +1189,7 @@
   },
   "26": {
     "episode": 26,
+    "title": "Viel Internet Explorer",
     "topics": [
       {
         "name": "Google Finally Delivers On Promise Of Admin-Free Chrome Frame Installs For IE",
@@ -1243,51 +1269,62 @@
   },
   "27": {
     "episode": 27,
+    "title": "Revision 27: @viewport, Tastatursteuerung und Aurora 6",
     "topics": [
       {
-        "name": "[00:00:19.000] @viewport in Opera",
-        "href": "http://dev.opera.com/articles/view/an-introduction-to-meta-viewport-and-viewport/"
+        "name": "@viewport in Opera",
+        "href": "http://dev.opera.com/articles/view/an-introduction-to-meta-viewport-and-viewport/",
+        "time": "00:00:19:000"
       },
       {
-        "name": "[00:11:44.000] W3C Resource Timing",
-        "href": "http://www.w3.org/TR/2011/WD-resource-timing-20110524/"
+        "name": "W3C Resource Timing",
+        "href": "http://www.w3.org/TR/2011/WD-resource-timing-20110524/",
+        "time": "00:11:44:000"
       },
       {
-        "name": "[00:15:56.000] sencha.io",
-        "href": "http://www.sencha.com/products/io/"
+        "name": "sencha.io",
+        "href": "http://www.sencha.com/products/io/",
+        "time": "00:15:56:000"
       },
       {
-        "name": "[00:24:55.000] CSS pointer-events",
-        "href": "https://developer.mozilla.org/en/CSS/pointer-events"
+        "name": "CSS pointer-events",
+        "href": "https://developer.mozilla.org/en/CSS/pointer-events",
+        "time": "00:24:55:000"
       },
       {
-        "name": "[00:41:27.000] Firefox Aurora 6",
-        "href": "https://hacks.mozilla.org/2011/05/aurora-6-is-here/"
+        "name": "Firefox Aurora 6",
+        "href": "https://hacks.mozilla.org/2011/05/aurora-6-is-here/",
+        "time": "00:41:27:000"
       }
     ],
     "news": [],
     "links": [
       {
-        "name": "[01:11:03.000] Gehosteter Winere-Server",
-        "href": "http://debug.phonegap.com/"
+        "name": "Gehosteter Winere-Server",
+        "href": "http://debug.phonegap.com/",
+        "time": "01:11:03:000"
       },
       {
-        "name": "[01:11:52.000] Website aus Schokolade und Bier und Awesomesauce",
-        "href": "http://www.sagres.pt/sagrespretachocolate/#/homepage"
+        "name": "Website aus Schokolade und Bier und Awesomesauce",
+        "href": "http://www.sagres.pt/sagrespretachocolate/#/homepage",
+        "time": "01:11:52:000"
       },
       {
-        "name": "[01:12:39.000] Inline the crap out of your site",
-        "href": "http://inliner.leftlogic.com/"
+        "name": "Inline the crap out of your site",
+        "href": "http://inliner.leftlogic.com/",
+        "time": "01:12:39:000"
       },
       {
-        "name": "[01:13:47.000] SVG Background Gradient Maker",
-        "href": "http://ie.microsoft.com/testdrive/Graphics/SVGGradientBackgroundMaker/Default.html"
+        "name": "SVG Background Gradient Maker",
+        "href": "http://ie.microsoft.com/testdrive/Graphics/SVGGradientBackgroundMaker/Default.html",
+        "time": "01:13:47:000"
       }
     ],
     "randomSpec": []
   },
   "28": {
     "episode": 28,
+    "title": "Niemand hat Lion oder iOS 5",
     "topics": [
       {
         "name": "jsmad",
@@ -1357,18 +1394,22 @@
   },
   "29": {
     "episode": 29,
+    "title": "VisualSearch.js und Twitter-Spam",
     "topics": [
       {
         "name": "VisualSearch.js",
-        "href": "http://documentcloud.github.com/visualsearch/"
+        "href": "http://documentcloud.github.com/visualsearch/",
+        "time": "0:02:04:000"
       },
       {
         "name": "CDNjs.com",
-        "href": "http://www.cdnjs.com/#/search/"
+        "href": "http://www.cdnjs.com/#/search/",
+        "time": "0:07:51:000"
       },
       {
         "name": "Twitter promoted Tweets",
-        "href": "http://mashable.com/2011/06/23/twitter-promoted-tweets-timeline-2/"
+        "href": "http://mashable.com/2011/06/23/twitter-promoted-tweets-timeline-2/",
+        "time": "0:14:00:000"
       }
     ],
     "news": [],
@@ -1390,6 +1431,7 @@
   },
   "30": {
     "episode": 30,
+    "title": "IE10, Google+ und Dr.Web",
     "topics": [
       {
         "name": "IE10 Public Preview 2 ist da!",
@@ -1454,6 +1496,7 @@
   },
   "31": {
     "episode": 31,
+    "title": "Takeout, OpenCL und Memory Management",
     "topics": [
       {
         "name": "00:00:24.000 Google Takeout",
@@ -1486,6 +1529,7 @@
   },
   "32": {
     "episode": 32,
+    "title": "Zwei hoch fünf",
     "topics": [
       {
         "name": "Why I’ve built an Alternative to GitHub",
@@ -1545,6 +1589,7 @@
   },
   "33": {
     "episode": 33,
+    "title": "Peter hat ein MacBook Air!",
     "topics": [
       {
         "name": "Safari 5.1",
@@ -1582,6 +1627,7 @@
   },
   "34": {
     "episode": 34,
+    "title": "Kontraste und Kleinscheiß",
     "topics": [
       {
         "name": "contrastrebellion.com",
@@ -1622,6 +1668,7 @@
   },
   "35": {
     "episode": 35,
+    "title": "PhoneGap und Web Intents",
     "topics": [
       {
         "name": "Mozilla UX Presentation",
@@ -1686,6 +1733,7 @@
   },
   "36": {
     "episode": 36,
+    "title": "Ohne Jan, aber mit Delay",
     "topics": [
       {
         "name": "Redesigning the Browser Window",
@@ -1712,29 +1760,35 @@
     "links": [
       {
         "name": "Finding memory leaks",
-        "href": "http://gent.ilcore.com/2011/08/finding-memory-leaks.html"
+        "href": "http://gent.ilcore.com/2011/08/finding-memory-leaks.html",
+        "time": "01:03:07:000"
       },
       {
         "name": "TTF Auto Hint",
-        "href": "http://www.freetype.org/ttfautohint/"
+        "href": "http://www.freetype.org/ttfautohint/",
+        "time": "01:03:07:000"
       },
       {
         "name": "diagram.ly",
-        "href": "http://www.diagram.ly/"
+        "href": "http://www.diagram.ly/",
+        "time": "01:03:07:000"
       },
       {
         "name": "Understanding Hardware Acceleration on Mobile Browsers",
-        "href": "http://www.sencha.com/blog/understanding-hardware-acceleration-on-mobile-browsers/"
+        "href": "http://www.sencha.com/blog/understanding-hardware-acceleration-on-mobile-browsers/",
+        "time": "01:03:07:000"
       },
       {
         "name": "Responsive layout tester",
-        "href": "http://mattkersley.com/responsive/"
+        "href": "http://mattkersley.com/responsive/",
+        "time": "01:03:07:000"
       }
     ],
     "randomSpec": []
   },
   "37": {
     "episode": 37,
+    "title": "speak.js, Native Client und JS-MVC-Frameworks",
     "topics": [
       {
         "name": "speak.js – Text-To-Speech on the Web",
@@ -1809,6 +1863,7 @@
   },
   "38": {
     "episode": 38,
+    "title": "Gridsysteme und Best Practices",
     "topics": [
       {
         "name": "Introducing WebAPI",
@@ -1893,6 +1948,7 @@
   },
   "39": {
     "episode": 39,
+    "title": "Zucker, Bullenkot und GEFÄNGNIS",
     "topics": [
       {
         "name": "JAIL",
@@ -1947,6 +2003,7 @@
   },
   "40": {
     "episode": 40,
+    "title": "Zerskyped",
     "topics": [
       {
         "name": "Flexbox is Dead, Long Live Flexbox!",
@@ -2016,6 +2073,7 @@
   },
   "41": {
     "episode": 41,
+    "title": "setImmediate API, CSS Compositing und überflüssiges HTML5",
     "topics": [
       {
         "name": "setImmediate API",
@@ -2095,6 +2153,7 @@
   },
   "42": {
     "episode": 42,
+    "title": "Zweiundvierzig!",
     "topics": [
       {
         "name": "You may soon be developing for 76 browsers.",
@@ -2153,6 +2212,7 @@
   },
   "43": {
     "episode": 43,
+    "title": "Tripreports, CSS Image Values und Dart",
     "topics": [
       {
         "name": "Fronteers 2011",
@@ -2206,6 +2266,7 @@
   },
   "44": {
     "episode": 44,
+    "title": "HTTP-Statuscodes, TYPO3 und ‘n Echo, echo, cho, o….",
     "topics": [
       {
         "name": "Additional HTTP Status Codes",
@@ -2255,6 +2316,7 @@
   },
   "45": {
     "episode": 45,
+    "title": "H.264 in JS, jQuery Standards Team & OccupyHTML5!",
     "topics": [
       {
         "name": "Broadway: An H.264 Decoder in JavaScript Running at 30fps",
@@ -2309,6 +2371,7 @@
   },
   "46": {
     "episode": 46,
+    "title": "Aloha Editor, jQuery 1.7 und halbgare Zukunftstechniken",
     "topics": [
       {
         "name": "jQuery 1.7 released",
@@ -2353,6 +2416,7 @@
   },
   "47": {
     "episode": 47,
+    "title": "Firefox 8, Aurora 10 und jQuery-Diät mit dem dynamischen Duo",
     "topics": [
       {
         "name": "Working Draft bei Google Plus",
@@ -2392,6 +2456,7 @@
   },
   "48": {
     "episode": 48,
+    "title": "Direkt von der beyond tellerrand. In Bewegtbild!",
     "topics": [
       {
         "name": "beyond tellerrand 2011",
@@ -2409,6 +2474,7 @@
   },
   "49": {
     "episode": 49,
+    "title": "Devtools und Kleinvieh",
     "topics": [
       {
         "name": "Developer Tools in Firefox Aurora 10",
@@ -2458,6 +2524,7 @@
   },
   "50": {
     "episode": 50,
+    "title": "P3P olé!",
     "topics": [
       {
         "name": "HTML5 for Applications: The Fourth IE10 Platform Preview",
@@ -2507,6 +2574,7 @@
   },
   "51": {
     "episode": 51,
+    "title": "AMD, jQuery Plugin Repo & Alphatier-Gekabbel",
     "topics": [
       {
         "name": "csg.js",
@@ -2571,6 +2639,7 @@
   },
   "52": {
     "episode": 52,
+    "title": "Android 4.0, Webvideo & CoffeeScript",
     "topics": [
       {
         "name": "Dabblet",
@@ -2635,6 +2704,7 @@
   },
   "53": {
     "episode": 53,
+    "title": "At the Smashing Magazine meetup!",
     "topics": [
       {
         "name": "Smashing Magazine Meetup – Die Paneldiskussion",
@@ -2648,6 +2718,7 @@
   },
   "54": {
     "episode": 54,
+    "title": "Ein Sack voll Firefox, lahmes CSS und Media Queries",
     "topics": [
       {
         "name": "Firefox",
@@ -2707,6 +2778,7 @@
   },
   "55": {
     "episode": 55,
+    "title": "Webfundstücke und Devtools",
     "topics": [
       {
         "name": "JavaScript Pattern Collection",
@@ -2771,6 +2843,7 @@
   },
   "56": {
     "episode": 56,
+    "title": "Font.js, CSS3 UI & Wunderkit",
     "topics": [
       {
         "name": "Google Web Fonts Families",
@@ -2845,6 +2918,7 @@
   },
   "57": {
     "episode": 57,
+    "title": "IDBExplorer, Gradient Syntax & Wrap.js",
     "topics": [
       {
         "name": "IE10 Compat Inspector",
@@ -2894,6 +2968,7 @@
   },
   "58": {
     "episode": 58,
+    "title": "-webkit-CSS3, -webkit-SEO und -webkit-MMT",
     "topics": [
       {
         "name": "Vendor-Prefix-Gate",
@@ -2977,6 +3052,7 @@
   },
   "59": {
     "episode": 59,
+    "title": "Wie ticken Webentwickler?",
     "topics": [
       {
         "name": "Mozilla Developer Network",
@@ -3012,6 +3088,7 @@
   },
   "60": {
     "episode": 60,
+    "title": "Adobe Edge, Web Components & Informationsquellen",
     "topics": [
       {
         "name": "Adobe Edge Preview 4",
@@ -3075,6 +3152,7 @@
   },
   "61": {
     "episode": 61,
+    "title": "HTML5 Please API, Boot to Gecko, Image Replacements",
     "topics": [
       {
         "name": "HTML5 Please API",
@@ -3136,6 +3214,7 @@
   },
   "62": {
     "episode": 62,
+    "title": "Adobe Shadow, Mobile und Gerante – Live!",
     "topics": [
       {
         "name": "Adobe Shadow",
@@ -3193,6 +3272,7 @@
   },
   "63": {
     "episode": 63,
+    "title": "Responsiver Content, Firefox 11 und Offene Datenquellen",
     "topics": [
       {
         "name": "CSS: The Bad Parts",
@@ -3240,6 +3320,7 @@
   },
   "64": {
     "episode": 64,
+    "title": "Source Maps, Event Capturing & beyond tellerrand – play",
     "topics": [
       {
         "name": "Introduction to JavaScript Source Maps",
@@ -3314,6 +3395,7 @@
   },
   "65": {
     "episode": 65,
+    "title": "Infinite Transition Delays, jQuery Hooks, ECMAScript 6",
     "topics": [
       {
         "name": "Maintaining CSS Style States using Infinite Transition Delays",
@@ -3353,6 +3435,7 @@
   },
   "66": {
     "episode": 66,
+    "title": "CSS-Variablen, Homo-Ehe und ein Werbeblock",
     "topics": [
       {
         "name": "CSS-Vars Reloaded",
@@ -3405,6 +3488,7 @@
   },
   "67": {
     "episode": 67,
+    "title": "Meteor, Media Queries, Light Table",
     "topics": [
       {
         "name": "Meteor",
@@ -3454,6 +3538,7 @@
   },
   "68": {
     "episode": 68,
+    "title": "Ein <dialog> aus scharfem Pink und Grunzern",
     "topics": [
       {
         "name": "Kein Hot Pink mehr in der Boilerplate",
@@ -3517,6 +3602,7 @@
   },
   "69": {
     "episode": 69,
+    "title": "CSS Battle Royale – Opera ",
     "topics": [
       {
         "name": "Opera implementiert -webkit-Präfixes",
@@ -3556,6 +3642,7 @@
   },
   "70": {
     "episode": 70,
+    "title": "JS Styleguides, Barrierefreiheit & Web Intents",
     "topics": [
       {
         "name": "JavaScript Styleguides",
@@ -3620,6 +3707,7 @@
   },
   "71": {
     "episode": 71,
+    "title": "Error.stack, Physical Units & DOM Mutation Observers",
     "topics": [
       {
         "name": "JavaScript-Fehler schneller Analysieren mit Error.stack",
@@ -3703,6 +3791,7 @@
   },
   "72": {
     "episode": 72,
+    "title": "SASS vs. LESS & Googlebot vs. JavaScript",
     "topics": [
       {
         "name": "SASS versus LESS",
@@ -3767,6 +3856,7 @@
   },
   "73": {
     "episode": 73,
+    "title": "Von CSS Blenden, Cross-Domain-Requests und responsiven Bildern",
     "topics": [
       {
         "name": "Quota Management API",
@@ -3826,6 +3916,7 @@
   },
   "74": {
     "episode": 74,
+    "title": "Social-Media-Buttons, Links und die kürzeste Revision aller Zeiten",
     "topics": [
       {
         "name": "Sweep the Sleaze",
@@ -3855,6 +3946,7 @@
   },
   "75": {
     "episode": 75,
+    "title": "News, Links und die diesmal wirklich kürzeste Revision aller Zeiten",
     "topics": [
       {
         "name": "JSON vs. MessagePack vs. JSON5",
@@ -3899,6 +3991,7 @@
   },
   "76": {
     "episode": 76,
+    "title": "Testen, Dokumentieren und Abhängigkeiten verwalten",
     "topics": [
       {
         "name": "Zombie.js",
@@ -4003,6 +4096,7 @@
   },
   "77": {
     "episode": 77,
+    "title": "Do not Track, IHK-Petition und Web Components",
     "topics": [
       {
         "name": "The Sabotage of Do Not Track",
@@ -4088,6 +4182,7 @@
   },
   "78": {
     "episode": 78,
+    "title": "Editoren, jQuery, Yeoman, Browser",
     "topics": [
       {
         "name": "Editoren & IDEs",
@@ -4171,6 +4266,7 @@
   },
   "79": {
     "episode": 79,
+    "title": "File System API, Chrome Apps und ein Haufen Links",
     "topics": [
       {
         "name": "Why no FileSystem API in Firefox?",
@@ -4231,6 +4327,7 @@
   },
   "80": {
     "episode": 80,
+    "title": "X-Tag, Print Styles und IE-Basher bashen",
     "topics": [
       {
         "name": "styles.max.css",
@@ -4291,6 +4388,7 @@
   },
   "81": {
     "episode": 81,
+    "title": "Seamless Iframes, relative Fontgrößen und ein Berg Links",
     "topics": [
       {
         "name": "Seamless iFrames",
@@ -4371,6 +4469,7 @@
   },
   "82": {
     "episode": 82,
+    "title": "Wiederverwertbarkeit von CSS & Web Security",
     "topics": [
       {
         "name": "Discussion about CSS reusability",
@@ -4450,6 +4549,7 @@
   },
   "83": {
     "episode": 83,
+    "title": "ECMAScript 6, @supports, WebRTC",
     "topics": [
       {
         "name": "Neue Syntax in ECMAScript 6",
@@ -4505,6 +4605,7 @@
   },
   "84": {
     "episode": 84,
+    "title": "jQuery, Git, Informationsverwaltung und jede Menge Links",
     "topics": [
       {
         "name": "jQuery 1.8 Released",
@@ -4579,6 +4680,7 @@
   },
   "85": {
     "episode": 85,
+    "title": "Konferenzen, CSS und Twitter",
     "topics": [
       {
         "name": "beyond tellerrand 2012 und Smashing Conference 2012",
@@ -4649,6 +4751,7 @@
   },
   "86": {
     "episode": 86,
+    "title": "CAS und Object.observe",
     "topics": [
       {
         "name": "CAS: Cascading Attribute Sheets",
@@ -4708,6 +4811,7 @@
   },
   "87": {
     "episode": 87,
+    "title": "Position Sticky",
     "topics": [
       {
         "name": "Stick your landings! position: sticky lands in WebKit – HTML5Rocks Updates",
@@ -4762,6 +4866,7 @@
   },
   "88": {
     "episode": 88,
+    "title": "Opus Codec, hot CSS Specs und Bower",
     "topics": [
       {
         "name": "Der Opus Codec landet in Firefox",
@@ -4847,6 +4952,7 @@
   },
   "89": {
     "episode": 89,
+    "title": "Mobile, Frameworks, iOS 6",
     "topics": [
       {
         "name": "See your site like the rest of the world does. On the Nokia X2-01",
@@ -4936,6 +5042,7 @@
   },
   "90": {
     "episode": 90,
+    "title": ".mobi-Gate, Persona und TypeScript",
     "topics": [
       {
         "name": "Safari for iPhone ignores viewport settings on .mobi domains",
@@ -5011,6 +5118,7 @@
   },
   "91": {
     "episode": 91,
+    "title": "Konferenzen und HiDPI Bilder",
     "topics": [
       {
         "name": "Konferenzen",
@@ -5080,6 +5188,7 @@
   },
   "92": {
     "episode": 92,
+    "title": "Firefox, Fullscreen API und Thinkin’ Tags",
     "topics": [
       {
         "name": "Firefox 16",
@@ -5135,6 +5244,7 @@
   },
   "93": {
     "episode": 93,
+    "title": "Farbkontraste und die volle Responsive Dröhnung!",
     "topics": [
       {
         "name": "Lea Verou’s neues Tool Contrast Ratio",
@@ -5230,6 +5340,7 @@
   },
   "94": {
     "episode": 94,
+    "title": "Test The Web Forward!",
     "topics": [
       {
         "name": "Test The Web Forward!",
@@ -5278,6 +5389,7 @@
   },
   "95": {
     "episode": 95,
+    "title": "Vanilla Web und Accessibility",
     "topics": [
       {
         "name": "The Vanilla Web Diet",
@@ -5342,6 +5454,7 @@
   },
   "96": {
     "episode": 96,
+    "title": "News, HTML5 und Links",
     "topics": [
       {
         "name": "HTML5 forms (and IE10 (Mobile))",
@@ -5382,6 +5495,7 @@
   },
   "97": {
     "episode": 97,
+    "title": "beyond tellerrand 2012 & Interview mit Bruce Lawson",
     "topics": [
       {
         "name": "beyond tellerrand 2012",
@@ -5400,6 +5514,7 @@
   },
   "98": {
     "episode": 98,
+    "title": "IE10, HTML5 und CSS",
     "topics": [
       {
         "name": "IE10 for Win7",
@@ -5469,6 +5584,7 @@
   },
   "99": {
     "episode": 99,
+    "title": "ProcessWire, Sueddeutsche.de und mehr",
     "topics": [
       {
         "name": "ProcessWire",
@@ -5531,6 +5647,7 @@
   },
   "100": {
     "episode": 100,
+    "title": "Anniversary with Paul Irish",
     "topics": [
       {
         "name": "BountySource",
@@ -5621,6 +5738,7 @@
   },
   "101": {
     "episode": 101,
+    "title": "Canvas, HTML5, Damals",
     "topics": [
       {
         "name": "-webkit-canvas()",
@@ -5660,6 +5778,7 @@
   },
   "102": {
     "episode": 102,
+    "title": "Templates, JPEGs, JavaScript und OpenSource",
     "topics": [
       {
         "name": "HTML5 Bones",
@@ -5738,6 +5857,7 @@
   },
   "103": {
     "episode": 103,
+    "title": "Keine Themen",
     "topics": [],
     "news": [
       {
@@ -5781,6 +5901,7 @@
   },
   "104": {
     "episode": 104,
+    "title": "Open Device Labs und Webplatform.org-Docsprints",
     "topics": [
       {
         "name": "Scoped Stylesheets",
@@ -5855,6 +5976,7 @@
   },
   "105": {
     "episode": 105,
+    "title": "CSS-Performance, Web Workers und ein paar Links",
     "topics": [
       {
         "name": "CSS-Performance",
@@ -5892,6 +6014,7 @@
   },
   "106": {
     "episode": 106,
+    "title": "modern.IE, Textbalance und der ES5 Strict Mode",
     "topics": [
       {
         "name": "modern.IE – Testing made easier in Internet Explorer",
@@ -5962,6 +6085,7 @@
   },
   "107": {
     "episode": 107,
+    "title": "Unresponsive Design, Docsprint und ein paar Links",
     "topics": [
       {
         "name": "Ditching responsive design",
@@ -6012,6 +6136,7 @@
   },
   "108": {
     "episode": 108,
+    "title": "asm.js, UA Sniffing und Operas Wechsel zu WebKit",
     "topics": [
       {
         "name": "asm.js",
@@ -6082,6 +6207,7 @@
   },
   "109": {
     "episode": 109,
+    "title": "Counter Styles, mobile Betriebssysteme, HTML5-Linkelemente",
     "topics": [
       {
         "name": "CSS Counter Styles",
@@ -6125,6 +6251,7 @@
   },
   "110": {
     "episode": 110,
+    "title": "Rendering Performance",
     "topics": [
       {
         "name": "Mobile Browser Performance",
@@ -6179,6 +6306,7 @@
   },
   "111": {
     "episode": 111,
+    "title": "Performance-Proxy, Media Queries Level 4, http-client-hints",
     "topics": [
       {
         "name": "Data Compression Proxy",
@@ -6244,6 +6372,7 @@
   },
   "112": {
     "episode": 112,
+    "title": "Glücksrad und Links",
     "topics": [],
     "news": [],
     "links": [
@@ -6308,6 +6437,7 @@
   },
   "113": {
     "episode": 113,
+    "title": "jQuery vom CDN und Resize Events auf DOM Elementen",
     "topics": [
       {
         "name": "jQuery vom CDN – oder nicht?",
@@ -6383,6 +6513,7 @@
   },
   "114": {
     "episode": 114,
+    "title": "<template>, Appcache, asm.js versus Bytecode",
     "topics": [
       {
         "name": "HTML’s New Template Tag",
@@ -6443,6 +6574,7 @@
   },
   "115": {
     "episode": 115,
+    "title": "Browsertriebwerke, RWD und Steinzeitmalerei",
     "topics": [
       {
         "name": "Blink",
@@ -6538,6 +6670,7 @@
   },
   "116": {
     "episode": 116,
+    "title": "Konferenzen, Motion Design, IDs versus Classes",
     "topics": [
       {
         "name": "Breaking Development Orlando",
@@ -6597,6 +6730,7 @@
   },
   "117": {
     "episode": 117,
+    "title": "jQuery, Performance, Links",
     "topics": [
       {
         "name": "I know jQuery. Now what?",
@@ -6658,6 +6792,7 @@
   },
   "118": {
     "episode": 118,
+    "title": "Die Problematik des Schätzens",
     "topics": [
       {
         "name": "Coding, Fast and Slow: Developers and the Psychology of Overconfidence",
@@ -6718,6 +6853,7 @@
   },
   "119": {
     "episode": 119,
+    "title": "Transitions, Flaggen, Links",
     "topics": [
       {
         "name": "Thank God We Have A Specification",
@@ -6769,6 +6905,7 @@
   },
   "120": {
     "episode": 120,
+    "title": "CSS Strukturieren, Sinn und Unsinn von Touchdetection, DRM",
     "topics": [
       {
         "name": "CSS is not an amoral monster",
@@ -6839,6 +6976,7 @@
   },
   "121": {
     "episode": 121,
+    "title": "requestAutocomplete, Web Components, Offline-Detection",
     "topics": [
       {
         "name": "Chrome’s requestAutocomplete()",
@@ -6905,6 +7043,7 @@
   },
   "122": {
     "episode": 122,
+    "title": "Interview mit Chris Heilmann zu Firefox OS",
     "topics": [],
     "news": [],
     "links": [],
@@ -6912,6 +7051,7 @@
   },
   "123": {
     "episode": 123,
+    "title": "Cargo-Culting in JS, localStorage und Prerendering",
     "topics": [
       {
         "name": "Smartphone Browser localStorage is up to 5x Faster than Native Cache",
@@ -6977,6 +7117,7 @@
   },
   "124": {
     "episode": 124,
+    "title": "Screen Readers, CSP und In-depth Script Loading",
     "topics": [
       {
         "name": "Screen Readers at a Crossroads",
@@ -7036,6 +7177,7 @@
   },
   "125": {
     "episode": 125,
+    "title": "Bye, Bye, Chrome Frame und Table Layouts",
     "topics": [
       {
         "name": "Bye, Bye, Chrome Frame",
@@ -7100,6 +7242,7 @@
   },
   "126": {
     "episode": 126,
+    "title": "Inputs, Formulare, Pseudoklassen und Origin",
     "topics": [],
     "news": [
       {
@@ -7170,6 +7313,7 @@
   },
   "127": {
     "episode": 127,
+    "title": "IE11, Glücksrad, Verlosung",
     "topics": [
       {
         "name": "Kompatibilität im IE11",
@@ -7214,6 +7358,7 @@
   },
   "128": {
     "episode": 128,
+    "title": "CoffeeScript, mobile Apps, Gewinne",
     "topics": [
       {
         "name": "The Battle of CoffeeScript Hill",
@@ -7262,6 +7407,7 @@
   },
   "129": {
     "episode": 129,
+    "title": "Zuschauerfragen sind heiß",
     "topics": [
       {
         "name": "Keygen-Element",
@@ -7363,6 +7509,7 @@
   },
   "130": {
     "episode": 130,
+    "title": "AngularJS – Superheroic JavaScript MVW Framework",
     "topics": [
       {
         "name": "AngularJS",
@@ -7427,6 +7574,7 @@
   },
   "131": {
     "episode": 131,
+    "title": "Zuschauerfragen die Zweite",
     "topics": [
       {
         "name": "Grid-Framework-Empfehlungen",
@@ -7479,6 +7627,7 @@
   },
   "132": {
     "episode": 132,
+    "title": "Rund ums Testen",
     "topics": [
       {
         "name": "Testing Situation heute – Hallo DalekJS",
@@ -7529,6 +7678,7 @@
   },
   "133": {
     "episode": 133,
+    "title": "Responsive Webdesign und CSS Frameworks",
     "topics": [
       {
         "name": "Robustes PNG Fallback für SVG",
@@ -7589,6 +7739,7 @@
   },
   "134": {
     "episode": 134,
+    "title": "News, CSS, Links",
     "topics": [
       {
         "name": "Heydon Pickering: Semantic CSS With Intelligent Selectors",
@@ -7655,6 +7806,7 @@
   },
   "135": {
     "episode": 135,
+    "title": "Progressive Enhancement, Sigh JavaScript und Bower",
     "topics": [
       {
         "name": "Progressive Enhancement – Still alive and kicking.",
@@ -7705,6 +7857,7 @@
   },
   "136": {
     "episode": 136,
+    "title": "Smashing Conference und ein moderner Design-Workflow",
     "topics": [
       {
         "name": "Smashing Conference",
@@ -7743,6 +7896,7 @@
   },
   "137": {
     "episode": 137,
+    "title": "Mobile Browser Wonderland",
     "topics": [
       {
         "name": "HTML5 Video mit MP4",
@@ -7807,6 +7961,7 @@
   },
   "138": {
     "episode": 138,
+    "title": "Auf der roten CMS Couch",
     "topics": [
       {
         "name": "Content Management Systeme",
@@ -7866,6 +8021,7 @@
   },
   "139": {
     "episode": 139,
+    "title": "Toolchain-Kult und Touch-Events",
     "topics": [
       {
         "name": "Toolchain-Kult?",
@@ -7909,6 +8065,7 @@
   },
   "141": {
     "episode": 141,
+    "title": "Devops, statische Seiten und Links",
     "topics": [
       {
         "name": "DevOps",
@@ -7956,6 +8113,7 @@
   },
   "142": {
     "episode": 142,
+    "title": "Webfonts und IDEs",
     "topics": [
       {
         "name": "Hörerfrage: Wie nutzt ihr Webfonts?",
@@ -7991,6 +8149,7 @@
   },
   "143": {
     "episode": 143,
+    "title": "CSS, Performance, Hörerfragen",
     "topics": [
       {
         "name": "CSS best practices",
@@ -8050,6 +8209,7 @@
   },
   "144": {
     "episode": 144,
+    "title": "RESS und unsere Deployment Strategien",
     "topics": [
       {
         "name": "Responsive Bilder und RESS",
@@ -8104,6 +8264,7 @@
   },
   "145": {
     "episode": 145,
+    "title": "Dezentralisierung und Hoodie",
     "topics": [
       {
         "name": "Grand Decentral Station",
@@ -8149,6 +8310,7 @@
   },
   "146": {
     "episode": 146,
+    "title": "Responsive Images, Verträge und Links",
     "topics": [
       {
         "name": "Responsive Images",
@@ -8186,6 +8348,7 @@
   },
   "147": {
     "episode": 147,
+    "title": "Über das INIT Boilerplate und das Laravel PHP-Framework",
     "topics": [
       {
         "name": "INIT",
@@ -8260,6 +8423,7 @@
   },
   "148": {
     "episode": 148,
+    "title": "Generatoren und Mutationen",
     "topics": [
       {
         "name": "DOM Mutation Events & Mutation Observers",
@@ -8308,6 +8472,7 @@
   },
   "149": {
     "episode": 149,
+    "title": "Toolchains, WebFonts und Offline-First",
     "topics": [
       {
         "name": "Die Toolchain-Welt aus Designersicht",
@@ -8360,6 +8525,7 @@
   },
   "150": {
     "episode": 150,
+    "title": "Kurz-Jubiläum mit News, Glücksrad und Links",
     "topics": [],
     "news": [
       {
@@ -8405,6 +8571,7 @@
   },
   "151": {
     "episode": 151,
+    "title": "Myth, statische Seiten, Links",
     "topics": [
       {
         "name": "Myth",

@@ -1,7 +1,7 @@
 {
   "episode": 22,
   "id": 22,
-  "date": "2013-12-25",
+  "date": "2011-04-19",
   "duration": "01:01:40",
   "people": [
     {
@@ -29,6 +29,7 @@
   ],
   "href": "http://workingdraft.de/22/",
   "audio": "http://workingdraft.de/podpress_trac/web/490/0/wd-22.mp3",
+  "title": "IE10, Live.js und Favicons",
   "topics": [
     {
       "name": "Der Internet Explorer erscheint als Preview in Version 10",

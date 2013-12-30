@@ -1,7 +1,7 @@
 {
   "episode": 9,
   "id": 9,
-  "date": "2013-12-25",
+  "date": "2011-01-11",
   "duration": "00:57:41",
   "people": [
     {
@@ -33,6 +33,7 @@
   ],
   "href": "http://workingdraft.de/9/",
   "audio": "http://workingdraft.de/podpress_trac/web/186/0/Revision-9_-DOM-Monster-Drupal-7-und-2.2250738585072011e-308.mp3",
+  "title": "DOM-Monster, Drupal 7 und 2.2250738585072011e-308",
   "topics": [
     {
       "name": "Einsteiger-Tutorial zu CoffeeScript",

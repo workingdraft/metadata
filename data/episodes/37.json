@@ -34,6 +34,7 @@
   ],
   "href": "http://workingdraft.de/37/",
   "audio": "http://workingdraft.de/podpress_trac/web/742/0/wd-37.mp3",
+  "title": "speak.js, Native Client und JS-MVC-Frameworks",
   "topics": [
     {
       "name": "speak.js – Text-To-Speech on the Web",

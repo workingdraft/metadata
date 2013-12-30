@@ -1,7 +1,7 @@
 {
   "episode": 132,
   "id": 132,
-  "date": "2013-12-25",
+  "date": "2013-08-14",
   "duration": "01:08:35",
   "live": true,
   "people": [
@@ -26,6 +26,7 @@
   ],
   "href": "http://workingdraft.de/132/",
   "audio": "http://workingdraft.de/podpress_trac/web/2054/0/wd-132.mp3",
+  "title": "Rund ums Testen",
   "topics": [
     {
       "name": "Testing Situation heute – Hallo DalekJS",

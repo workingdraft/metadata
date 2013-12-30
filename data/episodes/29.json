@@ -22,18 +22,22 @@
   ],
   "href": "http://workingdraft.de/29/",
   "audio": "http://workingdraft.de/podpress_trac/web/629/0/wd-29.mp3",
+  "title": "VisualSearch.js und Twitter-Spam",
   "topics": [
     {
       "name": "VisualSearch.js",
-      "href": "http://documentcloud.github.com/visualsearch/"
+      "href": "http://documentcloud.github.com/visualsearch/",
+      "time": "0:02:04:000"
     },
     {
       "name": "CDNjs.com",
-      "href": "http://www.cdnjs.com/#/search/"
+      "href": "http://www.cdnjs.com/#/search/",
+      "time": "0:07:51:000"
     },
     {
       "name": "Twitter promoted Tweets",
-      "href": "http://mashable.com/2011/06/23/twitter-promoted-tweets-timeline-2/"
+      "href": "http://mashable.com/2011/06/23/twitter-promoted-tweets-timeline-2/",
+      "time": "0:14:00:000"
     }
   ],
   "news": [],

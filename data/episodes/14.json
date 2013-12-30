@@ -1,7 +1,7 @@
 {
   "episode": 14,
   "id": 14,
-  "date": "2013-12-25",
+  "date": "2011-02-15",
   "duration": "01:11:24",
   "people": [
     {
@@ -26,6 +26,7 @@
   ],
   "href": "http://workingdraft.de/14/",
   "audio": "http://workingdraft.de/podpress_trac/web/329/0/wd-14.mp3",
+  "title": "Hashbangs, PhantomJS und Github-Gene",
   "topics": [
     {
       "name": "Breaking the Web with hash-bangs",

@@ -1,7 +1,7 @@
 {
   "episode": 94,
   "id": 94,
-  "date": "2013-12-25",
+  "date": "2012-11-01",
   "duration": "00:40:08",
   "live": true,
   "people": [
@@ -37,6 +37,7 @@
   ],
   "href": "http://workingdraft.de/94/",
   "audio": "http://workingdraft.de/podpress_trac/web/1592/0/wd-94.mp3",
+  "title": "Test The Web Forward!",
   "topics": [
     {
       "name": "Test The Web Forward!",

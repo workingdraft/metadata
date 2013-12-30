@@ -1,7 +1,7 @@
 {
   "episode": 102,
   "id": 102,
-  "date": "2013-12-25",
+  "date": "2013-01-11",
   "duration": "01:20:00",
   "live": true,
   "people": [
@@ -36,6 +36,7 @@
   ],
   "href": "http://workingdraft.de/102/",
   "audio": "http://workingdraft.de/podpress_trac/web/1737/0/wd-102.mp3",
+  "title": "Templates, JPEGs, JavaScript und OpenSource",
   "topics": [
     {
       "name": "HTML5 Bones",

@@ -1,7 +1,7 @@
 {
   "episode": 45,
   "id": 45,
-  "date": "2013-12-25",
+  "date": "2011-11-03",
   "duration": "01:16:39",
   "people": [
     {
@@ -25,6 +25,7 @@
   ],
   "href": "http://workingdraft.de/45/",
   "audio": "http://workingdraft.de/podpress_trac/web/856/0/wd-45.mp3",
+  "title": "H.264 in JS, jQuery Standards Team & OccupyHTML5!",
   "topics": [
     {
       "name": "Broadway: An H.264 Decoder in JavaScript Running at 30fps",

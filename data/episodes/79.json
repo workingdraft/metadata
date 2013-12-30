@@ -1,7 +1,7 @@
 {
   "episode": 79,
   "id": 79,
-  "date": "2013-12-25",
+  "date": "2012-07-11",
   "duration": "00:35:52",
   "live": true,
   "people": [
@@ -37,6 +37,7 @@
   ],
   "href": "http://workingdraft.de/79/",
   "audio": "http://workingdraft.de/podpress_trac/web/1351/0/wd-79.mp3",
+  "title": "File System API, Chrome Apps und ein Haufen Links",
   "topics": [
     {
       "name": "Why no FileSystem API in Firefox?",

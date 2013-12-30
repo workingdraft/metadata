@@ -1,7 +1,7 @@
 {
   "episode": 123,
   "id": 123,
-  "date": "2013-12-25",
+  "date": "2013-06-09",
   "duration": "00:53:53",
   "live": true,
   "people": [
@@ -36,6 +36,7 @@
   ],
   "href": "http://workingdraft.de/123/",
   "audio": "http://workingdraft.de/podpress_trac/web/1963/0/wd-123.mp3",
+  "title": "Cargo-Culting in JS, localStorage und Prerendering",
   "topics": [
     {
       "name": "Smartphone Browser localStorage is up to 5x Faster than Native Cache",

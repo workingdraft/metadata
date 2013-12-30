@@ -1,7 +1,7 @@
 {
   "episode": 70,
   "id": 70,
-  "date": "2013-12-25",
+  "date": "2012-05-10",
   "duration": "00:50:24",
   "live": true,
   "people": [
@@ -41,6 +41,7 @@
   ],
   "href": "http://workingdraft.de/70/",
   "audio": "http://workingdraft.de/podpress_trac/web/1195/0/wd-70.mp3",
+  "title": "JS Styleguides, Barrierefreiheit & Web Intents",
   "topics": [
     {
       "name": "JavaScript Styleguides",

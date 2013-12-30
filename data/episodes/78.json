@@ -1,7 +1,7 @@
 {
   "episode": 78,
   "id": 78,
-  "date": "2013-12-25",
+  "date": "2012-07-04",
   "duration": "01:15:08",
   "live": true,
   "people": [
@@ -37,6 +37,7 @@
   ],
   "href": "http://workingdraft.de/78/",
   "audio": "http://workingdraft.de/podpress_trac/web/1333/0/wd-78.mp3",
+  "title": "Editoren, jQuery, Yeoman, Browser",
   "topics": [
     {
       "name": "Editoren & IDEs",

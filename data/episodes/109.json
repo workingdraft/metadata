@@ -1,7 +1,7 @@
 {
   "episode": 109,
   "id": 109,
-  "date": "2013-12-25",
+  "date": "2013-03-01",
   "duration": "00:38:43",
   "live": true,
   "people": [
@@ -27,6 +27,7 @@
   ],
   "href": "http://workingdraft.de/109/",
   "audio": "http://workingdraft.de/podpress_trac/web/1827/0/wd-109.mp3",
+  "title": "Counter Styles, mobile Betriebssysteme, HTML5-Linkelemente",
   "topics": [
     {
       "name": "CSS Counter Styles",

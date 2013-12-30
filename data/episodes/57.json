@@ -1,7 +1,7 @@
 {
   "episode": 57,
   "id": 57,
-  "date": "2013-12-25",
+  "date": "2012-02-09",
   "duration": "00:50:26",
   "people": [
     {
@@ -36,6 +36,7 @@
   ],
   "href": "http://workingdraft.de/57/",
   "audio": "http://workingdraft.de/podpress_trac/web/1004/0/wd-57.mp3",
+  "title": "IDBExplorer, Gradient Syntax & Wrap.js",
   "topics": [
     {
       "name": "IE10 Compat Inspector",

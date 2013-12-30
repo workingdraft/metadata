@@ -1,7 +1,7 @@
 {
   "episode": 64,
   "id": 64,
-  "date": "2013-12-25",
+  "date": "2012-03-01",
   "duration": "01:12:49",
   "live": true,
   "people": [
@@ -34,6 +34,7 @@
   ],
   "href": "http://workingdraft.de/64/",
   "audio": "http://workingdraft.de/podpress_trac/web/1109/0/wd-64.mp3",
+  "title": "Source Maps, Event Capturing & beyond tellerrand – play",
   "topics": [
     {
       "name": "Introduction to JavaScript Source Maps",

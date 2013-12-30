@@ -1,7 +1,7 @@
 {
   "episode": 47,
   "id": 47,
-  "date": "2013-12-25",
+  "date": "2011-11-15",
   "duration": "00:54:32",
   "people": [
     {
@@ -21,6 +21,7 @@
   ],
   "href": "http://workingdraft.de/47/",
   "audio": "http://workingdraft.de/podpress_trac/web/886/0/wd-47.mp3",
+  "title": "Firefox 8, Aurora 10 und jQuery-Diät mit dem dynamischen Duo",
   "topics": [
     {
       "name": "Working Draft bei Google Plus",

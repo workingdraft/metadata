@@ -26,6 +26,7 @@
   ],
   "href": "http://workingdraft.de/86/",
   "audio": "http://workingdraft.de/podpress_trac/web/1457/0/wd86.mp3",
+  "title": "CAS und Object.observe",
   "topics": [
     {
       "name": "CAS: Cascading Attribute Sheets",

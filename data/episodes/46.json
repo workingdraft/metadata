@@ -1,7 +1,7 @@
 {
   "episode": 46,
   "id": 46,
-  "date": "2013-12-25",
+  "date": "2011-11-08",
   "duration": "01:22:44",
   "people": [
     {
@@ -33,6 +33,7 @@
   ],
   "href": "http://workingdraft.de/46/",
   "audio": "http://workingdraft.de/podpress_trac/web/875/0/wd-46.mp3",
+  "title": "Aloha Editor, jQuery 1.7 und halbgare Zukunftstechniken",
   "topics": [
     {
       "name": "jQuery 1.7 released",

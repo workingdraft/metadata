@@ -1,7 +1,7 @@
 {
   "episode": 30,
   "id": 30,
-  "date": "2013-12-25",
+  "date": "2011-07-06",
   "duration": "01:23:24",
   "people": [
     {
@@ -25,6 +25,7 @@
   ],
   "href": "http://workingdraft.de/30/",
   "audio": "http://workingdraft.de/podpress_trac/web/641/0/wd-30.mp3",
+  "title": "IE10, Google+ und Dr.Web",
   "topics": [
     {
       "name": "IE10 Public Preview 2 ist da!",

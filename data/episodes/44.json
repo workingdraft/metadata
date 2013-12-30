@@ -25,6 +25,7 @@
   ],
   "href": "http://workingdraft.de/44/",
   "audio": "http://workingdraft.de/podpress_trac/web/845/0/wd-44.mp3",
+  "title": "HTTP-Statuscodes, TYPO3 und ‘n Echo, echo, cho, o….",
   "topics": [
     {
       "name": "Additional HTTP Status Codes",

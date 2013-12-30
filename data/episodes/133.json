@@ -23,6 +23,7 @@
   ],
   "href": "http://workingdraft.de/133/",
   "audio": "http://workingdraft.de/podpress_trac/web/2068/0/wd-133.mp3",
+  "title": "Responsive Webdesign und CSS Frameworks",
   "topics": [
     {
       "name": "Robustes PNG Fallback für SVG",

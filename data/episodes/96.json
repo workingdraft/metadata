@@ -1,7 +1,7 @@
 {
   "episode": 96,
   "id": 96,
-  "date": "2013-12-25",
+  "date": "2012-11-14",
   "duration": "00:30:04",
   "live": true,
   "people": [
@@ -29,6 +29,7 @@
   ],
   "href": "http://workingdraft.de/96/",
   "audio": "http://workingdraft.de/podpress_trac/web/1620/0/wd-96.mp3",
+  "title": "News, HTML5 und Links",
   "topics": [
     {
       "name": "HTML5 forms (and IE10 (Mobile))",

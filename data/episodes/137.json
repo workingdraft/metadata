@@ -1,7 +1,7 @@
 {
   "episode": 137,
   "id": 137,
-  "date": "2013-12-26",
+  "date": "2013-09-24",
   "duration": "01:25:37",
   "live": true,
   "people": [
@@ -29,6 +29,7 @@
   ],
   "href": "http://workingdraft.de/137/",
   "audio": "http://workingdraft.de/podpress_trac/web/2096/0/wd-137.mp3",
+  "title": "Mobile Browser Wonderland",
   "topics": [
     {
       "name": "HTML5 Video mit MP4",

@@ -1,7 +1,7 @@
 {
   "episode": 88,
   "id": 88,
-  "date": "2013-12-25",
+  "date": "2012-09-15",
   "duration": "00:48:16",
   "live": true,
   "people": [
@@ -37,6 +37,7 @@
   ],
   "href": "http://workingdraft.de/88/",
   "audio": "http://workingdraft.de/podpress_trac/web/1484/0/wd-88.mp3",
+  "title": "Opus Codec, hot CSS Specs und Bower",
   "topics": [
     {
       "name": "Der Opus Codec landet in Firefox",

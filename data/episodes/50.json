@@ -1,7 +1,7 @@
 {
   "episode": 50,
   "id": 50,
-  "date": "2013-12-25",
+  "date": "2011-12-06",
   "duration": "01:02:43",
   "people": [
     {
@@ -18,6 +18,7 @@
   ],
   "href": "http://workingdraft.de/50/",
   "audio": "http://workingdraft.de/podpress_trac/web/925/0/wd-50.mp3",
+  "title": "P3P olé!",
   "topics": [
     {
       "name": "HTML5 for Applications: The Fourth IE10 Platform Preview",

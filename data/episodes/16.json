@@ -1,7 +1,7 @@
 {
   "episode": 16,
   "id": 16,
-  "date": "2013-12-25",
+  "date": "2011-03-01",
   "duration": "02:01:26",
   "people": [
     {
@@ -26,6 +26,7 @@
   ],
   "href": "http://workingdraft.de/16/",
   "audio": "http://workingdraft.de/podpress_trac/web/407/0/wd-16.mp3",
+  "title": "Interview mit Microsoft",
   "topics": [
     {
       "name": "Was zeichnet IE9 aus?"

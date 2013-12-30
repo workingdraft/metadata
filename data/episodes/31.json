@@ -1,7 +1,7 @@
 {
   "episode": 31,
   "id": 31,
-  "date": "2013-12-25",
+  "date": "2011-07-15",
   "duration": "01:23:02",
   "people": [
     {
@@ -29,6 +29,7 @@
   ],
   "href": "http://workingdraft.de/31/",
   "audio": "http://workingdraft.de/podpress_trac/web/657/0/wd-31.mp3",
+  "title": "Takeout, OpenCL und Memory Management",
   "topics": [
     {
       "name": "00:00:24.000 Google Takeout",

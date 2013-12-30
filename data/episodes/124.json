@@ -1,7 +1,7 @@
 {
   "episode": 124,
   "id": 124,
-  "date": "2013-12-25",
+  "date": "2013-06-14",
   "duration": "00:50:08",
   "live": true,
   "people": [
@@ -22,6 +22,7 @@
   ],
   "href": "http://workingdraft.de/124/",
   "audio": "http://workingdraft.de/podpress_trac/web/1970/0/wd-124.mp3",
+  "title": "Screen Readers, CSP und In-depth Script Loading",
   "topics": [
     {
       "name": "Screen Readers at a Crossroads",

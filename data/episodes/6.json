@@ -1,7 +1,7 @@
 {
   "episode": 6,
   "id": 6,
-  "date": "2013-12-25",
+  "date": "2010-12-07",
   "duration": "01:02:51",
   "people": [
     {
@@ -22,6 +22,7 @@
   ],
   "href": "http://workingdraft.de/6/",
   "audio": "http://workingdraft.de/podpress_trac/web/130/0/Revision-6_-Firebug-1.6-head.js-Adventskalender-und-alle-sind-krank.mp3",
+  "title": "Firebug 1.6, head.js, Adventskalender und alle sind krank",
   "topics": [
     {
       "name": "Google Chrome 8",

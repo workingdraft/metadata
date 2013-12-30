@@ -1,7 +1,7 @@
 {
   "episode": 65,
   "id": 65,
-  "date": "2013-12-25",
+  "date": "2012-04-03",
   "duration": "00:53:59",
   "live": true,
   "people": [
@@ -37,6 +37,7 @@
   ],
   "href": "http://workingdraft.de/65/",
   "audio": "http://workingdraft.de/podpress_trac/web/1125/0/wd-65.mp3",
+  "title": "Infinite Transition Delays, jQuery Hooks, ECMAScript 6",
   "topics": [
     {
       "name": "Maintaining CSS Style States using Infinite Transition Delays",

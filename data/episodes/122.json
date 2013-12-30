@@ -1,7 +1,7 @@
 {
   "episode": 122,
   "id": 122,
-  "date": "2013-12-25",
+  "date": "2013-06-04",
   "duration": "00:34:17",
   "flags": [
     "no-topics"
@@ -28,6 +28,7 @@
   ],
   "href": "http://workingdraft.de/122/",
   "audio": "http://workingdraft.de/podpress_trac/web/1959/0/wd-122.mp3",
+  "title": "Interview mit Chris Heilmann zu Firefox OS",
   "topics": [],
   "news": [],
   "links": [],

@@ -1,7 +1,7 @@
 {
   "episode": 80,
   "id": 80,
-  "date": "2013-12-25",
+  "date": "2012-07-18",
   "duration": "00:53:25",
   "live": true,
   "people": [
@@ -37,6 +37,7 @@
   ],
   "href": "http://workingdraft.de/80/",
   "audio": "http://workingdraft.de/podpress_trac/web/1365/0/wd-80.mp3",
+  "title": "X-Tag, Print Styles und IE-Basher bashen",
   "topics": [
     {
       "name": "styles.max.css",

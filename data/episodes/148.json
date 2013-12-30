@@ -1,7 +1,7 @@
 {
   "episode": 148,
   "id": 148,
-  "date": "2013-12-25",
+  "date": "2013-12-15",
   "duration": "00:48:48",
   "live": true,
   "people": [
@@ -29,6 +29,7 @@
   ],
   "href": "http://workingdraft.de/148/",
   "audio": "http://workingdraft.de/podpress_trac/web/2186/0/wd-148.mp3",
+  "title": "Generatoren und Mutationen",
   "topics": [
     {
       "name": "DOM Mutation Events & Mutation Observers",

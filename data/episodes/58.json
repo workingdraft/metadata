@@ -1,7 +1,7 @@
 {
   "episode": 58,
   "id": 58,
-  "date": "2013-12-25",
+  "date": "2012-02-16",
   "duration": "01:31:36",
   "people": [
     {
@@ -36,6 +36,7 @@
   ],
   "href": "http://workingdraft.de/58/",
   "audio": "http://workingdraft.de/podpress_trac/web/1018/0/wd-58.mp3",
+  "title": "-webkit-CSS3, -webkit-SEO und -webkit-MMT",
   "topics": [
     {
       "name": "Vendor-Prefix-Gate",

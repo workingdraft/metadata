@@ -1,7 +1,7 @@
 {
   "episode": 120,
   "id": 120,
-  "date": "2013-12-25",
+  "date": "2013-05-18",
   "duration": "00:50:40",
   "live": true,
   "people": [
@@ -22,6 +22,7 @@
   ],
   "href": "http://workingdraft.de/120/",
   "audio": "http://workingdraft.de/podpress_trac/web/1942/0/wd-120.mp3",
+  "title": "CSS Strukturieren, Sinn und Unsinn von Touchdetection, DRM",
   "topics": [
     {
       "name": "CSS is not an amoral monster",

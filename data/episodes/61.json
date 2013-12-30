@@ -1,7 +1,7 @@
 {
   "episode": 61,
   "id": 61,
-  "date": "2013-12-25",
+  "date": "2012-03-07",
   "duration": "01:04:24",
   "people": [
     {
@@ -28,6 +28,7 @@
   ],
   "href": "http://workingdraft.de/61/",
   "audio": "http://workingdraft.de/podpress_trac/web/1063/0/wd-61.mp3",
+  "title": "HTML5 Please API, Boot to Gecko, Image Replacements",
   "topics": [
     {
       "name": "HTML5 Please API",

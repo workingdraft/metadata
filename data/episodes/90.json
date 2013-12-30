@@ -1,7 +1,7 @@
 {
   "episode": 90,
   "id": 90,
-  "date": "2013-12-25",
+  "date": "2012-10-10",
   "duration": "01:04:18",
   "live": true,
   "people": [
@@ -27,6 +27,7 @@
   ],
   "href": "http://workingdraft.de/90/",
   "audio": "http://workingdraft.de/podpress_trac/web/1528/0/wd-90.mp3",
+  "title": ".mobi-Gate, Persona und TypeScript",
   "topics": [
     {
       "name": "Safari for iPhone ignores viewport settings on .mobi domains",

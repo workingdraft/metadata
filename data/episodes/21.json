@@ -1,7 +1,7 @@
 {
   "episode": 21,
   "id": 21,
-  "date": "2013-12-25",
+  "date": "2011-04-12",
   "duration": "01:32:56",
   "people": [
     {
@@ -33,6 +33,7 @@
   ],
   "href": "http://workingdraft.de/21/",
   "audio": "http://workingdraft.de/podpress_trac/web/482/0/wd-21.mp3",
+  "title": "SPDY, Mobile UI, Webshims, und alles hardboiled!",
   "topics": [
     {
       "name": "SPDY on Google servers?",

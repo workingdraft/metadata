@@ -1,7 +1,7 @@
 {
   "episode": 2,
   "id": 2,
-  "date": "2013-12-25",
+  "date": "2010-11-09",
   "duration": "01:05:48",
   "people": [
     {
@@ -29,6 +29,7 @@
   ],
   "href": "http://workingdraft.de/2/",
   "audio": "http://workingdraft.de/podpress_trac/web/25/0/revision21.mp3",
+  "title": "mod_pagespeed, Sub-Pixel-Positionierung und viel Hall",
   "topics": [
     {
       "name": "mod_pagespeed",
@@ -47,7 +48,7 @@
       "href": "http://polylogo.org/3"
     },
     {
-      "name": "yepnope.js – A Feature-Test Based Loader For Your Polyfills! ",
+      "name": "yepnope.js – A Feature-Test Based Loader For Your Polyfills!",
       "href": "https://github.com/SlexAxton/yepnope.js"
     },
     {

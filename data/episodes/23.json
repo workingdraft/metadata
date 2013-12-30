@@ -1,7 +1,7 @@
 {
   "episode": 23,
   "id": 23,
-  "date": "2013-12-25",
+  "date": "2011-05-03",
   "duration": "00:59:16",
   "people": [
     {
@@ -22,6 +22,7 @@
   ],
   "href": "http://workingdraft.de/23/",
   "audio": "http://workingdraft.de/podpress_trac/web/520/0/wd-23.mp3",
+  "title": "Node-SPDY, Zukunftskram und CoffeeKup",
   "topics": [
     {
       "name": "Node.js + SPDY",

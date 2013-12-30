@@ -1,7 +1,7 @@
 {
   "episode": 131,
   "id": 131,
-  "date": "2013-12-25",
+  "date": "2013-08-12",
   "duration": "00:38:30",
   "people": [
     {
@@ -28,6 +28,7 @@
   ],
   "href": "http://workingdraft.de/131/",
   "audio": "http://workingdraft.de/podpress_trac/web/2043/0/wd-131.mp3",
+  "title": "Zuschauerfragen die Zweite",
   "topics": [
     {
       "name": "Grid-Framework-Empfehlungen",

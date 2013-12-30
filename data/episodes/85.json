@@ -1,7 +1,7 @@
 {
   "episode": 85,
   "id": 85,
-  "date": "2013-12-25",
+  "date": "2012-08-22",
   "duration": "01:18:38",
   "live": true,
   "people": [
@@ -33,6 +33,7 @@
   ],
   "href": "http://workingdraft.de/85/",
   "audio": "http://workingdraft.de/podpress_trac/web/1428/0/wd-85.mp3",
+  "title": "Konferenzen, CSS und Twitter",
   "topics": [
     {
       "name": "beyond tellerrand 2012 und Smashing Conference 2012",

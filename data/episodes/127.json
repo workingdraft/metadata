@@ -1,7 +1,7 @@
 {
   "episode": 127,
   "id": 127,
-  "date": "2013-12-25",
+  "date": "2013-07-09",
   "duration": "00:46:21",
   "live": true,
   "people": [
@@ -22,6 +22,7 @@
   ],
   "href": "http://workingdraft.de/127/",
   "audio": "http://workingdraft.de/podpress_trac/web/2000/0/wd-127.mp3",
+  "title": "IE11, Glücksrad, Verlosung",
   "topics": [
     {
       "name": "Kompatibilität im IE11",

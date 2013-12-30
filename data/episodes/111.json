@@ -1,7 +1,7 @@
 {
   "episode": 111,
   "id": 111,
-  "date": "2013-12-25",
+  "date": "2013-03-16",
   "duration": "00:55:58",
   "live": true,
   "people": [
@@ -26,6 +26,7 @@
   ],
   "href": "http://workingdraft.de/111/",
   "audio": "http://workingdraft.de/podpress_trac/web/1845/0/wd-111.mp3",
+  "title": "Performance-Proxy, Media Queries Level 4, http-client-hints",
   "topics": [
     {
       "name": "Data Compression Proxy",

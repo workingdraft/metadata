@@ -1,7 +1,7 @@
 {
   "episode": 92,
   "id": 92,
-  "date": "2013-12-25",
+  "date": "2012-10-17",
   "duration": "01:19:25",
   "live": true,
   "people": [
@@ -34,6 +34,7 @@
   ],
   "href": "http://workingdraft.de/92/",
   "audio": "http://workingdraft.de/podpress_trac/web/1550/0/wd-92.mp3",
+  "title": "Firefox, Fullscreen API und Thinkin’ Tags",
   "topics": [
     {
       "name": "Firefox 16",

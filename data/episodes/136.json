@@ -1,7 +1,7 @@
 {
   "episode": 136,
   "id": 136,
-  "date": "2013-12-25",
+  "date": "2013-09-16",
   "duration": "00:55:40",
   "live": true,
   "people": [
@@ -26,6 +26,7 @@
   ],
   "href": "http://workingdraft.de/136/",
   "audio": "http://workingdraft.de/podpress_trac/web/2090/0/wd-136.mp3",
+  "title": "Smashing Conference und ein moderner Design-Workflow",
   "topics": [
     {
       "name": "Smashing Conference",

@@ -1,7 +1,7 @@
 {
   "episode": 138,
   "id": 138,
-  "date": "2013-12-25",
+  "date": "2013-10-01",
   "duration": "01:15:25",
   "live": true,
   "people": [
@@ -30,6 +30,7 @@
   ],
   "href": "http://workingdraft.de/138/",
   "audio": "http://workingdraft.de/podpress_trac/web/2100/0/wd-138.mp3",
+  "title": "Auf der roten CMS Couch",
   "topics": [
     {
       "name": "Content Management Systeme",

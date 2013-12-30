@@ -1,7 +1,7 @@
 {
   "episode": 146,
   "id": 146,
-  "date": "2013-12-26",
+  "date": "2013-11-24",
   "duration": "01:14:31",
   "live": true,
   "people": [
@@ -33,6 +33,7 @@
   ],
   "href": "http://workingdraft.de/146/",
   "audio": "http://workingdraft.de/podpress_trac/web/2167/0/wd-146.mp3",
+  "title": "Responsive Images, Verträge und Links",
   "topics": [
     {
       "name": "Responsive Images",

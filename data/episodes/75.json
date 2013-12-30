@@ -1,7 +1,7 @@
 {
   "episode": 75,
   "id": 75,
-  "date": "2013-12-25",
+  "date": "2012-06-14",
   "duration": "00:15:50",
   "live": true,
   "people": [
@@ -30,6 +30,7 @@
   ],
   "href": "http://workingdraft.de/75/",
   "audio": "http://workingdraft.de/podpress_trac/web/1271/0/wd-75.mp3",
+  "title": "News, Links und die diesmal wirklich kürzeste Revision aller Zeiten",
   "topics": [
     {
       "name": "JSON vs. MessagePack vs. JSON5",

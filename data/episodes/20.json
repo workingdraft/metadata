@@ -1,7 +1,7 @@
 {
   "episode": 20,
   "id": 20,
-  "date": "2013-12-25",
+  "date": "2011-04-07",
   "duration": "00:52:35",
   "people": [
     {
@@ -29,6 +29,7 @@
   ],
   "href": "http://workingdraft.de/20/",
   "audio": "http://workingdraft.de/podpress_trac/web/473/0/wd-20.mp3",
+  "title": "HTTPArchive, dynaTrace und AmplifyJS",
   "topics": [
     {
       "name": "border-image-Generator",
