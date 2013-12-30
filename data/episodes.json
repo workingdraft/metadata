@@ -1947,5 +1947,18 @@
     ],
     "href": "http://workingdraft.de/151/",
     "audio": "http://workingdraft.de/podpress_trac/web/2225/0/wd-151.mp3"
+  },
+  "152": {
+    "id": 152,
+    "date": null,
+    "duration": "00:00:00",
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "",
+    "audio": ""
   }
 }
