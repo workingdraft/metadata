@@ -87,6 +87,7 @@ function updateRecords(data) {
   episodes[data.id].audio = data.audio;
   contents[data.id] = {
     episode: data.id,
+    title: data.title,
     topics: data.topics,
     news: data.news,
     links: data.links,
@@ -149,6 +150,7 @@ function findAnomalies() {
     if (!content) {
       log(id, "content is missing completely - parse error?");
     } else {
+      !content.title && log(id, "Title is missing");
       if (!content.topics.length) {
         log(id, "topics are missing");
       }
