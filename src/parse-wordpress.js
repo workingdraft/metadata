@@ -70,7 +70,7 @@ function analyzeContents(title) {
       break;
     }
     
-    if (!list.is('dl, ul, p')) {
+    if (!list.is('dl, ul')) {
       list = list.next();
       continue;
     }
