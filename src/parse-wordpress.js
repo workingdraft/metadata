@@ -44,7 +44,7 @@ function analyze(html) {
     } else if (title.indexOf("verlosung")) {
       return;
     }
-    
+console.log("investigating " + bucket);
     data[bucket] = analyzeContents(this);
     if (bucket === undefined && data[bucket].length) {
       if (data[bucket][0].name.slice(0, 1) === '[') {
@@ -70,7 +70,7 @@ function analyzeContents(title) {
       break;
     }
     
-    if (!list.is('dl, ul')) {
+    if (!list.is('dl, ul, p')) {
       list = list.next();
       continue;
     }
@@ -199,6 +199,18 @@ function analyzeList(list, title) {
         split.time || titleSplit.time
       );
     });
+  } else if (list.is('p')) {
+    // episode 111 uses <p> to descibe the random spec item
+    var _link = list.find('a').first();
+    var _clone = list.clone();
+    _clone.find('a').removeAttr('onclick');
+    
+    return toObject(
+      trim(_link.text()),
+      sanitizeUrl(_link.attr('href')),
+      titleSplit.time,
+      trim(_clone.html())
+    );
   }
   
   return [];
