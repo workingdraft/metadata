@@ -100,5 +100,12 @@
       "description": "Schöne Patterns für Transitions in UIs."
     }
   ],
-  "randomSpec": []
+  "randomSpec": [
+    {
+      "name": "Timed Text Tracks",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/#timed-text-tracks",
+      "time": "00:40:05",
+      "description": "Wir fabulieren ein wenig über Video-Untertitel, das <a href=\"http://dev.w3.org/html5/webvtt/\">WebVTT-Format</a>, <a href=\"http://de.scribd.com/doc/99333562/Mario-Heiderich-Got-Your-Nose-How-to-Steal-Your-Precious-Data-Without-Using-Scripts\">Security</a> sowie <a href=\"https://transloadit.com/\">Transloadit</a> und andere Datei-Umwandel-Dienste. Außerdem empfehlen wir den Talk <a href=\"https://vimeo.com/53317252\">The State of HTML5 Video</a> von Jeroen Wijering."
+    }
+  ]
 }
