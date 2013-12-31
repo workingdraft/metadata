@@ -30,52 +30,61 @@
   "href": "http://workingdraft.de/119/",
   "audio": "http://workingdraft.de/podpress_trac/web/1932/0/wd-119.mp3",
   "title": "Transitions, Flaggen, Links",
+  "description": "Hans, Rodney und Peter erzählten, ranteten und verlasen wie üblich das neues aus der Web-Welt.",
   "topics": [
     {
       "name": "Thank God We Have A Specification",
       "href": "http://coding.smashingmagazine.com/2013/04/26/css3-transitions-thank-god-specification/",
-      "time": "00:02:00"
+      "time": "00:02:00",
+      "description": "Hans und Peter erstarrten in Ehrfurcht vor Rodneys bei Smashing Mag erschienenem Magnum Opus über Bugs in CSS-Transitions. Rod gibt seine liebsten Bugs zum besten und berichtet über die Entstehung seiner <a href=\"http://test.csswg.org/shepherd/search/spec/CSS3-TRANSITIONS/\">Testsuite</a>. Wir empfehlen außerdem die <a href=\"http://testthewebforward.org/\">Test the Web Forward</a> für alle Hörer&nbsp;&ndash; Tests schreiben ist überraschend produktiv und man lernt extrem viel, auch wenn man kein Uber-Nerd ist."
     },
     {
       "name": "Using flag in language selector is still okay",
       "href": "https://coderwall.com/p/knyvug",
-      "time": "00:25:25"
+      "time": "00:25:25",
+      "description": "Landesflaggen als Sprachauswahl-Icon&nbsp;&ndash; gute Idee oder beknackte Idee? Der Artikel ist die Gegenrede zur <a href=\"http://bittersmann.de/articles/no-flags/\">Position von Gunnar Bittersmann</a>. Es fiel uns nicht leicht, großes Interesse für dieses Thema aufzubringen."
     }
   ],
   "news": [
     {
       "name": "nosniff header",
       "href": "https://github.com/blog/1482-heads-up-nosniff-header-support-coming-to-chrome-and-firefox",
-      "time": "00:00:18"
+      "time": "00:00:18",
+      "description": "Github berichtet, dass erste Browser den gegen Hotlinking helfenden HTTP-Header <code>nosniff</code> unterstützen."
     }
   ],
   "links": [
     {
       "name": "Intern",
       "href": "http://theintern.io/",
-      "time": "00:46:02"
+      "time": "00:46:02",
+      "description": "Großes Dingens zum Testen von Webapps."
     },
     {
       "name": "Pik7 1.0.0",
       "href": "http://pik.peterkroener.de/",
-      "time": "00:46:02"
+      "time": "00:46:02",
+      "description": "Peters HTML5-Präsentationsframework ist released. <a href=\"http://www.peterkroener.de/pik7-ein-html5-praesentationsframework-fuer-nerds/\">Details in seinem Blog.</a>"
     },
     {
       "name": "HTML differences from HTML5",
       "href": "http://html-differences.whatwg.org/",
-      "time": "00:46:02"
+      "time": "00:46:02",
+      "description": "Übersicht der WHATWG."
     },
     {
       "name": "CSS Modals",
       "href": "http://drublic.github.io/css-modal/",
-      "time": "00:46:02"
+      "time": "00:46:02",
+      "description": "Hans hat eine Lösung für CSS-only Content-Lightboxen gebaut."
     }
   ],
   "randomSpec": [
     {
       "name": "Canvas-Element bzw. Canvas-Pfadfunktionen",
       "href": "http://www.whatwg.org/specs/web-apps/current-work/multipage/the-canvas-element.html",
-      "time": "00:36:22"
+      "time": "00:36:22",
+      "description": "Weder Rodney noch Hans haben das Canvas-Element (oder seine Pfad-API) je gebraucht. Peter hackt damit zumindest gelegentlich herum und empfiehlt den Katzen-Erkenner <a href=\"http://harthur.github.io/kittydar/\">Kittydar</a> sowie <a href=\"http://threejs.org/\">three.js</a>, die WebGL-Engine für Dummies."
     }
   ]
 }

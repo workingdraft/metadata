@@ -23,25 +23,27 @@
   "href": "http://workingdraft.de/7/",
   "audio": "http://workingdraft.de/podpress_trac/web/145/0/Revision-7_-Dateisystem-Android-2.3-Websockets-Protokoll-Glitch-CSS-2.1.mp3",
   "title": "Dateisystem, Android 2.3, Websockets-Protokoll-Glitch, CSS 2.1",
+  "description": "Dann kamen noch Fragen nach einer Spendenmöglichkeit per Direktüberweisung; ohne Paypal. Wer also meine Kontodaten will, bekommt diese auf Anfrage <a href=\"mailto:mail@markus-schlegel.com\">per Mail</a>.\n\nWeil wir noch ein paar Themen haben, die wir gerne noch zusammen mit Schepp besprechen würden, andererseits aber dachten, dies sollte die letzte Sendung vor Weihnachten sein, fragen wir nun einfach in die Runde der Hörer: Wollt ihr nächsten Dienstag noch eine Sendung oder seid ihr da schon an den Weihnachtsbaum gekettet und mit Tannenbaumbesorgungen beschäftigt?\n\nSchepp fiel aus, Marc stand im Stau, also mussten Peter und ich uns die Themen eben zu zweit zur Brust nehmen. In Rekordzeit!",
   "topics": [
     {
       "name": "Experimentelle Filesystem-API",
-      "href": "http://www.thecssninja.com/javascript/filesystem"
+      "href": "http://www.thecssninja.com/javascript/filesystem",
+      "description": "Zugriff auf eine Sandbox im Dateisystem.<p></p>\n<dt><a href=\"http://www.mobilexweb.com/blog/android-2-3-gingerbread-the-browser\">Webkit-Browser der neuen Android-Version 2.3 unter der Lupe</a><p></p>\n<dd>Keine Websockets, keine DeviceOrientation, kein SVG<p></p>\n<dt><a href=\"http://www.0xdeadbeef.com/weblog/2010/12/disabling-websockets-for-firefox-4/\">Disabling Websockets for Firefox 4</a><p></p>\n<dd>Firefox und auch Opera nehmen den Support für Websockets aus den aktuellen Betas.<p></p>\n<dt><a href=\"http://www.golem.de/1012/79969.html\">Last Call Working Draft von CSS 2.1</a><p></p>\n<dd>And thus there was much rejoicing\n</dd></dt></dd></dt></dd></dt>"
     },
     {
       "name": "Webkit-Browser der neuen Android-Version 2.3 unter der Lupe",
-      "href": "http://www.mobilexweb.com/blog/android-2-3-gingerbread-the-browser"
+      "href": "http://www.mobilexweb.com/blog/android-2-3-gingerbread-the-browser",
+      "description": "Keine Websockets, keine DeviceOrientation, kein SVG<p></p>\n<dt><a href=\"http://www.0xdeadbeef.com/weblog/2010/12/disabling-websockets-for-firefox-4/\">Disabling Websockets for Firefox 4</a><p></p>\n<dd>Firefox und auch Opera nehmen den Support für Websockets aus den aktuellen Betas.<p></p>\n<dt><a href=\"http://www.golem.de/1012/79969.html\">Last Call Working Draft von CSS 2.1</a><p></p>\n<dd>And thus there was much rejoicing\n</dd></dt></dd></dt>"
     },
     {
       "name": "Disabling Websockets for Firefox 4",
-      "href": "http://www.0xdeadbeef.com/weblog/2010/12/disabling-websockets-for-firefox-4/"
+      "href": "http://www.0xdeadbeef.com/weblog/2010/12/disabling-websockets-for-firefox-4/",
+      "description": "Firefox und auch Opera nehmen den Support für Websockets aus den aktuellen Betas.<p></p>\n<dt><a href=\"http://www.golem.de/1012/79969.html\">Last Call Working Draft von CSS 2.1</a><p></p>\n<dd>And thus there was much rejoicing\n</dd></dt>"
     },
     {
       "name": "Last Call Working Draft von CSS 2.1",
-      "href": "http://www.golem.de/1012/79969.html"
+      "href": "http://www.golem.de/1012/79969.html",
+      "description": "And thus there was much rejoicing\n"
     }
-  ],
-  "news": [],
-  "links": [],
-  "randomSpec": []
+  ]
 }

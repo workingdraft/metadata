@@ -35,56 +35,65 @@
   "href": "http://workingdraft.de/92/",
   "audio": "http://workingdraft.de/podpress_trac/web/1550/0/wd-92.mp3",
   "title": "Firefox, Fullscreen API und Thinkin’ Tags",
+  "description": "Hans, Kahlil und Peter nudelten diese Woche nicht nur die üblichen Themen durch, sondern hatten obendrein keinen Geringeren als <a href=\"http://www.highresolution.info/\">Dirk Jesse</a> zu Gast, der sein Projekt <strong>Thinkin&#8217; Tags</strong> vorstellt.",
   "topics": [
     {
       "name": "Firefox 16",
       "href": "http://www.mozilla.org/en-US/firefox/16.0/releasenotes/",
-      "time": "00:00:49"
+      "time": "00:00:49",
+      "description": "Neue Woche, neue Browser-Version. Wir übergehen <a href=\"http://arstechnica.com/security/2012/10/mozilla-pulls-day-old-firefox-16-from-download-site-over-security-risk/\">den epischen Security-Fail</a> sowie <a href=\"http://www.peterkroener.de/aenderungen-in-der-neuen-css3-farbverlauf-syntax-ohne-vendor-prefix/\">Vendor-Prefixes</a> und philosophieren stattdessen über Devtools. Firebug ist ja nun out und die vielen kleinen Einzeltools wie <a href=\"https://hacks.mozilla.org/2012/08/new-firefox-command-line-helps-you-develop-faster/\">die neue Command Line</a> sind in. Wir sind noch nicht ganz zufrieden damit."
     },
     {
       "name": "Thinkin’ Tags",
       "href": "http://www.thinkintags.com",
-      "time": "00:18:39"
+      "time": "00:18:39",
+      "description": "Hans grillt Dirk Jesse zu seinem neuen Rapid Prototyping Tool. Thinkin&#8217; Tags ist aus <a href=\"http://www.yaml.de/\">Yaml</a> sowie dem dazugehörigen <a href=\"http://builder.yaml.de/\">Builder</a> erwachsen und soll tumb-repetitives Getippe durch ein fancy UI zumindest reduzieren. Wie lange Dirk daran geschraubt hat und was das ganze anders als Frontpage macht, breiten wir in epischem Umfang aus."
     },
     {
       "name": "Using the HTML5 Fullscreen API for Phishing Attacks",
       "href": "http://feross.org/html5-fullscreen-api-attack/",
-      "time": "00:55:22"
+      "time": "00:55:22",
+      "description": "Die <a href=\"http://www.w3.org/TR/fullscreen/\">Fullscreen-API</a> lässt sich für Phishing mißbrauchen&nbsp;&ndash; Peter will‘s ja schon immer gewusst haben. Andererseits kann Dirk aus eigener Webappbau-Erfahrung bestätigen, wie dringend das Web eine Fullscreen-Funktionalität braucht. Was tun? Dass wir zu keinem abschließenden Ergebnis kommen, lag jedenfalls nicht daran, dass wir es nicht versucht hätten, es auszudiskutieren!"
     }
   ],
   "news": [
     {
       "name": "jQuery UI 1.9 ist da",
       "href": "http://blog.jqueryui.com/2012/10/jquery-ui-1-9-0/",
-      "time": "00:00:21"
+      "time": "00:00:21",
+      "description": "Joah."
     }
   ],
   "links": [
     {
       "name": "Understanding Javascript OOP",
       "href": "http://killdream.github.com/blog/2011/10/understanding-javascript-oop/",
-      "time": "01:15:07"
+      "time": "01:15:07",
+      "description": "neuheiten === null, aber dafür absolut komplett und als Referenz oder Lernstoff zu empfehlen."
     },
     {
       "name": "Exploring FlexBox",
       "href": "http://demo.agektmr.com/flexbox/",
-      "time": "01:15:07"
+      "time": "01:15:07",
+      "description": "Interaktive Flexbox-Demoseite, die beim Verstehen des Standards sehr helfen kann."
     },
     {
       "name": "Browser Package Manager Comparison",
       "href": "https://github.com/wilmoore/frontend-packagers",
-      "time": "01:15:07"
+      "time": "01:15:07",
+      "description": "Bower versus Component versus Jam versus Volo."
     },
     {
       "name": "Designing JavaScript APIs For Usability",
       "href": "http://coding.smashingmagazine.com/2012/10/09/designing-javascript-apis-usability/",
-      "time": "01:15:07"
+      "time": "01:15:07",
+      "description": "Rodney über benutzbare APIs."
     },
     {
       "name": "jQuery Europe 2013",
       "href": "http://events.jquery.org/2013/eu/",
-      "time": "01:15:07"
+      "time": "01:15:07",
+      "description": "Die Webseite ist extrem hengstig und die Location in Schlagdistanz."
     }
-  ],
-  "randomSpec": []
+  ]
 }

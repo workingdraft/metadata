@@ -20,80 +20,93 @@
   "href": "http://workingdraft.de/26/",
   "audio": "http://workingdraft.de/podpress_trac/web/577/0/wd-26.mp3",
   "title": "Viel Internet Explorer",
+  "description": "Diesmal war &#8220;Schepp allein zu Haus&#8221; angesagt, und da hab ich mir knallhart den <a href=\"http://grochtdreis.de/weblog/\">Jens Grochtdreis</a>, den Gründer der <a href=\"http://www.webkrauts.de\">Webkrauts</a> aus Mainz mit ins Boot geholt. Als bekennende IE-Masochisten stürzten wir uns beide auf diesbezüglich eingefärbte Themen (die Woche gab es allerdings auch zufällig her). Kommentare wieder gerne auf <a href=\"http://audioboo.fm/\">Audioboo</a> mit dem Tag #workingdraft hinterlegen.",
   "topics": [
     {
       "name": "Google Finally Delivers On Promise Of Admin-Free Chrome Frame Installs For IE",
       "href": "http://techcrunch.com/2011/05/10/google-chrome-frame-ie-admin/",
-      "time": "00:01:23"
+      "time": "00:01:23",
+      "description": "Irgendwie haben es die Google Ingenieure nun doch hinbekommen, dass man Google Chrome Frame ohne Adminrechte an seinen IE anflanschen kann. Allerdings verraten sie nicht wie. Das macht Jens stutzig und überhaupt löst es das IE-Problem ja immer noch nicht an seiner Wurzel. Aber besser als nix."
     },
     {
       "name": "Compact Navigation, Print Preview and the CSS3 Grid Layout Module",
       "href": "http://peter.sh/2011/05/compact-navigation-print-preview-and-the-css3-grid-layout-module/",
-      "time": "00:10:38"
+      "time": "00:10:38",
+      "description": "Neues Google Chrome Canary Update, erstmalig mit schicker Druckvorschau (die intern ein PDF erzeugt!) und einer ersten Fassung der zuletzt besprochenenen <a href=\"http://workingdraft.de/25/\">Visibility API</a>. Außerdem mit CSS3 Grid Layouts, <a href=\"http://www.youtube.com/watch?v=N8SS-rUEZPg\">einem stark aufgemotzten Web Inspector</a> und der polarisierenden Idee, <a href=\"http://www.golem.de/1105/83621.html\">die Adressleiste auch noch weg zu rationalisieren</a>. Hmm&#8230;"
     },
     {
       "name": "Stylesheet Limits in Internet Explorer",
       "href": "http://blogs.msdn.com/b/ieinternals/archive/2011/05/14/10164546.aspx",
-      "time": "00:22:39"
+      "time": "00:22:39",
+      "description": "Eric Law von Microsoft hat mal ein paar interessante und teils schon bekannte Grenzen des IEs in Sachen Stylesheet-Parsing aufgelistet. Zunächst erscheinen einem die Limits relativ weit weg, andererseits gab es ja auch mal Leute, die behauptet haben, mehr als 64KB Speicher werde nie ein Mensch brauchen. Daher: Holzauge, sei wachsam!"
     },
     {
       "name": "CSS Floats and Positioning Level 3",
       "href": "http://www.interoperabilitybridges.com/css3-floats/",
-      "time": "00:30:28"
+      "time": "00:30:28",
+      "description": "Überraschenderweise haben sich Microsoft und Adobe zusammengetan und eine sehr schöne Erweiterung der Float Techniken für CSS 3 vorgeschlagen, und zwar die Positioned Floats. Dabei wir auf ein Element ein <code>float: positioned;</code> und irgendeine <code>position</code>-Eigenschaft gesetzt, woraufhin anschleißend alles andere um das Element herumfließt. Egal wie und wo es hinpoistioniert wurde. Nett! Außerdem lasst sie die Element-Form per deklarativer Form oder über die Alphamaske eines Bildes beeinflussen."
     },
     {
       "name": "In defense of CSS hacks — introducing “safe CSS hacks”",
       "href": "http://mathiasbynens.be/notes/safe-css-hacks",
-      "time": "00:42:17"
+      "time": "00:42:17",
+      "description": "Mathias Bynens hat mal eine sehr schöne Auflistung verschiedener sinnvoller/etablierter CSS-Weichen für die IEs zusammengestellt. Dabei geht es um verschiedene Verfahren auf Conditional Comments Basis, sowie um klassische Parserhacks und was da zu bedenken ist. Mit Vor- und Nachteilen. Bei den HTML5 Boilerplate machern hat der Artikel zu <a href=\"https://github.com/paulirish/html5-boilerplate/issues/378\">hektischer Betriebsamkeit</a> <a href=\"https://github.com/paulirish/html5-boilerplate/commit/e5e057\">geführt</a>, weil nämlich die dort praktizierte Variante ein paar der aufgelisteten <a href=\"http://nicolasgallagher.com/better-conditional-classnames-for-hack-free-css/\">Schönheitsfehler</a> hatte. Jens und ich waren uns aber einig, dass die das bestimmt bald wieder zurückstellen werden. Außerdem hat Jens darüber auch <a href=\"http://grochtdreis.de/weblog/2011/05/20/die-richtige-hack-strategie/\">gebloggt</a>."
     },
     {
       "name": "Holmes – The CSS Markup Detective",
       "href": "http://www.red-root.com/sandbox/holmes/",
-      "time": "01:03:53"
+      "time": "01:03:53",
+      "description": "Jens muss dieses Tool leider als vollkommen uninnovative Produktkopie entlarven, denn der Macher des Tools hat seine Idee komplett von anderen zusammengeklaut: Und zwar in erster Linie von <a href=\"http://meyerweb.com/eric/tools/css/diagnostics/\">Eric Meyer</a>. Die bereitgestellte Funktionalität erhält man darüberhinaus auch schon lange über die Web Developer Toolbar des Firefox."
     },
     {
       "name": "Hype",
       "href": "http://tumultco.com/hype/features/",
-      "time": "01:11:44"
+      "time": "01:11:44",
+      "description": "Hype ist ein natives OS X Tool von zwei Ex-Apple-Mitarbeitern, mit dem sich CSS3-Webanimationen erstellen lassen. Soweit, so unneu. Allerdings ist Hype anscheinend das erste Tool, das versucht, allen Browsern mit ihren Möglichkeiten gerecht zu werden und von CSS3-Transitions notfalls hin zu klassichen DHTML-Animationen degradiert. Schade ist, dass es nur via Mac App Store zu haben ist und dass es keine Testversion gibt."
     },
     {
       "name": "Der Rauswerfer-Rant: weightwatchers.de: Spaß mit Chrome",
       "href": "http://www.weightwatchers.de/",
-      "time": "01:21:19"
+      "time": "01:21:19",
+      "description": "Jens ist über ein neuzeitliches Kuriosum gestolpert, nämlich eine Seite, die sich noch dem Chrome verweigert und einem stattdessen die Nutzung von IE ab 5.x oder Firefox ab 1.x empfiehlt. Öffnet man die Seite in Chrome, bekommt man überdies hilfreiche Infos wie man <strong>Java</strong> im Firefox aktiviert: &#8220;Extras und dann &#8220;Web-Features&#8221;. Hier wählen Sie &#8220;Java Script aktivieren&#8221;.&#8221; Facepalm!"
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "WebGL Inspector",
       "href": "http://benvanik.github.com/WebGL-Inspector/",
-      "time": "01:31:39"
+      "time": "01:31:39",
+      "description": "Eine Art Firebug für WebGL Aktivitäten"
     },
     {
       "name": "Byte-saving Techniques",
       "href": "https://github.com/jed/140bytes/wiki/Byte-saving-techniques",
-      "time": "01:31:39"
+      "time": "01:31:39",
+      "description": "Verrückte Tricks, mit denen sich Zeichen in JavaScript sparen lässt."
     },
     {
       "name": "jswiki",
       "href": "https://github.com/bebraw/jswiki/wiki",
-      "time": "01:31:39"
+      "time": "01:31:39",
+      "description": "Ein erster Versuch einer Katalogisierung und Kategorisierung der mittlerweile zahllos existierenden JavaScript-Bibliotheken"
     },
     {
       "name": "CSS3 – Information and samples",
       "href": "http://robertnyman.com/css3/",
-      "time": "01:31:39"
+      "time": "01:31:39",
+      "description": "CSS3-zu-Browser-Kompatibilitätstabelle"
     },
     {
       "name": "HTML5 – Information and samples for HTML5 and related APIs",
       "href": "http://robertnyman.com/html5/",
-      "time": "01:31:39"
+      "time": "01:31:39",
+      "description": "HTML5-zu-Browser-Kompatibilitätstabelle"
     },
     {
       "name": "json:select()",
       "href": "http://jsonselect.org/#overview",
-      "time": "01:31:39"
+      "time": "01:31:39",
+      "description": "Eine CSS-artige Selektorsprache, um auf Datensätze in einem JSON-Objekt zuzugreifen."
     }
-  ],
-  "randomSpec": []
+  ]
 }

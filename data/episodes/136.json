@@ -27,39 +27,44 @@
   "href": "http://workingdraft.de/136/",
   "audio": "http://workingdraft.de/podpress_trac/web/2090/0/wd-136.mp3",
   "title": "Smashing Conference und ein moderner Design-Workflow",
+  "description": "Zur Revision 136 war <a href=\"http://www.stn.my/\">Stefan Nitzsche</a> zu Gast, der mit uns ein wenig über seine Projekte und seinen Workflow redete.",
   "topics": [
     {
       "name": "Smashing Conference",
       "href": "http://smashingconf.com/",
-      "time": "00:01:45"
+      "time": "00:01:45",
+      "description": "Stefan war gerade am Tag der Aufnahme bei der Smashing Conference zu Gast und erzählt von den interessanten Vorträgen. Unter anderem hat ihm der Talk von <a href=\"https://twitter.com/lukew\">Luke Wroblewski</a> sehr gut gefallen, der das Thema Mobile Web weiter geführt hat und über eine Zukunft mit mehreren Devices für jede Person spricht und wie uns diese beeinflusst. Dazu sprechen wir unter anderem über <a href=\"http://blogs.windows.com/ie/b/ie/archive/2013/07/17/the-companion-web-the-internet-and-how-we-use-it-is-evolving.aspx\">Microsofts Companion Web</a> und unsere Eindrücke zum Thema."
     },
     {
       "name": "Design-Workflow",
-      "time": "00:22:41"
+      "time": "00:22:41",
+      "description": "Heutzutage ist Design fürs Web nicht einfach nur eben mal eine Photoshop-Datei. Oft genug haben wir über Design um Browser gehört und gesprochen. Wie aber sieht die Realität aus? Und wie gehen Experten wie Stefan die Sache an? Dabei fiel dann auch der Name <a href=\"http://thedoublethink.com/2009/08/tufte%E2%80%99s-principles-for-visualizing-quantitative-information/\">Edward Tufte ob der von ihm geprägten &#8220;Data-Ink Ratio&#8221;</a>."
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "Favicon Cheat Sheet",
       "href": "https://github.com/audreyr/favicon-cheat-sheet",
-      "time": "00:46:41"
+      "time": "00:46:41",
+      "description": "Viele Tips und Tricks, wie man Favicons und Apple-Touch-Icons baut."
     },
     {
       "name": "favico.js",
       "href": "http://lab.ejci.net/favico.js/",
-      "time": "00:46:41"
+      "time": "00:46:41",
+      "description": "favico.js ändert das Favicon client-seitig dynamisch. Ideal für Notifications."
     },
     {
       "name": "Implementing Native Drag and Drop",
       "href": "http://blog.teamtreehouse.com/implementing-native-drag-and-drop",
-      "time": "00:46:41"
+      "time": "00:46:41",
+      "description": "Ein Tutorial, welches beschreibt, wie man cross-browser natives Drag and Drop verwendet."
     },
     {
       "name": "Developer Meetup in Freiburg",
       "href": "http://devsmeetup.de/",
-      "time": "00:46:41"
+      "time": "00:46:41",
+      "description": "Am 27. September veranstaltet Hans wieder ein Developer Meetup in Freiburg. Dieses mal zum Thema &#8220;Backend &#8211; Frontend &#8211; Happy End?&#8221;."
     }
-  ],
-  "randomSpec": []
+  ]
 }

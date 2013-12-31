@@ -30,6 +30,7 @@
   "href": "http://workingdraft.de/2/",
   "audio": "http://workingdraft.de/podpress_trac/web/25/0/revision21.mp3",
   "title": "mod_pagespeed, Sub-Pixel-Positionierung und viel Hall",
+  "description": "Auf meiner Spur ist leider so viel Hall, dass ich zeitweise ernsthaft gezweifelt habe, ob wir die Folge wirklich auf die Öffentlichkeit loslassen sollen. Ihr seid aber hoffentlich schmerzresistent genug, um darüber hinwegzusehen – zumindest dieses mal noch. Ich hoffe, beim nächsten Mal habe ich die Problemquelle ausfindig gemacht. Da sich der Hall geradezu wie berechnet anhört, würde ich sogar vermuten, da hat der böse Steve seine Finger softwareseitig im Spiel …\n\nIn der Premierenfolge hatten wir es noch nicht geschafft, jetzt hat es geklappt. In voller Besetzung haben wir nun auch <em>inklusive <a href=\"http://twitter.com/derSchepp\">Schepp</a></em> gemeinsam unsere minderwertigen Mikrofone beschallt. Googles Apache-Modul mod_pagespeed als Ableger des Browser-Plugins PageSpeed, Web-Applikationen versus Browser-Applikationen, Featuredetection-basiertes Nachladen von Polyfills, Hardwarebeschleunigung in Chrome, Sub-Pixel-genaue Positionierung von Schrift im IE9, Adobes Bemühungen um Webtypografie und serverseitiges Canvas waren unsere Themen.",
   "topics": [
     {
       "name": "mod_pagespeed",
@@ -83,8 +84,5 @@
       "name": "CRE167: node.js",
       "href": "http://chaosradio.ccc.de/cre167.html"
     }
-  ],
-  "news": [],
-  "links": [],
-  "randomSpec": []
+  ]
 }

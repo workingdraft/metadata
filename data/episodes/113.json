@@ -23,75 +23,89 @@
   "href": "http://workingdraft.de/113/",
   "audio": "http://workingdraft.de/podpress_trac/web/1868/0/wd-113.mp3",
   "title": "jQuery vom CDN und Resize Events auf DOM Elementen",
+  "description": "Hans und Rod gaben sich zu Zweit die Ehre &#8211; können ja nicht alle arbeiten oder Häuser kaufen…",
   "topics": [
     {
       "name": "jQuery vom CDN – oder nicht?",
       "href": "http://www.stevesouders.com/blog/2013/03/18/http-archive-jquery/",
-      "time": "00:01:51"
+      "time": "00:01:51",
+      "description": "Steve Souders &#8211; der Papst der Web Performance &#8211; hat mal wieder geprüft wie jQuery denn auf Webseiten eingesetzt wird. Hans betet ein paar unverständliche Zahlen herunter und Rod findet CDNs nicht so toll. Am Ende kommt es immer noch drauf an was man da eigentlich macht. Wie immer halt."
     },
     {
       "name": "Resize Event für DOM Elemente",
       "href": "http://www.backalleycoder.com/2013/03/18/cross-browser-event-based-element-resize-detection/",
-      "time": "00:17:22"
+      "time": "00:17:22",
+      "description": "Wir erfreuen uns an einer Cross-Browser-Lösung für das Ermitteln von Größenänderungen von einzelnen Elementen im DOM. Etwas nutzerfreundlicher wäre die Kapselung in jQuery&#8217;s Special Events &#8211; weitere Infos dazu haben <a href=\"http://benalman.com/news/2010/03/jquery-special-events/\">Ben Alman</a> und <a href=\"http://learn.jquery.com/events/event-extensions/\">learn jQuery</a>."
     }
   ],
   "news": [
     {
       "name": "Backbone.js 1.0 ist da.",
       "href": "http://ashkenas.com/backbonejs-1.0/",
-      "time": "00:00:18"
+      "time": "00:00:18",
+      "description": "… und bringt Unterstützung für HTTP <code>PATCH</code>, einfacheres Event Handling und vielen anderen kleinen Verbesserungen."
     },
     {
       "name": "IE10 (Metro) mag Flash",
       "href": "http://news.cnet.com/8301-1023_3-57573755-93/microsoft-backs-away-from-flash-ban-in-ie10/",
-      "time": "00:00:18"
+      "time": "00:00:18",
+      "description": "Im Hause Microsoft ruderte man zurück: Aus der Whiteliste (explizite Freigabe) für Flash im IE10 via Metro wurde nun eine Blackliste (explizites Verbot)."
     },
     {
       "name": "IE11 ist like Gecko",
       "href": "http://mobilism.nl/blog/2013/03/ie11-to-disguise-itself",
-      "time": "00:00:18"
+      "time": "00:00:18",
+      "description": "Der IE10 brach mit den Conditional Comments, der IE11 bricht mit dem User Agent String &#8211; Microsoft kappt die Verbindungen zu seiner düsteren Internet Vergangenheit."
     }
   ],
   "links": [
     {
       "name": "Chart.js",
       "href": "http://www.chartjs.org/",
-      "time": "00:40:10"
+      "time": "00:40:10",
+      "description": "… zeichnet schöne Diagramme in die <code>&lt;canvas&gt;. Wem das zu puristisch ist und SVG sowieso viel besser steht, schaue sich <a href=\"http://highcharts.com/\">HighCharts</a> an.</code>"
     },
     {
       "name": "Unifying Touch and Mouse",
       "href": "http://blogs.msdn.com/b/davrous/archive/2013/02/20/handling-touch-in-your-html5-apps-thanks-to-the-pointer-events-of-ie10-and-windows-8.aspx",
-      "time": "00:40:10"
+      "time": "00:40:10",
+      "description": "Microsoft erklärt uns wie unsere Web Apps mit seiner <a href=\"http://www.w3.org/TR/pointerevents/\">Pointer Events API</a> spielen dürfen."
     },
     {
       "name": "Superhero.js",
       "href": "http://superherojs.com/",
-      "time": "00:40:10"
+      "time": "00:40:10",
+      "description": "… ist eine exzellente Sammlung an Artikeln über professionelle JavaScript-Entwicklung."
     },
     {
       "name": "Drawscript",
       "href": "http://drawscri.pt/",
-      "time": "00:40:10"
+      "time": "00:40:10",
+      "description": "… ist ein Illustrator Plugin, das Vektor-Grafiken in allen möglichen und unmöglichen Textformaten ausgeben kann."
     },
     {
       "name": "The Short Cutts",
       "href": "http://www.theshortcutts.com/",
-      "time": "00:40:10"
+      "time": "00:40:10",
+      "description": "… ist eine Aufstellung von SEO Videos von Googles Matt Cutts."
     },
     {
       "name": "WebPlatformTools",
       "href": "http://webplatformtools.org/",
-      "time": "00:40:10"
+      "time": "00:40:10",
+      "description": "… kennt eine ganze Menge von nützlichen Tools"
     },
     {
       "name": "Discover DevTools",
       "href": "http://discover-devtools.codeschool.com/",
-      "time": "00:40:10"
+      "time": "00:40:10",
+      "description": "Paul Irish hat eine Reihe von Videos zur Nutzung der Chrome&#8217;schen DevTools bereitgestellt."
     },
     {
       "name": "Printing The Web",
       "href": "http://drublic.de/blog/printing-the-web/",
-      "time": "00:40:10"
+      "time": "00:40:10",
+      "description": "Hans schrieb über CSS Print Styles."
     }
   ],
   "randomSpec": []

@@ -37,50 +37,57 @@
   "href": "http://workingdraft.de/57/",
   "audio": "http://workingdraft.de/podpress_trac/web/1004/0/wd-57.mp3",
   "title": "IDBExplorer, Gradient Syntax & Wrap.js",
+  "description": "Da eine leere Themenliste mit vollen Todo-Listen der gesamten Teams korrelierte, ließen Schepp, Hans, Kahlil und Peter eine Woche ausfallen, nur dann umso nerdiger zuzuschlagen.",
   "topics": [
     {
       "name": "IE10 Compat Inspector",
       "href": "http://blogs.msdn.com/b/ie/archive/2012/01/20/ie10-compat-inspector.aspx",
-      "time": "00:00:16"
+      "time": "00:00:16",
+      "description": "Falls ihr Sorge hat, dass eure IE9-optimierte Webseite nicht im IE10 funktionieren könnte, hilft euch dieses Migrations-Tool. Jup, das ist genau so nötig wie ihr euch jetzt gerade denkt."
     },
     {
       "name": "IDBExplorer",
       "href": "http://blogs.msdn.com/b/ie/archive/2012/01/25/debugging-indexeddb-applications.aspx",
-      "time": "00:05:50"
+      "time": "00:05:50",
+      "description": "Ein paar Microsoft-Programmierer haben das UI-Design-Team deportiert und dann heimlich ein Interface für <a href=\"http://www.w3.org/TR/IndexedDB/\">Indexed Database</a> gebaut. Das sieht zwar selbst nach den Maßstäben eines DB-Interfaces grauslig aus, aber wir unterstellen mal, dass es funktioniert und honorieren den guten Willen. Wer IndexedDB tatsächlich benutzen möchte, dem sei der <a href=\"https://github.com/jensarps/IDBWrapper\">IDBWrapper</a> zwecks Browservereinheitlichung empfohlen."
     },
     {
       "name": "Pik6",
       "href": "http://pik6.peterkroener.de/",
-      "time": "00:10:55"
+      "time": "00:10:55",
+      "description": "Ein weiteres HTML5-Präsentationsframework. Gähn! Allerdings hat dieses Exemplar zwei Vorteile: es stammt aus der Feder von Peter und als ob das noch nicht überzeugend genug wäre, bietet es obendrein noch einen Presenter Mode!"
     },
     {
       "name": "Wieder eine neue Gradient-Syntax! WTF?",
       "href": "http://www.w3.org/TR/css3-images/",
-      "time": "00:17:07"
+      "time": "00:17:07",
+      "description": "Nachdem ich sich alle Browser auf eine einheitliche Syntax für CSS3-Farbverläufe geeinigt haben kommt nun das W3C daher und spezifiziert nochmal Neuerungen. Die finden wir zwar im Prinzip gut, aber ganz ehrlich&#8230; muss das sein?"
     },
     {
       "name": "Jekyll Bootstrap",
       "href": "http://jekyllbootstrap.com/",
-      "time": "00:29:20"
+      "time": "00:29:20",
+      "description": "Wem WordPress nicht nerdig genug ist, der bloggt mit <a href=\"http://jekyllrb.com/\">Jekyll</a>, das aus einfachem Text mundgerechtes HTML produziert. Jekyll Bootstrap ist ein Framework, das den Weg zum nerdigen Blog etwas ebnet, Motto: <q>Zero to Hosted Jekyll Blog in 3 Minutes</q>. Wer sein CMS zwar auch gerne klein, aber nicht so nerdig haben mag, dem empfehlen wir <a href=\"http://getkirby.com\">Kirby</a>."
     },
     {
       "name": "Wrap.js",
       "href": "https://github.com/geddesign/wrap.js",
-      "time": "00:42:53"
+      "time": "00:42:53",
+      "description": "Ein Wrapper, der herkömmlichen JS-Code im Autopiloten-Modus in AMD-Module verwandelt. Nützlich für Dependency Management."
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "PolyClip",
       "href": "http://www.useragentman.com/blog/2011/10/29/clipping-jpeg-images-into-non-rectangular-polygons-using-polyclip-js/",
-      "time": "00:46:45"
+      "time": "00:46:45",
+      "description": "Alphakanäle für JPGs? Kein Problem mit polyclip.js und etwas HTML5-Magie."
     },
     {
       "name": "Hogan.js",
       "href": "http://twitter.github.com/hogan.js/",
-      "time": "00:46:45"
+      "time": "00:46:45",
+      "description": "Eine JavaScript-Templatingengine aus dem Hause Twitter, die durch ihre Geschwindigkeit überzeugt."
     }
-  ],
-  "randomSpec": []
+  ]
 }

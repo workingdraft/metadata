@@ -42,65 +42,75 @@
   "href": "http://workingdraft.de/70/",
   "audio": "http://workingdraft.de/podpress_trac/web/1195/0/wd-70.mp3",
   "title": "JS Styleguides, Barrierefreiheit & Web Intents",
+  "description": "Wir möchten auch noch einmal auf unseren <a href=\"http://www.livestream.com/workingdraft\">Live-Stream</a> und den <a href=\"http://webchat.freenode.net/?channels=workingdraft\">IRC-Chat auf Freenode im Channel #workingdraft</a> hinweisen. Wir sind immer montags ab 20 Uhr live, wenn nicht anders angekündigt. Die neusten Infos gibt&#8217;s immer auf <a href=\"https://twitter.com/#!/workingdraft\">Twitter</a> und bei <a href=\"https://plus.google.com/100063817839650840647/posts\">Google+</a>.\n\nAls Gast war diesmal wieder <a href=\"http://frederic-hemberger.de/\">Frederic Hemberger</a> am Start, der uns immer gerne mit seinem Fachwissen zur Seite steht.",
   "topics": [
     {
       "name": "JavaScript Styleguides",
       "href": "http://addyosmani.com/blog/javascript-style-guides-and-beautifiers/",
-      "time": "00:00:18"
+      "time": "00:00:18",
+      "description": "Addy Osmani befasst sich mit Programmierrichtlinien in JavaScript. Er führt dabei <a href=\"https://github.com/rwldrn/idiomatic.js/\">idiomatic.js</a>, den <a href=\"http://docs.jquery.com/JQuery_Core_Style_Guidelines\">jQuery Core Style Guide</a> und viele weitere Best Practices an, die wir diskutieren. Hans hat über seine persönlichen Richtlinien in HTML und CSS <a href=\"http://drublic.de/blog/my-coding-style-and-guidelines/\">einen Post geschrieben</a>.<br>\nAußerdem sprechen wir über Ben “Cowboy” Almans <a href=\"http://benalman.com/news/2012/05/multiple-var-statements-javascript/\">Blogpost</a> zum Thema <code>var</code>-Deklarationen.\n"
     },
     {
       "name": "Barrierefreiheit und die Beschwerdekultur im Internet",
       "href": "http://www.oliveira-online.net/wordpress/index.php/2012/05/01/barrierefreiheit-und-die-beschwerdekultur-im-internet/",
-      "time": "00:19:00"
+      "time": "00:19:00",
+      "description": "Domingos de Oliveira findet es schade, dass Accessibility-Experten sich aufregen, wenn Webseiten nicht perfekt zugänglich sind; sie sollten lieber mal die Dinge loben, die überhaupt gemacht werden. Marco Zehe gibt <a href=\"https://www.youtube.com/watch?v=QBcV00ZLYDA\">mit seinem MMT Talk</a> einen guten Einblick, was es für Sehbehinderte Menschen bedeutet, Barrierefreiheit zu genießen."
     },
     {
       "name": "A Step for Open Sharing: AddThis Integrates Web Intents",
       "href": "http://www.addthis.com/blog/2012/05/01/a-step-for-open-sharing-addthis-integrates-web-intents/",
-      "time": "00:35:20"
+      "time": "00:35:20",
+      "description": "Zum Thema Web Intents: Was ist <a href=\"http://webintents.org/\">das eigentlich</a>? Und nutzt das jemand?<br>\nAddThis integriert Web Intents mit Fallback und schreibt darüber. Sieht vielversprechend aus!"
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "Videos vom MMT29",
       "href": "http://www.youtube.com/watch?v=jZeiZIAjlAk",
-      "time": "00:44:28"
+      "time": "00:44:28",
+      "description": "So langsam gehen die Videos vom MMT 29 in Köln online. Hier findet ihr zum beispiel Peters."
     },
     {
       "name": "The Web Platform: Browser Technologies",
       "href": "http://platform.html5.org/",
-      "time": "00:44:28"
+      "time": "00:44:28",
+      "description": "Schöne Übersicht über die einzelen Specs, Caniuse/MDN-Links, etc."
     },
     {
       "name": "Die neue Git-Homepage",
       "href": "https://github.com/blog/1125-new-git-homepage",
-      "time": "00:44:28"
+      "time": "00:44:28",
+      "description": "GitHub hat eine neue Präsentationswebseite mit Dokumentation für Git erstellt."
     },
     {
       "name": "Node WebKit Agent",
       "href": "https://github.com/c4milo/node-webkit-agent",
-      "time": "00:44:28"
+      "time": "00:44:28",
+      "description": "Die WebKit Developer-Tools für Node."
     },
     {
       "name": "Backbone.js CRUD Application",
       "href": "http://coenraets.org/blog/2012/05/single-page-crud-application-with-backbone-js-and-twitter-bootstrap/",
-      "time": "00:44:28"
+      "time": "00:44:28",
+      "description": "Eine Single-Page <a href=\"http://de.wikipedia.org/wiki/CRUD\">CRUD</a> Application mit Backbone.js und Twitter Bootstrap."
     },
     {
       "name": "Bessere Performance mit element.classList",
       "href": "https://plus.google.com/113127438179392830442/posts/APArpwWqew3",
-      "time": "00:44:28"
+      "time": "00:44:28",
+      "description": "Mr. Paul Irish zeigt, wie man die Performance von bspw. Animationen mit <code>element.classList</code> drastisch verbessern kann."
     },
     {
       "name": "Cross-Browser Fullscreen API",
       "href": "https://github.com/sindresorhus/screenfull.js",
-      "time": "00:44:28"
+      "time": "00:44:28",
+      "description": "Sindre Sorhus hat einen Wrapper für die Fullscreen API gebaut, der auf allen browsern funktioniert, die die Fullscreen API supporten."
     },
     {
       "name": "G+-Zirkelteiler mit nur JS-Menschen",
       "href": "https://plus.google.com/114636678211810483111/posts/5gCXuXiWuLD",
-      "time": "00:44:28"
+      "time": "00:44:28",
+      "description": "Für alle, die noch nicht genug Leute eingekreist haben."
     }
-  ],
-  "randomSpec": []
+  ]
 }

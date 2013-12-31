@@ -30,65 +30,75 @@
   "href": "http://workingdraft.de/52/",
   "audio": "http://workingdraft.de/podpress_trac/web/945/0/wd-52.mp3",
   "title": "Android 4.0, Webvideo & CoffeeScript",
+  "description": "Nach seiner Endjahres-Ochsentour, endlich mal wieder eine Revision mit <a href=\"http://twitter.com/#!/sirpepe\">Peter</a>. Außerdem dabei <a href=\"http://twitter.com/#!/kahlillechelt\">Kahlil</a> und <a href=\"http://twitter.com/#!/derSchepp\">Schepp</a>. Hierüber reden wir:",
   "topics": [
     {
       "name": "Dabblet",
       "href": "http://dabblet.com/",
-      "time": "00:00:11"
+      "time": "00:00:11",
+      "description": "Ein JSFiddle für CSS, mit GitHub-Gist-Anbindung, von Lea Verou"
     },
     {
       "name": "Auto-saving CSS And JavaScript Changes Locally From The Chrome Developer Tools",
       "href": "http://addyosmani.com/blog/autosave-changes-chrome-dev-tools/",
-      "time": "00:10:55"
+      "time": "00:10:55",
+      "description": "Eine Chrome-Erweiterung und eine lokale Node.js-Instanz machen es zusammen möglich, JS- und CSS-Änderungen, die man in den Chrome DevTools vornimmt, sofort lokal und dauerhaft ins Projekt zu übernehmen."
     },
     {
       "name": "Android—Ice Cream Sandwich: The HTML5 Developer Scorecard",
       "href": "http://www.sencha.com/blog/galaxy-nexus-the-html5-developer-scorecard/",
-      "time": "00:17:46"
+      "time": "00:17:46",
+      "description": "Die Sencha Labs haben den Fähigkeiten des neuen Android-Browsers auf den Zahn gefühlt. Er ist ganz gut, zieht aber nie und nimmer an iOS 5 vorbei. Wir gehen außerdem noch auf einen Bug in den älteren Android Browsern ein, die zwar behaupten, CSS Animationen zu können, <a href=\"http://daneden.me/2011/12/putting-up-with-androids-bullshit/\">dabei allerdings schwer patzen</a>. Während unseres Gesprächs fällt der Hinweis auf <a href=\"http://socket.io/\">Socket.IO</a>"
     },
     {
       "name": "Internet Explorer – Microsoft führt automatische Updates ein",
       "href": "http://www.golem.de/1112/88460.html",
-      "time": "00:28:16"
+      "time": "00:28:16",
+      "description": "LOL. ROFL. Nicht in diesem Leben!"
     },
     {
       "name": "Zwei kostenfreie Codecs kandidieren für MPEG-Standard",
       "href": "http://www.heise.de/ix/meldung/Zwei-kostenfreie-Codecs-kandidieren-fuer-MPEG-Standard-1393341.html",
-      "time": "00:28:35"
+      "time": "00:28:35",
+      "description": "Nachdem vor knapp einem Jahr die MPEG-Arbeitsgruppe der ISO mit dem Auswahlverfahren für einen lizenzkostenfreien Codec für Webvideo begonnen hatte, sind jetzt zwei Produkte in die engere Wahl gekommen: IVC und WebVC."
     },
     {
       "name": "Speed Tracer",
       "href": "http://code.google.com/intl/de-DE/webtoolkit/speedtracer/",
-      "time": "00:38:46"
+      "time": "00:38:46",
+      "description": "Eine Extension für den Chrome aus dem Deveoper Channel, die einem in einer Timeline-Kurve genau aufzeigt, wann der Browser wie lange womit beschäftigt ist. Und Tipps gibt."
     },
     {
       "name": "Should You Learn CoffeeScript?",
       "href": "http://net.tutsplus.com/articles/interviews/should-you-learn-coffeescript/",
-      "time": "00:45:16"
+      "time": "00:45:16",
+      "description": "Eine Sammlung von Argumenten, warum man sich mit CoffeeScript beschäftigen könnte. U.a. weil ECMAScript 6 sich davon inspirieren ließ, <a href=\"http://blip.tv/jsconfeu/brendan-eich-loljs-5656862\">wie JavaScript-Erfinder Brandon Eich auf der JSConf.eu erzählte</a>."
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "Videos des MMT29 – HTML5, CSS3 & Co vom 03.12.2011",
       "href": "http://www.youtube.com/multimediatreff",
-      "time": "00:56:24"
+      "time": "00:56:24",
+      "description": "Hier findet Ihr die Vorträge von Patrick Lauke, Peter (Kröner), Sven Wolfermann, Adobe, Mathias Schäfer, Sebastian Golasch, Marco Zehe, Alois Reitbauer und Microsoft zu den Themen: HTML5, CSS3, Flash, JavaScript, Node.js, WAI-ARIA, Web Performance Optimization und ASP.net MVC 4."
     },
     {
       "name": "Tutorial zum Verwenden von Backbone.js mit AMD",
       "href": "http://backbonetutorials.com/organizing-backbone-using-modules/",
-      "time": "00:56:24"
+      "time": "00:56:24",
+      "description": "Quasi eine Followup-Link zur letzten Revision über AMD."
     },
     {
       "name": "HTML 5 Canvas Deep Dive",
       "href": "http://projects.joshy.org/presentations/HTML/CanvasDeepDive/presentation.html",
-      "time": "00:56:24"
+      "time": "00:56:24",
+      "description": "Tutorial zur HTML5 Canvas."
     },
     {
       "name": "Better error handling with window.onerror",
       "href": "http://dev.opera.com/articles/view/better-error-handling-with-window-onerror/",
-      "time": "00:56:24"
+      "time": "00:56:24",
+      "description": "Was man alles mit dem neuen window.onerror-Event treiben kann."
     }
-  ],
-  "randomSpec": []
+  ]
 }

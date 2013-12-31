@@ -34,70 +34,81 @@
   "href": "http://workingdraft.de/28/",
   "audio": "http://workingdraft.de/podpress_trac/web/611/0/wd-28.mp3",
   "title": "Niemand hat Lion oder iOS 5",
+  "description": "Nach zweiwöchiger Abstinenz melden wir uns mit einer rekordverdächtigen Folge zurück: Vier Mann füllen knapp zwei Stunden Hörmaterial. Das liegt unter anderem daran, dass wir uns am Ende auch einer Betrachtung des Verhältnisses der Deutschen zum Internet widmen. Ihr wisst schon: Netzabdeckung, Cyberabwehrzentrum, freie WLANs, Kinderpornos und so. Zu Gast war diesmal <a href=\"http://twitter.com/#!/derCemDerin\">Cem Derin</a>. Mehr von ihm hört in seinem <a href=\"http://shitstorm.cemderin.net/\">Podcast</a> oder seht Ihr auf <a href=\"http://shitstorm.cemderin.net/termine/\">Offenen Bühnen Events</a>.",
   "topics": [
     {
       "name": "jsmad",
       "href": "http://jsmad.org/",
-      "time": "00:00:55"
+      "time": "00:00:55",
+      "description": "Peter freut sich über das Erscheinen von jsmad, weil es seine Vermutung bestätigt, dass die Webworkerschaft das Problem fehlender Audio- und Video-Unterstützung durch HTML5-basierte Ports beheben kann. Auch wenn das vielleicht nicht unbedingt so performant ist wie eine native Unterstützung seitens des Browsers."
     },
     {
       "name": "Lazy HTML Evaluation",
       "href": "http://www.phpied.com/lazy-html-evaluation/",
-      "time": "00:06:35"
+      "time": "00:06:35",
+      "description": "Ein Performance-Kniff, auf <a href=\"http://calendar.perfplanet.com/2010/html-lazy-load/\">den letztes Jahr Sergey Chikuyonok gekommen ist</a> verpackt das HTML einer Seite so, dass es vom Browser zunächst nicht vollständig ausgewertet und damit gezeichnet werden muss. Wenn der Browser auf die Weise nur den oberen, als erstes sichtbaren Teil der Seite zeichnen muss, dann ist sie schneller da (vor allem bei mobilen Browsern). Bewerkstelligen tut man das, indem man den Rest des HTML abschnittsweise in Kommentare verpackt und die Kommentare nach dem Laden erst Stück für Stück freigibt. Sowas ähnliches gibt es auch für <a href=\"http://blog.sproutcore.com/cut-your-javascript-load-time-90-with-deferred-evaluation/\">JavaScript</a>."
     },
     {
       "name": "iOS 5- und Lion-Scrollgeschichten",
       "href": "http://davidbcalhoun.com/2011/new-mobile-safari-stuff-in-ios5-position-fixed-overflow-scroll-new-input-type-support-web-workers-ecmascript-5",
-      "time": "00:15:11"
+      "time": "00:15:11",
+      "description": "Neben <code>postion: fixed</code> und <a href=\"http://www.kombinat-typefounders.com/store/catalog/article/woff_support\">WOFF-Support</a> und einigen weiteren Dingen, bringen *NDA hüstel* Mac OS X Lion und iOS 5 neue Formen des Scrollens. iOS 5 nun endlich auch bei HTML-Boxcontainern mit <code>overflow: scroll</code>. Markus, Titelverteidiger &#8220;Detailverliebtester Webentwickler von Murr&#8221;, befragte Cem (der natürlich *NDA hüstel* kein iOS 5 oder Lion besitzt) zu der genauen Umsetzungsform derselben aus."
     },
     {
       "name": "Google Instant Pages",
       "href": "http://www.youtube.com/watch?v=_Jn93FDx9oI",
-      "time": "00:23:23"
+      "time": "00:23:23",
+      "description": "Nach SPDY führt Google ein neues Feature ein, dass in der Kombination Google-Service + Chrome-Browser funktioniert: Das Google Instant Pages Feature bei der Google Suche. Diese stößt über ein spezielles HTML-Tag ein vollständiges Laden und Rendern des wahrscheinlich vom User angeklickten Suchergebnisses an, so dass die Seite dann im Chrome sofort da ist. Bewerkstelligt wird das über eine <code>&lt;link rel=\"prerender\" href=\"xxx.yy\" /&gt;</code>-Anweisung in der vorgelagerten Seite. Anders als bei der altbekannten Variante <code>prefetch</code> wird aber nicht nur eine einzelne Ressource, sondern es werden alle daran geknüpften geladen und die Seite im Verborgenen auch schon gerendert. Wir diskutieren, was das für Vor- und Nachteile hat."
     },
     {
       "name": "Responsive Images",
       "href": "https://github.com/filamentgroup/Responsive-Images",
-      "time": "00:44:09"
+      "time": "00:44:09",
+      "description": "Durch eine <a href=\"http://blog.keithclark.co.uk/responsive-images-using-cookies/\">Artikel von Keith Clark</a> sind wir auf das Thema Responsive Images gekommen und diskutieren die verschiedenen Wege, wie man mit den heutigen Techniken Größen-angepasste Ressourcen an die diversen Kleingeräte ausliefern kann."
     },
     {
       "name": "Markus regt sich über Web-Storage-Events auf!",
       "href": "http://dev.w3.org/html5/webstorage/#the-storage-event",
-      "time": "00:59:52"
+      "time": "00:59:52",
+      "description": "&#8230; denn sie feuern immer anders als man denkt. Da kann ihm auch unser HTML5-Beauftragter Peter nicht ganz aus der Patsche helfen."
     },
     {
       "name": "Deutschland ist Internet-Entwicklungsland",
       "href": "http://grochtdreis.de/weblog/2011/06/01/deutschland-ist-internet-entwicklungsland/",
-      "time": "01:09:15"
+      "time": "01:09:15",
+      "description": "Wir nehmen Jens&#8217; Blogbeitrag zum Anlass, einen Kollektivrant bzgl. der mehr schlechten als rechten Internetversorgungssituation hier in Deutschland auf den Weg zu bringen. Es krankt am Netzausbau, an hohen Kosten, an der praxisfremden Politikern sowie an kontraproduktiven Gerichtsurteilen. Das neue, hihi, <a href=\"http://neusprech.org/cyber-abwehrzentrum/\">Cyberabwehrzentrum</a>, <a href=\"http://www.danisch.de/blog/2011/06/16/warum-das-neue-cyber-abwehrzentrum-der-bundesregierung-so-nicht-funktioniert/\">mit seinem Minibudget und 10 Mitarbeitern</a>, nehmen wir uns dabei natürlich auch vor. Nicht zuletzt wünschen wir uns mehr freie öffentliche WLANs und mehr von so Diensten wie <a href=\"http://www.fon.com/de\">FON</a>, <a href=\"http://www.freifunk.net/\">Freifunk</a> oder <a href=\"http://www.sofanet.de/\">Sofanet</a>. Aber die <a href=\"http://www.heise.de/artikel-archiv/ct/2011/10/170_kiosk\">rechtliche Situation ist eben kompliziert</a>."
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "SubtlePatterns.com",
       "href": "http://subtlepatterns.com/",
-      "time": "01:51:12"
+      "time": "01:51:12",
+      "description": "Sammlung, angenehm hochwertiger Hintergrundmuster."
     },
     {
       "name": "A fresh look at JavaScript mixins",
       "href": "http://javascriptweblog.wordpress.com/2011/05/31/a-fresh-look-at-javascript-mixins/",
-      "time": "01:51:12"
+      "time": "01:51:12",
+      "description": "Artikel darüber, wie man JavaScript-Code-Teile optimal an verschiedenen anderen Stellen aufgreifen kann."
     },
     {
       "name": "Trimage",
       "href": "http://trimage.org/",
-      "time": "01:51:12"
+      "time": "01:51:12",
+      "description": "Toller Bildoptimierer mit GUI, den es für alle Betriebssysteme gibt."
     },
     {
       "name": "How, When, And Why Script Loaders Are Appropriate",
       "href": "http://msdn.microsoft.com/en-us/scriptjunkie/hh227261.aspx",
-      "time": "01:51:12"
+      "time": "01:51:12",
+      "description": "Ein Artikel darüber, wann der Einsatz von Scriptloadern angebracht ist, und wann nicht."
     },
     {
       "name": "Visual Event",
       "href": "http://www.sprymedia.co.uk/article/Visual+Event",
-      "time": "01:51:12"
+      "time": "01:51:12",
+      "description": "Bookmarklet, das alle Elemente einer Seite, die mit Events belegt sind, mit entsprechenden Symbolen überlagert. Zum Analysieren: Super!"
     }
-  ],
-  "randomSpec": []
+  ]
 }

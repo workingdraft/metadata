@@ -38,46 +38,53 @@
   "href": "http://workingdraft.de/145/",
   "audio": "http://workingdraft.de/podpress_trac/web/2156/0/wd-145.mp3",
   "title": "Dezentralisierung und Hoodie",
+  "description": "Eine weitere Sendung mit Besonderheiten und tollen Gästen: <a href=\"http://getkirby.com/\">Kirby</a>-Papa <a href=\"http://bastianallgeier.com/\">Bastian Allgeier</a> und <a href=\"http://hood.ie/\">Hoodie</a>-Mitentwickler <a href=\"http://alexfeyerke.com/\">Alex Feyerke</a> waren diesmal mit von der Partie.",
   "topics": [
     {
       "name": "Grand Decentral Station",
       "href": "http://decentralize.it/",
-      "time": "00:02:09"
+      "time": "00:02:09",
+      "description": "Unser Gast Bastian erzählt zu seinem neuen Projekt Grand Decentral Station, über das er auf der <a href=\"http://vimeo.com/78798346\">border:none</a> sprach, bei dem es darum geht <a href=\"http://getkirby.com/blog/lets-build-a-better-web\">ein besseres, freies Web zu etablieren</a>. Die Idee spielt im gleiche Spektrum wie <a href=\"http://aralbalkan.com/notes/the-missing-quadrant-of-consumer-technology/\">Aral Balkans Quadranten</a> und <a href=\"http://aralbalkan.com/notes/codename-prometheus/\">Projekt Prometheus</a> und hat als These, dass das Netz zwischen Zentralisierung und Dezentralisierung oszilliert. Darauf kam Bastian über seine Arbeit an <a href=\"http://zootool.com/\">Zootool</a>, bei dem er viel Verantwortung für die Daten Dritter hat. Mehr zum Thema gibt es im <a href=\"https://github.com/grand-decentral-station/concept/\">Starting Point</a> zu GDS zu lesen."
     },
     {
       "name": "Hood.ie",
       "href": "http://hood.ie/",
-      "time": "00:30:13"
+      "time": "00:30:13",
+      "description": "Der zweite Gast, Alex, erklärt das <a href=\"https://github.com/hoodiehq\">Open Source Projekt Hoodie</a>: Eine Library für schnell gebaute Data-Driven-Webapps, die komplett im Front-end geschrieben werden und den Ansatz Offline-First verfolgen. Peters erste Versuche mit Hoodie waren ziemlich schnell erfolgreich und Alex beschreibt, wie sie eine komplette <a href=\"http://css-tricks.com/examples/EditableInvoice/\">Invoicing App</a> in einem Samstags-Hack geschrieben haben. Und nicht nur Hoodies Gegenwart ist interessant, sondern auch die Zukunft: geplant ist Sharing/Public Data, Payments und einiges mehr."
     }
   ],
   "news": [
     {
       "name": "IE11 für Windows 7",
       "href": "http://blogs.msdn.com/b/ie/archive/2013/11/07/ie11-for-windows-7-globally-available-for-consumers-and-businesses.aspx",
-      "time": "00:01:45"
+      "time": "00:01:45",
+      "description": "Den Internet Explorer 11 gibt es nun auch für Windows 7."
     }
   ],
   "links": [
     {
       "name": "CSS Shapes",
       "href": "http://sarasoueidan.com/blog/css-shapes/index.html",
-      "time": "00:56:00"
+      "time": "00:56:00",
+      "description": "Ein Rundum-Schlag zum Thema CSS Shapes."
     },
     {
       "name": "cite and blockquote – reloaded",
       "href": "http://html5doctor.com/cite-and-blockquote-reloaded/",
-      "time": "00:56:00"
+      "time": "00:56:00",
+      "description": "Mit HTML5 bekommt das Zitieren in Markup eine ganz neue Bedeutung. Alle Infos dazu haben die HTML5 Doktoren."
     },
     {
       "name": "Icon fonts, unicode ranges, and IE8’s compatibility mode",
       "href": "http://adactio.com/journal/6555/",
-      "time": "00:56:00"
+      "time": "00:56:00",
+      "description": "Jeremy Keith setzt sich mit dem Thema Unicode Ranges für Icons näher auseinander."
     },
     {
       "name": "Why We Need Responsive Images: Part Deux",
       "href": "http://timkadlec.com/2013/11/why-we-need-responsive-images-part-deux/",
-      "time": "00:56:00"
+      "time": "00:56:00",
+      "description": "Noch mehr Gründe, warum wir Responsive Images brauchen."
     }
-  ],
-  "randomSpec": []
+  ]
 }

@@ -27,42 +27,49 @@
   "href": "http://workingdraft.de/14/",
   "audio": "http://workingdraft.de/podpress_trac/web/329/0/wd-14.mp3",
   "title": "Hashbangs, PhantomJS und Github-Gene",
+  "description": "Die große Seuche grassierte wieder. Peter strich die Segel und Schepp griff schon nach der weißen Flagge. Eine Viertel Stunde vor offiziellem Aufnahmetermin holten wir uns dann als Verstärkung wieder <a href=\"http://twitter.com/mademyday\">Marc Hinse</a> ins Boot. Vielen Dank nochmals dafür!",
   "topics": [
     {
       "name": "Breaking the Web with hash-bangs",
-      "href": "http://isolani.co.uk/blog/javascript/BreakingTheWebWithHashBangs"
+      "href": "http://isolani.co.uk/blog/javascript/BreakingTheWebWithHashBangs",
+      "description": "<a href=\"http://code.google.com/web/ajaxcrawling/docs/getting-started.html\">Google</a> sieht das Hashbang als Flickzeug für den Übergang zu <a href=\"http://html5demos.com/history\">eleganteren Lösungen</a> im ajaxifizierten Web. Twitter hat <a href=\"http://www.adequatelygood.com/2011/2/Thoughts-on-the-Hashbang\">angeblich</a> schon eine Version von #newtwitter, welche die History API nutzt. Wer nun allerdings das Hash-Bang nutzt, der muss auch wissen, was er tut. Und das wissen nicht alle. Wissen wir&#8217;s?"
     },
     {
       "name": "Windows 7 die Nummer 1 in Deutschland",
-      "href": "http://blogs.technet.com/b/dmelanchthon/archive/2011/02/02/windows-7-die-nummer-1-in-deutschland.aspx"
+      "href": "http://blogs.technet.com/b/dmelanchthon/archive/2011/02/02/windows-7-die-nummer-1-in-deutschland.aspx",
+      "description": "Windows 7 überholt XP, welches eine schöne Abwärtskurve aufweist. Sind die Tage von IE6 und IE7 also gezählt?"
     },
     {
       "name": "Sandboxed IE Browsers from Spoon",
-      "href": "http://www.iecss.com/spoon/"
+      "href": "http://www.iecss.com/spoon/",
+      "description": "Kurz da und dann schnell wieder weg. Wir bereden die <a href=\"http://blog.dotsmart.net/2009/06/24/using-windows-7s-xp-mode-to-run-ie-6-and-ie-7-side-by-side\">verschiedenen</a> <a href=\"http://utilu.com/IECollection/\">Möglichkeiten</a>, <a href=\"http://www.my-debugbar.com/wiki/IETester/HomePage\">eine</a> <a href=\"https://www.microsoft.com/downloads/en/details.aspx?FamilyId=21EABB90-958F-4B64-B5F1-73D0A413C8EF&amp;displaylang=en\">IE-Testumgebung</a> <a href=\"http://www.vmware.com/de/products/fusion/\">zu</a> <a href=\"http://www.parallels.com/de/products/desktop/\">bauen</a>."
     },
     {
       "name": "PhantomJS",
-      "href": "https://code.google.com/p/phantomjs/"
+      "href": "https://code.google.com/p/phantomjs/",
+      "description": "Eine skriptbare Webkit-Engine, etwa um Website-Screenshots zu schießen, oder PDFs aus HTML zu erzeugen, oder um Daten per DOM-Selektoren aus Seiten in Textdateien zu extrahieren."
     },
     {
       "name": "Blaze.io: Test Your Website Performance On A Mobile Device",
-      "href": "http://www.blaze.io/mobile/"
+      "href": "http://www.blaze.io/mobile/",
+      "description": "Schickes Tool, um Websites in Sachen Ladezeiten auf ihre Mobiltauglichkeit zu checken. Mit Wasserfall und Videoaufzeichnung des Ladevorgangs."
     },
     {
       "name": "Open Sourcing My Genetic Data",
-      "href": "http://manu.sporny.org/2011/public-domain-genome/"
+      "href": "http://manu.sporny.org/2011/public-domain-genome/",
+      "description": "Genome bei Github. Ein entsprechendes soziales Netzwerk wird von mir, Markus, bald nachgereicht."
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "EaselJS",
-      "href": "http://easeljs.com/"
+      "href": "http://easeljs.com/",
+      "description": "A javascript library for working with the HTML5 canvas element"
     },
     {
       "name": "IE9 on Windows Phone 7",
-      "href": "http://blogs.msdn.com/b/ie/archive/2011/02/14/ie9-on-windows-phone.aspx"
+      "href": "http://blogs.msdn.com/b/ie/archive/2011/02/14/ie9-on-windows-phone.aspx",
+      "description": "Der Neuner wird auch auf WP7 kommen und löst damit den altertümlichen IE7.5er ab."
     }
-  ],
-  "randomSpec": []
+  ]
 }

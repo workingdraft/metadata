@@ -38,40 +38,45 @@
   "href": "http://workingdraft.de/69/",
   "audio": "http://workingdraft.de/podpress_trac/web/1183/0/wd-69.mp3",
   "title": "CSS Battle Royale – Opera ",
+  "description": "Drei Themen, drei Buchstaben&nbsp;&ndash; CSS! Nur die Crew war wieder zu viert am Start.",
   "topics": [
     {
       "name": "Opera implementiert -webkit-Präfixes",
       "href": "http://dev.opera.com/articles/view/opera-mobile-emulator-experimental-webkit-prefix-support/",
-      "time": "00:00:31"
+      "time": "00:00:31",
+      "description": "Zunächst passiert das nur im Mobile-Emulator, aber die Geist geht nicht mehr zurück in die Flasche&nbsp;&ndash; bald werden diverse Webkit-Präfixes auch in Opera funktionieren. Grund ist, dass viele Mobile-Webseiten nur auf Webkit optimiert werden, obwohl Opera in diesem Sektor <a href=\"http://www.opera.com/smw/2012/03/\">einiges an Marktanteil hat</a>. Das Webentwickler-Universum reagiert auf diese Meldung mit <a href=\"http://stuffandnonsense.co.uk/blog/about/there_i_said_it\">Shitstorms</a> und <a href=\"http://farukat.es/journal/2012/04/650-opera-confirms-webkit-prefix-usage\">Mimimi</a>, doch wir sehen das eher entspannt."
     },
     {
       "name": "Conditional CSS",
       "href": "http://adactio.com/journal/5429/",
-      "time": "00:31:22"
+      "time": "00:31:22",
+      "description": "Jeremy Keith erfindet einen überaus komplizierten Nachbau für <a href=\"https://developer.mozilla.org/en/DOM/window.matchMedia\">window.matchMedia</a> und auf CSS-Tricks gibt es auch <a href=\"http://css-tricks.com/examples/ConditionalCSS/\">eine entsprechende Demo</a>. Wozu das Ganze wenn es doch <a href=\"https://github.com/paulirish/matchMedia.js/\">schon Polyfills gibt</a>? Ein Vorteil ist, dass man mit Conditional CSS keine Media Queries mehr in Script und Style duplizieren muss, sondern alles aus CSS heraus steuern kann."
     },
     {
       "name": "Content Choreography in Responsive Web Design",
       "href": "http://www.jordanm.co.uk/contentchoreography",
-      "time": "00:43:18"
+      "time": "00:43:18",
+      "description": "Demo eines Responsive Designs, das auf normalen Bildschirmgrößen Floats und für kleine Maße <a href=\"http://www.w3.org/TR/css3-flexbox/\">Flexbox</a> verwendet. Peter ist nicht sonderlich überzeugt davon, einfach vorauszusetzen, dass alle Geräte mit kleinen Bildschirm Flexbox (was nicht die stabilste Spezifikation ist) beherrschen und beschwört trollend die Geister von Vendor-Prefix-Gate 2.0. Schepp hingegen gefällt es."
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "idb.filesystem.js",
       "href": "http://ericbidelman.tumblr.com/post/21649963613/idb-filesystem-js-bringing-the-html5-filesystem-api",
-      "time": "00:53:03"
+      "time": "00:53:03",
+      "description": "Filesystem-API-Polyfill via Indexed DB."
     },
     {
       "name": "Optimizing with the timeline panel",
       "href": "http://gent.ilcore.com/2012/04/optimizing-with-timeline-panel.html",
-      "time": "00:53:03"
+      "time": "00:53:03",
+      "description": "Wie man die Timeline in Web Inspector für Performanceforschung nutzt."
     },
     {
       "name": "CSS background-attachment: local",
       "href": "http://lea.verou.me/2012/04/background-attachment-local/",
-      "time": "00:53:03"
+      "time": "00:53:03",
+      "description": "Eins von diesen eher unbekannten CSS-Features erklärt und demonstriert."
     }
-  ],
-  "randomSpec": []
+  ]
 }

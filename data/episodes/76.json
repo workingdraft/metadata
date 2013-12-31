@@ -28,30 +28,36 @@
   "href": "http://workingdraft.de/76/",
   "audio": "http://workingdraft.de/podpress_trac/web/1285/0/wd-76.mp3",
   "title": "Testen, Dokumentieren und Abhängigkeiten verwalten",
+  "description": "Dieses mal trafen sich Hans, <a href=\"http://www.asciidisco.com\">Sebastian Golasch</a> aka <a href=\"https://twitter.com/#!/asciidisco\">@asciidisco</a> und Kahlil in Skype, um sich durch einen stattliche Anzahl an Themen zu arbeiten. ",
   "topics": [
     {
       "name": "Zombie.js",
       "href": "http://zombie.labnotes.org/",
-      "time": "00:02:21"
+      "time": "00:02:21",
+      "description": "Ein schneller, kopfloser Browser auf Node.js Basis um JavaScript zu testen. Nützlich?"
     },
     {
       "name": "Auf echten mobilen Endgeräten testen ohne Bankrott zu gehen",
       "href": "http://bradfrostweb.com/blog/mobile/test-on-real-mobile-devices-without-breaking-the-bank/",
-      "time": "00:14:15"
+      "time": "00:14:15",
+      "description": "Brad Frost spricht über die Anschaffungskosten für mobile Endgeräte, die man zum testen braucht und macht Vorschläge, wie man Kosten sparen kann. Wir reden darüber und über die weiteren Aufwände, die beim Testen von mobilen Geräten aufkommen."
     },
     {
       "name": "Mobile Safari auf iOS 6",
       "href": "http://taitems.tumblr.com/post/24936855546/what-ios-6-mobile-safari-offers-front-end-devs",
-      "time": "00:25:34"
+      "time": "00:25:34",
+      "description": "Welche Features bringt Safari in iOS 6 für uns Webentwickler?"
     },
     {
       "name": "Volo.js",
       "href": "https://github.com/volojs/volo",
-      "time": "00:31:42"
+      "time": "00:31:42",
+      "description": "Sebastian erklärt uns ausführlich was es mit Volo.js und anderen Dependency Managern für JavaScript im Frontend auf sich hat."
     },
     {
       "name": "JavaScript Doc Tools",
-      "time": "00:45:54"
+      "time": "00:45:54",
+      "description": "Sebastian und Kahlil tauschen sich über ihre Erfahrungen mit JavaScript Dokumentations-Tools wie <a href=\"http://yui.github.com/yuidoc/\">YUI Doc</a> und <a href=\"http://jashkenas.github.com/docco/\">docco</a> aus."
     }
   ],
   "news": [
@@ -85,48 +91,56 @@
     {
       "name": "Gradient Finder",
       "href": "http://gradientfinder.com/",
-      "time": "00:56:05"
+      "time": "00:56:05",
+      "description": "Findet CSS-Gradients in einem Bild."
     },
     {
       "name": "Mozilla CSS Extensions",
       "href": "https://developer.mozilla.org/en/CSS/CSS_Reference/Mozilla_Extensions",
-      "time": "00:56:05"
+      "time": "00:56:05",
+      "description": "Liste aller mozillaspezifischen CSS-Erweiterungen."
     },
     {
       "name": "Debunking Responsive CSS Performance Myths",
       "href": "http://www.igvita.com/2012/06/14/debunking-responsive-css-performance-myths/",
-      "time": "00:56:05"
+      "time": "00:56:05",
+      "description": "CSS Performance-Mythen entkräften"
     },
     {
       "name": "ECMAScript 6: Maps, Sets und Weak Maps",
       "href": "http://www.peterkroener.de/es6-maps-sets-weak-maps/",
-      "time": "00:56:05"
+      "time": "00:56:05",
+      "description": "Peter Kröner über neue JavaScript-Features."
     },
     {
       "name": "Require.js Hogan Plugin",
       "href": "https://github.com/millermedeiros/requirejs-hogan-plugin",
-      "time": "00:56:05"
+      "time": "00:56:05",
+      "description": "Templates im Buildprozess direkt kompilieren."
     },
     {
       "name": "EditorConfig",
       "href": "http://editorconfig.org",
-      "time": "00:56:05"
+      "time": "00:56:05",
+      "description": "Editoreinstellungen projektweit festlegen."
     },
     {
       "name": "How Browsers Work Internally (Video)",
       "href": "http://vimeo.com/44182484",
-      "time": "00:56:05"
+      "time": "00:56:05",
+      "description": "Talk von Tali Garsiel auf der Front-Trends 2012."
     },
     {
       "name": "memSQL",
       "href": "http://www.golem.de/news/memsql-mysql-kompatibel-aber-30-mal-schneller-1206-92595.html",
-      "time": "00:56:05"
+      "time": "00:56:05",
+      "description": "memSQL ist angeblich 30 mal schneller als SQL"
     },
     {
       "name": "Pew Pew Manifesto",
       "href": "http://blogs.adobe.com/bparadie/2012/05/07/the-pew-pew-manifesto/",
-      "time": "00:56:05"
+      "time": "00:56:05",
+      "description": "Adobe propagiert, daß sich JavaScript für große Projekte nicht eignet."
     }
-  ],
-  "randomSpec": []
+  ]
 }

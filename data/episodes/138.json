@@ -31,60 +31,70 @@
   "href": "http://workingdraft.de/138/",
   "audio": "http://workingdraft.de/podpress_trac/web/2100/0/wd-138.mp3",
   "title": "Auf der roten CMS Couch",
+  "description": "Eine spontane Revision mit spontanen Gästen und einem noch spontaneren Twitter. Eine fünf Minuten vor Start zusammengestoppelte Besetzung aus <a href=\"http://www.yellowled.de\">Matthias Mees</a>, <a href=\"http://grochtdreis.de\">Jens Grochtdreis</a>, Stefan und Schepp diskutiert über die Dinge, die dem Webworker seit jeher graue Haare und Falten bereiten: Content Management Systeme.",
   "topics": [
     {
       "name": "Content Management Systeme",
-      "time": "00:02:07"
+      "time": "00:02:07",
+      "description": "In einer stundenlangenen Plauderei nehmen die furchtlosen Frontend-Vier ein CMS nach dem anderen unter die Lupe. Wir beleuchten das Für und Wider der kommerziellen Systeme wie Reddot und Imperia, brechen die eine oder andere Lanze für <a href=\"http://www.perun.net/2012/08/08/das-kleine-feine-cms-processwire-reduzierung-aufs-wesentliche/\">ProcessWire</a> und <a href=\"http://getkirby.com\">Kirby</a>. Außerdem erklären wir, wie man mit den <a href=\"http://wordpress.org/plugins/json-api/\">JSON API</a>, <a href=\"http://www.advancedcustomfields.com/\">Advanced Custom Fields</a> und <a href=\"http://wordpress.org/plugins/super-cpt/\">Super Custom Page Tyoes</a> auch aus WordPress ein ganz anständiges System machen kann. Jens und Stefan verlieren auch das eine oder andere Wort über <a href=\"http://grochtdreis.de/weblog/2013/09/13/statische-seitengeneratoren/\">statische Seitengeneratoren</a>, wie zum Beispiel <a href=\"http://jekyllrb.com/\">Jekyll</a> oder das in <a href=\"http://www.fettblog.eu/blog/2013/09/02/using-assemble-io-with-yeoman-ios-webapp-gruntfile/\">Grunt integrierbare Assemble</a>. Und wer noch nicht genug Namedropping hat: Mit einer Liste der <a href=\"http://trends.builtwith.com/cms\">weltweiten CMS Anteile</a> werfen wir ein halbes Auge auch noch auf Joomla, Redaxo, Typo 3, Drupal, ModX, Expression Engine, Serendipity, Pico und viele weitere. Ob wir mit diesem Rundumschlag eine schlußendliche Empfehlung abgeben können?"
     }
   ],
   "news": [
     {
       "name": "jQuery 1.11 and 2.1 Beta 1 Released",
       "href": "http://blog.jquery.com/2013/09/19/jquery-1-11-and-2-1-beta-1-released/",
-      "time": "00:00:45"
+      "time": "00:00:45",
+      "description": "Die Beta der neuen jQuery ist erschienen, mit einigen interessanten Änderungen, unter anderem einer neuen, AMD-lastigen Architektur."
     }
   ],
   "links": [
     {
       "name": "I can smell your CMS",
       "href": "http://fronteers.nl/congres/2012/sessions/i-can-smell-your-cms-phil-hawksworth",
-      "time": "01:10:48"
+      "time": "01:10:48",
+      "description": "Ein zum Thema passender Talk von Phil Hawksworth auf der letztjährigen Fronteers."
     },
     {
       "name": "Safari iOS7 – HTML5, Problems und APIs",
       "href": "http://www.mobilexweb.com/blog/safari-ios7-html5-problems-apis-review",
-      "time": "01:10:48"
+      "time": "01:10:48",
+      "description": "Mobile Web Advokat Max Firtman gibt einen sehr ausführlichen Überblick über sämtliche Änderungen des letzten Mobile Safari Updates."
     },
     {
       "name": "Complete Guide to the <table> element",
       "href": "http://css-tricks.com/complete-guide-table-element/",
-      "time": "01:10:48"
+      "time": "01:10:48",
+      "description": "Apropos ausführlich. Das war auch Chris Coyier bei der wohl ultimativen Übersicht zu den Tabellen."
     },
     {
       "name": "Barrierefreie Datentabellen",
       "href": "http://www.einfach-fuer-alle.de/artikel/barrierefreie-datentabellen/",
-      "time": "01:10:48"
+      "time": "01:10:48",
+      "description": "Dazu passend: Benimmregeln für die richtige und barrierefreie Verwendung ebenjener."
     },
     {
       "name": "Controlling CSS Animations/Transitions with JavaScript",
       "href": "http://css-tricks.com/controlling-css-animations-transitions-javascript/",
-      "time": "01:10:48"
+      "time": "01:10:48",
+      "description": "Wieder CSS-Tricks, diesmal mit einem Gastbeitrag zu den Möglichkeiten, wie man über JavaScript CSS Animationen und Transitions steuern kann."
     },
     {
       "name": "animo.js",
       "href": "http://labs.bigroomstudios.com/libraries/animo-js",
-      "time": "01:10:48"
+      "time": "01:10:48",
+      "description": "Sexy, sexy CSS Animations über eine sehr angenehm zu bedienende JavaScript API."
     },
     {
       "name": "Fireshell",
       "href": "http://getfireshell.com/",
-      "time": "01:10:48"
+      "time": "01:10:48",
+      "description": "Wem ein Yeoman zu umfangreich und wuchtig ist, kann es mit Todd Mottos Fireshell versuchen. Oder gleich zu Hans&#8217; <a href=\"https://github.com/drublic/init\">Init</a> greifen."
     },
     {
       "name": "Sass Color Functions",
       "href": "http://jackiebalzer.com/color",
-      "time": "01:10:48"
+      "time": "01:10:48",
+      "description": "Jackie Balzer zeigt, welche Sass Farbfunktionen es gibt. Und das nicht nur in Prosa und Code, sondern mit einem sehr ansehnlichen Tutorial."
     }
-  ],
-  "randomSpec": []
+  ]
 }

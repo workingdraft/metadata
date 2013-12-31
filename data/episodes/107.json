@@ -34,51 +34,59 @@
   "href": "http://workingdraft.de/107/",
   "audio": "http://workingdraft.de/podpress_trac/web/1808/0/wd-107.mp3",
   "title": "Unresponsive Design, Docsprint und ein paar Links",
+  "description": "Mit Schepp, Hans, <a href=\"https://twitter.com/helloanselm\">Anselm</a> und Peter auf der Brücke dampfte Working Draft gezielt auf seine Revision 107 zu.",
   "topics": [
     {
       "name": "Ditching responsive design",
       "href": "https://gocardless.com/blog/unresponsive-design/",
-      "time": "00:00:49"
+      "time": "00:00:49",
+      "description": "GoCardless hat für sein letztes Redesign ein unresponsive Design gewählt. Kann man so etwas heutzutage überhaupt machen? Die Firma argumentiert diesen Schritt mit zu wenig Mobile-Usern und Zeit- sowie Geldersparnis beim Bau eines unresponsive Designs. Schepp kann die Argumentation nachvollziehen, Anselm und Peter eher nicht&nbsp;&ndash; sie halten den Aufwand für ein Mimimum an responsiveness für so gering, dass es ihrer Meinung nach keinen validen Grund gibt, es nicht zu machen. Interessant scheint die Existenz einer „Unresponsive-Szene“ auf Twitter, die es genau wie GoCardless sieht."
     },
     {
       "name": "Bericht vom Web Platform Doc Sprint Berlin",
       "href": "http://eventifier.co/event/wpds13",
-      "time": "00:23:51"
+      "time": "00:23:51",
+      "description": "Schepp, Hans und Anselm berichten vom <a href=\"http://lanyrd.com/2013/wpds/\">Web Platform Doc Sprint Berlin</a>, auf dem sie letzte Woche viel für <a href=\"http://www.webplatform.org/\">webplatform.org</a> geschrieben haben. Schepp schrieb Tutorials über IE-Handling, Hans dokumentierte <code>box-sizing</code>, Anselm unter anderem <code>text-overflow</code>. Einstimmiges Urteil: gut organisierte Veranstaltung und durch das Schreiben der Dokumentation gewinnt selbst der größte Nerd noch hier und da neue Erkenntnisse."
     }
   ],
   "news": [
     {
       "name": "<main>-Support in Firefox",
       "href": "http://firefoxnightly.tumblr.com/post/41871992210/element-main-is-now-supported-by-firefoxnightly",
-      "time": "00:00:21"
+      "time": "00:00:21",
+      "description": "Das neue Element (siehe <a href=\"http://workingdraft.de/101/\">Revision 101</a>) ist nach Chrome jetzt auch im Firefox gelandet."
     }
   ],
   "links": [
     {
       "name": "DevTools: Visually Re-engineering CSS For Faster Paint Times",
       "href": "http://addyosmani.com/blog/devtools-visually-re-engineering-css-for-faster-paint-times/",
-      "time": "00:41:00"
+      "time": "00:41:00",
+      "description": "Addy Osmani erklärt, wie man mit den Webkit-Devtools zu lange Paint-Zeiten erkennt."
     },
     {
       "name": "Front-Trends 2013",
       "href": "http://2013.front-trends.com/",
-      "time": "00:41:00"
+      "time": "00:41:00",
+      "description": "Warschau ist schön und diese Konferenz ist es auch."
     },
     {
       "name": "BLOKK font",
       "href": "http://blokkfont.com/",
-      "time": "00:41:00"
+      "time": "00:41:00",
+      "description": "Webfont für Wireframes."
     },
     {
       "name": "Extensionizr – boilerplate for your chrome extension",
       "href": "http://extensionizr.com/",
-      "time": "00:41:00"
+      "time": "00:41:00",
+      "description": "Nomen est omen."
     },
     {
       "name": "CSS Regions Polyfill",
       "href": "http://corlan.org/2013/02/08/say-hello-to-css-regions-polyfill/",
-      "time": "00:41:00"
+      "time": "00:41:00",
+      "description": "Im Gegensatz zu anderen Polyfills entspricht dieser der aktuellen Regions-Syntax."
     }
-  ],
-  "randomSpec": []
+  ]
 }

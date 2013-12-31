@@ -23,6 +23,7 @@
   "href": "http://workingdraft.de/1/",
   "audio": "http://workingdraft.de/podpress_trac/web/1/0/Revision1_-Sencha-Animator-Webfernsehen-und-Firesheep.mp3",
   "title": "Sencha Animator, Webfernsehen und Firesheep",
+  "description": "Die allererste Folge des neuen News-Podcasts für den ambitionierten Webmenschen. Peter und ich haben uns über den endgültigen Tod von Silverlight im Web, Adobes HTML5-Bemühungen, den tollen Sencha Animationseditor, Vimeo Couchmode und Youtube Leanback, den Google-WebFont-Loader, XML-Tags für Facebook, Audio-APIs im Firefox, Stacktraces in JavaScript und natürlich Firesheep unterhalten.",
   "topics": [
     {
       "name": "Microsoft: „Our Strategy with Silverlight has shifted.“",
@@ -76,8 +77,5 @@
       "name": "Mozilla: „No kill switch for Firesheep addon“",
       "href": "http://www.computerworld.com/s/article/9193420/Mozilla_No_kill_switch_for_Firesheep_add_on"
     }
-  ],
-  "news": [],
-  "links": [],
-  "randomSpec": []
+  ]
 }

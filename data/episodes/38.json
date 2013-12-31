@@ -23,85 +23,99 @@
   "href": "http://workingdraft.de/38/",
   "audio": "http://workingdraft.de/podpress_trac/web/751/0/wd-38.mp3",
   "title": "Gridsysteme und Best Practices",
+  "description": "Peter hängt nach wie vor <a href=\"https://plus.google.com/100967148217893238418/posts/VnC2iYHzeMu\">im Rheinland</a> fest und Markus ist vom Erdboden verschluckt. Sturmfrei für Schepp! Auf einen geselligen Webworker-Abend hat er sich <a href=\"http://twitter.com/djesse\">Dirk Jesse</a>, Autor des <a href=\"http://www.yaml.de/\">YAML-Frameworks</a>, und <a href=\"http://twitter.com/yellowled\">Matthias Mees</a>, <a href=\"http://netzgestaltung.net/\">Webdesigner</a> aus der Nähe von Lübeck und Mitmoderator des Serendipity-Podcasts <a href=\"http://www.s9ycamp.info/\">S9y InfoCamp</a>, eingeladen.",
   "topics": [
     {
       "name": "Introducing WebAPI",
       "href": "http://hacks.mozilla.org/2011/08/introducing-webapi/",
-      "time": "00:02:00"
+      "time": "00:02:00",
+      "description": "Mozilla hat sich vorgenommen, innerhalb von 3 &#8211; 6 Monaten eine universelle Schnittstelle zu entwickeln, mit der die Browser auf Handyfunktionen und -Daten zugreifen können. Dabei schweifen wir aber ab, unter anderem auf dieses <a href=\"http://blog.typekit.com/2011/07/26/new-from-typekit-improved-font-rendering-on-windows/\">Schriften-Thema</a>."
     },
     {
       "name": "Component Model",
       "href": "http://wiki.whatwg.org/wiki/Component_Model",
-      "time": "00:15:08"
+      "time": "00:15:08",
+      "description": "Die WHATWG wiederum möchte mit dem Component Model den Wildwuchs in Sachen <a href=\"http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/\">Shadow DOM</a> beseitigen und standardisierte Schnittstellen zum Befüllen desselben schaffen."
     },
     {
       "name": "Getting rusty – we need new best practices for a different development world",
       "href": "http://www.wait-till-i.com/2011/08/15/getting-rusty-we-need-new-best-practices-for-a-different-development-world/",
-      "time": "00:22:24"
+      "time": "00:22:24",
+      "description": "<a href=\"http://twitter.com/codepo8\">Chris Heilmann</a> schrieb neulich darüber, dass unsere Webentwicklungsparadigmen durcheinandergeraten seien und wir einige Sinnfragen neu stellen müssen.  Außerdem müssen viele neue Best Practices entwickelt und verbreitet werden. Im Verlauf des Gesprächs streifen wir Nicolas Gallaghers <a href=\"http://nicolasgallagher.com/pure-css-gui-icons/\">Pure CSS GUI Icons</a> und Christoph Zillgens&#8217; Artikel <a href=\"http://christophzillgens.com/de/articles/input-und-button-gleich-hoch\">Gleich hohe Input-Felder und Buttons</a>."
     },
     {
       "name": "Bootstrap, from Twitter",
       "href": "http://twitter.github.com/bootstrap/",
-      "time": "00:50:20"
+      "time": "00:50:20",
+      "description": "Twitter hat eine Art Boilerplate- oder Kickstart-Paket für das Erstellen von Webapps veröffentlicht. Im Prinzip ist es ein durchdachter Remix bekannter Tools, wie <a href=\"http://960.gs/\">960.gs</a>, JQuery und <a href=\"http://lesscss.org/\">LESS</a>."
     },
     {
       "name": "The Semantic Grid System",
       "href": "http://semantic.gs/",
-      "time": "01:03:55"
+      "time": "01:03:55",
+      "description": "Wir bleiben in der Welt von Grids und LESS und schauen uns das Semantic Grid System an, das sich mit einem neuen Ansatz hervortut. Dirk hält die proklamierten Ziele für illusorisch und Matthias hindert es auch nicht daran, sich von Grids im Allgemeinen <a href=\"http://yellowled.de/archiv/17/Wieso-ich-keine-Grid-Frameworks-mehr-benutze.html\">zu verabschieden</a>. Weil wieder LESS.js im Spiel ist, und das serverseitig schwer zu implementieren ist (nur via Node.js), kommen wir auf <a href=\"http://leafo.net/lessphp/\">lessphp</a> und den LESS-Compilier-Dienst <a href=\"http://boxcss.com/\">BoxCSS</a> zu sprechen. Und auf den CSS-Preprozessor <a href=\"http://turbine.peterkroener.de/docs-10.php\">Turbine</a> (1.0, nicht 1.1 nehmen!)."
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "Get started with WebGL: draw a square",
       "href": "http://www.netmagazine.com/tutorials/get-started-webgl-draw-square",
-      "time": "01:28:00"
+      "time": "01:28:00",
+      "description": "Kompaktes, aber sehr verständliches Einstiegstutorial in die komplizierte (Shader-)Welt von WebGL."
     },
     {
       "name": "onProximityFade",
       "href": "http://linowski.ca/experiments/onProximityFade/demo.html",
-      "time": "01:28:00"
+      "time": "01:28:00",
+      "description": "Nette Ein- und Ausblendspielerei bei Mausannäherung. Kann man vielleicht für ein Hilfesystem auf seiner Seite nutzen."
     },
     {
       "name": "JSConf Videos",
       "href": "http://blip.tv/jsconf",
-      "time": "01:28:00"
+      "time": "01:28:00",
+      "description": "Die JSConf 2011 Videos sind online und lohnen sich zu schauen!"
     },
     {
       "name": "The Latest in HTML5",
       "href": "http://html5-demos.appspot.com/static/html5-whats-new/template/index.html#1",
-      "time": "01:28:00"
+      "time": "01:28:00",
+      "description": "Eine Google-Präsentation, die überquillt von eher weniger beachteten, aber fantastischen HTML5-Features."
     },
     {
       "name": "Pagoda Box",
       "href": "http://www.pagodabox.com/",
-      "time": "01:28:00"
+      "time": "01:28:00",
+      "description": "Ein PHP Cloudhosting, das über eine direkte Anbindung an GitHub verfügt."
     },
     {
       "name": "Recurly.js",
       "href": "http://js.recurly.com/",
-      "time": "01:28:00"
+      "time": "01:28:00",
+      "description": "Ein fix und fertiges Bezahlungsformular-Framework zum Einbetten in die eigene Seite, das den unappetitlichen serverseitigen Teil des Ablaufs auf die Recurly.js-Server abwälzt."
     },
     {
       "name": "TransformJS",
       "href": "http://transformjs.strobeapp.com/",
-      "time": "01:28:00"
+      "time": "01:28:00",
+      "description": "jQuery-Plugin, das den Einsatz von CSS 2D- und 3D-Transforms via css- und animate-Methode extremst vereinfacht."
     },
     {
       "name": "Fabric.js",
       "href": "http://perfectionkills.com/fabric-js-0-5-is-out/",
-      "time": "01:28:00"
+      "time": "01:28:00",
+      "description": "Eine weitere HTML5-Canvas-Abstraktionsbibliothek, die aber durch ihren SVG-Parser hervorsticht."
     },
     {
       "name": "FLEXSLIDER",
       "href": "http://flex.madebymufffin.com/",
-      "time": "01:28:00"
+      "time": "01:28:00",
+      "description": "jQuery-Slider, der mit Touch-/Swipe-Support für mobile Geräte daherkommt."
     },
     {
       "name": "flux slider",
       "href": "http://www.joelambert.co.uk/flux/",
-      "time": "01:28:00"
+      "time": "01:28:00",
+      "description": "jQuery-Slider, der mit bislang ungesehenen hardwarebeschleunigten 3D-Übergängen glänzt. Riesennachteil: Es gibt keine Graceful Degradation für nicht 3D-fähige Browser."
     }
-  ],
-  "randomSpec": []
+  ]
 }

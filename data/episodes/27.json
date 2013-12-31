@@ -30,6 +30,7 @@
   "href": "http://workingdraft.de/27/",
   "audio": "",
   "title": "Revision 27: @viewport, Tastatursteuerung und Aurora 6",
+  "description": "Tolle Folge. Nuffsaid.",
   "topics": [
     {
       "name": "@viewport in Opera",
@@ -57,7 +58,6 @@
       "time": "00:41:27:000"
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "Gehosteter Winere-Server",
@@ -79,6 +79,5 @@
       "href": "http://ie.microsoft.com/testdrive/Graphics/SVGGradientBackgroundMaker/Default.html",
       "time": "01:13:47:000"
     }
-  ],
-  "randomSpec": []
+  ]
 }

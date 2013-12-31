@@ -34,75 +34,87 @@
   "href": "http://workingdraft.de/147/",
   "audio": "http://workingdraft.de/podpress_trac/web/2177/0/wd-147.mp3",
   "title": "Über das INIT Boilerplate und das Laravel PHP-Framework",
+  "description": "Stefan, Hans und Schepp luden sich diesmal <a href=\"http://christoph-rumpel.com/\">Christoph Rumpel</a> aus dem schönen Wien ein. Und darum ging es:",
   "topics": [
     {
       "name": "INIT",
       "href": "http://thenittygritty.co/reducing-boilerplate-code-front-end-init",
-      "time": "00:01:29"
+      "time": "00:01:29",
+      "description": "INIT ist ein Frontend-Boilerplate aus Hans&#8217; Feder, das zunächst voll auf seine Bedürfnisse hin zugeschnitten gestartet war. Im Laufe der Zeit gesellten sich allerlei Contributions anderer Leute hinzu, so dass das Paket ab Stand heute zu einer ansehnlichen 1.0er-Version herangewachsen ist."
     },
     {
       "name": "Know when to CDN",
       "href": "http://www.kendoui.com/blogs/teamblog/posts/13-11-07/know-when-to-cdn.aspx",
-      "time": "00:17:57"
+      "time": "00:17:57",
+      "description": "Wir nahmen den KendoUI-Artikel zum Anlass uns nochmal das Thema CDNs vorzunehmen: Welche Typen von CDNs gibt es? Wann ist der Einsatz von CDNs angesagt? Wann von Nachteil?"
     },
     {
       "name": "Laravel",
       "href": "http://laravel.com/",
-      "time": "00:40:48"
+      "time": "00:40:48",
+      "description": "Das Laravel Framework, mittlerweile in Version 4 vorliegend, erhebt den Anspruch, PHP eleganten und ausdrucksstarken Code abzutrotzen. Und das gelingt ihm auch. Christoph erzählt uns wie das funktioniert."
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "uncss",
       "href": "https://github.com/giakki/uncss",
-      "time": "00:57:01"
+      "time": "00:57:01",
+      "description": "Mit Grunt und uncss lässt sich ganz hervorragend überflüssiges CSS aus aufgeblähten Stylesheets entfernen."
     },
     {
       "name": "object-fit Polyfill",
       "href": "http://helloanselm.com/2013/fix-image-resizing-with-object-fit/",
-      "time": "00:57:01"
+      "time": "00:57:01",
+      "description": "Wer schon immer mal mit der CSS-Eigenschaft <code>object-fit</code> herumhantieren wollte, dem könnte dieser Polyfill gefallen."
     },
     {
       "name": "Die Google Page Speed Insights um UX-Hinweise ergänzt",
       "href": "https://twitter.com/davatron5000/status/403624163664875520",
-      "time": "00:57:01"
+      "time": "00:57:01",
+      "description": "Mit einem angehängten GET-Parameter <code>&#038;ux=1</code> lassen sich den Page Speed Insights auch User Experience Hinweise zur untersuchten Seite entlocken."
     },
     {
       "name": "pa11y",
       "href": "http://pa11y.org/",
-      "time": "00:57:01"
+      "time": "00:57:01",
+      "description": "pa11y erlaubt ein automatisiertes Testing einer Seite gegen verschiedene Accessibility-Kriterien."
     },
     {
       "name": "DPLOY",
       "href": "http://leanmeanfightingmachine.github.io/dploy/",
-      "time": "00:57:01"
+      "time": "00:57:01",
+      "description": "DPLOY ist ein Node-basiertes Script, das Änderungen in einem Git-Repository auf einem (S)FTP-Server nachvollzieht."
     },
     {
       "name": "60fps scrolling using pointer-events: none",
       "href": "http://www.thecssninja.com/javascript/pointer-events-60fps",
-      "time": "00:57:01"
+      "time": "00:57:01",
+      "description": "Hovereffekte führen beim Scrollen auf Geräten mit auf dem Bildschirm stehendem Mauszeiger zu versehentlichen &#8220;Paint Storms&#8221;. Diese Technik kann sie verhindern."
     },
     {
       "name": "Kate Kiefer Lee: Voice and tone",
       "href": "https://vimeo.com/74356973",
-      "time": "00:57:01"
+      "time": "00:57:01",
+      "description": "Kate Kiefer Lee von Mailchimp gibt wertvolle Einblicke darin, wie man optimal für seine Zielgruppe und einen bestimmten Bereich seiner Seite textet. Als Guide liegt das Ganze zudem unter der Adresse <a href=\"http://voiceandtone.com/\">voiceandtone.com</a> für alle zum Nachschlagen."
     },
     {
       "name": "Chrome Extension: Clockwork",
       "href": "https://chrome.google.com/webstore/detail/clockwork/dmggabnehkmmfmdffgajcflpdjlnoemp",
-      "time": "00:57:01"
+      "time": "00:57:01",
+      "description": "Mit Clockwork lassen sich Laravel-interne Metriken nach vorne in die Chrome Devtools herausgeben."
     },
     {
       "name": "Chrome Extension: JSON Formatter",
       "href": "https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa",
-      "time": "00:57:01"
+      "time": "00:57:01",
+      "description": "Der JSON Formatter sorgt für eine deutlich angenehmere Handhabbarkeit von JSON-Objekten in den Chrome Devtools."
     },
     {
       "name": "Laravel Meetup Vienna",
       "href": "http://www.meetup.com/Laravel-Frameworkers-Vienna/events/151465372/",
-      "time": "00:57:01"
+      "time": "00:57:01",
+      "description": "Wer in der Gegen um Wien herum lebt und mehr über das Laravel-Framework erfahren möchte, dem sei das Laravel Meetup Vienna sehr ans Herz gelegt!"
     }
-  ],
-  "randomSpec": []
+  ]
 }

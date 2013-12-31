@@ -34,38 +34,43 @@
   "href": "http://workingdraft.de/146/",
   "audio": "http://workingdraft.de/podpress_trac/web/2167/0/wd-146.mp3",
   "title": "Responsive Images, Verträge und Links",
+  "description": "Wenn es keine Themen gibt, macht man sich einfach welche. So luden Schepp, Peter und Stefan kurzerhand den <a href=\"http://helloanselm.com/\">Anselm</a> ein und sprachen über Responsive Images (Anselm ist zufällig Experte auf dem Gebiet) sowie Verträge und Geschäftspraktiken im Webentwickler-Alltag.",
   "topics": [
     {
       "name": "Responsive Images",
-      "time": "00:00:20"
+      "time": "00:00:20",
+      "description": "Anselm ist seit Anbeginn der Zeiten mit den Thema Responsive Images befasst und versucht, einen Überblick über die aktuelle Situation zu geben. Es gibt viele Vorschläge (<a href=\"http://www.w3.org/html/wg/drafts/srcset/w3c-srcset/\">srcset</a>, <a href=\"http://tabatkins.github.io/specs/respimg/Overview.html\">src-n</a>, <a href=\"http://www.w3.org/TR/html-picture-element/\">&lt;picture&gt;</a>) die von verschiedenen Parteien aus verschiedenen Gründen abgelehnt werden. Andere Ansätze wären ein <a href=\"http://blog.yoav.ws/2013/09/Responsive-Image-Container\">responsives Bildformat</a> (das wir für sehr schwer einführbar halten; siehe <a href=\"http://de.wikipedia.org/wiki/WebP\">WebP</a>) und JavaScript-Gehacke (das wir für sehr unzureichend halten). Am liebste hätten wir &lt;picture&gt;, müssen uns aber wohl für den Moment mit <a href=\"https://github.com/scottjehl/picturefill\">Polyfills</a> oder <a href=\"http://responsivenews.co.uk/post/58244240772/imager-js\">komplizierten Libraries</a> begnügen. Und zeitnahe Besserung ist nicht wirklich in Sicht&nbsp;&hellip;"
     },
     {
       "name": "Verträge und Geschäftspraktiken",
-      "time": "00:32:59"
+      "time": "00:32:59",
+      "description": "Angeregt durch <a href=\"https://github.com/csswizardry/Contract/blob/master/Contract.md\">die bei Github eingestellte Vertrags-Vorlage</a> von Harry Roberts geben wir ein paar Tipps aus diesem Bereich zum besten. Wir sprechen unter anderem über\n<ul>\n<li>Vorauszahlungen und Verzug\n</li><li>Mitwirkungspflichten, Projektänderungen und -abbruch\n</li><li>Copyright und Open Source\n</li><li>Zeitplanung und Aufwandseinschätzung\n</li></ul>\n<p>Zum Abschluss geben wir alle jeweils einen Tipp zum besten, von dem wir glauben, dass ihn jeder befolgen sollte. Falls ihr weitere Vorschläge habt: ab in die Kommentare!</p>"
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "Setting Up your dev machine with dotfiles",
       "href": "http://net.tutsplus.com/tutorials/tools-and-tips/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles/",
-      "time": "01:11:12"
+      "time": "01:11:12",
+      "description": "Intro für alle, die das Themas Dotfiles bisher nur aus sicherer Distanz beobachtet haben."
     },
     {
       "name": "An Introduction To DOM Events",
       "href": "http://coding.smashingmagazine.com/2013/11/12/an-introduction-to-dom-events/",
-      "time": "01:11:12"
+      "time": "01:11:12",
+      "description": "Epische Detail-Einführung in das Thema DOM-Events."
     },
     {
       "name": "Donau Tech Radio",
       "href": "http://dtr.fm/",
-      "time": "01:11:12"
+      "time": "01:11:12",
+      "description": "Fast wie Working Draft, nur für das Backend."
     },
     {
       "name": "Web Development Reading List",
       "href": "http://wdrl.info/",
-      "time": "01:11:12"
+      "time": "01:11:12",
+      "description": "Anselms Newsletter/Linkschleuder, neuerdings sogar mit Newsfeed!"
     }
-  ],
-  "randomSpec": []
+  ]
 }

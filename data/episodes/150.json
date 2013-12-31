@@ -25,46 +25,53 @@
   "href": "http://workingdraft.de/150/",
   "audio": "http://workingdraft.de/podpress_trac/web/2198/0/wd-150.mp3",
   "title": "Kurz-Jubiläum mit News, Glücksrad und Links",
-  "topics": [],
+  "description": "Das 150er-Jubiläum geriet aufgrund von Themen- und Personalmangel sowie leichter Verpestung seitens Peters etwas kurz. Da konnte auch der eigentlich sehr motivierte Schepp nicht mehr viel ausrichten.",
   "news": [
     {
       "name": "CSS-Variablen im Firefox",
       "href": "http://mcc.id.au/blog/2013/12/variables",
-      "time": "00:00:37"
+      "time": "00:00:37",
+      "description": "In der endgültigen Standard-Fassung."
     }
   ],
   "links": [
     {
       "name": "What You May Not Know About the Z-Index Property",
       "href": "http://dev.tutsplus.com/articles/what-you-may-not-know-about-the-z-index-property--webdesign-16892",
-      "time": "00:14:01"
+      "time": "00:14:01",
+      "description": "Nicht-offensichtliches zum Z-Index."
     },
     {
       "name": "jquery.adaptive-backgrounds.js",
       "href": "http://briangonzalez.github.io/jquery.adaptive-backgrounds.js/",
-      "time": "00:14:01"
+      "time": "00:14:01",
+      "description": "<i lang=\"en\">A jQuery plugin for extracting dominant colors from images and applying it to its parent</i>."
     },
     {
       "name": "Understanding the Real-World Performance of your Web Application Across IE11 and Other Browsers",
       "href": "http://blogs.msdn.com/b/ie/archive/2013/12/12/understanding-the-real-world-performance-of-your-web-application-across-ie11-and-other-browsers.aspx",
-      "time": "00:14:01"
+      "time": "00:14:01",
+      "description": "Im Prinzip ein Tutorial für die verschiedenen Performance-APIs in IE11 und einigen anderen Browsern."
     },
     {
       "name": "JavaScript Promises – There and back again",
       "href": "http://www.html5rocks.com/en/tutorials/es6/promises/",
-      "time": "00:14:01"
+      "time": "00:14:01",
+      "description": "Jake Archibald erklärt <em>alles</em> was es zum Thema Promises zu wissen gibt."
     },
     {
       "name": "hoodie-plugin-angularjs",
       "href": "https://github.com/elmarburke/hoodie-plugin-angularjs",
-      "time": "00:14:01"
+      "time": "00:14:01",
+      "description": "Verheiratet Hoodie mit AngularJS."
     }
   ],
   "randomSpec": [
     {
       "name": "Das colgroup-Element",
       "href": "http://www.whatwg.org/specs/web-apps/current-work/#the-colgroup-element",
-      "time": "00:01:31"
+      "time": "00:01:31",
+      "description": "Wir quasseln etwas über das unterbewertete colgroup-Element und über die ähnlich unterbewerteten <a href=\"http://www.whatwg.org/specs/web-apps/current-work/multipage/tabular-data.html#the-col-element\">col-</a>, <a href=\"http://www.whatwg.org/specs/web-apps/current-work/multipage/tabular-data.html#the-caption-element\">caption-</a> und <a href=\"http://www.whatwg.org/specs/web-apps/current-work/multipage/tabular-data.html#the-tbody-element\">tbody</a>-Elemente. Durch CSS3-Selektoren wie die <a href=\"http://www.w3.org/TR/css3-selectors/#nth-child-pseudo\">nth-child-Pseudoklasse</a> erachten wir <code>colgroup</code> und <code>col</code> für weitgehend überflüssig und anstelle von <code>caption</code> sollte man in der HTML5-Ära wohl auch besser zum <a href=\"http://www.whatwg.org/specs/web-apps/current-work/multipage/grouping-content.html#the-figure-element\">figure-Element</a> greifen. Und auch über den Wechsel von Selfhtml zu <a href=\"http://developers.whatwg.org/\">developers.whatwg.org</a> kann man mal nachdenken. Zum Schluss ranten wir noch in guter Tradition etwas über Mobile-Browser."
     }
   ]
 }

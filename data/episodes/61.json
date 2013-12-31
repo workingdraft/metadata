@@ -29,62 +29,72 @@
   "href": "http://workingdraft.de/61/",
   "audio": "http://workingdraft.de/podpress_trac/web/1063/0/wd-61.mp3",
   "title": "HTML5 Please API, Boot to Gecko, Image Replacements",
+  "description": "Hans, Schepp und Peter granteln über neue CSS-Techniken, bashen ein wenig PHP und lobpreisen die neuesten Entwicklungen aus dem Hause Mozilla.",
   "topics": [
     {
       "name": "HTML5 Please API",
       "href": "http://api.html5please.com/",
-      "time": "00:00:12"
+      "time": "00:00:12",
+      "description": "Zielgerichtete Browser-Update-Forderungen, powered by <a href=\"http://caniuse.com/\">caniuse.com</a>. Und das beste? Der Hans hat mitentwickelt!"
     },
     {
       "name": "Boot to Gecko",
       "href": "http://hacks.mozilla.org/2012/02/mozillas-boot-to-gecko-the-web-is-the-platform/",
-      "time": "00:12:16"
+      "time": "00:12:16",
+      "description": "Mozilla baut ein Smartphone-OS auf Basis von Webtechnologien. Finden wir gut. Und wir denken auch, dass Google das aushält."
     },
     {
       "name": "PHP 5.4.0 ist da",
       "href": "http://www.golem.de/news/scriptsprache-php-5-4-0-veroeffentlicht-1203-90202.html",
-      "time": "00:23:22"
+      "time": "00:23:22",
+      "description": "<a href=\"http://docs.php.net/manual/en/migration54.new-features.php\">Viele neue Features</a> werden geboten. Interessant ist auch, dass das Release mit <a href=\"http://gcov.php.net/viewer.php?version=PHP_5_4\">interessanten Build-Statistik aufwartet</a>. Auch erwähnenswert: <a href=\"http://www.reddit.com/r/lolphp/\">das Subreddit &#8220;Lolphp&#8221;</a>."
     },
     {
       "name": "Neue Image Replacement Techniken",
-      "time": "00:31:32"
+      "time": "00:31:32",
+      "description": "Sowohl der heilige Zeldman als auch Nicolas Gallagher kredenzen uns <a href=\"http://www.zeldman.com/2012/03/01/replacing-the-9999px-hack-new-image-replacement/\">neue</a> <a href=\"http://nicolasgallagher.com/another-css-image-replacement-technique/\">Techniken</a>. Wir sind so mittelbegeistert, denn die Vorteile (gleichwohl vorhanden) halten sich doch sehr in Grenzen."
     },
     {
       "name": "SQL.js",
       "href": "https://github.com/kripken/sql.js",
-      "time": "00:45:44"
+      "time": "00:45:44",
+      "description": "SQLite im Brower. Schepp ist begeistert, Peter findet, dass man einfach auf <a href=\"http://www.w3.org/TR/IndexedDB/\">IndexedDB</a> warten sollte. <a href=\"http://www.w3.org/TR/webdatabase/\">Web SQL</a> ist hingegen dem Untergang verdammt und war es eigentlich auch immer."
     },
     {
       "name": "Verlosung der Karten für den MMT 29",
-      "time": "00:58:00"
+      "time": "00:58:00",
+      "description": "Wie versprochen verteilen wir drei Karten für den <a href=\"http://mmt29.multimediatreff.de\">Multimediatreff 29</a>. Die Glücklichen:<p></p>\n<ul>\n<li>Thomas Flad</li>\n<li>Torben Leuschner</li>\n<li>Ingo van Peeren</li>\n</ul>\n<p>Freikarten kommen per Mail. Bei Rückfragen, Mail an comments AT workingdraft PUNKT de.\n</p>"
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "Anselm’s Weekly Weblinks",
-      "time": "00:59:07"
+      "time": "00:59:07",
+      "description": "Abonniert <a href=\"http://anselm-hannemann.com/blog/\">Anselms Blog</a>, da gibt es wöchentlich schöne Links."
     },
     {
       "name": "Android x86",
       "href": "http://www.android-x86.org/",
-      "time": "00:59:07"
+      "time": "00:59:07",
+      "description": "Ein Android-Build für PCs. Optimal zur Ergänzung des Arsenals von virtuellen Maschinen für Browsertests."
     },
     {
       "name": "basket.js",
       "href": "http://addyosmani.github.com/basket.js/",
-      "time": "00:59:07"
+      "time": "00:59:07",
+      "description": "<q>A simple (proof-of-concept) script loader that caches scripts with localStorage</q>"
     },
     {
       "name": "Vendor-prefixed CSS Property Overview",
       "href": "http://peter.sh/experiments/vendor-prefixed-css-property-overview/",
-      "time": "00:59:07"
+      "time": "00:59:07",
+      "description": "Alle gevendorprefixten CSS-Eigenschaften aller Zeiten."
     },
     {
       "name": "MapBox",
       "href": "http://mapbox.com/",
-      "time": "00:59:07"
+      "time": "00:59:07",
+      "description": "Ein Konkurrent für Google Maps, der sehr fancy daher kommt und bezahlbar ist."
     }
-  ],
-  "randomSpec": []
+  ]
 }

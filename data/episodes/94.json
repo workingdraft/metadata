@@ -38,49 +38,56 @@
   "href": "http://workingdraft.de/94/",
   "audio": "http://workingdraft.de/podpress_trac/web/1592/0/wd-94.mp3",
   "title": "Test The Web Forward!",
+  "description": "Diesmal gibt es keine News zu vermelden.\n\nDa irgendwie alle Moderatoren in der vergangenen Woche in der Weltgeschichte unterwegs waren, um die neusten Ideen und Tools für euch aufzutreiben, waren es doch eher wenige Artikel, die gelesen werden konnten und die Themenvielfalt hielt sich in Grenzen.",
   "topics": [
     {
       "name": "Test The Web Forward!",
-      "time": "00:00:20"
+      "time": "00:00:20",
+      "description": "Der Schepp und Hans waren gemeinsam bei Test The Web Forward in Paris und haben Tests für W3C Spezifikationen geschrieben. Darüber wissen sie zu berichten und stellen sich den investigativen Fragen von Kahlil und Rod und erklären, wie man Tests für das Web schreibt und warum es so wichtig ist.<br>\nEin paar Fotos von Schepp <a href=\" https://plus.google.com/100967148217893238418/posts/J56iDNybP19\">könnt ihr auf Google+ finden</a>."
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "So, you want to be a Front-end Engineer",
       "href": "https://speakerdeck.com/dmosher/so-you-want-to-be-a-front-end-engineer",
-      "time": "00:31:42"
+      "time": "00:31:42",
+      "description": "Ein Slide-Set, das zu erklären versucht, wie Browser funktionieren (basierend auf einem <a href=\"http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/\">etwas älteren Artikel auf HTML5Rocks</a>). Will man sich Front-end <strong>Engineer</strong> nennen, sollte man davon nämlich was verstehen."
     },
     {
       "name": "CSS FilterLab",
       "href": "http://www.adobe.com/devnet/html5/articles/css-filterlab.html",
-      "time": "00:31:42"
+      "time": "00:31:42",
+      "description": "CSS FilterLab ist eine Web-App zum einfachen erstellen und testen von CSS Filtern. <strong>Edit:</strong> CSS FilterLab ist von Adobe."
     },
     {
       "name": "3D CSS Tester",
       "href": "http://thewebrocks.com/demos/3D-css-tester/",
-      "time": "00:31:42"
+      "time": "00:31:42",
+      "description": "Mit 3D CSS Tester kann man die CSS 3D Eigenschaften testen und lernen diese zu verstehen."
     },
     {
       "name": "CSS Layout Resources",
       "href": "http://zomigi.com/blog/future-css-layout-fowd/",
-      "time": "00:31:42"
+      "time": "00:31:42",
+      "description": "Eine Zusammenstellung von Artikeln zum Thema CSS Layout: Flexbox, Grid Templates, Multi-Columns, Regions und Exclusions &#038; Shapes."
     },
     {
       "name": "Test’em",
       "href": "https://github.com/airportyh/testem",
-      "time": "00:31:42"
+      "time": "00:31:42",
+      "description": "Test&#8217;em ist ein Node.js Tool, dass das Unit-Testing erleichtert in dem es Hilfestellung für Test-Driven-Development und Continuous Integration bietet."
     },
     {
       "name": "Distilled Hype & @JSCentral",
       "href": "http://distilledhype.com/",
-      "time": "00:31:42"
+      "time": "00:31:42",
+      "description": "Kahlil verlinkt die besten Artikel im Bereich Front-end und Rodney twittert mit ein paar anderen die News zum Thema JavaScript."
     },
     {
       "name": "Fronteers Jam Session Videos",
       "href": "http://vimeo.com/channels/fronteers12",
-      "time": "00:31:42"
+      "time": "00:31:42",
+      "description": "Die Vorträge von der Fronteers Jam Session sind jetzt auf Vimeo als Video verfügbar."
     }
-  ],
-  "randomSpec": []
+  ]
 }

@@ -30,67 +30,79 @@
   "href": "http://workingdraft.de/121/",
   "audio": "http://workingdraft.de/podpress_trac/web/1951/0/wd-121.mp3",
   "title": "requestAutocomplete, Web Components, Offline-Detection",
+  "description": "Neue Browser, alte Probleme&nbsp;&ndash; diesmal mit Schepp, Peter und Rodney an den Mikrofonen.",
   "topics": [
     {
       "name": "Chrome’s requestAutocomplete()",
       "href": "http://blog.alexmaccaw.com/requestautocomplete",
-      "time": "00:01:00"
+      "time": "00:01:00",
+      "description": "Chrome hat <a href=\"http://www.chromium.org/developers/using-requestautocomplete\">ein neues Feature</a>, das es Webseiten erlaubt Autocomplete für Formulare anzufordern. Gedacht ist das ganze eigentlich nur für Payment, was Peter etwas einschränkend findet, Schepp aber ob der ranzigkeit der Alternativlösungen für ganz großartig erachtet. Außerdem kommen der <a href=\"http://de.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard\">Payment Card Industry Data Security Standard</a> und <a href=\"http://www.whatwg.org/specs/web-apps/current-work/multipage/editing.html#the-hidden-attribute\">das neuerdings globale hidden-Attribut</a> zur Sprache."
     },
     {
       "name": "Web Components",
       "href": "http://www.golem.de/news/web-components-html-elemente-selber-bauen-1305-99318.html",
-      "time": "00:17:06"
+      "time": "00:17:06",
+      "description": "Neben <a href=\"https://hacks.mozilla.org/2013/05/speed-up-app-development-with-x-tag-and-web-components/\">Mozillas X-Tag</a> hat nun auch Google mit <a href=\"http://polymer-project.appspot.com/\">Polymer</a> Polyfill-Material für Web Components gebaut. Rodney erklärt den Unterschied zwischen <a href=\"http://www.w3.org/standards/techs/components#w3c_all\">Web Components</a> und <a href=\"http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/\">Shadow DOM</a> und den diversen Einzelteilen der jeweiligen Technologien."
     },
     {
       "name": "Is This Thing On?",
       "href": "http://www.icenium.com/blog/icenium-team-blog/2013/04/23/is-this-thing-on-(part-1)",
-      "time": "00:31:31"
+      "time": "00:31:31",
+      "description": "Einen eigentlich nur mittelguten Artikel nehmen Rodney und Peter zum Anlass, sich um die beste Story im Bereich &#8220;worst of Offline-Status-Festellung im Browser&#8221; zu kabbeln.Weder die <a href=\"http://www.whatwg.org/specs/web-apps/current-work/#browser-state\">HTML5-APIs für den Online-Status</a> noch die Disconnect-Events von <a href=\"http://www.w3.org/TR/websockets/\">Web Sockets</a> noch <a href=\"http://www.w3.org/TR/eventsource/\">Event Sources</a> taugen. Rodney kam in seinem Projekt nicht umhin, eine <a href=\"http://de.wikipedia.org/wiki/Endlicher_Automat\">State Machine</a> mit Heartbeats auf Basis von Web Sockets (und Long Polling für Android) zu bauen. Außerdem kommt kurz <a href=\"Socket.IO\">http://socket.io/</a> zur Sprache."
     }
   ],
   "news": [
     {
       "name": "Firefox 21",
       "href": "http://www.mozilla.org/en-US/firefox/21.0/releasenotes/",
-      "time": "00:00:20"
+      "time": "00:00:20",
+      "description": "Frisch released und mit Support für <code>&lt;main&gt;</code>, Scoped Stylesheets (<a href=\"http://workingdraft.de/104/\">Working Draft berichtete</a>) und ersten Teilen der Crypto-API."
     }
   ],
   "links": [
     {
       "name": "Prepros",
       "href": "http://alphapixels.com/prepros/",
-      "time": "01:01:50"
+      "time": "01:01:50",
+      "description": "Das darf man nicht außer Acht lassen: ein Präprozessor-GUI für Windows!"
     },
     {
       "name": "Handy Sass Mixins",
       "href": "http://web-design-weekly.com/2013/05/12/handy-sass-mixins/",
-      "time": "01:01:50"
+      "time": "01:01:50",
+      "description": "Bei diesem Titel sind die Zusammenhänge glasklar."
     },
     {
       "name": "Codeblock.js",
       "href": "http://filepicker.github.io/codeblock.js/",
-      "time": "01:01:50"
+      "time": "01:01:50",
+      "description": "Im Prinzip brauchen wir nur drei Dinge um allen Code zu beschreiben: einen Syntaxhighlighter, einen darin eingebautem Editor und einen &#8220;Run&#8221;-Button. Alles andere ist unnötig und deshalb enthält dieses Plugin auch nur diese drei Funktionen."
     },
     {
       "name": "How to Style Google Maps",
       "href": "http://www.hongkiat.com/blog/google-maps-styles/",
-      "time": "01:01:50"
+      "time": "01:01:50",
+      "description": "Dass das überhaupt geht wissen auch nur die wenigsten."
     },
     {
       "name": "JavaScript Regular Expression Enlightenment",
       "href": "http://tech.pro/tutorial/1214/javascript-regular-expression-enlightenment",
-      "time": "01:01:50"
+      "time": "01:01:50",
+      "description": "Wie reguläre Ausdrücke funktionieren muss man wissen und dieser Artikel erklärt es in epischer Breite."
     },
     {
       "name": "Vier Diskussionen",
       "href": "http://vier.fm/diskussionen/",
-      "time": "01:01:50"
+      "time": "01:01:50",
+      "description": "Podcast-Kameraden, bekannt, ja? Nicht? Dann anhören!"
     }
   ],
   "randomSpec": [
     {
       "name": "Sandbox-Attribut",
       "href": " http://www.whatwg.org/specs/web-apps/current-work/#attr-iframe-sandbox",
-      "time": "00:35:30"
+      "time": "00:35:30",
+      "description": "Das Sandbox-Attribut wird es einst erlauben, die Möglichkeiten einer Seite in einem Iframe einzuschränken oder sogar zu erweitern."
     }
   ]
 }

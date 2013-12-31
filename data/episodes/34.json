@@ -30,6 +30,7 @@
   "href": "http://workingdraft.de/34/",
   "audio": "http://workingdraft.de/podpress_trac/web/700/0/wd-34.mp3",
   "title": "Kontraste und Kleinscheiß",
+  "description": "Es stellte sich uns die Frage, ob es wohl als praktisch empfunden werden würde, veranstalteten wir einige Sondersendungen – entweder zusätzlich zu den wöchentlichen News-Folgen, wovon ihr uns aber erst überzeugen müsstet, oder stattdessen.",
   "topics": [
     {
       "name": "contrastrebellion.com",
@@ -51,7 +52,6 @@
       "href": "http://functionsource.com/post/hascan-only-serve-the-ones-your-care-about"
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "SQL-Injection-Cheatsheet",
@@ -65,6 +65,5 @@
       "name": "CreativeJS",
       "href": "http://creativejs.com/"
     }
-  ],
-  "randomSpec": []
+  ]
 }

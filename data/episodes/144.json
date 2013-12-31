@@ -27,55 +27,64 @@
   "href": "http://workingdraft.de/144/",
   "audio": "http://workingdraft.de/podpress_trac/web/2151/0/wd-144.mp3",
   "title": "RESS und unsere Deployment Strategien",
+  "description": "Diese Woche war mal wieder ein Gast im Working Draft dabei: <a href=\"http://maddesigns.de/\">Sven Wolfermann</a> gab sich die Ehre ein wenig über seine Projekte und Erfahrungen mit Responsive Images und vielem mehr Preis zu geben.",
   "topics": [
     {
       "name": "Responsive Bilder und RESS",
       "href": "http://maddesigns.de/RESS/#1",
-      "time": "00:05:38"
+      "time": "00:05:38",
+      "description": "Mit Sven haben wir einen guten Entwickler zu Gast, der im Bereich Responsive Bilder auf einen großen Erfahrungsschatz zurück greift. Gemeinsam besprechen wir BBCs <a href=\"http://www.integralist.co.uk/posts/imager-js-bbc-news-responsive-images-solution/\">Imager.js</a>, <a href=\"http://fleximg.com/\">fleximg</a>, <a href=\"http://www.resrc.it/\">ReSRC</a> und den generellen Ansatz der server-seitigen Implementierung von Responsive Images an. Svens <a href=\"http://maddesigns.de/RESS/#1\">Slidedeck zum Thema RESS</a> bietet eine gute Grundlage für diese Diskussion, durch die wir schließlich auf das Thema <a href=\"https://docs.google.com/presentation/d/1y_A6VOZy9bD2i0VLHv9ZWr0W3hZJvlTNCDA0itjI0yM/edit#slide=id.p19\">Mobile Performance</a> kommen."
     },
     {
       "name": "Hörerfrage: Welche FTP/SFTP/SCP-Clients nutzen wir so?",
-      "time": "00:37:06"
+      "time": "00:37:06",
+      "description": "Aufgrund eine Hörerfrage sprechen wir über die Tools, die wir nutzen, um Ding irgendwo hoch zu laden. Einige FTP Clients, die genannt werden sind <a href=\"http://cyberduck.ch/\">CyberDuck</a> und <a href=\"http://panic.com/transmit/\">Transmit</a>. Allerdings schweifen wir etwas ab und besprechen andere Deployment Strategien für Websites, z.B. erwähnen wir <a href=\"http://deployhq.com/\">deployhq.com</a>."
     }
   ],
   "news": [
     {
       "name": "3 Jahre Working Draft!",
       "href": "http://workingdraft.de/1/",
-      "time": "00:01:09"
+      "time": "00:01:09",
+      "description": "Uns gibt es drei Jahre, und wir sind cool. Danke an Mama!"
     },
     {
       "name": "Firefox 25 veröffentlicht",
       "href": "https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/25",
-      "time": "00:01:09"
+      "time": "00:01:09",
+      "description": "Firefox 25 für Entwickler liest sich ziemlich interessant."
     },
     {
       "name": "Cisco’s H.264",
       "href": "https://brendaneich.com/2013/10/ciscos-h-264-good-news/",
-      "time": "00:01:09"
+      "time": "00:01:09",
+      "description": "Cisco stellt seinen H.264 Codec für alle kostenfrei zur Verfügung. Somit wird H.264 der neue Video-Standard im Web werden."
     },
     {
       "name": "Android 4.4 KitKat",
       "href": "http://www.mobilexweb.com/blog/android-4-4-kitkat-browser-chrome-webview",
-      "time": "00:01:09"
+      "time": "00:01:09",
+      "description": "Chrome wird der neue Standard Brower für alle Android Geräte und vieles mehr."
     }
   ],
   "links": [
     {
       "name": "Conditioner.js",
       "href": "http://conditionerjs.com/",
-      "time": "00:47:20"
+      "time": "00:47:20",
+      "description": "Laden und löschen von bestimmten JavaScript Modulen mittels einer Bibliothek."
     },
     {
       "name": "The new Kellum method",
       "href": "http://scottkellum.com/2013/10/25/the-new-kellum-method.html",
-      "time": "00:47:20"
+      "time": "00:47:20",
+      "description": "Scroll Kellum beschreib seine neue Methode für Image Replacement, vor allem im Bezug auf Icons."
     },
     {
       "name": "TrifleJS",
       "href": "http://triflejs.org/",
-      "time": "00:47:20"
+      "time": "00:47:20",
+      "description": "Ein Headless Internet Explorer für Windows (als Pendant zu PhantomJS)."
     }
-  ],
-  "randomSpec": []
+  ]
 }

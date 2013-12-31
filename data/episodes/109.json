@@ -28,44 +28,50 @@
   "href": "http://workingdraft.de/109/",
   "audio": "http://workingdraft.de/podpress_trac/web/1827/0/wd-109.mp3",
   "title": "Counter Styles, mobile Betriebssysteme, HTML5-Linkelemente",
+  "description": "Kahlil und Rod luden <a href=\"https://twitter.com/dantz\">Andreas Dantz</a> ins virtuelle Studio ein, um die letzte Internetwoche zu reflektieren.",
   "topics": [
     {
       "name": "CSS Counter Styles",
       "href": "http://www.w3.org/TR/2013/WD-css-counter-styles-3-20130221/",
-      "time": "00:00:23"
+      "time": "00:00:23",
+      "description": "CSS Counter Styles Level 3 (Working Draft) beschreibt wie man Listen (<code>&lt;ul&gt;</code> und <code>&lt;ol&gt;</code>) mit eigenen Zählerstilen versehen können werden wird. Der Futur ist leider korrekt, denn Implementationen lassen noch auf sich warten."
     },
     {
       "name": "Mobile Betriebssysteme",
-      "time": "00:06:35"
+      "time": "00:06:35",
+      "description": "<a href=\"http://www.engadget.com/2013/02/25/lg-acquires-webos-from-hp-smart-tv-future/\">LG kauft webOS</a> um damit seine SmartTVs zu betreiben. Ob und wann das von Palm und HP entwickelte, auf Webstandards pochende, Betriebsystem auch auf LGs SmartPhones zum Einsatz kommt, ist noch nicht so ganz klar. <a href=\"http://news.cnet.com/8301-1023_3-57570214-93/global-allies-give-mozillas-firefox-os-a-mobile-foothold/\">Mozilla Firefox OS</a>  Startet im zweiten Quartal 2013 &#8211; mit einer Menge von Partnern."
     },
     {
       "name": "HTML5-Linkelement",
       "href": "http://www.iandevlin.com/blog/2013/02/html5/link",
-      "time": "00:14:17"
+      "time": "00:14:17",
+      "description": "Ian Devlin erklärt uns was das gute alte <code>&lt;a&gt;</code> denn zwischenzeitlich alles kann. Interessant ist vor allem die Möglichkeit Downloads von Resourcen des Servers, sowie der JavaScript Laufzeit des geöffneten Dokuments zu erzwingen. Auch sinnieren wir über den Sinn und Unsinn des ping Attributs."
     },
     {
       "name": "jQuery Europe Conference",
       "href": "http://events.jquery.org/2013/eu/",
-      "time": "00:27:41"
+      "time": "00:27:41",
+      "description": "Schön war&#8217;s beim Kaiser. JavaScript spricht man auch in den prunkvollen Hallen der Paradeiser-Esser. Viele interessante Talks, leider keine Videos. Ohne jQuery-Bezug, stellte man die <a href=\"http://www.w3.org/TR/CSP/\">CSP &#8211; Content Security Policy</a> vor. In Chrome kann man Version 1.0 bereits testen."
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "grunt-parallel",
       "href": "https://github.com/iammerrick/grunt-parallel",
-      "time": "00:36:34"
+      "time": "00:36:34",
+      "description": "… erlaubt das parallele Ausführen bestimmter Aufgaben. Üblicherweise werden Tasks in Sequenz ausgeführt, was aber nicht immer Notwendig ist. Hier kann grunt-parallel für etwas mehr Geschwindigkeit sorgen."
     },
     {
       "name": "Dig Deep into CSS Gradients",
       "href": "http://hugogiraudel.com/2013/02/04/css-gradients/",
-      "time": "00:36:34"
+      "time": "00:36:34",
+      "description": "… ist ein toller Artikel über die Funktionsweise von Farbverläufen."
     },
     {
       "name": "CSS Tests – fonts and text",
       "href": "http://www.quirksmode.org/blog/archives/2013/02/new_css_tests_f.html",
-      "time": "00:36:34"
+      "time": "00:36:34",
+      "description": "… nennt <a href=\"https://twitter.com/ppk\">@ppk</a>s zuletzt gefundene Mobile Browser Bugs."
     }
-  ],
-  "randomSpec": []
+  ]
 }

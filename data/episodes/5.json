@@ -30,33 +30,37 @@
   "href": "http://workingdraft.de/5/",
   "audio": "http://workingdraft.de/podpress_trac/web/105/0/Revision5_-iOS-4.2-Opera-11-Web-Messaging-und-Kinect.mp3",
   "title": "iOS 4.2, Opera 11, Web Messaging und Kinect",
+  "description": "Auf <a href=\"http://praegnanz.de/weblog/webtypografie-bei-polylogo\">Gerrits Drängen</a> hin, hab ich dieses mal das integrierte MacBook-Mikrofon zum Aufnehmen genutzt. Konkret bedeutet das, dass ich nun in einer Mülltonne zu sitzen scheine; meine scharfkantigen Atmungsaktivitäten stechen damit aber immerhin weniger ins Ohr.",
   "topics": [
     {
       "name": "Safari on iOS 4.2",
-      "href": "http://www.mobilexweb.com/blog/safari-ios-accelerometer-websockets-html5"
+      "href": "http://www.mobilexweb.com/blog/safari-ios-accelerometer-websockets-html5",
+      "description": "Neben <a href=\"http://www.w3.org/TR/websockets\">Web</a> <a href=\"https://github.com/miksago/node-websocket-server\">sockets</a> und der Unterstützung der <a href=\"http://dev.w3.org/geo/api/spec-source-orientation.html\">DeviceOrientation API</a> sind vor allem die Typo-Neuerung interessant: @font-face jetzt mit TTF ober noch kein WOFF. Genaueres <a href=\"http://praegnanz.de/weblog/nun-offiziell-ipad-und-iphone-mit-echter-webfonts-unterstuetzung\">bei Gerrit</a>.<p></p>\n<dt><a href=\"http://www.opera.com/browser/next/\">This one goes to eleven!</a><p></p>\n<dd>Erste Beta von Opera 11. Alle Neuerungen im <a href=\"http://www.opera.com/docs/changelogs/windows/1100b/\">Changelog</a>. Der <a href=\"http://9gag.com/gag/17189/\">Stuhlvergleich</a> trifft immer noch zu.<p></p>\n<dt><a href=\"http://technikwuerze.de/podcast/technikwuerze146/\">Technikwürze 146 unter anderem über Jetpack</a><p></p>\n<dd>Mozilla-Projekt, das dazu beitragen soll, dass die Extensions-Installation unter Firefox weniger schmerzlich wird.<p></p>\n<dt><a href=\"http://www.heise.de/newsticker/meldung/Opera-Mobile-10-1-mit-schneller-JavaScript-Engine-1141503.html\">Opera Mobile 10.1</a><p></p>\n<dd>Auch die mobile Version des Browsers erfährt ein wichtiges Update inkl. Geolocation-Unterstützung und ordentlichem JIT-Compiler.<p></p>\n<dt><a href=\"http://www.w3.org/TR/2010/WD-webmessaging-20101118/\">W3C Working Draft der Web Messaging API</a><p></p>\n<dd>Webapplikationen über mehrere Browserfenster steuern. Beispielsweise geeignet für <a href=\"https://github.com/SirPepe/P5\">Peters Slideshow-Projekt</a>.<p></p>\n<dt><a href=\"http://vimeo.com/17180651\">DepthJS</a><p></p>\n<dd>Chrome-Plugin, mithilfe dessen man das Microsoft Kinect per JavaScript auf Websites ansprechen kann.\n</dd></dt></dd></dt></dd></dt></dd></dt></dd></dt>"
     },
     {
       "name": "This one goes to eleven!",
-      "href": "http://www.opera.com/browser/next/"
+      "href": "http://www.opera.com/browser/next/",
+      "description": "Erste Beta von Opera 11. Alle Neuerungen im <a href=\"http://www.opera.com/docs/changelogs/windows/1100b/\">Changelog</a>. Der <a href=\"http://9gag.com/gag/17189/\">Stuhlvergleich</a> trifft immer noch zu.<p></p>\n<dt><a href=\"http://technikwuerze.de/podcast/technikwuerze146/\">Technikwürze 146 unter anderem über Jetpack</a><p></p>\n<dd>Mozilla-Projekt, das dazu beitragen soll, dass die Extensions-Installation unter Firefox weniger schmerzlich wird.<p></p>\n<dt><a href=\"http://www.heise.de/newsticker/meldung/Opera-Mobile-10-1-mit-schneller-JavaScript-Engine-1141503.html\">Opera Mobile 10.1</a><p></p>\n<dd>Auch die mobile Version des Browsers erfährt ein wichtiges Update inkl. Geolocation-Unterstützung und ordentlichem JIT-Compiler.<p></p>\n<dt><a href=\"http://www.w3.org/TR/2010/WD-webmessaging-20101118/\">W3C Working Draft der Web Messaging API</a><p></p>\n<dd>Webapplikationen über mehrere Browserfenster steuern. Beispielsweise geeignet für <a href=\"https://github.com/SirPepe/P5\">Peters Slideshow-Projekt</a>.<p></p>\n<dt><a href=\"http://vimeo.com/17180651\">DepthJS</a><p></p>\n<dd>Chrome-Plugin, mithilfe dessen man das Microsoft Kinect per JavaScript auf Websites ansprechen kann.\n</dd></dt></dd></dt></dd></dt></dd></dt>"
     },
     {
       "name": "Technikwürze 146 unter anderem über Jetpack",
-      "href": "http://technikwuerze.de/podcast/technikwuerze146/"
+      "href": "http://technikwuerze.de/podcast/technikwuerze146/",
+      "description": "Mozilla-Projekt, das dazu beitragen soll, dass die Extensions-Installation unter Firefox weniger schmerzlich wird.<p></p>\n<dt><a href=\"http://www.heise.de/newsticker/meldung/Opera-Mobile-10-1-mit-schneller-JavaScript-Engine-1141503.html\">Opera Mobile 10.1</a><p></p>\n<dd>Auch die mobile Version des Browsers erfährt ein wichtiges Update inkl. Geolocation-Unterstützung und ordentlichem JIT-Compiler.<p></p>\n<dt><a href=\"http://www.w3.org/TR/2010/WD-webmessaging-20101118/\">W3C Working Draft der Web Messaging API</a><p></p>\n<dd>Webapplikationen über mehrere Browserfenster steuern. Beispielsweise geeignet für <a href=\"https://github.com/SirPepe/P5\">Peters Slideshow-Projekt</a>.<p></p>\n<dt><a href=\"http://vimeo.com/17180651\">DepthJS</a><p></p>\n<dd>Chrome-Plugin, mithilfe dessen man das Microsoft Kinect per JavaScript auf Websites ansprechen kann.\n</dd></dt></dd></dt></dd></dt>"
     },
     {
       "name": "Opera Mobile 10.1",
-      "href": "http://www.heise.de/newsticker/meldung/Opera-Mobile-10-1-mit-schneller-JavaScript-Engine-1141503.html"
+      "href": "http://www.heise.de/newsticker/meldung/Opera-Mobile-10-1-mit-schneller-JavaScript-Engine-1141503.html",
+      "description": "Auch die mobile Version des Browsers erfährt ein wichtiges Update inkl. Geolocation-Unterstützung und ordentlichem JIT-Compiler.<p></p>\n<dt><a href=\"http://www.w3.org/TR/2010/WD-webmessaging-20101118/\">W3C Working Draft der Web Messaging API</a><p></p>\n<dd>Webapplikationen über mehrere Browserfenster steuern. Beispielsweise geeignet für <a href=\"https://github.com/SirPepe/P5\">Peters Slideshow-Projekt</a>.<p></p>\n<dt><a href=\"http://vimeo.com/17180651\">DepthJS</a><p></p>\n<dd>Chrome-Plugin, mithilfe dessen man das Microsoft Kinect per JavaScript auf Websites ansprechen kann.\n</dd></dt></dd></dt>"
     },
     {
       "name": "W3C Working Draft der Web Messaging API",
-      "href": "http://www.w3.org/TR/2010/WD-webmessaging-20101118/"
+      "href": "http://www.w3.org/TR/2010/WD-webmessaging-20101118/",
+      "description": "Webapplikationen über mehrere Browserfenster steuern. Beispielsweise geeignet für <a href=\"https://github.com/SirPepe/P5\">Peters Slideshow-Projekt</a>.<p></p>\n<dt><a href=\"http://vimeo.com/17180651\">DepthJS</a><p></p>\n<dd>Chrome-Plugin, mithilfe dessen man das Microsoft Kinect per JavaScript auf Websites ansprechen kann.\n</dd></dt>"
     },
     {
       "name": "DepthJS",
-      "href": "http://vimeo.com/17180651"
+      "href": "http://vimeo.com/17180651",
+      "description": "Chrome-Plugin, mithilfe dessen man das Microsoft Kinect per JavaScript auf Websites ansprechen kann.\n"
     }
-  ],
-  "news": [],
-  "links": [],
-  "randomSpec": []
+  ]
 }

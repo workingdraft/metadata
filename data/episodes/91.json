@@ -30,70 +30,82 @@
   "href": "http://workingdraft.de/91/",
   "audio": "http://workingdraft.de/podpress_trac/web/1521/0/wd-91.mp3",
   "title": "Konferenzen und HiDPI Bilder",
+  "description": "Schepp, Hans und Rodney fanden sich trotz ihrer leicht verschleppten Konferenzia ein, um das Eine oder Andere der letzten Woche(n) Revue passieren zu lassen.",
   "topics": [
     {
       "name": "Konferenzen",
-      "time": "00:01:20"
+      "time": "00:01:20",
+      "description": "Wir reflektieren (etwas ausufernd) welche Konferenzen wir die letzten Wochen besucht und was wir dort erlebt haben. <a href=\"http://smashingconf.com/\">SmashingConf in Freiburg</a>, <a href=\"http://2012.fromthefront.it/\">From The Front in Bologna</a>, <a href=\"http://html.adobe.com/events/\">Create The Web in London</a> und die <a href=\"http://fronteers.nl/congres/2012\">Fronteers 2012</a> haben ihre jeweils eigenen Eindrücke hinterlassen. Wer sich beim deutschen Web-Developer Klassentreffen™ sein eigenes Bild machen möchte, schaue bitte bei <a href=\"http://2012.beyondtellerrand.com/\">Beyond Tellerrand</a> vorbei. Es lohnt sich!"
     },
     {
       "name": "JPEG Compression and Retina",
       "href": "http://blog.netvlies.nl/design-interactie/retina-revolution/",
-      "time": "00:44:33"
+      "time": "00:44:33",
+      "description": "Wie man Bilder auf Retina Displays scharf bekommt ohne gleich 4MB große Bilder über die Leitung zu jagen ist ein allgegenwärtiges Thema dieser Tage. Das &lt;picture&gt; Element ist noch nicht da, weshalb wir noch etwas in der Trickkiste kramen müssen. <a href=\"http://www.fngtps.com/2012/reasonable-ways-to-use-high-resolution-images-on-retina-displays/\">A reasonable way to show high resolution images on retina displays</a> und <a href=\"https://gist.github.com/3124198\">Acceptible Retina Images</a> haben ähnliche Ideen, nämlich einfach bei höherer Auflösung die Kompressionsstufe (drastisch) erhöhen."
     }
   ],
   "news": [
     {
       "name": "Webplatform.org",
       "href": "http://webplatform.org/",
-      "time": "00:00:21"
+      "time": "00:00:21",
+      "description": "Das W3C, Apple, Adobe, Facebook, Google, HP, Microsoft, Nokia, Mozilla und Opera starten ein neues gemeinsames Wissensportal für Webentwicklung. <a title=\"MozHacks\" href=\"https://hacks.mozilla.org/2012/10/welcoming-the-new-kid-web-platform-docs/\">MozHacks</a> weiss mehr dazu."
     }
   ],
   "links": [
     {
       "name": "History API – Endless Scroll Experiment",
       "href": "http://warpspire.com/experiments/history-api/",
-      "time": "00:55:00"
+      "time": "00:55:00",
+      "description": "Wer kennt sie nicht &#8211; die endlos scrollbaren Webseiten. Mit diesem Experiment zeigt Zach Holman wie sich auch dynamisch nachgeladene und erweiterte Listen für den Browser navigierbar machen."
     },
     {
       "name": "ModestMaps",
       "href": "http://modestmaps.com/",
-      "time": "00:55:00"
+      "time": "00:55:00",
+      "description": "Eine einfache API ohne UI-Schnickschnack &#8211; ein gutes Fundament für gepflegten Spaß mit interaktiven Karten."
     },
     {
       "name": "XLSX.js",
       "href": "http://blog.innovatejs.com/?p=24",
-      "time": "00:55:00"
+      "time": "00:55:00",
+      "description": "Wer schon immer mal Excel-Dateien aus seiner Webseite heraus generieren wollte, kann jetzt auf serverseitige Tools verzichten."
     },
     {
       "name": "Guide to HTML5 APIs",
       "href": "http://www.netmagazine.com/features/developer-s-guide-html5-apis",
-      "time": "00:55:00"
+      "time": "00:55:00",
+      "description": "Im NetMagazine gibt uns Rich Clark eine kleine (unvollständige) Übersicht über die HTML5 APIs. Obwohl der Artikel schon im Januar veröffentlicht wurde, dient er doch als grandioser Einstieg in den wirren Dschungel unsere schönen neuen Internets."
     },
     {
       "name": "Don’t initialize all the things on DomReady",
       "href": "http://www.elijahmanor.com/2012/10/dont-initialize-all-things-in.html",
-      "time": "00:55:00"
+      "time": "00:55:00",
+      "description": "<abbr title=\"Website Performance Optimization\">WPO</abbr> ist in aller Munde &#8211; doch hört das nicht bei CSS minifizieren und HTTP Headern auf. Elijah Manor erklärt anhand eines Beispiels wie lazy initialization funktionieren kann, um die Ladezeiten eurer Seiten noch weiter zu drücken."
     },
     {
       "name": "Master of the :nth-child",
       "href": "http://nthmaster.com/",
-      "time": "00:55:00"
+      "time": "00:55:00",
+      "description": "Wer den CSS Selector <code>:nth-child()</code> auf Anhieb verstanden hat, verdient unseren größten Respekt. Für Normalsterbliche wie den Rodney bietet dieser Einseiter eine schöne visuelle Übersicht über den doch recht mächtigen Kindselektor."
     },
     {
       "name": "Jed Internationalization Toolkit",
       "href": "http://slexaxton.github.com/Jed/",
-      "time": "00:55:00"
+      "time": "00:55:00",
+      "description": "Internationalisierung ist ja an sich schon nicht die trivialste Aufgabe. In Javascript erst recht nicht. Alex Sexton (der übrigens nur eine einzige Sprache spricht) verspricht mit Jed ein bisschen Licht ins Dunkel der <abbr title=\"Internationalization\">I18N</abbr> zu bringen."
     },
     {
       "name": "Complete List of HTML Meta Tags",
       "href": "http://code.lancepollard.com/complete-list-of-html-meta-tags/",
-      "time": "00:55:00"
+      "time": "00:55:00",
+      "description": "Wer hat das gute alte <code>&lt;meta http-equiv=\"Page-Enter\" content=\"RevealTrans(Duration=2.0,Transition=2)\"&gt;</code> nicht vermisst? Dieses Schmuckstück und viele weitere skurrile und vergessene Meta Tags kann die Liste vorweisen, auch wenn man leider vergessen hat zu den jeweiligen Dokumentationen zu verlinken…"
     },
     {
       "name": "Bourbon Sass Mixins",
       "href": "http://thoughtbot.com/bourbon/",
-      "time": "00:55:00"
+      "time": "00:55:00",
+      "description": "Keine Konkurrenz zu <a href=\"http://compass-style.org/\">Compass</a> stellt die Mixins Sammlung namens Bourbon dar &#8211; eine ganze Menge nützlicher kleiner Erweiterungen bringt das Paket jedoch trotzdem auf den Tisch. Bourbon und Compass können freilich auch gemeinsam benutzt werden."
     }
-  ],
-  "randomSpec": []
+  ]
 }

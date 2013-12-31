@@ -30,48 +30,55 @@
   "href": "http://workingdraft.de/63/",
   "audio": "http://workingdraft.de/podpress_trac/web/1095/0/wd-63.mp3",
   "title": "Responsiver Content, Firefox 11 und Offene Datenquellen",
+  "description": "Wer dieses mal noch nicht dabei war, aber nächstes mal gerne auch mitdiskutieren möchte, folgt uns am besten <a href=\"http://twitter.com/#!/workingdraft/\">auf Twitter</a> und macht sich mit <a href=\"http://de.wikipedia.org/wiki/Internet_Relay_Chat\">IRC</a> vertraut. Unseren Chat findet ihr auf <a href=\"http://webchat.freenode.net/?channels=workingdraft\">Freenote im Channel #workingdraft</a>.\n\nHans und Peter sprechen mit Stammgast <a title=\"Rodney bei Twitter\" href=\"https://twitter.com/#!/rodneyrehm\">Rodney Rehm</a> über die Neuerungen der vergangenen Woche.<br>\nAuch diese Woche hatten wir wieder einen Live-Stream am Start. Danke für alle, die zugehört und im Chat mit diskutiert haben.",
   "topics": [
     {
       "name": "CSS: The Bad Parts",
       "href": "http://www.impressivewebs.com/css-the-bad-parts/",
-      "time": "00:00:17"
+      "time": "00:00:17",
+      "description": "Louis Lazaris beschreibt in seinem Blog, dass CSS, ähnlich wie JavaScript, nicht nur gute Seite hat. Darunter zählen seiner Meinung nach u. a. das Standart Box Modell, Floats und Vendor Prefixes. Zum Glück gibt es für einige Sachen recht einfache Abhilfe: Beim Box Modell ist das zum Beispiel die generelle Benutzung vom Border-Box Modell, wie <a href=\"http://paulirish.com/2012/box-sizing-border-box-ftw/\">Paul Irish</a> es beschreibt. Dabei kann <a href=\"https://github.com/Schepp/box-sizing-polyfill\">Schepps Polyfill</a> für alte Browser ziemlich hilfreich sein."
     },
     {
       "name": "iPad – Retina Display FTW oder WTF?",
       "href": "http://praegnanz.de/weblog/webdesign-retina-display-fonts",
-      "time": "00:13:14"
+      "time": "00:13:14",
+      "description": "Das neue iPad (aka. <a href=\"http://www.quirksmode.org/blog/archives/2012/03/the_ipad_3_and.html\">iPad 3)</a> ist da. Angesichts der großen Auflösung des iPad-Displays gibt es für uns als Entwickler ein paar Probleme: Wie liefern wir Content (zum Beispiel <a href=\"http://www.w3.org/community/respimg/\">Bilder</a>), der auch <a href=\"http://blog.cloudfour.com/how-apple-com-will-serve-retina-images-to-new-ipads/\">bei dieser Auflösung</a> noch gut aussieht über viel zu <a href=\"http://www.w3.org/TR/netinfo-api/\">langsame Internet-Verbindungen</a>? Oder jammern wir hier auf einem sehr hohen Niveau?"
     },
     {
       "name": "Responsive Werbung",
       "href": "http://www.ravelrumba.com/blog/responsive-ads-real-world-ad-server-implementation/",
-      "time": "00:28:50"
+      "time": "00:28:50",
+      "description": "Rob Flaherty präsentiert eine Möglichkeit, wie man Werbung mittels JavaScript auf Mobile Endgeräte anpassen kann. Rodney berichtet von seinen Erfahrungen mit Werbe-Agenturen und sieht das Problem nicht bei der Implementierung sondern viel mehr bei der Erstellung der Werbung. Mark Boulton schrieb vor einiger Zeit zu diesem Thema einen <a href=\"http://www.markboulton.co.uk/journal/comments/responsive-advertising\">sehr interessanten Artikel</a>."
     },
     {
       "name": "Firefox 11",
       "href": "https://developer.mozilla.org/en/Firefox_11_for_developers",
-      "time": "00:50:43"
+      "time": "00:50:43",
+      "description": "Firefox 11 ist gerade frisch raus gekommen. Was gibt es neues für uns Entwickler? Zu erwähnen ist da auf jeden Fall die <a href=\"https://developer.mozilla.org/en/Tools/Page_Inspector/3D_view\">3D View</a> in den <a href=\"https://developer.mozilla.org/en/Tools/Page_Inspector\">Developer-Tools</a>. Außerdem sprechen wir über die Device APIs wie z. B. der <a href=\"https://developer.mozilla.org/en/DOM/window.navigator.mozBattery\">Zugriff auf die Batterie</a>."
     },
     {
       "name": "Open Source Data",
-      "time": "01:01:28"
+      "time": "01:01:28",
+      "description": "Zum Abschluss sprechen wir über offene Datenquellen, die für uns internet-affine Menschen sehr nützlich sein können. Mit dem Projekt <a href=\"http://data.brighterplanet.com/\">Brighter Planet</a> passiert hier etwas. Um leichter an Daten aus Deutschland zu kommen, hat sich <a href=\"https://fragdenstaat.de/\">Frag den Staat</a> zur Aufgabe gemacht, diese Anfragen zu Sammeln und an den Staar zu stellen."
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "Paul Irish über nen heißesten Scheiß im Chrome auf der SXSW",
       "href": "https://plus.google.com/113127438179392830442/posts/W5ZRu1gWQBi",
-      "time": "01:15:25"
+      "time": "01:15:25",
+      "description": "Interesante Neuerungen, wie z. B. CSS Regions und Filters oder einige Device APIs"
     },
     {
       "name": "ScrollPath",
       "href": "https://github.com/JoelBesada/scrollpath",
-      "time": "01:15:25"
+      "time": "01:15:25",
+      "description": "Ein jQuery Plugin zum einfachen definieren von eigenen Scroll-Pfaden"
     },
     {
       "name": "JavaScript Extremoptimierungssport",
-      "time": "01:15:25"
+      "time": "01:15:25",
+      "description": "Einige Artikel zum Thema Performance: <a href=\"http://www.scirra.com/blog/76/how-to-write-low-garbage-real-time-javascript\">[1]</a>, <a href=\"http://floitsch.blogspot.de/2012/03/optimizing-for-v8-introduction.html\">[2]</a>, <a href=\"http://floitsch.blogspot.de/2012/03/optimizing-for-v8-inlining.html\">[3]</a>. Außerdem: <a href=\"https://docs.google.com/present/view?id=0Ac0YlG9vMA2LZHE1MnpycF8yMGZ6ZnZxa2hy&amp;pli=1\">JS Mythen aufgedeckt</a>!"
     }
-  ],
-  "randomSpec": []
+  ]
 }

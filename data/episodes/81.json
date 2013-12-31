@@ -35,21 +35,25 @@
   "href": "http://workingdraft.de/81/",
   "audio": "http://workingdraft.de/podpress_trac/web/1378/0/wd-81.mp3",
   "title": "Seamless Iframes, relative Fontgrößen und ein Berg Links",
+  "description": "Dieses mal waren Schepp, Hans, Kahlil und Special Guest <a href=\"http://twitter.com/bkastl\">Benedikt Kastl</a> am Start um den Webkram der letzten Woche zu besprechen. ",
   "topics": [
     {
       "name": "Seamless iFrames",
       "href": "http://benvinegar.github.com/seamless-talk/",
-      "time": "00:01:30"
+      "time": "00:01:30",
+      "description": "Wir sprechen über Ben Vinegars Vortrag über Seamless iFrames und erklären was das ist."
     },
     {
       "name": "How we learned to leave default font-size alone and embrace the em",
       "href": "http://filamentgroup.com/lab/how_we_learned_to_leave_body_font_size_alone/",
-      "time": "00:14:40"
+      "time": "00:14:40",
+      "description": "Die Filament Group erzählt wie sie am liebsten Font Sizes deklarieren und wir auch."
     },
     {
       "name": "HTML5 Web applications and libraries survey",
       "href": "https://hacks.mozilla.org/2012/07/html5-web-applications-and-libraries-survey-first-results/",
-      "time": "00:28:40"
+      "time": "00:28:40",
+      "description": "Wie sehen Mobilentwickler Schwerpunkte bei Plattformen und Frameworks? Und was für Schlüsse kann man daraus ziehen?"
     }
   ],
   "news": [
@@ -98,7 +102,8 @@
     {
       "name": "MySQL Datenbanken abgleichen mit Toad > Datenbanken > MySQL, Synchronisation",
       "href": "http://www.guido-muehlwitz.de/2012/07/mysql-datenbanken-abgleichen/",
-      "time": "00:39:40"
+      "time": "00:39:40",
+      "description": "Alternativ geht das auch mit <a href=\"http://www.dswsoft.com/sqlbalance.php\">SQLBalance for MySQL</a>"
     },
     {
       "name": "Latency: The New Web Performance Bottleneck – igvita.com",
@@ -110,6 +115,5 @@
       "href": "http://2012.inspireconf.com/",
       "time": "00:39:40"
     }
-  ],
-  "randomSpec": []
+  ]
 }

@@ -20,65 +20,75 @@
   "href": "http://workingdraft.de/125/",
   "audio": "http://workingdraft.de/podpress_trac/web/1981/0/wd-125.mp3",
   "title": "Bye, Bye, Chrome Frame und Table Layouts",
+  "description": "Diese Woche sind fast alle irgendwie unterwegs. Deshalb lud Hans sich Stammgast <a href=\"http://helloanselm.com/\">Anselm Hannemann</a> ein, um ein bisschen über die aktuellen Themen des Web zu sprechen.",
   "topics": [
     {
       "name": "Bye, Bye, Chrome Frame",
       "href": "http://blog.chromium.org/2013/06/retiring-chrome-frame.html",
-      "time": "00:00:33"
+      "time": "00:00:33",
+      "description": "Google wird ab Januar 2014 Chrome Frame nicht weiter supporten oder entwickeln. Dadurch fällt die Möglichkeit moderne Features auch in alten Browsern zu nutzen weg. Wir finden es schade, dass Chrome Frame stirbt, sehen es aber als logische Konsequenz des aktuellen User-Zahlen veralteter Browser."
     },
     {
       "name": "CSS stacking with display:table",
       "href": "http://www.iandevlin.com/blog/2013/06/css/css-stacking-with-display-table",
-      "time": "00:12:44"
+      "time": "00:12:44",
+      "description": "Mit CSS Flexbox kann man Elemente beliebig sortieren, egal wie sie im Markup eingebunden sind. Ian Devlin zeigt eine Möglichkeit, wie das zumindest teilweise auch mit <code>display: table</code> und anderen <code>display</code>-Werten gemacht werden kann. Anselm führt an, dass das eventuell zu Problemen auf Screenreadern kommen kann, doch ist das tatsächlich so?"
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "Web Development Reading List",
       "href": "http://wdrl.helloanselm.com/",
-      "time": "00:23:00"
+      "time": "00:23:00",
+      "description": "Die Reading List von Anselm gibt es nun als tatsächlichen Newsletter. Anmelden!"
     },
     {
       "name": "Why We Need Responsive Images",
       "href": "http://www.timkadlec.com/2013/06/why-we-need-responsive-images/",
-      "time": "00:23:00"
+      "time": "00:23:00",
+      "description": "Eine Auswertung, wie viel Kilobytes man sich mit Responsive Images tatsächlich sparen könnte."
     },
     {
       "name": "DevTool Secrets",
       "href": "http://devtoolsecrets.com/",
-      "time": "00:23:00"
+      "time": "00:23:00",
+      "description": "Eine Liste an nützlichen Tips für die Developer Tools. Peter hat zufälligerweise <a href=\"http://www.peterkroener.de/50-kleine-tipps-und-tricks-zu-den-chrome-developer-tools/\">auch einige Tips</a> zusammengetragen."
     },
     {
       "name": "Grumpicon",
       "href": "http://www.grumpicon.com/",
-      "time": "00:23:00"
+      "time": "00:23:00",
+      "description": "Drag and Drop SVGs in die App und man bekommt PNG Fallbacks zurück und die einfachste Möglichkeit diese im CSS einzusetzen."
     },
     {
       "name": "Web Fonts and the Critical Path",
       "href": "http://ianfeather.co.uk/web-fonts-and-the-critical-path/",
-      "time": "00:23:00"
+      "time": "00:23:00",
+      "description": "Webfonts können die Ladezeit einer Seite negativ beeinflussen. Dieser Artikel gibt eine gute Übersicht, was man beachten sollte."
     },
     {
       "name": "Designing for the empty state",
       "href": "http://tympanus.net/codrops/2013/01/09/designing-for-the-empty-states/",
-      "time": "00:23:00"
+      "time": "00:23:00",
+      "description": "Einige Ideen für Apps und Websites, wie man leere Inboxes, Fehlermeldungen und ähnliches gestalten kann."
     },
     {
       "name": "Front-Trends Videos",
       "href": "http://vimeo.com/fronttrends",
-      "time": "00:23:00"
+      "time": "00:23:00",
+      "description": "Interessante Vorträge von der Front-Trends sind nun online."
     },
     {
       "name": "HTML Inspector",
       "href": "http://philipwalton.com/articles/introducing-html-inspector/",
-      "time": "00:23:00"
+      "time": "00:23:00",
+      "description": "HTML Inspector ist eine JS Library, die als (HTML) Validator, Konventions-Überprüfer und erweiterungsfähiges Tool funktioniert."
     },
     {
       "name": "The JavaScript Behind Touch-Friendly Sliders",
       "href": "http://css-tricks.com/the-javascript-behind-touch-friendly-sliders/",
-      "time": "00:23:00"
+      "time": "00:23:00",
+      "description": "Es ist nicht so schwierig einen Slider zugänglich für Touch Geräte zu machen. Seht selbst."
     }
-  ],
-  "randomSpec": []
+  ]
 }

@@ -23,21 +23,25 @@
   "href": "http://workingdraft.de/124/",
   "audio": "http://workingdraft.de/podpress_trac/web/1970/0/wd-124.mp3",
   "title": "Screen Readers, CSP und In-depth Script Loading",
+  "description": "Kleine Runde, große Spieldauer: In der 124. Revision des Working Drafts beleuchten der Schepp und Stefan eine Reihe eher JavaScript-lastige Themen. Neben dem gewohnten Programm gibt es auch noch eine Verlosung: <a href=\"http://twitter.com/asciidisco\">Sebastian Golasch</a> stellt uns ein Ticket für das <a href=\"http://braincamp-cologne.com/\">Braincamp Cologne</a> zur Verfügung! Unsere Trello Notizen findet ihr <a href=\"https://trello.com/board/revision-124/51af3edd75aa1e654d002c06\">hier</a>.",
   "topics": [
     {
       "name": "Screen Readers at a Crossroads",
       "href": "http://accessibility.oit.ncsu.edu/blog/2013/05/31/screen-readers-at-a-crossroads/",
-      "time": "00:00:28"
+      "time": "00:00:28",
+      "description": "Auf der letzten Google IO hat man die <a href=\"http://www.youtube.com/watch?v=YyWu9HB9QtU\">ChromeVox API</a> vorgestellt. Diese ermöglicht die zusätzliche Annotierung von Webseiten Content speziell für Screen Reader. Große Chance für qualitative Inhalte oder direkter Weg um Unfug anzustellen? Wir versuchen diese Frage zu beantworten und geben die Quintessenz des Artikels der NC State University wieder."
     },
     {
       "name": "CSP to the Rescue",
       "href": "https://blog.twitter.com/2013/csp-rescue-leveraging-browser-security",
-      "time": "00:11:58"
+      "time": "00:11:58",
+      "description": "Spätestens seit der ersten jQuery EU Konferenz und dem äußerst informativen Primer von <a href=\"https://mikewest.org/2011/10/content-security-policy-a-primer\">Mike West</a> ist die Working Draft Crew erklärter Fan des Content Security Protocols. Twitter hat CSP nun auf ihren Seiten implementiert und den Schalter vorerst auf &#8220;Analyse&#8221; gestellt. Perfektes Timing, denn CSP ist in Version 1.0 nun auch in <a href=\"https://hacks.mozilla.org/2013/05/content-security-policy-1-0-lands-in-firefox-aurora/\">Firefox Aurora</a>. "
     },
     {
       "name": "Deep dive into the murky waters of script loading",
       "href": "http://www.html5rocks.com/en/tutorials/speed/script-loading/",
-      "time": "00:28:00"
+      "time": "00:28:00",
+      "description": "JavaScript laden ist ja eh einfach, oder? Nun, theoretisch schon, praktisch gibt&#8217;s da aber eine Menge an Alternativen, die ihr für und wider haben. Jake Archibald listet diese ausführlich auf, die Moderatoren geben fröhlich ihren Senf dazu ab. Die eine wahre Methode? Gibt&#8217;s wahrscheinlich nicht. Dafür aber <a href=\"http://www.chromium.org/spdy/link-headers-and-server-hint/link-rel-subresource\">die subsource Ausprägung des rel-Attributs</a>, die uns zumindest neu war."
     }
   ],
   "news": [],
@@ -45,38 +49,44 @@
     {
       "name": "HTML5 Accesibility",
       "href": "http://html5accessibility.com/",
-      "time": "00:42:43"
+      "time": "00:42:43",
+      "description": "Über den Status der Accessibility Unterstützung in den aktuellen HTML5 Browsern"
     },
     {
       "name": "Fluent Conf 2013",
       "href": "http://www.youtube.com/playlist?list=PL055Epbe6d5avZGXwE5u039VQq_oQFgrc",
-      "time": "00:42:43"
+      "time": "00:42:43",
+      "description": "Die Videos der diesjährigen Fluent Conf sind da!"
     },
     {
       "name": "iOS Webkit Debug Proxy",
       "href": "https://github.com/google/ios-webkit-debug-proxy",
-      "time": "00:42:43"
+      "time": "00:42:43",
+      "description": "Google veröffentlicht einen Proxy, um in den Dev Tools nicht nur Mobile Safari, sondern auch alle UIWebViews zu debuggen"
     },
     {
       "name": "Portal in CSS3",
       "href": "http://hop.ie/blog/portal/",
-      "time": "00:42:43"
+      "time": "00:42:43",
+      "description": "Eine Szene aus dem Portal Game in CSS3 implementiert. Und nebenbei gute Übersicht über alle 3D Transformationen."
     },
     {
       "name": "Conditioner",
       "href": "https://github.com/rikschennink/conditioner",
-      "time": "00:42:43"
+      "time": "00:42:43",
+      "description": "Browsereigenschaften checken und entsprechend Content laden? Das macht der Conditioner."
     },
     {
       "name": "Picnicc",
       "href": "https://picni.cc/",
-      "time": "00:42:43"
+      "time": "00:42:43",
+      "description": "Parametrisierte Builds, einfach gemacht."
     },
     {
       "name": "Verlosung: Ticket für BrainCamp Cologne",
       "href": "http://braincamp-cologne.com",
-      "time": "00:42:43"
+      "time": "00:42:43",
+      "description": "Wir verlosen ein Ticket zum BrainCamp Cologne! Aufgabe ist easy und an entsprechender Stelle im Podcast zu hören. Antwort einfach in die Kommentare!"
     }
-  ],
-  "randomSpec": []
+  ]
 }

@@ -27,71 +27,83 @@
   "href": "http://workingdraft.de/108/",
   "audio": "http://workingdraft.de/podpress_trac/web/1816/0/wd-108.mp3",
   "title": "asm.js, UA Sniffing und Operas Wechsel zu WebKit",
+  "description": "Als lieben Gast hatten sich Christian und Hans diesmal <a href=\"https://twitter.com/asciidisco\">Sebastian Golasch</a> dazu geholt, der bereits einige Male zu Gast war und jedes mal eine Bereicherung für die Sendung ist.",
   "topics": [
     {
       "name": "asm.js",
       "href": "http://asmjs.org/spec/latest/",
-      "time": "00:01:53"
+      "time": "00:01:53",
+      "description": "Mozilla veröffentlicht <a href=\"http://www.2ality.com/2013/02/asm-js.html\">asm.js</a>, einer <a href=\"http://news.ycombinator.com/item?id=5227637\">Untermenge von JavaScript</a>, <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=840282\">getrimmt auf Performance</a>. Wir diskutieren über den Einsatzbereich von asm.js und on man es wirklich braucht."
     },
     {
       "name": "UA Sniffing",
       "href": "https://plus.google.com/104906919451670502090/posts/hUVziQApKtJ",
-      "time": "00:15:02"
+      "time": "00:15:02",
+      "description": "Pamela Fox schreibt über UA Sniffing und Fälle, bei denen es sinnvoll sein kann auf UA Sniffing zu vertrauen, anstatt Feature Detection zu nutzen."
     },
     {
       "name": "Opera wechselt zu WebKit",
       "href": "http://my.opera.com/ODIN/blog/300-million-users-and-move-to-webkit",
-      "time": "00:25:31"
+      "time": "00:25:31",
+      "description": "Buhuu… Die Meldung der Woche. Auch wir beteiligen uns an der Diskussion und sprechen über die Vor- und Nachteile dieses Schrittes. Als Diskussionsgrundlage bauen wir unter anderem auf <a href=\"https://plus.google.com/116237864387312784020/posts/iRRPVaaPQvo\">Jake Archibalds Artikel</a> auf."
     }
   ],
   "news": [
     {
       "name": "Adobe Edge Relow",
       "href": "http://www.golem.de/news/edge-reflow-html5-tool-fuer-responsive-webdesign-von-adobe-1302-97610.html",
-      "time": "00:00:22"
+      "time": "00:00:22",
+      "description": "Adobe veröffentlicht ein Tool für Responsive Webdesign um Photoshop zu verdrängen."
     },
     {
       "name": "Grunt 0.4.0 veröffentlich",
       "href": "http://gruntjs.com/blog/2013-02-18-grunt-0.4.0-released",
-      "time": "00:00:22"
+      "time": "00:00:22",
+      "description": "Nach langer Entwicklungszeit ist Grunt 0.4.0 nun endlich veröffentlicht."
     }
   ],
   "links": [
     {
       "name": "Edge Conference – Videos",
       "href": "http://www.youtube.com/playlist?list=PLNYkxOF6rcICCU_UD67Ga0qLvMjnBBwft",
-      "time": "00:40:45"
+      "time": "00:40:45",
+      "description": "Einige interessante Panel-Diskussionen zu verschiedensten Webthematiken."
     },
     {
       "name": "Screensharing with getUserMedia",
       "href": "https://plus.google.com/118075919496626375791/posts/7U9fkCRM4SM",
-      "time": "00:40:45"
+      "time": "00:40:45",
+      "description": "Chrome Canary unterstützt Fullscreen-Sharing. Eine Demo dazu hat Eric Bidelman zusammengezimmert."
     },
     {
       "name": "Dialogboxen und a11y",
       "href": "http://www.nczonline.net/blog/2013/02/12/making-an-accessible-dialog-box/",
-      "time": "00:40:45"
+      "time": "00:40:45",
+      "description": "Nicholas Zakas beschreibt wie man mit wenigen aria-roles und ein bisschen JavaScript Dialogboxen zugänglich macht."
     },
     {
       "name": "Distilled Hype sucht Nachwuchs",
       "href": "https://twitter.com/distilledhype/status/302769351654768640",
-      "time": "00:40:45"
+      "time": "00:40:45",
+      "description": "Unser Co-Host Kahlil such Hilfe für sein Link-Blog <a href=\"http://distilledhype.com/\">Distilled Hype</a>."
     },
     {
       "name": "Flexbox richtig gemacht",
       "href": "http://css-tricks.com/using-flexbox/",
-      "time": "00:40:45"
+      "time": "00:40:45",
+      "description": "Chris Coyier beschreibt, wie man Flexbox richtig nutzt – mit der alten und neuen Syntax kombiniert."
     },
     {
       "name": "Textillate",
       "href": "http://jschr.github.com/textillate/",
-      "time": "00:40:45"
+      "time": "00:40:45",
+      "description": "Mit Textillate kann man Buchstaben und Text toll animieren."
     },
     {
       "name": "Lazy Line Painter",
       "href": "http://lazylinepainter.info/",
-      "time": "00:40:45"
+      "time": "00:40:45",
+      "description": "LLP malt SVGs. Demo anschauen!"
     }
-  ],
-  "randomSpec": []
+  ]
 }

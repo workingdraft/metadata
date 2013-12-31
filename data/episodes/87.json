@@ -31,29 +31,33 @@
   "href": "http://workingdraft.de/87/",
   "audio": "http://workingdraft.de/podpress_trac/web/1475/0/wd87.mp3",
   "title": "Position Sticky",
+  "description": "Diesmal haben sich Hans, Rodney und Kahlil zum schnacken getroffen.",
   "topics": [
     {
       "name": "Stick your landings! position: sticky lands in WebKit – HTML5Rocks Updates",
       "href": "http://updates.html5rocks.com/2012/08/Stick-your-landings-position-sticky-lands-in-WebKit",
-      "time": "00:01:14"
+      "time": "00:01:14",
+      "description": "`position: sticky` ist im Webkit gelandet gelandet und wir beschreiben was das macht und ob das gut ist."
     },
     {
       "name": "visionmedia/rework",
       "href": "https://github.com/visionmedia/rework",
-      "time": "00:12:20"
+      "time": "00:12:20",
+      "description": "Es gibt einen neuen CSS Präprozessor und wir eruieren wie es sich von den anderen unterscheidet und ob es Sinn macht."
     },
     {
       "name": "rstacruz/css-condense",
       "href": "https://github.com/rstacruz/css-condense",
-      "time": "00:22:49"
+      "time": "00:22:49",
+      "description": "Ein Tool, das Dein CSS kondensiert. Es hat ungefährliche und gefährliche Methoden. Es wird über den Sinn des ganzen sinniert."
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "Heatfilter",
       "href": "https://github.com/qfox/Heatfiler",
-      "time": "00:31:20"
+      "time": "00:31:20",
+      "description": "JS profiler slash code coverage reporting tool"
     },
     {
       "name": "Domvas. Print DOM Elements in Canvas",
@@ -63,7 +67,8 @@
     {
       "name": "jQuery Conf 2012 Videos",
       "href": "http://confreaks.com/events/jqcon2012",
-      "time": "00:31:20"
+      "time": "00:31:20",
+      "description": "Tolle Talks von der jQuery Conf."
     },
     {
       "name": "A Front-End Manifesto",
@@ -78,8 +83,8 @@
     {
       "name": "NodeCopter",
       "href": "http://nodecopter.com/",
-      "time": "00:31:20"
+      "time": "00:31:20",
+      "description": "A full day of programming flying robots with<br>\nnode.js in Berlin (the day before JSConf.eu)!"
     }
-  ],
-  "randomSpec": []
+  ]
 }

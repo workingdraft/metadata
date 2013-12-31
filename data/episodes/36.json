@@ -34,29 +34,33 @@
   "href": "http://workingdraft.de/36/",
   "audio": "http://workingdraft.de/podpress_trac/web/727/0/wd-36.mp3",
   "title": "Ohne Jan, aber mit Delay",
+  "description": "Wir hatten einen Gast, und zwar den <a href=\"http://www.twitter.com/anselmhannemann\">Anselm</a>, <a href=\"http://anselm.novolo.de/\">Webworker</a> aus München und frischgebackener Autor eines <a href=\"http://www.video2brain.com/de/products-833.htm\">Videotrainings</a>. Außerdem mit von der Partie: ein zehnsekündiges Delay auf Markus&#8217; Leitung.",
   "topics": [
     {
       "name": "Redesigning the Browser Window",
       "href": "http://blogg.antrop.se/interaktionsdesign/redesigning-the-browser-window/",
-      "time": "00:02:29:000"
+      "time": "00:02:29:000",
+      "description": "Browser-UI wird immer komprimierter, aber die grundlegenden Paradigmen ändern sich kaum. Hier macht jemand den Vorschlag, die Tab-Leiste als Sidebar zu implementieren und dadurch die Vertikale zu entlasten. Immerhin sind auch die meisten Websites vertikal angelegt."
     },
     {
       "name": "HTML5 Boilerplate 2.0",
       "href": "http://html5boilerplate.com/#v2",
-      "time": "00:17:02:000"
+      "time": "00:17:02:000",
+      "description": "Der Paule meint, es müsse jetzt 2.0 heißen. Ansich ändert sich nicht viel. Normalize.css statt Reset.css, besseres Buildscript und Scripts werden mit defer geladen. <a href=\"https://github.com/smooth-graphics/modx-boilerplate\">Gibt&#8217;s nu auch für MODX</a>"
     },
     {
       "name": "Script-Loader vs. keine Script-Loader",
       "href": "https://github.com/paulirish/html5-boilerplate/issues/28#issuecomment-1773156",
-      "time": "00:32:06:000"
+      "time": "00:32:06:000",
+      "description": "Paule fragt nach, ob man Script-Loader braucht oder nicht. Auch wir sind uns einig, dass Script-Loader in den meisten Fällen eine Schicht zu viel Technik sind. Schepp&#8217;s HTTP-Test übrigens <a href=\"http://www.der-schepp.de/http-connects/\">hier</a>."
     },
     {
       "name": "Adobe Muse",
       "href": "http://muse.adobe.com/",
-      "time": "00:44:21:000"
+      "time": "00:44:21:000",
+      "description": "tl;dl: It sucks!"
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "Finding memory leaks",
@@ -83,6 +87,5 @@
       "href": "http://mattkersley.com/responsive/",
       "time": "01:03:07:000"
     }
-  ],
-  "randomSpec": []
+  ]
 }

@@ -26,66 +26,76 @@
     {
       "name": "Silbentrennung landet im Firefox",
       "href": "https://bugzilla.mozilla.org/show_bug.cgi?id=253317",
-      "time": "00:00:28"
+      "time": "00:00:28",
+      "description": "Wir reden darüber, warum es höchste Zeit und vor allem unabdingbar ist, dass unsere Browser Silbentrennung lernen, auch wenn es Krücken wie den <a href=\"http://code.google.com/p/hyphenator/\">Hyphenator</a> gibt. Im Firefox (Nightly) nun anwendbar per <code>-moz-hyphens:auto</code>-Anweisung auf dem silbenzutrennenden Text."
     },
     {
       "name": "Neuerungen in jQuery 1.6",
       "href": "http://api.jquery.com/category/version/1.6/",
-      "time": "00:07:06"
+      "time": "00:07:06",
+      "description": "Die neue jQuery-Version (übrigens eine der letzten mit John Resig im Team), beherrscht einige schöne Neuerungen wie die Nutzung von <code><a href=\"http://www.nczonline.net/blog/2011/05/03/better-javascript-animations-with-requestanimationframe/\">requestAnimationFrame</a></code> und die Bereitstellung der <a href=\"http://api.jquery.com/jQuery.holdReady/\"><code>holdReady</code>-Methode</a>. Es wurde jedoch auch die Funktionalität der bisherigen <code>attr</code>-Methode verändert und Aufgaben an die neue <code>prop</code>-Methode abgegeben. Das kann beim einem simplen Auswechseln der Basis-Bibliothek zu einigen Problemen führen."
     },
     {
       "name": "jquery.com uses only 34% of jQuery",
       "href": "http://blog.bolinfest.com/2011/04/jquerycom-uses-only-34-of-jquery.html",
-      "time": "00:11:32"
+      "time": "00:11:32",
+      "description": "Michael Bolin, ein Google Closure Tools Spezialist, hat mit Hilfe eines selbsterstellten Firefox-Addons namens <a href=\"https://addons.mozilla.org/en-US/firefox/addon/jsbloat/\">jsBloat</a> herausgefunden, dass in den meisten Fällen bestenfalls ein Drittel des in jQuery enthaltenen Codes zur Ausführung kommt. Die restlichen zwei Drittel könnten ohne Auswirkungen entfernt werden. Ungenutze Code-Teile kann man mit dem <a href=\"http://code.google.com/closure/compiler/docs/api-tutorial3.html\">Advanced mode des Google Closure Compilers</a> Herausoptimieren lassen."
     },
     {
       "name": "JavaScript Semicolon Insertion – Everything you need to know",
       "href": "http://inimino.org/~inimino/blog/javascript_semicolons",
-      "time": "00:19:06"
+      "time": "00:19:06",
+      "description": "Dieser Artikel zeigt, dass man in JavaScript (respektive ECMAScript) eigentlich fast überall die Semikola weglassen könnte, so man denn bestimmte Dinge beachtet. Wir reden darüber, ob wir das sinnvoll finden."
     },
     {
       "name": "traceur-compiler – Google’s vehicle for Javascript Language Design Experimentation",
       "href": "https://code.google.com/p/traceur-compiler/",
-      "time": "00:26:20"
+      "time": "00:26:20",
+      "description": "Traceur ist ein JavaScript-Transpiler, der es heute schon erlaubt, mit dem JavaScript von morgen, nämlich JS.next, herumzuspielen. Der Transpiler wandelt den JS.next Code in heute verfügbares JS um. Sinn und Zweck der Sache ist dass Entwickler frühzeitig Input und Feedback aus der Praxis zum gerade entstehenden JS.next-Standard zurückliefern können."
     },
     {
       "name": "RewardJS",
       "href": "http://rewardjs.com/",
-      "time": "00:37:16"
+      "time": "00:37:16",
+      "description": "Bei RewardJS handelt es sich ausnahmsweise mal nicht um eine JavaScript-Bibliothek, sondern um ein Belohnungssystem für JavaScript-Entwickler, die Bugs in gebräuchlichen Bibliotheken reparieren. Dazu wird jeden Monat eine neue Kampagne lanciert, die sich ausschließlich um eine bugbehaftete Bibliothek dreht. Täglich, wöchentlich und monatlich werden dann Sachpreise für fleissige Crowdsourcer ausgelobt."
     },
     {
       "name": "Measure Page Load Time with Site Speed Analytics Report",
       "href": "http://analytics.blogspot.com/2011/05/measure-page-load-time-with-site-speed.html",
-      "time": "00:42:59"
+      "time": "00:42:59",
+      "description": "Google erweitert sein Analytics Tracking um die Fähigkeit, Ladezeiten mitzutracken. Das neue Feature ist jedoch nicht von Haus aus aktiv, sondern muss explizit per <code>_gaq.push(['_trackPageLoadTime']);</code> angeschmissen werden. Von da an misst es bei stichprobenartig ausgewählten Besuchern die Seitenladezeit mit Hilfe der <a href=\"http://blog.yottaa.com/2011/03/w3c-navigation-timing-api-better-page-load-time-measurements-in-chrome-and-ie\">W3C Navigation Timing API</a> in IE9 und Chrome, respektive der Google Toolbar in den anderen Browsern. Die Daten lassen sich anschließend in Zusammenhang setzen mit den bekannten Filtermöglichkeiten wie &#8220;Welche Unterseite, Browser, Geolocation, etc.&#8221; Wem Google Analytics nicht liegt, der kann zu diesem Zweck auch auf <a href=\"https://github.com/yahoo/boomerang\">Yahoo! Boomerang</a> zurückgreifen."
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "Microjs",
       "href": "http://microjs.com/",
-      "time": "00:49:33"
+      "time": "00:49:33",
+      "description": "Ein Verzeichnis von JavaScript Microframeworks für jeden Einsatzzweck."
     },
     {
       "name": "CSS Piffle",
       "href": "http://piffle.abdoc.net/",
-      "time": "00:50:10"
+      "time": "00:50:10",
+      "description": "Ein schön gemachtes CSS3-Autorenwerkzeug."
     },
     {
       "name": "HTML Email Boilerplate",
       "href": "http://htmlemailboilerplate.com/",
-      "time": "00:50:45"
+      "time": "00:50:45",
+      "description": "Eine hervorragende HTML/CSS-Code-Basis für den vollkommen verminten Bereich des Cross-Client-kompatiblen HTML-Newsletter-Baus."
     },
     {
       "name": "humans.txt",
       "href": "http://humanstxt.org/",
-      "time": "00:51:35"
+      "time": "00:51:35",
+      "description": "Analog zur <code>robots.txt</code> soll eine <code>humans.txt</code> als gute Gepflogenheit beim Webseitenbau etabliert werden. Der Zweck dieser Datei ist derselbe wie die Abspänne bei Filmen: Die Mitarbeit jedes Beteiligten nebst Nennung seines Arbeitbereichs ausweisen. Selbst Google nutzt mittlerweile eine <a href=\"http://www.google.com/humans.txt\">humans.txt</a>"
     },
     {
       "name": "70+ Beispiele für mobile Websites",
       "href": "http://www.blog.tocki.de/2011-05-05/70-beispiele-fur-mobile-websites/",
-      "time": "00:52:33"
+      "time": "00:52:33",
+      "description": "<a href=\"http://www.twitter.com/tocki\">Tilman Ockert</a> hat eine sehr inspirierende Sammlung für mobile Endgeräte optimierter Benutzeroberflächen zusammengestellt. Es handelt sich dabei sowohl um Apps als auch Websites. Wir sind geflasht!"
     }
-  ],
-  "randomSpec": []
+  ]
 }

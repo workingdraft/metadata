@@ -41,80 +41,93 @@
     {
       "name": "Vendor-Prefix-Gate",
       "href": "http://lists.w3.org/Archives/Public/www-style/2012Feb/0313.html",
-      "time": "00:00:22"
+      "time": "00:00:22",
+      "description": "Mozilla, Microsoft und Opera wollen CSS-Features mit Webkits Vendor-Prefix implementieren? Was hat die denn geritten und vor allem: wer ist Schuld an der Misere? Wir sondern unsere Meinungen ab und sprechen außerdem über:<p></p>\n<ul>\n<li><a href=\"http://www.quirksmode.org/blog/archives/2012/02/the_vendor_pref.html\">PPKs Meinung zu dem Thema</a>\n</li><li><a href=\"http://felipe.wordpress.com/2012/02/02/a-proposal-to-drop-browser-vendor-prefixes/\">Alternativen zum vendor-Prefix-Modell</a>\n</li><li><a href=\"http://codepo8.github.com/prefix-the-web/\">Chris Heilmanns Lösugsansatz</a>\n</li></ul>\n"
     },
     {
       "name": "Musings on Preprocessing",
       "href": "http://css-tricks.com/musings-on-preprocessing/",
-      "time": "00:28:30"
+      "time": "00:28:30",
+      "description": "Letzte Woche war die Woche, in der mehrere beleibte Männer das Licht der CSS-Präprozessoren gesehen haben. Wir nehmen die Erleuchtung von Chris Coyier zum Anlass, selbst das Thema einmal breit zu treten und unsere beliebtesten Präprozessoren nebst zugehörigen Tools zu lobpreisen. Zur Sprache kommen:\n<ul>\n<li><a href=\"http://sass-lang.com/\">Sass</a> und <a href=\"http://compass-style.org/\">Compass</a> (Präprozessor plus Framework)\n</li><li><a href=\"http://lesscss.org/\">Less</a> (Präprozessor)\n</li><li><a href=\"http://learnboost.github.com/stylus/\">Stylus</a> (Präprozessor)\n</li><li><a href=\"http://incident57.com/codekit/\">CodeKit</a>, ein GUI für Präprozessoren aller Art\n</li><li><a href=\"https://gist.github.com/1312469\">Peters Stylus-Server</a> der Marke Eigenbau\n</li></ul>\n"
     },
     {
       "name": "Neue CSS3-Drafts und neue Möglichkeiten",
-      "time": "00:51:42"
+      "time": "00:51:42",
+      "description": "Wir besprechen <a href=\"http://dev.w3.org/csswg/css-variables/\">den aktuellen Vorschlag für CSS-Variablen</a>, <a href=\"http://dev.w3.org/csswg/css3-hierarchies/\">native verschachtelte Selektoren</a>, <a href=\"http://dev.w3.org/csswg/css3-positioning/\">neue Positionierungs-Möglichkeiten</a> und obskure Winkelmaße aus dem Bergbau. Außerdem empfiehlt Paul Irish, <a href=\"http://paulirish.com/2012/box-sizing-border-box-ftw/\">nur noch mit dem Border-Box-Modell zu arbeiten</a>&nbsp;&ndash; ein Vorschlag, dem wir uns rundheraus anschließen (Erklärungen <a href=\"http://maddesigns.de/box-sizing-1597.html\">hier</a> und <a href=\"http://www.peterkroener.de/schoenes-neues-css-box-sizing/\">hier</a>, Polyfill <a href=\"https://github.com/Schepp/box-sizing-polyfill\">hier</a>)."
     },
     {
       "name": "SEO Ranking Faktoren für Deutschland 2012",
       "href": "http://www.searchmetrics.com/de/service/ranking-faktoren/de/",
-      "time": "01:05:05"
+      "time": "01:05:05",
+      "description": "Zeigt den Artikel euren Chefs, damit die Suchmaschinen-Kaputtoptimierer ihre fettigen Griffel von unserem HTML lassen und sich darauf konzentrieren, bei Twitter rumzuspammen. Denn, man glaubt es kaum, letzteres ist sehr viel erfolgversprechender!"
     },
     {
       "name": "Mozilla arbeitet an Push-Nachrichten",
       "href": "http://www.golem.de/news/mozilla-push-nachrichten-fuers-web-1202-89555.html",
-      "time": "01:09:47"
+      "time": "01:09:47",
+      "description": "Mittels Push-Nachricht können euch Webseiten Meldungen schicken, selbst wenn ihr sie gerade nicht offen habt. So ist jedenfalls die Theorie. Wir sagen: her damit!"
     },
     {
       "name": "Remote Tilt",
       "href": "http://remote-tilt.com/",
-      "time": "01:14:22"
+      "time": "01:14:22",
+      "description": "Ein sehr cooler Service, der die Events <a href=\"http://dev.w3.org/geo/api/spec-source-orientation.html#deviceorientation\">Device Orientation</a>- und <a href=\"http://dev.w3.org/geo/api/spec-source-orientation.html#devicemotion\">Device Motion</a>-APIs simuliert. So kann man Mobil-Apps, die die die Lagesensoren der Handys und Tablets verwenden, beqeum am Desktop-Rechner entwickeln."
     },
     {
       "name": "Multimediatreff 29",
       "href": "http://multimediatreff.de/",
-      "time": "01:20:17"
+      "time": "01:20:17",
+      "description": "Wir schieben ein wenig dreiste Propaganda für den 29. Multimediatreff, einer Konferenz rund um Webfoo für kleines Geld. Besonders möchten wir auf die dieses Jahr neu eingeführten <a href=\"http://multimediatreff.de/Workshops\">Workshops</a> verweisen, in denen man sich von absoluten Fach-Nerds mit frischem Wissen ausstatten lassen kann."
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "ShareJS",
       "href": "http://sharejs.org/",
-      "time": "01:24:12"
+      "time": "01:24:12",
+      "description": "Etherpad (und mehr) in JS/Node."
     },
     {
       "name": "CSS3 Test",
       "href": "http://lea.verou.me/2012/02/exactly-how-much-css3-does-your-browser-support/",
-      "time": "01:24:12"
+      "time": "01:24:12",
+      "description": "Was kann dein Browser?"
     },
     {
       "name": "Warum man das Placeholder-Attribut nicht als Ersatz für Labels nehmen sollte",
       "href": "http://www.zachleat.com/web/placeholder/",
-      "time": "01:24:12"
+      "time": "01:24:12",
+      "description": "Es soll ja Leute geben, die das machen."
     },
     {
       "name": "Addy Osmanis Talk über skalierbares JavaScript",
       "href": "http://addyosmani.com/scalable-javascript-videos/",
-      "time": "01:24:12"
+      "time": "01:24:12",
+      "description": "Auch für Nicht-Vollnerds verständlich und wertvoll."
     },
     {
       "name": "JavaScript Jabber",
       "href": "http://javascriptjabber.com/",
-      "time": "01:24:12"
+      "time": "01:24:12",
+      "description": "Neuer JS-Podcast"
     },
     {
       "name": "Music for programming",
       "href": "http://musicforprogramming.net/",
-      "time": "01:24:12"
+      "time": "01:24:12",
+      "description": "Speziell für Programmierer zusammengestellte Mixes. Und wenn Kahlil sagt, dass das guter Stoff ist, dann ist das auch guter Stoff."
     },
     {
       "name": "http://designpepper.com/podcasts-for-hackers",
       "href": "http://designpepper.com/podcasts-for-hackers",
-      "time": "01:24:12"
+      "time": "01:24:12",
+      "description": "Ganz viele Podcasts für Programmierer."
     },
     {
       "name": "Better JS with CoffeeScript",
       "href": "https://vimeo.com/35258313",
-      "time": "01:24:12"
+      "time": "01:24:12",
+      "description": "Warum CoffeeScript das Haus rockt."
     }
-  ],
-  "randomSpec": []
+  ]
 }

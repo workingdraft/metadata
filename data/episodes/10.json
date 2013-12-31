@@ -34,58 +34,69 @@
   "href": "http://workingdraft.de/10/",
   "audio": "http://workingdraft.de/podpress_trac/web/212/0/Revision-10_-H.264-vs.-WebM-Shadow-DOM-und-w3fools.com_.mp3",
   "title": "H.264 vs. WebM, Shadow DOM und w3fools.com",
+  "description": "Viel Spaß mit der Folge!\n\nNEU und BREAKING: Es gibt jetzt auch mal testweise Kapitelmarken. Bisher leider nur im MP4-Format. Wenn das Feature ankommt und ihr beispielsweise Ogg fordert, kann ich auch das geschehen lassen.\n\nFür die potenziell sprengsatzhaltige Diskussion um Googles Entscheidung, den H.264-Codec aus Chrome zu entfernen, holten wir uns <a href=\"http://praegnanz.de\">Gerrit van Aaken</a> mit ins Boot. Wir hoffen, dass die Audio-Qualität langsam in den Bereich des Erträglichen vordringt.",
   "topics": [
     {
       "name": "HTML Video Codec Support in Chrome",
-      "href": "http://blog.chromium.org/2011/01/html-video-codec-support-in-chrome.html"
+      "href": "http://blog.chromium.org/2011/01/html-video-codec-support-in-chrome.html",
+      "description": " "
     },
     {
       "name": "JavaScript Full Screen API, Navigation Timing and repeating CSS Gradients",
-      "href": "http://peter.sh/2011/01/javascript-full-screen-api-navigation-timing-and-repeating-css-gradients/"
+      "href": "http://peter.sh/2011/01/javascript-full-screen-api-navigation-timing-and-repeating-css-gradients/",
+      "description": " "
     },
     {
       "name": "photoshopetiquette.com",
-      "href": "http://photoshopetiquette.com/"
+      "href": "http://photoshopetiquette.com/",
+      "description": " "
     },
     {
       "name": "IndexedDB in Firefox 4",
-      "href": "https://hacks.mozilla.org/2011/01/indexeddb-in-firefox-4/"
+      "href": "https://hacks.mozilla.org/2011/01/indexeddb-in-firefox-4/",
+      "description": " "
     },
     {
       "name": "jQuery 1.5 Beta 1 released",
-      "href": "http://blog.jquery.com/2011/01/14/jquery-1-5-beta-1-released/"
+      "href": "http://blog.jquery.com/2011/01/14/jquery-1-5-beta-1-released/",
+      "description": " "
     },
     {
       "name": "Dojo 1.6 Release Notes",
-      "href": "http://docs.dojocampus.org/releasenotes/1.6"
+      "href": "http://docs.dojocampus.org/releasenotes/1.6",
+      "description": " "
     },
     {
       "name": "What the heck is Shadow DOM?",
-      "href": "http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/"
+      "href": "http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/",
+      "description": " "
     },
     {
       "name": "CSSOM, Vars, Mixins, etc. (=HTML Slides, zu navigieren per Cursortasten)",
-      "href": "http://www.xanthir.com/talks/2011-01-12/slides.html"
+      "href": "http://www.xanthir.com/talks/2011-01-12/slides.html",
+      "description": " "
     },
     {
       "name": "w3fools.com",
-      "href": "http://w3fools.com/"
+      "href": "http://w3fools.com/",
+      "description": " "
     },
     {
       "name": "CSS3 gradients in Webkit …",
-      "href": "http://webkit.org/blog/1424/css3-gradients/"
+      "href": "http://webkit.org/blog/1424/css3-gradients/",
+      "description": " "
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "Mobile Perf",
-      "href": "http://www.stevesouders.com/mobileperf/"
+      "href": "http://www.stevesouders.com/mobileperf/",
+      "description": " "
     },
     {
       "name": "Flash 10.2 beta",
-      "href": "http://labs.adobe.com/technologies/flashplayer10/"
+      "href": "http://labs.adobe.com/technologies/flashplayer10/",
+      "description": " "
     }
-  ],
-  "randomSpec": []
+  ]
 }

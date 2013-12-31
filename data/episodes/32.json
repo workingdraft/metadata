@@ -19,60 +19,69 @@
   "href": "http://workingdraft.de/32/",
   "audio": "http://workingdraft.de/podpress_trac/web/666/0/wd-32.mp3",
   "title": "Zwei hoch fünf",
+  "description": "Peter war als HTML5-Sithlord seine Padawane schulen und Markus qualmte von einer sehr produktiven Woche noch der Schädel. Daher hat sich Schepp mal mit dem lieben <a href=\"http://bueltge.de/\">Frank Bültge</a> (<a href=\"http://twitter.com/#!/bueltge\">@bueltge</a>) zusammengetan, seines Zeichens <a href=\"http://wpengineer.com/\">WordPress-Experte</a>, <a href=\"http://wordpress-buch.bueltge.de/\">Autor</a> und <a href=\"http://inpsyde.com/\">Mitveranstalter</a> des alljährlichen <a href=\"http://wordcamp.de/\">WordCamp Deutschland</a>.",
   "topics": [
     {
       "name": "Why I’ve built an Alternative to GitHub",
       "href": "http://blog.codeplane.com/why-ive-built-an-alternative-to-github.html",
-      "time": "00:03:45"
+      "time": "00:03:45",
+      "description": "Dieser Artikel, in dem jemand verkündet dass er sich sein eigene GitHub gebaut hat, ist für uns Anlass darüber zu reden, was neben den Omnipräsenten <a href=\"https://github.com\">GitHub</a>, <a href=\"http://sourceforge.net/\">SourceForge</a> und <a href=\"http://code.google.com/\">Google Code</a> noch so für Repositories gibt. Denn GitHub kann bei Zunahme privater Repositories doch schon <a href=\"https://github.com/plans\">recht teuer</a> werden. Frank hat für sich recherchiert, und am Ende blieben folgende vielversprechende Kandidaten übrig: indefero.net, <a href=\"https://codeplane.com\">codeplane.com</a>, <a href=\"http://gitorious.org/\">gitorious.org</a>, <a href=\"http://xp-dev.com/\">xp-dev.com</a>"
     },
     {
       "name": "Understanding Mobile Cache Sizes",
       "href": "http://www.blaze.io/mobile/understanding-mobile-cache-sizes/",
-      "time": "00:12:33"
+      "time": "00:12:33",
+      "description": "Wie große einzelne Ressourcen sein können, um noch von mobilen Geräten gecached werden zu können, <a href=\"http://www.stevesouders.com/blog/2010/07/12/mobile-cache-file-sizes/\">wissen wir</a>. Was wir bislang jedoch nicht wussten ist: Wie groß ist denn eigentlich der gesamte Browsercache? Und gibt einen Unterschied zwischen flüchtigem Cache im Arbeitsspeicher, und dauerhaftem Cache auf der Festspeicher? Und tatsächlich fördert eine entsprechende Untersuchung Erstaunliches zu Tage: iOS hat zwar massig Arbeitsspeichercache, aber null Festspeicher-Cache. Vor allem aber: Android 2.x verfügt nur über jeweils 4 MB Cache! Sprich: Traditionelle Cache-Strategien versagen komplett."
     },
     {
       "name": "BoxJS, BoxJSON, BoxCSS und BoxResizer",
       "href": "http://boxjs.com/",
-      "time": "00:26:02"
+      "time": "00:26:02",
+      "description": "Diese Box&#8230;-Dienste bieten tolle Funktionen: BoxJS ist zugleich JavaScript-Loader wie auch Coffee-Script-Parser, BoxJSON ist ein simpler Datenspeicher, BoxCSS fügt Deine lokalen CSS-Dateien zu einer gecachten Datei zusammen und kann dabei sogar LESS-Dateien parsen, und BoxResizer kann im Flug Bilder umrechnen (Stichwort: Responsive Webdesign)."
     },
     {
       "name": "BrowserID – A better way to sign in",
       "href": "https://browserid.org/",
-      "time": "00:34:36"
+      "time": "00:34:36",
+      "description": "Mozilla hat sich genau angesehen, was bei OpenID und Konsorten falsch lief und läuft, und hat ein mit BrowserID ein neues offenes System vorgeschlagen, das <a href=\"http://identity.mozilla.com/post/7669886219/how-browserid-differs-from-openid\">deren Nachteile nicht hat</a>. Für Webentwickler ist es obendrein <a href=\"https://browserid.org/developers\">recht einfach einzubinden</a>."
     },
     {
       "name": "Sprite3D.js",
       "href": "http://minimal.be/lab/Sprite3D/",
-      "time": "00:43:04"
+      "time": "00:43:04",
+      "description": "Da die Hürde zur Verwendung von 3D in WebGL relativ hoch liegt ist es sehr begrüßenswert, dass hier jemand eine Bibliothek anbietet, die 3D ausschließlich mit bekannten HTML-Elementen und CSS3-3D-Transforms abfeiert. Für kleinere 3D-Spielereien, wie sie sicherlich die Mehrheit der Szenarien darstellen, ein tolle Sache! Derzeit aber noch WebKit-only&#8230;"
     },
     {
       "name": "Web Education moving forward – Opera WSC goes to the W3C!",
       "href": "http://my.opera.com/ODIN/blog/2011/07/15/web-education-moving-forward-opera-wsc-goes-to-the-w3c",
-      "time": "00:48:40"
+      "time": "00:48:40",
+      "description": "Das sehr erfolgreiche, von Opera initiierte Nachschlagewerk <a href=\"http://dev.opera.com/articles/view/1-introduction-to-the-web-standards-cur/\">&#8220;Web Standards Curriculum&#8221;</a> wird nun beim W3C eingeklinkt und in eine <a href=\"http://www.w3.org/wiki/Web_Standards_Curriculum\">Wiki-Form</a> überführt. Das macht es möglich, dass nunmehr jeder seinen Teil beitragen kann. Gesucht werden allerlei freiwillige Helfer, die Themen vorschlagen und Artikel schreiben, gegenlesen oder übersetzen. Wer sich angesprochen fühlt, aber lieber in Deutsch liest und schreibt, der kann sich natürlich auch beim <a href=\"http://wiki.selfhtml.org/wiki/Startseite\">SelfHTML Wiki</a> engagieren. Und wir schweifen ab :)"
     },
     {
       "name": "WordCamp 2011 in Köln",
       "href": "http://wordcamp.de/",
-      "time": "01:02:35"
+      "time": "01:02:35",
+      "description": "Frank und Schepp werden beide bei dem WordCamp 2011, am 24.09.2011 in Köln am Start sein. Frank ist Mitorganisator und erzählt ein wenig zu den Hintergründen des WordCamps. Es gibt nur 250 Plätze, insofern, wer dabei sein will: Schnell <a href=\"http://wordcamp.de/anmeldung/\">anmelden</a>! Ach ja: Und wir schweifen ab :)"
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "oCanvas",
       "href": "http://ocanvas.org/",
-      "time": "01:18:31"
+      "time": "01:18:31",
+      "description": "Wieder eine dieser zahlreichen Canvas-Bibliotheken. Eines allerdings macht sie anders als der Rest: Sie arbeitet ähnlich SVG mit Einzelobjekten anstatt mit Pixeln, die im ganzen transfomiert und animiert, und die mit den typischen Events belegt werden können."
     },
     {
       "name": "PDFKit – A PDF generation library for Node.js",
       "href": "http://devongovett.github.com/pdfkit/",
-      "time": "01:18:31"
+      "time": "01:18:31",
+      "description": "Nach und nach erscheinen für Node.js all die nützlichen Bibliotheken, die den Griff zu anderen Sprachen so attraktiv gestalten. Nun kommt PDFKit zur serverseitigen Erzeugung von PDFs hinzu."
     },
     {
       "name": "Waldo",
       "href": "http://javascriptweblog.wordpress.com/2011/07/11/waldo-search-the-javascript-runtime-in-under-1-kb/",
-      "time": "01:18:31"
+      "time": "01:18:31",
+      "description": "Waldo durchsucht alle Objekte im DOM nach Kriterien wie Inhaltstyp oder Eigenschaftenname. Ideal, um fremden Code zu erkunden."
     }
-  ],
-  "randomSpec": []
+  ]
 }

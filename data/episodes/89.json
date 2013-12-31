@@ -38,90 +38,106 @@
   "href": "http://workingdraft.de/89/",
   "audio": "http://workingdraft.de/podpress_trac/web/1501/0/wd89.mp3",
   "title": "Mobile, Frameworks, iOS 6",
+  "description": "Während sich Schepp mit seinen Ladies in fernen Ländern die Sonne auf den Pelz brennen ließ, luden Hans, Kahlil und Rod jemanden names Peter ein, um das Team für diese Revision zu komplettieren.",
   "topics": [
     {
       "name": "See your site like the rest of the world does. On the Nokia X2-01",
       "href": "http://generatedcontent.org/post/31441135779/mobileweb-row",
-      "time": "00:01:35"
+      "time": "00:01:35",
+      "description": "David Storey (Motorola) eröffnet uns, dass nicht überall auf der Welt die Leute mit Smartphones herumlaufen. Wir sind gleichermaßen erschüttert wie uninteressiert. Erstens wird das deutschsprachige Internet in den eher abgelegenen Regionen der Welt vermutlich noch weniger rezipiert als hierzulande, was schon mal was heißen will. Und dank Responsive Design fluppt das Layout schließlich selbst auf Briefmarken-Bildschirmen. Wenn man sich obendrein noch an die Grundregeln der nicht-failigen Webentwicklung hält (progressive enhancement usw.) bleibt die Seite auch bei verranztem JS bedienbar. Die Herausforderung sieht zumindest Rodney eher bei originellen Bedienkonzepten (z.B. <a href=\"http://www.alistapart.com/articles/testing-websites-in-game-console-browsers/\">bei Spielkonsolen</a>). Wir haben im übrigen nichts gegen Pakistan!"
     },
     {
       "name": "Ember versus Backbone versus gar nix",
-      "time": "00:18:12"
+      "time": "00:18:12",
+      "description": "An uns scrollten vergangene Woche viel zu <a href=\"http://emberjs.com/\">Ember.js</a> vorbei; neben <a href=\"http://www.infoq.com/presentations/Ember-js\">einem langen Talk</a> unter anderem auch <a href=\"http://trek.github.com/\">ein Artikel über die Konzepte hinter dem Framework</a>. Die Konzepte hinter Ember seien so komplex, dass sie eben … naja, komplex seien. Peter, der die letzten Wochen damit verbrachte, webfremden Padawanen Einfachheit zu predigen und diese auch dabei beobachtet hat, wie sie recht komplexe Apps aus einfachen Teilen zusammengebaut haben, fragt sich nun, ob &#8220;die große Lösung&#8221; überhaupt sein muss. Kahlil findet das zumindest nicht völlig unvorstellbar, Rodney zweifelt auch. Sicher wissen wir es aber alle nicht."
     },
     {
       "name": "New Web Stuff in iOS6",
       "href": "http://www.mobilexweb.com/blog/iphone-5-ios-6-html5-developers",
-      "time": "00:46:19"
+      "time": "00:46:19",
+      "description": "<s>Der heilige Steve</s> Des heiligen Steves Stellvertreter auf Erden kredenzten ihren Jüngern kürzlich ein neues iOS. Gaudium magnum! Auch für ungläubige Webentwickler, denn es ist viel neues in Safari dabei: eine mutmaßlich unvollständige Implementierung der <a href=\"http://www.w3.org/TR/webaudio/\">Web Audio API</a>, eine ganz sicher unvollständige (oder sagen wir eingeschränkt nutzbare) Fassung der <a href=\"http://www.w3.org/TR/FileAPI/\">File API</a>, Smart App Banners, eine proprietäre Fullscreen-Funktion und auch ganz ironiefrei ein paar gute Dinge, wie z.B. eingebautes Remote Debugging. Weniger erfreulich sind die ebenfalls <a href=\"http://www.devthought.com/2012/09/22/understanding-the-ios6-ajax-bugs/\">neuen Ajax-Bugs</a>."
     }
   ],
   "news": [
     {
       "name": "CSS Image Values and Replaced Content Module Level 4",
       "href": "http://www.w3.org/TR/css4-images/",
-      "time": "00:00:22"
+      "time": "00:00:22",
+      "description": "Neuerdings ein Working Draft."
     },
     {
       "name": "Google Apps stellt IE8-Support ein",
       "href": "http://googleappsupdates.blogspot.ca/2012/09/supporting-modern-browsers-internet.html",
-      "time": "00:00:22"
+      "time": "00:00:22",
+      "description": "Munition für die Argumentskanone, die man vor jedem Projekt auf Kunden und/oder Chefs richtet."
     },
     {
       "name": "Adobe Edge Tools & Services",
       "href": "http://html.adobe.com/",
-      "time": "00:00:22"
+      "time": "00:00:22",
+      "description": "Shadow heißt jetzt Inspect, sonst ändert sich nichts. Bis auf den Preis. Adobe stellt seine neue Produktplatte rund ums Web vor. <a href=\"https://twitter.com/Malarkey/status/250287523585220609\">Zitat</a> Andy Clarke: &#8220;truly terrible.&#8221;"
     }
   ],
   "links": [
     {
       "name": "Icon Font Roundup",
       "href": "http://www.webdesignerdepot.com/2012/09/a-roundup-of-great-icon-fonts/",
-      "time": "01:04:22"
+      "time": "01:04:22",
+      "description": "Denn man kann nie genug haben."
     },
     {
       "name": "Responsive Patterns",
       "href": "http://bradfrost.github.com/this-is-responsive/patterns.html",
-      "time": "01:04:22"
+      "time": "01:04:22",
+      "description": "Umfangreiche Sammlung."
     },
     {
       "name": "Yeoman – Level-up Your Daily Workflow",
       "href": "http://drublic.de/blog/yeoman/",
-      "time": "01:04:22"
+      "time": "01:04:22",
+      "description": "Hans über Yeoman."
     },
     {
       "name": "Avoid the tamagotchis",
       "href": "http://klick-ass.com/awesomeness/avoid-the-tamagotchis-a-list-of-open-device-labs/",
-      "time": "01:04:22"
+      "time": "01:04:22",
+      "description": "Andre Jay Meissner sammelt Open Device Labs …"
     },
     {
       "name": "Warum du noch heute ein Berlin Desknot werden solltest",
       "href": "http://klick-ass.com/de/events/why-you-should-join-the-berlin-desknots-today/",
-      "time": "01:04:22"
+      "time": "01:04:22",
+      "description": "… und schiebt in Berlin ein Meetup an."
     },
     {
       "name": "Flick Scrolling",
       "href": "http://simurai.com/post/31460815120/flick-scroll",
-      "time": "01:04:22"
+      "time": "01:04:22",
+      "description": "UI-Konzept plus experimentelle Implementierung von Simurai"
     },
     {
       "name": "Clearing Browser Cache",
       "href": "http://www.stevesouders.com/blog/2012/09/10/clearing-browser-data/",
-      "time": "01:04:22"
+      "time": "01:04:22",
+      "description": "Wenn ihr denkt, so etwas wie Browsercache putzen sei eine einfache Angelegenheit, habt ihr noch nicht den Herrn Souders gelesen."
     },
     {
       "name": "CSS Custom Filters Now Available Under Flag in Chrome Canary",
       "href": "http://blogs.adobe.com/webplatform/2012/09/21/css-custom-filters-now-available-under-flag-in-chrome-canary/",
-      "time": "01:04:22"
+      "time": "01:04:22",
+      "description": "CSS-Filter rücken auf die Realität vor."
     },
     {
       "name": "Oh really, why is that? Web performance for the curious",
       "href": "http://www.youtube.com/watch?v=kiPe7DPmEgE",
-      "time": "01:04:22"
+      "time": "01:04:22",
+      "description": "Empfehlenswerter dreißigminütiger Talk über Webbrowser-Internals und Performance."
     },
     {
       "name": "The Web Ahead",
       "href": "http://5by5.tv/webahead",
-      "time": "01:04:22"
+      "time": "01:04:22",
+      "description": "Guter Podcast (sagt Kahlil)"
     }
-  ],
-  "randomSpec": []
+  ]
 }

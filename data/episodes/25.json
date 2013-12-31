@@ -30,45 +30,51 @@
   "href": "http://workingdraft.de/25/",
   "audio": "http://workingdraft.de/podpress_trac/web/555/0/wd-25.mp3",
   "title": "Visibility API und Chromebooks",
+  "description": "Die neuste Revision geht mit sensationell wenigen Themen ins Rennen. Woran es lag? Wir haben uns ein Opera-Themen-Verbot auferlegt, bis wir Patrick H. Lauke mal in der Sendung haben zum drüber Quatschen. Desweiteren konnte die <a href=\"http://www.google.com/events/io/2011/index-live.html\">Google I/O</a> nicht mit ganz so viel Web-Bezogenem aufwarten. Aber wie Ihr hört, kriegen wir auch das gebügelt.",
   "topics": [
     {
       "name": "jQuery 1.6.1 Released",
       "href": "http://blog.jquery.com/2011/05/12/jquery-1-6-1-released/",
-      "time": "00:00:42"
+      "time": "00:00:42",
+      "description": "Die jQuery-Macher sahen sich aufgrund der in der letzten Revision erwähnten Änderungen und ihrer Auswirkungen gezwungen, ein Rolle-Rückwärts-Update nachzuschieben. Version 1.6.1 stellt nun zumindest auf der <code>attr()</code>-Methode die verlorengegangene Kompatibilität wieder her."
     },
     {
       "name": "Page Speed Online API",
       "href": "https://code.google.com/apis/pagespeedonline/v1/getting_started.html",
-      "time": "00:02:53"
+      "time": "00:02:53",
+      "description": "Google stellt seit neustem einen Webservice bereit, über welchen man dieselben Testergebnisse und Ratschläge zur Ladegeschwindigkeit im JSON-Format erhält, die auch die <a href=\"http://code.google.com/speed/page-speed/\">Browser-Plugins</a> sowie <a href=\"http://pagespeed.googlelabs.com/\">Page Speed Online</a> zurückgeben. Das WordPress-Plugin <a href=\"http://wordpress.org/extend/plugins/w3-total-cache/\">W3 Total Cache</a> nutzt diesen Dienst, um dem Benutzer Optimierungsvorschläge zu machen. Wofür man den Dienst aber in der Praxis genau gebrauchen kann, darauf wollten wir einfach nicht kommen. Hat wer eine Idee? (gerne via <a href=\"http://audioboo.fm/\">Audioboo</a> mit Hash #workingdraft)"
     },
     {
       "name": "Inspectable Shadow DOM, the file browser and new default avatars",
       "href": "http://peter.sh/2011/05/inspectable-shadow-dom-the-file-browser-and-new-default-avatars/",
-      "time": "00:08:37"
+      "time": "00:08:37",
+      "description": "Der aktuelle <a href=\"http://tools.google.com/dlpage/chromesxs\">Canary-Build von Chrome</a> zeigt seit neustem alle zu einem Element gehörigen <a href=\"http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/\">Shadow-DOM</a>-Elemente. Damit lässt sich also herausfinden, wie man per CSS an in HTML-Elementen steckende Subelemente herankommt, wie etwa dem <code>placeholder</code>-Text in einem HTML5-Eingabefeld, oder den Slider eines <code>range</code>-Inputs. Dennoch eine Insellösung."
     },
     {
       "name": "Proposal for a tab visibility API",
       "href": "http://www.mail-archive.com/whatwg@lists.whatwg.org/msg24397.html",
-      "time": "00:20:06"
+      "time": "00:20:06",
+      "description": "Das Chrome Team bringt den Vorschlag zu einer &#8220;Visibility API&#8221; bei der WHATWG ein. Über die API soll sich anfragen lassen, ob ein Fenster gerade fokussiert ist oder nicht, und wenn nicht, wie genau nicht. Außerdem soll es noch einen dazugehörigen Eventhandler geben. Markus fällt dabei ein, dass man heute schon nicht-aktive Fenster <a href=\"http://css-tricks.com/window-inactive-styling/\">gestalten kann</a>. Und wir drei sinnieren darüber, ob sowas wie diese API brauchbar wäre. Was meint Ihr? (gerne via <a href=\"http://audioboo.fm/\">Audioboo</a> mit Hash #workingdraft)"
     },
     {
       "name": "Google Chromebooks",
       "href": "http://www.google.com/chromebook/#",
-      "time": "00:34:54"
+      "time": "00:34:54",
+      "description": "Google stellte auf der diesjährigen <a href=\"http://www.google.com/events/io/2011/index-live.html\">Google I/O</a> die finale Inkarnation seiner Chrome-OS-Hardware namens &#8220;Chromebooks&#8221; vor. Im Prinzip handelt es sich dabei um 11/12-Zoll-Netbooks mit einer kleinen SSD darin. Dazu gibt es Varianten mit UMTS und hierzulande einem Jahr E-Plus gratis obendrauf. Gag des Betriebssystems ist, dass alles in der Cloud gespeichert wird (nein, nicht in <a href=\"http://www.youtube.com/watch?v=mjtqoQE_ezA&amp;feature=related\">Microsofts Cloud</a>), und man seine Gurke jederzeit aus dem Fenster werfen kann, ohne seine Daten zu verlieren. Obwohl Google <a href=\"http://www.golem.de/1105/83420.html\">manche Dienste offline-fähig gemacht hat</a>, hängt man dennoch stark am Tropf des Internets. Und damit ist es ja bei E-Plus nicht immer gut bestellt. Wir sind gespannt, was draus wird."
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "ROME – 3 Dreams of Black",
       "href": "http://www.ro.me",
-      "time": "00:56:03"
+      "time": "00:56:03",
+      "description": "Beeindruckende Demo von der Google I/O, die in einem interaktiven Musikvideo <a href=\"http://www.mirada.com/rome.php\">traumhafte</a> <a href=\"http://www.oddballanimation.com/archives/1576\">Video-</a>, <a href=\"http://www.amazon.de/Rome-Daniele-Danger-Mouse-Luppi/dp/B004E0Z4XK/ref=sr_1_1?ie=UTF8&amp;qid=1305701772&amp;sr=8-1\">Audio-</a> und <a href=\"http://googlecode.blogspot.com/2011/05/dreams-in-3d-webgl-experience-for.html\">3D-Elemente</a> vermischt. Benötigt die <a href=\"http://tools.google.com/dlpage/chromesxs\">Canary-Version</a> des Google Chrome Browsers."
     },
     {
       "name": "Cameron Adams – Anatomy of a Mashup",
       "href": "http://daftpunk.themaninblue.com/",
-      "time": "00:56:33"
+      "time": "00:56:33",
+      "description": "Camaron Adams hat einen Song namens &#8220;Definitive Daft Punk&#8221; als Mashup/Remix verschiedener Daft Punk Lieder erstellt, und dazu gleich auch noch eine Echtzeit-Visualisierung hinzugebaut. Sehr beeindruckend! Und bitte unbedingt die Boxen aufdrehen!"
     }
-  ],
-  "randomSpec": []
+  ]
 }

@@ -27,75 +27,87 @@
   "href": "http://workingdraft.de/84/",
   "audio": "http://workingdraft.de/podpress_trac/web/1414/0/wd-84.mp3",
   "title": "jQuery, Git, Informationsverwaltung und jede Menge Links",
+  "description": "Die Crew von Working Draft fiel wie die Fliegen Deadlines und Kopfschmerzen zum Opfer. Zum Glück konnte Sebastian Golasch alias <a href=\"https://twitter.com/asciidisco\">@asciidisco</a> die am Ende nur noch aus Rodney und Peter bestehende Rumpftruppe verstärken.",
   "topics": [
     {
       "name": "jQuery 1.8 Released",
       "href": "http://blog.jquery.com/2012/08/09/jquery-1-8-released/",
-      "time": "00:01:17"
+      "time": "00:01:17",
+      "description": "jQuery 1.8 kommt mit besserer Performance und <a href=\"http://mathiasbynens.be/demo/jquery-size\">eingedämmten Code-Wachstum</a> daher. Die großen Änderungen sind eher interner Natur. Der Code ausgemistet und so modularisiert, dass man sich jetzt <a href=\"https://github.com/jquery/jquery/#how-to-build-your-own-jquery\">eigene, kleinere Builds erstellen kann</a>. Neue Versionen von <a href=\"http://dojotoolkit.org/blog/dojo-1-8-0-tagged-official-release-august-15\">Dojo</a> und <a href=\"http://www.prototypejs.org/2012/8/8/prototype-1-7-1\">Prototype</a> (die Älteren unter euch werden sich erinnern) gibt es auch. Allerdings fiel uns niemand ein, der diese Frameworks noch (freiwillig) benutzt. <a href=\"http://w3techs.com/blog/entry/jquery_now_runs_on_every_second_website\">Das Web scheint sich für jQuery entschieden zu haben.</a>"
     },
     {
       "name": "10 things I hate about Git",
       "href": "https://steveko.wordpress.com/2012/02/24/10-things-i-hate-about-git/",
-      "time": "00:15:54"
+      "time": "00:15:54",
+      "description": "Steve Bennett kritisiert <a href=\"http://git-scm.com/\">Git</a>. Im Vergleich zu Subversion sei die Benutzung zu unintuitiv, die Commands und Dokumentation seien ranzig und ein Mangel an Abstraktion sorgt für läste Mehrarbeit. Wir können dem nicht direkt widersprechen, wissen aber, wie man Git benutzbarer macht: ein Branching Model namens <a href=\"http://nvie.com/posts/a-successful-git-branching-model/\">Gitflow</a>, quasi Git mit Leitplanken. Das Ganze gibt es auch als <a href=\"https://github.com/nvie/gitflow/\">Git-Extension</a> und wird von Sebastian allerwärmstens empfohlen."
     },
     {
       "name": "The Art of staying up to date",
       "href": "http://www.smashingmagazine.com/2012/08/09/productivity-staying-up-to-date/",
-      "time": "00:28:09"
+      "time": "00:28:09",
+      "description": "Wir vergleichen, wie wir den Dschungel an Informationen rund um Webentwicklung für uns persönlich verwalten. Die Informationsgewinnung läuft bei uns allen mehr oder minder gleich (Twitter, RSS, Working Draft), aber die Verwaltung unterscheidet dann doch. Rodney lagert den Webdev-Teil seines Gehirn an diverse Apps aus und findet so jederzeit alle Infos wieder. Peter verweigert sich solcher Tools komplett und vertraut ganz auf Google, Lazyweb und seinen Kopf. Motto: was ich damit nicht wiederfinde, war eh nicht wichtig. Sebastian arbeitet klassisch mit Browser-Bookmarks. <strong>Was macht ihr, liebe Leser?</strong>"
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "Fontello",
       "href": "http://fontello.com/",
-      "time": "00:56:16"
+      "time": "00:56:16",
+      "description": "Schustert Custom Builds aus diversen Icon-Fonts zusammen."
     },
     {
       "name": "Remote Debugging für Firefox auf Android",
       "href": "https://hacks.mozilla.org/2012/08/remote-debugging-on-firefox-for-android/",
-      "time": "00:56:16"
+      "time": "00:56:16",
+      "description": "Nicht ganz unkompliziert, aber wenigstens gibt es diese Anleitung."
     },
     {
       "name": "browserver",
       "href": "http://browserver.org/",
-      "time": "00:56:16"
+      "time": "00:56:16",
+      "description": "Verwandelt euren Browser in einem Webserver."
     },
     {
       "name": "A closer look at _.extend and copying properties",
       "href": "http://www.2ality.com/2012/08/underscore-extend.html",
-      "time": "00:56:16"
+      "time": "00:56:16",
+      "description": "Der Doktor™ diesmal zu den Untiefen von property assignment im Kontext von Prototypenketten."
     },
     {
       "name": "Just Gauge",
       "href": "http://www.justgage.com/",
-      "time": "00:56:16"
+      "time": "00:56:16",
+      "description": "Rendert euch mittels Raphaël &#8216;ne <a href=\"http://de.wikipedia.org/wiki/Gauge_(Technik)\">Gauge</a> in die Seite."
     },
     {
       "name": "PSA – SmashingMag Interns",
       "href": "http://www.smashingmagazine.com/internship/",
-      "time": "00:56:16"
+      "time": "00:56:16",
+      "description": "Das SmashingMag sucht (bezahlte) Praktikanten in Freiburg."
     },
     {
       "name": "Neue Version von URI.js",
       "href": "http://medialize.github.com/URI.js/",
-      "time": "00:56:16"
+      "time": "00:56:16",
+      "description": "Rodneys Library implementiert jetzt URI Templates (<a href=\"http://tools.ietf.org/html/rfc6570\">RFC 6570</a>)"
     },
     {
       "name": "Internationalizing JavaScript Applications",
       "href": "http://norbertlindenberg.com/2012/08/javascript-internationalization/",
-      "time": "00:56:16"
+      "time": "00:56:16",
+      "description": "Slides und Material zum Thema."
     },
     {
       "name": "Placeholder in SASS",
       "href": "http://sass-lang.com/docs/yardoc/file.SASS_CHANGELOG.html#320_10_august_2012",
-      "time": "00:56:16"
+      "time": "00:56:16",
+      "description": "Kleiner, nützlicher Hinweis."
     },
     {
       "name": "Impressionist",
       "href": "http://www.hsivaram.com/impressionist/alpha3/",
-      "time": "00:56:16"
+      "time": "00:56:16",
+      "description": "GUI für <a href=\"http://bartaz.github.com/impress.js/#/bored\">Impress.js</a>."
     }
-  ],
-  "randomSpec": []
+  ]
 }

@@ -32,14 +32,13 @@
   "href": "http://workingdraft.de/53/",
   "audio": "http://workingdraft.de/podpress_trac/web/951/0/wd-53.mp3",
   "title": "At the Smashing Magazine meetup!",
+  "description": "Wer auch da war, das waren Kahlil, Hans und Rodney. Dank <a href=\"http://twitter.com/#!/lilaineurope\">Lisa</a> und <a href=\"http://twitter.com/#!/smashingmag\">Vitaly</a> vom <a href=\"http://www.smashingmagazine.com\">Smashing Mag</a> durften wir eine schöne Paneldiskussion auf die Beine stellen. Mit Hans an der Kamera interviewten Kahlil und Rodney Paul, Vitaly und Chris zu Themen wie Alphatier-Gekabbel, Sprachbarrieren, Wissensvermittlung, mobilen Geräten oder nativen UI-Elementen.\n\nAm 21.12.2011 fand das <a href=\"http://www.meetup.com/The-SmashingMagazine-Meetup/events/42026332/\">dritte Smashing Magazine Meetup</a> statt, diesmal in Zusammenarbeit mit der <a href=\"http://stuttgart.gtugs.org/\">Stuttgarter Google Technology Usergroup</a> in&#8230; ähm ja Stuttgart. Zu Besuch waren <a href=\"http://twitter.com/#!/paul_irish\">Paul Irish</a> von Google, dessen Bruder in Stuttgart lebt und den er besuchte, sowie <a href=\"http://twitter.com/#!/codepo8\">Chris Heilmann</a> von Mozilla, der auf Heimatbesuch war. Beide hielten je einen Vortrag: <a href=\"http://vimeo.com/34332821\">History of HTML5 and The New Vocabulary of Web Dev</a> und <a href=\"http://vimeo.com/34333188\">&#8220;Style and Distance &#8211; you don&#8217;t need to burn the museum to create a new world&#8221;</a>.",
   "topics": [
     {
       "name": "Smashing Magazine Meetup – Die Paneldiskussion",
       "href": "http://www.youtube.com/watch?v=va9xlJCbDZI",
-      "time": "00:13:02"
+      "time": "00:13:02",
+      "description": "<iframe src=\"http://www.youtube.com/embed/U35O2Zd63AE?rel=0\" frameborder=\"0\" width=\"640\" height=\"360\"></iframe>"
     }
-  ],
-  "news": [],
-  "links": [],
-  "randomSpec": []
+  ]
 }

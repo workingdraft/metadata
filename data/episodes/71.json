@@ -31,84 +31,98 @@
   "href": "http://workingdraft.de/71/",
   "audio": "http://workingdraft.de/podpress_trac/web/1216/0/wd-71.mp3",
   "title": "Error.stack, Physical Units & DOM Mutation Observers",
+  "description": "Zur aktuellen Sendung fanden sich der Schepp, Kahlil und Hans ein, um wie gewohnt die wichtigsten Neuerungen und Entdeckungen der Woche zu besprechen.",
   "topics": [
     {
       "name": "JavaScript-Fehler schneller Analysieren mit Error.stack",
       "href": "http://blogs.msdn.com/b/ie/archive/2012/05/10/diagnosing-javascript-errors-faster-with-error-stack.aspx",
-      "time": "00:00:30"
+      "time": "00:00:30",
+      "description": "Das Internet Explorer Team vom Microsoft erläutert, wie man mit dem neuen <code>Error</code>-Objekt in JavaScript leichter debuggen kann. Viel besser als zum Beispiel mit <code>console.log()</code> kann man mit <code>Error.stack</code> eine komplette Stack-Trace des Fehlers bekommen, den man abgefangen hat. Ziemlich gut!"
     },
     {
       "name": "CSS keyframe based JavaScript events",
       "href": "http://www.iamntz.com/3157/frontend-developer/css-keyframe-based-events/",
-      "time": "00:08:23"
+      "time": "00:08:23",
+      "description": "Da JavaScript-Events für CSS Keyframe-Animationen irgendwie noch nicht so ausgereift sind, hat sich Ionuţ Staicu darüber Gedanken gemacht, wie man dem Zeit aktuellen Fortschritt einer Animation mit einem Event beschreiben kann. Mithilfe von <code>requestAnimationFrame</code> findet er eine Lösung. Wir grübeln allerdings noch über den exakten Einsatzbereich."
     },
     {
       "name": "Let’s Get Physical (Units)",
       "href": "http://smus.com/physical-units/",
-      "time": "00:15:54"
+      "time": "00:15:54",
+      "description": "Die aktuellen CSS-Einheiten wie <code>em</code>, <code>px</code> und <code>%</code> findet Boris Smus nicht ausreichend, um Styles für die verschiedenen Geräte der Gegenwart (Smartphones, Desktops, TVs…) zu schreiben. Deshalb plädiert er dafür eine tatsächliche physikalische Einheit einzuführen, die auch richtig funktioniert. Nicht so wie das im Moment mit <code>mm</code>, <code>in</code> und so weiter ist."
     },
     {
       "name": "Hitch – Stärke Aussagekraft durch besseres CSS ist die Devise",
-      "time": "00:31:09"
+      "time": "00:31:09",
+      "description": "Hitch ist eine JavaScript Library, die als “Postprocessor” agiert und das angegebene CSS um Pseudoklassen wie <code>:has</code> erweitert. Damit bekommen Stylesheets ungeahnte Funktionen, die man vielleicht gar nicht braucht."
     },
     {
       "name": "DOM MutationObserver – Auf DOM-Änderungen reagieren ohne die Performance zu killen",
       "href": "http://hacks.mozilla.org/2012/05/dom-mutationobserver-reacting-to-dom-changes-without-killing-browser-performance/",
-      "time": "00:42:46"
+      "time": "00:42:46",
+      "description": "Als Weiterentwicklung der Mutation Events sind die MutationObserver nun auch im Firefox gelandet. Wir sprechen darüber, wozu diese nützlich sein können und wie man sie aktuell einsetzen kann."
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "Tooling & The Webapp Development Stack",
       "href": "http://paulirish.com/2012/talk-tooling-the-webapp-development-stack/",
-      "time": "00:55:15"
+      "time": "00:55:15",
+      "description": "Auf der jQueryConf präsentierte Paul Irish, welche Tools wir als Web-devs zur Zeit zur Verfügung haben. Gute Zusammenstellung."
     },
     {
       "name": "Application Cache is a Douchebag",
       "href": "http://www.alistapart.com/articles/application-cache-is-a-douchebag/",
-      "time": "00:55:15"
+      "time": "00:55:15",
+      "description": "Wie man mit dem Applikation fertig werden kann oder eben auch nicht, beschreibt Jake Archibald in seinem ALA-Artikel."
     },
     {
       "name": "HTML5 Audio — The State of Play",
       "href": "http://html5doctor.com/html5-audio-the-state-of-play/",
-      "time": "00:55:15"
+      "time": "00:55:15",
+      "description": "Von der HTML5 Audio API hat man schon länger nichts mehr gehört. Hier der aktuelle Stand."
     },
     {
       "name": "Giving the Velocity website a performance makeover",
       "href": "http://radar.oreilly.com/2012/05/velocity-performance-makeover.html",
-      "time": "00:55:15"
+      "time": "00:55:15",
+      "description": "Case Study zum Thema Performance Optimierung anhand der Website der Velocity-Konferenz."
     },
     {
       "name": "The Toolbox",
       "href": "http://www.thetoolbox.cc/",
-      "time": "00:55:15"
+      "time": "00:55:15",
+      "description": "Eine Sammlung an hilfreichen Apps und Tools aus dem Bereich der Webentwicklung, die man so gerne wieder vergisst."
     },
     {
       "name": "jQuery Vector Maps",
       "href": "http://jqvmap.com/",
-      "time": "00:55:15"
+      "time": "00:55:15",
+      "description": "SVG-basierte Karten als jQuery Plugin."
     },
     {
       "name": "cssarrowplease",
       "href": "http://cssarrowplease.com/",
-      "time": "00:55:15"
+      "time": "00:55:15",
+      "description": "Kleine Pfeile mit CSS Pseudo-Elementen kreieren und den Code dazu kopieren!"
     },
     {
       "name": "jQuery Knob",
       "href": "http://anthonyterrien.com/knob/",
-      "time": "00:55:15"
+      "time": "00:55:15",
+      "description": "Interessantes jQuery Plugin, das Rädchen erzeugt, die aussehen, wie ein Volume-Wheel und dazu noch super für Touch-Devices geeignet sind."
     },
     {
       "name": "jQuery.ish",
       "href": "https://github.com/bshack/jQuery.ish",
-      "time": "00:55:15"
+      "time": "00:55:15",
+      "description": "jQuery.ish ist eine Micro-JS-Library, die ein paar wenige jQuery-Funktionen beinhaltet. Genau richtig in manchen Fällen."
     },
     {
       "name": "How To Survive A Robot Uprising",
       "href": "http://www.youtube.com/watch?feature=player_embedded&v=-G3RoBHMu-o",
-      "time": "00:55:15"
+      "time": "00:55:15",
+      "description": "Wichtiger “Lehrfilm”, wie man einen Angriff von Robotern auf die Menschheit überlebt. Aufgrund der aktuellen Lage, bitte dringend ansehen!"
     }
-  ],
-  "randomSpec": []
+  ]
 }

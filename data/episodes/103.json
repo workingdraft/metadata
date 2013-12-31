@@ -41,44 +41,50 @@
   "href": "http://workingdraft.de/103/",
   "audio": "http://workingdraft.de/podpress_trac/web/1765/0/wd-103.mp3",
   "title": "Keine Themen",
-  "topics": [],
+  "description": "Trotz intensiver Suche und voller Besatzung haben wir dieses mal kein einziges Thema gefunden, das eine ausführliche Besprechung verdient hätte. Deshalb ist die Nummer 103 die kürzeste Revision seit Ende des Mesozoikums. Wir entschuldigen uns und versprechen schon mal, dass das in der nächsten Revision ganz anders sein wird.",
   "news": [
     {
       "name": "Firefox 18",
-      "time": "00:00:15"
+      "time": "00:00:15",
+      "description": "Einige wenige <a href=\"https://developer.mozilla.org/en-US/docs/Firefox_18_for_developers\">neue Spielzeuge für Entwickler</a> und <a href=\"http://badassjs.com/post/40026569422/firefox-18-released-with-25-faster-ionmonkey-js\">schnelleres JavaScript</a> werden geboten."
     },
     {
       "name": "Chrome Beta-Channel für Android",
       "href": "http://blog.chromium.org/2013/01/beta-channel-arrives-for-android-phones.html",
-      "time": "00:00:15"
+      "time": "00:00:15",
+      "description": "Unter anderem mit <a href=\"https://plus.google.com/113127438179392830442/posts/7KwuuPmCjzf\">besseren Devtools</a> und <a href=\"http://blog.tojicode.com/2013/01/get-webgl-working-on-android-chrome-beta.html\">Web GL</a>."
     }
   ],
   "links": [
     {
       "name": "Lightboxes suck for small screens",
       "href": "http://bradfrostweb.com/blog/post/conditional-lightbox/",
-      "time": "00:01:25"
+      "time": "00:01:25",
+      "description": "Conditional Lightboxes für mobile Anwendungen."
     },
     {
       "name": "Antwort",
       "href": "http://internations.github.com/antwort/",
-      "time": "00:01:25"
+      "time": "00:01:25",
+      "description": "Responsive E-Mail-Templates."
     },
     {
       "name": "Introduction to Persona",
       "href": "http://davidwalsh.name/introduction-persona",
-      "time": "00:01:25"
+      "time": "00:01:25",
+      "description": "Tutorial für den Einsatz von <a href=\"https://login.persona.org/\">Persona</a>."
     },
     {
       "name": "End to End JavaScript Video Streaming",
       "href": "http://www.denkwerk.com/2013/01/14/end-to-end-javascript-video-streaming-2/",
-      "time": "00:01:25"
+      "time": "00:01:25",
+      "description": "Ein krimineller Hack, aber wenn es funktioniert&nbsp;&hellip;"
     },
     {
       "name": "Gmail and the GC",
       "href": "https://medium.com/joys-of-javascript/6b1ea3ffca45",
-      "time": "00:01:25"
+      "time": "00:01:25",
+      "description": "Wieder eine Geschichte von früher, diesmal über die Jagdt auf IE-Bugs anno 2006 *grusel*"
     }
-  ],
-  "randomSpec": []
+  ]
 }

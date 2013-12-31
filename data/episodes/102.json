@@ -37,79 +37,92 @@
   "href": "http://workingdraft.de/102/",
   "audio": "http://workingdraft.de/podpress_trac/web/1737/0/wd-102.mp3",
   "title": "Templates, JPEGs, JavaScript und OpenSource",
+  "description": "Alles beim alten im neuen Jahr: Wie immer kämpften sich Hans, Schepp, Rodney und Peter durch die Themen der vergangenen paar Zeiteinheiten. News gab es keine, dafür um so mehr Themen und Links.",
   "topics": [
     {
       "name": "HTML5 Bones",
       "href": "http://html5bones.com/",
-      "time": "00:00:22"
+      "time": "00:00:22",
+      "description": "Das Projekt nennt sich selbst &#8220;the template that goes back to basics&#8221;, doch Hans, der als einer der Maintainer des vergleichbaren <a href=\"http://html5boilerplate.com/\">HTML5 Boilerplate</a> zufällig Experte auf dem Gebiet ist, sieht das differenzierter: HTML5 Bones hat weniger Libraries dabei, liefert aber dafür mehr Markup-Vorlage. Was nehmen? Geschmackssache. Schepp hat ein eigenes Template, Peter und Rodney haben gar keins. Weitere Themen: <a href=\"http://www.whatwg.org/specs/web-apps/current-work/multipage/sections.html#the-header-element\">das Header-Element</a> und <a href=\"http://www.w3.org/TR/wai-aria/\">WAI-ARIA</a>."
     },
     {
       "name": "Progressive jpegs: a new best practice",
       "href": "http://calendar.perfplanet.com/2012/progressive-jpegs-a-new-best-practice/",
-      "time": "00:17:06"
+      "time": "00:17:06",
+      "description": "Es stellt sich heraus, das <a href=\"http://de.wikipedia.org/wiki/JPEG#Progressives_JPEG\">progressive JPEGs</a> nicht nur (in vielen Browsern) gefühlt schneller laden, sondern tatsächlich auch kleiner sind. Warum benutzt die dann kaum jemand? Wir spekulieren wild und werfen ganz nebenbei unsere Terminologe ein bisschen durcheinander. Ist aber natürlich alles nur für die Show."
     },
     {
       "name": "JS Developer Survey",
       "href": "http://dailyjs.com/2012/12/24/javascript-survey-results/",
-      "time": "00:27:50"
+      "time": "00:27:50",
+      "description": "DailyJS hat eine Umfrage (<a href=\"http://dailyjs.com/files/2012-survey-summary.pdf\">Ergebnisse als PDF</a>) unter JavaScript-Entwicklern gemacht&nbsp;&ndash; machen wir also auch, allerdings nur unter uns. Ergebnis: Außer Peter und Rodney (für CLI-Tools) ist Node.js eher uninteressant, selbst mit dem <a href=\"http://nodeguide.com/convincing_the_boss.html\">Convincing the boss guide</a>. Rodney mag kein CoffeeScript. Schepp meint, mein müsste es mit den Unit Tests nicht übertreiben. <a href=\"http://seleniumhq.org/\">Selenium</a> finden alle auf die eine oder andere Weise schrecklich. Hans und Peter verwetten eine Kiste Bier auf die Marktdurchdringung von ES6."
     },
     {
       "name": "Starting an Open Source Project",
       "href": "http://coding.smashingmagazine.com/2013/01/03/starting-open-source-project/",
-      "time": "00:56:06"
+      "time": "00:56:06",
+      "description": "Nicholas C. Zakas schreibt einen umfassenden Guide über das Management von Open-Source-Projekten. Während Rodney in die gleiche Kerbe schlägt (<a href=\"http://www.magjs.de/rehm/rehm.html\">gern auch in Text</a>) sieht Peter das ganze sehr viel lockerer. Motto: lieber eine spartanische Existenz auf Github als proprietäres Verfaulen auf der heimischen Festplatte."
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "Why moving elements with translate() is better than pos:abs top/left",
       "href": "http://paulirish.com/2012/why-moving-elements-with-translate-is-better-than-posabs-topleft/",
-      "time": "01:11:59"
+      "time": "01:11:59",
+      "description": "Paul Irish erklärt die Performance-Vorzüge von 2D-Transforms im Deatil. Alles toll und richtig was er sagt, aber obacht: <a href=\"http://dabblet.com/gist/3117509\">es</a> <a href=\"http://paulirish.com/2012/why-moving-elements-with-translate-is-better-than-posabs-topleft/#comment-134060\">gibt</a> <a href=\"http://www.peterkroener.de/fragen-zu-html5-und-co-beantwortet-7-doctypes-css-transformationen-codecs-semantik/\">Nebenwirkungen</a>"
     },
     {
       "name": "Web Browser Compatibility Tables",
       "href": "http://webbrowsercompatibility.com/",
-      "time": "01:11:59"
+      "time": "01:11:59",
+      "description": "Falls ihr noch mehr Kompatibilitätstabellen haben wolltet: da sind mehr als genug."
     },
     {
       "name": "Socrates Online Markdown Editor",
       "href": "http://socrates.io/",
-      "time": "01:11:59"
+      "time": "01:11:59",
+      "description": "Realtime-Online-Markdown-Fiddle."
     },
     {
       "name": "Giving Content Priority with CSS3 Grid Layout",
       "href": "http://24ways.org/2012/css3-grid-layout/",
-      "time": "01:11:59"
+      "time": "01:11:59",
+      "description": "Grid Layout funktioniert zur Zeit nur im IE&nbsp;10, ist hier aber besonders schön erklärt."
     },
     {
       "name": "FineUploader",
       "href": "http://fineuploader.com/",
-      "time": "01:11:59"
+      "time": "01:11:59",
+      "description": "Fancy File-Upload mit modernen Mitteln."
     },
     {
       "name": "The Future of Javascript – a CoffeeScript like workflow",
       "href": "http://www.2ality.com/2012/12/es6-workflow.html",
-      "time": "01:11:59"
+      "time": "01:11:59",
+      "description": "Der Doktor über ES6-Transpiler."
     },
     {
       "name": "Interactive Guide to Web Typography",
       "href": "http://kaikkonendesign.fi/typography/",
-      "time": "01:11:59"
+      "time": "01:11:59",
+      "description": "Der Name ist Programm."
     },
     {
       "name": "Top 20 Web Dev Talks of 2012",
       "href": "http://www.netmagazine.com/features/top-20-web-conference-talks-2012",
-      "time": "01:11:59"
+      "time": "01:11:59",
+      "description": "Exquisite Auswahl von Konferenz-Highlights 2012."
     },
     {
       "name": "When I first heard the name “Safari”",
-      "time": "01:11:59"
+      "time": "01:11:59",
+      "description": "Geschichten rund um die Historie von Safari. <a href=\"http://donmelton.com/2012/12/19/when-i-first-heard-the-name-safari/\">Teil 1</a>, <a href=\"http://donmelton.com/2013/01/03/keeping-safari-a-secret/\">Teil 2</a>, <a href=\"http://donmelton.com/2013/01/10/safari-is-released-to-the-world/\">Teil 3</a>"
     },
     {
       "name": "Web Platform Doc Sprint Berlin",
       "href": "http://web-platform-doc-sprint-berlin.eventbrite.com/",
-      "time": "01:11:59"
+      "time": "01:11:59",
+      "description": "Wenn ihr W3Schools einen reinwürgen wollt, kommt Anfang Februar nach Berlin! <a href=\"http://lanyrd.com/2013/wpds/\">Wir sind auch dabei</a>."
     }
-  ],
-  "randomSpec": []
+  ]
 }

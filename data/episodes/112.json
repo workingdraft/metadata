@@ -26,65 +26,75 @@
   "href": "http://workingdraft.de/112/",
   "audio": "http://workingdraft.de/podpress_trac/web/1853/0/wd-112.mp3",
   "title": "Glücksrad und Links",
-  "topics": [],
-  "news": [],
+  "description": "Schepp und Peter sahen sich akutem Themenmangel gegenüber und beschlossen daher, einfach ein halbes Stündchen das Glücksrad drehen zu lassen und dann die Links zu verlesen.",
   "links": [
     {
       "name": "Min-Content",
       "href": "http://demosthenes.info/blog/662/Design-From-the-Inside-Out-With-CSS-MinContent",
-      "time": "00:34:28"
+      "time": "00:34:28",
+      "description": "Eine neue Maßangabe für CSS, anschaulich erklärt."
     },
     {
       "name": "Vertical text with CSS 3 Writing Modes",
       "href": "http://generatedcontent.org/post/45384206019/writing-modes",
-      "time": "00:34:28"
+      "time": "00:34:28",
+      "description": "Die <code>writing-mode</code>-Eigenschaft in den diversen Browsern und ihr Wechselspiel mit anderen CSS-Eigenschaften."
     },
     {
       "name": "Shadow DOM 201: CSS and Styling – HTML5 Rocks",
       "href": "http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-201/",
-      "time": "00:34:28"
+      "time": "00:34:28",
+      "description": "Follow-up zu <a href=\"http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/\">Shadow DOM 101</a>."
     },
     {
       "name": "Sublime Web Inspector",
       "href": "http://sokolovstas.github.com/SublimeWebInspector/",
-      "time": "00:34:28"
+      "time": "00:34:28",
+      "description": "Debugging direkt im Editor!"
     },
     {
       "name": "Future of Firefox DevTools",
       "href": "http://paulrouget.com/e/devtoolsnext/",
-      "time": "00:34:28"
+      "time": "00:34:28",
+      "description": "Mozilla rüstet auf."
     },
     {
       "name": "Sublime Text 3 Compatible Packages",
       "href": "https://github.com/wbond/sublime_package_control/wiki/Sublime-Text-3-Compatible-Packages",
-      "time": "00:34:28"
+      "time": "00:34:28",
+      "description": "Schon von ST2 auf ST3 wechseln oder noch nicht? Diese Liste hilft bei der Entscheidungsfindung."
     },
     {
       "name": "Awesome PHP Libraries",
       "href": "https://gist.github.com/ziadoz/1677679",
-      "time": "00:34:28"
+      "time": "00:34:28",
+      "description": "Nomen est omen."
     }
   ],
   "randomSpec": [
     {
       "name": "Event Sources",
       "href": "http://www.w3.org/TR/eventsource/",
-      "time": "00:01:05"
+      "time": "00:01:05",
+      "description": "Auch bekannt als Server-sent Events stellen Event Sources eine bequeme Polling-Abstraktion im Browser dar, die in manchen Fällen <a href=\"http://www.w3.org/TR/websockets/\">Web Sockets</a> vorzuziehen sind. Vor allem ist die Server-Komponente so simpel, dass sie sogar mit PHP umsetzbar wäre. Leider <a href=\"http://caniuse.com/eventsource\">fehlt die API in IE und Android-Browser</a>, doch wir halten einen Polyfill für machbar."
     },
     {
       "name": "Indeterminate Checkboxes",
       "href": "http://www.whatwg.org/specs/web-apps/current-work/multipage/the-input-element.html#dom-input-indeterminate",
-      "time": "00:11:08"
+      "time": "00:11:08",
+      "description": "Peter singt ein Loblied auf die Nützlichkeit der HTML5-Specs, während Schepp schnell <a href=\"http://css-tricks.com/examples/IndeterminateCheckboxes/\">einen Tastcase</a> für das <code>indeterminate</code>-DOM-Attribut ergooglet. Stellt sich raus, dass dieses Feature, mit dem man eine Checkbox anzeigen kann, als wäre sie in einem dritten Zustand, in allen Browsern funktioniert."
     },
     {
       "name": "async und defer",
       "href": "http://www.whatwg.org/specs/web-apps/current-work/multipage/scripting-1.html#attr-script-async",
-      "time": "00:20:11"
+      "time": "00:20:11",
+      "description": "Performance-Papst Schepp I. referiert über zwei Attribute für Script-Tags, die die Ausführung von Scripts beeinflussen. Fazit: Wenn wir ohnehin alle Scripts in eine Datei zusammenfassen und diese erst am Seitenende einbinden, brauchen wir die Attribute gar nicht so dringend."
     },
     {
       "name": "Parsing HTML documents",
       "href": "http://www.whatwg.org/specs/web-apps/current-work/multipage/parsing.html#parsing",
-      "time": "00:29:30"
+      "time": "00:29:30",
+      "description": "Peter erklärt kurz, was es mit HTML und XHTML auf sich hat und warum von beiden Sprachen nur HTML in den HTML5-Spezifikationen steht. Kompliziert wird HTML vor allem durch <a href=\"http://www.whatwg.org/specs/web-apps/current-work/multipage/elements.html#document.write()\"><code>document.write()</code></a>, das auch für das blockierende Verhalten von Scripts verantwortlich ist."
     }
   ]
 }

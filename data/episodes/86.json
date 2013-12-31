@@ -27,60 +27,69 @@
   "href": "http://workingdraft.de/86/",
   "audio": "http://workingdraft.de/podpress_trac/web/1457/0/wd86.mp3",
   "title": "CAS und Object.observe",
+  "description": "Wir haben das Sommerloch gefunden! Hans und Rodney wurden von <a title=\"Sebastian Golasch\" href=\"https://twitter.com/asciidisco\">Sebastian Golasch</a> unterstützt.",
   "topics": [
     {
       "name": "CAS: Cascading Attribute Sheets",
       "href": "http://www.xanthir.com/blog/b4K_0",
-      "time": "00:00:44"
+      "time": "00:00:44",
+      "description": "Tab Atkins stellt seine Idee vor, mit der er das Setzen von HTML-Attributen vereinfachen möchte. Syntaktisch entspricht der Vorschlag CSS, funktional möchte er jedoch etwas abspecken. Wir stellen fest, dass die Idee mit 10 Zeilen Javascript auch selbst gebaut werden kann und somit vom &#8220;nice to have&#8221; zu &#8220;don&#8217;t need this&#8221; wird."
     },
     {
       "name": "JavaScript Object.observe",
       "href": "http://weblog.bocoup.com/javascript-object-observe/",
-      "time": "00:15:21"
+      "time": "00:15:21",
+      "description": "Rick Waldron (Bocoup) erklärt was es mit dem neuen Object.observe auf sich hat. Sebastian erläutert wie unglaublich hilfreich dieses kleine Feature für Library-Entwickler sein würde."
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "Pixelplant",
       "href": "https://www.pixelplant.com/",
-      "time": "00:26:17"
+      "time": "00:26:17",
+      "description": "Konvertiert Flash zu HTML/CSS/Javascript &#8211; Augenscheinlich kompatibel bis zu Flash 10 und ActionScript 3."
     },
     {
       "name": "Grunt Plugins",
       "href": "http://sindresorhus.com/grunt-plugins/",
-      "time": "00:26:17"
+      "time": "00:26:17",
+      "description": "Sindre Sorhus pflegt eine Liste von Plugins für Grunt."
     },
     {
       "name": "Date Range Picker",
       "href": "http://www.dangrossman.info/2012/08/20/a-date-range-picker-for-twitter-bootstrap/",
-      "time": "00:26:17"
+      "time": "00:26:17",
+      "description": "Ein auf <a href=\"http://twitter.github.com/bootstrap/\">Bootstrap</a> basierender Datumsbereich-Wähler."
     },
     {
       "name": "The Innovations of Internet Explorer",
       "href": "http://www.nczonline.net/blog/2012/08/22/the-innovations-of-internet-explorer/",
-      "time": "00:26:17"
+      "time": "00:26:17",
+      "description": "Nicholas Zakas listet die etlichen Errungenschaften des Hauses Microsoft, die uns den Weg für das heutige Web geebnet haben."
     },
     {
       "name": "Vom Internet Explorer unterstützte, aber unspezifizierte Attribute",
       "href": "http://msdn.microsoft.com/en-us/library/ff520759",
-      "time": "00:26:17"
+      "time": "00:26:17",
+      "description": "Der Internet Explorer unterstützt eine ganze Menge (lustiger) Attribute, die nicht zum offiziellen Standard gehören."
     },
     {
       "name": "Towards a Retina Web",
       "href": "http://coding.smashingmagazine.com/2012/08/20/towards-retina-web/",
-      "time": "00:26:17"
+      "time": "00:26:17",
+      "description": "Das Smashing Magazine erklärt die Hintergründe von Retina Displays und was im Umgang mit diesen Auflösungen zu beachten gibt, mit schönen Illustrationen."
     },
     {
       "name": "Responsive Javascript Helpers",
       "href": "http://edenspiekermann.com/en/blog/responsive-javascript-helpers",
-      "time": "00:26:17"
+      "time": "00:26:17",
+      "description": "Die Javscript Funktionen relocate() und minwidth() helfen beim Umbauen des DOM für Responsive Layouts."
     },
     {
       "name": "JS 101: Equality",
       "href": "http://dailyjs.com/2012/08/27/equality/",
-      "time": "00:26:17"
+      "time": "00:26:17",
+      "description": "DailyJS erklärt die Hintergründe und Unterschiede von <code>a == b</code> und <code>a === b</code>."
     }
-  ],
-  "randomSpec": []
+  ]
 }

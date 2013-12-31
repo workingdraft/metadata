@@ -21,8 +21,8 @@ function analyze(html) {
   var headlines = content.find('h3');
   var description = headlines.first().prevAll().map(function(item) {
     this.find('a').removeAttr('onclick');
-    return this.html();
-  }).join('\n\n');
+    return trim(this.html());
+  }).filter(function(item){ return !!item; }).join('\n\n');
   
   if (description) {
     data.description = description;

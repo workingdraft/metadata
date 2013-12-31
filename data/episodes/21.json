@@ -34,54 +34,64 @@
   "href": "http://workingdraft.de/21/",
   "audio": "http://workingdraft.de/podpress_trac/web/482/0/wd-21.mp3",
   "title": "SPDY, Mobile UI, Webshims, und alles hardboiled!",
+  "description": "Heute zu Gast bei uns: <a href=\"http://www.highresolution.info/\">Dirk Jesse</a> aus Berlin, Autor des HTML+CSS-Frameworks <a href=\"http://www.yaml.de/\">YAML</a>. Und zu viert haben wir unsere bisher beste und längste Sendung hingequatscht.",
   "topics": [
     {
       "name": "SPDY on Google servers?",
-      "href": "http://groups.google.com/group/spdy-dev/browse_thread/thread/4c2396ecbc36b1c4?pli=1"
+      "href": "http://groups.google.com/group/spdy-dev/browse_thread/thread/4c2396ecbc36b1c4?pli=1",
+      "description": "Wer Chrome verwendet, nutzt Googles geplanten HTTP-Nachfolger <a href=\"http://www.golem.de/0911/71179.html\">SPDY</a> (gesprochen &#8220;Speedy&#8221;) schon jetzt ohne es zu wissen. Google nutzt das neue Protokoll in Chrome im Zusammenspiel mit all ihren Services!"
     },
     {
       "name": "Mobile Website oder Web-App?",
-      "href": "http://praegnanz.de/weblog/mobile-website-oder-web-app"
+      "href": "http://praegnanz.de/weblog/mobile-website-oder-web-app",
+      "description": "Wir philosophieren über die Frage, wann sich eine HTML5-Seite wohl besser als native App getarnt und wann sie lieber ehrlich und mit eigener CI auftreten sollte (wie etwa <a href=\"http://basecamphq.com/\">Basecamp</a>). Es geht bei unserem Gespräch um Best-Pratices, um Geschmäcker, um Fanboytum und nicht zuletzt um die Wurst."
     },
     {
       "name": "The JavaScript Disruption",
-      "href": "http://www.richardrodger.com/2011/04/05/the-javascript-disruption/"
+      "href": "http://www.richardrodger.com/2011/04/05/the-javascript-disruption/",
+      "description": "Herr Rodger meint: JavaScript ist nicht nur dem Spielzeugstatus von früher entwachsen, nein, es wird zur dominierenden Sprache der aktuellen Dekade avancieren. Grundsätzlich gehen wir d&#8217;accord, wollen uns aber nicht ganz so weit aus dem Fenster lehnen wie er. Und Peter möchte Euch gerne sein Buch <a href=\"http://codersatwork.com/\">Coders at Work</a> empfehlen."
     },
     {
       "name": "Webshims Lib",
-      "href": "http://afarkas.github.com/webshim/demos/index.html"
+      "href": "http://afarkas.github.com/webshim/demos/index.html",
+      "description": "Die HTML5-Polyfill-Sammlung von Alexander Farkas ist insofern besonders, als dass sie HTML5-Lücken nicht irgendwie schließt, sondern so, dass auch alle damit verbundenen JavaScript-APIs in Originalform emuliert werden. Das erlaubt es, heute schon mit den vorgesehenen Befehlen zu arbeiten, so dass Polyfills jederzeit zugunsten echten HTML5s herausfallen können."
     },
     {
       "name": "Suche in Chrome per type=search anmelden",
-      "href": "http://markus-schlegel.com/weblog/suche-in-chrome-per-typesearch-anmelden"
+      "href": "http://markus-schlegel.com/weblog/suche-in-chrome-per-typesearch-anmelden",
+      "description": "Wer für seine seitenspezifische Suche ein input-Element mit dem Typen &#8220;search&#8221; verwendet, der bringt den Chrome Browser automatisch dazu, sich diese &#8220;Suchmaschine&#8221; dauerhaft zu merken."
     },
     {
       "name": "It’s a mad, mad, mad, mad manimation",
-      "href": "http://stuffandnonsense.co.uk/blog/about/its_a_mad_mad_mad_mad_manimation/"
+      "href": "http://stuffandnonsense.co.uk/blog/about/its_a_mad_mad_mad_mad_manimation/",
+      "description": "Andy Clarke, Jünger des <a href=\"http://hardboiledwebdesign.com/\">hardboiled</a> Webdesigns, demonstriert an einem Animationsprojekt, welches Vorgehen er sich unter dem Begriff &#8220;abgebrüht&#8221; vorstellt. Wir reden darüber, ob das Vorgehen genial ist, ob es eher ein &#8220;Progressive Enhancement&#8221; oder eine &#8220;Graceful Degradation&#8221; darstellt, oder ob Andy Clarke vielleicht doch nur eine faule Socke ist und die guten alten &#8220;Optimiert für&#8221;-Zeiten wieder da sind. Was denkt Ihr? Lauft in dem für Kommentare gekennzeichneten Bereich zu dem Thema gerne Amok."
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "Handling javascript errors on production websites",
-      "href": "http://www.position-absolute.com/articles/handling-javascript-errors-on-production-websites/"
+      "href": "http://www.position-absolute.com/articles/handling-javascript-errors-on-production-websites/",
+      "description": "Kleine Library, mit der man sich jegliche JavaScript-Fehler, denen die User begegnen, an den Server schicken lassen kann."
     },
     {
       "name": "Patternify",
-      "href": "http://www.patternify.com/"
+      "href": "http://www.patternify.com/",
+      "description": "Ein CSS Hintergrundmuster Generator."
     },
     {
       "name": "The Cicada Principle and Why It Matters to Web Designers",
-      "href": "http://designfestival.com/the-cicada-principle-and-why-it-matters-to-web-designers/"
+      "href": "http://designfestival.com/the-cicada-principle-and-why-it-matters-to-web-designers/",
+      "description": "Tutorial, das zeigt, wie man mit mehreren Hintergrundbildlayern und einer speziellen, an Primzahlen orientierten Anordnung nahezu unendlich weit laufende und dennoch sich nicht sichtbar wiederholende Hintergründe baut."
     },
     {
       "name": "Lost and Taken Textur Galerie",
-      "href": "http://lostandtaken.com/gallery"
+      "href": "http://lostandtaken.com/gallery",
+      "description": "Eine Sammlung wunderschöner Oberflächentexturen zur freien Nutzung sowohl im privaten wie auch im kommerziellen Kontext."
     },
     {
       "name": "Fuel",
-      "href": "http://fuelphp.com/"
+      "href": "http://fuelphp.com/",
+      "description": "Fuel is a simple, flexible, community driven PHP 5.3 web framework based on the best ideas of other frameworks with a fresh start."
     }
-  ],
-  "randomSpec": []
+  ]
 }

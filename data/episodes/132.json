@@ -27,51 +27,59 @@
   "href": "http://workingdraft.de/132/",
   "audio": "http://workingdraft.de/podpress_trac/web/2054/0/wd-132.mp3",
   "title": "Rund ums Testen",
+  "description": "Schepp und Rodney luden sich <a href=\"https://twitter.com/asciidisco\">Sebastian Golasch</a> ein, um ein wenig was über sein neues Projekt <a href=\"http://dalekjs.com/\">DalekJS</a> zu erfahren.",
   "topics": [
     {
       "name": "Testing Situation heute – Hallo DalekJS",
       "href": "http://dalekjs.com/",
-      "time": "00:01:36"
+      "time": "00:01:36",
+      "description": "Sebastian erklärt uns die Unterschiede zwischen Unit- Functional- Integration- und sonstigem Testing. Wir sprechen über <a href=\"http://phantomjs.org/\">PhantomJS</a> und <a href=\"http://slimerjs.org/\">SlimerJS</a> &#8211; steuerbare WebKit und Gecko Laufzeiten. Sebastian schwärmt von <a href=\"http://csste.st/\">CSSTest</a>, um seine Styles zu prüfen. Basierend auf der <a href=\"http://www.w3.org/TR/2013/WD-webdriver-20130117/\">WebDriver Specification</a> hat Sebastian sein eigene, Java-freie Alternative zu Selenium gebaut, Damit kann man auch ein paar <a href=\"https://gist.github.com/asciidisco/6163475\">Screenshots machen</a>. Außerdem gibt es einen <a href=\"https://gist.github.com/tivac/e615413684a6a5db057d\">Vergleich CasperJS zu DalekJS</a>."
     }
   ],
   "news": [
     {
       "name": "Firefox 23 ist da",
       "href": "http://www.mozilla.org/en-US/firefox/23.0/releasenotes/",
-      "time": "00:00:31"
+      "time": "00:00:31",
+      "description": "Der neuste Firefox unterstützt jetzt <code>&lt;input type=\"range\"&gt;</code>, mag kein HTTP in HTTPS mehr, erschwert das Abschalten von JavaScript und hat <code>&lt;blink&gt;</code> rausgeworfen."
     }
   ],
   "links": [
     {
       "name": "Techniques for mobile and responsive cross-browser testing",
       "href": "http://webuild.envato.com/blog/techniques-for-mobile-and-responsive-cross-browser-testing/",
-      "time": "01:03:36"
+      "time": "01:03:36",
+      "description": "Welche Dienste und Tools muss man sich für seine Test-Infrastruktur anschauen? Envato klärt auf…"
     },
     {
       "name": "How To Do A Procedural City In 100 Lines – Learning Three.js",
       "href": "http://learningthreejs.com/blog/2013/08/02/how-to-do-a-procedural-city-in-100lines/",
-      "time": "01:03:36"
+      "time": "01:03:36",
+      "description": "Eine dreidimensionale Stadt generieren &#8211; mit quasi keinem Code…"
     },
     {
       "name": "visibility:visible innerhalb von visibility:hidden",
       "href": "http://jsbin.com/exepef/1/edit",
-      "time": "01:03:36"
+      "time": "01:03:36",
+      "description": "Vielleicht für Menüs und ähnliches hilfreich: man kann die CSS-Property <code>visibility</code> in verschachtelten Elementen umkehren."
     },
     {
       "name": "Ultrasonic Networking on the Web",
       "href": "http://smus.com/ultrasonic-networking/",
-      "time": "01:03:36"
+      "time": "01:03:36",
+      "description": "Man nehme Mikrofon und Lautsprecher und baue sich eine Modem-ähnliche Kommunikationsschnittstelle"
     },
     {
       "name": "Absolute Horizontal And Vertical Centering In CSS",
       "href": "http://coding.smashingmagazine.com/2013/08/09/absolute-horizontal-vertical-centering-css/",
-      "time": "01:03:36"
+      "time": "01:03:36",
+      "description": "Viele Wege führen nach Rom, aber nur wenige ohne Stolpersteine…"
     },
     {
       "name": "KarlsruheJS",
       "href": "http://karlsruhejs.org/",
-      "time": "01:03:36"
+      "time": "01:03:36",
+      "description": "Der Working Draft Alumni <a href=\"http://twitter.com/distilledhype\">Kahlil Lechelt</a> möchte das Karlsruher JavaScript MeetUp wiederbeleben und sucht dafür noch Speaker."
     }
-  ],
-  "randomSpec": []
+  ]
 }

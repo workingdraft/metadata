@@ -23,6 +23,7 @@
   "href": "http://workingdraft.de/29/",
   "audio": "http://workingdraft.de/podpress_trac/web/629/0/wd-29.mp3",
   "title": "VisualSearch.js und Twitter-Spam",
+  "description": "Nachdem wir letzte Woche mit zwei Stunden Sendungsdauer unseren Schnitt etwas gehoben haben, gleichen wir das in dieser Woche mit einer guten halben Stunde sofort wieder aus.",
   "topics": [
     {
       "name": "VisualSearch.js",
@@ -40,7 +41,6 @@
       "time": "0:14:00:000"
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "CSS Animation Keyframe Events",
@@ -54,6 +54,5 @@
       "name": "Webfont Load Enhancer",
       "href": "https://github.com/MichaelvanLaar/Webfont-Load-Enhancer"
     }
-  ],
-  "randomSpec": []
+  ]
 }

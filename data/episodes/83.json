@@ -30,56 +30,65 @@
   "href": "http://workingdraft.de/83/",
   "audio": "http://workingdraft.de/podpress_trac/web/1398/0/wd-83.mp3",
   "title": "ECMAScript 6, @supports, WebRTC",
+  "description": "Mit dem seltenen Überraschungsgast Peter starten Rodney und Hans in eine neue Revision voller Spiel, Spaß und Abenteuer!",
   "topics": [
     {
       "name": "Neue Syntax in ECMAScript 6",
       "href": "http://www.nczonline.net/blog/2012/07/24/thoughts-on-ecmascript-6-and-new-syntax/",
-      "time": "00:00:40"
+      "time": "00:00:40",
+      "description": "Die nächste Version von JavaScript wird allerlei neue Syntax einführen, wovon Nicholas C. Zakas ein großer Teil ganz und gar nicht gefällt. Rodney und Peter stimmen in diesem Chor voller Inbrunst ein. <a href=\"http://wiki.ecmascript.org/doku.php?id=harmony:arrow_function_syntax&amp;s=arrow\">Fat Arrows</a> machen, wenn überhaupt, <a href=\"http://coffeescript.org/#fat_arrow\">nur in CoffeeScript Sinn</a>, <a href=\"http://www.nczonline.net/blog/2012/08/01/a-critical-review-of-ecmascript-6-quasi-literals/\">Quasi Literals</a> könnten auch einfache Library-Funktionen sein und überhaupt hätten wir nichts gegen etwas mehr Zurückhaltung bei der Einführung von neuer Syntax. Sinnvoller finden wir da schon die neuen Syntaxen für z.B. <a href=\"http://www.2ality.com/2012/07/esnext-classes.html\">Klassen</a> und <a href=\"http://www.peterkroener.de/ecmascript-6-block-scope-und-konstanten/\">Konstanten</a>, aber generell ist weniger mehr. Peter geht auch davon aus, dass die ES-Macher noch rechtzeitig zur Vernunft kommen."
     },
     {
       "name": "Support for @supports in Firefox Nightly",
       "href": "http://mcc.id.au/blog/2012/08/supports",
-      "time": "00:20:33"
+      "time": "00:20:33",
+      "description": "Ist das Ende von JS-Polyfills nahe? Mit der <a href=\"http://dev.w3.org/csswg/css3-conditional/#at-supports\">@supports-Regel</a> können CSS-Autoren den Browser fragen, ob sie eine CSS-Deklaration verstehen und dann entsprechend darauf reagieren. Die Idee finden wir summa summarum ganz großartig. Der Firefox legt nun mit seiner Implementierung vor, <a href=\"https://twitter.com/frivoal/statuses/231101124298547200\">doch auch Opera arbeitet dran.</a> Ein weiteres mögliches Feature für die Zukunft, die <a href=\"http://www.xanthir.com/blog/b4Jp0\">color()-Funktion</a>, steifen wir auch."
     },
     {
       "name": "Microsoft commits to WebRTC – just not Google’s version",
       "href": "http://gigaom.com/2012/08/06/microsoft-webrtc-w3c/",
-      "time": "00:31:27"
+      "time": "00:31:27",
+      "description": "Der Artikel, der Anlass zu diesem Thema ist, enthält nicht viele Informationen, aber das was da ist reicht, um Peter fragen zu lassen: „können wir uns WebRTC an die Backe schmieren?“ Die pluginfreie VOIP-im-Browser-Technologie (s. <a href=\"http://www.webrtc.org/\">webrtc.org</a> + <a href=\"http://gigaom.com/2012/08/06/microsoft-webrtc-w3c/\">dieser umfassender Talk von Googles diesjähriger Entwicklerkonferenz</a>) will jetzt auch Microsoft unterstützen, macht aber das von &lt;video&gt; und &lt;audio&gt; bekannte <a href=\"http://en.wikipedia.org/wiki/Comparison_of_layout_engines_(HTML5_Media)#Video_format_support\">Codec-Fass</a> auf. Statt sich auf einen Codec zu einigen sei es ja viel besser für den Endnutzer, wenn er die freie Wahl hätte. So wie ihr bei ihrem Stromanbieter! Wir sind nicht alle komplett von dieser Argumentationskette überzeugt.<br>\n<br>\n<img src=\"http://i.imgur.com/qaAAH.jpg\" alt=\"\">"
     }
   ],
   "news": [
     {
       "name": "MySQL 5.6.6 ist da",
       "href": "http://dev.mysql.com/doc/refman/5.6/en/news-5-6-6.html",
-      "time": "00:00:10"
+      "time": "00:00:10",
+      "description": "Mit memcached an Bord!"
     }
   ],
   "links": [
     {
       "name": "Prism",
       "href": "http://prismjs.com/",
-      "time": "00:45:19"
+      "time": "00:45:19",
+      "description": "Lea Verou hat den bei Dabblet.com verwendeten Syntaxhighlighter geopensourced."
     },
     {
       "name": "Mobilism’s Videos",
       "href": "http://vimeo.com/mobilism/videos",
-      "time": "00:45:19"
+      "time": "00:45:19",
+      "description": "Reinziehen, lernen!"
     },
     {
       "name": "gridster.js",
       "href": "http://gridster.net/",
-      "time": "00:45:19"
+      "time": "00:45:19",
+      "description": "jQuery-Plugin für rekonfigurierbare Grid-Layouts."
     },
     {
       "name": "Piecon",
       "href": "https://github.com/lipka/piecon",
-      "time": "00:45:19"
+      "time": "00:45:19",
+      "description": "A tiny javascript library for dynamically generating pie charts in your favicons."
     },
     {
       "name": "SCSS-Toolkit",
       "href": "https://github.com/davidrapson/scss-toolkit",
-      "time": "00:45:19"
+      "time": "00:45:19",
+      "description": "Auf <a href=\"http://smacss.com/\">SMACSS</a> basierendes Toolkit für SCSS."
     }
-  ],
-  "randomSpec": []
+  ]
 }

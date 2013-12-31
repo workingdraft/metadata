@@ -27,96 +27,114 @@
   "href": "http://workingdraft.de/115/",
   "audio": "http://workingdraft.de/podpress_trac/web/1886/0/wd-115.mp3",
   "title": "Browsertriebwerke, RWD und Steinzeitmalerei",
+  "description": "Hans und Rod luden sich <a href=\"http://www.mademyday.de/\">Marc Hinse</a> ein, um den wöchentliche Tratsch mal streng Badisch abzuwickeln &#8211; Wir können alles, außer Hochdeutsch.",
   "topics": [
     {
       "name": "Blink",
-      "time": "00:01:29"
+      "time": "00:01:29",
+      "description": "Nach Jahren des Mitwirkens trennt sich Google nun von WebKit und macht mit Blink ihr eigenes Ding. Obwohl das erstmal wenige Auswirkungen für uns Webentwickler haben sollte, haben ganz viele Leute ganz viele Meinungen:<p></p>\n<ul>\n<li><a href=\"http://aerotwist.com/blog/hello-blink/\">Aerotwist: Hello, Blink!</a></li>\n<li><a href=\"https://plus.google.com/116237864387312784020/posts/d62jMDKXcLb\">Jaffathecake: That solves the Monoculture</a></li>\n<li><a href=\"http://www.brucelawson.co.uk/2013/hello-blink/\">Brucel: Hello Blink</a></li>\n<li><a href=\"http://www.chromium.org/blink/developer-faq\">Chromium FAQ</a></li>\n<li><a href=\"http://www.quirksmode.org/blog/archives/2013/04/blink.html\">PPK: Blink</a></li>\n<li><a href=\"https://medium.com/my-ideas/25a947158087\">Thoughts on Blink &#8211; a contributor&#8217;s perspective</a></li>\n<li><a href=\"http://www.theregister.co.uk/2013/04/04/webkit_to_purge_chrome_code/\">WebKit devs on Blink fork: &#8216;Two can play that game&#8217;</a></li>\n<li><a href=\"http://trac.webkit.org/wiki/UnmaintainedFeatureList\">Unmaintained features in WebKit</a></li>\n</ul>\n"
     },
     {
       "name": "Servo",
       "href": "https://blog.mozilla.org/blog/2013/04/03/mozilla-and-samsung-collaborate-on-next-generation-web-browser-engine/",
-      "time": "00:17:25"
+      "time": "00:17:25",
+      "description": "Mozilla forscht schon länger an einer neuen Renderingengine namens Servo. Samsung hat nun die Basis geschaffen, um das Projekt auch auf seinen ARM-basierten Geräten laufen zu lassen."
     },
     {
       "name": "Media Queries are a hack",
       "href": "http://ianstormtaylor.com/media-queries-are-a-hack/",
-      "time": "00:20:55"
+      "time": "00:20:55",
+      "description": "Media-Queries gruppieren unterschiedliche CSS-Anweisungen nach Browsereigenschaft. Es stellt sich die Frage, ob die Verfeinerung einzelner CSS-Anweisungen um die Browsereigenschaft-Einschränkung nicht das logischere Mittel wäre."
     },
     {
       "name": "Responsive Deliverables",
       "href": "http://daverupert.com/2013/04/responsive-deliverables/",
-      "time": "00:29:09"
+      "time": "00:29:09",
+      "description": "&#8220;Responsive&#8221; ist in aller Munde. Doch hat man auch schon angefangen das Konzept &#8220;Seite&#8221; zu verlassen und über &#8220;Module&#8221; respektive &#8220;Komponenten&#8221; nachzudenken?"
     },
     {
       "name": "New save symbol needed?",
       "href": "http://branch.com/b/redesigning-the-save-symbol-let-s-do-this",
-      "time": "00:31:27"
+      "time": "00:31:27",
+      "description": "Alle Jahre wieder taucht die Frage auf, ob gewisse Symbole noch zeitgemäß sind. Diesmal traf es (wieder mal) die gute alte Diskette. Man argumentiert, dass die heutige Jugend nicht einmal mehr wisse, was eine Diskette überhaupt sei und deshalb eine andere Metapher für &#8220;Speichern&#8221; herbeigezaubert werden müsse. Wir sehen das anders, wie <a href=\"http://connortomas.com/2013/04/in-defence-of-the-floppy-disk-save-symbol/\">In Defence of the Floppy Disk Save Symbol</a> schön schildert."
     }
   ],
   "news": [
     {
       "name": "<hgroup> kommt weg",
       "href": "http://lists.w3.org/Archives/Public/public-html-admin/2013Apr/0003.html",
-      "time": "00:00:20"
+      "time": "00:00:20",
+      "description": "Weil <code>&lt;hgroup&gt;</code> nicht fristgerecht von Browserherstellern umgesetzt wurde, wird es aus der Spezifikation gestrichen."
     }
   ],
   "links": [
     {
       "name": "Media Queries in SVG images – Cloud Four Blog",
       "href": "http://blog.cloudfour.com/media-queries-in-svg-images/",
-      "time": "00:46:48"
+      "time": "00:46:48",
+      "description": "Media Queries lassen sich auch in SVG nutzen. Das nette daran, ein <code>max-width</code> wirkt sich hier nicht auf den Viewport, sondern das Bild aus. So kann man also den Inhalt eines SVG Bildes abhängig von der Größe des Bildes nach Belieben umbauen."
     },
     {
       "name": "<learning class='always'>...",
       "href": "http://blog.whydoifollow.com/post/angularjs-where-to-start",
-      "time": "00:46:48"
+      "time": "00:46:48",
+      "description": "Wie fange ich eigentlich an AngularJS zu lernen?"
     },
     {
       "name": "10 tips for designing localised interfaces",
       "href": "http://www.netmagazine.com/features/10-tips-designing-localised-interfaces",
-      "time": "00:46:48"
+      "time": "00:46:48",
+      "description": "10 einfache – jedoch gute – Tips einigen Problemen bei mehrsprachigen Webseiten aus dem Weg zu gehen."
     },
     {
       "name": "How To Sell The Value Of Mobile To Clients",
       "href": "http://www.smashingmagazine.com/2013/04/05/how-to-sell-the-value-of-mobile-to-clients/",
-      "time": "00:46:48"
+      "time": "00:46:48",
+      "description": "Wie verkaufe ich meinen Kunden eigentlich den angeblichen Mehraufwand für Responsive Design?"
     },
     {
       "name": "Annotate your code",
       "href": "https://trello.com/card/paul-lewis-google-annotate-your-code-gain-insightsup/515b37273df03b734b006048/7",
-      "time": "00:46:48"
+      "time": "00:46:48",
+      "description": "In Chromes DevTools kann man die Rendering Timelines mit Markern versehen"
     },
     {
       "name": "Page weight grows 24% year-over-year (not 44%)",
       "href": "http://www.stevesouders.com/blog/2013/04/05/page-weight-grows-24-year-over-year-not-44/",
-      "time": "00:46:48"
+      "time": "00:46:48",
+      "description": "Performance-Papst rudert zurück, wenn auch nur ein bisschen."
     },
     {
       "name": "datalist experiment",
       "href": "http://demo.agektmr.com/datalist/",
-      "time": "00:46:48"
+      "time": "00:46:48",
+      "description": "Zeigt was der Chrome so alles mit <code>&lt;datalist&gt;</code> anstellen kann. Wir wollen das in allen Browsern. Heute!"
     },
     {
       "name": "[Job] Interaction Designer",
       "href": "https://www.google.com/about/jobs/search/#!t=jo&jid=290002",
-      "time": "00:46:48"
+      "time": "00:46:48",
+      "description": "München: Google sucht einen Interaction Designer für seine DevTools."
     },
     {
       "name": "[Job] Developer Evangelist",
       "href": "http://www.mailjet.com/jobs/dev-evangelist-london-or-germany,13.htm",
-      "time": "00:46:48"
+      "time": "00:46:48",
+      "description": "Überall: mailjet such einen Developer Evangelist"
     },
     {
       "name": "[Job] Junior Mobile Web Developer",
       "href": "http://www.dasauge.de/jobs/stellenangebote/fest/e229111",
-      "time": "00:46:48"
+      "time": "00:46:48",
+      "description": "Berlin: Geil,Danke! sucht einen Mobile Web Developer."
     }
   ],
   "randomSpec": [
     {
       "name": "CDATA sections",
       "href": "http://www.whatwg.org/specs/web-apps/current-work/#syntax-cdata",
-      "time": "00:42:53"
+      "time": "00:42:53",
+      "description": "Das von XML geerbte <code>&lt;![CDATA[</code> wird benutzt, um den Inhalt eines Elements wörtlich zu nehmen, also nicht durch den Parser zu schleusen. Man hat das früher gerne um Inline-JavaScript gepackt, weil XHTML ja ganz Hip war. Das ist bei HTML5 aber so nicht mehr notwendig."
     }
   ]
 }

@@ -26,71 +26,83 @@
   "href": "http://workingdraft.de/126/",
   "audio": "http://workingdraft.de/podpress_trac/web/1989/0/wd-126.mp3",
   "title": "Inputs, Formulare, Pseudoklassen und Origin",
-  "topics": [],
+  "description": "Bei einem schönen Digestivum drehten Stefan und Schepp ein paar mal am HTML5-Glücksrad und ließen einen Berg Links vom Stapel. Im Detail ergab sich das folgendermaßen:",
   "news": [
     {
       "name": "Firefox 22",
       "href": "https://www.mozilla.org/en-US/firefox/22.0/releasenotes/?utm_source=html5weekly&utm_medium=email",
-      "time": "00:00:41"
+      "time": "00:00:41",
+      "description": "Firefox 22 bringt der breiten Masse WebRTC und unprefixtes CSS Flexbox."
     },
     {
       "name": "iOS 7 beta and the new Safari for web developers",
       "href": "http://www.mobilexweb.com/blog/ios7-beta-safari-html5",
-      "time": "00:00:41"
+      "time": "00:00:41",
+      "description": "Maximiliano Firtman hat sich angeschaut, was iOS7 Neues für uns Entwickler bereithält. Unter anderem sind das Video-Untertitel, XHR 2, CSS Regions und CSS Flexbox."
     }
   ],
   "links": [
     {
       "name": "CSSRegions.js",
       "href": "http://adobe-webplatform.github.io/css-regions-polyfill/",
-      "time": "00:39:16"
+      "time": "00:39:16",
+      "description": "Adobe hat einen CSS Regions Polyfill veröffentlicht. Macht einen guten Eindruck, bald auch mit IE9-Support."
     },
     {
       "name": "Hinweis zur vergangenen Sendung: display:table hat Auswirkungen auf manche Screenreader",
       "href": "http://www.456bereastreet.com/archive/201110/using_displaytable_has_semantic_effects_in_some_screen_readers/",
-      "time": "00:39:16"
+      "time": "00:39:16",
+      "description": "Danke für den Hinweis an <a href=\"https://twitter.com/tcaspers\">Tomas Caspers</a>!"
     },
     {
       "name": "Good UI",
       "href": "http://goodui.org/",
-      "time": "00:39:16"
+      "time": "00:39:16",
+      "description": "16 kurze und sehr sinnvolle Tipps für einen perfekten Userflow"
     },
     {
       "name": "Mobile Web Problems",
       "href": "http://bradfrostweb.com/blog/post/mobile-web-problems/",
-      "time": "00:39:16"
+      "time": "00:39:16",
+      "description": "Passend dazu zeigt <a href=\"https://twitter.com/brad_frost\">Brad Frost</a>, wie man mit seinen mobilen Besuchern besser nicht umgehen sollte, um deren Flow nicht abrupt zunichte zu machen."
     },
     {
       "name": "UI Transitions",
       "href": "http://sarasoueidan.com/blog/ui-transitions-creative-add-remove-effects-for-list-items/",
-      "time": "00:39:16"
+      "time": "00:39:16",
+      "description": "<a href=\"https://twitter.com/SaraSoueidan\">Sara Soueidan</a> hat ein paar erstklassige CSS Animationen für das Einhängen und Entfernen neuer DOM-Elemente entwickelt und zusammengetragen."
     },
     {
       "name": "Building Apps For Firefox OS, Chrome OS And The Web",
       "href": "http://thenittygritty.co/ffos-apps",
-      "time": "00:39:16"
+      "time": "00:39:16",
+      "description": "Und der fantastische <a href=\"https://twitter.com/addyosmani\">Addy Osmani</a> schreibt bei Kahlil und Hans drüben wie man eine App entwickelt, die nicht nur im Web sondern auch auf Chrome OS und Firefox OS als Bürger erster Klasse läuft."
     }
   ],
   "randomSpec": [
     {
       "name": "input[type=\"image\"]",
       "href": "http://www.whatwg.org/specs/web-apps/current-work/#image-button-state-(type=image)",
-      "time": "00:07:02"
+      "time": "00:07:02",
+      "description": "Wir reden über den Sinn und Ursprung dieses Inputs, und dass er fast immer zweckentfremdet anzutreffen ist."
     },
     {
       "name": "Form Submission",
       "href": "http://www.whatwg.org/specs/web-apps/current-work/#form-submission-0",
-      "time": "00:16:12"
+      "time": "00:16:12",
+      "description": "In HTML5 ist es möglich, dass jeder Submit-Knopf eigene Aktionen, Methoden, etc. für das ihn umgebende Formular festlegt."
     },
     {
       "name": "Pseudo-classes",
       "href": "http://www.whatwg.org/specs/web-apps/current-work/#pseudo-classes",
-      "time": "00:20:35"
+      "time": "00:20:35",
+      "description": "Wir betrachten ein paar der interessanteren Pseudoklassen aus der Spec, und streifen dabei das Select-Widget <a href=\"http://ivaynberg.github.io/select2/\">Select2</a>."
     },
     {
       "name": "Origin",
       "href": "http://www.whatwg.org/specs/web-apps/current-work/#origin-0",
-      "time": "00:32:35"
+      "time": "00:32:35",
+      "description": "Wir reden darüber, was der Origin im Client für eine Rolle spielt und wie man mit ihm umgehen kann bzw. sollte."
     }
   ]
 }

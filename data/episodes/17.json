@@ -30,62 +30,74 @@
   "href": "http://workingdraft.de/17/",
   "audio": "http://workingdraft.de/podpress_trac/web/422/0/wd-17.mp3",
   "title": "A/B-Test, Animationen, Canvas und WebGL",
+  "description": "Nach ganzen vier(!) Wochen des krankheitsbedingten Ausfallens haben wir uns endlich den Peter wieder in die Sendung zurückgeholt. Das war auch dringend erforderlich, denn bedingt durch unsere letztwöchige Sondersendung haben sich bei uns furchtbar viele interessante Themen angesammelt, die in Augenschein genommen werden mussten. Die Themenflut hatte zudem zur Folge, dass wir besonders rigoros sieben mussten. Da wir dieses Material nicht ganz unter den Tisch fallen lassen wollten sind im Gegenzug unsere <em>KEINE Schaunotizen</em> sehr umfangreich geworden. Also unbedingt mal durchscrollen!",
   "topics": [
     {
       "name": "requestAnimationFrame for smart animating",
-      "href": "http://paulirish.com/2011/requestanimationframe-for-smart-animating/"
+      "href": "http://paulirish.com/2011/requestanimationframe-for-smart-animating/",
+      "description": "Der Befehl <code>requestAnimationFrame</code> steckt in neueren WebKits wie auch im Firefox 4 und soll in Zukunft als Animationsgerüst/-prinzip die bisherigen Krücken <code>setTimeout</code> und <code>setInterval</code> ablösen. Warum jetzt genau &#8220;Krücken&#8221;? Weil beide eher unkoordiniert und hysterisch Browser-Repaints erzeugen. <code>requestAnimationFrame</code> hingegen arbeitet umgekehrt und gibt sozusagen &#8220;Bescheid&#8221; wenn der Browser wieder Luft und Lust hat, etwas zu animieren. Nur dann werden Animationsanweisungen abgegeben und die dadurch entstehende ToDo-Liste wird an einem koordinierten Zeitpunkt umgesetzt. Zudem hilft die Methode Strom sparen. Soweit wir das verstanden haben, <a href=\"http://weblogs.mozillazine.org/roc/archives/2010/08/mozrequestanima.html\">war Mozilla hier Vordenker</a>. Wir kommen bei dem Thema kurz auf das <a href=\"http://playground.benbarnett.net/jquery-animate-enhanced/\">jquery.animate-enhanced plugin</a> zu sprechen, obwohl es nicht direkt etwas damit zu tun hat. Haben aber gesagt, wir verlinken es dennoch."
     },
     {
       "name": "Optimizely: A/B Testing you’ll actually use",
-      "href": "http://optimizely.appspot.com/"
+      "href": "http://optimizely.appspot.com/",
+      "description": "Ein tolles und kinderleicht zu bedienendes Onlinewerkzeug, mit dem man im Browser Abwandlungen seiner zu testenden Seite erstellen kann. Halt ohne große und schmerzhafte serverseitige Eingriffe. Statt dessen erhält man einen JavaScript-Code, den man in seine Seite einbinden muss, und von da an erhalten Seitenbesucher reihum die verschiedenen Varianten vorgesetzt, und man selbst kann im Optimizely-Panel die Akzeptanzraten in Echtzeit begutachten."
     },
     {
       "name": "CamanJS – JS Image Manipulation",
-      "href": "http://camanjs.com"
+      "href": "http://camanjs.com",
+      "description": "Ein supersimpel aufgebautes Framework zur Farbmanipulation von Bildern. Zu diesem Zweck gibt es diverse Filter, die man so im Prinzip auch aus gängigen Bildverarbeitungen kennt: Brightness, Contrast, Saturation oder auch Farbkanalmanipulationen oder Bezier-Farbkurvenanpassung. Darüberhinaus gibt es noch Zusammenstellungen von Filtern und bestimmten Einstellungen, die sogenannten <a href=\"http://camanjs.com/examples/presets\">Presets</a>, mit denen man auf einen Schlag einen anständigen Vintage oder Sin City Effekt erhält. Wärend wir über CamanJS reden, stellen wir uns Fragen zur <a href=\"http://blip.tv/file/4282255/\">Canvas-Performance</a> bei bewegtem Quellmaterial"
     },
     {
       "name": "HTML Timing",
-      "href": "http://labs.kompozer.net/timesheets/"
+      "href": "http://labs.kompozer.net/timesheets/",
+      "description": "Bei diesem Projekt geht es darum, das altehrwürdige SMIL-Format auch im Nicht-SVG-Bereich wieder auferstehen zu lassen, um damit verschiedene Elemente einer Seite miteinander zeitlich zu synchronisieren und Ihnen einen geordneten Zeitablauf vorzugeben. Das alles steuert man deklarativ über XML-genamespacedte oder HTML5-data-Attribute, oder wahlweise über ein externes Timesheet. Damit lassen sich sehr einfach zeitgesteuerte Textslides und Bildrotationen erstellen, oder Videos untertiteln. Peter meint sich zu erinnern, dass das <a href=\"http://mashi.tv\">Mashi Toolkit</a> und <a href=\"http://leunen.d.free.fr/fakesmile/\">FakeSmile</a> ähnliches bewerkstelligen."
     },
     {
       "name": "WebGL 1.0 ist fertig",
-      "href": "http://www.golem.de/1103/81890.html"
+      "href": "http://www.golem.de/1103/81890.html",
+      "description": "Der von der Khronos-Group beigesteuerte Standard <a href=\"http://www.khronos.org/webgl/\">WebGL</a> wurde finalisiert. WebGL nutzt die HTML5-Canvas, um darin nicht in 2D sondern in 3D herumzupinseln. WebGL ist dabei nichts anderes als OpenGL ES 2.0 mit angeflanschtem JavaScript-Befehlssatz. Wir denken, dass wir uns mit <a href=\"http://learningwebgl.com/blog/?page_id=1217\">dessen Befehlssätzen</a> wohl eher selten herumschlagen müssen, sondern, wie im klassischen 3D-Bereich auch, wir immer mehr Autorenwerkzeuge für 3D im Web zur Hand bekommen. Zum Bespiel <a href=\"http://www.ambiera.com/copperlicht/index.html\">CopperLicht</a> oder <a href=\"http://senchalabs.github.com/philogl/\">PhiloGL</a>. WebGL gibt es im aktuellen Chrome, im kommenden Firefox 4, in einem <a href=\"http://my.opera.com/core/blog/2011/02/28/webgl-and-hardware-acceleration-2\">Snapshot von Opera 11.50</a>, sowie angeblich bald auch im Safari."
     },
     {
       "name": "WebGL-2D",
-      "href": "https://github.com/corbanbrook/webgl-2d"
+      "href": "https://github.com/corbanbrook/webgl-2d",
+      "description": "Dieses noch im Anfangsstadium befindliche Projekt stellt einen Wrapper von klassischem 2D-Canvas nach WebGL dar, sprich: es nimmt dieselben Befehle wie Canvas entgegen, setzt sie aber hintenrum in WebGL um. Der Sinn des Ganzen? Performance! WebGL-Zeichenoperationen sind zu 100% grafikkartenbeschleunigt und vor allem wenn es um Sprites und Texturen geht deutlich performanter. Eindrucksvoll demonstriert das ein Versuch von Jeff Muizelaar: <a href=\"http://muizelaar.blogspot.com/2011/02/drawing-sprites-canvas-2d-vs-webgl.html\">Drawing Sprites: Canvas 2D vs. WebGL</a>."
     },
     {
       "name": "Mozilla OpenWebApps",
-      "href": "http://mozillalabs.com/blog/2011/03/first-developer-release-of-web-apps-project/"
+      "href": "http://mozillalabs.com/blog/2011/03/first-developer-release-of-web-apps-project/",
+      "description": "Als letztes Thema nehmen wir uns Mozillas OpenWebApps-Spezifikation/API zur Brust. Sinn des Ganzen soll sein, Webapp-Entwicklern einen Werkzeugsatz an die Hand zu geben, mit dem sie ihre Webanwendungen mit einem Installer versehen und in einem selbstgebauten App-Store feilbieten können."
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "Blur-Radius explained",
-      "href": "http://dbaron.org/log/20110225-blur-radius"
+      "href": "http://dbaron.org/log/20110225-blur-radius",
+      "description": "Wie die Browser Unschärfen wie die von <code>box-shadow</code> oder <code>text-shadow</code> berechnen."
     },
     {
       "name": "D3",
-      "href": "http://mbostock.github.com/d3/"
+      "href": "http://mbostock.github.com/d3/",
+      "description": "Wie jQuery, nur nicht für das HTML-Dokument, sondern für Rohdaten. Damit lassen sich diese in eine wunderschöne Form pressen und darstellen."
     },
     {
       "name": "Why Hover Menus Do Users More Harm Than Good",
-      "href": "http://uxmovement.com/navigation/why-hover-menus-do-users-more-harm-than-good"
+      "href": "http://uxmovement.com/navigation/why-hover-menus-do-users-more-harm-than-good",
+      "description": "Warum Hovermenüs i.d.R. nur abnerven. Und darüber, was ein Hovertunnel ist."
     },
     {
       "name": "Why do lints warn about using parseInt without a radix?",
-      "href": "http://whereswalden.com/2011/02/26/the-proper-way-to-call-parseint-tldr-parseintstr-radix"
+      "href": "http://whereswalden.com/2011/02/26/the-proper-way-to-call-parseint-tldr-parseintstr-radix",
+      "description": "Was alles passieren kann, wenn man den zweiten Parameter, die Basiszahl bei <code>parseInt</code> weglässt. Dazu passend:"
     },
     {
       "name": "JavaScript Garden",
-      "href": "http://bonsaiden.github.com/JavaScript-Garden/#intro"
+      "href": "http://bonsaiden.github.com/JavaScript-Garden/#intro",
+      "description": "\n<blockquote><p>JavaScript Garden is a growing collection of documentation about the most quirky parts of the JavaScript programming language. It gives advice to avoid common mistakes, subtle bugs, as well as performance issues and bad practices that non-expert JavaScript programmers may encounter on their endeavours into the depths of the language.</p></blockquote>\n"
     },
     {
       "name": "Undo.js",
-      "href": "https://github.com/jzaefferer/undo"
+      "href": "https://github.com/jzaefferer/undo",
+      "description": "Ein Framework zum Ablegen und Zurückspulen von Arbeitssschritten."
     }
-  ],
-  "randomSpec": []
+  ]
 }

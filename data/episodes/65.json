@@ -38,40 +38,45 @@
   "href": "http://workingdraft.de/65/",
   "audio": "http://workingdraft.de/podpress_trac/web/1125/0/wd-65.mp3",
   "title": "Infinite Transition Delays, jQuery Hooks, ECMAScript 6",
+  "description": "Mit allen Mann an Bord ging es um die aprilscherzbedingt nicht besonders zahlreichen Themen der Woche.",
   "topics": [
     {
       "name": "Maintaining CSS Style States using Infinite Transition Delays",
       "href": "http://dabblet.com/gist/2076449",
-      "time": "00:00:31"
+      "time": "00:00:31",
+      "description": "Kreativer Gebrauch von <a href=\"http://www.w3.org/TR/selectors/\">CSS3-Selektoren</a> und <a href=\"http://dabblet.com/gist/2076449\">-Transitions</a> für Funktionalität, für die man normalerweise den JavaScript-Hut aufsetzen würde. Das funktioniert zwar (<a href=\"http://joelb.me/blog/2012/maintaining-css-style-states-using-infinite-transition-delays/\">hier kurz erklärt</a>), aber ist es wirklich eine gute Idee?"
     },
     {
       "name": "SVG Stacks",
       "href": "http://simurai.com/post/20251013889/svg-stacks",
-      "time": "00:14:55"
+      "time": "00:14:55",
+      "description": "Wir besprechen die besseren CSS-Sprites, lobpreisen <a href=\"http://inkscape.org/\">Inkscape</a> und granteln über den SVG-Support in Browsern. Der <a href=\"http://caniuse.com/#search=svg\">ist zwar im Prinzip da</a>, doch wenn es an die Einzelfeatures geht, wird es schnell unangenehm. Noch! Außerdem sprachen wir über das Kapseln von Bitmapgrafiken in SVG, wie von <a href=\"http://www.eleqtriq.com/2012/01/enhancing-css-sprites-and-background-image-with-svg/\">Dirk Weber beschrieben</a> und über die Möglichekeit, eine <code>background-position</code> von unten rechts aus anzugeben (<a href=\"http://www.w3.org/TR/css3-background/#the-background-position\">siehe Example 12</a>)."
     },
     {
       "name": "jQuery Hooks",
       "href": "http://blog.rodneyrehm.de/archives/11-jQuery-Hooks.html",
-      "time": "00:27:05"
+      "time": "00:27:05",
+      "description": "Rodney Rehm über ein undokumentiertes, aber möglicherweise sehr nützliches jQuery-Feature. Wir empfehlen neben dem Artikel selbst <a href=\"http://paulirish.com/2010/10-things-i-learned-from-the-jquery-source/\">die</a> <a href=\"http://paulirish.com/2011/11-more-things-i-learned-from-the-jquery-source/\">diversen</a> <a href=\"http://www.blog.highub.com/decoding-jquery/\">Walkthroughs</a> durch den jQuery-Source."
     },
     {
       "name": "Peters ES6-Serie",
       "href": "http://www.peterkroener.de/arikel/ecmascript-6/",
-      "time": "00:38:34"
+      "time": "00:38:34",
+      "description": "Eine Artikelserie über den neuen JavaScript-Standard ECMAScript&nbsp;6 ist am entstehen und soll ausgebaut werden, sobald mehr von den <a href=\"http://wiki.ecmascript.org/doku.php?id=harmony:proposals\">neuen Features</a> implementiert werden."
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "Timeline",
       "href": "http://timeline.verite.co/",
-      "time": "00:51:21"
+      "time": "00:51:21",
+      "description": "Zeitleisten mit jQuery gestalten."
     },
     {
       "name": "Intelligist",
       "href": "http://srobbin.com/jquery-plugins/intelligist/",
-      "time": "00:51:21"
+      "time": "00:51:21",
+      "description": "jQuery-Plugin zum Einbetten von Github Gists."
     }
-  ],
-  "randomSpec": []
+  ]
 }

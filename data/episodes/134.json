@@ -30,67 +30,79 @@
   "href": "http://workingdraft.de/134/",
   "audio": "http://workingdraft.de/podpress_trac/web/2077/0/wd-134.mp3",
   "title": "News, CSS, Links",
+  "description": "Trotz angespannter Themenlage griffen Hans, Schepp und Peter zu den Mikrofonen. Letzter verpennte in Folge das Schreiben der Schaunotizen, was leichte Verzögerungen im Betriebsablauf der weiteren Veröffentlichung nach sich zog.",
   "topics": [
     {
       "name": "Heydon Pickering: Semantic CSS With Intelligent Selectors",
       "href": "http://coding.smashingmagazine.com/2013/08/20/semantic-css-with-intelligent-selectors/",
-      "time": "00:00:36"
+      "time": "00:00:36",
+      "description": "Dass wir alle den Artikel nicht gelesen haben, ist uns Anlass genug, um einfach mal so über CSS zu reden. Hans erzählt von seinem Traum-CSS und hat Zorn auf Styling im Bootstrap-Style, wo Design effektiv per HTML-Klassen-Vergabe umgesetzt wird. Die Komposition von Styles per Extends im Präprozessor-Code scheint die bessere Alternative. Trotzdem bringt Hans für Präprozessor-Zweifler Verständnis auf&nbsp;&ndash; Peter nicht ganz so sehr. In Anschluss fragen wir uns, in welcher Reihenfolge man CSS und SASS lernen sollte und ob es je einen reinen CSS-Relaunch ohne HTML-Änderungen gegeben hat (Spoiler Alert: natürlich nicht).<p></p>\n"
     }
   ],
   "news": [
     {
       "name": "Yeoman 1.0",
       "href": "http://yeoman.io/blog/hello-1.0.html",
-      "time": "00:00:13"
+      "time": "00:00:13",
+      "description": "Hurra, hurra, die 1.0 ist da."
     },
     {
       "name": "Bootstrap 3.0",
       "href": "https://github.com/twbs/bootstrap/releases",
-      "time": "00:00:13"
+      "time": "00:00:13",
+      "description": "Aller guten Dinge sind 3.0."
     }
   ],
   "links": [
     {
       "name": "html2pdf.it",
       "href": "http://www.html2pdf.it/",
-      "time": "00:47:41"
+      "time": "00:47:41",
+      "description": "Baut PDFs aus Webseiten (Print-CSS vorausgesetzt)."
     },
     {
       "name": "NProgress",
       "href": "http://ricostacruz.com/nprogress/",
-      "time": "00:47:41"
+      "time": "00:47:41",
+      "description": "Hippe Fortschrittsbalken im Youtube-Stil."
     },
     {
       "name": "Web Components Resources",
       "href": "https://gist.github.com/ebidel/6314025",
-      "time": "00:47:41"
+      "time": "00:47:41",
+      "description": "Massenhaft Links zum Thema Web Components."
     },
     {
       "name": "Font Hacking",
       "href": "http://www.heydonworks.com/article/font-hacking",
-      "time": "00:47:41"
+      "time": "00:47:41",
+      "description": "Älterer, aber guter Artikel voller Tricks rund um Webfonts."
     },
     {
       "name": "Tridiv",
       "href": "http://tridiv.com/",
-      "time": "00:47:41"
+      "time": "00:47:41",
+      "description": "CSS-3D-Editor."
     },
     {
       "name": "PLAY & MAKE 20013",
       "href": "http://2013.playandmake.com/",
-      "time": "00:47:41"
+      "time": "00:47:41",
+      "description": "Unsere allwöchentliche Event-Empfehlung."
     }
   ],
   "randomSpec": [
     {
       "name": "CSS Generated Content for Paged Media",
       "href": "http://www.w3.org/TR/css3-gcpm/",
-      "time": "00:38:20"
+      "time": "00:38:20",
+      "description": "Eine Papiertiger-Spezifikation verleitet uns zum Nachdenken, wie und ob man denn Leaders mit CSS-Bordmitteln zurechthacken könnte. Peter meint mal gehört zu haben, dass <a href=\"http://www.princexml.com/\">PrinceXML</a> guten Support für Print-Foo hat."
     },
     {
       "name": "Der Matrix-Filter der CSS3-Transformations-Spezifikationen",
       "href": "http://www.w3.org/TR/css3-transforms/#transform-functions",
-      "time": "00:38:20"
+      "time": "00:38:20",
+      "description": "Wir stellen fest, dass sich unser Verhältnis zur Mathematik nicht nur dank Transformationsmatrizen stark entspannt hat und lobpreisen <a href=\"http://www.youtube.com/watch?v=ONN3jBly364\">Steven Wittens Mathe-Talk von der Full Frontal 2012</a>."
     }
   ]
 }

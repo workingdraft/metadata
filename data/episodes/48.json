@@ -55,18 +55,19 @@
   "href": "http://workingdraft.de/48/",
   "audio": "http://workingdraft.de/podpress_trac/web/890/0/wd-48.mp3",
   "title": "Direkt von der beyond tellerrand. In Bewegtbild!",
+  "description": "<a href=\"http://www.youtube.com/watch?v=aFEiw0SEMyw\" target=\"_blank\"><img src=\"http://workingdraft.de/wp-content/uploads/2011/11/wd-48.jpg\" alt=\"Mit Christian Schaefer, Anselm Hannemann, Frederic Hemberger, Marc Hinse, Hans Christian Reinl, David Maciejewski, Naomi Atkinson, Rodney Rehm und Maik Wagner.\" title=\"Aufnahme zur Working Draft Revision 48\" width=\"640\" height=\"360\" class=\"alignnone size-full wp-image-891\"></a><br>\n<em><a href=\"http://www.youtube.com/watch?v=aFEiw0SEMyw\" target=\"_blank\">Working Draft 48 auf YouTube</a></em>\n\nUnd weil so viele unserer Hörer und Gäste diese Mutter aller Konferenzen besuchen wollten, entstand die Idee, die hiesige Revision dann auch direkt dort aufzunehmen. Yeah, Baby! Gäste waren <a href=\"http://twitter.com/anselmhannemann\">Anselm Hannemann</a>, <a href=\"http://twitter.com/fhemberger\">Frederic Hemberger</a>, <a href=\"http://twitter.com/MadeMyDay\">Marc Hinse</a>, <a href=\"http://twitter.com/drublic\">Hans Christian Reinl</a>, <a href=\"http://twitter.com/maddesigns\">Sven Wolfermann</a>, <a href=\"http://twitter.com/rodneyrehm\">Rodney Rehm</a> und <a href=\"http://twitter.com/fernmuendlich\">Maik Wagner</a>. Aber auch <a href=\"http://twitter.com/macx\">David Maciejewski</a> von der <a href=\"http://technikwuerze.de/\">Technikwürze</a> war auch vor Ort, so dass man sagen kann: Dies war die erste mit der Technikwürze zusammen koproduzierte Working Draft Revision! Ein großes Dankeschön geht außerdem an Dank Rodney Rehm, dem wir zwei saugeile Funkmikrofone verdankten!\n\n<iframe src=\"http://player.vimeo.com/video/32574970?title=0&amp;byline=0&amp;portrait=0\" width=\"640\" height=\"480\" frameborder=\"0\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\"></iframe><br>\n<em>Stop Motion Opening Sequence der beyond tellerrand 2011</em>\n\nMinutiös auf die Revision 48 abgestimmt, ließ der liebe <a href=\"http://twitter.com/#!/marcthiele\">Marc Thiele</a> diesen Montag (sowie Sonntag und Dienstag) die <a href=\"http://2011.beyondtellerrand.com/\">beyond tellerrand 2011</a> vom Stapel. Und was sollen wir sagen? Sie war verdammt nochmal exzellent! Das <a href=\"http://2011.beyondtellerrand.com/conference.php\">Lineup</a> war der Hammer und übertraf alle Erwartungen.\n\n<a href=\"http://workingdraft.de/wp-content/uploads/2011/11/beyondtellerrand.png\"><img src=\"http://workingdraft.de/wp-content/uploads/2011/11/beyondtellerrand.png\" alt=\"\" title=\"beyondtellerrand\" width=\"640\" height=\"82\" class=\"alignnone size-full wp-image-898\"></a>",
   "topics": [
     {
       "name": "beyond tellerrand 2011",
-      "href": "http://2011.beyondtellerrand.com/"
+      "href": "http://2011.beyondtellerrand.com/",
+      "description": "Wir beginnen damit, den <a href=\"http://2011.beyondtellerrand.com/workshops.php\">Workshoptag</a> am Sonntag und den ersten Tag der Konferenz, den Montag, zu rekapitulieren. Nach circa 10 Minuten stößt die Speakerin <a href=\"http://naomiatkinsondesign.com/\">Naomi Atkinson</a> zu uns, mit der wir über Ihren tollen Vortrag &#8220;<a href=\"http://2011.beyondtellerrand.com/conference.php#atkinson\">Going Beyond</a>&#8221; sprechen, und über die Tatsache, dass wir Deutschen aufgrund unserer Sprachbarriere zu sehr im eigenen Saft schmoren. Im Anschluss führen wir die anfangs begonnene Konferenz-Rekapitulation zu Ende."
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "beyond tellerrand Videos",
-      "href": "http://vimeo.com/channels/beyondtellerrand"
+      "href": "http://vimeo.com/channels/beyondtellerrand",
+      "description": "Hier erscheinen in den kommenden Tagen die Videoaufzeichnungen aller Talks."
     }
-  ],
-  "randomSpec": []
+  ]
 }

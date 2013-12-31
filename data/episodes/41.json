@@ -29,80 +29,93 @@
   "href": "http://workingdraft.de/41/",
   "audio": "http://workingdraft.de/podpress_trac/web/793/0/wd-41.mp3",
   "title": "setImmediate API, CSS Compositing und überflüssiges HTML5",
+  "description": "Und noch einmal bekamen wir Verstärkung von <a href=\"https://plus.google.com/100716543757626923860/posts\">Rodney Rehm</a>. Wir waren ganz schöne Quatschlieseln, aber es ist auch ganz schön was bei herumgekommen.",
   "topics": [
     {
       "name": "setImmediate API",
       "href": "http://ie.microsoft.com/testdrive/Performance/setImmediateSorting/Default.html",
-      "time": "00:00:26"
+      "time": "00:00:26",
+      "description": "Mit dem IE10 erblickt die setImmediate API das Licht der Welt und soll dabei helfen, rechenintensives JavaScript zu segmentieren. Für alle anderen Browser gibt es einen sehr cleveren <a href=\"https://github.com/NobleJS/setImmediate/blob/master/setImmediate.js\">Polyfill</a>."
     },
     {
       "name": "Exclusive preview of the hottest CSS specs",
       "href": "http://www.netmagazine.com/features/exclusive-preview-hottest-css-specs",
-      "time": "00:11:03"
+      "time": "00:11:03",
+      "description": "Divya Manian gibt in dem Artikel Ausblick auf 13 zukünftige CSS-Specs. Von denen habe nwir uns die heißesten Kandidaten herausgepickt, nämlich Compositing und CSS Filters, und haben sie diskutiert. Außerdem streifen wir thematisch das Flexbox-Polyfill <a href=\"http://flexiejs.com/playground/\">Flexie.js</a>."
     },
     {
       "name": "CSS Variables",
       "href": "http://dev.w3.org/csswg/css-variables/",
-      "time": "00:25:15"
+      "time": "00:25:15",
+      "description": "Nicht mit in der Liste standen die CSS Variablen, zu denen es seit neustem einen Editor&#8217;s Draft gibt und die noch dieses Jahr in Chrome landen sollen."
     },
     {
       "name": "Die wahren Probleme von HTML5 Polyfills: HTML5 shim und das Ende des 3 Schichten-Modells (Teil 1)",
       "href": "http://www.protofunc.com/2011/09/25/die-wahren-probleme-von-html5-polyfills-html5-shim-und-das-ende-des-3-schichten-modells-teil-1/",
-      "time": "00:36:55"
+      "time": "00:36:55",
+      "description": "Alexander Farkas, und vor allem Peter finden: Die neuen semantischen HTML5-Elemente sind überflüssiger bzw. gefährlicher Ranz. Als Randnotiz ließ Peter <a href=\"http://html5accessibility.com/\">http://html5accessibility.com/</a> fallen."
     },
     {
       "name": "Datenschutztheater",
       "href": "http://www.datenschutz-hamburg.de/news/detail/article/beanstandungsfreier-betrieb-von-google-analytics-ab-sofort-moeglich.html?tx_ttnews%5BbackPid%5D=170&cHash=09e1cbe956f62edb1e9f0386b4ca78f5",
-      "time": "00:52:30"
+      "time": "00:52:30",
+      "description": "Peter echauffiert sich über Politik. Ganz allgemein. Und für rund 2:25 min&#8230; :)"
     },
     {
       "name": "Beanstandungsfreier Betrieb von Google Analytics ab sofort möglich",
       "href": "http://www.datenschutz-hamburg.de/news/detail/article/beanstandungsfreier-betrieb-von-google-analytics-ab-sofort-moeglich.html?tx_ttnews%5BbackPid%5D=170&cHash=09e1cbe956f62edb1e9f0386b4ca78f5",
-      "time": "00:55:55"
+      "time": "00:55:55",
+      "description": "Alles nur ein Vorgeplänkel für unsere Gedanken rund um die Wiederlegalisierung von Google Analytics&#8230;"
     },
     {
       "name": "Kauder will Internet-Entzug",
       "href": "Urheberrecht: Kauder will Internet-Entzug",
-      "time": "01:12:15"
+      "time": "01:12:15",
+      "description": "&#8230;und unser Kopfgeschüttele zu Siegfried Kauders Idee, den Lausbuben das Internet wegzunehmen. Und schwups, ist das WLAN-Kabel weg, so!"
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "Cubic Bezier",
       "href": "http://cubic-bezier.com/#.17,.67,.83,.67",
-      "time": "01:14:21:000"
+      "time": "01:14:21:000",
+      "description": "Ein Werkzeug, um benutzerdefinierte CSS3 Animationskurven zu erstellen und live zu testen"
     },
     {
       "name": "A Farewell to CSS3 Gradients",
       "href": "http://designfestival.com/a-farewell-to-css3-gradients/",
-      "time": "01:14:21:000"
+      "time": "01:14:21:000",
+      "description": "Plädoyer für mehr SVG-Grafiken anstelle von CSS3 Gradients"
     },
     {
       "name": "cwebgl – WebGL stack in javascript",
       "href": "http://code.google.com/p/cwebgl/",
-      "time": "01:14:21:000"
+      "time": "01:14:21:000",
+      "description": "Ein WebGL-Polyfill, der rein auf Canvas und JavaScript aufsetzt, aber auch mit Java und Flash kann."
     },
     {
       "name": "HTML Muncher",
       "href": "http://htmlmuncher.com/",
-      "time": "01:14:21:000"
+      "time": "01:14:21:000",
+      "description": "Python Werkzeug, das in einer Gruppe von zusammenhängenden HTML-, CSS- und JavaScript-Dateien, Klassen- und ID-Namen, sowie Verweise dazu platzsparend verkürzt."
     },
     {
       "name": "ImageAlpha",
       "href": "http://pngmini.com/",
-      "time": "01:14:21:000"
+      "time": "01:14:21:000",
+      "description": "Ein Mac-Tool, um 24-Bit-Farbe-8-Bit-Transparenz-PNGs nach 8-Bit-Farbe-8-Bit-Transparenz-PNGs zu wandeln."
     },
     {
       "name": "jquery.inview",
       "href": "https://github.com/protonet/jquery.inview",
-      "time": "01:14:21:000"
+      "time": "01:14:21:000",
+      "description": "Ein jQuery-Plugin, das das Event &#8220;inview&#8221; nachrüstet, das immer dann feuert, wenn ein damit belegtes Element in den Viewport scrollt."
     },
     {
       "name": "Tinkerbin",
       "href": "http://tinkerbin.com/",
-      "time": "01:14:21:000"
+      "time": "01:14:21:000",
+      "description": "Tinkerbin ist vergleichbar mit <a href=\"http://jsfiddle.net/\">jsfiddle</a>, kann neben HTML, CSS, JS aber auch CoffeeScript, Sass (+ Compass), Less, HAML and weitere Metasprachen."
     }
-  ],
-  "randomSpec": []
+  ]
 }

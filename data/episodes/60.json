@@ -19,64 +19,74 @@
   "href": "http://workingdraft.de/60/",
   "audio": "http://workingdraft.de/podpress_trac/web/1053/0/wd-60.mp3",
   "title": "Adobe Edge, Web Components & Informationsquellen",
+  "description": "Heute quatschen mal nur der <a href=\"http://www.highresolution.info\">Dirk Jesse</a>, seines Zeichens <a href=\"http://www.yaml.de/\">YAML-Framework</a>-Autor und CSS-Tüftler, und der Schepp über die Themen der Woche. Inklusive Epic Aufnahmefail.",
   "topics": [
     {
       "name": "Adobe Edge Preview 4",
       "href": "http://labs.adobe.com/technologies/edge/",
-      "time": "00:00:18"
+      "time": "00:00:18",
+      "description": "Schepp erzählt von seinen Erkenntnissen zur aktuellen Preview 4 von Adobe Edge."
     },
     {
       "name": "Aktuelle Neuerungen in WebKit",
       "href": "http://www.webkit.org/blog/",
-      "time": "00:10:49"
+      "time": "00:10:49",
+      "description": "CSS <code>calc</code> materialisiert sich in WebKit. Außerdem implementiert er als erster Browser Scoped Styles"
     },
     {
       "name": "Web Components (+ Polyfill)",
       "href": "http://dvcs.w3.org/hg/webcomponents/raw-file/tip/explainer/index.html",
-      "time": "00:20:57"
+      "time": "00:20:57",
+      "description": "Die Web Components nehmen an Fahrt auf! Passend dazu hat <a href=\"http://glazkov.com/\">Dimitri Glazkov</a> <a href=\"https://github.com/dglazkov/Web-Components-Polyfill\">einen Polyfill gebaut</a>, der das Verhalten der Web Components nachbildet."
     },
     {
       "name": "Saving images and files in localStorage",
       "href": "http://hacks.mozilla.org/2012/02/saving-images-and-files-in-localstorage/",
-      "time": "00:33:30"
+      "time": "00:33:30",
+      "description": "Mozilla hat einen weiteren Artikel rund um die Verwendung von localStorage als Datei-Cache online gestellt. Wir ergänzen ihn mit unserem Erfahrungsschatz."
     },
     {
       "name": "Quellen von und Strategien zur Informationsbeschaffung",
-      "time": "00:41:56"
+      "time": "00:41:56",
+      "description": "Passend zum &#8220;Brennpunkt Spezial&#8221; der letzten Revision stellen wir die Frage, wie man sich all die Informationen zu aktuellen Entwicklungen beschafft, wie wir sie zum Beispiel wöchentlich für den Podcast recherchieren."
     },
     {
       "name": "Verlosung von 3 Karten für den MMT 29",
       "href": "http://mmt29.multimediatreff.de",
-      "time": "01:07:36"
+      "time": "01:07:36",
+      "description": "Beide sind wir beim Multimediatreff 29 am 23./24.03.2012 in Köln, nochmals zum Thema &#8220;Webtechnologien&#8221;. Und für den Konferenztag am Samstag wollen wir gerne 3 Karten unters Volk bringen! Teilnehmen bei der Verlosung tut jeder, der in den Kommentaren eine tiefgründige und aktuelle Quelle für Webentwickler Infos nennt."
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "Whatfont Tool",
       "href": "http://chengyinliu.com/whatfont.html",
-      "time": "01:08:40"
+      "time": "01:08:40",
+      "description": "Chrome Erweiterung, mit der sich auf einer Seite verwendete Schriftarten herauslesen lassen."
     },
     {
       "name": "Overthrow: An overflow polyfill for responsive design",
       "href": "http://filamentgroup.com/lab/overthrow",
-      "time": "01:08:40"
+      "time": "01:08:40",
+      "description": "Overthrow ist ein Mobilgeräte-Polyfill für <code>overflow: auto; -webkit-overflow-scrolling: touch;</code>"
     },
     {
       "name": "Android Measuring Stick",
       "href": "http://pxldot.com/post/18281312362/android-measuring-stick",
-      "time": "01:08:40"
+      "time": "01:08:40",
+      "description": "Dieser Artikel versucht mit Methodik, Licht ins Dunkel der Marktpenetrierung verschiedener Android-Versionen zu bringen. Mit Erfolg."
     },
     {
       "name": "Chaplin",
       "href": "https://github.com/moviepilot/chaplin",
-      "time": "01:08:40"
+      "time": "01:08:40",
+      "description": "Chaplin zeigt exemplarisch eine mögliche Nutzungsweise von backbone.js für komplexe Webapps."
     },
     {
       "name": "HTML5 Game Dev News",
       "href": "http://www.html5gamedevs.com/",
-      "time": "01:08:40"
+      "time": "01:08:40",
+      "description": "Ein Portal voller interessanter aggregierter Artikel rund ums Thema HTML5 Spieleentwicklung."
     }
-  ],
-  "randomSpec": []
+  ]
 }

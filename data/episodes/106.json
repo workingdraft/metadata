@@ -28,6 +28,7 @@
   "href": "http://workingdraft.de/106/",
   "audio": "http://workingdraft.de/podpress_trac/web/1798/0/wd-106.mp3",
   "title": "modern.IE, Textbalance und der ES5 Strict Mode",
+  "description": "Neue Revision, neues Glück! Diesmal als Glücksfeen am Start: Kahli, Hans und als Überraschungsgast der feine <a href=\"https://twitter.com/fhemberger\">Herr Hemberger</a>.",
   "topics": [
     {
       "name": "modern.IE – Testing made easier in Internet Explorer",
@@ -37,62 +38,72 @@
     {
       "name": "Balancing Text for better Readability",
       "href": "http://blogs.adobe.com/webplatform/2013/01/30/balancing-text-for-better-readability/",
-      "time": "00:17:35"
+      "time": "00:17:35",
+      "description": "Adobe stellt einen Vorschlag für eine neue CSS-Eigenschaft vor. Mit <code>text-wrap: balance</code> soll es möglich sein bei zentriertem Text ein ausgeglicheneres Schriftbild zu erzeugen."
     },
     {
       "name": "Should You “Use Strict” in Your Production JavaScript?",
       "href": "http://scriptogr.am/micmath/post/should-you-use-strict-in-your-production-javascript",
-      "time": "00:29:38"
+      "time": "00:29:38",
+      "description": "\nDer in ECMAScript&nbsp;5 eingeführte Strict Mode verändert das Verhalten von JavaScript im Browser <a href=\"https://gist.github.com/rwldrn/3920242\">recht tiefgreifend</a> und Michael Mathews fragt sich, ob man das im Produktiveinsatz wirklich haben will."
     }
   ],
   "news": [
     {
       "name": "Sublime Text 3 Beta",
       "href": "http://www.sublimetext.com/blog/articles/sublime-text-3-beta",
-      "time": "00:00:29"
+      "time": "00:00:29",
+      "description": "Der guteste Texteditor von allen erhält eine dritte Version."
     },
     {
       "name": "Flight",
       "href": "http://twitter.github.com/flight/",
-      "time": "00:00:29"
+      "time": "00:00:29",
+      "description": "Neues komponentenbasiertes Framework aus der Feder Twitters."
     }
   ],
   "links": [
     {
       "name": "Big JS-Compatibility-Table",
       "href": "http://compatibility.shwups-cms.ch/de/home/",
-      "time": "00:42:44"
+      "time": "00:42:44",
+      "description": "Behauptet, es würde sich um JS drehen, enthält aber vor allem DOM. Und ist daher nützlich."
     },
     {
       "name": "js-testing-boilerplates",
       "href": "https://github.com/js-coder/js-testing-boilerplates",
-      "time": "00:42:44"
+      "time": "00:42:44",
+      "description": "Schön einfache Boilerplates für Unit Tests für Jasmine, Mocha und QUnit. Hilft vielleicht denen, die sonst immer zu faul sind, sich damit zu befassen."
     },
     {
       "name": "remoteStorage – An open protocol for per-user storage",
       "href": "http://remotestorage.io/",
-      "time": "00:42:44"
+      "time": "00:42:44",
+      "description": "Jan-Christoph Borchardt erklärt‘s <a href=\"https://vimeo.com/55616898\">im Video</a>."
     },
     {
       "name": "HTML5-Apps mit Firefox OS",
       "href": "http://icant.co.uk/talks/h5/appday.html",
-      "time": "00:42:44"
+      "time": "00:42:44",
+      "description": "Chris Heilmann erzählt von der Entwicklung von und der Toolchain für Apps in Firefox OS."
     },
     {
       "name": "hint.css – styled tooltips without javascript",
       "href": "http://kushagragour.in/lab/hint/",
-      "time": "00:42:44"
+      "time": "00:42:44",
+      "description": "JavaScript ist etwas für Leute, die kein CSS können."
     },
     {
       "name": "CSSConf",
       "href": "http://cssconf.com/",
-      "time": "00:42:44"
+      "time": "00:42:44",
+      "description": "Nomen est omen."
     },
     {
       "name": "Thema",
       "href": "http://blog.chromium.org/2013/02/hello-firefox-this-is-chrome-calling.html",
-      "time": "00:42:44"
+      "time": "00:42:44",
+      "description": "Das Chrome-Team berichtet von Fortschritten in Sachen Web RTC: Browser&nbsp;A kann Browser&nbsp;B anrufen!"
     }
-  ],
-  "randomSpec": []
+  ]
 }

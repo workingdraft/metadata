@@ -34,45 +34,51 @@
   "href": "http://workingdraft.de/46/",
   "audio": "http://workingdraft.de/podpress_trac/web/875/0/wd-46.mp3",
   "title": "Aloha Editor, jQuery 1.7 und halbgare Zukunftstechniken",
+  "description": "Nach gefühlten Ewigkeiten waren mal wieder alle festen Hosts beieinander. Und noch jemand war da, nämlich <a href=\"http://twitter.com/#!/draftkraft\">Haymo Meran</a>, CTO und Mitbegründer des Wiener Unternehmens <a href=\"http://gentics.com/\">Gentics</a> und vor allem geistiger Vater des <a href=\"http://aloha-editor.org/\">HTML5 Aloha Richtext Editors</a>.",
   "topics": [
     {
       "name": "jQuery 1.7 released",
       "href": "http://blog.jquery.com/2011/11/03/jquery-1-7-released/",
-      "time": "00:02:14"
+      "time": "00:02:14",
+      "description": "Eine neue jQuery-Version wurde auf die Welt losgelassen, die die neue Methoden <code>on</code> und <code>off</code> für das Eventmanagment einführt, delegierte/gebubbelte Events schneller macht und nicht zuletzt ein HTML5 <a href=\"http://jdbartlett.com/innershiv/\">innerShiv</a> Polyfill von Haus aus integriert."
     },
     {
       "name": "Sisyphus.js – Gmail-like client-side drafts and bit more",
       "href": "http://simsalabim.github.com/sisyphus/",
-      "time": "00:14:33"
+      "time": "00:14:33",
+      "description": "Ein sehr praktisches jQuery-Plugin, das Formulareingaben vor dem expliziten Absenden vor Verlust schützt. Peter findet es in dem Zusammenhang jedoch schade, dass so viele Tools auf jQuery bauen, obwohl es eigentlich gar nicht nötig wäre."
     },
     {
       "name": "CSS Media Queries",
       "href": "http://zomigi.com/blog/essential-considerations-for-crafting-quality-media-queries/",
-      "time": "00:26:13"
+      "time": "00:26:13",
+      "description": "Einige kleinere Geschichten, nämlich <a href=\"http://twitter.com/#!/simurai/statuses/132845594329874434\">einsetzende Ernüchterung</a> einerseits und ein <a href=\"http://www.paulrhayes.com/2011-11/use-css-transitions-to-link-media-queries-and-javascript/\">schöner Trick</a> andererseits, welche diese Woche zu CSS Media Queries über den Äther gingen, sind für uns der Anlass, über Responsive Web Design im Allgemeinen zu reden."
     },
     {
       "name": "Sencha Offline Web Apps Workshop Position Paper",
       "href": "http://www.w3.org/2011/web-apps-ws/papers/Sencha.html",
-      "time": "00:42:13"
+      "time": "00:42:13",
+      "description": "James Pearce von Sencha nutzte die diesjährige <a href=\"http://www.w3.org/2011/11/TPAC/\">W3C Technical Plenary / Advisory Committee Meetings Week, kurz TPAC</a>, um den W3C Theoretikern mal klar zu machen, was für ein Stück dampfender Bockmist der <a href=\"http://appcachefacts.info/\">HTML5 App Cache</a> aktuell ist."
     },
     {
       "name": "Aloha Editor – HTML5 WYSIWYG Editor",
       "href": "http://aloha-editor.org",
-      "time": "00:55:33"
+      "time": "00:55:33",
+      "description": "Haymo erzählt uns ein wenig was zum Aloha Editor, einem WYSIWYG/Richtext Editor der ein anderes Implementierungskonzept verfolgt als etwa TinyMCE oder der CKEditor. Dieses fußt nämlich auf HTML5 und so könnte man Aloha eigentlich auch als <code>contenteditable</code>-Polyfill einstufen."
     }
   ],
-  "news": [],
   "links": [
     {
       "name": "Node v0.6.0",
       "href": "http://blog.nodejs.org/2011/11/05/node-v0-6-0/",
-      "time": "01:19:52"
+      "time": "01:19:52",
+      "description": "Node.js ist in der Version 0.6 erschienen und zum ersten Mal <a href=\"http://nodejs.org/#download\">nativ für Windows erhältlich</a>. Hurray!"
     },
     {
       "name": "h5ai – a beautified Apache index",
       "href": "http://larsjung.de/h5ai/",
-      "time": "01:19:52"
+      "time": "01:19:52",
+      "description": "Mit h5ai kann man das Browsen durch Apache Verzeichnis Indizes optisch um einige Lichtjahre in die Zukunft katapultieren. <a href=\"http://larsjung.de/h5ai/sample\">Schaut selbst</a>."
     }
-  ],
-  "randomSpec": []
+  ]
 }
