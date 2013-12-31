@@ -69,7 +69,7 @@
     {
       "name": "Brendan Eich über seine Wunsch-Zukunft für JavaScript",
       "href": "http://brendaneich.com/2011/01/harmony-of-my-dreams/",
-      "description": "Nur für Fans, wie mein Physiklehrer immer sagte. Gibt’s auch als <a href=\"http://www.aminutewithbrendan.com/pages/20110131\">knappes Audio</a>. Auch interessant: <a href=\"http://www.youtube.com/watch?v=A1R8KGKkDjU\">Harmony</a> <a href=\"http://jsconf.eu/2010/speaker/be_proxy_objects.html\">Proxies</a>\n"
+      "description": "Nur für Fans, wie mein Physiklehrer immer sagte. Gibt’s auch als <a href=\"http://www.aminutewithbrendan.com/pages/20110131\">knappes Audio</a>. Auch interessant: <a href=\"http://www.youtube.com/watch?v=A1R8KGKkDjU\">Harmony</a> <a href=\"http://jsconf.eu/2010/speaker/be_proxy_objects.html\">Proxies</a>"
     }
   ],
   "links": [
@@ -81,7 +81,7 @@
     {
       "name": "Cocos2-javascript",
       "href": "http://cocos2d-javascript.org/about",
-      "description": "Ein weiterer Gamebaukasten auf HTML5 und JavaScript-Basis.\n"
+      "description": "Ein weiterer Gamebaukasten auf HTML5 und JavaScript-Basis."
     }
   ]
 }

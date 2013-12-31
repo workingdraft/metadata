@@ -3,6 +3,9 @@
   "id": 33,
   "date": "2011-07-26",
   "duration": "01:09:50",
+  "flags": [
+    "no-description"
+  ],
   "people": [
     {
       "name": "Markus Schlegel",

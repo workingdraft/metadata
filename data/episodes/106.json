@@ -45,7 +45,7 @@
       "name": "Should You “Use Strict” in Your Production JavaScript?",
       "href": "http://scriptogr.am/micmath/post/should-you-use-strict-in-your-production-javascript",
       "time": "00:29:38",
-      "description": "\nDer in ECMAScript&nbsp;5 eingeführte Strict Mode verändert das Verhalten von JavaScript im Browser <a href=\"https://gist.github.com/rwldrn/3920242\">recht tiefgreifend</a> und Michael Mathews fragt sich, ob man das im Produktiveinsatz wirklich haben will."
+      "description": "Der in ECMAScript&nbsp;5 eingeführte Strict Mode verändert das Verhalten von JavaScript im Browser <a href=\"https://gist.github.com/rwldrn/3920242\">recht tiefgreifend</a> und Michael Mathews fragt sich, ob man das im Produktiveinsatz wirklich haben will."
     }
   ],
   "news": [

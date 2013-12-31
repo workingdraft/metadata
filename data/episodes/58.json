@@ -3,6 +3,9 @@
   "id": 58,
   "date": "2012-02-16",
   "duration": "01:31:36",
+  "flags": [
+    "no-description"
+  ],
   "people": [
     {
       "name": "Christian Schaefer",
@@ -42,13 +45,13 @@
       "name": "Vendor-Prefix-Gate",
       "href": "http://lists.w3.org/Archives/Public/www-style/2012Feb/0313.html",
       "time": "00:00:22",
-      "description": "Mozilla, Microsoft und Opera wollen CSS-Features mit Webkits Vendor-Prefix implementieren? Was hat die denn geritten und vor allem: wer ist Schuld an der Misere? Wir sondern unsere Meinungen ab und sprechen außerdem über:<p></p>\n<ul>\n<li><a href=\"http://www.quirksmode.org/blog/archives/2012/02/the_vendor_pref.html\">PPKs Meinung zu dem Thema</a>\n</li><li><a href=\"http://felipe.wordpress.com/2012/02/02/a-proposal-to-drop-browser-vendor-prefixes/\">Alternativen zum vendor-Prefix-Modell</a>\n</li><li><a href=\"http://codepo8.github.com/prefix-the-web/\">Chris Heilmanns Lösugsansatz</a>\n</li></ul>\n"
+      "description": "Mozilla, Microsoft und Opera wollen CSS-Features mit Webkits Vendor-Prefix implementieren? Was hat die denn geritten und vor allem: wer ist Schuld an der Misere? Wir sondern unsere Meinungen ab und sprechen außerdem über:<p></p>\n<ul>\n<li><a href=\"http://www.quirksmode.org/blog/archives/2012/02/the_vendor_pref.html\">PPKs Meinung zu dem Thema</a>\n</li><li><a href=\"http://felipe.wordpress.com/2012/02/02/a-proposal-to-drop-browser-vendor-prefixes/\">Alternativen zum vendor-Prefix-Modell</a>\n</li><li><a href=\"http://codepo8.github.com/prefix-the-web/\">Chris Heilmanns Lösugsansatz</a>\n</li></ul>"
     },
     {
       "name": "Musings on Preprocessing",
       "href": "http://css-tricks.com/musings-on-preprocessing/",
       "time": "00:28:30",
-      "description": "Letzte Woche war die Woche, in der mehrere beleibte Männer das Licht der CSS-Präprozessoren gesehen haben. Wir nehmen die Erleuchtung von Chris Coyier zum Anlass, selbst das Thema einmal breit zu treten und unsere beliebtesten Präprozessoren nebst zugehörigen Tools zu lobpreisen. Zur Sprache kommen:\n<ul>\n<li><a href=\"http://sass-lang.com/\">Sass</a> und <a href=\"http://compass-style.org/\">Compass</a> (Präprozessor plus Framework)\n</li><li><a href=\"http://lesscss.org/\">Less</a> (Präprozessor)\n</li><li><a href=\"http://learnboost.github.com/stylus/\">Stylus</a> (Präprozessor)\n</li><li><a href=\"http://incident57.com/codekit/\">CodeKit</a>, ein GUI für Präprozessoren aller Art\n</li><li><a href=\"https://gist.github.com/1312469\">Peters Stylus-Server</a> der Marke Eigenbau\n</li></ul>\n"
+      "description": "Letzte Woche war die Woche, in der mehrere beleibte Männer das Licht der CSS-Präprozessoren gesehen haben. Wir nehmen die Erleuchtung von Chris Coyier zum Anlass, selbst das Thema einmal breit zu treten und unsere beliebtesten Präprozessoren nebst zugehörigen Tools zu lobpreisen. Zur Sprache kommen:\n<ul>\n<li><a href=\"http://sass-lang.com/\">Sass</a> und <a href=\"http://compass-style.org/\">Compass</a> (Präprozessor plus Framework)\n</li><li><a href=\"http://lesscss.org/\">Less</a> (Präprozessor)\n</li><li><a href=\"http://learnboost.github.com/stylus/\">Stylus</a> (Präprozessor)\n</li><li><a href=\"http://incident57.com/codekit/\">CodeKit</a>, ein GUI für Präprozessoren aller Art\n</li><li><a href=\"https://gist.github.com/1312469\">Peters Stylus-Server</a> der Marke Eigenbau\n</li></ul>"
     },
     {
       "name": "Neue CSS3-Drafts und neue Möglichkeiten",

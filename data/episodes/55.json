@@ -71,7 +71,7 @@
       "name": "Neues in WebKit",
       "href": "http://peter.sh/2012/01/font-css-properties-selector-source-location-and-calc-tests/",
       "time": "00:46:08",
-      "description": "\n<ul>\n<li>Es wird daran gearbeitet, dass WebKit bald mit <a href=\"http://www.w3.org/TR/css3-values/#calc\">CSS calc(), min() and max()</a> umgehen kann.</li>\n<li>Auch in WebKit halten die ersten <a href=\"http://ie.microsoft.com/testdrive/Graphics/opentype/opentype-fontbureau/index.html\">OpenType Features</a> Einzug, nämlich Kerning und Ligaturen.</li>\n<li>In Chromes JavaScript Engine V8 lassen sich erste <a href=\"http://erik.eae.net/archives/2011/12/29/00.00.29/\">ES.Next / JavaScript Harmony Features aktivieren und ausprobieren</a></li>\n</ul>\n"
+      "description": "<ul>\n<li>Es wird daran gearbeitet, dass WebKit bald mit <a href=\"http://www.w3.org/TR/css3-values/#calc\">CSS calc(), min() and max()</a> umgehen kann.</li>\n<li>Auch in WebKit halten die ersten <a href=\"http://ie.microsoft.com/testdrive/Graphics/opentype/opentype-fontbureau/index.html\">OpenType Features</a> Einzug, nämlich Kerning und Ligaturen.</li>\n<li>In Chromes JavaScript Engine V8 lassen sich erste <a href=\"http://erik.eae.net/archives/2011/12/29/00.00.29/\">ES.Next / JavaScript Harmony Features aktivieren und ausprobieren</a></li>\n</ul>"
     }
   ],
   "links": [

@@ -64,7 +64,7 @@
     {
       "name": "PHP in eine Endlosschleife schicken …",
       "href": "http://www.exploringbinary.com/php-hangs-on-numeric-value-2-2250738585072011e-308/",
-      "description": "… wenn die Fließkommazahl 2.2250738585072011e-308 als solche verwendet wird.\n"
+      "description": "… wenn die Fließkommazahl 2.2250738585072011e-308 als solche verwendet wird."
     }
   ]
 }

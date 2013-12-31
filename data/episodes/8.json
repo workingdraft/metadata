@@ -35,37 +35,37 @@
     {
       "name": "CrankShaft",
       "href": "http://blog.chromium.org/2010/12/new-crankshaft-for-v8.html",
-      "description": "Eine neue JavaScript-Compiler-Infrastruktur für Chromes V8 JavaScript-Engine, die sie noch weiter beschleunigt. Dass das vermutlich ersteinmal so weitergeht mit diesen unglaublichen Leistungssprüngen, darüber philopsophiert JavaScript-Erfinder Bredan Eich in jener Folge <a href=\"http://www.aminutewithbrendan.com/pages/20101213\">A Minute with Brendan</a>. "
+      "description": "Eine neue JavaScript-Compiler-Infrastruktur für Chromes V8 JavaScript-Engine, die sie noch weiter beschleunigt. Dass das vermutlich ersteinmal so weitergeht mit diesen unglaublichen Leistungssprüngen, darüber philopsophiert JavaScript-Erfinder Bredan Eich in jener Folge <a href=\"http://www.aminutewithbrendan.com/pages/20101213\">A Minute with Brendan</a>."
     },
     {
       "name": "Treesaver",
       "href": "http://faz-community.faz.net/blogs/netzkonom/archive/2010/12/15/die-revanche-des-web-auf-flipboard.aspx",
-      "description": "Ein Framework, welches Flipboard fürs Web nachbasteln möchte.<p></p>\n"
+      "description": "Ein Framework, welches Flipboard fürs Web nachbasteln möchte.<p></p>"
     },
     {
       "name": "XHTML 2.0-Dokumente wurden als W3C-Notes veröffentlicht",
       "href": "http://www.w3.org/News/2010.html#entry-8982",
-      "description": "Ein weiterer Tod des toten XHTML 2.0<p></p>\n"
+      "description": "Ein weiterer Tod des toten XHTML 2.0<p></p>"
     },
     {
       "name": "HTML5 Extension for Windows Media Player Firefox Plug-in",
       "href": "http://www.interoperabilitybridges.com/html5-extension-for-wmp-plugin",
-      "description": "Microsofts Erweiterung für Firefox, die sich um H.264 Videos in HTML5-&lt;video&gt;-Verpackung kümmert &#8211; leider nur unter Windows 7.<p></p>\n"
+      "description": "Microsofts Erweiterung für Firefox, die sich um H.264 Videos in HTML5-&lt;video&gt;-Verpackung kümmert &#8211; leider nur unter Windows 7.<p></p>"
     },
     {
       "name": "HTML5-Elemente im IE ohne JavaScript",
       "href": "http://www.debeterevormgever.nl/html5-ie-without-javascript/",
-      "description": "… sondern per XML-Namespaces zerstörungsfrei einbinden. Kann man auch <a href=\"http://spackmat.de/spackblog/archives/732-HTML5-Elemente-auch-im-IE-ohne-JavaScript-und-trotzdem-valide.html\">serverseitig abfeiern</a>. Peters schnell zusammengehackten Testcase findet Ihr <a href=\"http://www.peterkroener.de/test/namespacexhtml5/test.xhtml\">hier</a>. "
+      "description": "… sondern per XML-Namespaces zerstörungsfrei einbinden. Kann man auch <a href=\"http://spackmat.de/spackblog/archives/732-HTML5-Elemente-auch-im-IE-ohne-JavaScript-und-trotzdem-valide.html\">serverseitig abfeiern</a>. Peters schnell zusammengehackten Testcase findet Ihr <a href=\"http://www.peterkroener.de/test/namespacexhtml5/test.xhtml\">hier</a>."
     },
     {
       "name": "MySQL 5.5",
       "href": "http://dev.mysql.com/doc/refman/5.5/en/mysql-nutshell.html",
-      "description": "Multicore-Unterstützung, InnoDB als Standard, Optimierbarkeit für SSDs, herber <a href=\"http://www.golem.de/1012/80159.html\">Geschwindigkeitszuwachs unter Windows</a><p></p>\n"
+      "description": "Multicore-Unterstützung, InnoDB als Standard, Optimierbarkeit für SSDs, herber <a href=\"http://www.golem.de/1012/80159.html\">Geschwindigkeitszuwachs unter Windows</a><p></p>"
     },
     {
       "name": "ControlJS",
       "href": "http://stevesouders.com/controljs/",
-      "description": "JavaScript-Lader in 496 Zeilen Code, der einem auch die Kontrolle über den Zeitpunkt des Parsens der nachgeladenen Scripte gibt. Warum das wichtig ist beschreibt Nicholas Zakas in seinem <a href=\"http://vimeo.com/16241085\">Fronteers-Video</a><br>\n(und haut heute ein Posting zu den Nachteilen von ControlJS und LABjs<a href=\"http://www.nczonline.net/blog/2010/12/21/thoughts-on-script-loaders/\"> raus)</a>. Link zu den im Gespräch erwähnten JavaScript-Webworkers: <a href=\"http://www.whatwg.org/specs/web-workers/current-work/\">hier</a>. "
+      "description": "JavaScript-Lader in 496 Zeilen Code, der einem auch die Kontrolle über den Zeitpunkt des Parsens der nachgeladenen Scripte gibt. Warum das wichtig ist beschreibt Nicholas Zakas in seinem <a href=\"http://vimeo.com/16241085\">Fronteers-Video</a><br>\n(und haut heute ein Posting zu den Nachteilen von ControlJS und LABjs<a href=\"http://www.nczonline.net/blog/2010/12/21/thoughts-on-script-loaders/\"> raus)</a>. Link zu den im Gespräch erwähnten JavaScript-Webworkers: <a href=\"http://www.whatwg.org/specs/web-workers/current-work/\">hier</a>."
     }
   ]
 }

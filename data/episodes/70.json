@@ -48,7 +48,7 @@
       "name": "JavaScript Styleguides",
       "href": "http://addyosmani.com/blog/javascript-style-guides-and-beautifiers/",
       "time": "00:00:18",
-      "description": "Addy Osmani befasst sich mit Programmierrichtlinien in JavaScript. Er führt dabei <a href=\"https://github.com/rwldrn/idiomatic.js/\">idiomatic.js</a>, den <a href=\"http://docs.jquery.com/JQuery_Core_Style_Guidelines\">jQuery Core Style Guide</a> und viele weitere Best Practices an, die wir diskutieren. Hans hat über seine persönlichen Richtlinien in HTML und CSS <a href=\"http://drublic.de/blog/my-coding-style-and-guidelines/\">einen Post geschrieben</a>.<br>\nAußerdem sprechen wir über Ben “Cowboy” Almans <a href=\"http://benalman.com/news/2012/05/multiple-var-statements-javascript/\">Blogpost</a> zum Thema <code>var</code>-Deklarationen.\n"
+      "description": "Addy Osmani befasst sich mit Programmierrichtlinien in JavaScript. Er führt dabei <a href=\"https://github.com/rwldrn/idiomatic.js/\">idiomatic.js</a>, den <a href=\"http://docs.jquery.com/JQuery_Core_Style_Guidelines\">jQuery Core Style Guide</a> und viele weitere Best Practices an, die wir diskutieren. Hans hat über seine persönlichen Richtlinien in HTML und CSS <a href=\"http://drublic.de/blog/my-coding-style-and-guidelines/\">einen Post geschrieben</a>.<br>\nAußerdem sprechen wir über Ben “Cowboy” Almans <a href=\"http://benalman.com/news/2012/05/multiple-var-statements-javascript/\">Blogpost</a> zum Thema <code>var</code>-Deklarationen."
     },
     {
       "name": "Barrierefreiheit und die Beschwerdekultur im Internet",

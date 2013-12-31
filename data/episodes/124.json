@@ -35,7 +35,7 @@
       "name": "CSP to the Rescue",
       "href": "https://blog.twitter.com/2013/csp-rescue-leveraging-browser-security",
       "time": "00:11:58",
-      "description": "Spätestens seit der ersten jQuery EU Konferenz und dem äußerst informativen Primer von <a href=\"https://mikewest.org/2011/10/content-security-policy-a-primer\">Mike West</a> ist die Working Draft Crew erklärter Fan des Content Security Protocols. Twitter hat CSP nun auf ihren Seiten implementiert und den Schalter vorerst auf &#8220;Analyse&#8221; gestellt. Perfektes Timing, denn CSP ist in Version 1.0 nun auch in <a href=\"https://hacks.mozilla.org/2013/05/content-security-policy-1-0-lands-in-firefox-aurora/\">Firefox Aurora</a>. "
+      "description": "Spätestens seit der ersten jQuery EU Konferenz und dem äußerst informativen Primer von <a href=\"https://mikewest.org/2011/10/content-security-policy-a-primer\">Mike West</a> ist die Working Draft Crew erklärter Fan des Content Security Protocols. Twitter hat CSP nun auf ihren Seiten implementiert und den Schalter vorerst auf &#8220;Analyse&#8221; gestellt. Perfektes Timing, denn CSP ist in Version 1.0 nun auch in <a href=\"https://hacks.mozilla.org/2013/05/content-security-policy-1-0-lands-in-firefox-aurora/\">Firefox Aurora</a>."
     },
     {
       "name": "Deep dive into the murky waters of script loading",

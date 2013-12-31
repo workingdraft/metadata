@@ -19,7 +19,8 @@ function analyze(html) {
   };
   
   var headlines = content.find('h3');
-  var description = headlines.first().prevAll().map(function(item) {
+  var paragraphs = headlines.length ? headlines.first().prevAll() : content.find('p');
+  var description = paragraphs.map(function(item) {
     this.find('a').removeAttr('onclick');
     return trim(this.html());
   }).filter(function(item){ return !!item; }).join('\n\n');
@@ -151,15 +152,12 @@ function extractDescription(dd) {
 }
 
 function findDescription(dt) {
-  console.log(dt);
   var next = dt.find('dd').first();
-  console.log(next);
   if (next.is('dd')) {
     return extractDescription(next);
   }
   
   next = dt.next();
-  console.log(next);
   if (next.is('dd')) {
     return extractDescription(next);
   }

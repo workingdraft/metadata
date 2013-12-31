@@ -45,24 +45,24 @@
       "name": "ProcessWire",
       "href": "http://processwire.com/",
       "time": "00:00:33",
-      "description": "\nOld and busted: <a href=\"http://modx.com/\">MODx</a>. New Hotness: <strong>ProcessWire!</strong> Der ehemalige MODx-Pontifex Marc und Peter granteln über Fehlentwicklungen bei MODx und Marc sowie <a href=\"http://www.cmscritic.com/critics-choice-for-best-free-cms-goes-to/\">CMS Critic</a> kennen die Lösung. ProcessWire ist ein relativ neues CMS, das alles einfach hält und das richtig macht, was MODx in jüngerer Zeit so verbockt."
+      "description": "Old and busted: <a href=\"http://modx.com/\">MODx</a>. New Hotness: <strong>ProcessWire!</strong> Der ehemalige MODx-Pontifex Marc und Peter granteln über Fehlentwicklungen bei MODx und Marc sowie <a href=\"http://www.cmscritic.com/critics-choice-for-best-free-cms-goes-to/\">CMS Critic</a> kennen die Lösung. ProcessWire ist ein relativ neues CMS, das alles einfach hält und das richtig macht, was MODx in jüngerer Zeit so verbockt."
     },
     {
       "name": "Sueddeutsche.de",
       "href": "http://www.sueddeutsche.de/",
       "time": "00:18:26",
-      "description": "\nSueddeutsche.de hat sich einen Relaunch gegönnt. Während das Ergebnis <a href=\"http://www.designtagebuch.de/relaunch-von-sueddeutsche-de/\">aus Designperspektive ganz ok ist</a> animiert die technische Umsetzung doch eher zum Gruseln. In Anbetracht recht erratisch erscheinender Tag-Verteilung nennt Marc den Quelltext „verunfallt“ und in der Tat muss man sich fragen, warum man eine seit Monaten veraltete jQuery-Version gleich zwei mal einbettet. Responsive ist das Ganze natürlich nicht, aber das wäre bei den ca. 2&nbsp;MB Datenvolumen ohnehin nicht besonders hilfreich. Der Aspekt der Barrierefreiheit ist auch <a href=\"http://www.zehe-edv.de/2012/11/29/mein-blick-auf-den-relaunch-der-sueddeutschen-zeitung/\">eher eigenwillig umgesetzt</a> worden. Summa Summarum: Epic Fail.\n"
+      "description": "Sueddeutsche.de hat sich einen Relaunch gegönnt. Während das Ergebnis <a href=\"http://www.designtagebuch.de/relaunch-von-sueddeutsche-de/\">aus Designperspektive ganz ok ist</a> animiert die technische Umsetzung doch eher zum Gruseln. In Anbetracht recht erratisch erscheinender Tag-Verteilung nennt Marc den Quelltext „verunfallt“ und in der Tat muss man sich fragen, warum man eine seit Monaten veraltete jQuery-Version gleich zwei mal einbettet. Responsive ist das Ganze natürlich nicht, aber das wäre bei den ca. 2&nbsp;MB Datenvolumen ohnehin nicht besonders hilfreich. Der Aspekt der Barrierefreiheit ist auch <a href=\"http://www.zehe-edv.de/2012/11/29/mein-blick-auf-den-relaunch-der-sueddeutschen-zeitung/\">eher eigenwillig umgesetzt</a> worden. Summa Summarum: Epic Fail."
     },
     {
       "name": "File API – an introduction",
       "href": "http://msdn.microsoft.com/en-gb/magazine/jj835793.aspx",
       "time": "00:37:57",
-      "description": "\nMicrosoft kredenzt uns einen Einstieg zu <a href=\"http://www.w3.org/TR/FileAPI/\">File API</a>&nbsp;&ndash; löblich, auch wenn der Internet Explorer selbst in dieser Disziplin <a href=\"http://caniuse.com/#feat=fileapi\">nicht gerade ein Campion ist</a>. Peter betont, wie wichtig bei der File API das Technologie-Drumherum aus z.B. <a href=\"http://www.w3.org/TR/IndexedDB/\">Indexed DB</a> und <a href=\"https://developer.mozilla.org/en-US/docs/JavaScript_typed_arrays\">Typed Arrays</a> ist. David Flanagan hat das Thema mal bei einer JSConf <a href=\"http://blip.tv/jsconf/jsconf2011-david-flanagan-5449688\">sehr umfassend aufgedröselt</a>.\n"
+      "description": "Microsoft kredenzt uns einen Einstieg zu <a href=\"http://www.w3.org/TR/FileAPI/\">File API</a>&nbsp;&ndash; löblich, auch wenn der Internet Explorer selbst in dieser Disziplin <a href=\"http://caniuse.com/#feat=fileapi\">nicht gerade ein Campion ist</a>. Peter betont, wie wichtig bei der File API das Technologie-Drumherum aus z.B. <a href=\"http://www.w3.org/TR/IndexedDB/\">Indexed DB</a> und <a href=\"https://developer.mozilla.org/en-US/docs/JavaScript_typed_arrays\">Typed Arrays</a> ist. David Flanagan hat das Thema mal bei einer JSConf <a href=\"http://blip.tv/jsconf/jsconf2011-david-flanagan-5449688\">sehr umfassend aufgedröselt</a>."
     },
     {
       "name": "Grunt",
       "time": "00:47:38",
-      "description": "\nWir nehmen <a href=\"http://yellowled.de/archiv/36/Mein-neues-Build-Tool-Grunt.html\">zwei</a> <a href=\"http://webkrauts.de/artikel/2012/build-tool-grunt\">Artikel</a> zum Thema <a href=\"http://gruntjs.com/\">Grunt</a> zum Anlass, um nochmal über das nette kleine Buildsystem für Frontend-Devs zu quasseln.\n"
+      "description": "Wir nehmen <a href=\"http://yellowled.de/archiv/36/Mein-neues-Build-Tool-Grunt.html\">zwei</a> <a href=\"http://webkrauts.de/artikel/2012/build-tool-grunt\">Artikel</a> zum Thema <a href=\"http://gruntjs.com/\">Grunt</a> zum Anlass, um nochmal über das nette kleine Buildsystem für Frontend-Devs zu quasseln."
     },
     {
       "name": "The Nitty Gritty",

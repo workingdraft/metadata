@@ -36,7 +36,7 @@
       "name": "Heydon Pickering: Semantic CSS With Intelligent Selectors",
       "href": "http://coding.smashingmagazine.com/2013/08/20/semantic-css-with-intelligent-selectors/",
       "time": "00:00:36",
-      "description": "Dass wir alle den Artikel nicht gelesen haben, ist uns Anlass genug, um einfach mal so über CSS zu reden. Hans erzählt von seinem Traum-CSS und hat Zorn auf Styling im Bootstrap-Style, wo Design effektiv per HTML-Klassen-Vergabe umgesetzt wird. Die Komposition von Styles per Extends im Präprozessor-Code scheint die bessere Alternative. Trotzdem bringt Hans für Präprozessor-Zweifler Verständnis auf&nbsp;&ndash; Peter nicht ganz so sehr. In Anschluss fragen wir uns, in welcher Reihenfolge man CSS und SASS lernen sollte und ob es je einen reinen CSS-Relaunch ohne HTML-Änderungen gegeben hat (Spoiler Alert: natürlich nicht).<p></p>\n"
+      "description": "Dass wir alle den Artikel nicht gelesen haben, ist uns Anlass genug, um einfach mal so über CSS zu reden. Hans erzählt von seinem Traum-CSS und hat Zorn auf Styling im Bootstrap-Style, wo Design effektiv per HTML-Klassen-Vergabe umgesetzt wird. Die Komposition von Styles per Extends im Präprozessor-Code scheint die bessere Alternative. Trotzdem bringt Hans für Präprozessor-Zweifler Verständnis auf&nbsp;&ndash; Peter nicht ganz so sehr. In Anschluss fragen wir uns, in welcher Reihenfolge man CSS und SASS lernen sollte und ob es je einen reinen CSS-Relaunch ohne HTML-Änderungen gegeben hat (Spoiler Alert: natürlich nicht).<p></p>"
     }
   ],
   "news": [

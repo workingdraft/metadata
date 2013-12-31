@@ -39,7 +39,7 @@
     {
       "name": "weinre – Web Inspector Remote",
       "href": "http://pmuellr.github.com/weinre/",
-      "description": "\n<blockquote><p>It&#8217;s a debugger for web pages, like FireBug (for FireFox) and Web Inspector (for WebKit-based browsers), except it&#8217;s designed to work remotely, and in particular, to allow you debug web pages on a mobile device such as a phone.</p></blockquote>\n<p>Das sagt im Prinzip schon alles. Man startet lokal einen Java-Server, bindet ein JavaScript in die auf dem Mobilgerät zu debuggende Seite ein und startet dann auf seinem Desktop den Ferndebugger, der alles kann, was der klassische Webkit Web Inspektor kann &#8211; nur dass das Anschauungsobjekt eben im Mobilgerät liegt.</p>"
+      "description": "<blockquote><p>It&#8217;s a debugger for web pages, like FireBug (for FireFox) and Web Inspector (for WebKit-based browsers), except it&#8217;s designed to work remotely, and in particular, to allow you debug web pages on a mobile device such as a phone.</p></blockquote>\n<p>Das sagt im Prinzip schon alles. Man startet lokal einen Java-Server, bindet ein JavaScript in die auf dem Mobilgerät zu debuggende Seite ein und startet dann auf seinem Desktop den Ferndebugger, der alles kann, was der klassische Webkit Web Inspektor kann &#8211; nur dass das Anschauungsobjekt eben im Mobilgerät liegt.</p>"
     },
     {
       "name": "Internet Explorer 9 Network Performance Improvements",
