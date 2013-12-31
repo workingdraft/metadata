@@ -132,20 +132,34 @@ function definitionListTitles(list) {
 }
 
 function extractDescription(dd) {
-  var _dd = dd.clone();
-  _dd.find('dl').remove();
-  // don't we love google analytics?
-  _dd.find('a').removeAttr('onclick');
-  return _dd.html();
+  var data = [];
+  while (dd.length) {
+    if (!dd.is('dd')) {
+      break;
+    }
+    
+    var _dd = dd.clone();
+    _dd.find('dl').remove();
+    // don't we love google analytics?
+    _dd.find('a').removeAttr('onclick');
+    data.push(trim(_dd.html()));
+    dd = dd.next();
+  }
+  
+  
+  return data.filter(function(item){ return !!item; }).join('\n\n');
 }
 
 function findDescription(dt) {
+  console.log(dt);
   var next = dt.find('dd').first();
+  console.log(next);
   if (next.is('dd')) {
     return extractDescription(next);
   }
   
   next = dt.next();
+  console.log(next);
   if (next.is('dd')) {
     return extractDescription(next);
   }
