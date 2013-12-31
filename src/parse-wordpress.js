@@ -44,7 +44,7 @@ function analyze(html) {
     } else if (title.indexOf("verlosung")) {
       return;
     }
-console.log("investigating " + bucket);
+    
     data[bucket] = analyzeContents(this);
     if (bucket === undefined && data[bucket].length) {
       if (data[bucket][0].name.slice(0, 1) === '[') {
