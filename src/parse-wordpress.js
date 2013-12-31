@@ -15,14 +15,20 @@ function analyze(html) {
   var data = {
     title: ($('.postcontainer h2').text() || "").replace(/^revision \d+:\s+/i, ''),
     audio: content.find(".podpress_downloadimglink").attr("href") || "",
-    href: $('[rel="bookmark"]').attr("href") || "",
-    topics: [],
-    links: [],
-    news: [],
-    randomSpec: []
+    href: $('[rel="bookmark"]').attr("href") || ""
   };
   
-  content.find('h3').each(function() {
+  var headlines = content.find('h3');
+  var description = headlines.first().prevAll().map(function(item) {
+    this.find('a').removeAttr('onclick');
+    return '<p>' + this.html() + '</p>';
+  }).join('\n');
+  
+  if (description) {
+    data.description = description;
+  }
+  
+  headlines.each(function() {
     var title = this.text().toLowerCase();
     var bucket;
     
@@ -86,14 +92,15 @@ function trim(text) {
 }
 
 function workaroundFuckedMarkup(title) {
-  var elem = title.find('p, dd').first();
+  var _title = title.clone();
+  var elem = _title.find('p, dd').first();
   if (!elem.length) {
     return title;
   }
   
   elem.nextAll().remove();
   elem.remove();
-  return title;
+  return _title;
 }
 
 function splitTimedTitle(title) {
@@ -124,16 +131,39 @@ function definitionListTitles(list) {
   return clone.find('dt');
 }
 
+function extractDescription(dd) {
+  var _dd = dd.clone();
+  _dd.find('dl').remove();
+  // don't we love google analytics?
+  _dd.find('a').removeAttr('onclick');
+  return _dd.html();
+}
+
+function findDescription(dt) {
+  var next = dt.find('dd').first();
+  if (next.is('dd')) {
+    return extractDescription(next);
+  }
+  
+  next = dt.next();
+  if (next.is('dd')) {
+    return extractDescription(next);
+  }
+  
+  return null;
+}
+
 function analyzeList(list, title) {
   var titleSplit = splitTimedTitle(title);
   
-  function toObject(name, href, time) {
+  function toObject(name, href, time, description) {
     var data = {
       name: name
     };
     
     href && (data.href = href);
     time && (data.time = time);
+    description && (data.description = description);
     
     return data;
   }
@@ -144,7 +174,8 @@ function analyzeList(list, title) {
       return toObject(
         split.name,
         sanitizeUrl(this.find('a').attr('href')),
-        split.time || titleSplit.time
+        split.time || titleSplit.time,
+        findDescription(this)
       );
     });
   } else if (list.is('ul')) {

@@ -88,6 +88,7 @@ function updateRecords(data) {
   contents[data.id] = {
     episode: data.id,
     title: data.title,
+    description: data.title,
     topics: data.topics,
     news: data.news,
     links: data.links,
@@ -135,6 +136,7 @@ function findAnomalies() {
     var content = contents[id];
     
     !episode.date && log(id, "Date is missing");
+    !episode.description && log(id, "Description is missing");
     !episode.href && log(id, "Link is missing");
     !episode.people.length && log(id, "People are missing");
     
