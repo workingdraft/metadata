@@ -11,6 +11,7 @@ var dataPath = __dirname + '/../data/';
 var episodes = JSON.parse(FS.readFileSync(dataPath + 'episodes.json'));
 var people = JSON.parse(FS.readFileSync(dataPath + 'people.json'));
 var contents = JSON.parse(FS.readFileSync(dataPath + 'contents.json'));
+var checksum = JSON.parse(FS.readFileSync(dataPath + 'checksum.json'));
 
 var counter = 0;
 
@@ -88,7 +89,7 @@ function updateRecords(data) {
   contents[data.id] = {
     episode: data.id,
     title: data.title,
-    description: data.title,
+    description: data.description,
     topics: data.topics,
     news: data.news,
     links: data.links,
@@ -131,12 +132,11 @@ function findAnomalies() {
     console.log("  " + message);
   }
   
-  Object.keys(episodes).forEach(function(id) {
+  (options.episodes || Object.keys(episodes)).forEach(function(id) {
     var episode = episodes[id];
     var content = contents[id];
     
     !episode.date && log(id, "Date is missing");
-    !episode.description && log(id, "Description is missing");
     !episode.href && log(id, "Link is missing");
     !episode.people.length && log(id, "People are missing");
     
@@ -153,8 +153,17 @@ function findAnomalies() {
       log(id, "content is missing completely - parse error?");
     } else {
       !content.title && log(id, "Title is missing");
+      !content.description && log(id, "Description is missing");
       if (!content.topics.length) {
         log(id, "topics are missing");
+      }
+      
+      if (checksum[id]) {
+        checksum[id].news !== (content.news || []).length && log(id, "checksum of news is wrong");
+        checksum[id].topics !== (content.topics || []).length && log(id, "checksum of topics is wrong");
+        checksum[id].randomSpec !== (content.randomSpec || []).length && log(id, "checksum of randomSpec is wrong");
+        checksum[id].links !== (content.links || []).length && log(id, "checksum of links is wrong");
+        checksum[id].description !== (content.description || "").split("\n\n").length && log(id, "checksum of description is wrong");
       }
     }
   });
