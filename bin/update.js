@@ -140,30 +140,37 @@ function findAnomalies() {
     !episode.href && log(id, "Link is missing");
     !episode.people.length && log(id, "People are missing");
     
-    episode.flags && episode.flags.forEach(function(flag) {
-      switch (flag) {
-        case 'no-topics':
-          content = content || {};
-          content.topics = ['foo'];
-          break;
-      }
-    });
-    
     if (!content) {
       log(id, "content is missing completely - parse error?");
     } else {
       !content.title && log(id, "Title is missing");
-      !content.description && log(id, "Description is missing");
-      if (!content.topics.length) {
-        log(id, "topics are missing");
-      }
       
       if (checksum[id]) {
+        // check against specific checksums
         checksum[id].news !== (content.news || []).length && log(id, "checksum of news is wrong");
         checksum[id].topics !== (content.topics || []).length && log(id, "checksum of topics is wrong");
         checksum[id].randomSpec !== (content.randomSpec || []).length && log(id, "checksum of randomSpec is wrong");
         checksum[id].links !== (content.links || []).length && log(id, "checksum of links is wrong");
         checksum[id].description !== (content.description || "").split("\n\n").length && log(id, "checksum of description is wrong");
+      } else {
+        // check pure existence
+        episode.flags && episode.flags.forEach(function(flag) {
+          switch (flag) {
+            case 'no-topics':
+              content = content || {};
+              content.topics = ['foo'];
+              break;
+            case 'no-description':
+              content = content || {};
+              content.description = 'foo';
+              break;
+          }
+        });
+        
+        !content.description && log(id, "Description is missing");
+        if (!content.topics.length) {
+          log(id, "topics are missing");
+        }
       }
     }
   });

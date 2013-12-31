@@ -277,6 +277,9 @@
     "id": 24,
     "date": "2011-05-10",
     "duration": "00:53:53",
+    "flags": [
+      "no-description"
+    ],
     "people": [
       "derSchepp",
       "sir_pepe"
@@ -382,6 +385,9 @@
     "id": 33,
     "date": "2011-07-26",
     "duration": "01:09:50",
+    "flags": [
+      "no-description"
+    ],
     "people": [
       "markus_schlegel",
       "sir_pepe"
@@ -491,6 +497,9 @@
     "id": 42,
     "date": "2011-12-08",
     "duration": "01:20:02",
+    "flags": [
+      "no-description"
+    ],
     "people": [
       "derSchepp",
       "markus_schlegel",
@@ -689,6 +698,9 @@
     "id": 58,
     "date": "2012-02-16",
     "duration": "01:31:36",
+    "flags": [
+      "no-description"
+    ],
     "people": [
       "derSchepp",
       "distilledhype",
