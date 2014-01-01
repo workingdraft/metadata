@@ -3,6 +3,7 @@
 var options = require('../src/cli-options')();
 var httpGet = require("../src/http-get");
 var parseWordpress = require("../src/parse-wordpress");
+var parseLivestream = require("../src/parse-livestream");
 
 var FS = require("fs");
 var Q = require("q");
@@ -16,6 +17,7 @@ var dataPath = __dirname + '/../data/';
 var episodes, people, contents, checksum;
 
 loadIndexFiles()
+  .then(updateEpisodeIndexLivestreams)
   .then(determineEpisodes)
   .then(parseEpisodes)
   .then(updateCachedEpisodes)
@@ -75,6 +77,18 @@ function determineEpisodes() {
   }).filter(function(item) { return !!item; });
   
   return Q(_episodes);
+}
+
+function updateEpisodeIndexLivestreams() {
+  return httpGet("http://www.livestream.com/workingdraft/folder")
+    .then(parseLivestream)
+    .then(mergeEpisodeIndexLivestreams);
+}
+
+function mergeEpisodeIndexLivestreams(livestreams) {
+  Object.keys(livestreams).forEach(function(id) {
+    episodes[id].live = livestreams[id];
+  });
 }
 
 function parseEpisodes(list) {
