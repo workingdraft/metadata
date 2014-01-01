@@ -1,9 +1,10 @@
 'use strict';
 
 var options = require('../src/cli-options')();
+var httpGet = require("../src/http-get");
 var parseWordpress = require("../src/parse-wordpress");
+
 var FS = require("fs");
-var HTTP = require("http");
 var Q = require("q");
 Q.longStackSupport = true;
 
@@ -125,21 +126,7 @@ function determineCachedEpisodes(list) {
 }
 
 function fetchEpisode(id) {
-  var deferred = Q.defer();
-  HTTP.get("http://workingdraft.de/" + id + "/", function(res) {
-    var buffer = "";
-    res.setEncoding("utf8");
-    res.on("data", function (chunk) {
-      buffer += chunk;
-    });
-    res.on("end", function() {
-      deferred.resolve(buffer);
-    });
-  }).on("error", function(e) {
-    deferred.reject(e);
-  });
-  
-  return deferred.promise;
+  return httpGet("http://workingdraft.de/" + id + "/");
 }
 
 function updateEpisodesIndex(data) {
