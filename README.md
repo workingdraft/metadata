@@ -4,7 +4,7 @@ This repository provides metadata for the German [Workingdraft](http://workingdr
 
 The data in `episodes.json` is (mostly) maintained manually, thus might not always contain the latest episodes. The data in `contents.json` is aggregated through web-scraping the wordpress of Workingdraft (see `bin/update.js`).
 
-Use `node bin/update.js` to save scraped data to disk. Use `node bin/test.js --episode 123` to test the scraper for a specific set of episodes. Use `--help` on either script to see the available options.
+Use `node bin/update.js` to save scraped data to disk. Use `node bin/test-wordpress.js --episode 123` to test the scraper for a specific set of episodes. Use `--help` on either script to see the available options.
 
 
 ## Motivation
@@ -24,10 +24,27 @@ The episode index `data/episodes.json` contains general metadata:
     // number of the episode
     "id": 12345,
     // date the episode was published
-    "date": "2015-06-04",
+    "date": "2015-01-02",
     // the length of the episode, 1 hour, 2 minutes and 3 seconds.
     // an optional fourth component (01:02:03:04) denotes microseconds
     "duration": "01:02:03",
+    // [optional] livestream data
+    // can be a boolean true to denote the episode was streamed, but has no link
+    "live": [
+      {
+        // livestream's title
+        "title": "Revision 136",
+        // link to livestream (website, not audio file!)
+        "href": "http://livestre.am/4BJRA",
+        // duration of livestream recording
+        // usually longer than the episode because preliminary discussions are streamed, 
+        // but are not officially published
+        "duration": "01:02:03",
+        // date of the livestream - this is earlier than the episode's date, as
+        // episode date is date of publishing, livestream date is date of recording
+        "date": "2015-01-02"
+      }
+    ],
     // [optional] flags for the content-quality detection, no real use for consumption
     "flags": [
       // the episode has no topics
@@ -49,7 +66,7 @@ The episode index `data/episodes.json` contains general metadata:
     "audio": "http://workingdraft.de/some/path/to/file/12345.mp3",
     // [optional] link to the episode's video
     "video": "http://www.youtube.com/watch?v=aFEiw0SEMyw",
-    // the episode's name
+    // the episode's title
     "title": "Some Catchy Episode Title"
   }
 }
@@ -79,9 +96,9 @@ An episode's content is tracked in `data/episodes/12345.json`:
 
 ```javascript
 {
-  "id": 151,
+  "id": 12345,
   // date the episode was published
-  "date": "2015-06-04",
+  "date": "2015-01-02",
   // the length of the episode, 1 hour, 2 minutes and 3 seconds.
   // an optional fourth component (01:02:03:04) denotes microseconds
   "duration": "01:02:03",
@@ -102,13 +119,30 @@ An episode's content is tracked in `data/episodes/12345.json`:
       "twitter": "https://twitter.com/sir_pepe"
     }
   ],
+  // [optional] livestream data
+  // can be a boolean true to denote the episode was streamed, but has no link
+  "live": [
+    {
+      // livestream's title
+      "title": "Revision 136",
+      // link to livestream (website, not audio file!)
+      "href": "http://livestre.am/4BJRA",
+      // duration of livestream recording
+      // usually longer than the episode because preliminary discussions are streamed, 
+      // but are not officially published
+      "duration": "01:02:03",
+      // date of the livestream - this is earlier than the episode's date, as
+      // episode date is date of publishing, livestream date is date of recording
+      "date": "2015-01-02"
+    }
+  ],
   // link to the episode's blog post
   "href": "http://workingdraft.de/12345/",
   // [optional] link to the episode's audio file
   "audio": "http://workingdraft.de/some/path/to/file/12345.mp3",
   // [optional] link to the episode's video
   "video": "http://www.youtube.com/watch?v=aFEiw0SEMyw",
-  // the episode's name
+  // the episode's title
   "title": "Some Catchy Episode Title",
   // [optional] the episode's brief meta-description (HTML)
   "description": "Some Episode Description.",
@@ -116,7 +150,7 @@ An episode's content is tracked in `data/episodes/12345.json`:
   "topics": [
     {
       // the topic that was discussed
-      "name": "Some Topic",
+      "title": "Some Topic",
       // [optional] link to the topic
       "href": "http://example.com/some-topic",
       // [optional] the point in time the topic started being discussed
