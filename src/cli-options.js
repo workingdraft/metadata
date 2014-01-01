@@ -36,6 +36,7 @@ module.exports = function(mandatory) {
       console.log(" --episode 1,2,3   update episodes 1, 2 and 3");
       console.log(" --except 1,2,3    update everything but episodes 1, 2 and 3");
       console.log(" --limit 10        update only the first 10 update-worthy episodes");
+      console.log(" --force           update all episodes (excluding --except) even if they're already cached");
       process.exit(0);
     }
   });
