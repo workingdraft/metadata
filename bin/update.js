@@ -80,6 +80,10 @@ function determineEpisodes() {
 }
 
 function updateEpisodeIndexLivestreams() {
+  if (!options.livestream) {
+    return;
+  }
+  
   return httpGet("http://www.livestream.com/workingdraft/folder")
     .then(parseLivestream)
     .then(mergeEpisodeIndexLivestreams);

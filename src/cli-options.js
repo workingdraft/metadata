@@ -3,6 +3,7 @@
 module.exports = function(mandatory) {
   var options = {
     analyze: true,
+    livestream: true,
     update: true
   };
 
@@ -37,6 +38,9 @@ module.exports = function(mandatory) {
     if (val === '--update') {
       options.update = array[index+1] === 'off' ? false : true;
     }
+    if (val === '--livestream') {
+      options.livestream = array[index+1] === 'off' ? false : true;
+    }
     if (val === '--force') {
       options.force = true;
     }
@@ -48,6 +52,7 @@ module.exports = function(mandatory) {
       console.log(" --force           update all episodes (excluding --except) even if they're already cached");
       console.log(" --analyze off     disable content quality analysis");
       console.log(" --update off      disable update of 'stale' cache");
+      console.log(" --livestream off  disable fetching of livestream data");
       process.exit(0);
     }
   });
