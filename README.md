@@ -45,13 +45,6 @@ The episode index `data/episodes.json` contains general metadata:
         "date": "2015-01-02"
       }
     ],
-    // [optional] flags for the content-quality detection, no real use for consumption
-    "flags": [
-      // the episode has no topics
-      "no-topics",
-      // the episode has no description
-      "no-description"
-    ],
     // participants in the episode - details tracked in data/people.json
     "people": [
       "ddprt",
@@ -182,6 +175,8 @@ An episode's content is tracked in `data/episodes/12345.json`:
 
 * [wordpress] consider fixing timestamps (`00:00:00`) where present
 * [wordpress] consider adding timestamps where presently not available
+* [scraping] parse all links to extract keywords (JS, CSS, Grunt, Sass, Preprocessor, …)
+* [parse-wordpress] import comments
 
 
 ## Interesting Links ##
