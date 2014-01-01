@@ -49,7 +49,7 @@ function analyze(html) {
     
     data[bucket] = analyzeContents(this);
     if (bucket === undefined && data[bucket].length) {
-      if (data[bucket][0].name.slice(0, 1) === '[') {
+      if (data[bucket][0].title.slice(0, 1) === '[') {
         // Episode 87
         data.topics = data[bucket];
         delete data[bucket];
@@ -82,7 +82,7 @@ function analyzeContents(title) {
   }
 
   return data.filter(function(item) {
-    return !!item.name;
+    return !!item.title;
   });
 }
 
@@ -111,7 +111,7 @@ function splitTimedTitle(title) {
   var split = text.match(/^\s*\[([\d+:\.]+)\]\s*(.+)\s*$/i);
   return {
     time: trim(split && split[2] && split[1].replace(/\./g, ':') || null),
-    name: trim(split && (split[2] || split[1]) || text)
+    title: trim(split && (split[2] || split[1]) || text)
   };
 }
 
@@ -170,9 +170,9 @@ function findDescription(dt) {
 function analyzeList(list, title) {
   var titleSplit = splitTimedTitle(title);
   
-  function toObject(name, href, time, description) {
+  function toObject(title, href, time, description) {
     var data = {
-      name: name
+      title: title
     };
     
     href && (data.href = href);
@@ -186,7 +186,7 @@ function analyzeList(list, title) {
     return definitionListTitles(list).map(function() {
       var split = splitTimedTitle(this);
       return toObject(
-        split.name,
+        split.title,
         sanitizeUrl(this.find('a').attr('href')),
         split.time || titleSplit.time,
         findDescription(this)
@@ -196,7 +196,7 @@ function analyzeList(list, title) {
     return list.find('li a').map(function() {
       var split = splitTimedTitle(this.parent());
       return toObject(
-        split.name,
+        split.title,
         sanitizeUrl(this.attr('href')),
         split.time || titleSplit.time
       );
