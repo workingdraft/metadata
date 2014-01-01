@@ -7,63 +7,92 @@ var HTTP = require("http");
 var Q = require("q");
 Q.longStackSupport = true;
 
+// promises are so much nicer than this error-callback crap
+var writeFile = Q.denodeify(FS.writeFile);
+var readFile = Q.denodeify(FS.readFile);
+
 var dataPath = __dirname + '/../data/';
-var episodes = JSON.parse(FS.readFileSync(dataPath + 'episodes.json'));
-var people = JSON.parse(FS.readFileSync(dataPath + 'people.json'));
-var contents = JSON.parse(FS.readFileSync(dataPath + 'contents.json'));
-var checksum = JSON.parse(FS.readFileSync(dataPath + 'checksum.json'));
+var episodes, people, contents, checksum;
 
-var counter = 0;
-
-var tasks = (options.episodes || Object.keys(episodes)).map(function(id) {
-  id = parseInt(id, 10);
-  var episode = episodes[id];
-  var content = contents[id];
-  var _included = options.episodes && options.episodes.indexOf(id) > -1;
-  
-  if (episode.href && content && !_included && !options.force) {
-    // this episode has already been mapped, no need to repeat unless it was requested
-    return true;
-  }
-  
-  if (!episode.date && !_included) {
-    // this episode can't be updated, as it hasn't been published yet
-    return true;
-  }
-    
-  if (options.except && options.except.indexOf(id) > -1) {
-    // this episode was excluded from the update
-    return true;
-  }
-  
-  counter++;
-  if (options.limit && counter > options.limit) {
-    // we've reached the limit, ignore the rest
-    return true;
-  }
-  
-  function addId(data) {
-    data.id = id;
-    return data;
-  }
-  
-  return fetch(id)
-    .then(parseWordpress)
-    .then(addId)
-    .then(updateRecords)
-    .then(function(){ return id; })
-    .then(saveContents)
-    .catch(logError.bind(null, id));
-});
-
-Q.allSettled(tasks)
-  .then(saveJSON)
+loadIndexFiles()
+  .then(determineEpisodes)
+  .then(updateEpisodes)
+  .then(saveIndexFiles)
   .then(findAnomalies)
   .catch(logError.bind(null, null));
 
-function fetch(revision) {
+function logError(episode, error) {
+  console.error("ERROR in episode " + episode, error, error.stack);
+  throw error;
+}
+
+function loadIndexFiles() {
+  return Q.all([
+    readFile(dataPath + 'episodes.json'),
+    readFile(dataPath + 'people.json'),
+    readFile(dataPath + 'contents.json'),
+    readFile(dataPath + 'checksum.json')
+  ]).spread(function(_episodes, _people, _contents, _checksum) {
+    episodes = JSON.parse(_episodes);
+    people = JSON.parse(_people);
+    contents = JSON.parse(_contents);
+    checksum = JSON.parse(_checksum);
+  });
+}
+
+function determineEpisodes() {
+  var counter = 0;
+  var _episodes = (options.episodes || Object.keys(episodes)).map(function(id) {
+    id = parseInt(id, 10);
+    var episode = episodes[id];
+    var content = contents[id];
+    var _included = options.episodes && options.episodes.indexOf(id) > -1;
+
+    if (episode.href && content && !_included && !options.force) {
+      // this episode has already been mapped, no need to repeat unless it was requested
+      return null;
+    }
+
+    if (!episode.date && !_included) {
+      // this episode can't be updated, as it hasn't been published yet
+      return null;
+    }
+
+    if (options.except && options.except.indexOf(id) > -1) {
+      // this episode was excluded from the update
+      return null;
+    }
+
+    counter++;
+    if (options.limit && counter > options.limit) {
+      // we've reached the limit, ignore the rest
+      return null;
+    }
+    
+    return id;
+  }).filter(function(item) { return !!item; });
+  
+  return Q(_episodes);
+}
+
+function updateEpisodes(list) {
+  var promises = list.map(function(id) {
+    return fetchEpisode(id)
+      .then(parseWordpress)
+      .then(updateEpisodesIndex)
+      .then(mergeEpisodeContents)
+      .then(saveEpisodeContents)
+      .catch(logError.bind(null, id));
+  });
+  
+  // continue processing even if an episode failed
+  return Q.allSettled(promises)
+    .thenResolve(list);
+}
+
+function fetchEpisode(id) {
   var deferred = Q.defer();
-  HTTP.get("http://workingdraft.de/" + revision + "/", function(res) {
+  HTTP.get("http://workingdraft.de/" + id + "/", function(res) {
     var buffer = "";
     res.setEncoding("utf8");
     res.on("data", function (chunk) {
@@ -79,47 +108,50 @@ function fetch(revision) {
   return deferred.promise;
 }
 
-function logError(episode, error) {
-  console.error("ERROR in episode " + episode, error, error.stack);
-}
-
-function updateRecords(data) {
+function updateEpisodesIndex(data) {
   episodes[data.id].href = data.href;
   episodes[data.id].audio = data.audio;
-  contents[data.id] = {
-    episode: data.id,
-    title: data.title,
-    description: data.description,
-    topics: data.topics,
-    news: data.news,
-    links: data.links,
-    randomSpec: data.randomSpec
-  };
+  episodes[data.id].title = data.title;
+  return data;
 }
 
-function saveJSON() {
-  FS.writeFileSync(dataPath + 'episodes.json', JSON.stringify(episodes, null, 2));
-  FS.writeFileSync(dataPath + 'contents.json', JSON.stringify(contents, null, 2));
-}
+function mergeEpisodeContents(data) {
+  var _data = {};
+  var episode = episodes[data.id];
 
-function saveContents(id) {
-  var writeFile = Q.denodeify(FS.writeFile);
-  var data = {};
-  
   function toData(key) {
-    data[key] = this[key];
+    _data[key] = this[key];
   }
   
-  Object.keys(episodes[id]).forEach(toData.bind(episodes[id]));
-  Object.keys(contents[id]).forEach(toData.bind(contents[id]));
-  data.people = data.people.map(function(person) {
+  // import episode metadata
+  Object.keys(episode).forEach(toData.bind(episode));
+  // import episode content
+  Object.keys(data).forEach(toData.bind(data));
+  // resolve participants
+  _data.people = _data.people.map(function(person) {
     return people[person];
   });
-
-  return writeFile(dataPath + "episodes/" + id + '.json', JSON.stringify(data, null, 2));
+  
+  contents[data.id] = _data;
+  return _data;
 }
 
-function findAnomalies() {
+function saveEpisodeContents(data) {
+  return writeFile(dataPath + "episodes/" + data.id + '.json', JSON.stringify(data, null, 2));
+}
+
+function saveIndexFiles(list) {
+  return Q.allSettled([
+    writeFile(dataPath + 'episodes.json', JSON.stringify(episodes, null, 2)),
+    writeFile(dataPath + 'contents.json', JSON.stringify(contents, null, 2))
+  ]).thenResolve(list);
+}
+
+function findAnomalies(list) {
+  if (!options.analyze) {
+    return list;
+  }
+  
   var headered = {};
   function log(id, message) {
     if (!headered[id]) {
@@ -130,7 +162,7 @@ function findAnomalies() {
     console.log("  " + message);
   }
   
-  (options.episodes || Object.keys(episodes)).forEach(function(id) {
+  list.forEach(function(id) {
     var episode = episodes[id];
     var content = contents[id];
     
