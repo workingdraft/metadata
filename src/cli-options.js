@@ -33,7 +33,18 @@ module.exports = function(mandatory) {
       }
     }
     if (val === '--analyze') {
-      options.analyze = array[index+1] === 'off' ? false : true;
+      switch (array[index+1]) {
+        case 'off': options.analyze = false; break;
+        case 'all': options.analyze = 'all'; break;
+        case 'only': 
+          options.analyze = 'all'; 
+          options.livestream = 'off'; 
+          options.update = 'off'; 
+          // essentially preventing any updates at all
+          options.limit = 0.1;
+          break;
+        default: options.analyze = true; break;
+      }
     }
     if (val === '--update') {
       options.update = array[index+1] === 'off' ? false : true;
@@ -51,6 +62,8 @@ module.exports = function(mandatory) {
       console.log(" --limit 10        update only the first 10 update-worthy episodes");
       console.log(" --force           update all episodes (excluding --except) even if they're already cached");
       console.log(" --analyze off     disable content quality analysis");
+      console.log(" --analyze all     run content quality analysis on all episodes (from cache)");
+      console.log(" --analyze only    same as --analyze all --update off livestream off");
       console.log(" --update off      disable update of 'stale' cache");
       console.log(" --livestream off  disable fetching of livestream data");
       process.exit(0);

@@ -189,8 +189,11 @@ function saveIndexFiles(list) {
 }
 
 function findAnomalies(list) {
+  var _list = list;
   if (!options.analyze) {
     return list;
+  } else if (options.analyze === "all") {
+    _list = Object.keys(episodes).map(Number);
   }
   
   var headered = {};
@@ -203,7 +206,7 @@ function findAnomalies(list) {
     console.log("  " + message);
   }
   
-  list.forEach(function(id) {
+  _list.forEach(function(id) {
     var episode = episodes[id];
     var content = contents[id];
     
@@ -239,7 +242,7 @@ function findAnomalies(list) {
         });
         
         !content.description && log(id, "Description is missing");
-        if (!content.topics.length) {
+        if (!content.topics || !content.topics.length) {
           log(id, "topics are missing");
         }
       }
