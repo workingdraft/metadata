@@ -34,56 +34,56 @@
   "description": "Das Sommerloch hat die Themenliste gefressen! Zum Glück lagen noch ein paar Zuhörerfragen auf Halde, derer sich Rodney, Stefan und Peter annahmen.",
   "topics": [
     {
-      "name": "Grid-Framework-Empfehlungen",
+      "title": "Grid-Framework-Empfehlungen",
       "time": "00:00:33",
       "description": "Im Brustton der Überzeugung mochten wir keins empfehlen. Peter hat zu wenig Ahnung, Stefan fühlt sich zu schnell eingeschränkt und Rodney ist ein richtiger Entwickler und baut keine Layouts, sondern lässt bauen. Konsens: nehmt halt irgendeins!"
     },
     {
-      "name": "Push-Funktionalität",
+      "title": "Push-Funktionalität",
       "time": "00:04:19",
       "description": "Der erfahrene Rodney rantet aus dem Nähkästchen. Außer Long Polling ist kaum was zu gebrauchen, wobei sich zumindest die Protokoll-Inkompatibilitäten vom <a href=\"http://de.wikipedia.org/wiki/WebSocket\">Web Sockets</a> sich auf dem Desktop ausgewachsen haben. Der Geheimtipp für die Zukunft: HTTP über WS tunneln."
     },
     {
-      "name": "Local Storage",
+      "title": "Local Storage",
       "time": "00:11:33",
       "description": "Stefan und Peter klären erst mal den den App-Begriff, bevor sie <a href=\"http://hood.ie/\">Hoodie</a> großes Potenzial bescheinigen."
     },
     {
-      "name": "Packaging von Webapps zur Offline-Nutzung",
+      "title": "Packaging von Webapps zur Offline-Nutzung",
       "time": "00:14:21",
       "description": "Rodney ist ein richtiger Entwickler und erzählt daher erst mal etwas über Java. Mehr ist leider auch nicht zu sagen, da ein brauchbarer Webstandard nicht in Sicht ist. Insellösungen wie <a href=\"http://developer.chrome.com/extensions/apps.html\">Chrome Apps</a> kommen dem noch am nächsten, laufen aber eben nur dort."
     },
     {
-      "name": "Die Zukunft von WebP",
+      "title": "Die Zukunft von WebP",
       "time": "00:19:57",
       "description": "Für die Zukunft von <a href=\"http://de.wikipedia.org/wiki/WebP\">WebP</a> sehen wir eher schwarz. Peter wiederholt <a href=\"http://news.cnet.com/8301-1023_3-57580664-93/facebook-tries-googles-webp-image-format-users-squawk/\">die bekannte Facebook-Fail-Story</a>. One does not simply invent a new image format!"
     },
     {
-      "name": "Was ist von <nav> und <menu> zu halten?",
+      "title": "Was ist von <nav> und <menu> zu halten?",
       "time": "00:25:07",
       "description": "Aus Gründen der Barrierefreiheit empfiehlt Peter &lt;nav&gt; wärmstens. Rodney prophezeit das Ende von &lt;menu&gt;, das mangels Implementierungen auf der Abschussliste steht."
     },
     {
-      "name": "Was ist von Flexbox zu halten?",
+      "title": "Was ist von Flexbox zu halten?",
       "time": "00:27:23",
       "description": "Peter und Rodney lobpreisen! Stefan ist noch mit Floats schneller, was sich mit Peters Padawan-Beobachtungen deckt. Voll Spannung werden die kommenden Grid-Layout-Standards erwartet. Bis dahin baut man Flexbox wegen der diversen Syntax-Varianten am besten mit <a href=\"http://the-echoplex.net/flexyboxes/\">Flexyboxes</a>."
     }
   ],
   "links": [
     {
-      "name": "DalekJS introduction on Vimeo",
+      "title": "DalekJS introduction on Vimeo",
       "href": "https://vimeo.com/71466029",
       "time": "00:35:03",
       "description": "DalekJS wird nächste Revision ein Thema sein. Wer schon jetzt einen Einstieg sucht, wird mit diesem Video fündig."
     },
     {
-      "name": "VerbalExpressions",
+      "title": "VerbalExpressions",
       "href": "https://github.com/jehna/VerbalExpressions",
       "time": "00:35:03",
       "description": "Regex für Leute die kein Regex können (JS-Lib)."
     },
     {
-      "name": "WebPlatform DocSprint Zurich",
+      "title": "WebPlatform DocSprint Zurich",
       "href": "http://wpds-zurich.eventbrite.com/",
       "time": "00:35:03",
       "description": "Spaß und Erkenntnisgewinn durch Schreiben &#8211; bald auch in Zürich!"

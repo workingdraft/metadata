@@ -37,109 +37,109 @@
   "audio": "http://workingdraft.de/podpress_trac/web/1569/0/wd-93.mp3",
   "title": "Farbkontraste und die volle Responsive Dröhnung!",
   "description": "Diese Woche luden der Schepp, Kahlil und Hans <a href=\"http://christophzillgens.com/\">Christoph Zillgens</a> ein, sprachen über Responsive Design und befragten ihn zu seinem neuen Buch.<br>\nAußerdem könnt ihr sein Buch auch gewinnen! Mehr zu unserem <strong>Gewinnspiel</strong> weiter unten&#8230;",
-  "topics": [
-    {
-      "name": "Lea Verou’s neues Tool Contrast Ratio",
-      "href": "http://lea.verou.me/2012/10/easy-color-contrast-ratios/",
-      "time": "00:01:42",
-      "description": "<em>Contrast Ratio</em> kalkuliert, ob der Kontrast zweier Farben dem WCAG 2.0 Standard zur Barrierearmut entspricht. Wir diskutieren darüber, ob man das Tool im Alltag wirklich brauchen kann."
-    },
-    {
-      "name": "Hierarchische Media Queries",
-      "href": "http://www.the-haystack.com/2012/10/17/nesting-media-queries/",
-      "time": "00:12:29",
-      "description": "Stephen Hay beschreibt, wie uns verschachtelte Media Queries in besonderen Fällen übermäßige Schreibarbeit ersparen können. Interessanterweise <a href=\"http://my.opera.com/ODIN/blog/2012/08/28/colourful-opera-12-50-snapshot\">hat Opera das Ganze schon implementiert</a>."
-    },
-    {
-      "name": "Wir sollten aufhören an unseren Tools rum zu nörgeln",
-      "href": "http://timkadlec.com/2012/10/blame-the-implementation-not-the-technique/",
-      "time": "00:23:42",
-      "description": "Wenn Websites langsam sind (und vor allem solche, die mit <abbr title=\"Responsive Web Design\">RWD</abbr> umgesetzt sind), wird <a href=\"http://www.guypo.com/technical/responsive-web-design-is-bad-for-performance-there-i-said-it/\">oft gesagt</a>, dass die aktuelle Technik (Media Queries, keine Responsive Images, …) dafür verantwortlich ist. Aber ist das wirklich so? Tim Kadlec meint wir sollten aufhören rum zu nörgeln und uns lieber mal hinsetzen und gescheiten Code produzieren."
-    },
-    {
-      "name": "Deine Website ist langsamer als du denkst",
-      "href": "http://www.netmagazine.com/features/your-mobile-site-slower-you-think",
-      "time": "00:42:25",
-      "description": "Hier eine Studie zum Thema &#8220;Performance unterwegs&#8221;. Fazit: Die meisten Websites brauchen ziemlich lange bis sie geladen sind und wir als Webdesigner sollten daran denken."
-    },
-    {
-      "name": "Christoph Zillgens Buch",
-      "href": "http://responsive-webdesign-buch.de/",
-      "time": "00:53:52",
-      "description": "Unser Gast Christoph Zillgens hat ein Buch zum Thema Responsive Webdesign geschrieben und erzählt wie es dazu kam und welche Erfahrungen und Ideen er während des Schreibens gesammelt hat. Ihr solltet es euch auf jeden Fall ansehen und <a href=\"http://www.hanser-fachbuch.de/buch/Responsive+Webdesign/9783446430150\">kaufen</a> (Achtung: kein Affiliate-Link). Oder noch besser: Ihr <strong>gewinnt</strong> einfach eins. Denn Christoph stellt dankenswerterweise ein Buch für eine Verlosung zur Verfügung.<p></p>\n<p>Die einfache Aufgabe: Hinterlasst einen Kommentar hier unten mit einer Begründung, warum ihr das Buch umbedingt braucht. <strong>Zusätzlich</strong> könnt ihr eure Chancen erhöhen, wenn wir folgende Frage von Rodney beantwortet:</p>\n<p>Worum geht es in Christophs Buch?<br>\na) Responsive Design oder<br>\nb) Bananen.</p>\n<p>Teilnahmeschluss ist der 31.10.2012. &#8220;<a href=\"http://de.wikipedia.org/wiki/Rechtsweg#.E2.80.9EDer_Rechtsweg_ist_ausgeschlossen.E2.80.9C\">Der Rechtsweg ist ausgeschlossen</a>&#8220;. Beschäftigte der Working Draft GmbH &#038; Co. KG sowie deren Verwandte auch.\n</p>"
-    }
-  ],
   "news": [
     {
-      "name": "Shadow DOM",
+      "title": "Shadow DOM",
       "href": "http://www.w3.org/TR/2012/WD-shadow-dom-20121016/",
       "time": "00:00:55",
       "description": "Shadow DOM ist nun ein Working Draft. Woop!"
     },
     {
-      "name": "CSS Exclusions in Chrome Canary",
+      "title": "CSS Exclusions in Chrome Canary",
       "href": "http://hansmuller-webkit.blogspot.de/2012/10/experimental-css-exclusions-shape.html",
       "time": "00:00:55",
       "description": "CSS Exclusions sind nun teilweise als experimentelles Feature im Chrome Canary verfügbar."
     }
   ],
+  "topics": [
+    {
+      "title": "Lea Verou’s neues Tool Contrast Ratio",
+      "href": "http://lea.verou.me/2012/10/easy-color-contrast-ratios/",
+      "time": "00:01:42",
+      "description": "<em>Contrast Ratio</em> kalkuliert, ob der Kontrast zweier Farben dem WCAG 2.0 Standard zur Barrierearmut entspricht. Wir diskutieren darüber, ob man das Tool im Alltag wirklich brauchen kann."
+    },
+    {
+      "title": "Hierarchische Media Queries",
+      "href": "http://www.the-haystack.com/2012/10/17/nesting-media-queries/",
+      "time": "00:12:29",
+      "description": "Stephen Hay beschreibt, wie uns verschachtelte Media Queries in besonderen Fällen übermäßige Schreibarbeit ersparen können. Interessanterweise <a href=\"http://my.opera.com/ODIN/blog/2012/08/28/colourful-opera-12-50-snapshot\">hat Opera das Ganze schon implementiert</a>."
+    },
+    {
+      "title": "Wir sollten aufhören an unseren Tools rum zu nörgeln",
+      "href": "http://timkadlec.com/2012/10/blame-the-implementation-not-the-technique/",
+      "time": "00:23:42",
+      "description": "Wenn Websites langsam sind (und vor allem solche, die mit <abbr title=\"Responsive Web Design\">RWD</abbr> umgesetzt sind), wird <a href=\"http://www.guypo.com/technical/responsive-web-design-is-bad-for-performance-there-i-said-it/\">oft gesagt</a>, dass die aktuelle Technik (Media Queries, keine Responsive Images, …) dafür verantwortlich ist. Aber ist das wirklich so? Tim Kadlec meint wir sollten aufhören rum zu nörgeln und uns lieber mal hinsetzen und gescheiten Code produzieren."
+    },
+    {
+      "title": "Deine Website ist langsamer als du denkst",
+      "href": "http://www.netmagazine.com/features/your-mobile-site-slower-you-think",
+      "time": "00:42:25",
+      "description": "Hier eine Studie zum Thema &#8220;Performance unterwegs&#8221;. Fazit: Die meisten Websites brauchen ziemlich lange bis sie geladen sind und wir als Webdesigner sollten daran denken."
+    },
+    {
+      "title": "Christoph Zillgens Buch",
+      "href": "http://responsive-webdesign-buch.de/",
+      "time": "00:53:52",
+      "description": "Unser Gast Christoph Zillgens hat ein Buch zum Thema Responsive Webdesign geschrieben und erzählt wie es dazu kam und welche Erfahrungen und Ideen er während des Schreibens gesammelt hat. Ihr solltet es euch auf jeden Fall ansehen und <a href=\"http://www.hanser-fachbuch.de/buch/Responsive+Webdesign/9783446430150\">kaufen</a> (Achtung: kein Affiliate-Link). Oder noch besser: Ihr <strong>gewinnt</strong> einfach eins. Denn Christoph stellt dankenswerterweise ein Buch für eine Verlosung zur Verfügung.<p></p>\n<p>Die einfache Aufgabe: Hinterlasst einen Kommentar hier unten mit einer Begründung, warum ihr das Buch umbedingt braucht. <strong>Zusätzlich</strong> könnt ihr eure Chancen erhöhen, wenn wir folgende Frage von Rodney beantwortet:</p>\n<p>Worum geht es in Christophs Buch?<br>\na) Responsive Design oder<br>\nb) Bananen.</p>\n<p>Teilnahmeschluss ist der 31.10.2012. &#8220;<a href=\"http://de.wikipedia.org/wiki/Rechtsweg#.E2.80.9EDer_Rechtsweg_ist_ausgeschlossen.E2.80.9C\">Der Rechtsweg ist ausgeschlossen</a>&#8220;. Beschäftigte der Working Draft GmbH &#038; Co. KG sowie deren Verwandte auch.\n</p>"
+    }
+  ],
   "links": [
     {
-      "name": "Vue",
+      "title": "Vue",
       "href": "http://simmo.github.com/vue/",
       "time": "01:31:43",
       "description": "Ein Media Query Monitor für die Console als Bookmark."
     },
     {
-      "name": "OOCSS + SASS",
+      "title": "OOCSS + SASS",
       "href": "http://ianstormtaylor.com/oocss-plus-sass-is-the-best-way-to-css/",
       "time": "01:31:43",
       "description": "Eine Anleitung, wie man von OOCSS mit SASS nutzt."
     },
     {
-      "name": "TakeOff Conference 2013",
+      "title": "TakeOff Conference 2013",
       "href": "http://takeoffconf.com/",
       "time": "01:31:43",
       "description": "Im Januar findet die erste TakeOff Conference in Lille, Frankreich statt. Hans wird dort sprechen \\o/"
     },
     {
-      "name": "Error-Logging auf der Client-Side",
+      "title": "Error-Logging auf der Client-Side",
       "href": "http://dev.opera.com/articles/view/client-side-error-logging/",
       "time": "01:31:43",
       "description": "Opera dokumentiert wie man Fehler auf der Client-side mitloggt."
     },
     {
-      "name": "IE10 Snap Mode and Responsive Design",
+      "title": "IE10 Snap Mode and Responsive Design",
       "href": "http://timkadlec.com/2012/10/ie10-snap-mode-and-responsive-design/",
       "time": "01:31:43",
       "description": "@viewport im IE10."
     },
     {
-      "name": "Line-Height",
+      "title": "Line-Height",
       "href": "http://de.slideshare.net/maxdesign/line-height",
       "time": "01:31:43",
       "description": "CSS line-height richtig erklärt &#8211; ein Slide-Set."
     },
     {
-      "name": "Text re-encoding for optimising storage capacity in the browser",
+      "title": "Text re-encoding for optimising storage capacity in the browser",
       "href": "http://labs.ft.com/2012/06/text-re-encoding-for-optimising-storage-capacity-in-the-browser/",
       "time": "01:31:43",
       "description": "Eine Library die Texte nach UTF-16 dekodiert und damit kann man ganz schön viel Platz sparen."
     },
     {
-      "name": "Contre Jour – Behind the Scenes",
+      "title": "Contre Jour – Behind the Scenes",
       "href": "http://www.youtube.com/watch?feature=player_embedded&v=-DTW-lTbXvk",
       "time": "01:31:43",
       "description": "Das iOS Spiel wurde umgesetzt in JavaScript und HTML5."
     },
     {
-      "name": "JavaScript Promises",
+      "title": "JavaScript Promises",
       "href": "https://gist.github.com/3889970",
       "time": "01:31:43",
       "description": "Wurden Promises eigentlich schon mal richtig implementiert?"
     },
     {
-      "name": "CSS Filters Polyfill",
+      "title": "CSS Filters Polyfill",
       "href": "https://github.com/Schepp/CSS-Filters-Polyfill",
       "time": "01:31:43",
       "description": "Der Schepp hat einen CSS Filters Polyfill geschrieben, der die Filter auch auf andere Browser als nur Chrome bringt."

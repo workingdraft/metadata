@@ -27,55 +27,55 @@
   "description": "Die allererste Folge des neuen News-Podcasts für den ambitionierten Webmenschen. Peter und ich haben uns über den endgültigen Tod von Silverlight im Web, Adobes HTML5-Bemühungen, den tollen Sencha Animationseditor, Vimeo Couchmode und Youtube Leanback, den Google-WebFont-Loader, XML-Tags für Facebook, Audio-APIs im Firefox, Stacktraces in JavaScript und natürlich Firesheep unterhalten.",
   "topics": [
     {
-      "name": "Microsoft: „Our Strategy with Silverlight has shifted.“",
+      "title": "Microsoft: „Our Strategy with Silverlight has shifted.“",
       "href": "http://www.zdnet.com/blog/microsoft/microsoft-our-strategy-with-silverlight-has-shifted/7834"
     },
     {
-      "name": "Sencha CSS-Animator",
+      "title": "Sencha CSS-Animator",
       "href": "http://www.sencha.com/products/animator/"
     },
     {
-      "name": "Adobe: Export fla files to html",
+      "title": "Adobe: Export fla files to html",
       "href": "http://www.youtube.com/watch?v=ryZP00_KhYE"
     },
     {
-      "name": "Vimeo Couch Mode",
+      "title": "Vimeo Couch Mode",
       "href": "http://vimeo.com/couchmode"
     },
     {
-      "name": "Youtube Lean Back",
+      "title": "Youtube Lean Back",
       "href": "http://youtube.com/leanback"
     },
     {
-      "name": "Google WebFont Loader",
+      "title": "Google WebFont Loader",
       "href": "http://code.google.com/intl/de-DE/apis/webfonts/docs/webfont_loader.html"
     },
     {
-      "name": "Facebook Open Graph: XML-Meta-Tags",
+      "title": "Facebook Open Graph: XML-Meta-Tags",
       "href": "http://www.blog.tocki.de/2010-10-21/facebook-open-graph-meta-tags-header/"
     },
     {
-      "name": "Audio-API Demo",
+      "title": "Audio-API Demo",
       "href": "http://hacks.mozilla.org/2010/10/audio-data-api-audio-generation-demo/"
     },
     {
-      "name": "JavaScript Stacktraces",
+      "title": "JavaScript Stacktraces",
       "href": "http://github.com/emwendelin/javascript-stacktrace"
     },
     {
-      "name": "Firefox-Plugin: Firesheep",
+      "title": "Firefox-Plugin: Firesheep",
       "href": "http://codebutler.com/firesheep"
     },
     {
-      "name": "HTTPS Everywhere",
+      "title": "HTTPS Everywhere",
       "href": "https://www.eff.org/https-everywhere"
     },
     {
-      "name": "HTTP cookies, or how not to design protocols",
+      "title": "HTTP cookies, or how not to design protocols",
       "href": "http://lcamtuf.blogspot.com/2010/10/http-cookies-or-how-not-to-design.html"
     },
     {
-      "name": "Mozilla: „No kill switch for Firesheep addon“",
+      "title": "Mozilla: „No kill switch for Firesheep addon“",
       "href": "http://www.computerworld.com/s/article/9193420/Mozilla_No_kill_switch_for_Firesheep_add_on"
     }
   ]

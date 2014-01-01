@@ -39,30 +39,30 @@
   "description": "Mit <a href=\"http://frederic-hemberger.de/\">Frederic Hemberger</a> als hochkarätigem Ersatz für den ausgeflogenen Peter stürzten wir uns auf aktuelle und liegen gebliebene Themen.",
   "topics": [
     {
-      "name": "Kein Hot Pink mehr in der Boilerplate",
+      "title": "Kein Hot Pink mehr in der Boilerplate",
       "href": "https://github.com/h5bp/html5-boilerplate/commit/1d320b59a390041f25cf87d790f6472a25a512ef",
       "time": "00:00:20",
       "description": "<a href=\"http://html5boilerplate.com/\">HTML5 Boilerplate</a> hatte lange Zeit Pink als Hintergrundfarbe für markierten Text eingesetzt, im Vertrauen darauf, dass Webentwickler clever genug sein würden, das bei Bedarf zu ändern. Drollige Vorstellung."
     },
     {
-      "name": "Grunt",
+      "title": "Grunt",
       "href": "http://weblog.bocoup.com/introducing-grunt/",
       "time": "00:08:14",
       "description": "<q>Grunt is a task-based command line build tool for JavaScript projects.</q> Frederic übersetzt das für uns."
     },
     {
-      "name": "<dialog>",
+      "title": "<dialog>",
       "href": "http://dev.w3.org/html5/spec/commands.html#the-dialog-element",
       "time": "00:18:17",
       "description": "Neue Elemente für HTML5? Immer wieder gerne!"
     },
     {
-      "name": "Mobile Testing",
+      "title": "Mobile Testing",
       "time": "00:28:44",
       "description": "Wie testet man mobile? <a href=\"http://www.slideshare.net/guypod/performance-implications-of-mobile-design\">So</a> <a href=\"http://www.blaze.io/technical/open-sourcing-mobitest/\">geht</a> <a href=\"http://www.webpagetest.org/\">das</a>! Bleibt noch das leidige Problem mit dem Download unnötiger Ressourcen, doch auch da gibt es ja <a href=\"http://24ways.org/2011/conditional-loading-for-responsive-designs\">Ansätze</a>."
     },
     {
-      "name": "jQuery – The Little Things",
+      "title": "jQuery – The Little Things",
       "href": "http://blog.rodneyrehm.de/archives/13-jQuery-The-Little-Things.html",
       "time": "00:43:05",
       "description": "Rodney Rehm in Hochform erklärt und demonstriert den Unterschied zwischen &#8220;It works&#8221; und gutem Code."
@@ -70,37 +70,37 @@
   ],
   "links": [
     {
-      "name": "Uberspace-Videotutorial",
+      "title": "Uberspace-Videotutorial",
       "href": "https://gehaxelt.in/blog/ueberspace-einsteigervideo/",
       "time": "00:49:34",
       "description": "Wie der beste Hoster der Welt funktioniert, erklärt in bewegten Bildern."
     },
     {
-      "name": "JavaScript Enlightment: Free PDF eBook",
+      "title": "JavaScript Enlightment: Free PDF eBook",
       "href": "http://javascriptenlightenment.com/",
       "time": "00:49:34",
       "description": "Verflucht sei die elende Kostenloskultur im Internet."
     },
     {
-      "name": "Miso Dataset",
+      "title": "Miso Dataset",
       "href": "http://misoproject.com/dataset/",
       "time": "00:49:34",
       "description": "Clientseitige Datentransformation vom Fach."
     },
     {
-      "name": "BEM",
+      "title": "BEM",
       "href": "http://coding.smashingmagazine.com/2012/04/16/a-new-front-end-methodology-bem/",
       "time": "00:49:34",
       "description": "Umdenken für das Frontend."
     },
     {
-      "name": "Modern Web Development, Part 1 – The Webkit Inspector",
+      "title": "Modern Web Development, Part 1 – The Webkit Inspector",
       "href": "http://jtaby.com/2012/04/23/modern-web-development-part-1.html",
       "time": "00:49:34",
       "description": "Auftakt einer Serie über die optimale Webdev-Toolchain."
     },
     {
-      "name": "dGrid",
+      "title": "dGrid",
       "href": "http://dojofoundation.org/packages/dgrid/",
       "time": "00:49:34",
       "description": "Grid-Komponente für Dojo."

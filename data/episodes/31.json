@@ -34,32 +34,32 @@
   "description": "Besser spät als nie: die Neue Revision ist da! Es gab viel zu besprechen, dafür aber keine Keine Schaunotizen.",
   "topics": [
     {
-      "name": "00:00:24.000 Google Takeout",
+      "title": "00:00:24.000 Google Takeout",
       "href": "https://www.google.com/takeout/",
       "description": "Google ermöglicht das Exportieren von Daten, die man in den diversen Google-Produkten hinterlassen hat (Buzz-Posts, Fotos, Profilinfos) in einem brauchbaren Format. Warum können das nicht andere Dienste (Facebook) auch anbieten?"
     },
     {
-      "name": "00:08:35.000 WebCL",
+      "title": "00:08:35.000 WebCL",
       "href": "http://www.conceivablytech.com/8261/products/gpu-apps-for-your-browser-first-webcl-demos-arrive",
       "description": "Mit WebCL lässt sich die Rechenpower von GPUs für Webapplikationen nutzen, für den Fall dass man mal richtig viel rechnen muss. Erwähnenswert ist in diesem Zusammenhang die <a href=\"http://www.youtube.com/watch?v=WWjJE-6Ln24&amp;feature=youtube_gdata\">Fabric Engine</a>, die sich eines ganz ähnlichen Problems annimmt."
     },
     {
-      "name": "00:22:22.000 Pseudo Spriting",
+      "title": "00:22:22.000 Pseudo Spriting",
       "href": "http://css-tricks.com/13224-pseudo-spriting/",
       "description": "CSS-Trick: Pseudo-Spriting mit Pseudo-Elementen."
     },
     {
-      "name": "00:30:00.000 Using Cross-domain images in WebGL and Canvas",
+      "title": "00:30:00.000 Using Cross-domain images in WebGL and Canvas",
       "href": "http://blog.chromium.org/2011/07/using-cross-domain-images-in-webgl-and.html",
       "description": "<a href=\"http://enable-cors.org/\">Cross-Origin Resource Sharing</a> für Canvas und WebGL kommt."
     },
     {
-      "name": "00:35:10.000 JavaScript Memory Management und Verbesserungen am Speichermanagement des FF",
+      "title": "00:35:10.000 JavaScript Memory Management und Verbesserungen am Speichermanagement des FF",
       "href": "http://engineering.socialcast.com/2011/06/javascript-memory-management/",
       "description": "Eigentlich müsste JavaScript mit einer automatisierten Speicherverwaltung das Thema Speicherverbrauch uninteressant für Webworker machen. Dass es nicht ganz so einfach ist, ist bekannt und deshalb <a href=\"http://hacks.mozilla.org/2011/07/aurora7/\">rüsten</a> zukünftige Versionen des Firefox in Sachen Speichermanagement-Techniklen auf. Bis dahin kann man selbst auch etwas für den Speicherverbrauch tun, in Zukunft vielleicht sogar mit <a href=\"https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/WeakMap\">Weak Maps in JS</a>."
     },
     {
-      "name": "00:56:00.000 HTML5 Parsing in IE10 ohne Conditional Comments",
+      "title": "00:56:00.000 HTML5 Parsing in IE10 ohne Conditional Comments",
       "href": "http://blogs.msdn.com/b/ie/archive/2011/07/06/html5-parsing-in-ie10.aspx",
       "description": "Der IE10 erhält einen standardkonformen HTML5-Parser. Juhu! Keiner Haken daran: Von Conditional Comments steht nichts in den Specs&nbsp;&hellip;"
     }

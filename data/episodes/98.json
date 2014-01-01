@@ -32,79 +32,79 @@
   "audio": "http://workingdraft.de/podpress_trac/web/1655/0/wd98.mp3",
   "title": "IE10, HTML5 und CSS",
   "description": "Ein hustender Hans, ein nicht ganz so viel hustender Peter und ein kerngesunder Schepp in der Blüte seiner Jugend befassten sich in bewährter Manier mit den Themen der vergangenen Woche.",
-  "topics": [
-    {
-      "name": "IE10 for Win7",
-      "href": "http://windows.microsoft.com/en-US/internet-explorer/downloads/ie-10/worldwide-languages",
-      "time": "00:01:48",
-      "description": "Schepp hat sich den IE10 genauer angesehen und zürnt furchtbar. Für seinen <a href=\"https://github.com/Schepp/CSS-Filters-Polyfill\">Filter-Polyfill</a> erforschte er, ob die klassischen IE-Filter noch in Version&nbsp;10 funktionieren und kommt zu keinem klaren Ergebnis. Wir verfluchen die „Kompatibilitäts“modi der diversen Internet Explorer und finden die Oberfläche von Windows&nbsp;8 nicht so toll. <a href=\"http://techcrunch.com/2012/11/19/i-got-one-but-i-dont-get-it/\">TechCrunch</a> und <a href=\"http://www.youtube.com/watch?v=4cMVKW-fR1M&amp;feature=player_embedded\">Betrunkene</a> im übrigen auch nicht."
-    },
-    {
-      "name": "HTML5 soll 2014 fertiger Webstandard sein",
-      "href": "http://dev.w3.org/html5/decision-policy/html5-2014-plan.html",
-      "time": "00:16:00",
-      "description": "<a href=\"http://dev.w3.org/html5/decision-policy/html5-2014-plan.html\">So plant es jedenfalls das W3C</a>. Wir sind uns weder sicher, ob das ein realistisches Ziel ist, noch ob das so besonders wichtig wäre. Peter holt auch nochmal den Erklärbären raus und erzählt vom Unterschied zwischen HTML5 und HTML&nbsp;5.0 und der etwas <a href=\"https://raw.github.com/SirPepe/SpecGraph/master/graph_w.png\">unübersichtlichen Lage um HTML5 allgemein.</a>"
-    },
-    {
-      "name": "Code Smells in CSS",
-      "href": "http://csswizardry.com/2012/11/code-smells-in-css/",
-      "time": "00:32:50",
-      "description": "Harry Roberts schreibt über Anzeichen von schlechtem CSS-Code. Wir gehen mit seiner Sammlung weitgehend d&#8217;accord und faseln ein wenig über CSS-Stil sowie die Historie der Stylesheets."
-    }
-  ],
   "news": [
     {
-      "name": "Firefox 17",
+      "title": "Firefox 17",
       "href": "http://www.mozilla.org/en-US/firefox/17.0/releasenotes/",
       "time": "00:00:19",
       "description": "Für Nerds interessant: iterierbare Maps und Sets, Sandbox-Attribut für Iframes und diverse Devtool-Updates"
     },
     {
-      "name": "Updates zu Chrome und anderen",
+      "title": "Updates zu Chrome und anderen",
       "href": "https://plus.google.com/+GoogleChromeDevelopers/posts/Vjv26hBFte3",
       "time": "00:00:19",
       "description": "Überblick über Neues aus der Browserwelt"
     }
   ],
+  "topics": [
+    {
+      "title": "IE10 for Win7",
+      "href": "http://windows.microsoft.com/en-US/internet-explorer/downloads/ie-10/worldwide-languages",
+      "time": "00:01:48",
+      "description": "Schepp hat sich den IE10 genauer angesehen und zürnt furchtbar. Für seinen <a href=\"https://github.com/Schepp/CSS-Filters-Polyfill\">Filter-Polyfill</a> erforschte er, ob die klassischen IE-Filter noch in Version&nbsp;10 funktionieren und kommt zu keinem klaren Ergebnis. Wir verfluchen die „Kompatibilitäts“modi der diversen Internet Explorer und finden die Oberfläche von Windows&nbsp;8 nicht so toll. <a href=\"http://techcrunch.com/2012/11/19/i-got-one-but-i-dont-get-it/\">TechCrunch</a> und <a href=\"http://www.youtube.com/watch?v=4cMVKW-fR1M&amp;feature=player_embedded\">Betrunkene</a> im übrigen auch nicht."
+    },
+    {
+      "title": "HTML5 soll 2014 fertiger Webstandard sein",
+      "href": "http://dev.w3.org/html5/decision-policy/html5-2014-plan.html",
+      "time": "00:16:00",
+      "description": "<a href=\"http://dev.w3.org/html5/decision-policy/html5-2014-plan.html\">So plant es jedenfalls das W3C</a>. Wir sind uns weder sicher, ob das ein realistisches Ziel ist, noch ob das so besonders wichtig wäre. Peter holt auch nochmal den Erklärbären raus und erzählt vom Unterschied zwischen HTML5 und HTML&nbsp;5.0 und der etwas <a href=\"https://raw.github.com/SirPepe/SpecGraph/master/graph_w.png\">unübersichtlichen Lage um HTML5 allgemein.</a>"
+    },
+    {
+      "title": "Code Smells in CSS",
+      "href": "http://csswizardry.com/2012/11/code-smells-in-css/",
+      "time": "00:32:50",
+      "description": "Harry Roberts schreibt über Anzeichen von schlechtem CSS-Code. Wir gehen mit seiner Sammlung weitgehend d&#8217;accord und faseln ein wenig über CSS-Stil sowie die Historie der Stylesheets."
+    }
+  ],
   "links": [
     {
-      "name": "Aardwolf",
+      "title": "Aardwolf",
       "href": "http://lexandera.com/aardwolf/",
       "time": "00:54:32",
       "description": "Ambitionierter JavaScript-Debugger für alle Mobile-Browser."
     },
     {
-      "name": "How to Build a Service that Supports EVERY Android Browser",
+      "title": "How to Build a Service that Supports EVERY Android Browser",
       "href": "http://www.kinvey.com/blog/107/how-to-build-a-service-that-supports-every-android-browser",
       "time": "00:54:32",
       "description": "Fixes für mehrere Bugs im Standard-Browser von Android."
     },
     {
-      "name": "jQuery Builder",
+      "title": "jQuery Builder",
       "href": "http://projects.jga.me/jquery-builder/",
       "time": "00:54:32",
       "description": "Einen eigenen jQuery-Build einfach zusammenklicken."
     },
     {
-      "name": "Worauf es beim Einsatz reaktionsfähiger Typografie ankommt",
+      "title": "Worauf es beim Einsatz reaktionsfähiger Typografie ankommt",
       "href": "http://t3n.de/magazin/responsive-webdesign-reaktionsfahige-typografie-230315/",
       "time": "00:54:32",
       "description": "Christoph Zillgens beleuchtet einen wichtigen Teilaspekt von Responsive Design in epischer Breite."
     },
     {
-      "name": "duri.me und Spritebaker",
+      "title": "duri.me und Spritebaker",
       "href": "http://duri.me/",
       "time": "00:54:32",
       "description": "Zwei Tools zum inlinen von Ressourcen in Stylesheets. Spritebaker schluckt ganze CSS-Dateien, duri.me einzelne Bilder."
     },
     {
-      "name": "Chrome Devtools Cheatsheet",
+      "title": "Chrome Devtools Cheatsheet",
       "href": "http://anti-code.com/devtools-cheatsheet/",
       "time": "00:54:32",
       "description": "Wer denkt, er würde alle Devtool-Features kennen, kann sich mit diesem Cheat Sheet vom Gegenteil überzeugen."
     },
     {
-      "name": "Blue Beanie Day is coming – get your Beanie on!",
+      "title": "Blue Beanie Day is coming – get your Beanie on!",
       "href": "http://klick-ass.com/swag/blue-beanie-day-is-coming-get-your-beanie-on/",
       "time": "00:54:32",
       "description": "Blaue Hüte für lau abzugreifen."

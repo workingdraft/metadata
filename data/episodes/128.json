@@ -48,53 +48,53 @@
   "audio": "http://workingdraft.de/podpress_trac/web/2014/0/wd-128.mp3",
   "title": "CoffeeScript, mobile Apps, Gewinne",
   "description": "Getreu dem Motto „Viel Feind, viel Ehr‘“ luden sich Stefan, Peter und Rodney mit <a href=\"https://twitter.com/thedeftone\">Jan Monschke</a> und <a href=\"https://twitter.com/sippndipp\">Sebastian Deutsch</a> gleich zwei Gäste ein, die in der Debatte rund um CoffeeScript ordentlich Gas gaben. Das Glückrad entfiel aus Zeitgründen, dafür wurden die Gewinner des Gewinnspiels aus Revision 127 gezogen.",
+  "news": [
+    {
+      "title": "Audio-APIs landen im Firefox",
+      "time": "00:00:10",
+      "description": "Firefox Nightly <a href=\"https://twitter.com/FirefoxNightly/status/354246401363951616\">kann jetzt Audio aufnehmen</a> und <a href=\"https://hacks.mozilla.org/2013/07/web-audio-api-comes-to-firefox/\">hat auch die Web Audio API drauf</a>. <a href=\"http://www.youtube.com/watch?v=PN8Eg1K9xjE\">Damit kann man schöne Sachen machen!</a>"
+    }
+  ],
   "topics": [
     {
-      "name": "The Battle of CoffeeScript Hill",
+      "title": "The Battle of CoffeeScript Hill",
       "time": "00:00:36",
       "description": "Wir streiten ausführlich über <a href=\"http://coffeescript.org/\">CoffeeScript</a> und andere Zu-JS-Kompilier-Sprachen. Sebastian erklärt, dass die Haupteinflüsse von CoffeeScript <a href=\"http://de.wikipedia.org/wiki/Ruby_(Programmiersprache)\">Ruby</a> und <a href=\"http://de.wikipedia.org/wiki/Python_(Programmiersprache)\">Python</a> sind, was in einer Syntax resultiert, die Rodney nicht besonders schätzt. Ihn stört außerdem, dass zusätzliche Tools die Toolchain länger machen und dass nicht ganz so fitte Entwickler con CS zu sehr gefordert werden könnten. Sebastian hält dem entgegen, dass Vorgaben wie <a href=\"http://coffeescript.org/#classes\">das Klassensystem in CoffeeScript</a> weniger fitten Leuten das Leben eher leichter machen. Peter mokiert weitere syntaktische Details, während Rodney <a href=\"https://github.com/gre/slider.js/blob/master/slider.coffee#L78-L88\">einen Codeschnipsel ausgäbt</a>, der genau so detailliert debattiert wird, wie <a href=\"https://gist.github.com/sebastiandeutsch/6002323\">das von Sebastian erstellte Positivbeispiel</a>. Im Schlussplädoyer führt Rodney an, dass es unhöflich und ggf. nachteilig ist, Libraries in einer so unüblichen Sprache zu schreiben, da es andere von Contributions abhalten kann."
     },
     {
-      "name": "Why mobile web-apps are slow",
+      "title": "Why mobile web-apps are slow",
       "href": "http://sealedabstract.com/rants/why-mobile-web-apps-are-slow/",
       "time": "00:50:48",
       "description": "Ein ausgewachsener Brachiosaurus von einem Artikel legt dar, warum mobile Webapps heutztage so lahmen und macht wenig Hofflung auf Besserung. Der <a href=\"http://de.wikipedia.org/wiki/Just-in-time-Kompilierung\">JIT-Compiler</a> von JavaScript wird als der Flaschenhals ausgemacht, der auf mobile alles 8 &#8211; 32&times; langsamer macht. Warum man sich nicht einfach zurücklehnen und <a lang=\"en\" href=\"http://de.wikipedia.org/wiki/Mooresches_Gesetz\">Moore&#8217;s law</a> die Arbeit machen lassen kann, wird nicht ganz klar. Hans erinnert an <a href=\"http://www.sencha.com/blog/the-making-of-fastbook-an-html5-love-story\">Senchas HTML5-Facebook-App</a>, die, da mit Fachkenntnis gebaut, schöm schnell war. Dass man JavaScript nebst JIT im Browser wird ersetzen können, zweifelt Peter an."
     },
     {
-      "name": "Modular HTML components with RequireJS",
+      "title": "Modular HTML components with RequireJS",
       "href": "http://simonsmith.io/modular-html-components-with-requirejs/",
       "time": "01:10:36",
       "description": "Der Artikel beschreibt, wie man <a href=\"http://requirejs.org/\">RequireJS</a> für Multi-Page-Apps nutzen sollte. Rodney kennt diese Technik aus aus eigener Erfahrung und berichtet vom Praxiseinsatz. Detailliertere Ausführungen und <a href=\"https://plus.google.com/+JonathanBeri/posts/T1sXXeQqh1y\">Gegenvorschläge</a> entfallen wegen akutem Zeitmangel."
     }
   ],
-  "news": [
-    {
-      "name": "Audio-APIs landen im Firefox",
-      "time": "00:00:10",
-      "description": "Firefox Nightly <a href=\"https://twitter.com/FirefoxNightly/status/354246401363951616\">kann jetzt Audio aufnehmen</a> und <a href=\"https://hacks.mozilla.org/2013/07/web-audio-api-comes-to-firefox/\">hat auch die Web Audio API drauf</a>. <a href=\"http://www.youtube.com/watch?v=PN8Eg1K9xjE\">Damit kann man schöne Sachen machen!</a>"
-    }
-  ],
   "links": [
     {
-      "name": "Sublime Worksheet",
+      "title": "Sublime Worksheet",
       "href": "https://github.com/jcartledge/sublime-worksheet",
       "time": "01:14:18",
       "description": "Sublime Text als REPL. Super für schnelle Experimente und Demos."
     },
     {
-      "name": "Grunt: LiveReload reloaded",
+      "title": "Grunt: LiveReload reloaded",
       "href": "http://yellowled.de/archiv/43/Grunt-LiveReload-reloaded.html",
       "time": "01:14:18",
       "description": "Wie man die neuesten Inkomptibilitäts-Klippen im Grunt-Ökosystem umschifft."
     },
     {
-      "name": "Animating lists with CSS 3 transitions",
+      "title": "Animating lists with CSS 3 transitions",
       "href": "http://blog.stevensanderson.com/2013/03/15/animating-lists-with-css-3-transitions/",
       "time": "01:14:18",
       "description": "Was iOS kann, kann das Web schon lange!"
     },
     {
-      "name": "Devs Meetup in Freiburg: Funktionale Programmierung",
+      "title": "Devs Meetup in Freiburg: Funktionale Programmierung",
       "href": "http://devsmeetup.de/",
       "time": "01:14:18",
       "description": "Hans lädt wieder alle Web-Nerds aus Freiburg und Umgebung ein."

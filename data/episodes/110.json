@@ -33,71 +33,71 @@
   "audio": "http://workingdraft.de/podpress_trac/web/1838/0/wd-110.mp3",
   "title": "Rendering Performance",
   "description": "Peter, Hans und Rod diskutieren Rendering Performance auf mobilen Geräten. Wie finden wir die Engpässe, was lässt sich ohne Verluste beheben und wo möchte man freiwillig Abstriche machen? Eine sehr exakte Wissenschaft, wir liefern Fakten Fakten Fakten!",
-  "topics": [
-    {
-      "name": "Mobile Browser Performance",
-      "time": "00:01:56",
-      "description": "Wir diskutieren über Performance &#8211; ausgelöst von den Artikeln <a href=\"http://aerotwist.com/blog/on-translate3d-and-layer-creation-hacks/\">On Translate3D</a> und <a href=\"http://blog.tumult.com/2013/02/28/transform-translate-vs-top-left/\">Myth busting the HTML5 performance of transform:translate vs. top/left</a>. Einen sehr netten Einstieg in das Thema Transforms bietet das Tutorial <a href=\"http://docs.webplatform.org/wiki/tutorials/css_transforms\">Manipulating content with CSS3 transforms</a>."
-    }
-  ],
   "news": [
     {
-      "name": "Internet Explorer 10 auf Windows 7",
+      "title": "Internet Explorer 10 auf Windows 7",
       "href": "http://blogs.msdn.com/b/ie/archive/2013/02/26/ie10-for-windows-7-globally-available-for-consumers-and-businesses.aspx",
       "time": "00:00:11",
       "description": "Der IE10 ist jetzt für Windows 7 zum <a href=\"http://windows.microsoft.com/en-us/internet-explorer/downloads/ie-10/worldwide-languages?woldogcb=0\">Download</a> verfügbar. Wer sich mit dem neusten Trident noch nicht auseinandergesetzt hat, möchte dies <em>jetzt</em> nachholen."
     },
     {
-      "name": "Intrinsic Dimensions",
+      "title": "Intrinsic Dimensions",
       "href": "http://dev.w3.org/csswg/css3-box/#the-width-and-height-properties",
       "time": "00:00:11",
       "description": "Wer schon immer mal ein <code>&lt;div&gt;</code> auf die Größe seines Inhaltes anpassen wollte, wird sich jetzt in Firefox und Chrome an <code>width: fit-content;</code> erfreuen."
     },
     {
-      "name": "jQuery 2.0 beta2",
+      "title": "jQuery 2.0 beta2",
       "href": "http://blog.jquery.com/2013/03/01/jquery-2-0-beta-2-released/",
       "time": "00:00:11",
       "description": "Der nächste Kandidat ist da &#8211; wieder heisst es: Testet eure Plugins und Seiten."
     },
     {
-      "name": "CoffeeScript 1.6.1",
+      "title": "CoffeeScript 1.6.1",
       "href": "http://coffeescript.org/",
       "time": "00:00:11",
       "description": "Jetzt auch mit <a href=\"http://coffeescript.org/#source-maps\">Source Maps</a> (Achtung: 1.6.0 ist kaputt)"
     }
   ],
+  "topics": [
+    {
+      "title": "Mobile Browser Performance",
+      "time": "00:01:56",
+      "description": "Wir diskutieren über Performance &#8211; ausgelöst von den Artikeln <a href=\"http://aerotwist.com/blog/on-translate3d-and-layer-creation-hacks/\">On Translate3D</a> und <a href=\"http://blog.tumult.com/2013/02/28/transform-translate-vs-top-left/\">Myth busting the HTML5 performance of transform:translate vs. top/left</a>. Einen sehr netten Einstieg in das Thema Transforms bietet das Tutorial <a href=\"http://docs.webplatform.org/wiki/tutorials/css_transforms\">Manipulating content with CSS3 transforms</a>."
+    }
+  ],
+  "randomSpec": [
+    {
+      "title": "autocomplete Attribut",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/multipage/association-of-controls-and-forms.html#attr-fe-autocomplete",
+      "time": "00:26:10",
+      "description": "… kann nützlich sein, aber auch für (falsche) Sicherheit missbraucht werden"
+    }
+  ],
   "links": [
     {
-      "name": "grunt-devtools",
+      "title": "grunt-devtools",
       "href": "https://github.com/vladikoff/grunt-devtools",
       "time": "00:34:45",
       "description": "… integriert <a href=\"http://gruntjs.com/\">Grunts</a> Konsolenausgabe in die Google Chrome Developer Tools"
     },
     {
-      "name": "WebKit for Developers",
+      "title": "WebKit for Developers",
       "href": "http://paulirish.com/2013/webkit-for-developers/",
       "time": "00:34:45",
       "description": "… Paul erklärt uns was WebKit eigentlich ist und dass WebKit eben nicht gleich WebKit ist."
     },
     {
-      "name": "Full-text search in your browser",
+      "title": "Full-text search in your browser",
       "href": "http://blog.new-bamboo.co.uk/2013/02/26/full-text-search-in-your-browser",
       "time": "00:34:45",
       "description": "<a href=\"http://lunrjs.com/\">lunr.js</a> ist eine Feauture-bepackte Suchmaschine, die im Browser läuft."
     },
     {
-      "name": "Designing Better JavaScript APIs (Video)",
+      "title": "Designing Better JavaScript APIs (Video)",
       "href": "http://www.youtube.com/watch?v=53tdQeV_pOI",
       "time": "00:34:45",
       "description": "Rod erklärt uns hier in 20 Minuten, was <a href=\"http://coding.smashingmagazine.com/2012/10/09/designing-javascript-apis-usability/\">sein Artikel</a> in ausführlicherem Umfang liefert."
-    }
-  ],
-  "randomSpec": [
-    {
-      "name": "autocomplete Attribut",
-      "href": "http://www.whatwg.org/specs/web-apps/current-work/multipage/association-of-controls-and-forms.html#attr-fe-autocomplete",
-      "time": "00:26:10",
-      "description": "… kann nützlich sein, aber auch für (falsche) Sicherheit missbraucht werden"
     }
   ]
 }

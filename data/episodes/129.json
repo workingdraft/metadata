@@ -41,115 +41,115 @@
   "description": "Angesichts hoher Temperaturen und eines niedrigen Themenlisten-Pegels nahmen sich Hans, Schepp und Peter <a href=\"http://workingdraft.de/127/#comments\">Themenwünsche der Leser aus Revision 127</a> zur Brust. Obwohl wir jedem Thema nicht mehr als 5 Minuten gewidmet haben, hat die Zeit nicht für alle Fragen gereicht, aber die kommen dann eben nächstes Mal dran. Falls ihr noch weitere Themenwünsche habt, ab damit in die Kommentare.",
   "topics": [
     {
-      "name": "Keygen-Element",
+      "title": "Keygen-Element",
       "href": "http://www.whatwg.org/specs/web-apps/current-work/multipage/the-button-element.html#the-keygen-element",
       "time": "00:00:40",
       "description": "Peter rät von der Benutzung ab, da Implementierungsdetails noch unklar sind. Schepp und Hans haben das Element auch noch nie in freier Wildbahn gesehen. Außerdem klärt Peter darüber auf, dass eine Technologie schon mit nur zwei unabhängigen Implementierungen zum Webstandard erhoben werden kann."
     },
     {
-      "name": "WebGL",
+      "title": "WebGL",
       "href": "http://de.wikipedia.org/wiki/WebGL",
       "time": "00:04:43",
       "description": "Wir finden super, dass der IE 11 WebGL können wird, haben es aber selbst nie in irgendwelchen Projekten eingesetzt. Einigkeit herrscht darüber, dass man im Bedarfsfall Libraries benutzen sollte, insbesondere <a href=\"http://threejs.org/\">Three.js</a>."
     },
     {
-      "name": "Application Cache",
+      "title": "Application Cache",
       "href": "http://www.whatwg.org/specs/web-apps/current-work/multipage/offline.html#offline",
       "time": "00:06:57",
       "description": "Wir linkschleudern die erklärenden Werke von <a href=\"http://vimeo.com/43336762\">Jake Archibald</a> und <a href=\"http://www.youtube.com/watch?v=RrGo1Sz4IgQ\">Andrew Betts</a> (FT) und lobpreisen den Manifest-Generator von <a href=\"https://github.com/yeoman/yeoman\">Yeoman</a> sowie das Bookmarklet <a href=\"http://westciv.com/tools/manifestR/\">manifestR</a>."
     },
     {
-      "name": "Frameworks wie Bootstrap, Foundation, Boilerplates und deren Zukunftssicherheit",
+      "title": "Frameworks wie Bootstrap, Foundation, Boilerplates und deren Zukunftssicherheit",
       "href": "http://twitter.github.io/bootstrap/",
       "time": "00:11:55",
       "description": "Hans würde solche Frameworks zum Prototyping nutzen, steht ansonsten aber eher auf Handarbeit. Peter erklärt, was Bootstrap und Ikea gemeinsam haben. Major-Updates sollte man nicht mitmachen (außer bei <a href=\"http://html5boilerplate.com/\">HTML5 Boilerplate</a>)."
     },
     {
-      "name": "CSS Grid Systems",
+      "title": "CSS Grid Systems",
       "time": "00:17:25",
       "description": "Peter und Schepp haben sowas nie genutzt, Schepp höchstens mal <a href=\"http://www.yaml.de/\">YAML</a>. Beide suchen die Schuld dafür bei Designern, die nicht in Grids denken. Der große Hinderungsgrund für Hans war früher mobile, was mit Sass aber kein Problem mehr darstellt."
     },
     {
-      "name": "WebRTC",
+      "title": "WebRTC",
       "href": "http://www.webrtc.org/",
       "time": "00:20:30",
       "description": "Schepp ist die Technologien noch zu neu und er sieht in seiner Realität auch keine Use Cases. Peter ist für die Zukunft sogar noch leicht skeptisch."
     },
     {
-      "name": "Schriftgrößen: px, %, em oder rem?",
+      "title": "Schriftgrößen: px, %, em oder rem?",
       "time": "00:00:00",
       "description": "Wir erklären und empfehlen rem. Allen IE-Opfern empfehlen wir eins der zahlreichen rem-Mixins für die verbreiteten Präprozessoren."
     },
     {
-      "name": "Wie strukturiert man CSS-Dateien?",
+      "title": "Wie strukturiert man CSS-Dateien?",
       "time": "00:27:12",
       "description": "Hans erklärt sein Vorgehen: Seitenbausteine werden komponentenweise modularisier. Es gibt keine globalen Breakpoints, sondern nur komponentenweise vergebene. Peter macht es genau so, baut aber (Präprozessoren sei dank) gerne auch seine Media Queries in die Selektoren selbst ein, was bei Hans Bloat-Befürchtungen schürt."
     },
     {
-      "name": "(Responsive) Wireframes? Wenn ja, wie?",
+      "title": "(Responsive) Wireframes? Wenn ja, wie?",
       "time": "00:32:17",
       "description": "Peter war früher immer nur Designer-Sklave und hat nie viel mit Wireframes gemacht, Hans schon. Schepp ebenfalls, aber nicht responsive (obwohl er das für sinnvoll hielte). <a href=\"http://html.adobe.com/edge/reflow/\">Adobe Edge Reflow</a> und <a href=\"http://balsamiq.com/\">Balsamiq</a> werden als (teilweise) relevante Tools genannt"
     },
     {
-      "name": "JS-MVC-Frameworks: Warum? Welche?",
+      "title": "JS-MVC-Frameworks: Warum? Welche?",
       "time": "00:34:44",
       "description": "Peter gibt sich für seine Zwecke mit <a href=\"http://knockoutjs.com/\">Knockout</a> zufrieden, während Hans bisher <a href=\"http://backbonejs.org/\">Backbone</a> und <a href=\"http://emberjs.com/\">Ember</a> im Einsatz hatte. Schepp hat ein Auge auf <a href=\"http://angularjs.org/\">Angular</a> geworfen."
     },
     {
-      "name": "Warum wird #a11y selten beachtet? Was ist diesbezüglich neu in HTML5?",
+      "title": "Warum wird #a11y selten beachtet? Was ist diesbezüglich neu in HTML5?",
       "time": "00:37:14",
       "description": "Peter erklärt was neu in HTML5 ist. Hans führt das desinteresse auf fehlende Nachfrage zurück, und Schepp hält das Thema für unsexy. Peter fordert bessere Artikel und glaubt dass die helfen würden."
     },
     {
-      "name": "Server-Sent Events",
+      "title": "Server-Sent Events",
       "href": "http://www.w3.org/TR/eventsource/",
       "time": "00:42:21",
       "description": "Wir erklären nochmal kurz das Konzept und verweisen ansonsten auf <a href=\"http://workingdraft.de/112/\">Revision 112</a>."
     },
     {
-      "name": "HTML5 Drag & Drop",
+      "title": "HTML5 Drag & Drop",
       "href": "http://www.whatwg.org/specs/web-apps/current-work/multipage/dnd.html#dnd",
       "time": "00:45:18",
       "description": "Peter berichtet, wann man man dieses neu-alte HTML5-Feature einsetzen sollte und wann nicht und zieht Parallelen zwischen HTML5 und der <a href=\"http://de.wikipedia.org/wiki/Neptun_(Planet)#Entdeckung.2FBenennung\">Entdeckung des Planeten Neptun.</a>"
     },
     {
-      "name": "Welche Hardware zum Entwickeln benutzen?",
+      "title": "Welche Hardware zum Entwickeln benutzen?",
       "time": "00:50:26",
       "description": "Wir zählen unsere Keyboards, Mäuse und sonstige Hardware auf. Peter steht auf viele Monitore und Kabelfreiheit, der Rest nicht so sehr."
     },
     {
-      "name": "Geolocation",
+      "title": "Geolocation",
       "href": "http://www.w3.org/TR/geolocation-API/",
       "time": "00:55:34",
       "description": "Schepp und Peter ranten über vergangene und gegenwärtige Probleme mit Geolocation im Firefox (was niemanden grundsätzlich von der Benutzung der API abhalten sollte)."
     },
     {
-      "name": "Device APIs",
+      "title": "Device APIs",
       "time": "00:59:59",
       "description": "Peter erzählt, was gerade im Mobile Firefox <a href=\"https://wiki.mozilla.org/WebAPI#APIs\">alles möglich und geplant ist</a>. Eine bessere Unterstützung für <a href=\"http://www.w3.org/TR/notifications/\">Web Notifications</a> wird in allen Browsern gewünscht."
     }
   ],
   "links": [
     {
-      "name": "Evaluating the Performance of SPDY-enabled Web Servers",
+      "title": "Evaluating the Performance of SPDY-enabled Web Servers",
       "href": "http://www.neotys.com/blog/performance-of-spdy-enabled-web-servers/",
       "time": "01:04:22",
       "description": "SPDY ist schneller <em>und</em> schont die Server-Hardware!"
     },
     {
-      "name": "CSS Day Coverage – Videos und Slides sind komplett",
+      "title": "CSS Day Coverage – Videos und Slides sind komplett",
       "href": "http://cssday.nl/coverage",
       "time": "01:04:22",
       "description": "Falls ihr die nächsten paar Monate nichts vorhabt, hier Material zum Ausfüllen dieser Zeit."
     },
     {
-      "name": "AngularJS Fundamentals In 60-ish Minutes – YouTube",
+      "title": "AngularJS Fundamentals In 60-ish Minutes – YouTube",
       "href": "http://www.youtube.com/watch?v=i9MHigUZKEM",
       "time": "01:04:22",
       "description": "Tolles Thema, tolle Stimme."
     },
     {
-      "name": "Looking Into the Future of Sass",
+      "title": "Looking Into the Future of Sass",
       "href": "http://davidwalsh.name/future-sass",
       "time": "01:04:22",
       "description": "Einblick in Planungen zu Sass 3.3."

@@ -30,31 +30,31 @@
   "description": "Zu Gast war diese Woche <a href=\"http://anselm-hannemann.com/\">Anselm Hannemann</a>, den wir mit seinem Fachwissen gerne <a href=\"http://workingdraft.de/36/\">wieder eingeladen</a> haben. Außerdem waren der Schepp und Hans mit von der Partie.",
   "topics": [
     {
-      "name": "Quota Management API",
+      "title": "Quota Management API",
       "href": "http://dvcs.w3.org/hg/quota/raw-file/tip/Overview.html",
       "time": "00:00:00",
       "description": "Wenn man mit client-seitigem Speicher experimentiert (localStorage, IndexedDB, File API) ist es schwierig abzuschätzen, wann der Speicher eines Geräts erschöpft ist. Dafür gibt es die neue Quota Management API, die genau dieses Problem lösen soll."
     },
     {
-      "name": "CSS Compositing & Blending",
+      "title": "CSS Compositing & Blending",
       "href": "http://adobe.github.com/web-platform/demos/compositing/",
       "time": "00:00:00",
       "description": "Adobe veröffentlicht die neusten Spielereien, die sie sich ausgedacht haben. Dazu gehören das Composing und das Blending, die aus Photoshop, Illustrator und anderer Adobe Software bekannt sind. Für <a href=\"http://dev.w3.org/SVG/modules/compositing/publish/\">SVG gibt es diese Effekte bereits</a>, nun also auch für CSS. Wir finden diese Entwicklungen super; nach Flash erkennt Adobe worauf es im Web ankommt!"
     },
     {
-      "name": "CORS: Louis Rémi reicht’s nicht",
+      "title": "CORS: Louis Rémi reicht’s nicht",
       "href": "http://louisremi.com/2011/12/06/cors-an-insufficient-solution-for-same-origin-restrictions/",
       "time": "00:00:00",
       "description": "Möchte man asynchron Abfragen zwischen verschiedenen Domains absetzten, ist man aktuell ziemlich beschränkt. Dieses Problem soll durch <a href=\"http://www.w3.org/TR/cors/\">CORS</a> gelöst werden. Louis Rémi ist allerdings der Meinung, dass das nicht reicht, da Dienste wie Twitter oder Facebook ihre Schnittstellen noch nicht CORS-ready zur Verfügung stellen. Der Artikel erschien bereits Ende letzen Jahres."
     },
     {
-      "name": "Die Responsive Images Story",
+      "title": "Die Responsive Images Story",
       "href": "http://www.peterkroener.de/die-responsive-images-story/",
       "time": "00:00:00",
       "description": "<a href=\"https://twitter.com/#!/anselmhannemann\">Anselm</a> berichtet über die aktuelle Lage der Responsive Images. Von seinem <a href=\"http://lists.whatwg.org/htdig.cgi/whatwg-whatwg.org/2011-August/032977.html\">ersten Vorschlag auf der Mailinglist</a>, über die Entstehung der <a href=\"http://www.w3.org/community/respimg/\">W3C Community Group</a>, bis hin zu den <a href=\"http://www.alistapart.com/articles/responsive-images-and-web-standards-at-the-turning-point/\">jüngsten Kontroversen</a> gibt Anselm eine gute Übersicht. Wir sprechen außerdem drüber, was unsere Vorstellungen von Responsive Images sind und wie die W3C und die WHATWG ihre Arbeit machen."
     },
     {
-      "name": "Über die Smashing Conference",
+      "title": "Über die Smashing Conference",
       "href": "http://getkirby.com/blog/smashingconf",
       "time": "00:00:00",
       "description": "Die <a href=\"http://smashingconf.com/\">Smashing Conference</a> wird zum ersten mal in Freiburg abgehalten. Bastian Allgeier hat die Website für die Konferenz mit seinem file-basierten <a href=\"http://getkirby.com/\">CMS Kirby</a> gebaut und beschreibt wie. Wir sind große Fans von Kirby und unterstützen auch die Smashing Conference gerne. Wer mehr Infos zu Freiburg möchte, schreibt <a href=\"mailto:info@drublic.de\">Hans</a> gerne eine Mail."
@@ -62,31 +62,31 @@
   ],
   "links": [
     {
-      "name": "Adobe Brackets: An Introduction",
+      "title": "Adobe Brackets: An Introduction",
       "href": "http://www.youtube.com/watch?v=xirIHMtpc4c&feature=youtu.be",
       "time": "00:00:00",
       "description": "Eine Einführung in Adobes Open Source Code Editor, der für Front-end Entwickler gemacht wird. Das Projekt ist <a href=\"https://github.com/adobe/brackets\">auf GitHub</a> und in HTML, CSS und JavaScript programmiert."
     },
     {
-      "name": "NUMBOO Magazin",
+      "title": "NUMBOO Magazin",
       "href": "http://magazin.numboo.de/03/deckblatt/",
       "time": "00:00:00",
       "description": "Das NUMBOO Magazin ist ein deutsches Magazin für Webdesign und Webentwicklung mit einigen interessanten Themen."
     },
     {
-      "name": "CSS Flexbox Carousel",
+      "title": "CSS Flexbox Carousel",
       "href": "http://www.andismith.com/blog/2012/05/css3-flexbox-carousel/",
       "time": "00:00:00",
       "description": "Andi Smith zeigt, wie man ein Carousel mit Flexbox bauen kann."
     },
     {
-      "name": "JavaScriptSQL",
+      "title": "JavaScriptSQL",
       "href": "http://javascriptsql.sourceforge.net/ARCH/en/index.html",
       "time": "00:00:00",
       "description": "Eine Datenbank-Engine komplett in JavaScript geschrieben."
     },
     {
-      "name": "Über fixe Positionierung und scrollen in iOS",
+      "title": "Über fixe Positionierung und scrollen in iOS",
       "href": "http://remysharp.com/2012/05/24/issues-with-position-fixed-scrolling-on-ios/",
       "time": "00:00:00",
       "description": "Remy Sharp geht auf die Probleme mit fix positionierten Elementen im zusammenwirken mit dem Scrollen auf iOS-Geräten ein und beschriebt die besten Lösungswege."

@@ -41,66 +41,66 @@
   "audio": "http://workingdraft.de/podpress_trac/web/1365/0/wd-80.mp3",
   "title": "X-Tag, Print Styles und IE-Basher bashen",
   "description": "Scheppman, Hans, Rodney und Kahlil trafen sich dieses mal wieder, um in illustrer Runde so zu tun, als hätten Sie eine Ahnung von Webentwicklung und so.",
+  "news": [
+    {
+      "title": "getUserMedia() ist in Firefox gelandet",
+      "href": "https://hacks.mozilla.org/2012/07/getusermedia-is-ready-to-roll/",
+      "time": "00:00:15"
+    }
+  ],
   "topics": [
     {
-      "name": "styles.max.css",
+      "title": "styles.max.css",
       "href": "http://daneden.me/max-css/",
       "time": "00:00:39",
       "description": "Daniel Eden schlägt vor, das CSS generell auch dekomprimiert auf dem Server bereit zu halten, damit Anfänger davon lernen können."
     },
     {
-      "name": "It’s time to stop blaming Internet Explorer",
+      "title": "It’s time to stop blaming Internet Explorer",
       "href": "http://www.nczonline.net/blog/2012/07/11/its-time-to-stop-blaming-internet-explorer/",
       "time": "00:12:40",
       "description": "Den Nicholas C. Zakas ermüdet das ewige IE-Gebashe und wir stimmen in diesen Kanon mit ein."
     },
     {
-      "name": "box-decoration-break in Anmarsch",
+      "title": "box-decoration-break in Anmarsch",
       "href": "http://bricss.net/post/24672339016/box-decoration-break-finally-coming-to-more-browsers",
       "time": "00:22:06",
       "description": "So langsam kommt <a href=\"http://www.w3.org/TR/css3-background/#box-decoration-break\">box-decoration-break</a> in die Browser. Der Schepp und Rodney sinnieren über die Sinnhaftigkeit des Propertys."
     },
     {
-      "name": "X-tag – reduce your html",
+      "title": "X-tag – reduce your html",
       "href": "http://weblog.latte.ca/blake/employment/mozilla/x-tags.html",
       "time": "00:40:22",
       "description": "Der Autor behilft sich mit JavaScript, um HTML-Code zu sparen. Wir sinnieren auch hier über die Sinnhaftigkeit dessen."
     }
   ],
-  "news": [
-    {
-      "name": "getUserMedia() ist in Firefox gelandet",
-      "href": "https://hacks.mozilla.org/2012/07/getusermedia-is-ready-to-roll/",
-      "time": "00:00:15"
-    }
-  ],
   "links": [
     {
-      "name": "Moqup",
+      "title": "Moqup",
       "href": "https://moqups.com/",
       "time": "00:49:48",
       "description": "Mockups mit HTML5."
     },
     {
-      "name": "Avoiding Faux Weights And Styles With Google Web Fonts",
+      "title": "Avoiding Faux Weights And Styles With Google Web Fonts",
       "href": "http://www.smashingmagazine.com/2012/07/11/avoiding-faux-weights-styles-google-web-fonts/",
       "time": "00:49:48",
       "description": "Ein Artikel über die richtige Einbindung von Google Web Fonts."
     },
     {
-      "name": "CSS Parser",
+      "title": "CSS Parser",
       "href": "http://www.xanthir.com/blog/b4Ju0",
       "time": "00:49:48",
       "description": "Ein CSS Parser aus JavaScript."
     },
     {
-      "name": "DailyJS: JS101: The Function Constructor",
+      "title": "DailyJS: JS101: The Function Constructor",
       "href": "http://dailyjs.com/2012/07/09/function-2/",
       "time": "00:49:48",
       "description": "DailyJS erzählt Euch mal was über den Function Constructor."
     },
     {
-      "name": "JSConf.US 2012 Videos",
+      "title": "JSConf.US 2012 Videos",
       "href": "http://2012.jsconf.us/",
       "time": "00:49:48",
       "description": "Die Vorträge von JSConf.US"

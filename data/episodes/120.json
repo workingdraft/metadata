@@ -24,79 +24,79 @@
   "audio": "http://workingdraft.de/podpress_trac/web/1942/0/wd-120.mp3",
   "title": "CSS Strukturieren, Sinn und Unsinn von Touchdetection, DRM",
   "description": "Christian und Hans besprachen diese Woche die Themen aus der Welt von CSS, Touch-Detection und verschlüsselten Medien.",
-  "topics": [
-    {
-      "name": "CSS is not an amoral monster",
-      "href": "http://undercaffeinated.tumblr.com/post/49878531442/css-is-not-an-amoral-monster",
-      "time": "00:00:52",
-      "description": "Ben Henick ist der Meinung, dass CSS für Websites gar nicht so komplex ist, wie man vielleicht annehmen mag, wenn man die richtigen Methoden anwendet. Wir diskutieren darüber, wie modulares CSS das Bauen von Websites und Apps erleichtern kann und worauf man achten sollte."
-    },
-    {
-      "name": "You Can’t Detect A Touchscreen",
-      "href": "http://www.stucox.com/blog/you-cant-detect-a-touchscreen/",
-      "time": "00:18:46",
-      "description": "Stu Cox weist darauf hin, dass es keine verlässliche Methode gibt, um Geräte zu kennen, die einen Touchscreen haben. Man kann lediglich erkennen, ob es die API für Touch-Gesten gibt, was aber nicht verlässlich ist. Aber braucht man die Information überhaupt? Und sollte man Websites nicht so bauen, dass sie für alle Eingabemethoden funktionieren?"
-    },
-    {
-      "name": "Encrypted Media Extensions",
-      "href": "http://www.golem.de/news/drm-fuers-web-w3c-treibt-entwicklung-der-encrypted-media-extensions-voran-1305-99173.html",
-      "time": "00:28:20",
-      "description": "Inhalte im Web zu schützen ist eine problematische Angelegenheit, da Medien per se erst einmal offen zugänglich sind und somit downloadbar. Oft wird versucht die Inhalte beispielsweise durch Flash zu schützen. Diese Methode ist allerdings proprietär. Das W3C versucht nun mit einer eigenen Spezifikation für verschlüsselte Medien eine standardisierte Methode fürs Web zu kreieren."
-    }
-  ],
   "news": [
     {
-      "name": "JPEGmini Windows App",
+      "title": "JPEGmini Windows App",
       "href": "http://www.jpegmini.com/windows",
       "time": "00:00:15",
       "description": "JPEGmini gibt es nun endlich auch als Windows App."
     }
   ],
+  "topics": [
+    {
+      "title": "CSS is not an amoral monster",
+      "href": "http://undercaffeinated.tumblr.com/post/49878531442/css-is-not-an-amoral-monster",
+      "time": "00:00:52",
+      "description": "Ben Henick ist der Meinung, dass CSS für Websites gar nicht so komplex ist, wie man vielleicht annehmen mag, wenn man die richtigen Methoden anwendet. Wir diskutieren darüber, wie modulares CSS das Bauen von Websites und Apps erleichtern kann und worauf man achten sollte."
+    },
+    {
+      "title": "You Can’t Detect A Touchscreen",
+      "href": "http://www.stucox.com/blog/you-cant-detect-a-touchscreen/",
+      "time": "00:18:46",
+      "description": "Stu Cox weist darauf hin, dass es keine verlässliche Methode gibt, um Geräte zu kennen, die einen Touchscreen haben. Man kann lediglich erkennen, ob es die API für Touch-Gesten gibt, was aber nicht verlässlich ist. Aber braucht man die Information überhaupt? Und sollte man Websites nicht so bauen, dass sie für alle Eingabemethoden funktionieren?"
+    },
+    {
+      "title": "Encrypted Media Extensions",
+      "href": "http://www.golem.de/news/drm-fuers-web-w3c-treibt-entwicklung-der-encrypted-media-extensions-voran-1305-99173.html",
+      "time": "00:28:20",
+      "description": "Inhalte im Web zu schützen ist eine problematische Angelegenheit, da Medien per se erst einmal offen zugänglich sind und somit downloadbar. Oft wird versucht die Inhalte beispielsweise durch Flash zu schützen. Diese Methode ist allerdings proprietär. Das W3C versucht nun mit einer eigenen Spezifikation für verschlüsselte Medien eine standardisierte Methode fürs Web zu kreieren."
+    }
+  ],
   "links": [
     {
-      "name": "AngularJS Buch / Tutorial",
+      "title": "AngularJS Buch / Tutorial",
       "href": "http://angularjs.de/buch/",
       "time": "00:41:39",
       "description": "Ein freies Buch über AngularJS, dass sich gerade noch in der Entwicklung befindet."
     },
     {
-      "name": "csste.st",
+      "title": "csste.st",
       "href": "http://csste.st/",
       "time": "00:41:39",
       "description": "Resources und Tools zum Thema CSS Tests."
     },
     {
-      "name": "How to markup sub-headings (now that <hgroup> is gone)",
+      "title": "How to markup sub-headings (now that <hgroup> is gone)",
       "href": "http://html5doctor.com/howto-subheadings/",
       "time": "00:41:39",
       "description": "Steve Faulkner beschreibt einige Methoden um Subheadlines mit den richtigen Tags zu verstehen."
     },
     {
-      "name": "Unicode Table",
+      "title": "Unicode Table",
       "href": "http://unicode-table.com/",
       "time": "00:41:39",
       "description": "Eine übersichtliche Tabelle der Unicode Zeichen zum einfachen Copy&#038;Paste."
     },
     {
-      "name": "Ghostlab",
+      "title": "Ghostlab",
       "href": "http://vanamco.com/ghostlab/",
       "time": "00:41:39",
       "description": "Ein weiteres Tool zum Debugging Cross-Browser und Cross-Device."
     },
     {
-      "name": "The :empty selector",
+      "title": "The :empty selector",
       "href": "http://demosthenes.info/blog/692/Vanishing-Acts-The-CSS-empty-Selector",
       "time": "00:41:39",
       "description": "Der CSS Selector :empty wird viel zu selten verwendet. Hier gibt es eine Einführung und eine Liste an Dingen, die man bei der Nutzung beachten sollte."
     },
     {
-      "name": "Zopfli",
+      "title": "Zopfli",
       "href": "https://plus.google.com/u/0/106697091536876736486/posts/ea4Sy8bwAoU",
       "time": "00:41:39",
       "description": "Mathias Bynens beschreibt den neuen Komprimierungsalgorithmus Zopfli und stellt Tools zur Nutzung vor."
     },
     {
-      "name": "Avoiding Unnecessary Paints",
+      "title": "Avoiding Unnecessary Paints",
       "href": "http://www.html5rocks.com/en/tutorials/speed/unnecessary-paints/",
       "time": "00:41:39",
       "description": "Wie man verhindert unnötige Repaints im Browser während des Scrollens verhindert, beschreibt Paul Lewis."

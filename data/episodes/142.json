@@ -42,38 +42,38 @@
   "description": "Es herrscht Saure-Gurken-Zeit und die Themenliste war gähnend leer. Zum Glück konnte die Hörerschaft Hans, Peter und Stefan mit zwei Fragen gerade noch davon abhalten, eine Null-Minuten-Revision zu fabrizieren.",
   "topics": [
     {
-      "name": "Hörerfrage: Wie nutzt ihr Webfonts?",
+      "title": "Hörerfrage: Wie nutzt ihr Webfonts?",
       "href": "https://twitter.com/malteriechmann/status/390883254984654848",
       "time": "00:00:14",
       "description": "Die Gretchenfrage spitzt sich auf die Entscheidung zwischen Fonthostern und Selfhosting zu. Hans macht gewzungenermaßen manche Projekte mit <a href=\"https://typekit.com/\">Typekit</a>, obwohl er die Einbußen an Kontrolle und Performance nicht schätzt. Stefan leidet sehr unter Lizenzproblemen, weil es viele Fonts entweder gar nicht als Webfonts oder nur mit Mondpreisen und schlimmen Lizenzbedingungen von <a href=\"http://www.fonts.com/de/web-fonts\">Fonts.com</a> gibt. Ersatz-Fonts sind da oft die beste Lösung. Für die Suche nach dem richtigen Font-Anbieter empfehlen wir <a href=\"http://webtypobuch.de/\">das Webtypobuch von Gerrit van Aaken</a>."
     },
     {
-      "name": "Hörerfrage: Mit welchen Entwicklungsumgebungen arbeitet ihr?",
+      "title": "Hörerfrage: Mit welchen Entwicklungsumgebungen arbeitet ihr?",
       "href": "https://twitter.com/bln42/status/391592494179180544",
       "time": "00:17:12",
       "description": "Wie fast die gesamte Web-Welt scheinen wir dem <a href=\"http://www.sublimetext.com/\">Sublime-Text</a>-Virus anheim gefallen zu sein. Der Editor ist schnell, schön, auf jeder Plattform verfügbar, preiswert und allgemein unsere erste Wahl. Einigkeit herrscht ebenfalls darüber, dass auf Platz zwei <a href=\"http://www.jetbrains.com/webstorm/\">WebStorm</a> zu verorten ist, was mehr eine IDE als ein Editor, aber ebenfalls sehr tauglich ist (jedenfalls verglichen mit <a href=\"http://aptana.com/\">Aptana</a>, über das Stefan und Peter Gruselgeschichten erzählen). Kein Gespräch über Sublime Text kommt ohne Plugin-, Theme- und Tricktipps aus uns so reden wir auch über <a href=\"http://emmet.io/\">Emmet</a> (Früher Zen Coding), das Multicursor-Feature, den Cloud-Sync-Tipp von Peter, <a href=\"http://ternjs.net/\">Tern</a>, <a href=\"https://github.com/spadgos/sublime-jsdocs\">DocBlockr</a>, <a href=\"https://github.com/SublimeText/Origami\">Origami</a>, <a href=\"https://github.com/gornostal/Modific\">Modific</a>, <a href=\"http://www.jshint.com/\">JSHint</a> und andere <a href=\"https://github.com/SublimeLinter/SublimeLinter\">Linter für ST</a>, <a href=\"http://editorconfig.org/\">EditorConfig</a> (und das <a href=\"https://github.com/sindresorhus/editorconfig-sublime\">ST-Plugin</a>) sowie <a href=\"https://github.com/buymeasoda/soda-theme/\">das Soda-Theme</a>."
     }
   ],
+  "randomSpec": [
+    {
+      "title": "Standardstyles für Elemente",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/#the-css-user-agent-style-sheet-and-presentational-hints",
+      "time": "00:46:00",
+      "description": "Trotzdem die HTML5-Specs vorschreiben, wie Elemente standardmäßig auszusehen haben, reden wir trotzdem über <a href=\"http://meyerweb.com/eric/tools/css/reset/\">Reset-Stylesheets</a>, <a href=\"http://necolas.github.io/normalize.css/\">normalize.css</a>, <a href=\"http://html5boilerplate.com/\">HTML5 Boilerplate</a>, <a href=\"https://github.com/drublic/init\">Init</a> und das <a href=\"http://www.whatwg.org/specs/web-apps/current-work/#text-(type=text)-state-and-search-state-(type=search)\">Search-Input</a>."
+    }
+  ],
   "links": [
     {
-      "name": "SirPepe/Unsync",
+      "title": "SirPepe/Unsync",
       "href": "https://github.com/SirPepe/Unsync",
       "time": "00:55:40",
       "description": "Kleine JS-Library von Peter."
     },
     {
-      "name": "learn-travis",
+      "title": "learn-travis",
       "href": "https://github.com/nelsonic/learn-travis",
       "time": "00:55:40",
       "description": "Ein reich bebildertes Travis-Tutorial."
-    }
-  ],
-  "randomSpec": [
-    {
-      "name": "Standardstyles für Elemente",
-      "href": "http://www.whatwg.org/specs/web-apps/current-work/#the-css-user-agent-style-sheet-and-presentational-hints",
-      "time": "00:46:00",
-      "description": "Trotzdem die HTML5-Specs vorschreiben, wie Elemente standardmäßig auszusehen haben, reden wir trotzdem über <a href=\"http://meyerweb.com/eric/tools/css/reset/\">Reset-Stylesheets</a>, <a href=\"http://necolas.github.io/normalize.css/\">normalize.css</a>, <a href=\"http://html5boilerplate.com/\">HTML5 Boilerplate</a>, <a href=\"https://github.com/drublic/init\">Init</a> und das <a href=\"http://www.whatwg.org/specs/web-apps/current-work/#text-(type=text)-state-and-search-state-(type=search)\">Search-Input</a>."
     }
   ]
 }

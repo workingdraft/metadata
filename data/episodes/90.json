@@ -29,85 +29,85 @@
   "audio": "http://workingdraft.de/podpress_trac/web/1528/0/wd-90.mp3",
   "title": ".mobi-Gate, Persona und TypeScript",
   "description": "Während alle anderen auf tollen Konferenzen rumturnen, trümmerten <a href=\"http://twitter.com/asciidisco\">Sebastian</a>, <a href=\"http://twitter.com/anselmhannemann\">Anselm</a>, <a href=\"http://twitter.com/fhemberger\">Frederic</a> und Peter eine weitere Revision eures Lieblingspodcasts ein. Extradicker Dank geht an Schepp, der die total mißratene Tonspur noch einigermaßen gerettet hat.",
-  "topics": [
-    {
-      "name": "Safari for iPhone ignores viewport settings on .mobi domains",
-      "href": "http://www.davidroessli.com/logs/2010/04/safari_ignores_viewport_mobi_domains/",
-      "time": "00:01:51",
-      "description": "Unfasslich aber <a href=\"https://bugs.webkit.org/show_bug.cgi?id=97556\">wahr</a>: je nach TLD (!) macht der mobile Safari mal dieses, mal jenes. Das war allerdings nicht der größte Smartphone-Hersteller-Fail dieser Woche&nbsp;&hellip;"
-    },
-    {
-      "name": "Schwere Sicherheitslücke bei Samsung",
-      "href": "http://winfuture.de/news,72182.html",
-      "time": "00:13:34",
-      "description": "Mithilfe eines Iframes (ihr seht, es hat etwas mit Webentwicklung zu tun!) kann man Samsung-Telefone bricken. Nachdem man vor lachen wieder Luft bekommt, sollte man eine Fix-App <a href=\"https://play.google.com/store/apps/details?id=net.gicode.android.autoresetblocker\">wie diese</a> installieren um sich abzusichern. Mit einem Hersteller-Update ist nicht zu rechnen, denn das würde bedeuten, dass Smartphones vollwertige Computer sind und das wollen <em>SIE</em> eigentlich gar nicht. Die Aluhüte Frederic und Peter verweisen auf den <a href=\"https://www.youtube.com/watch?v=HUEvRyemKSg&amp;feature=player_embedded\">war on general computation</a>."
-    },
-    {
-      "name": "Persona – BrowserID goes beta",
-      "href": "http://identity.mozilla.com/post/32395255498/announcing-the-first-beta-release-of-persona",
-      "time": "00:28:06",
-      "description": "BrowserID (nicht zu verwechseln mit dem ranzigen Theming-System) bietet einen <a href=\"http://www.golem.de/news/mozilla-persona-ein-login-fuers-ganze-web-1209-94804.html\">Login für das ganze Web</a>&nbsp;&hellip; so wie OpenID nur in benutzbar. Und Persona, <a href=\"https://developer.mozilla.org/en-US/docs/Persona/Glossary\">Mozillas Implementierung davon</a>, ist nun in der Beta-Phase. Besonders schön ist, dass eine Migration vom Jetzt-Zustand in die BrowserID-Welt möglich scheint, da das System ein überzeigendes Design hat. Finden wie gut!"
-    },
-    {
-      "name": "TypeScript",
-      "href": "http://www.typescriptlang.org/",
-      "time": "00:37:24",
-      "description": "TypeScript erschien erst wenige Stunden vor der Aufnahme der Sendung, aber ein bisschen oberflächlichen Spaß wollten wir und nicht nehmen lassen. Angeblich ist TS die Secret Sauce für <a href=\"http://blogs.msdn.com/b/somasegar/archive/2012/10/01/typescript-javascript-development-at-application-scale.aspx\">JavaScript Development at Application Scale</a>, aber wir ziehen eher kritische Vergleiche zu <a href=\"http://coffeescript.org/\">CoffeeScript</a> und <a href=\"http://roy.brianmckenna.org/\">Roy</a>."
-    }
-  ],
   "news": [
     {
-      "name": "Media Fragments URI",
+      "title": "Media Fragments URI",
       "href": "http://www.w3.org/TR/2012/REC-media-frags-20120925/",
       "time": "00:01:08",
       "description": "Habemnus Specs!"
     }
   ],
+  "topics": [
+    {
+      "title": "Safari for iPhone ignores viewport settings on .mobi domains",
+      "href": "http://www.davidroessli.com/logs/2010/04/safari_ignores_viewport_mobi_domains/",
+      "time": "00:01:51",
+      "description": "Unfasslich aber <a href=\"https://bugs.webkit.org/show_bug.cgi?id=97556\">wahr</a>: je nach TLD (!) macht der mobile Safari mal dieses, mal jenes. Das war allerdings nicht der größte Smartphone-Hersteller-Fail dieser Woche&nbsp;&hellip;"
+    },
+    {
+      "title": "Schwere Sicherheitslücke bei Samsung",
+      "href": "http://winfuture.de/news,72182.html",
+      "time": "00:13:34",
+      "description": "Mithilfe eines Iframes (ihr seht, es hat etwas mit Webentwicklung zu tun!) kann man Samsung-Telefone bricken. Nachdem man vor lachen wieder Luft bekommt, sollte man eine Fix-App <a href=\"https://play.google.com/store/apps/details?id=net.gicode.android.autoresetblocker\">wie diese</a> installieren um sich abzusichern. Mit einem Hersteller-Update ist nicht zu rechnen, denn das würde bedeuten, dass Smartphones vollwertige Computer sind und das wollen <em>SIE</em> eigentlich gar nicht. Die Aluhüte Frederic und Peter verweisen auf den <a href=\"https://www.youtube.com/watch?v=HUEvRyemKSg&amp;feature=player_embedded\">war on general computation</a>."
+    },
+    {
+      "title": "Persona – BrowserID goes beta",
+      "href": "http://identity.mozilla.com/post/32395255498/announcing-the-first-beta-release-of-persona",
+      "time": "00:28:06",
+      "description": "BrowserID (nicht zu verwechseln mit dem ranzigen Theming-System) bietet einen <a href=\"http://www.golem.de/news/mozilla-persona-ein-login-fuers-ganze-web-1209-94804.html\">Login für das ganze Web</a>&nbsp;&hellip; so wie OpenID nur in benutzbar. Und Persona, <a href=\"https://developer.mozilla.org/en-US/docs/Persona/Glossary\">Mozillas Implementierung davon</a>, ist nun in der Beta-Phase. Besonders schön ist, dass eine Migration vom Jetzt-Zustand in die BrowserID-Welt möglich scheint, da das System ein überzeigendes Design hat. Finden wie gut!"
+    },
+    {
+      "title": "TypeScript",
+      "href": "http://www.typescriptlang.org/",
+      "time": "00:37:24",
+      "description": "TypeScript erschien erst wenige Stunden vor der Aufnahme der Sendung, aber ein bisschen oberflächlichen Spaß wollten wir und nicht nehmen lassen. Angeblich ist TS die Secret Sauce für <a href=\"http://blogs.msdn.com/b/somasegar/archive/2012/10/01/typescript-javascript-development-at-application-scale.aspx\">JavaScript Development at Application Scale</a>, aber wir ziehen eher kritische Vergleiche zu <a href=\"http://coffeescript.org/\">CoffeeScript</a> und <a href=\"http://roy.brianmckenna.org/\">Roy</a>."
+    }
+  ],
   "links": [
     {
-      "name": "Subtle Patterns",
+      "title": "Subtle Patterns",
       "href": "http://subtlepatterns.com/",
       "time": "00:59:12",
       "description": "Texturen-Library mit cooler Vorschau-Funktion."
     },
     {
-      "name": "iOS 6 html hardware acceleration changes and how to fix them",
+      "title": "iOS 6 html hardware acceleration changes and how to fix them",
       "href": "http://indiegamr.com/ios6-html-hardware-acceleration-changes-and-how-to-fix-them/",
       "time": "00:59:12",
       "description": "Auch in iOS 6 ist wieder alles anders als zuvor."
     },
     {
-      "name": "Thinkin’ Tags geht Live",
+      "title": "Thinkin’ Tags geht Live",
       "href": "http://www.highresolution.info/weblog/entry/thinkin_tags_geht_live/",
       "time": "00:59:12",
       "description": "Dirk Jesses Rapid Prototyping Tool ist da!"
     },
     {
-      "name": "Jetstrap – The Bootstrap Interface Builder",
+      "title": "Jetstrap – The Bootstrap Interface Builder",
       "href": "http://jetstrap.com/",
       "time": "00:59:12",
       "description": "Bootstrap-Designs zusammenklicken."
     },
     {
-      "name": "Styler",
+      "title": "Styler",
       "href": "https://github.com/tonistiigi/styler",
       "time": "00:59:12",
       "description": "Live CSS/Stylus editor."
     },
     {
-      "name": "Videos von LXJS",
+      "title": "Videos von LXJS",
       "href": "https://www.youtube.com/user/lxjs2012?feature=watch",
       "time": "00:59:12",
       "description": "Wärmstens empfohlen von Sebastian."
     },
     {
-      "name": "Cody Lindley frontend-tools list",
+      "title": "Cody Lindley frontend-tools list",
       "href": "https://github.com/codylindley/frontend-tools",
       "time": "00:59:12",
       "description": "Eine weitere (lange) Liste mit Frontend-Tools."
     },
     {
-      "name": "Dom Enlightment",
+      "title": "Dom Enlightment",
       "href": "http://domenlightenment.com/",
       "time": "00:59:12",
       "description": "Ein kostenloses, sehr ambitioniertes Buch über das DOM."

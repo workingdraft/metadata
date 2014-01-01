@@ -36,79 +36,79 @@
   "audio": "http://workingdraft.de/podpress_trac/web/1428/0/wd-85.mp3",
   "title": "Konferenzen, CSS und Twitter",
   "description": "Dieses mal wurde die Crew durch den Konferenz-Großmeister <a href=\"http://twitter.com/marcthiele\">Marc Thiele</a> verstärkt.",
-  "topics": [
-    {
-      "name": "beyond tellerrand 2012 und Smashing Conference 2012",
-      "href": "http://2012.beyondtellerrand.com/",
-      "time": "00:01:00",
-      "description": "Wir sind uns einig: besteste Konferenzen ever! Veranstalter <a href=\"http://www.marcthiele.com/\">Marc Thiele</a> erzählt von den Hintergründen seiner Konferenzen und <a href=\"http://2012.beyondtellerrand.com/workshops\">den</a> <a href=\"http://smashingconf.com/workshops\">Workshops</a> und lässt sich für vergangene Werke angemessen huldigen. Spontan beschließen wir, zwei Karten für die BT2012 zu verlosen (siehe unten)."
-    },
-    {
-      "name": "Let’s Talk about CSS Variables",
-      "href": "http://www.xanthir.com/blog/b4KT0",
-      "time": "00:28:02",
-      "description": "Tab Atkins rechtfertigt die neue, wahrscheinliche Syntax für CSS-Variablen. Wir sind von der Präfix-Sparsamkeit nicht überzeugt; sowas wie <a href=\"http://de.wikipedia.org/wiki/Perl_(Programmiersprache)#Syntax\">Perl kommt ja auch mit mehr als einem Sonderzeichen klar.</a> Ein Update für Hans&#8217; allumfassenden Artikel über CSS-Variablen <a href_=\"http://drublic.de/blog/about-css-variables/\">gibt es auch schon.</a>"
-    },
-    {
-      "name": "Farbverläufe erklärbärt",
-      "href": "http://www.peterkroener.de/aenderungen-in-der-neuen-css3-farbverlauf-syntax-ohne-vendor-prefix/",
-      "time": "00:38:23",
-      "description": "Peter erklärt die neue Syntax für <a href=\"http://www.w3.org/TR/css3-images/\">CSS3-Gradients</a>. Die Änderungen an sich finden wir toll, aber war es die nochmalige Änderung wert? Schließlich gibt es ja traditionell <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=765645\">Probleme bei solchen Umstellungen</a>. Und wer würde schon auf <a href=\"http://www.constellation7.org/\">solche Webdesign-Meisterwerke</a> verzichten wollen, nur für eine schönere CSS-Syntax? Wir jedenfalls nicht!"
-    },
-    {
-      "name": "Interpreting some of Twitter’s API changes",
-      "href": "http://www.marco.org/2012/08/16/twitter-api-changes",
-      "time": "00:51:00",
-      "description": "Twitter gibt sich <a href=\"https://dev.twitter.com/blog/changes-coming-to-twitter-api\">neue API-Terms</a> und das Internet zürnt. Wir auch, aber wir wissen nicht so ganz, wo das jetzt alles enden soll. <a href=\"http://blog.rodneyrehm.de/archives/17-Hey-twitter,-heres-an-idea.html\">Rod meint</a>, Twitter könnte uns einfach bezahlen lassen. Aber ob Nicht-Nerds da mitmachen? Die sind ja bisher nicht mal auf kostenlose Alternativen wie <a href=\"http://identi.ca/\">Identi.ca</a> oder <a href=\"http://new.heello.com/\">anderes obskures Zeug</a> augesprungen. So wissen wir auch nicht, ob aus <a href=\"http://app.net/\">App.net</a> etwas werden könnte. <a href=\"http://www.youtube.com/watch?v=RMfLDv4KygY\">Scheiß Gesamtsituation!</a>"
-    }
-  ],
   "news": [
     {
-      "name": "Safari 6 and Chrome 21 add image-set to support retina images",
+      "title": "Safari 6 and Chrome 21 add image-set to support retina images",
       "href": "http://blog.cloudfour.com/safari-6-and-chrome-21-add-image-set-to-support-retina-images/",
       "time": "00:00:19",
       "description": "Damit dürfte klar sein, wie wir in Zukunft responsive images machen werden."
     }
   ],
+  "topics": [
+    {
+      "title": "beyond tellerrand 2012 und Smashing Conference 2012",
+      "href": "http://2012.beyondtellerrand.com/",
+      "time": "00:01:00",
+      "description": "Wir sind uns einig: besteste Konferenzen ever! Veranstalter <a href=\"http://www.marcthiele.com/\">Marc Thiele</a> erzählt von den Hintergründen seiner Konferenzen und <a href=\"http://2012.beyondtellerrand.com/workshops\">den</a> <a href=\"http://smashingconf.com/workshops\">Workshops</a> und lässt sich für vergangene Werke angemessen huldigen. Spontan beschließen wir, zwei Karten für die BT2012 zu verlosen (siehe unten)."
+    },
+    {
+      "title": "Let’s Talk about CSS Variables",
+      "href": "http://www.xanthir.com/blog/b4KT0",
+      "time": "00:28:02",
+      "description": "Tab Atkins rechtfertigt die neue, wahrscheinliche Syntax für CSS-Variablen. Wir sind von der Präfix-Sparsamkeit nicht überzeugt; sowas wie <a href=\"http://de.wikipedia.org/wiki/Perl_(Programmiersprache)#Syntax\">Perl kommt ja auch mit mehr als einem Sonderzeichen klar.</a> Ein Update für Hans&#8217; allumfassenden Artikel über CSS-Variablen <a href_=\"http://drublic.de/blog/about-css-variables/\">gibt es auch schon.</a>"
+    },
+    {
+      "title": "Farbverläufe erklärbärt",
+      "href": "http://www.peterkroener.de/aenderungen-in-der-neuen-css3-farbverlauf-syntax-ohne-vendor-prefix/",
+      "time": "00:38:23",
+      "description": "Peter erklärt die neue Syntax für <a href=\"http://www.w3.org/TR/css3-images/\">CSS3-Gradients</a>. Die Änderungen an sich finden wir toll, aber war es die nochmalige Änderung wert? Schließlich gibt es ja traditionell <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=765645\">Probleme bei solchen Umstellungen</a>. Und wer würde schon auf <a href=\"http://www.constellation7.org/\">solche Webdesign-Meisterwerke</a> verzichten wollen, nur für eine schönere CSS-Syntax? Wir jedenfalls nicht!"
+    },
+    {
+      "title": "Interpreting some of Twitter’s API changes",
+      "href": "http://www.marco.org/2012/08/16/twitter-api-changes",
+      "time": "00:51:00",
+      "description": "Twitter gibt sich <a href=\"https://dev.twitter.com/blog/changes-coming-to-twitter-api\">neue API-Terms</a> und das Internet zürnt. Wir auch, aber wir wissen nicht so ganz, wo das jetzt alles enden soll. <a href=\"http://blog.rodneyrehm.de/archives/17-Hey-twitter,-heres-an-idea.html\">Rod meint</a>, Twitter könnte uns einfach bezahlen lassen. Aber ob Nicht-Nerds da mitmachen? Die sind ja bisher nicht mal auf kostenlose Alternativen wie <a href=\"http://identi.ca/\">Identi.ca</a> oder <a href=\"http://new.heello.com/\">anderes obskures Zeug</a> augesprungen. So wissen wir auch nicht, ob aus <a href=\"http://app.net/\">App.net</a> etwas werden könnte. <a href=\"http://www.youtube.com/watch?v=RMfLDv4KygY\">Scheiß Gesamtsituation!</a>"
+    }
+  ],
   "links": [
     {
-      "name": "requirejs/xrayquire",
+      "title": "requirejs/xrayquire",
       "href": "https://github.com/requirejs/xrayquire",
       "time": "01:12:45",
       "description": "Mit diesem RequireJS-Inspector den Modulen unter die Motorhaube sehen."
     },
     {
-      "name": "Using ARIA in HTML5",
+      "title": "Using ARIA in HTML5",
       "href": "http://dvcs.w3.org/hg/aria-unofficial/raw-file/tip/index.html",
       "time": "01:12:45",
       "description": "Wer auch nur am Rande an Barrierefreiheit interessiert ist, sollte sich dieses Dokument auf die Großhirnrinde tätowieren lassen. Ernsthaft!"
     },
     {
-      "name": "CSS Layout Evolution",
+      "title": "CSS Layout Evolution",
       "href": "http://fantasai.inkedblade.net/weblog/2012/css-layout-evolution/",
       "time": "01:12:45",
       "description": "Erklärt CSS3-Layout und beleuchtet auch die Hintergründe. Endlich erfahren, warum CSS-Layout (ohne CSS3) so schwer ist!"
     },
     {
-      "name": "DropPHP",
+      "title": "DropPHP",
       "href": "http://fabi.me/php-projects/dropphp-dropbox-api-client/",
       "time": "01:12:45",
       "description": "Ein einfacher Dropbox-Client in PHP."
     },
     {
-      "name": "Firefox JIT Inspector",
+      "title": "Firefox JIT Inspector",
       "href": "https://addons.mozilla.org/de/firefox/addon/jit-inspector/",
       "time": "01:12:45",
       "description": "Firefox-Extension für den geneigten JavaScript-Optimierer."
     },
     {
-      "name": "A day in the life of V8 (Slides)",
+      "title": "A day in the life of V8 (Slides)",
       "href": "http://blip.tv/jsconf/jsconf2012-vyacheslav-egorov-6141593",
       "time": "01:12:45",
       "description": "Passend zum JIT-Inspector dieser Talk, der erklärt, wie man den von V8 generierten Maschinencode inspiziert. Futter für die Extremsportler unter den JavaScript-Optimierern."
     },
     {
-      "name": "Custom Sublime Text Build Systems For Popular Tools And Languages",
+      "title": "Custom Sublime Text Build Systems For Popular Tools And Languages",
       "href": "http://addyosmani.com/blog/custom-sublime-text-build-systems-for-popular-tools-and-languages/",
       "time": "01:12:45",
       "description": "Wie man sich in ST2 Buildsysteme baut."

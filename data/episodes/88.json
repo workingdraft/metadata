@@ -41,97 +41,97 @@
   "audio": "http://workingdraft.de/podpress_trac/web/1484/0/wd-88.mp3",
   "title": "Opus Codec, hot CSS Specs und Bower",
   "description": "Vier von Fünf &#8211; nur Peter ist noch auf Weltreise. Wir schreiben die Revision 88, deren zahlentechnische Signifikanz wir, zu Peters Bedauern, vollkommen unter den Tisch fallen lassen. Stattdessen konzentrieren wir uns auf den heißen Scheiss der letzten Woche.",
-  "topics": [
-    {
-      "name": "Der Opus Codec landet in Firefox",
-      "href": "http://firefoxnightly.tumblr.com/post/30799860532/opus-codec-in-audio-and-video-now-support",
-      "time": "00:01:50",
-      "description": "Schepp erklärt was Opus und warum wir das brauchen."
-    },
-    {
-      "name": "Understanding the Shadow DOM",
-      "href": "http://blog.romanliutikov.com/coding/discover-the-dark-side-with-shadow-dom/",
-      "time": "00:12:25",
-      "description": "Ein Artikel, der Shadow DOM anhand des &lt;video&gt; Elements. Das gibt uns mal wieder Anlass über diese hervorragende Änderung zu diskutieren."
-    },
-    {
-      "name": "Hot Web Standards July/August 2012",
-      "href": "http://www.netmagazine.com/features/hot-web-standards-julyaugust-2012",
-      "time": "00:18:15",
-      "description": "Lea Verous Artikel im NetMag ist eine prima Zusammenfassung einiger Themen, denen wir in den letzten Wochen zu wenig Aufmerksamkeit geschenkt haben.<br>\nWir picken uns die <em>Zückerli</em> aus dem Artikel und erfreuen uns der tollen Dinge."
-    },
-    {
-      "name": "Bower",
-      "href": "http://twitter.github.com/bower/",
-      "time": "00:29:20",
-      "description": "Twitter hat mal wieder ein neues Tool in Internet geworfen. Bower (gesprochen »Bauer«) ist ein Dependency Management System, das unter anderem auch in Yeoman integriert ist.\n\n<img class=\"alignnone size-medium wp-image-1490\" title=\"Package Management\" src=\"http://workingdraft.de/wp-content/uploads/2012/09/package-manager-300x193.jpg\" alt=\"Package Management\" width=\"300\" height=\"193\">"
-    }
-  ],
   "news": [
     {
-      "name": "Adobe CSS Shaders – ab sofort ein Standard",
+      "title": "Adobe CSS Shaders – ab sofort ein Standard",
       "href": "http://www.webmonkey.com/2012/09/adobes-css-shaders-now-an-official-web-standard/",
       "time": "00:00:14",
       "description": "Die CSS3 Shader, vorgestellt von Adobe, sind zum W3C Editor&#8217;s Draft erhoben worden."
     },
     {
-      "name": "Yeoman!",
+      "title": "Yeoman!",
       "href": "http://yeoman.io/",
       "time": "00:00:14",
       "description": "Tool zur Automatisierung vieler Aufgaben der FrontEnd-Entwicklung"
     }
   ],
+  "topics": [
+    {
+      "title": "Der Opus Codec landet in Firefox",
+      "href": "http://firefoxnightly.tumblr.com/post/30799860532/opus-codec-in-audio-and-video-now-support",
+      "time": "00:01:50",
+      "description": "Schepp erklärt was Opus und warum wir das brauchen."
+    },
+    {
+      "title": "Understanding the Shadow DOM",
+      "href": "http://blog.romanliutikov.com/coding/discover-the-dark-side-with-shadow-dom/",
+      "time": "00:12:25",
+      "description": "Ein Artikel, der Shadow DOM anhand des &lt;video&gt; Elements. Das gibt uns mal wieder Anlass über diese hervorragende Änderung zu diskutieren."
+    },
+    {
+      "title": "Hot Web Standards July/August 2012",
+      "href": "http://www.netmagazine.com/features/hot-web-standards-julyaugust-2012",
+      "time": "00:18:15",
+      "description": "Lea Verous Artikel im NetMag ist eine prima Zusammenfassung einiger Themen, denen wir in den letzten Wochen zu wenig Aufmerksamkeit geschenkt haben.<br>\nWir picken uns die <em>Zückerli</em> aus dem Artikel und erfreuen uns der tollen Dinge."
+    },
+    {
+      "title": "Bower",
+      "href": "http://twitter.github.com/bower/",
+      "time": "00:29:20",
+      "description": "Twitter hat mal wieder ein neues Tool in Internet geworfen. Bower (gesprochen »Bauer«) ist ein Dependency Management System, das unter anderem auch in Yeoman integriert ist.\n\n<img class=\"alignnone size-medium wp-image-1490\" title=\"Package Management\" src=\"http://workingdraft.de/wp-content/uploads/2012/09/package-manager-300x193.jpg\" alt=\"Package Management\" width=\"300\" height=\"193\">"
+    }
+  ],
   "links": [
     {
-      "name": "BrainCamp Cologne – Videos",
+      "title": "BrainCamp Cologne – Videos",
       "href": "http://www.youtube.com/user/BrainCampCGN?feature=watch",
       "time": "00:38:00",
       "description": "Am BrainCamp in Köln gabs ein paar interessante Vorträge."
     },
     {
-      "name": "Unicon – Grunt Plugin für SVG/PNG",
+      "title": "Unicon – Grunt Plugin für SVG/PNG",
       "href": "http://filamentgroup.com/lab/unicon/",
       "time": "00:38:00",
       "description": "Unicon ist ein Plugin für <a href=\"http://gruntjs.com/\">Grunt</a>. Es baut Image Sprites aus SVG Bildern und kümmert sich um die Konvertierung nach PNG für maximale Kompatibilität."
     },
     {
-      "name": "Opera Mini and Javascript",
+      "title": "Opera Mini and Javascript",
       "href": "http://dev.opera.com/articles/view/opera-mini-and-javascript/",
       "time": "00:38:00",
       "description": "Opera erklärt wie ihr Mini Browser mit Javascript umgeht."
     },
     {
-      "name": "jsPDF",
+      "title": "jsPDF",
       "href": "http://jspdf.com/",
       "time": "00:38:00",
       "description": "Eine Bibliothek zur Erstellung von PDFs. Im Gegensatz zu <a href=\"http://pdfkit.org/\">PDFKit</a> läuft jsPDF nicht nur unter Node.js, sondern auch im Browser!"
     },
     {
-      "name": "Terrific",
+      "title": "Terrific",
       "href": "http://terrifically.org/",
       "time": "00:38:00",
       "description": "Erlaubt das Aufteilen von FrontEnds in Komponenten, welches die Struktur, Wartbarkeit und Wiederverwendbarkeit erhöhen soll."
     },
     {
-      "name": "Clarify.io",
+      "title": "Clarify.io",
       "href": "http://clarify.io/",
       "time": "00:38:00",
       "description": "Ein schniekes Tool mit dem die Designer™ unter uns spielend einfach Styleguides zusammenklicken können und so die Kommunikation mit den Producern™ deutlich zu verbessern."
     },
     {
-      "name": "Kern.js",
+      "title": "Kern.js",
       "href": "http://www.kernjs.com/",
       "time": "00:38:00",
       "description": "Kern.js setzt auf <a href=\"http://www.letteringjs.com/\">Lettering.js</a> auf und erlaubt die spielend einfache Anpassung der Position, Größe und Rotation einzelner Buchstaben."
     },
     {
-      "name": "SIE",
+      "title": "SIE",
       "href": "http://sourceforge.jp/projects/sie/",
       "time": "00:38:00",
       "description": "Eine SVG Rendering Engine in Javascript, erlaubt SVG auch in IE6-8 zu nutzen."
     },
     {
-      "name": "Emmet – formerly known as Zen Coding",
+      "title": "Emmet – formerly known as Zen Coding",
       "href": "https://github.com/sergeche/emmet-sublime",
       "time": "00:38:00",
       "description": "Emmet ist das neue Zen."

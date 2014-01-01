@@ -30,57 +30,57 @@
   "description": "Peter war dieses mal nicht dabei; dafür aber <a href=\"http://twitter.com/polarity\">@polarity</a>. Robert hat sich in letzter Zeit verstärkt mit Game-Engines auf HTML5-Basis beschäftigt und ob der lahmen News-Situation diese Woche haben wir am Ende dann einfach noch einen generellen EInblick in das Thema gegeben.",
   "topics": [
     {
-      "name": "Sencha Touch 1.0",
+      "title": "Sencha Touch 1.0",
       "href": "http://www.sencha.com/products/touch/",
       "description": "Framework für mobile Webanwendungen wird als Final veröffentlicht.<p></p>\n<dt><a href=\"http://turbine.peterkroener.de/\">Turbine</a><p></p>\n<dd>CSS-Framework von Peter und Schepp<p></p>\n<dt><a href=\"http://sass-lang.com/\">sass-lang</a><p></p>\n<dd>Turbine-artiges CSS-Framework<p></p>\n<dt><a href=\"http://lesscss.org/\">Less CSS</a><p></p>\n<dd>Weiteres CSS-Framework<p></p>\n<dt><a href=\"http://blog.mozilla.com/rob-sayre/2010/11/17/dead-code-elimination-for-beginners/\">Dead Code Elimination for Beginners</a><p></p>\n<dd>Die Chakra genannte JS-Engine des IE9 verhält sich etwas risikoreich<p></p>\n<dt><a href=\"http://www.heise.de/newsticker/meldung/HTML-Validierungsdienst-Validome-wieder-online-1139525.html\">HTML-Validierungsdienst Validome wieder online</a><p></p>\n<dd>Gammlig: Keine Unterstützung von HTML5<p></p>\n<dt><a href=\"http://www.w3.org/News/2010#entry-8956\">Last Call des WOFF-Schriftformats</a><p></p>\n<dd>Ausführliches dazu bald in der neusten poly:logo-Folge (Folge wird bald veröffentlicht)<p></p>\n<dt><a href=\"http://impactjs.org/\">Impact.js</a><p></p>\n<dd>Interessante, noch unveröffentlichte HTML5 Game-Engine<p></p>\n<dt><a href=\"http://www.kesiev.com/akihabara/\">Akihabra</a><p></p>\n<dd>Eine weitere Spiele-Engine<p></p>\n<dt><a href=\"http://www.golem.de/1004/74719.html\">Aves Engine</a><p></p>\n<dd>Und noch etwas in der Richtung<p></p>\n<dt><a href=\"http://www.phoboslab.org/biolab/\">Biolab Disaster</a><p></p>\n<dd>Kurzweiliges Jump’n’Run mit Canvas\n</dd></dt></dd></dt></dd></dt></dd></dt></dd></dt></dd></dt></dd></dt></dd></dt></dd></dt></dd></dt>"
     },
     {
-      "name": "Turbine",
+      "title": "Turbine",
       "href": "http://turbine.peterkroener.de/",
       "description": "CSS-Framework von Peter und Schepp<p></p>\n<dt><a href=\"http://sass-lang.com/\">sass-lang</a><p></p>\n<dd>Turbine-artiges CSS-Framework<p></p>\n<dt><a href=\"http://lesscss.org/\">Less CSS</a><p></p>\n<dd>Weiteres CSS-Framework<p></p>\n<dt><a href=\"http://blog.mozilla.com/rob-sayre/2010/11/17/dead-code-elimination-for-beginners/\">Dead Code Elimination for Beginners</a><p></p>\n<dd>Die Chakra genannte JS-Engine des IE9 verhält sich etwas risikoreich<p></p>\n<dt><a href=\"http://www.heise.de/newsticker/meldung/HTML-Validierungsdienst-Validome-wieder-online-1139525.html\">HTML-Validierungsdienst Validome wieder online</a><p></p>\n<dd>Gammlig: Keine Unterstützung von HTML5<p></p>\n<dt><a href=\"http://www.w3.org/News/2010#entry-8956\">Last Call des WOFF-Schriftformats</a><p></p>\n<dd>Ausführliches dazu bald in der neusten poly:logo-Folge (Folge wird bald veröffentlicht)<p></p>\n<dt><a href=\"http://impactjs.org/\">Impact.js</a><p></p>\n<dd>Interessante, noch unveröffentlichte HTML5 Game-Engine<p></p>\n<dt><a href=\"http://www.kesiev.com/akihabara/\">Akihabra</a><p></p>\n<dd>Eine weitere Spiele-Engine<p></p>\n<dt><a href=\"http://www.golem.de/1004/74719.html\">Aves Engine</a><p></p>\n<dd>Und noch etwas in der Richtung<p></p>\n<dt><a href=\"http://www.phoboslab.org/biolab/\">Biolab Disaster</a><p></p>\n<dd>Kurzweiliges Jump’n’Run mit Canvas\n</dd></dt></dd></dt></dd></dt></dd></dt></dd></dt></dd></dt></dd></dt></dd></dt></dd></dt>"
     },
     {
-      "name": "sass-lang",
+      "title": "sass-lang",
       "href": "http://sass-lang.com/",
       "description": "Turbine-artiges CSS-Framework<p></p>\n<dt><a href=\"http://lesscss.org/\">Less CSS</a><p></p>\n<dd>Weiteres CSS-Framework<p></p>\n<dt><a href=\"http://blog.mozilla.com/rob-sayre/2010/11/17/dead-code-elimination-for-beginners/\">Dead Code Elimination for Beginners</a><p></p>\n<dd>Die Chakra genannte JS-Engine des IE9 verhält sich etwas risikoreich<p></p>\n<dt><a href=\"http://www.heise.de/newsticker/meldung/HTML-Validierungsdienst-Validome-wieder-online-1139525.html\">HTML-Validierungsdienst Validome wieder online</a><p></p>\n<dd>Gammlig: Keine Unterstützung von HTML5<p></p>\n<dt><a href=\"http://www.w3.org/News/2010#entry-8956\">Last Call des WOFF-Schriftformats</a><p></p>\n<dd>Ausführliches dazu bald in der neusten poly:logo-Folge (Folge wird bald veröffentlicht)<p></p>\n<dt><a href=\"http://impactjs.org/\">Impact.js</a><p></p>\n<dd>Interessante, noch unveröffentlichte HTML5 Game-Engine<p></p>\n<dt><a href=\"http://www.kesiev.com/akihabara/\">Akihabra</a><p></p>\n<dd>Eine weitere Spiele-Engine<p></p>\n<dt><a href=\"http://www.golem.de/1004/74719.html\">Aves Engine</a><p></p>\n<dd>Und noch etwas in der Richtung<p></p>\n<dt><a href=\"http://www.phoboslab.org/biolab/\">Biolab Disaster</a><p></p>\n<dd>Kurzweiliges Jump’n’Run mit Canvas\n</dd></dt></dd></dt></dd></dt></dd></dt></dd></dt></dd></dt></dd></dt></dd></dt>"
     },
     {
-      "name": "Less CSS",
+      "title": "Less CSS",
       "href": "http://lesscss.org/",
       "description": "Weiteres CSS-Framework<p></p>\n<dt><a href=\"http://blog.mozilla.com/rob-sayre/2010/11/17/dead-code-elimination-for-beginners/\">Dead Code Elimination for Beginners</a><p></p>\n<dd>Die Chakra genannte JS-Engine des IE9 verhält sich etwas risikoreich<p></p>\n<dt><a href=\"http://www.heise.de/newsticker/meldung/HTML-Validierungsdienst-Validome-wieder-online-1139525.html\">HTML-Validierungsdienst Validome wieder online</a><p></p>\n<dd>Gammlig: Keine Unterstützung von HTML5<p></p>\n<dt><a href=\"http://www.w3.org/News/2010#entry-8956\">Last Call des WOFF-Schriftformats</a><p></p>\n<dd>Ausführliches dazu bald in der neusten poly:logo-Folge (Folge wird bald veröffentlicht)<p></p>\n<dt><a href=\"http://impactjs.org/\">Impact.js</a><p></p>\n<dd>Interessante, noch unveröffentlichte HTML5 Game-Engine<p></p>\n<dt><a href=\"http://www.kesiev.com/akihabara/\">Akihabra</a><p></p>\n<dd>Eine weitere Spiele-Engine<p></p>\n<dt><a href=\"http://www.golem.de/1004/74719.html\">Aves Engine</a><p></p>\n<dd>Und noch etwas in der Richtung<p></p>\n<dt><a href=\"http://www.phoboslab.org/biolab/\">Biolab Disaster</a><p></p>\n<dd>Kurzweiliges Jump’n’Run mit Canvas\n</dd></dt></dd></dt></dd></dt></dd></dt></dd></dt></dd></dt></dd></dt>"
     },
     {
-      "name": "Dead Code Elimination for Beginners",
+      "title": "Dead Code Elimination for Beginners",
       "href": "http://blog.mozilla.com/rob-sayre/2010/11/17/dead-code-elimination-for-beginners/",
       "description": "Die Chakra genannte JS-Engine des IE9 verhält sich etwas risikoreich<p></p>\n<dt><a href=\"http://www.heise.de/newsticker/meldung/HTML-Validierungsdienst-Validome-wieder-online-1139525.html\">HTML-Validierungsdienst Validome wieder online</a><p></p>\n<dd>Gammlig: Keine Unterstützung von HTML5<p></p>\n<dt><a href=\"http://www.w3.org/News/2010#entry-8956\">Last Call des WOFF-Schriftformats</a><p></p>\n<dd>Ausführliches dazu bald in der neusten poly:logo-Folge (Folge wird bald veröffentlicht)<p></p>\n<dt><a href=\"http://impactjs.org/\">Impact.js</a><p></p>\n<dd>Interessante, noch unveröffentlichte HTML5 Game-Engine<p></p>\n<dt><a href=\"http://www.kesiev.com/akihabara/\">Akihabra</a><p></p>\n<dd>Eine weitere Spiele-Engine<p></p>\n<dt><a href=\"http://www.golem.de/1004/74719.html\">Aves Engine</a><p></p>\n<dd>Und noch etwas in der Richtung<p></p>\n<dt><a href=\"http://www.phoboslab.org/biolab/\">Biolab Disaster</a><p></p>\n<dd>Kurzweiliges Jump’n’Run mit Canvas\n</dd></dt></dd></dt></dd></dt></dd></dt></dd></dt></dd></dt>"
     },
     {
-      "name": "HTML-Validierungsdienst Validome wieder online",
+      "title": "HTML-Validierungsdienst Validome wieder online",
       "href": "http://www.heise.de/newsticker/meldung/HTML-Validierungsdienst-Validome-wieder-online-1139525.html",
       "description": "Gammlig: Keine Unterstützung von HTML5<p></p>\n<dt><a href=\"http://www.w3.org/News/2010#entry-8956\">Last Call des WOFF-Schriftformats</a><p></p>\n<dd>Ausführliches dazu bald in der neusten poly:logo-Folge (Folge wird bald veröffentlicht)<p></p>\n<dt><a href=\"http://impactjs.org/\">Impact.js</a><p></p>\n<dd>Interessante, noch unveröffentlichte HTML5 Game-Engine<p></p>\n<dt><a href=\"http://www.kesiev.com/akihabara/\">Akihabra</a><p></p>\n<dd>Eine weitere Spiele-Engine<p></p>\n<dt><a href=\"http://www.golem.de/1004/74719.html\">Aves Engine</a><p></p>\n<dd>Und noch etwas in der Richtung<p></p>\n<dt><a href=\"http://www.phoboslab.org/biolab/\">Biolab Disaster</a><p></p>\n<dd>Kurzweiliges Jump’n’Run mit Canvas\n</dd></dt></dd></dt></dd></dt></dd></dt></dd></dt>"
     },
     {
-      "name": "Last Call des WOFF-Schriftformats",
+      "title": "Last Call des WOFF-Schriftformats",
       "href": "http://www.w3.org/News/2010#entry-8956",
       "description": "Ausführliches dazu bald in der neusten poly:logo-Folge (Folge wird bald veröffentlicht)<p></p>\n<dt><a href=\"http://impactjs.org/\">Impact.js</a><p></p>\n<dd>Interessante, noch unveröffentlichte HTML5 Game-Engine<p></p>\n<dt><a href=\"http://www.kesiev.com/akihabara/\">Akihabra</a><p></p>\n<dd>Eine weitere Spiele-Engine<p></p>\n<dt><a href=\"http://www.golem.de/1004/74719.html\">Aves Engine</a><p></p>\n<dd>Und noch etwas in der Richtung<p></p>\n<dt><a href=\"http://www.phoboslab.org/biolab/\">Biolab Disaster</a><p></p>\n<dd>Kurzweiliges Jump’n’Run mit Canvas\n</dd></dt></dd></dt></dd></dt></dd></dt>"
     },
     {
-      "name": "Impact.js",
+      "title": "Impact.js",
       "href": "http://impactjs.org/",
       "description": "Interessante, noch unveröffentlichte HTML5 Game-Engine<p></p>\n<dt><a href=\"http://www.kesiev.com/akihabara/\">Akihabra</a><p></p>\n<dd>Eine weitere Spiele-Engine<p></p>\n<dt><a href=\"http://www.golem.de/1004/74719.html\">Aves Engine</a><p></p>\n<dd>Und noch etwas in der Richtung<p></p>\n<dt><a href=\"http://www.phoboslab.org/biolab/\">Biolab Disaster</a><p></p>\n<dd>Kurzweiliges Jump’n’Run mit Canvas\n</dd></dt></dd></dt></dd></dt>"
     },
     {
-      "name": "Akihabra",
+      "title": "Akihabra",
       "href": "http://www.kesiev.com/akihabara/",
       "description": "Eine weitere Spiele-Engine<p></p>\n<dt><a href=\"http://www.golem.de/1004/74719.html\">Aves Engine</a><p></p>\n<dd>Und noch etwas in der Richtung<p></p>\n<dt><a href=\"http://www.phoboslab.org/biolab/\">Biolab Disaster</a><p></p>\n<dd>Kurzweiliges Jump’n’Run mit Canvas\n</dd></dt></dd></dt>"
     },
     {
-      "name": "Aves Engine",
+      "title": "Aves Engine",
       "href": "http://www.golem.de/1004/74719.html",
       "description": "Und noch etwas in der Richtung<p></p>\n<dt><a href=\"http://www.phoboslab.org/biolab/\">Biolab Disaster</a><p></p>\n<dd>Kurzweiliges Jump’n’Run mit Canvas\n</dd></dt>"
     },
     {
-      "name": "Biolab Disaster",
+      "title": "Biolab Disaster",
       "href": "http://www.phoboslab.org/biolab/",
       "description": "Kurzweiliges Jump’n’Run mit Canvas"
     }

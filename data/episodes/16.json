@@ -30,31 +30,31 @@
   "description": "Zielrichtung unseres Gesprächs waren die Fragen: Wie denkt Microsoft in Sachen Browser so? Warum ist der IE9 so geworden wie er ist? Wie ist der weitere Entwicklungsweg geplant? Was wünscht man sich von der Webentwicklergemeinde?\n\nDiese Revision sind wir mal vom gewohnten Kurs abgewichen und haben keine Wochenrückschau, sondern eine Schwerpunkt-Folge für Euch erstellt. Möglich gemacht hat das <a href=\"http://twitter.com/dm_ms\">Daniel Melanchthon</a>, <a href=\"http://blogs.technet.com/b/dmelanchthon/\">Developer Platform Evangelist bei Microsoft</a> und Fachmann unter anderem für den IE9. Vielen Dank an Daniel, der sich trotz Rückreise-Jetlag kurzfristig abends Zeit für uns genommen hat!",
   "topics": [
     {
-      "name": "Was zeichnet IE9 aus?",
+      "title": "Was zeichnet IE9 aus?",
       "description": "Wir sprechen über Geschwindigkeit durch Hardwarebeschleunigung (via Direct2D) und die neue JavaScript-Engine &#8220;Chakra&#8221;, über das verbesserte Schriftenrendering (via DirectWrite), <a href=\"http://msdn.microsoft.com/library/gg131029.aspx\">Pinned Site</a> und <a href=\"http://blogs.technet.com/b/sieben/archive/2010/12/07/integration-von-internet-explorer-9-in-windows-7.aspx\">Site-Mode</a> (wir erinnern uns dabei an die <a href=\"http://www.microsoft.com/nz/windows/internet-explorer/features/web-slices.aspx\">Webslices</a> des IE8), SmartScreen-Filter/Application Reputation, die (vom W3C aufgegriffene) <a href=\"http://www.golem.de/1102/81690.html\">Tracking Protection</a>, die viel Platz lassende Tabanordnung, die Non-Blocking UI, sowie Ähnlichkeiten in dem <a href=\"http://areweprettyyet.com/5/desktopApps/\">GUI-Konzept von Firefox 5</a>."
     },
     {
-      "name": "Warum werden manche neue Features unterstützt, warum manche nicht?",
+      "title": "Warum werden manche neue Features unterstützt, warum manche nicht?",
       "description": "Wir erfahren, dass es unter anderem am offiziellen Reifegrad eines Standards/Moduls liegt, ob entschieden wurde, es zu implementieren oder auch nicht. So hat Geolocation etwa den Status &#8220;Candidate Recommendation&#8221;, die meisten der von <a href=\"https://people.mozilla.com/~prouget/ie9/\">vielen monierten</a> fehlenden Features jedoch noch &#8220;Working Draft&#8221; Status (nur &#8220;CSS3 Border Image&#8221; neuerdings nicht mehr). Oder es handelt sich erst gar nicht um einen W3C-Standard, wie bei WebGL. Desweiteren unterliegt Microsoft als Unternehmen weiteren Einflüssen aus dem Corporate-Bereich, welche gerne nach finalen und soliden Standards rufen. Daniel schafft dabei auch nochmal Klarheit hinsichtlich des Entwicklungsablaufs neuer W3C-Spezifikationen und wann die Browserhersteller <a href=\"http://www.w3.org/People/Bos/DesignGuide/implementability\">Hilfestellung durch Implementation geben können</a>. Zu guter letzt ist es auch eine Frage interner Ressourcen und des Shippingtermins."
     },
     {
-      "name": "Was denkt Microsoft hinsichtlich der Videocodec-Problematik?",
+      "title": "Was denkt Microsoft hinsichtlich der Videocodec-Problematik?",
       "description": "Wir reden darüber dass die Situation <a href=\"http://annevankesteren.nl/2010/09/h264-still-not-free\">unbefriedigend</a> ist, dass Microsoft sich aber nicht in der Position sieht, hier mit einer Lösung für die Webentwickler nach vorne zu preschen. Was vor allem daran liegt, dass man keine Lust auf das rechtliche Minenfeld und die gerne gegen Microsoft geführten Klagen hat. Wir erfahren, dass der Patentpool der MPEG LA auch einer möglichen Selbstverteidigung gegen Patenttrolle dient. Und dass Google mit WebM bei weitem nicht auf einem solchen Patent-Bollwerk sitzt."
     },
     {
-      "name": "Wird es kürzere Releasezyklen geben? Was kann man tun, um die alten IEs schneller zu verdrängen?",
+      "title": "Wird es kürzere Releasezyklen geben? Was kann man tun, um die alten IEs schneller zu verdrängen?",
       "description": "Der Abstand zwischen Releases soll wenn möglich weiter schrumpfen. Die Situation in Sachen alter IEs hat sich mittlerweile stark verbessert und anscheinend sind Unternehmen insgesamt updatefreundlicher, wenn sie einmal den Schmerzhaften Schritt weg vom IE6 geschafft haben. Microsoft <a href=\"http://ie6countdown.com/\">drückt die Unternehmen</a> zu diesem Schritt wie es nur kann. Webentwickler sollen auch aus Microsofts Sicht nicht mehr viel Zeit auf die alten IEs verschwenden. &#8220;Graceful Degradation&#8221;/&#8221;Progressive Enhancement&#8221; lautet hier die empfohlene Devise. Da fällt uns <a href=\"http://pirateslovedaisies.com/\">Pirates love Daisies</a> als Beispiel ein."
     },
     {
-      "name": "Warum wird das Entwickeln für die vielen IE-Versionen nicht erleichtert?",
+      "title": "Warum wird das Entwickeln für die vielen IE-Versionen nicht erleichtert?",
       "description": "Wir reden darüber, warum Microsoft wohl die Sandboxed-Browser von Spoon.net <a href=\"http://myitforum.com/cs2/blogs/rtrent/archive/2010/11/16/microsoft-asks-spoon-net-to-take-internet-explorer-off-the-cloud.aspx\">verhindert</a>. Wir kritisieren die kostenlos erhältlichen <a href=\"http://www.microsoft.com/downloads/en/details.aspx?FamilyID=21eabb90-958f-4b64-b5f1-73d0a413c8ef&amp;displaylang=en\">Test-Images</a>, weil sie ohne <a href=\"http://downloadsquad.switched.com/2007/02/26/run-windows-vista-for-120-days-without-activation-key/\">ReArm</a> recht bald das Meckern anfangen. Außerdem laufen sie nicht auf was anderem als Virtual PC. <a href=\"http://expression.microsoft.com/en-us/dd565874.aspx\">SuperPreview</a> wiederum ist leider nicht interaktiv."
     },
     {
-      "name": "Mehr Wissenvermittlung in deutschen Landen?",
+      "title": "Mehr Wissenvermittlung in deutschen Landen?",
       "description": "Microsoft plant mehr Wissensvermittlung, Unterstützung und Vorträge im deutschen Raum. Wie das im Detail aussieht, ist noch nicht spruchreif."
     },
     {
-      "name": "Engagement im W3C",
+      "title": "Engagement im W3C",
       "description": "Wir erfahren, dass Microsoft dem W3C nicht nur neue Testsuiten spendiert, sondern dem W3C aus den eigenen Reihen 70 Mitarbeiter abgestellt hat. Zudem reicht man auch auch neue Standardisierungvorschläge ein, wie etwa die Tracking Protection oder die <a href=\"http://blogs.msdn.com/b/ie/archive/2010/06/28/measuring-web-page-performance.aspx\">Web Timing Specification</a>."
     }
   ]

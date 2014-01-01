@@ -32,72 +32,72 @@
   "audio": "http://workingdraft.de/podpress_trac/web/1913/0/wd-117.mp3",
   "title": "jQuery, Performance, Links",
   "description": "Schepp, Hans und Peter ackerten sich in gewohnter Manier durch das, was sie für die Themen der Woche hielten.",
-  "topics": [
-    {
-      "name": "I know jQuery. Now what?",
-      "href": "http://remysharp.com/2013/04/19/i-know-jquery-now-what/",
-      "time": "00:00:56",
-      "description": "Remy Sharp stellt in diesem Artikel (<a href=\"https://speakerdeck.com/rem/i-know-jquery-now-what\">zugehörige Slides</a>) die Frage in den Raum, ob man angesichts mittlerweile ja doch ganz vernünftiger Browser mit neuen DOM-APIs nicht manchmal auf jQuery verzichten könnte. Peter argumentiert pro jQuery, denn er hält das Design der meisten DOM-APIs für zu benutzerfeindlich bzw. sich selbst für zu blöd für sie. Schepp und Hans sehen das entspannter&nbsp;&ndash; neben DOM-APIs gäbe ja auch noch <a href=\"http://microjs.com/#\">MicroJS</a>."
-    },
-    {
-      "name": "Font Loading Performance",
-      "href": "http://css-tricks.com/preventing-the-performance-hit-from-custom-fonts/",
-      "time": "00:27:26",
-      "description": "Chris Coyier hat Tricks zum Performance-Tuning von Webfonts gesammelt, von denen wir mehr so semibegeistert sind&nbsp;&ndash; wenn man versucht, den Browser auszutricksen, geht oft schief. Abschweifungen führen uns zu <a href=\"https://typekit.com\">Typekit</a>, Zorn auf die Nichtexistenz von Mobile-Browser-Caches und FOUT (flash of unstyled text)."
-    }
-  ],
   "news": [
     {
-      "name": "jQuery 2.0 erschienen",
+      "title": "jQuery 2.0 erschienen",
       "href": "http://blog.jquery.com/2013/04/18/jquery-2-0-released/",
       "time": "00:00:21",
       "description": "Wichtig: in Version 2.0 gibt es keine Unterstützung für alte Internet Explorer! Aber keine Angst, die 1er-Serie wird weiter gepflegt und kann bei Bedarf noch benutzt werden."
     }
   ],
-  "links": [
+  "topics": [
     {
-      "name": "Animating with Physics",
-      "href": "http://taybenlor.com/2013/04/19/animating-with-physics.html",
-      "time": "00:59:05",
-      "description": "Bessere Animationen braucht die Welt."
+      "title": "I know jQuery. Now what?",
+      "href": "http://remysharp.com/2013/04/19/i-know-jquery-now-what/",
+      "time": "00:00:56",
+      "description": "Remy Sharp stellt in diesem Artikel (<a href=\"https://speakerdeck.com/rem/i-know-jquery-now-what\">zugehörige Slides</a>) die Frage in den Raum, ob man angesichts mittlerweile ja doch ganz vernünftiger Browser mit neuen DOM-APIs nicht manchmal auf jQuery verzichten könnte. Peter argumentiert pro jQuery, denn er hält das Design der meisten DOM-APIs für zu benutzerfeindlich bzw. sich selbst für zu blöd für sie. Schepp und Hans sehen das entspannter&nbsp;&ndash; neben DOM-APIs gäbe ja auch noch <a href=\"http://microjs.com/#\">MicroJS</a>."
     },
     {
-      "name": "Hand.js",
-      "href": "http://blogs.msdn.com/b/eternalcoding/archive/2013/01/16/hand-js-a-polyfill-for-supporting-pointer-events-on-every-browser.aspx",
-      "time": "00:59:05",
-      "description": "Polyfill für Pointer Events."
-    },
-    {
-      "name": "Chrome für Enterprise",
-      "href": "http://www.golem.de/news/google-chrome-bekommt-unterstuetzung-fuer-veraltete-browser-1304-98764.html",
-      "time": "00:59:05",
-      "description": "Leckerbissen für Admins."
-    },
-    {
-      "name": "SVG filters",
-      "href": "http://docs.webplatform.org/wiki/svg/tutorials/smarter_svg_filters",
-      "time": "00:59:05",
-      "description": "Absolut umfassender Artikel zu SVG-Filtern (auch im CSS-Kontext)."
-    },
-    {
-      "name": "Pseudo-Classes to Style Form elements",
-      "href": "http://tjvantoll.com/2013/04/15/list-of-pseudo-elements-to-style-form-controls/",
-      "time": "00:59:05",
-      "description": "Peter findet dass man sie nicht benutzen sollte, aber was weiß der schon :)"
+      "title": "Font Loading Performance",
+      "href": "http://css-tricks.com/preventing-the-performance-hit-from-custom-fonts/",
+      "time": "00:27:26",
+      "description": "Chris Coyier hat Tricks zum Performance-Tuning von Webfonts gesammelt, von denen wir mehr so semibegeistert sind&nbsp;&ndash; wenn man versucht, den Browser auszutricksen, geht oft schief. Abschweifungen führen uns zu <a href=\"https://typekit.com\">Typekit</a>, Zorn auf die Nichtexistenz von Mobile-Browser-Caches und FOUT (flash of unstyled text)."
     }
   ],
   "randomSpec": [
     {
-      "name": "CSS3: Resolution-Media-Query",
+      "title": "CSS3: Resolution-Media-Query",
       "href": "http://www.w3.org/TR/css3-mediaqueries/#resolution",
       "time": "00:43:10",
       "description": "Das Media-Feature <code>resolution</code> soll der Standard-Ersatz für <code>-webkit-device-pixel-ratio</code> und <a href=\"https://github.com/h5bp/html5-boilerplate/commit/1987e5a1ee468686cbb3e507c1a924f5851c9755\">ähnlichen Foo</a> werden. Dazu braucht es aber auch die passenden Einheiten wie dppx für Bildschirme und dpi für den Druck. Auch ganz lustig: <a href=\"http://news.cnet.com/8301-1023_3-57580664-93/facebook-tries-googles-webp-image-format-users-squawk/\">Facebooks gefailtes WebP-Experiment</a>."
     },
     {
-      "name": "HTML5: Table Sorting",
+      "title": "HTML5: Table Sorting",
       "href": "http://www.whatwg.org/specs/web-apps/current-work/#table-sorting-model",
       "time": "00:43:10",
       "description": "HTML5 (WHATWG-Version) spezifiziert einen Mechanismus zum Sortieren von Tabellen. Da dieser sehr komplex ist und in keinem Browser funktioniert, fällt uns dazu nicht viel ein. Bis auf weiteres ist man mit <a href=\"http://tablesorter.com/\">JavaScript</a> besser beraten."
+    }
+  ],
+  "links": [
+    {
+      "title": "Animating with Physics",
+      "href": "http://taybenlor.com/2013/04/19/animating-with-physics.html",
+      "time": "00:59:05",
+      "description": "Bessere Animationen braucht die Welt."
+    },
+    {
+      "title": "Hand.js",
+      "href": "http://blogs.msdn.com/b/eternalcoding/archive/2013/01/16/hand-js-a-polyfill-for-supporting-pointer-events-on-every-browser.aspx",
+      "time": "00:59:05",
+      "description": "Polyfill für Pointer Events."
+    },
+    {
+      "title": "Chrome für Enterprise",
+      "href": "http://www.golem.de/news/google-chrome-bekommt-unterstuetzung-fuer-veraltete-browser-1304-98764.html",
+      "time": "00:59:05",
+      "description": "Leckerbissen für Admins."
+    },
+    {
+      "title": "SVG filters",
+      "href": "http://docs.webplatform.org/wiki/svg/tutorials/smarter_svg_filters",
+      "time": "00:59:05",
+      "description": "Absolut umfassender Artikel zu SVG-Filtern (auch im CSS-Kontext)."
+    },
+    {
+      "title": "Pseudo-Classes to Style Form elements",
+      "href": "http://tjvantoll.com/2013/04/15/list-of-pseudo-elements-to-style-form-controls/",
+      "time": "00:59:05",
+      "description": "Peter findet dass man sie nicht benutzen sollte, aber was weiß der schon :)"
     }
   ]
 }

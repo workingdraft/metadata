@@ -30,37 +30,37 @@
   "description": "Schepp und Peter holten sich Verstärkung bei <a href=\"https://twitter.com/asciidisco\">Sebastian Golasch</a> und beackerten mit ihm zwei Themen aus dem Bereich der Frontend-Performance. Dazu kommt die übliche Ladung Links.",
   "topics": [
     {
-      "name": "CSS-Performance",
+      "title": "CSS-Performance",
       "time": "00:00:17",
       "description": "Angestachelt von der Frage <a href=\"http://www.jonathanklein.net/2013/01/how-much-css-should-you-have.html\">how much CSS should you have</a> mäandern wir quer durch den Problemkomplex CSS-Performance. Peter und Sebastian grillten Performance-Papst Schepp unter anderem mit Fragen zum Einfluss vom Browsercache (groß) und Selektorperformance (vernachlässigbar) und erfahren, ob Sprites oder das Inlining von Bildern besser sind (Inlining gewinnt). Wir befinden die <a href=\"http://perfectionkills.com/profiling-css-for-fun-and-profit-optimization-notes/\">CSS Profiler</a> von Dragonfly und Chrome für gut, <a href=\"http://csslint.net/\">CSS Lint</a> ob zu strenger Regeln für weniger gut. Das DOM zu entrümpeln erscheint da schon sinnvoller. Schepp lobt das <a href=\"http://mir.aculo.us/dom-monster/\">DOM Monster</a> und verwendet <a href=\"https://developer.mozilla.org/de/docs/DOM/Storage\">Web Storage</a> als Cache, Peter will durch CSS-Pseudoelemente sein DOM verschlanken."
     },
     {
-      "name": "Web Workers",
+      "title": "Web Workers",
       "time": "00:24:41",
       "description": "<a href=\"http://blog.teamtreehouse.com/using-web-workers-to-speed-up-your-javascript-applications\">Eine Einführung zum Thema Web Workers</a> scollte an uns vorbei und verleitete zu der Frage, wozu man sowas denn brauchen könnte. HTML5-Erklärbär Peter nennt als Use Case unter anderem <a href=\"http://badassjs.com/post/1461943420/face-detection-in-javascript-via-html5-canvas\">JavaScript-Gesichtserkennung</a> und erläutert die Vorzüge des <a href=\"http://www.whatwg.org/specs/web-apps/current-work/multipage/common-dom-interfaces.html#safe-passing-of-structured-data\">structured clone algorithm</a>. Darauf fallen uns einige weitere Anwendungsmöglichkeiten ein, die nur durch <a href=\"http://caniuse.com/webworkers\">mangelnde Browserunterstützung</a> eingeschränkt werden."
     }
   ],
   "links": [
     {
-      "name": "Writing Testable Frontend Javascript",
+      "title": "Writing Testable Frontend Javascript",
       "href": "https://shanetomlinson.com/2013/testing-javascript-frontend-part-1-anti-patterns-and-fixes/",
       "time": "00:49:14",
       "description": "Das Wissen, das andere in einem ganzen Buch ausbreiten ist hier kompakt zusammengefasst."
     },
     {
-      "name": "Paymill – The Payment Engineers",
+      "title": "Paymill – The Payment Engineers",
       "href": "https://www.paymill.com/de-de/",
       "time": "00:49:14",
       "description": "Verspricht Online-Payment ohne die ganz großen Schmerzen."
     },
     {
-      "name": "A11Y Project",
+      "title": "A11Y Project",
       "href": "http://a11yproject.com/",
       "time": "00:49:14",
       "description": "Links, Artikel und Checklisten zum Thema Accessibility."
     },
     {
-      "name": "Surface – A building block for web-based text editors.",
+      "title": "Surface – A building block for web-based text editors.",
       "href": "http://interior.substance.io/modules/surface.html",
       "time": "00:49:14",
       "description": "<q lang=\"en\">A building block for web-based text editors.</q>"

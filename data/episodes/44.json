@@ -29,31 +29,31 @@
   "description": "Was wir lange wollten, haben wir diesmal geschafft: Den <a href=\"http://maddesigns.de/\">Sven Wolfermann</a>, auch bekannt als <a href=\"http://twitter.com/#!/maddesigns\">@maddesigns</a> aus der Nähe von Berlin endlich mal in unsere Sendung einzuladen. Leider ist uns in dem Zusammenhang die Tonqualität wieder mal etwas entglitten. Sorry dafür.",
   "topics": [
     {
-      "name": "Additional HTTP Status Codes",
+      "title": "Additional HTTP Status Codes",
       "href": "https://tools.ietf.org/html/draft-nottingham-http-new-status-02",
       "time": "00:00:00",
       "description": "Die Internet Engineering Task Force hat sich überlegt, dass die Welt neue HTTP-Statuscodes braucht. Welche das sind und wofür die gut sind (oder auch nicht), darüber sinnieren wir."
     },
     {
-      "name": "RequireJS 1.0 released",
+      "title": "RequireJS 1.0 released",
       "href": "http://tagneto.blogspot.com/2011/10/requirejs-10-released.html",
       "time": "00:00:00",
       "description": "Wir schauen uns den JavaScript-Loader namens RequireJS anlässlich seines finalen Releases an und besprechen, welche Probleme es lösen soll und <a href=\"http://thinkvitamin.com/code/javascript/organize-your-code-with-requirejs/\">wie man es einsetzt</a>."
     },
     {
-      "name": "More fun using the Web, with getUserMedia and native pages!",
+      "title": "More fun using the Web, with getUserMedia and native pages!",
       "href": "http://labs.opera.com/news/2011/10/19/",
       "time": "00:00:00",
       "description": "Eine Labs-Version des Opera Browsers wartet mit Webcam- und Mikrozugriff, vor allem aber mit einer Teilimplementation des <a href=\"http://dev.w3.org/csswg/css3-gcpm/\">CSS Generated Content for Paged Media Modules</a> auf. Dazu noch folgender Link: <a href=\"http://people.opera.com/howcome/2011/reader/index.html\">http://people.opera.com/howcome/2011/reader/index.html</a>"
     },
     {
-      "name": "PimpMyJS",
+      "title": "PimpMyJS",
       "href": "http://pimpmyjs.com/",
       "time": "00:00:00",
       "description": "Ein Frontend für den JavaScript/Node.js-basierten JavaScript-Minifizierer und -Verschönerer <a href=\"https://github.com/mishoo/UglifyJS\">UglifyJS</a>, der übrigens auch in den Chrome Dev Tools steckt. Webservice hier: <a href=\"http://marijnhaverbeke.nl/uglifyjs\">http://marijnhaverbeke.nl/uglifyjs</a>"
     },
     {
-      "name": "TYPO3 4.6 Release Notes",
+      "title": "TYPO3 4.6 Release Notes",
       "href": "http://wiki.typo3.org/TYPO3_4.6",
       "time": "00:00:00",
       "description": "TYPO3 4.6 ist erschienen und Sven erzählt uns, was es Neues kann!"
@@ -61,19 +61,19 @@
   ],
   "links": [
     {
-      "name": "CSS Term Poster (PDF)",
+      "title": "CSS Term Poster (PDF)",
       "href": "http://img.dreamdealer.nl/dd/css_term_poster.pdf",
       "time": "00:00:00",
       "description": "Ein Cheatsheet mit den korrekten Bezeichnungen der CSS-Syntax-Elemente."
     },
     {
-      "name": "Animate.css",
+      "title": "Animate.css",
       "href": "http://daneden.me/animate/",
       "time": "00:00:00",
       "description": "Eine Sammlung fertiger CSS Animationen als Drop-in-Lösung"
     },
     {
-      "name": "CSS3 Mobile Pack for Adobe® Fireworks® CS5",
+      "title": "CSS3 Mobile Pack for Adobe® Fireworks® CS5",
       "href": "http://blogs.adobe.com/labs/archives/2011/10/adobe-fireworks-css3-mobile-pack-released-to-labs.html",
       "time": "00:00:00",
       "description": "Ein Exporter von Fireworks zu CSS3."

@@ -40,42 +40,42 @@
   "audio": "http://workingdraft.de/podpress_trac/web/1714/0/wd-101.mp3",
   "title": "Canvas, HTML5, Damals",
   "description": "Das ist die letzte Revision für dieses Jahr. Wir danken allen treuen Hören, wünschen ein frohes Fest und einen verschleißfreien Rutsch ins neue Jahr!\n\nNach der internationalen Gala letzte Woche war diesmal wieder teutonisches Steineklopfen an der Web-Front angesagt. Schepp, Hans, Rod und Peter wühlten sich in bewährter Manier durch HTML5-News und andere Neuheiten.",
+  "news": [
+    {
+      "title": "HTML5-News",
+      "time": "00:00:12",
+      "description": "HTML 5 wird <a href=\"http://www.w3.org/TR/2012/CR-html5-20121217/\">CR</a>, HTML 5.1 wird <a href=\"http://www.w3.org/TR/2012/WD-html51-20121217/\">WD</a>. Was das bedeutet könnt ihr in Revision 99 nachhören oder <a href=\"http://www.peterkroener.de/html-5-wird-2014-webstandard-was-bedeutet-das-was-aendert-sich/\">bei Peter nachlesen</a>."
+    }
+  ],
   "topics": [
     {
-      "name": "-webkit-canvas()",
+      "title": "-webkit-canvas()",
       "href": "http://updates.html5rocks.com/2012/12/Canvas-driven-background-images",
       "time": "00:00:54",
       "description": "Neuerdings kann man in Webkit-Browsern Canvas-Elemente als Hintergrundbild-Generatoren verwenden. Wir finden das als Idee ganz nett, mögen aber eigentlich mehr die <a href=\"https://developer.mozilla.org/en-US/docs/CSS/element\">bei Mozilla verwendete Implementierung</a>, die vielseitiger ist und auch <a href=\"http://www.w3.org/TR/css4-images/#element-notation\">zur Standardisierung vorgesehen ist</a>"
     },
     {
-      "name": "The Web We Lost",
+      "title": "The Web We Lost",
       "href": "http://dashes.com/anil/2012/12/the-web-we-lost.html",
       "time": "00:14:39",
       "description": "Früher war alles bessser? Zumindest posutliert Anil Dash, dass in der letzten Dekade einige Dinge im Web verloren gegangen sind, um die es schade sei&nbsp;&ndash; Flickr-Dominanz, RSS-Feeds und Bloggerkultur z.B. Wir können dem nur sehr bedingt zustimmen, denn schließlich sind Flickr, RSS und Blogs noch immer da. Wir erkennen vor allem eine weniger nerdige Ausrichtung vieler <em>neuer</em> Angebote, die ihrer breiteren Zielgruppe geschuldet sind. Einwände?"
     },
     {
-      "name": "Das <main>-Element",
+      "title": "Das <main>-Element",
       "href": "http://www.w3.org/TR/2012/WD-html-main-element-20121217/",
       "time": "00:35:12",
       "description": "Die Einführung des neuen &lt;main&gt;-Elements ist so ziemlich beschlossene Sache. Übermäßigen Unmut darüber können wir nicht mobilisieren. Peter beschreibt, wie man aus der Puristen-Perspektive das Element überflüssig finden kann, erzählt aber auch, wie er dann zur Vernunft kam (auf die gleiche Weise wie auch <a href=\"http://www.brucelawson.co.uk/2012/why-changed-mind-about-main-element/\">Bruce Lawson</a>). Zum Ende stellen wir fest, dass man über nichts so gut streiten kann, wie über Semantik."
     }
   ],
-  "news": [
-    {
-      "name": "HTML5-News",
-      "time": "00:00:12",
-      "description": "HTML 5 wird <a href=\"http://www.w3.org/TR/2012/CR-html5-20121217/\">CR</a>, HTML 5.1 wird <a href=\"http://www.w3.org/TR/2012/WD-html51-20121217/\">WD</a>. Was das bedeutet könnt ihr in Revision 99 nachhören oder <a href=\"http://www.peterkroener.de/html-5-wird-2014-webstandard-was-bedeutet-das-was-aendert-sich/\">bei Peter nachlesen</a>."
-    }
-  ],
   "links": [
     {
-      "name": "Dom Compatibility Table",
+      "title": "Dom Compatibility Table",
       "href": "http://codylindley.com/dom-desktop-tests/",
       "time": "00:49:54",
       "description": "Kompatibilitätstabelle für das DOM. Ideale Ergänzung zu <a href=\"http://www.quirksmode.org/dom/events/\">all</a> <a href=\"http://kangax.github.com/es5-compat-table/\">den</a> <a href=\"http://kangax.github.com/es5-compat-table/es6/\">anderen</a> <a href=\"http://kangax.github.com/es5-compat-table/non-standard/\">Tabellen</a> <a href=\"http://caniuse.com/\">die</a> <a href=\"http://html5please.com/\">da</a> <a href=\"http://www.wufoo.com/html5/\">draußen</a> <a href=\"https://github.com/SirPepe/HTML5Resources/blob/master/Compatibility.md\">herumschwirren</a>."
     },
     {
-      "name": "From the Front 2012 Videos",
+      "title": "From the Front 2012 Videos",
       "href": "https://vimeo.com/channels/ftf12",
       "time": "00:49:54",
       "description": "Konferenzfilmchen. Schepp empfiehlt den Talk &#8220;A Happy Grain of Sand&#8221; von Aral Balkan (wird dort demnächst online gestellt) sowie <a href=\"https://vimeo.com/channels/ftf12/55427702\">&#8220;Inventing a New World&#8221; von Blaine Cook</a>. Rodney ist hingegen Fan des <a href=\"http://vimeo.com/channels/ftf12/55014906\">Usability-Testing-Talks von Steve Krug</a>"

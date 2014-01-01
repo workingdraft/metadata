@@ -27,54 +27,54 @@
   "description": "Und zum Format der Audiodatei: Besitzt ihr alle AAC-fähige Endgeräte und kann ich auf MP3 verzichten, oder ist das gammlige Encoding immer noch Pflicht?\n\nNoch einmal die Kapitelmarken-Diskussion: In der letzten Woche meldeten sich dann doch einige, denen nach Chaptermarks dürstete. Allerdings ist das schon ein recht großer Aufwand und wahrscheinlich beansprucht das immer noch ca. eine Stunde mehr an Nachbearbeitung. Ist es euch das wert? Oder lieber die Sendung früher bekommen und dafür auf Chapters verzichten?\n\nNach einer kurzen Osterpause geht es mit der Illuminatenfolge weiter. Der Schepp ist leider nicht dabei, aber dafür kann er uns nächste Woche dann umso mehr erzählen.",
   "topics": [
     {
-      "name": "Node.js + SPDY",
+      "title": "Node.js + SPDY",
       "href": "https://github.com/donnerjack13589/node-spdy",
       "description": "In der letzten Sendung noch gerätselt, ob schon jemand Googles SPDY-Protokoll mit node.js verheiratet hat, jetzt ist es passiert."
     },
     {
-      "name": "Calendar API",
+      "title": "Calendar API",
       "href": "http://www.w3.org/TR/2011/WD-calendar-api-20110419/",
       "description": "Zukunftskram: Mit dem hier spezifizierten Interface soll man als Webdeveloper einmal auf des Users Adressbuch zugreifen können."
     },
     {
-      "name": "Battery Status API",
+      "title": "Battery Status API",
       "href": "http://www.w3.org/TR/2011/WD-battery-status-20110426/",
       "description": "Zukunftskram: Hiermit soll es irgendwann einmal möglich sein, den Batteriestatus des Geräts auszulesen."
     },
     {
-      "name": "CSS/SVG-Filters",
+      "title": "CSS/SVG-Filters",
       "href": "https://dvcs.w3.org/hg/FXTF/raw-file/tip/filters/publish/Filters.html#FilterProperty",
       "description": "Zukunftskram: Photoshop noch seltener anschmeißen müssen, mit eingebauten Filterfunktionen."
     },
     {
-      "name": "Eve",
+      "title": "Eve",
       "href": "http://functionsource.com/post/eve-when-typing-events-is-too-much",
       "description": "Microframework für Events. Mit einer Art Grammatik. Hell yeah!"
     },
     {
-      "name": "CoffeeKup",
+      "title": "CoffeeKup",
       "href": "http://coffeekup.org/",
       "description": "CoffeeKup is markup as CoffeeScript."
     },
     {
-      "name": "HTML5 Accessibility Chops: the alt decision",
+      "title": "HTML5 Accessibility Chops: the alt decision",
       "href": "http://www.paciellogroup.com/blog/2011/04/html5-accessibility-chops-the-alt-decision/",
       "description": "26-seitige Abhandlung über die Problematik mit dem umdefinierten alt-Attribut."
     },
     {
-      "name": "CSS3-Transitions …",
+      "title": "CSS3-Transitions …",
       "href": "http://www.w3.org/TR/css3-transitions/#the-transition-property-property-",
       "description": "… sind doof, so wie sie derzeit überall implementiert sind. Das Keyword „all“ ist eine Lüge."
     }
   ],
   "links": [
     {
-      "name": "txt2re.com",
+      "title": "txt2re.com",
       "href": "http://txt2re.com/",
       "description": "RegEx-Generator"
     },
     {
-      "name": "Sloppy",
+      "title": "Sloppy",
       "href": "http://www.dallaway.com/sloppy/",
       "description": "Sloppy simuliert diverse Internetbandbreiten auf OSX/WIN/Linux in jedem Browser. /via <a href=\"http://twitter.com/polarity\">polarity</a>"
     }

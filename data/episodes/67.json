@@ -43,31 +43,31 @@
   "description": "Mit allen Mann an Deck stürzten wir uns auf die Themen der Woche. Jedenfalls auf die, die nichts mit Semikolons zu tun hatten.",
   "topics": [
     {
-      "name": "Meteor",
+      "title": "Meteor",
       "href": "http://meteor.com/",
       "time": "00:00:20",
       "description": "Ein recht beeindruckend anmutendes Echtzeit-Web-Framework. Wir finden, dass es höchste Eisenbahn wurde, dass mal jemand so etwas baut. Dumm nur, dass man den Security-Aspekt <a href=\"http://www.hopelesscom.de/2012/4/11/meteor_is_just_a_toy.html\">komplett vergessen hat</a> und auch, dass Meteor unter GPL steht, finden wir (<a href=\"http://blog.lassus.se/2012/04/meteor-meets-nogpl.html\">und andere</a>) mehr so mittelgut. Ähnliche Projekte mit teils ähnlichen, teils anderen Problemen sind <a href=\"http://derbyjs.com/\">Derby</a>, <a href=\"http://firebase.com/\">Firebase</a> und <a href=\"http://spacemagic.io/\">Spacemagic</a>."
     },
     {
-      "name": "Media Query & Asset Downloading Results",
+      "title": "Media Query & Asset Downloading Results",
       "href": "http://timkadlec.com/2012/04/media-query-asset-downloading-results/",
       "time": "00:15:21",
       "description": "Lädt ein Browser Bilder herunter, die er, weil sie in nicht zutreffenden Media Queries stehen, gar nicht laden müsste? Die Antwort ist ein klares Jain. Bilder stattdessen einfach inlinen? Was passiert mit Fonts (denen man ja auch via <a href=\"http://www.w3.org/TR/css3-fonts/#unicode-range-desc\">unicode-range</a> oder <a href=\"https://github.com/Pomax/Font.js\">Font.js</a> zu Leibe rücken könnte)? Und warum standardisiert das nicht endlich mal jemand? Fragen über Fragen."
     },
     {
-      "name": "Spielereien mit CSS Regions",
+      "title": "Spielereien mit CSS Regions",
       "href": "http://experiments.hertzen.com/css-regions/index.html",
       "time": "00:31:30",
       "description": "Kreative Zweckentfremdungen von <a href=\"http://www.w3.org/TR/css3-regions/\">CSS Regions</a>. Schade nur, dass die Aussichten in Richtung Standardisierung und Stabilisierung eher mau sind."
     },
     {
-      "name": "Light Table",
+      "title": "Light Table",
       "href": "http://www.chris-granger.com/2012/04/12/light-table---a-new-ide-concept/",
       "time": "00:45:44",
       "description": "Ein innovatives IDE-Konzept, das sich u.A. aus <a href=\"http://vimeo.com/36579366\">diesem Talk</a> ableitet. Alle finden es toll und wir überwiegend auch. Die <a href=\"http://www.chris-granger.com/2012/04/15/light-tables-numbers/\">nächsten geplanten Schritte</a> sehen <a href=\"http://www.kickstarter.com/projects/306316578/light-table\">einen Kickstarter</a> sowie das zeitnahe Opensourcing vor. Man darf gespannt sein."
     },
     {
-      "name": "Move Over 1024×768: The Most Popular Screen Resolution On The Web Is Now 1366×768",
+      "title": "Move Over 1024×768: The Most Popular Screen Resolution On The Web Is Now 1366×768",
       "href": "http://techcrunch.com/2012/04/11/move-over-1024x768-the-most-popular-screen-resolution-on-the-web-is-now-1366x768/",
       "time": "00:55:12",
       "description": "<a href=\"https://twitter.com/#!/html5douche/status/190520034852995073\">Öh, naja.</a> Darüber, ob man sich überhaupt noch Gedanken um Auflösungen machen sollte, kann man aber in der Tat debattieren, was wir uns auch nicht nehmen lassen."
@@ -75,19 +75,19 @@
   ],
   "links": [
     {
-      "name": "The Current State of HTML5 Forms",
+      "title": "The Current State of HTML5 Forms",
       "href": "http://wufoo.com/html5/",
       "time": "01:11:47",
       "description": "Detaillierter Überblick über HTML5-Formularfeatures mit regelmäßigen Updates."
     },
     {
-      "name": "Understanding MVVM",
+      "title": "Understanding MVVM",
       "href": "http://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/",
       "time": "01:11:47",
       "description": "Addy Osmani erklärt wortreich MVVM."
     },
     {
-      "name": "Mobile Patterns",
+      "title": "Mobile Patterns",
       "href": "http://mobile-patterns.com/",
       "time": "01:11:47",
       "description": "Galerie für mobile UIs."

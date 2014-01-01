@@ -34,54 +34,54 @@
   "description": "Wer uns übrigens einen Audio-Kommentar (Fragen, Lob, Tadel) zusenden möchte, der kann und sollte das gerne tun. Entweder via Mail an <a href=\"mailto:mail@markus-schlegel.com\">mail@markus-schlegel.com</a> oder als <a href=\"http://audioboo.fm/\">Audioboo</a> mit dem Tag &#8220;workingdraft&#8221;. Vielen Dank schon mal.\n\nDiese Folge ist sowas von <a href=\"http://audioboo.fm/boos/335136-geile-scheie-alter\">geile Scheiße, Alter&trade;</a>. Unabhängig davon rufen wir nochmals alle Hörer dazu auf, den <a href=\"https://twitter.com/codepo8\">Chris Heilmann</a> zu überreden, dass er uns bald mit seiner Präsenz bei einer Firefox-Sondersendung beglückt.",
   "topics": [
     {
-      "name": "Der Internet Explorer erscheint als Preview in Version 10",
+      "title": "Der Internet Explorer erscheint als Preview in Version 10",
       "href": "http://blogs.msdn.com/b/ie/archive/2011/04/12/native-html5-first-ie10-platform-preview-available-for-download.aspx",
       "description": "Neue Features sind hauptsächlich im CSS3-Bereich zu finden. Vor allem <a href=\"http://www.drweb.de/magazin/series/css-3-spaltenlayouts/\">die neuen Layout-Techniken</a>, <a href=\"http://www.peterkroener.de/ecmascript5-die-nachste-version-von-javascript-teil-1-ein-uberblick/\">ES5</a>, Transitions und 3D-Transforms (!) sind erfreuliche Neuerungen. Viel wichtiger ist allerdings die Frage, ob Microsoft mit dem IE nun auch auf kurze Releasezyklen (vielleicht) oder gar Auto-Updates (unwahrscheinlich) setzt. Auch gut: Microsoft lernt langsam, <a href=\"http://www.computerworld.com/s/article/9215791/Windows_Vista_No_IE10_for_you\">alte Zöpfe abzuschneiden</a>."
     },
     {
-      "name": "I for one welcome our micro-framework overlords",
+      "title": "I for one welcome our micro-framework overlords",
       "href": "http://mir.aculo.us/2011/04/11/i-for-one-welcome-our-new-micro-framework-overlords/",
       "description": "Thomas Fuchs plädiert für die Nutzung kleinerer Mini-Frameworks und spricht sich gegen jQuery, MooTools, YUI und die anderen Schlachtschiffe aus. Wir fragen uns, ob das für Ottonormalwebworker überhaupt sinnvoll ist."
     },
     {
-      "name": "Live.js",
+      "title": "Live.js",
       "href": "http://livejs.com/",
       "description": "Einfach das kleine Skript einbinden und fertig. Dann hat man eine Auto-Refresh-Funktion zum bequemeren Entwickeln, ohne nach jedem Speichern das Fenster wechseln und manuell den Auffrisch-Button betätigen zu müssen."
     },
     {
-      "name": "Google Calendar bekommt ein neues Favicon",
+      "title": "Google Calendar bekommt ein neues Favicon",
       "href": "http://gmailblog.blogspot.com/2011/04/5-years-of-google-calendar-and-new.html",
       "description": "Wir nehmen das zum Anlass, darüber zu philosophieren, wozu man Favicons noch missbrauchen könnte."
     },
     {
-      "name": "CSS-Gradient-Klick-Editor von Microsoft",
+      "title": "CSS-Gradient-Klick-Editor von Microsoft",
       "href": "http://ie.microsoft.com/testdrive/Graphics/CSSGradientBackgroundMaker/Default.html",
       "description": "Wir meinen, dass man das auch ohne Probleme kompatibel zu den alten IEs hätte basteln können, trotz <a href=\"http://maddesigns.de/ie9-mit-css3-border-radius-und-linear-gradient-problemen-813.html\">Problemchen im IE9 mit Filtern und runden Ecken</a>."
     },
     {
-      "name": "jQuery.easie.js",
+      "title": "jQuery.easie.js",
       "href": "http://janne.aukia.com/easie/",
       "description": "jQuery-Plugin, das in älteren Browsern das &#8220;transition-timing-function&#8221; simuliert. Erst durch dieses Plugin ist Markus aufgefallen, dass es ja schon längst eine Lösung für sein kompliziertes 3D-Rotationsproblem gibt."
     },
     {
-      "name": "Bookmarklet-Creator",
+      "title": "Bookmarklet-Creator",
       "href": "http://chris.zarate.org/projects/bookmarkleter/",
       "description": "Mit diesem Tool kann man JavaScript in Bookmarklet-kompatiblen Code umwandeln. Wir diskutieren über Sinn und Unsinn von Bookmarklets im Allgemeinen."
     }
   ],
   "links": [
     {
-      "name": "Media-Query-Tester",
+      "title": "Media-Query-Tester",
       "href": "http://bueltge.de/test/media-query-tester.php",
       "description": "Praktisches Tool, um Media-Queries auf verschiedenen Viewports zu testen."
     },
     {
-      "name": "confess.js",
+      "title": "confess.js",
       "href": "https://github.com/jamesgpearce/confess",
       "description": "A small script library that uses PhantomJS to headlessly analyze web pages. One useful application of this is to enumerate a web app&#8217;s resources for the purposes of creating a cache manifest file to make your apps run offline. So useful that, right now, that&#8217;s the only behavior."
     },
     {
-      "name": "CSS Stress Testing and Performance Profiling",
+      "title": "CSS Stress Testing and Performance Profiling",
       "href": "http://andy.edinborough.org/CSS-Stress-Testing-and-Performance-Profiling",
       "description": "Mit Brute-Force-Methode herausfinden, welche CSS-Eigenschaft für eventuelle Slugginess auf einer Seite verantwortlich ist."
     }

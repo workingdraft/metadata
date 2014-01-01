@@ -30,44 +30,44 @@
   "description": "Bei unserer Tonqualität ist es wie beim Google Linkjuice: Zählt man alle Beteiligten zusammen, kommt immer die Zahl 1 heraus. Während Markus nun also THX-Ultra-zertifiziert ist, zerbröselten unserem Gast <a href=\"http://twitter.com/nicobruenjes\">Nico Brünjes</a>, <a href=\"http://codecandies.de\">Frontendentwickler</a> bei <a href=\"http://www.zeit.de\">ZEIT ONLINE</a>, reihenweise die Headsets unter den Fingern weg :(",
   "topics": [
     {
-      "name": "W3C HTML5 Logo!",
+      "title": "W3C HTML5 Logo!",
       "href": "http://www.w3.org/html/logo/",
       "description": "Das ansonsten eher langweilige W3C überrascht mit einer Art Promotion-Aktion: Auf einer sehr schicken, modernen Seite präsentiert es ein Logo, das vielleicht von Superhelden, vielleicht von einem 3D-Würfel inspiriert ist. Dazu gibt es einen HTML5-Gummipunkt-Generator und ein T-Shirt. Wir finden&#8217;s gut und Nico hat sich direkt das T-Shirt bestellt.<p></p>"
     },
     {
-      "name": "HTML is the new HTML5",
+      "title": "HTML is the new HTML5",
       "href": "http://blog.whatwg.org/html-is-the-new-html5",
       "description": "Die WHATWG denkt die korrekte Namensgebung der <i>HTML-Version-nach-HTML-4.01</i>, formerly known as <i>HTML 5</i>, formerly known as <i>HTML5</i>, konsequent zu Ende und stellt fest: Die HTML-Spezifikation ist permanent im Fluss und macht keinen Halt bei Versionnummern, also weg mit der 5! Ab jetzt heisst die Spezifikation selbst nur noch <i>HTML</i>. Und <i>HTML5</i> möge neuerdings ein Schlagwort für diejenige Generation Webanwendungen sein, die allem <i>Web-Zwo-Nulligen</i> nachfolgt. JavaScript und CSS als Techniken inklusive. <p></p>"
     },
     {
-      "name": "Using CSS Selectors as Fragment Identifiers",
+      "title": "Using CSS Selectors as Fragment Identifiers",
       "href": "http://simonstl.com/articles/cssFragID.html",
       "description": "Der altehrwürdige Eric Meyer und Simon St.Laurent von O&#8217;Reilly Media haben einen inoffiziellen Draft online gestellt, in dem sie eine neue Sprungmarker (Fragment) Syntax im CSS-Selektor-Stil vorschlagen. So soll man beispielsweise mit folgender URL direkt zu dem zweiten Absatz einer Seite springen können: <code>http://example.com/lorem.html#css(p:nth-child(2))</code>.<p></p>"
     },
     {
-      "name": "Learning from Twitter",
+      "title": "Learning from Twitter",
       "href": "http://ejohn.org/blog/learning-from-twitter/",
       "description": "Dass man selbst mit jQuery noch großen Bockmist bauen kann, haben letzte Woche die Twitter-Programmierer bewiesen. Dumm war, dass sie <a href=\"http://www.dustindiaz.com/about-that-slowness-on-twitter/\">behauptet hatten</a>, es läge an der neuen jQuery-Version dass Twitter neuerdings so langsam geworden war. Das hat John Resig dazu animiert, sich deren Code genauer anzuschauen, und er hat dabei Grauenhaftes zu Tage gefördert.<p></p>"
     },
     {
-      "name": "Hinter dem mobilen Proxy",
+      "title": "Hinter dem mobilen Proxy",
       "href": "http://codecandies.de/2011/01/20/hinter-dem-mobilen-proxy/",
       "description": "Unser Gast Nico Brünjes schrieb letzte Woche über eine sehr unangenehme Entdeckung, die er und sein Team von ZEIT ONLINE machten: Die mobilen Zugangsprovider manipulieren das HTML, JavaScript und CSS nach gutdünken um, und vor allem stillschweigend. Das geht dummerweise ganz und gar nicht zerstörungsfrei vonstatten.<p></p>"
     },
     {
-      "name": "Mozilla plant Do-not-track-HTTP-Header",
+      "title": "Mozilla plant Do-not-track-HTTP-Header",
       "href": "http://www.golem.de/1101/80917.html",
       "description": "Mozilla und Microsoft planen, den Browser mit einer zusätzlichen Header auszustatten, dem <code>X-Tracking-Choice: do-not-track</code>. Dieser soll immer dann gesendet werden, wenn der Benutzer von Inhalteanbietern nicht getrackt werden will. Das Ganze setzt allerdings voraus, dass die Gegenseite diesen Header auswertet und respektiert. Beim Diskutieren darüber kommt uns die <a href=\"https://www.robinsonliste.de/\">Robinson Liste</a> in den Sinn. Google will es in Chrome hingegen via <a href=\"https://chrome.google.com/extensions/detail/hhnjdplhmcnkiecampfdgfjilccfpfoe\">Browsererweiterung</a> lösen."
     },
     {
-      "name": "ARPAgeddon (IPv4 Countdown)",
+      "title": "ARPAgeddon (IPv4 Countdown)",
       "href": "https://twitter.com/#!/IPv4Countdown",
       "description": "Unser Vorrat an IPv4-Adressen geht nun wirklich zur Neige. Knapp über 30 Millionen Adressen sind noch frei, 4,3 Milliarden sind in Gebrauch. Laut ARPAgeddon hält der verbliebene Vorrat noch für etwa eine Woche. Es wird also höchste Zeit, breitflächig auf IPv6 mit seinen <a href=\"http://de.wikipedia.org/wiki/IP-Adresse\">665 Billiarden möglichen IP-Adressen</a> umzusteigen &#8211; auch wenn es vielleicht weh tun wird."
     }
   ],
   "links": [
     {
-      "name": "UglifyJS",
+      "title": "UglifyJS",
       "href": "https://github.com/mishoo/UglifyJS/",
       "description": "Neuer JavaScript-Minifizierer und -Beautifier (Gegenteil von ersterem), der auf node.js läuft und dadurch doppelt bis fünf mal so schnell arbeitet wie der YUI Compressor oder Googles Closure. Kommt im Gegensatz zu letzterem auch mit <code>eval()</code> und (dem bösen) <code>with{}</code> klar, und verfügt über eine Google Closure kompatible <a href=\"http://marijnhaverbeke.nl/uglifyjs\">HTTP-API</a>. Steckt auch im kommenden <a href=\"http://trac.webkit.org/changeset/76132\">WebKit Webinspector</a>"
     }

@@ -29,31 +29,31 @@
   "description": "Frostig war es draußen, und Vollmond womöglich auch, als sich Schepp mit <a href=\"http://www.mademyday.de/\">Marc Hinse</a>, aka <a href=\"http://twitter.com/#!/MadeMyDay\">@MadeMyDay</a>, und <a href=\"http://drublic.de\">Hans Reinl</a>, aka <a href=\"https://twitter.com/#!/drublic\">@drublic</a> und Frontendentwickler aus Freiburg, ans virtuelle Kaminfeuer setzte und mit ihnen zusammen die Woche revuepassieren ließ.",
   "topics": [
     {
-      "name": "Broadway: An H.264 Decoder in JavaScript Running at 30fps",
+      "title": "Broadway: An H.264 Decoder in JavaScript Running at 30fps",
       "href": "http://badassjs.com/post/12035631618/broadway-an-h-264-decoder-in-javascript-running-at",
       "time": "00:00:50",
       "description": "Endlich hat jemand mit <a href=\"https://github.com/kripken/emscripten\">Emscripten</a> einen H.264-Polyfill gebaut, und zwar auf Basis des quelloffenen Android C++ H.264-Decoders. Läuft derzeit nur in Firefox mit aktivierter Type Inference, aber es ist ein Schritt in die richtige Richtung! Auf GitHub liegt das <a href=\"https://github.com/mbebenita/Broadway\">Projekt</a>, <a href=\"http://yfrog.com/nmng0z\">ein Video davon in Aktion</a> gibt es auch."
     },
     {
-      "name": "WHATWG Weekly: Now it’s <time> for <data>",
+      "title": "WHATWG Weekly: Now it’s <time> for <data>",
       "href": "http://blog.whatwg.org/weekly-time-data",
       "time": "00:08:40",
       "description": "Dem Hixie ging das <code>&lt;time&gt;</code>-Element seit July volles Pfund auf die Eier. Also hat er es aus der WHATWG HTML5 Spec gekickt und als Ersatz das generische <code>&lt;data&gt;</code> vorgeschlagen. Nun laufen alle Amok und betreiben <a href=\"https://twitter.com/search/realtime/#occupyhtml5\">#occupyhtml5</a>. Eric Eggert hat die Fakten mal <a href=\"http://willyou.typewith.me/p/9Zl7I2dOKs\">zusammengesammelt</a>. Und Jeremy Keith hat das Ganze in Worte <a href=\"http://adactio.com/journal/4982/\">gekleidet</a>."
     },
     {
-      "name": "Announcing the jQuery Standards Team",
+      "title": "Announcing the jQuery Standards Team",
       "href": "http://blog.jquery.com/2011/10/24/announcing-the-jquery-standards-team/",
       "time": "00:24:10",
       "description": "Weil Spec-Editoren und Browserhersteller kaum weiter entfernt von der Webworker-Praxis sein könnten, Webworker aber bislang in den Gremien weder eine Lobby, noch brauchbaren Zugang zu den Entwicklungsprozessen hatten, haben sich die jQuery-Macher gedacht: &#8220;Das muss sich ändern!&#8221; Mit &#8220;jQuery&#8221; als Vehikel sollen von diesem Standards Team Vorschläge aus der Community gesammelt, destilliert und in die Gremien eingebracht werden. Jeder darf mitmachen!"
     },
     {
-      "name": "Displaying hidden elements like <head> using CSS",
+      "title": "Displaying hidden elements like <head> using CSS",
       "href": "http://mathiasbynens.be/notes/css-hidden-elements",
       "time": "00:34:55",
       "description": "In dieser Woche stolperten wir über dieses nicht ganz brandneue Thema, dass man ja auch Elemente aus dem HTML-Kopfbereich sichtbar und sich zunutze machen kann. Möglicherweise brotlose Kunst, aber geil!"
     },
     {
-      "name": "Umatchedstyle CSSOff",
+      "title": "Umatchedstyle CSSOff",
       "href": "http://www.unmatchedstyle.com/cssoff/",
       "time": "00:49:44",
       "description": "CSSOff ist ein mit großem Trommelwirbel angekündigter CSS-Wettbewerb. Da wir uns alle Drei dafür angemeldet haben, tauschen wir uns darüber natürlich aus."
@@ -61,25 +61,25 @@
   ],
   "links": [
     {
-      "name": "The Node Toolbox",
+      "title": "The Node Toolbox",
       "href": "http://toolbox.no.de/",
       "time": "01:12:05",
       "description": "AaaLLE Node.js-Erweiterungen, die es überhaupt gibt. In einem sortierten Katalog. Na gut, vielleicht nicht alle. Aber fast."
     },
     {
-      "name": "Vimeo Musicstore",
+      "title": "Vimeo Musicstore",
       "href": "http://vimeo.com/musicstore",
       "time": "01:12:05",
       "description": "Vimeo vertreibt seit dieser Woche kostenlos nutzbare, wie auch gegen einen kleinen Obulus nutzbare Musiktracks zum Hinterlegen von Video oder (CSS-)Animationen."
     },
     {
-      "name": "Useful Coding Tools and JavaScript Libraries For Web Developers",
+      "title": "Useful Coding Tools and JavaScript Libraries For Web Developers",
       "href": "http://www.smashingmagazine.com/2011/10/28/useful-coding-workflow-tools-for-web-designers-developers/",
       "time": "01:12:05",
       "description": "Wieder mal ein umfassender Rundumschlag durch die Welt der neuen Webservices und Tools für Webentwickler."
     },
     {
-      "name": "Animatable: A CSS transitions gallery",
+      "title": "Animatable: A CSS transitions gallery",
       "href": "http://lea.verou.me/2011/10/animatable-a-css-transitions-gallery/",
       "time": "01:12:05",
       "description": "CSS-Guru-esse Lea Verou hat sich das Thema CSS Transitions vorgenommen und <a href=\"http://leaverou.github.com/animatable/\">ein Showcase</a> animierbarer Elementeigenschaften aufgesetzt."

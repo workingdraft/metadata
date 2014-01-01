@@ -34,49 +34,49 @@
   "description": "Tolle Folge. Nuffsaid.",
   "topics": [
     {
-      "name": "@viewport in Opera",
+      "title": "@viewport in Opera",
       "href": "http://dev.opera.com/articles/view/an-introduction-to-meta-viewport-and-viewport/",
       "time": "00:00:19:000"
     },
     {
-      "name": "W3C Resource Timing",
+      "title": "W3C Resource Timing",
       "href": "http://www.w3.org/TR/2011/WD-resource-timing-20110524/",
       "time": "00:11:44:000"
     },
     {
-      "name": "sencha.io",
+      "title": "sencha.io",
       "href": "http://www.sencha.com/products/io/",
       "time": "00:15:56:000"
     },
     {
-      "name": "CSS pointer-events",
+      "title": "CSS pointer-events",
       "href": "https://developer.mozilla.org/en/CSS/pointer-events",
       "time": "00:24:55:000"
     },
     {
-      "name": "Firefox Aurora 6",
+      "title": "Firefox Aurora 6",
       "href": "https://hacks.mozilla.org/2011/05/aurora-6-is-here/",
       "time": "00:41:27:000"
     }
   ],
   "links": [
     {
-      "name": "Gehosteter Winere-Server",
+      "title": "Gehosteter Winere-Server",
       "href": "http://debug.phonegap.com/",
       "time": "01:11:03:000"
     },
     {
-      "name": "Website aus Schokolade und Bier und Awesomesauce",
+      "title": "Website aus Schokolade und Bier und Awesomesauce",
       "href": "http://www.sagres.pt/sagrespretachocolate/#/homepage",
       "time": "01:11:52:000"
     },
     {
-      "name": "Inline the crap out of your site",
+      "title": "Inline the crap out of your site",
       "href": "http://inliner.leftlogic.com/",
       "time": "01:12:39:000"
     },
     {
-      "name": "SVG Background Gradient Maker",
+      "title": "SVG Background Gradient Maker",
       "href": "http://ie.microsoft.com/testdrive/Graphics/SVGGradientBackgroundMaker/Default.html",
       "time": "01:13:47:000"
     }

@@ -28,84 +28,84 @@
   "audio": "http://workingdraft.de/podpress_trac/web/1845/0/wd-111.mp3",
   "title": "Performance-Proxy, Media Queries Level 4, http-client-hints",
   "description": "Eigentlich haben wir alle keine Zeit, aber das ist keine Ausrede&nbsp;&ndash; jedenfalls nicht für Schepp, Peter und <a href=\"http://twitter.com/frederichemberger\">Frederic</a>.",
-  "topics": [
-    {
-      "name": "Data Compression Proxy",
-      "href": "https://developers.google.com/chrome/mobile/docs/data-compression",
-      "time": "00:01:51",
-      "description": "Google bastelt einen Performance-Proxy für mobiles Surfen, vergleichbar mit <a href=\"http://help.opera.com/Linux/10.52/de/turbo.html\">Opera Turbo</a>. Jede (nicht-HTTPS) Anfrage wird durch einen Google-Server getunnelt, der Performancetuning mit z.B. <a href=\"http://dev.chromium.org/spdy/\">SPDY</a> und <a href=\"https://developers.google.com/speed/pagespeed/mod?hl=de\">mod_pagespeed</a> vernimmt, bevor die Daten an den Nutzer weitergeleitet werden. Performance-Papst Schepp findet die Idee total klasse, während sich Peter fragt, ob man wirklich jeden seiner HTTP-Requests zu Google tragen möchte&nbsp;&ndash; viel besser wäre es doch, die Mobilfunknetze auszubauen."
-    },
-    {
-      "name": "The Good & Bad of Level 4 Media Queries",
-      "href": "http://www.stucox.com/blog/the-good-and-bad-of-level-4-media-queries/",
-      "time": "00:17:35",
-      "description": "Noch sind <a href=\"http://dev.w3.org/csswg/mediaqueries4/\">Media Queries Level 4</a> alles andere fertig, aber ein bisschen Spec-Exegese kann man schon betreiben. Der Artikel von Stu Cox und wir reiben uns ein wenig am Media Feature <code>pointer</code>, das nicht ganz durchdacht scheint. Nicht zuletzt fehlt eine Option für den <a href=\"http://www.chromeexperiments.com/detail/gesture-based-revealjs/\">Minority Report Mode</a>. Wäre es nicht besser, wenn wir einfach weniger Annahmen über die Eingabegeräte der Nutzer machen würden?"
-    },
-    {
-      "name": "http-client-hints",
-      "href": "https://github.com/igrigorik/http-client-hints",
-      "time": "00:27:48",
-      "description": "Ilya Grigorik will, dass wir <em>genauere</em> Annahmen über die Endgeräte der Surfer machen können und spezifiziert einen HTTP-Header für solche Informationen. Peter fühlt sich bei sowas an die <a href=\"http://webaim.org/blog/user-agent-string-history/\">History of the browser user-agent string</a>, Viewports und andere Flunkereien durch Browser erinnert und fragt sich, warum dieses mal alles anders sein sollte."
-    }
-  ],
   "news": [
     {
-      "name": "Google and MPEG LA Agree, Free VP8",
+      "title": "Google and MPEG LA Agree, Free VP8",
       "href": "https://hacks.mozilla.org/2013/03/google-and-mpeg-la-announce-agreement/",
       "time": "00:00:23",
       "description": "Der VP8-Codec (verwendet in WebM) wird auch in Zukunft nicht in die Nichtexistenz geklagt werden."
     },
     {
-      "name": "Opera 14 Beta",
+      "title": "Opera 14 Beta",
       "href": "http://my.opera.com/ODIN/blog/2013/03/05/opera-14-beta-for-android-is-out",
       "time": "00:00:23",
       "description": "Der erste Opera mit Webkit. Besonders schön: Läuft anders als Chrome und Co bereits ab Android 2.3."
     },
     {
-      "name": "Node.js 0.10",
+      "title": "Node.js 0.10",
       "href": "http://blog.nodejs.org/2013/03/11/node-v0-10-0-stable/",
       "time": "00:00:23",
       "description": "Neues Streams-Interface, stark verbesserte Performance und diverse Bugfixes."
     }
   ],
+  "topics": [
+    {
+      "title": "Data Compression Proxy",
+      "href": "https://developers.google.com/chrome/mobile/docs/data-compression",
+      "time": "00:01:51",
+      "description": "Google bastelt einen Performance-Proxy für mobiles Surfen, vergleichbar mit <a href=\"http://help.opera.com/Linux/10.52/de/turbo.html\">Opera Turbo</a>. Jede (nicht-HTTPS) Anfrage wird durch einen Google-Server getunnelt, der Performancetuning mit z.B. <a href=\"http://dev.chromium.org/spdy/\">SPDY</a> und <a href=\"https://developers.google.com/speed/pagespeed/mod?hl=de\">mod_pagespeed</a> vernimmt, bevor die Daten an den Nutzer weitergeleitet werden. Performance-Papst Schepp findet die Idee total klasse, während sich Peter fragt, ob man wirklich jeden seiner HTTP-Requests zu Google tragen möchte&nbsp;&ndash; viel besser wäre es doch, die Mobilfunknetze auszubauen."
+    },
+    {
+      "title": "The Good & Bad of Level 4 Media Queries",
+      "href": "http://www.stucox.com/blog/the-good-and-bad-of-level-4-media-queries/",
+      "time": "00:17:35",
+      "description": "Noch sind <a href=\"http://dev.w3.org/csswg/mediaqueries4/\">Media Queries Level 4</a> alles andere fertig, aber ein bisschen Spec-Exegese kann man schon betreiben. Der Artikel von Stu Cox und wir reiben uns ein wenig am Media Feature <code>pointer</code>, das nicht ganz durchdacht scheint. Nicht zuletzt fehlt eine Option für den <a href=\"http://www.chromeexperiments.com/detail/gesture-based-revealjs/\">Minority Report Mode</a>. Wäre es nicht besser, wenn wir einfach weniger Annahmen über die Eingabegeräte der Nutzer machen würden?"
+    },
+    {
+      "title": "http-client-hints",
+      "href": "https://github.com/igrigorik/http-client-hints",
+      "time": "00:27:48",
+      "description": "Ilya Grigorik will, dass wir <em>genauere</em> Annahmen über die Endgeräte der Surfer machen können und spezifiziert einen HTTP-Header für solche Informationen. Peter fühlt sich bei sowas an die <a href=\"http://webaim.org/blog/user-agent-string-history/\">History of the browser user-agent string</a>, Viewports und andere Flunkereien durch Browser erinnert und fragt sich, warum dieses mal alles anders sein sollte."
+    }
+  ],
+  "randomSpec": [
+    {
+      "title": "Timed Text Tracks",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/#timed-text-tracks",
+      "time": "00:40:05",
+      "description": "Wir fabulieren ein wenig über Video-Untertitel, das <a href=\"http://dev.w3.org/html5/webvtt/\">WebVTT-Format</a>, <a href=\"http://de.scribd.com/doc/99333562/Mario-Heiderich-Got-Your-Nose-How-to-Steal-Your-Precious-Data-Without-Using-Scripts\">Security</a> sowie <a href=\"https://transloadit.com/\">Transloadit</a> und andere Datei-Umwandel-Dienste. Außerdem empfehlen wir den Talk <a href=\"https://vimeo.com/53317252\">The State of HTML5 Video</a> von Jeroen Wijering."
+    }
+  ],
   "links": [
     {
-      "name": "Finer grained control of hyphenation with CSS4 Text – Generated Content by David Storey",
+      "title": "Finer grained control of hyphenation with CSS4 Text – Generated Content by David Storey",
       "href": "http://generatedcontent.org/post/44751461516/finer-grained-control-of-hyphenation-with-css4-text",
       "time": "00:51:05",
       "description": "Funktioniert sogar schon in IE 10 und Safari."
     },
     {
-      "name": "Using SVG",
+      "title": "Using SVG",
       "href": "http://css-tricks.com/using-svg/",
       "time": "00:51:05",
       "description": "Umfassender Überblick von Chris Coyier zum Thema."
     },
     {
-      "name": "Codebase",
+      "title": "Codebase",
       "href": "http://www.codebasehq.com/",
       "time": "00:51:05",
       "description": "Github für mehr als nur Git plus Projektverwaltung."
     },
     {
-      "name": "Spenden für Tern",
+      "title": "Spenden für Tern",
       "href": "http://www.indiegogo.com/projects/tern-intelligent-javascript-editing",
       "time": "00:51:05",
       "description": "Open-Source-JavaScript-Autocompletion kann man nicht kaufen, aber crowdfunden."
     },
     {
-      "name": "Meaningful Transitions",
+      "title": "Meaningful Transitions",
       "href": "http://www.ui-transitions.com/",
       "time": "00:51:05",
       "description": "Schöne Patterns für Transitions in UIs."
-    }
-  ],
-  "randomSpec": [
-    {
-      "name": "Timed Text Tracks",
-      "href": "http://www.whatwg.org/specs/web-apps/current-work/#timed-text-tracks",
-      "time": "00:40:05",
-      "description": "Wir fabulieren ein wenig über Video-Untertitel, das <a href=\"http://dev.w3.org/html5/webvtt/\">WebVTT-Format</a>, <a href=\"http://de.scribd.com/doc/99333562/Mario-Heiderich-Got-Your-Nose-How-to-Steal-Your-Precious-Data-Without-Using-Scripts\">Security</a> sowie <a href=\"https://transloadit.com/\">Transloadit</a> und andere Datei-Umwandel-Dienste. Außerdem empfehlen wir den Talk <a href=\"https://vimeo.com/53317252\">The State of HTML5 Video</a> von Jeroen Wijering."
     }
   ]
 }

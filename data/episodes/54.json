@@ -25,31 +25,31 @@
   "description": "Frohes Neues wünschen wir Euch allen! <a href=\"http://twitter.com/#!/sirpepe\">Peter</a> und <a href=\"http://twitter.com/#!/derSchepp\">Schepp</a> reden über:",
   "topics": [
     {
-      "name": "Firefox",
+      "title": "Firefox",
       "href": "http://www.mozilla.org/de/firefox/",
       "time": "00:00:19",
       "description": "Die nächsten Feuerfüchse warten mit einer ganzen Reihe wünschenswerter Neuerungen auf:<p></p>\n<ul>\n<li><a href=\"https://twitter.com/#!/brianbondy/statuses/154935867650224128\">Der Firefox Nightly arbeitet nun wie Chrome mit Silent Updates</a></li>\n<li><a href=\"http://blog.mozilla.com/addons/2012/01/05/default-compatibility-is-coming-and-your-help-is-needed/\">Ab Firefox 10 sind Add-ons, umgekehrt zu früher, per se kompatibel</a></li>\n<li><a href=\"http://blog.pearce.org.nz/2011/12/changes-to-dom-full-screen-api-in.html\">Firefox 11 verbessert das Verhalten der Fullscreen API</a></li>\n<li><a href=\"http://www.golem.de/1201/88956.html\">Firefox 10 wird es für &#8220;Schlipse&#8221; (Corporate) in einer besonderen Extended Support Release (ESR) Version geben</a></li>\n</ul>"
     },
     {
-      "name": "Proposed HTML elements and attributes",
+      "title": "Proposed HTML elements and attributes",
       "href": "http://www.w3.org/html/wg/next/markup/",
       "time": "00:23:48",
       "description": "Für HTML.Next sind eine Reihe neuer HTML-Bausteine angedacht, deren Umfang und Sinn wir erforschen."
     },
     {
-      "name": "The New Web Typography",
+      "title": "The New Web Typography",
       "href": "http://ie.microsoft.com/testdrive/Graphics/opentype/opentype-fontbureau/index.html",
       "time": "00:35:25",
       "description": "Firefox 8 und Internet Explorer 10 sind die ersten Browser, die für uns die ganzen Zusatzfeatures von OpenType Schriften wie Small Caps, Ligaturen, Numerale, Kerning, Fractions oder Alternative Zeichen freilegen. Da läuft dem Typo-Affiniado das Wasser im Munde zusammen!"
     },
     {
-      "name": "Profiling CSS for fun and profit. Optimization notes.",
+      "title": "Profiling CSS for fun and profit. Optimization notes.",
       "href": "http://perfectionkills.com/profiling-css-for-fun-and-profit-optimization-notes/",
       "time": "00:40:33",
       "description": "Juriy Zaytsev alias Kangax hat sich mal die neuen CSS Style Profiler von <a href=\"http://my.opera.com/dragonfly/blog/style-profiler-preview\">Opera</a> und <a href=\"http://peter.sh/2012/01/css-selector-profiler-source-mapping-and-software-rendering/\">WebKit</a> geschnappt und eine bestehende Single Page Webapp auf Selector- und CSS3 Performance hin abgeklappert. Uns kommt während des Gesprächs der <a href=\"http://css1k.com/#moonlight\">CSS1K-Wettbewerb als CSS3-Belastungstest</a> sowie eine <a href=\"http://go.eatworms.com/mseeley-2011-09-27-html5devconf.pdf\">Präsentation des UI Engineers von Netflix (PDF)</a> in den Sinn."
     },
     {
-      "name": "Proposal: Scripting detection using CSS media queries",
+      "title": "Proposal: Scripting detection using CSS media queries",
       "href": "http://www.nczonline.net/blog/2012/01/04/proposal-scripting-detection-using-css-media-queries/",
       "time": "00:55:20",
       "description": "Nicholas Zakas schlägt als neue Media Query Abfrage <a href=\"http://lists.w3.org/Archives/Public/www-style/2012Jan/0046.html\">das Ab- oder Vorhandensein von JavaScript vor</a>, um in Zukunft auf den Workaround des .js/.no-js-Klassenverteilens verzichten zu können. Außerdem fanden wie das Script <a href=\"http://rezitech.github.com/syze/\">SYZE.js</a> als Ersatz für Media Queries ganz nett."
@@ -57,31 +57,31 @@
   ],
   "links": [
     {
-      "name": "A Fix for the iOS Orientationchange Zoom Bug",
+      "title": "A Fix for the iOS Orientationchange Zoom Bug",
       "href": "http://filamentgroup.com/lab/a_fix_for_the_ios_orientationchange_zoom_bug/",
       "time": "01:11:57",
       "description": "Scott Jehl von der Filament Group hat einen neuen Fix für das Rotieren von Seiten auf iOS-Devices gebaut. Und zwar als er <a href=\"https://twitter.com/#!/scottjehl/status/155112110173597697\">gerade in Kambodscha den Mekong auf einem Boot raufschipperte</a>. Der Fix ist quasi der Nachfolger desjenigen im <a href=\"http://html5boilerplate.com/mobile\">Mobile Boilerplate</a>."
     },
     {
-      "name": "Impress.js",
+      "title": "Impress.js",
       "href": "http://bartaz.github.com/impress.js/",
       "time": "01:11:57",
       "description": "Impress.js ist eine Präsentationsframework, das wie <a href=\"http://prezi.com/\">Prezi</a> funktioniert, dabei allerdings nicht auf Flash sondern auf CSS3 baut. Sehr schick!"
     },
     {
-      "name": "Fabric now has (almost complete) SVG export",
+      "title": "Fabric now has (almost complete) SVG export",
       "href": "https://twitter.com/#!/kangax/status/153955271725690882",
       "time": "01:11:57",
       "description": "Der oben erwähnte Kangax ist auch der Macher von <a href=\"https://github.com/kangax/fabric.js/\">Fabric.js</a>, einer Canvas-Manipulationsbibliothek für JavaScript (und Node.js). Nachdem diese letztens in Version 0.5 gelernt hat, SVG nach Canvas zu importieren, beherrscht sie nun auch den Export nach SVG."
     },
     {
-      "name": "ShopTalk – A live web design and development podcast by Chris Coyier and Dave Rupert.",
+      "title": "ShopTalk – A live web design and development podcast by Chris Coyier and Dave Rupert.",
       "href": "http://shoptalkshow.com/",
       "time": "01:11:57",
       "description": "Dieser Podcast könnte interessant werden. In der ersten Folge zu Gast ist Jonathan Snook, der am 15. März auch einen <a href=\"http://smacss.com/workshops/\">Workshop in Essen zum Thema SMACSS</a> geben wird."
     },
     {
-      "name": "FTP Server des Chaos Computer Club mit allen 28C3-Vorträgen zum Download.",
+      "title": "FTP Server des Chaos Computer Club mit allen 28C3-Vorträgen zum Download.",
       "href": "ftp://ftp.ccc.de/congress/2011/",
       "time": "01:11:57",
       "description": "Bei den Videos geht um Hacking im Allgemeinen, hier und da aber speziell auch ums Web Hacking."

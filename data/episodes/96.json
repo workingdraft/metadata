@@ -33,43 +33,43 @@
   "audio": "http://workingdraft.de/podpress_trac/web/1620/0/wd-96.mp3",
   "title": "News, HTML5 und Links",
   "description": "Keine Themen sind auch keine Ausrede. Also bashten Hans, Rod und Peter einfach ein wenig den IE 10 Mobile und beschränkten sich ansonsten auf das Verlesen von News und Links.",
-  "topics": [
-    {
-      "name": "HTML5 forms (and IE10 (Mobile))",
-      "href": "http://blog.trasatti.it/2012/11/html5-forms-and-ie10-mobile.html",
-      "time": "00:03:17",
-      "description": "Der Mobile-IE10 macht das was er am besten kann, nämlich HTML5-Features nicht unterstützen. Im konkreten Fall geht es um Formulare&nbsp;&ndash; neue Elemente wie Date-Input <a href=\"http://caniuse.com/input-datetime \">werden nicht unterstützt</a> (einige andere allerdings <a href=\"http://ie.microsoft.com/testdrive/HTML5/Forms/\">doch</a>). Und selbst in Browsern die die neuen Elemente unterstützen gibt es das „Problem“ dass sie nicht auf jedem Device gleich aussehen, was von den Spezifikationen so auch <a href=\"http://www.whatwg.org/specs/web-apps/current-work/multipage/states-of-the-type-attribute.html#date-state-(type=date)\">nicht gefordert wird</a>, aber zumindest laut Peters Padawanen ein echtes Problem darstellt. Hans setzt Hoffnung in gestaltbares <a href=\"http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/\">Shadow DOM</a> bzw. das <a href=\"http://wiki.whatwg.org/wiki/Component_Model\">Web Component Model</a>. Rodney meint, die sollen sich mal nicht so anstellen: Web-Zeug sieht eben nicht in jedem Browser gleich aus."
-    }
-  ],
   "news": [
     {
-      "name": "Neue Chrome-Beta",
+      "title": "Neue Chrome-Beta",
       "href": "http://blog.chromium.org/2012/11/a-web-developers-guide-to-latest-chrome.html",
       "time": "00:10:00",
       "description": "Geboten werden MathML weniger Vendor-Prefixes (u.A. für requestAnimationFrame und Indexed DB) und vieles mehr."
     },
     {
-      "name": "Opera 12.10",
+      "title": "Opera 12.10",
       "href": "http://my.opera.com/ODIN/blog/opera-12-10-is-out",
       "time": "00:10:00",
       "description": "Geboten werden sowohl Verbesserungen am Browser selbst als auch an der Engine (neu sind u.A. die Page Visibility API, Fullscreen-API und Flexbox)."
     },
     {
-      "name": "Firefox OS Simulator",
+      "title": "Firefox OS Simulator",
       "href": "http://www.blueskyonmars.com/2012/11/08/r2d2b2g-is-becoming-the-firefox-os-simulator/",
       "time": "00:10:00",
       "description": "Wenn ihr Firefox OS simulieren wollt, geht das jetzt ganz bequem per Browser-Extension."
     }
   ],
+  "topics": [
+    {
+      "title": "HTML5 forms (and IE10 (Mobile))",
+      "href": "http://blog.trasatti.it/2012/11/html5-forms-and-ie10-mobile.html",
+      "time": "00:03:17",
+      "description": "Der Mobile-IE10 macht das was er am besten kann, nämlich HTML5-Features nicht unterstützen. Im konkreten Fall geht es um Formulare&nbsp;&ndash; neue Elemente wie Date-Input <a href=\"http://caniuse.com/input-datetime \">werden nicht unterstützt</a> (einige andere allerdings <a href=\"http://ie.microsoft.com/testdrive/HTML5/Forms/\">doch</a>). Und selbst in Browsern die die neuen Elemente unterstützen gibt es das „Problem“ dass sie nicht auf jedem Device gleich aussehen, was von den Spezifikationen so auch <a href=\"http://www.whatwg.org/specs/web-apps/current-work/multipage/states-of-the-type-attribute.html#date-state-(type=date)\">nicht gefordert wird</a>, aber zumindest laut Peters Padawanen ein echtes Problem darstellt. Hans setzt Hoffnung in gestaltbares <a href=\"http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/\">Shadow DOM</a> bzw. das <a href=\"http://wiki.whatwg.org/wiki/Component_Model\">Web Component Model</a>. Rodney meint, die sollen sich mal nicht so anstellen: Web-Zeug sieht eben nicht in jedem Browser gleich aus."
+    }
+  ],
   "links": [
     {
-      "name": "Garlicjs und Sisyphus",
+      "title": "Garlicjs und Sisyphus",
       "href": "http://garlicjs.org/",
       "time": "00:27:20",
       "description": "Zwei Libraries zum persistieren von Formulareingaben. Garlic ist neuer heißer Scheiß, Sisyphus eher nicht. Macht aber das gleiche. Sucht&#8217;s euch aus."
     },
     {
-      "name": "Responsive background images with fixed or fluid aspect ratios",
+      "title": "Responsive background images with fixed or fluid aspect ratios",
       "href": "http://voormedia.com/blog/2012/11/responsive-background-images-with-fixed-or-fluid-aspect-ratios",
       "time": "00:27:20",
       "description": "Responsive Seitenverhältnisse für Hintergrundbilder."

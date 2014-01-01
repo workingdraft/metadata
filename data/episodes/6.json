@@ -26,42 +26,42 @@
   "description": "<a href=\"http://twitter.com/mademyday\">Marc Hinse</a>, Peters geplante Aushilfe erkrankte leider kurzfristig, sodass der Schepp und ich das zu zweit schaukeln mussten. Bis auf mein Kopf und meine Stimme spielten auch alle Beteiligten mit.",
   "topics": [
     {
-      "name": "Google Chrome 8",
+      "title": "Google Chrome 8",
       "href": "http://googlechromereleases.blogspot.com/",
       "description": "Nichts Interessantes, größtenteils Security-Updates und Bugfixes<p></p>\n<dt><a href=\"http://getfirebug.com/wiki/index.php/Firebug_Release_Notes#Firebug_1.6\">Firebug 1.6</a><p></p>\n<dd>Wir kommen etwas ins Reden, an welchen Stellen der Web Inspector noch dem Firebug hinterher ist.<p></p>\n<dt><a href=\"http://headjs.com/\">head.js</a><p></p>\n<dd>Mehrere JavaScripts parallel laden lassen und dadurch das Blocken der restlichen Seite verhindern<p></p>\n<dt><a href=\"https://github.com/thirtysixthspan/waterunderice\">Water under Ice</a><p></p>\n<dd>Dateiuploads mithilfe der File API und Web Sockets<p></p>\n<dt><a href=\"http://www.webkrauts.de/2010/12/02/loeschen-ist-keine-loesung/\">Webkrauts-Adventskalender: Löschen ist keine Lösung</a><p></p>\n<dd>Warum CSS-Resets mit Vorsicht zu genießen sind<p></p>\n<dt><a href=\"http://calendar.perfplanet.com/2010/\">calendar.perfplanet.com</a><p></p>\n<dd>Adventskalender zu Performance-Optimierungs-Themen<p></p>\n<dt><a href=\"http://24ways.org\">24ways</a><p></p>\n<dd>Webkrauts-ähnlicher Kalender auf englisch<p></p>\n<dt><a href=\"http://t3n.de/news/neuer-jmstv-286977/\">17 Fragen zum JMStV</a><p></p>\n<dd>Wir regen uns pflichtbewusst über den neusten Coup der Offline-Apologeten auf.\n</dd></dt></dd></dt></dd></dt></dd></dt></dd></dt></dd></dt></dd></dt>"
     },
     {
-      "name": "Firebug 1.6",
+      "title": "Firebug 1.6",
       "href": "http://getfirebug.com/wiki/index.php/Firebug_Release_Notes#Firebug_1.6",
       "description": "Wir kommen etwas ins Reden, an welchen Stellen der Web Inspector noch dem Firebug hinterher ist.<p></p>\n<dt><a href=\"http://headjs.com/\">head.js</a><p></p>\n<dd>Mehrere JavaScripts parallel laden lassen und dadurch das Blocken der restlichen Seite verhindern<p></p>\n<dt><a href=\"https://github.com/thirtysixthspan/waterunderice\">Water under Ice</a><p></p>\n<dd>Dateiuploads mithilfe der File API und Web Sockets<p></p>\n<dt><a href=\"http://www.webkrauts.de/2010/12/02/loeschen-ist-keine-loesung/\">Webkrauts-Adventskalender: Löschen ist keine Lösung</a><p></p>\n<dd>Warum CSS-Resets mit Vorsicht zu genießen sind<p></p>\n<dt><a href=\"http://calendar.perfplanet.com/2010/\">calendar.perfplanet.com</a><p></p>\n<dd>Adventskalender zu Performance-Optimierungs-Themen<p></p>\n<dt><a href=\"http://24ways.org\">24ways</a><p></p>\n<dd>Webkrauts-ähnlicher Kalender auf englisch<p></p>\n<dt><a href=\"http://t3n.de/news/neuer-jmstv-286977/\">17 Fragen zum JMStV</a><p></p>\n<dd>Wir regen uns pflichtbewusst über den neusten Coup der Offline-Apologeten auf.\n</dd></dt></dd></dt></dd></dt></dd></dt></dd></dt></dd></dt>"
     },
     {
-      "name": "head.js",
+      "title": "head.js",
       "href": "http://headjs.com/",
       "description": "Mehrere JavaScripts parallel laden lassen und dadurch das Blocken der restlichen Seite verhindern<p></p>\n<dt><a href=\"https://github.com/thirtysixthspan/waterunderice\">Water under Ice</a><p></p>\n<dd>Dateiuploads mithilfe der File API und Web Sockets<p></p>\n<dt><a href=\"http://www.webkrauts.de/2010/12/02/loeschen-ist-keine-loesung/\">Webkrauts-Adventskalender: Löschen ist keine Lösung</a><p></p>\n<dd>Warum CSS-Resets mit Vorsicht zu genießen sind<p></p>\n<dt><a href=\"http://calendar.perfplanet.com/2010/\">calendar.perfplanet.com</a><p></p>\n<dd>Adventskalender zu Performance-Optimierungs-Themen<p></p>\n<dt><a href=\"http://24ways.org\">24ways</a><p></p>\n<dd>Webkrauts-ähnlicher Kalender auf englisch<p></p>\n<dt><a href=\"http://t3n.de/news/neuer-jmstv-286977/\">17 Fragen zum JMStV</a><p></p>\n<dd>Wir regen uns pflichtbewusst über den neusten Coup der Offline-Apologeten auf.\n</dd></dt></dd></dt></dd></dt></dd></dt></dd></dt>"
     },
     {
-      "name": "Water under Ice",
+      "title": "Water under Ice",
       "href": "https://github.com/thirtysixthspan/waterunderice",
       "description": "Dateiuploads mithilfe der File API und Web Sockets<p></p>\n<dt><a href=\"http://www.webkrauts.de/2010/12/02/loeschen-ist-keine-loesung/\">Webkrauts-Adventskalender: Löschen ist keine Lösung</a><p></p>\n<dd>Warum CSS-Resets mit Vorsicht zu genießen sind<p></p>\n<dt><a href=\"http://calendar.perfplanet.com/2010/\">calendar.perfplanet.com</a><p></p>\n<dd>Adventskalender zu Performance-Optimierungs-Themen<p></p>\n<dt><a href=\"http://24ways.org\">24ways</a><p></p>\n<dd>Webkrauts-ähnlicher Kalender auf englisch<p></p>\n<dt><a href=\"http://t3n.de/news/neuer-jmstv-286977/\">17 Fragen zum JMStV</a><p></p>\n<dd>Wir regen uns pflichtbewusst über den neusten Coup der Offline-Apologeten auf.\n</dd></dt></dd></dt></dd></dt></dd></dt>"
     },
     {
-      "name": "Webkrauts-Adventskalender: Löschen ist keine Lösung",
+      "title": "Webkrauts-Adventskalender: Löschen ist keine Lösung",
       "href": "http://www.webkrauts.de/2010/12/02/loeschen-ist-keine-loesung/",
       "description": "Warum CSS-Resets mit Vorsicht zu genießen sind<p></p>\n<dt><a href=\"http://calendar.perfplanet.com/2010/\">calendar.perfplanet.com</a><p></p>\n<dd>Adventskalender zu Performance-Optimierungs-Themen<p></p>\n<dt><a href=\"http://24ways.org\">24ways</a><p></p>\n<dd>Webkrauts-ähnlicher Kalender auf englisch<p></p>\n<dt><a href=\"http://t3n.de/news/neuer-jmstv-286977/\">17 Fragen zum JMStV</a><p></p>\n<dd>Wir regen uns pflichtbewusst über den neusten Coup der Offline-Apologeten auf.\n</dd></dt></dd></dt></dd></dt>"
     },
     {
-      "name": "calendar.perfplanet.com",
+      "title": "calendar.perfplanet.com",
       "href": "http://calendar.perfplanet.com/2010/",
       "description": "Adventskalender zu Performance-Optimierungs-Themen<p></p>\n<dt><a href=\"http://24ways.org\">24ways</a><p></p>\n<dd>Webkrauts-ähnlicher Kalender auf englisch<p></p>\n<dt><a href=\"http://t3n.de/news/neuer-jmstv-286977/\">17 Fragen zum JMStV</a><p></p>\n<dd>Wir regen uns pflichtbewusst über den neusten Coup der Offline-Apologeten auf.\n</dd></dt></dd></dt>"
     },
     {
-      "name": "24ways",
+      "title": "24ways",
       "href": "http://24ways.org",
       "description": "Webkrauts-ähnlicher Kalender auf englisch<p></p>\n<dt><a href=\"http://t3n.de/news/neuer-jmstv-286977/\">17 Fragen zum JMStV</a><p></p>\n<dd>Wir regen uns pflichtbewusst über den neusten Coup der Offline-Apologeten auf.\n</dd></dt>"
     },
     {
-      "name": "17 Fragen zum JMStV",
+      "title": "17 Fragen zum JMStV",
       "href": "http://t3n.de/news/neuer-jmstv-286977/",
       "description": "Wir regen uns pflichtbewusst über den neusten Coup der Offline-Apologeten auf."
     }

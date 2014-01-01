@@ -34,49 +34,49 @@
   "description": "Irgendwie hat sich die Veröffentlichung der zwanzigsten Folge etwas hingezogen. Jetzt ist sie aber da und ist bereit, sich mit brachialer Gewalt in eure Trommelfelle zu fressen.",
   "topics": [
     {
-      "name": "border-image-Generator",
+      "title": "border-image-Generator",
       "href": "http://border-image.com/#%7B%22src%22%3A%22http%3A%2F%2Fwww.w3.org%2FTR%2Fcss3-background%2Fborder.png%22%2C%22linkBorder%22%3Atrue%2C%22borderWidth%22%3A%5B0%2C0%2C0%2C0%5D%2C%22imageOffset%22%3A%5B27%2C27%2C27%2C27%5D%2C%22setRepat%22%3Afalse%2C%22repeat%22%3A%5B%22repeat%22%2C%22repeat%22%5D%2C%22scaleFactor%22%3A3%2C%22setRepeat%22%3Atrue%7D",
       "description": "Hilfsmittel zum Slicen von Bildern zum Zwecke des <a href=\"http://www.peterkroener.de/schoenes-neues-css-border-image/\">border-image-Anwendens</a>"
     },
     {
-      "name": "HTTP-Archive",
+      "title": "HTTP-Archive",
       "href": "http://httparchive.org/",
       "description": "Statistiken über die im Web genutzten Techniken, Download-Massen und Ladezeiten"
     },
     {
-      "name": "dynaTrace Ajax Edition 3.0",
+      "title": "dynaTrace Ajax Edition 3.0",
       "href": "http://blog.dynatrace.com/2011/03/29/dynatrace-ajax-edition-3-0-released-free-next-generation-browser-diagnostics-part-i/",
       "description": "Next Generation Browser Diagnostics"
     },
     {
-      "name": "JSConsole.com",
+      "title": "JSConsole.com",
       "href": "http://jsconsole.com/",
       "description": "JavaScript-Konsole vorwiegend zum Remote-Debuggen mobiler Websites. <a href=\"http://www.youtube.com/watch?v=BEo8oJYey-M\">Erklärbär-Video</a>"
     },
     {
-      "name": "AmplifyJS",
+      "title": "AmplifyJS",
       "href": "http://amplifyjs.com/",
       "description": "jQuery-Plugin, welches localStorage, sessionStorage und serverseitige Speicherung über Ajax unter einen Hut bringt und ordentlich wegabstrahiert."
     }
   ],
   "links": [
     {
-      "name": "Google Pagespeed Online",
+      "title": "Google Pagespeed Online",
       "href": "http://googlecode.blogspot.com/2011/03/introducing-page-speed-online-with.html",
       "description": "Pagespeed mit Webinterface"
     },
     {
-      "name": "myJS",
+      "title": "myJS",
       "href": "http://myjs.fr/",
       "description": "Extrem minimales und auf Performance getrimmtes JavaScript-Framework"
     },
     {
-      "name": "Tempo",
+      "title": "Tempo",
       "href": "http://twigkit.github.com/tempo/",
       "description": "Tempo is a tiny JSON rendering engine that enables you to craft data templates in pure HTML."
     },
     {
-      "name": "HTML5-Boilerplate Mobile",
+      "title": "HTML5-Boilerplate Mobile",
       "href": "http://html5boilerplate.com/mobile/",
       "description": "Mobile Version des Starterkits"
     }

@@ -21,39 +21,39 @@
   "description": "Nachdem Peter immer noch hustengeplagt und Markus anderweitig absent war, freute sich Schepp über bewährte Verstärkung seitens <a href=\"http://www.mademyday.de/\">Marc Hinses</a> alias <a href=\"http://twitter.com/mademyday\">@mademyday</a> (Notiz an uns selbst: Wir sollten Marc bald mal in der Liste unserer festen Moderatoren verankern&#8230;).",
   "topics": [
     {
-      "name": "Is IE9 a modern browser?",
+      "title": "Is IE9 a modern browser?",
       "href": "http://people.mozilla.com/~prouget/ie9/",
       "description": "fragt Paul Rouget von Mozilla und antwortet sodann mit NO. Ihm reicht die unterstützte Menge HTML5-Technologien seitens des Redmonder Browsers nicht. Außerdem fuchst ihn, dass Microsoft mit <a href=\"http://blogs.msdn.com/b/ie/archive/2011/02/10/acting-on-feedback-ie9-release-candidate-available-for-download.aspx\">Statistiken hausieren geht</a>, die sie selbst gefälscht haben. Tim Sneath von Microsoft <a href=\"http://blogs.msdn.com/b/tims/archive/2011/02/15/a-modern-browser.aspx\">antwortet ihm</a>: Ein moderner Browser ist schnell und integriert Standards erst wenn sie fertig sind."
     },
     {
-      "name": "Performance Innumeracy & False Positives",
+      "title": "Performance Innumeracy & False Positives",
       "href": "http://infrequently.org/2011/02/on-performance-innumeracy-false-positives/",
       "description": "Alex Russel aus dem Chrome Frame Team stellt zur Debatte, ob der moderne und hochangesehene Ansatz des Featuretestings nicht vielleicht zu viel Leistung kostet, und ob man nicht in bestimmten Fällen doch auf das böse, böse, böse und verpönte (und böse) Useragent-Sniffing zusammen mit einer Feature-Whitelist/-Blacklist gehen kann. Damit löst er einen guttenbergesken Shitstorm aus. Dass er (und viele WPO-Granden) falsch liegen, zeigt John-David Dalton <a href=\"http://allyoucanleet.com/2011/02/05/the-cost-of-feature-testing/\">mit drei Screencasts aus der Praxis</a>."
     },
     {
-      "name": "Use efficient CSS selectors",
+      "title": "Use efficient CSS selectors",
       "href": "http://www.css-101.org/descendant-selector/go_fetch_yourself.php",
       "description": "greift sehr humorvoll das Thema Renderleistungseinbruch durch falsches zusammensetzen von Selektoren auf. Den Augenschmerzen beim Betrachten zum Trotz stellten wir fest, dass die Unterschiede doch vergleichsweise gering <a href=\"http://www.stevesouders.com/blog/2009/03/10/performance-impact-of-css-selectors/\">zu sein scheinen</a>. Wer jedoch gerne viel in jQuery und Konsorten selektiert, der sollte vielleicht nicht <a href=\"http://ontwik.com/javascript/jquery-performance-tips-and-tricks-with-addy-osmani/\">ganz so rumschlampen oder klügere Wege wählen</a>."
     },
     {
-      "name": "CSS drop-shadows without images",
+      "title": "CSS drop-shadows without images",
       "href": "http://nicolasgallagher.com/css-drop-shadows-without-images/demo/",
       "description": "Verschiedene Ausprägungen von CSS-Schatten hat Nicolas Gallagher auf seiner Seite versammelt. Das Besondere dabei: Anstatt mit zusätzlichen Hilfselementen im HTML zu arbeiten, feiert er alles über die CSS-generierten Pseudoelemente <code>:before</code> und <code>:after</code>, CSS Transforms und Box-Shadow ab. Überhaupt ist er ein ganz großer Fan von Pseudoelementen. Auf seiner Seite gibt es viel Interessantes zu entdecken. Schön war damals unter anderem auch sein Artikel <a href=\"http://nicolasgallagher.com/multiple-backgrounds-and-borders-with-css2/\">Multiple Backgrounds and Borders with CSS 2.1</a>"
     },
     {
-      "name": "The 80/20 Rule Applied to Web Design",
+      "title": "The 80/20 Rule Applied to Web Design",
       "href": "http://www.webdesignerdepot.com/2011/02/the-8020-rule-applied-to-web-design/",
       "description": "Eine gar nicht so neue Regel aus der Betriebswirtschaft, das <a href=\"http://de.wikipedia.org/wiki/Paretoprinzip\">Pareto-Prinzip</a> besagt, dass 80% der Ergebnisse in 20% der Gesamtzeit eines Projekts erreicht werden, und dass die verbleibenden 20% der Ergebnisse die meiste Arbeit machen. Diese Regel kann man eigentlich auch überall im Web Design wiederfinden. Die Autoren empfehlen daher: Die wichtigen 20% identifizieren und erstmal alle Bemühugen dort hineinstecken als sich zu verzetteln."
     },
     {
-      "name": "HARDWRK SSD HDD Adapter Kit für MacBook Pro",
+      "title": "HARDWRK SSD HDD Adapter Kit für MacBook Pro",
       "href": "http://hardwrk.com/macbook-ssd-hdd-adapter-kit.html",
       "description": "Tatsächlich, wir reden über Hardware! Muss auch mal sein. Wir hängen ja schließlich alle an ihrem Tropf. HARDWRK ist ein Überraschungscoup des T3N-Teams und zwar ist es ein Einbaukit (Material + Werkzeug), mit dem man den internen DVD-Brenner seines MacBooks gegen eine weitere Festplatte oder eine SSD austauschen kann. Der entmannte Brenner wandern dann in ein externes Gehäuse. Wir empfehlen zu einer SSD zu greifen. Davon kommen zur CeBIT ein <a href=\"http://www.anandtech.com/show/4159/ocz-vertex-3-pro-preview-the-first-sf2500-ssd/4\">paar</a> <a href=\"http://www.golem.de/showhigh2.php?file=/1102/81523.html\">sehr schnelle</a> raus (die allerdings durch die SATA-300-Schnittstelle des MacBooks ausgebremst werden könnten)."
     }
   ],
   "links": [
     {
-      "name": "Surefire DOM Element insertion",
+      "title": "Surefire DOM Element insertion",
       "href": "http://paulirish.com/2011/surefire-dom-element-insertion/",
       "description": "Die bulletproofste™ Methode, DOM-Elemente in sein Dokument zu schießen."
     }

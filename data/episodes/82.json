@@ -39,37 +39,37 @@
   "description": "Diesmal trafen sich Schepp, Hans, Kahlil und Special Guest <a href=\"http://anselm-hannemann.com/\">Anselm Hannemann</a> zum wöchentlichen Webdev-Geplänkel im virtuellen Working Draft Studio (Skype).",
   "topics": [
     {
-      "name": "Discussion about CSS reusability",
+      "title": "Discussion about CSS reusability",
       "href": "http://css-tricks.com/a-discussion-about-css-reusability/",
       "time": "00:00:40",
       "description": "Wir nehmen Chris Coyiers Artikel zum Anlass, um über unsere CSS-Wiederverwendungstaktiken zu reden."
     },
     {
-      "name": "XOXOCO – Is it time for the password-less login?",
+      "title": "XOXOCO – Is it time for the password-less login?",
       "href": "http://notes.xoxco.com/post/27999787765/is-it-time-for-password-less-login",
       "time": "00:17:05",
       "description": "Der Autor beschwert sich über die Usability bei Logins und stellt einen neuen Ansatz vor. Wir sprechen darüber."
     },
     {
-      "name": "Content Security Policy",
+      "title": "Content Security Policy",
       "href": "https://dvcs.w3.org/hg/content-security-policy/raw-file/tip/csp-specification.dev.html#script-interfaces--experimental",
       "time": "00:24:25",
       "description": "Ein neuer Header für HTTP für mehr Sicherheit."
     },
     {
-      "name": "Troy Hunt: Lessons in website security anti-patterns by Tesco",
+      "title": "Troy Hunt: Lessons in website security anti-patterns by Tesco",
       "href": "http://www.troyhunt.com/2012/07/lessons-in-website-security-anti.html",
       "time": "00:30:40",
       "description": "Eine australische Großhandelskette erlaubt sich auf ihrer eCommerce-Webseite jeden erdenklichen Security-Patzer. Wir nehmen das zum Anlass um über Security best practices zu reden."
     },
     {
-      "name": "BinaryJS – Realtime binary streaming for the web using websockets",
+      "title": "BinaryJS – Realtime binary streaming for the web using websockets",
       "href": "http://binaryjs.com/",
       "time": "00:45:40",
       "description": "Eine node library um Daten binär zu streamen. Schepp erklärt warum das toll ist."
     },
     {
-      "name": "Separate var statements",
+      "title": "Separate var statements",
       "href": "http://kahlil.co/2012/07/28/Separate-var-Statements/",
       "time": "00:53:00",
       "description": "Kahlil schrob einen Artikel darüber warum er separate var Statements in JavaScript bevorzugt und jeder sagt mal was seine Lieblingsformatierung zur Variablendeklaration in JS ist."
@@ -77,47 +77,47 @@
   ],
   "links": [
     {
-      "name": "Backbone.js: Hackers Guide Part 2",
+      "title": "Backbone.js: Hackers Guide Part 2",
       "href": "http://dailyjs.com/2012/07/26/mvstar-3/",
       "time": "01:05:50",
       "description": "Der zweite Teil einer Artikelreihe über die Innereien von Backbone.js"
     },
     {
-      "name": "Journey Through The JavaScript MVC Jungle",
+      "title": "Journey Through The JavaScript MVC Jungle",
       "href": "http://coding.smashingmagazine.com/2012/07/27/journey-through-the-javascript-mvc-jungle/",
       "time": "01:05:50",
       "description": "Ein hervorrangender Artikel von Addy, der bei der Suche nach dem richtigen MVC Framework in JavaScript sehr hilfreich sein kann."
     },
     {
-      "name": "Selling Accessibility – Negative Factors",
+      "title": "Selling Accessibility – Negative Factors",
       "href": "http://www.karlgroves.com/2012/07/26/selling-accessibility-negative-factors/",
       "time": "01:05:50",
       "description": "Karl Groves spricht über Schmackhaftmachung von Accessibility."
     },
     {
-      "name": "My wife is really getting into whiskey",
+      "title": "My wife is really getting into whiskey",
       "href": "http://robots.thoughtbot.com/post/28143948206/my-wife-is-getting-really-into-whiskey",
       "time": "01:05:50",
       "description": "Ein interessantes Interview mit Ben Alman."
     },
     {
-      "name": "Summer Reading…and Programming",
+      "title": "Summer Reading…and Programming",
       "href": "http://www.robinsloan.com/summer-reading/and-programming/",
       "time": "01:05:50",
       "description": "Eine interaktive Buchrezension mit JavaScript Konsole"
     },
     {
-      "name": "insidrrr – Offenes Kompetenznetzwerk für interaktive Medien",
+      "title": "insidrrr – Offenes Kompetenznetzwerk für interaktive Medien",
       "href": "http://insidrrr.com/",
       "time": "01:05:50"
     },
     {
-      "name": "Cologne.js",
+      "title": "Cologne.js",
       "href": "http://colognejs.de/",
       "time": "01:05:50"
     },
     {
-      "name": "BrainCamp Cologne",
+      "title": "BrainCamp Cologne",
       "href": "http://braincamp-cologne.com/",
       "time": "01:05:50"
     }

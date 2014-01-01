@@ -47,70 +47,70 @@
   "audio": "http://workingdraft.de/podpress_trac/web/2141/0/wd-143.mp3",
   "title": "CSS, Performance, Hörerfragen",
   "description": "Mit fast voller Stammbesatzung (Schepp, Stefan, Hans und Peter) stellten wir uns den CSS-Themen der Woche und nahmen uns auch eine Hörerfrage vor.",
-  "topics": [
-    {
-      "name": "CSS best practices",
-      "time": "00:00:40",
-      "description": "Artikel über <a href=\"http://www.kapowaz.net/articles/cargo-cult-css\">Cargo Cult CSS</a> und <a href=\"http://coding.smashingmagazine.com/2013/10/21/challenging-css-best-practices-atomic-approach/\">eine Herangehensweise mit vielen Klassen</a> laden zur Diskussion über CSS best practices ein. Wir sind <a href=\"http://adactio.com/journal/6537/\">nicht die einzigen</a>, die beide postulierten Methoden etwas krass finden. Konventionen und Systeme schön und gut, aber <a href=\"http://smacss.com/\">SMACSS</a>, <a href=\"http://bem.info/\">BEM</a>, <a href=\"http://oocss.org/\">OOCSS</a>, und Konsorten scheinen uns in ihrer Gesamtheit (Stefan findet BEM zumindest in Teilen gut) dann doch Probleme lösen zu wollen, die mit CSS allein nicht zu bewältigen sind. Wir sind uns einig, dass sehr viele Probleme einfach aus der Welt zu schaffen wären, wenn man nur einen Präprozessor benutzen würde."
-    },
-    {
-      "name": "Introducing layout boundaries",
-      "href": "http://wilsonpage.co.uk/introducing-layout-boundaries/",
-      "time": "00:19:11",
-      "description": "Der <i>Summus Pontifex Ecclesiae Performansis</i> erklärt, wie (nach den Informationen von Wilson Page) bestimmte CSS-Eigenschaften genutzt werden können, um die Auswirkungen von Reflows (<i>layout thrashing</i>) auf Teilbereiche der Webseite zu beschränken. Des weiteren regen wir uns darüber auf, dass es nur in Chrome (und neuerdings im IE11) Devtools gibt, die die Diagnose solcher Probleme/Features erlauben und reden über die Performance-Sünder CSS-Gradients, Box-Shadow und Border-Radius. Schepps Tipp, in Mobile-Media-Queries solcherlei Spielkram auszuschalten (z.B. per Präprozessor-Mixin) findet großen Anklang."
-    },
-    {
-      "name": "Batching image insertion",
-      "href": "http://wilsonpage.co.uk/batching-image-insertion/",
-      "time": "00:28:57",
-      "description": "Sie kennen das: sie wollen über 9000 Bildelemente mit Data-URLs einfügen und plötzlich ruckelt der Browser. Wilson Page hat eine Technik bzw. mit <a href=\"http://github.com/wilsonpage/fastdom\">fastdom</a> eine JS-Library ausgegraben, mit der sich dieses Problem in den Griff bekommen lässt. Auch Performance-Papst Schepp und sein treuer Kardinal Stefan schwören drauf."
-    },
-    {
-      "name": "Hörerfrage: Wie geht ihr vor, wenn ihr ohne Designer arbeiten müsst/dürft?",
-      "time": "00:47:59",
-      "description": "Peter bruteforced mangels Designtalent seine Webdesigns mit viel Zeit und natürlich im Browser. Ansonsten finden wir Webdesigner doch ganz praktisch (vor allem wenn sie zur entspannten Zusammenarbeit bereit sind) und fabulieren ein bisschen über Transitions und Hover-States (die manch ein Designer gern vergisst), Browserdesign versus Photoshop, Flash und Hitler."
-    }
-  ],
   "news": [
     {
-      "name": "LESSCSS 1.5",
+      "title": "LESSCSS 1.5",
       "href": "https://github.com/less/less.js/blob/master/CHANGELOG.md",
       "time": "00:00:12",
       "description": "Totgesagte bringen mehr neue Versionen raus. Jetzt mit Source Maps!"
     }
   ],
+  "topics": [
+    {
+      "title": "CSS best practices",
+      "time": "00:00:40",
+      "description": "Artikel über <a href=\"http://www.kapowaz.net/articles/cargo-cult-css\">Cargo Cult CSS</a> und <a href=\"http://coding.smashingmagazine.com/2013/10/21/challenging-css-best-practices-atomic-approach/\">eine Herangehensweise mit vielen Klassen</a> laden zur Diskussion über CSS best practices ein. Wir sind <a href=\"http://adactio.com/journal/6537/\">nicht die einzigen</a>, die beide postulierten Methoden etwas krass finden. Konventionen und Systeme schön und gut, aber <a href=\"http://smacss.com/\">SMACSS</a>, <a href=\"http://bem.info/\">BEM</a>, <a href=\"http://oocss.org/\">OOCSS</a>, und Konsorten scheinen uns in ihrer Gesamtheit (Stefan findet BEM zumindest in Teilen gut) dann doch Probleme lösen zu wollen, die mit CSS allein nicht zu bewältigen sind. Wir sind uns einig, dass sehr viele Probleme einfach aus der Welt zu schaffen wären, wenn man nur einen Präprozessor benutzen würde."
+    },
+    {
+      "title": "Introducing layout boundaries",
+      "href": "http://wilsonpage.co.uk/introducing-layout-boundaries/",
+      "time": "00:19:11",
+      "description": "Der <i>Summus Pontifex Ecclesiae Performansis</i> erklärt, wie (nach den Informationen von Wilson Page) bestimmte CSS-Eigenschaften genutzt werden können, um die Auswirkungen von Reflows (<i>layout thrashing</i>) auf Teilbereiche der Webseite zu beschränken. Des weiteren regen wir uns darüber auf, dass es nur in Chrome (und neuerdings im IE11) Devtools gibt, die die Diagnose solcher Probleme/Features erlauben und reden über die Performance-Sünder CSS-Gradients, Box-Shadow und Border-Radius. Schepps Tipp, in Mobile-Media-Queries solcherlei Spielkram auszuschalten (z.B. per Präprozessor-Mixin) findet großen Anklang."
+    },
+    {
+      "title": "Batching image insertion",
+      "href": "http://wilsonpage.co.uk/batching-image-insertion/",
+      "time": "00:28:57",
+      "description": "Sie kennen das: sie wollen über 9000 Bildelemente mit Data-URLs einfügen und plötzlich ruckelt der Browser. Wilson Page hat eine Technik bzw. mit <a href=\"http://github.com/wilsonpage/fastdom\">fastdom</a> eine JS-Library ausgegraben, mit der sich dieses Problem in den Griff bekommen lässt. Auch Performance-Papst Schepp und sein treuer Kardinal Stefan schwören drauf."
+    },
+    {
+      "title": "Hörerfrage: Wie geht ihr vor, wenn ihr ohne Designer arbeiten müsst/dürft?",
+      "time": "00:47:59",
+      "description": "Peter bruteforced mangels Designtalent seine Webdesigns mit viel Zeit und natürlich im Browser. Ansonsten finden wir Webdesigner doch ganz praktisch (vor allem wenn sie zur entspannten Zusammenarbeit bereit sind) und fabulieren ein bisschen über Transitions und Hover-States (die manch ein Designer gern vergisst), Browserdesign versus Photoshop, Flash und Hitler."
+    }
+  ],
+  "randomSpec": [
+    {
+      "title": "Das img-Element",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/#the-img-element",
+      "time": "00:50:08",
+      "description": "Zum <code>img</code>-Element fällt uns nicht viel Intelligentes oder gar spannendes ein und so reden wir stattdessen über den Coolness-Faktor von <a href=\"http://www.whatwg.org/specs/web-apps/current-work/#image-maps\">Image Maps</a>. Das <a href=\"http://www.whatwg.org/specs/web-apps/current-work/#attr-img-crossorigin\">crossorigin-Attribut</a> klingt zwar interessant, aber so richtig viel Plan haben wir davon auch nicht. Mehr Plan und Verwendung hätten wir da schon von und für die <code>lazyload</code> und <code>postpone</code>-Attribute aus der <a href=\"http://www.w3.org/TR/resource-priorities/\">Resource-Priorities-Spec</a>, deren flächendeckende Unterstützung allerdings noch auf sich warten lässt."
+    }
+  ],
   "links": [
     {
-      "name": "Snap.svg und BonsaiJS",
+      "title": "Snap.svg und BonsaiJS",
       "href": "http://snapsvg.io/",
       "time": "00:56:28",
       "description": "SVG-Grafiklibraries."
     },
     {
-      "name": "1. Kasseler Web Montag",
+      "title": "1. Kasseler Web Montag",
       "href": "http://webkrauts.de/termine/2013/1-kasseler-web-montag",
       "time": "00:56:28",
       "description": "18. November, 19:00 Uhr."
     },
     {
-      "name": "Automating Front-end Workflow",
+      "title": "Automating Front-end Workflow",
       "href": "https://speakerdeck.com/addyosmani/automating-front-end-workflow",
       "time": "00:56:28",
       "description": "Episches Slide Deck von Addy Osmani."
     },
     {
-      "name": "localtunnel",
+      "title": "localtunnel",
       "href": "http://localtunnel.me/",
       "time": "00:56:28",
       "description": "Schnell eine Web-URL für ein lokales Projekt anlegen."
-    }
-  ],
-  "randomSpec": [
-    {
-      "name": "Das img-Element",
-      "href": "http://www.whatwg.org/specs/web-apps/current-work/#the-img-element",
-      "time": "00:50:08",
-      "description": "Zum <code>img</code>-Element fällt uns nicht viel Intelligentes oder gar spannendes ein und so reden wir stattdessen über den Coolness-Faktor von <a href=\"http://www.whatwg.org/specs/web-apps/current-work/#image-maps\">Image Maps</a>. Das <a href=\"http://www.whatwg.org/specs/web-apps/current-work/#attr-img-crossorigin\">crossorigin-Attribut</a> klingt zwar interessant, aber so richtig viel Plan haben wir davon auch nicht. Mehr Plan und Verwendung hätten wir da schon von und für die <code>lazyload</code> und <code>postpone</code>-Attribute aus der <a href=\"http://www.w3.org/TR/resource-priorities/\">Resource-Priorities-Spec</a>, deren flächendeckende Unterstützung allerdings noch auf sich warten lässt."
     }
   ]
 }

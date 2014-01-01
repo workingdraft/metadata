@@ -46,53 +46,53 @@
   "description": "Hans, Stefan und Peter luden sich dieses Mal Ole Michaelis (<a href=\"https://twitter.com/CodeStars\">@codestars</a>) ein, um sich zum Thema DevOps erleuchten zu lassen. Ole arbeitet tagsüber bei <a href=\"http://de.jimdo.com/\">Jimdo</a>, organisiert des Nachts Konferenzen wie <a href=\"http://socoded.com/\">So Coded</a> und <a href=\"https://speakerdeck.com/nesquick/next-level-devops\">erzählt viel über DevOps</a>.",
   "topics": [
     {
-      "name": "DevOps",
+      "title": "DevOps",
       "time": "00:00:57",
       "description": "Ole <a href=\"https://speakerdeck.com/nesquick/next-level-devops\">definiert DevOps</a> als eine Mischung aus dem Dasein eines (Backend-) Developers und den Aufgaben einer Operations-Abteilung (Deployment, Metering, Infrastruktur). Er versucht dabei vor allem, seinen Team in die Lage zu versetzen, selbst Operations-Aufgaben zu übernehmen oder dafür die Extra-Abteilung zu brauchen. Dem schließt sich eoine Debatte über de Rollenverteilung im Team an, bei der wir über den <a href=\"http://en.wikipedia.org/wiki/Bus_factor\">Bus-Faktor</a>, <a lang=\"en\" href=\"http://de.wikipedia.org/wiki/Kontinuierliche_Integration\">Continuous Integration</a> und <a href=\"http://de.wikipedia.org/wiki/Software_as_a_Service\">SaaS</a> philosophieren. Vor allem treibt uns die Frage um: was passiert denn wenn Amazon und/oder Github mal down sind (was im Einzelfall ja schon mal vorkommt). Auch <i lang=\"en\">Code Ownership</i> und die Rechtslage, wenn Code ins Ausland wandert, sind interessante Probleme. Außerdem erwähnen wir:<p></p>\n<ul>\n<li><a href=\"http://jenkins-ci.org/\">http://jenkins-ci.org/</a> und <a href=\"https://travis-ci.org/\">https://travis-ci.org/</a>\n</li><li><a href=\"http://puppetlabs.com/\">http://puppetlabs.com/</a> und <a href=\"http://www.opscode.com/chef/\">http://www.opscode.com/chef/</a>\n</li><li><a href=\"https://npmjs.org/\">https://npmjs.org/</a> und <a href=\"http://bower.io/\">http://bower.io/</a>\n</li></ul>"
     },
     {
-      "name": "Statische Seiten",
+      "title": "Statische Seiten",
       "time": "00:22:40",
       "description": "Nachdem wir <a href=\"http://workingdraft.de/138/\">die ganze Revision 138 über CMS geredet haben</a> wird es auch mal Zeit die Gegenseite, d.h. statisches HTML zu beleuchten. Außerdem baut Ole ohnehin gerade etwas mit <a href=\"https://github.com/mojombo/jekyll\">Jekyll</a>. Peter erzählt Gruselstory von Padawanen, deren Webseite gehackt wurde während er eine Schulung gab und dass er seither CMS aus Sicherheitsgründen am liebsten nie wieder anfassen würde. Das Problem ist nur: wie macht man dann Nutzerinteraktion (reicht <a href=\"http://disqus.com/\">Disqus</a> für Kommentare?) und wie bietet man nicht-nerdigen Redakteuren ein schönes Interface? Am Rande fallen die Namen des akut gehypten <a href=\"http://ghost.org/\">Ghost</a> und des weniger gehypten <a href=\"http://cmf.symfony.com/\">Symfony CMF</a>."
     }
   ],
+  "randomSpec": [
+    {
+      "title": "Outline-Algorithmus",
+      "time": "00:38:33",
+      "description": "Wir reden über Theorie und Praxis des <a href=\"http://coding.smashingmagazine.com/2011/08/16/html5-and-the-document-outlining-algorithm/\">Outline-Algorithmus</a>, SEO und <a href=\"http://schema.org/\">schema.org</a>."
+    }
+  ],
   "links": [
     {
-      "name": "Javascript Modules, AMD, and the road ahead.",
+      "title": "Javascript Modules, AMD, and the road ahead.",
       "href": "http://yahooeng.tumblr.com/post/62383009835/javascript-modules-amd-and-the-road-ahead",
       "time": "00:46:31",
       "description": "Ein Vergleich zwischen AMD, CommonJS und ES6-Modulen. Einen <a href=\"https://npmjs.org/package/amdclean\">Konverter</a> als Node-Modul gibt es auch schon."
     },
     {
-      "name": "Getting Started With Web Components and polymer.js",
+      "title": "Getting Started With Web Components and polymer.js",
       "href": "http://4waisenkinder.de/blog/2013/09/21/getting-started-with-web-components-and-polymer-dot-js/",
       "time": "00:46:31",
       "description": "Einführung in die faszinierende Welt der Web Components."
     },
     {
-      "name": "Internet Explorer, Blob URLs, Web Workers, die Same Origin Policy und der IE-Bugtracker",
+      "title": "Internet Explorer, Blob URLs, Web Workers, die Same Origin Policy und der IE-Bugtracker",
       "href": "http://www.peterkroener.de/internet-explorer-blob-urls-web-workers-die-same-origin-policy-und-der-ie-bugtracker/",
       "time": "00:46:31",
       "description": "Ein Rant von Peter über seinen aktuellen Lieblings-Bug im IE. <a href=\"https://connect.microsoft.com/IE/feedback/details/801810/web-workers-from-blob-urls-in-ie-10-and-11\">Hier ist der Bug Report bei Microsoft</a>."
     },
     {
-      "name": "StahlstadtJS",
+      "title": "StahlstadtJS",
       "href": "http://www.meetup.com/stahlstadt-js/",
       "time": "00:46:31",
       "description": "JS-Meetup in Linz."
     },
     {
-      "name": "JSunconference",
+      "title": "JSunconference",
       "href": "http://2014.jsunconf.eu/",
       "time": "00:46:31",
       "description": "Ist zwar erst im April 2014, aber vormerken kann man sich das Ganze schon mal."
-    }
-  ],
-  "randomSpec": [
-    {
-      "name": "Outline-Algorithmus",
-      "time": "00:38:33",
-      "description": "Wir reden über Theorie und Praxis des <a href=\"http://coding.smashingmagazine.com/2011/08/16/html5-and-the-document-outlining-algorithm/\">Outline-Algorithmus</a>, SEO und <a href=\"http://schema.org/\">schema.org</a>."
     }
   ]
 }

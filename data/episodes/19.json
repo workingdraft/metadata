@@ -29,69 +29,69 @@
   "description": "Diese Woche haben wir uns kompetente Unterstützung von <a href=\"http://twitter.com/dantz\">Andreas Dantz</a> aus Bremen gesichert.",
   "topics": [
     {
-      "name": "Barcamp Ruhr 4",
+      "title": "Barcamp Ruhr 4",
       "href": "http://www.barcampruhr3.de/networks/wiki/index.berichte",
       "description": "Andreas und Schepp hatten beide das Vergnügen, am Wochenende dem vierten <a href=\"http://twitter.com/#search?q=bcruhr4\">Barcamp Ruhr</a> in Essen beizuwohnen. Beide geben einen kurzen Überblick, was ein <a href=\"http://de.wikipedia.org/wiki/BarCamp\">Barcamp</a> ausmacht, was für Vorträge geboten wurden und was das <a href=\"http://www.unperfekthaus.de/\">Unperfekthaus in Essen</a> so besonders macht."
     },
     {
-      "name": "Firefox 4 ist da!",
+      "title": "Firefox 4 ist da!",
       "href": "http://www.getfirefox.de/",
       "description": "Firefox 4, oder kurz: der fx4, ist endlich released und verbreitet sich sich <a href=\"http://glow.mozilla.org/\">rasend schnell</a>. Und wir finden ihn alle richtig gut. Über die Technik würden wir gerne nochmal in einer Schwerpunktsendung mit <a href=\"http://wait-till-i.com/\">Chris Heilmann</a> sprechen. Der <a href=\"https://twitter.com/#!/codepo8/statuses/17223632753266688\">hatte auch schon zugesagt</a>, kann sich <a href=\"https://twitter.com/#!/codepo8/statuses/43431604902834178\">aber gerade nicht mehr erinnern</a>. Daher, liebe Hörer: Schiebt ihn bitte mal mit an, sonst lässt er uns noch als Stalker einbuchten :)"
     },
     {
-      "name": "HTML5-Handbuch",
+      "title": "HTML5-Handbuch",
       "href": "http://webkompetenz.wikidot.com/docs:html-handbuch",
       "description": "Stefan Münz hat im Prinzip eine Art inoffiziellen Nachfolger seiner SelfHTML-Bücher herausgebracht, und zwar sein <a href=\"http://www.amazon.de/dp/3645600795/\">HTML5 Handbuch</a>. Gleichzeitig gibt es das gesamte Buch aber auch <a href=\"http://webkompetenz.wikidot.com/docs:html-handbuch\">online</a>. Im Kontrast zu Peters Buch lässt Stefan Münz den JavaScript-Part bewusst aus und konzentriert sich auf Markup und CSS. Außerdem mit inklusive sind HTML 1 &#8211; 4.01 und CSS 1.0 &#8211; 2.1."
     },
     {
-      "name": "Native webcam support and orientation events",
+      "title": "Native webcam support and orientation events",
       "href": "http://my.opera.com/core/blog/2011/03/23/webcam-orientation-preview",
       "description": "Eine Vorabversion des Opera bringt die neuste Fassung der Device-API mit, mit Hilfe derer man Webcams, Mikrofone und ähnliches aus dem Browser heraus anzapfen kann. Außerdem kennt das window-Objekt ein neues Orientation-Event, das auslöst, sobald das Gerät um mehr als 90 Grad gedreht wird."
     },
     {
-      "name": "Cache Manifest Validator",
+      "title": "Cache Manifest Validator",
       "href": "http://manifest-validator.com/",
       "description": "Sehr praktisches Online Werkzeug, mit dem man ein HTML5-Appcache Cache-Manifest von oben bis unten durchchecken lassen kann. Vorbei ist also das Stochern im Nebel, wenn der Appcache mal wieder nicht macht, was er soll. Gibt es auch per Textmate-Bundle und zum Forken auf Github."
     },
     {
-      "name": "IE9 MIME-Handling Change: text/css",
+      "title": "IE9 MIME-Handling Change: text/css",
       "href": "http://msdn.microsoft.com/en-us/library/gg622939(v=vs.85).aspx",
       "description": "Der IE9 zieht die Daumenschrauben in Sachen Kleinkariertheit an und akzeptiert keine Stylesheets mehr, die nicht mit dem MIME-Typ &#8220;text/css&#8221; ausgeliefert werden. Dass das kein <a href=\"https://twitter.com/#!/ie9bugs\">Bug</a> des IE9 ist, sondern ein Sicherheitsfeature, und wie man den IE9 als Serverbetreiber zum Schutz seiner Besucherschaft auch bei JavaScript in einen solchen Modus bringen kann, erläutert alles ein <a href=\"http://blogs.msdn.com/b/ie/archive/2010/10/26/mime-handling-changes-in-internet-explorer.aspx\">Blogpost im IE-Blog</a>."
     },
     {
-      "name": "Illuminations for Developers",
+      "title": "Illuminations for Developers",
       "href": "http://www.illuminations-for-developers.com/",
       "description": "&hellip; ist eine kostenpflichtige Erweiterung eines der Firebug-Programmierer für, ähm naja, Firebug. Sie filtert einem aus der Seite in einem separaten Firebug-Tab alle Widget-Elemente der großen JavaScript-UI-Frameworks ExtJS, Dojo Toolkit, SproutCore, qooxdoo, YUI3, Closure Library, und jQueryUI heraus. Dort <a href=\"http://www.illuminations-for-developers.com/about/\">listet es deren Bestandteile, Werte und Methoden übersichtlich auf</a>. Von großem Wert für alle, die viel Webapps mit so Frameworks bauen und die sie effektiver debuggen wollen."
     },
     {
-      "name": "CSS Pivot",
+      "title": "CSS Pivot",
       "href": "http://www.csspivot.com/",
       "description": "Mit diesem Online-Werkzeug kann man einer bestehenden Seite eigene Styles hinzufügen und das Ergebnis als Link weitergeben. Gut zum Brainstormen oder um Kunden Facelifting-Vorschläge zu unterbreiten oder um Ideen innerhalb des Teams auszutauschen."
     },
     {
-      "name": "Ceaser CSS Easing Animation Tool",
+      "title": "Ceaser CSS Easing Animation Tool",
       "href": "http://matthewlein.com/ceaser/",
       "description": "Ein weiteres Online-Werkzeug, mit dem man völlig frei Animationskurven mit Hilfe einer Bezierkurve und zwei Anfassern zurechtziehen kann, und das einem zum Schluss den dazu passenden fertigen CSS-Transition-Code ausspuckt."
     },
     {
-      "name": "Targeting mobile-optimized CSS at Windows Phone 7",
+      "title": "Targeting mobile-optimized CSS at Windows Phone 7",
       "href": "http://blogs.msdn.com/b/iemobile/archive/2010/12/08/targeting-mobile-optimized-css-at-windows-phone-7.aspx",
       "description": "Die mobilen Fassungen der IEs auf Windows Phone 7 haben eigene maßgeschneiderte Conditional Comments erhalten, mit denen sich die altbekannten Browserweichen auch auf mobilen Seiten realisieren lassen."
     }
   ],
   "links": [
     {
-      "name": "context-blender",
+      "title": "context-blender",
       "href": "https://github.com/Phrogz/context-blender",
       "description": "Kleines Tool, mit dem man Bilder in einer Canvas ähnlich wie in Photoshop die Ebenen ineinanderblenden kann."
     },
     {
-      "name": "Don’t Trust IE9′s Document Modes",
+      "title": "Don’t Trust IE9′s Document Modes",
       "href": "http://www.craig-russell.co.uk/dont-trust-ie9s-document-modes/",
       "description": "Auch wenn es eigentlich nichts Neues ist: Die Emulationen älterer IE-Renderer im IE9 per Document Mode sind nicht originalgetreu, eignen sich also nicht zum Testen."
     },
     {
-      "name": "CSS Regions Module",
+      "title": "CSS Regions Module",
       "href": "http://dev.w3.org/csswg/css3-regions/Overview.src.html",
       "description": "Adobe hat endlich einen Working Draft veröffentlicht, der beschreibt, wie die verschiedenen, <a href=\"http://www.youtube.com/watch?v=zRa4QTsb08s\">letzten Oktober in einem Video gezeigten</a> Text(um)fluss-Möglichkeiten in CSS umgesetzt werden könnten. Nicht gerade einfach."
     }

@@ -25,31 +25,31 @@
   "description": "Heute hat sich Schepp mit <a href=\"http://drublic.de/\">Hans Christian Reinl</a>, alias <a href=\"http://twitter.com/#!/drublic\">@drublic</a> hingesetzt, und zusammen haben wir recht viel schöne Kleinigkeiten für Euch ausgegraben.",
   "topics": [
     {
-      "name": "Developer Tools in Firefox Aurora 10",
+      "title": "Developer Tools in Firefox Aurora 10",
       "href": "http://hacks.mozilla.org/2011/11/developer-tools-in-firefox-aurora-10/",
       "time": "00:01:40",
       "description": "Etwas, das Rodney und Peter in der letzten Woche versäumt haben, holen wir diesmal nach: Wir werfen einen Blick auf die neuen in Firefox zukünftig integrierten Entwicklertools. Unserer Meinung nach ein guter Start, der aber weiter ausgebaut werden muss, da <a href=\"http://www.golem.de/1107/85007.html\">Firebug in eine nicht mehr ganz so rosige Zukunft blickt</a> und dringend Ersatz braucht."
     },
     {
-      "name": "DOM Improvements",
+      "title": "DOM Improvements",
       "href": "http://annevankesteren.nl/2011/11/dom-improvements",
       "time": "00:12:40",
       "description": "Nachdem zunächst überhaupt erst einmal ein Gremium aus dem Boden gestampft wurde, das beim W3C für die Standardisierung und Fortentwicklung des DOM-Zugriffs zuständig ist, gibt es nun einen ersten Vorstoß, neuen DOM-Methoden zu spezifizieren. Während des Gesprächs schweifen wir zum Thema <a href=\"http://www.wordsbyf.at/2011/11/23/selectors-selectoring/\">interne Arbeitsweise der jQuery-Selectorengine Sizzle</a> ab."
     },
     {
-      "name": "Evolving ECMAScript",
+      "title": "Evolving ECMAScript",
       "href": "http://blogs.msdn.com/b/ie/archive/2011/11/22/evolving-ecmascript.aspx",
       "time": "00:23:21",
       "description": "Auch Microsoft bringt ein paar Vorschläge für neue Methoden, allerdings für JavaScript. Sehr sinnvoll."
     },
     {
-      "name": "Verlustlose Kompression und Transparenz für Google WebP",
+      "title": "Verlustlose Kompression und Transparenz für Google WebP",
       "href": "http://www.golem.de/1111/87843.html",
       "time": "00:33:13",
       "description": "Spätestens jetzt wird WebP zum Alleskönner, da es in seiner neusten Version bei Bedarf verlustfrei komprimieren kann, Animationen lernt, und obendrein auch mit Transparenz auftrumpft. Dabei sprechen wir u.a. kurz über das gescheiterte Bildformat <a href=\"http://en.wikipedia.org/wiki/APNG\">APNG</a> und wieder mal über mögliche Lösungswege für <a href=\"https://groups.google.com/forum/#!topic/jquery-standards/rl8886ZRs8o\">responsive Bilder</a>."
     },
     {
-      "name": "Viele neue APIs",
+      "title": "Viele neue APIs",
       "href": "http://www.w3.org/2009/dap/",
       "time": "00:46:12",
       "description": "Es erscheinen immer mehr Working Drafts für APIs für den Hardwarezugriff. So etwa ganz frisch von Nokia ein Vorschlag zu einer <a href=\"http://www.w3.org/TR/vibration/\">Vibration API</a>. Chrome und Firefox warten demnächst mit der <a href=\"http://techcrunch.com/2011/11/24/chrome-getting-native-gamepad-webcam-and-webrtc-support-in-early-2012/\">Gamepad API auf</a>. Und Opera, Chrome und Firefox verfügen bald alle über Zurgriff auf die Webcam oder das Mikrofon. Federführend ist in diesem Bereich die <a href=\"http://www.w3.org/2009/dap/\">Device APIs Working Group</a>, und auch <a href=\"http://www.golem.de/1108/85920.html\">Mozilla ist da stark hinterher</a>, bis Ende des Jahres alle APIs fertig zu haben. <a href=\"https://wiki.mozilla.org/B2G\">Wegen Boot to Gecko</a>."
@@ -57,19 +57,19 @@
   ],
   "links": [
     {
-      "name": "CSS3 Adventskalender",
+      "title": "CSS3 Adventskalender",
       "href": "http://maddesigns.de/css3-adventskalender-2011-1107.html",
       "time": "01:15:03",
       "description": "Wie letztes Jahr bringen <a href=\"http://maddesigns.de/\">Sven Wolfermann</a> und <a href=\"http://webstandard.kulando.de/\">Heiko Stiegert</a> auch dieses Jahr wieder einen Adventskalender vollgepackt mit CSS3-Tricks, bei dem allerlei Gastautoren mit von der Partie sind und es sehr hochkarätige Preise zu gewinnen gibt."
     },
     {
-      "name": "Orchestra.io",
+      "title": "Orchestra.io",
       "href": "http://orchestra.io/",
       "time": "01:15:03",
       "description": "PHP Deployment System, das mit Github arbeitet."
     },
     {
-      "name": "SmashingMagazine Meetup #3 with Paul Irish and Stuttgart GTUG",
+      "title": "SmashingMagazine Meetup #3 with Paul Irish and Stuttgart GTUG",
       "href": "http://www.meetup.com/The-SmashingMagazine-Meetup/events/42026332/?a=ea1_grp&rv=ea1\"",
       "time": "01:15:03",
       "description": "Am 21.12. findet in Stuttgart das dritte Smashing Magazine Meetup statt, mit Paul Irish und Chris Heilmann. Meldet Euch an!"

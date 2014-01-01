@@ -34,48 +34,48 @@
   "audio": "http://workingdraft.de/podpress_trac/web/1271/0/wd-75.mp3",
   "title": "News, Links und die diesmal wirklich kürzeste Revision aller Zeiten",
   "description": "Eine Kombination aus Sommerloch, EM, WWDC und Schepps Urlaub sorgt erneut für Magerkost bei den Themen. Kann man nichts machen! Dafür führen wir mit den News einen neuen Sendungsbestandteil ein, bei dem es in Zukunft (?) immer ein paar kurze Update-Durchsagen geben soll.",
-  "topics": [
-    {
-      "name": "JSON vs. MessagePack vs. JSON5",
-      "time": "00:01:19",
-      "description": "Mit <a href=\"http://msgpack.org/\">MessagePack</a>, einer binären Abwandlung des JSON-Formats, <a href=\"http://indiegamr.com/cut-your-data-exchange-traffic-by-up-to-50-with-one-line-of-code-msgpack-vs-json/\">meint jemand</a> seinen Traffic halbieren zu können. Uns kommt das wie Blödsinn vor und wir sehen auch nicht so wirklich viel Potenzial für MessagePack in der Webentwicklung. Auch der Autor von MessagePack <a href=\"https://gist.github.com/2908191\">geht d‘accord</a>. Besser finden wir da schon <a href=\"https://github.com/aseemk/json5\">JSON5</a>, eine ECMAScript5-konforme Erweiterung von JSON, die etwas weniger strikt ist&nbsp;&ndash; eine gute Idee für Konfigurationsdateien."
-    }
-  ],
   "news": [
     {
-      "name": "Transitions, Transforms and Animations may be released unprefixed",
+      "title": "Transitions, Transforms and Animations may be released unprefixed",
       "href": "http://www.w3.org/blog/CSS/2012/06/06/resolutions-40/",
       "time": "00:00:11",
       "description": "Die CSS Working Group erklärt Transitions, Transforms und Animationen für praktisch fertig und der IE 10 <a href=\"http://msdn.microsoft.com/en-US/library/ie/hh673560.aspx\">verzichtet</a> auch bereits auf Vendor-Prefixes hierfür."
     },
     {
-      "name": "MySQL Root Exploit",
+      "title": "MySQL Root Exploit",
       "href": "https://www.secmaniac.com/blog/2012/06/11/massive-mysql-authentication-bypass-exploit/",
       "time": "00:00:11",
       "description": "In manche MySQL-Versionen kann man sich mit beliebigen Passwörtern einloggen."
     }
   ],
+  "topics": [
+    {
+      "title": "JSON vs. MessagePack vs. JSON5",
+      "time": "00:01:19",
+      "description": "Mit <a href=\"http://msgpack.org/\">MessagePack</a>, einer binären Abwandlung des JSON-Formats, <a href=\"http://indiegamr.com/cut-your-data-exchange-traffic-by-up-to-50-with-one-line-of-code-msgpack-vs-json/\">meint jemand</a> seinen Traffic halbieren zu können. Uns kommt das wie Blödsinn vor und wir sehen auch nicht so wirklich viel Potenzial für MessagePack in der Webentwicklung. Auch der Autor von MessagePack <a href=\"https://gist.github.com/2908191\">geht d‘accord</a>. Besser finden wir da schon <a href=\"https://github.com/aseemk/json5\">JSON5</a>, eine ECMAScript5-konforme Erweiterung von JSON, die etwas weniger strikt ist&nbsp;&ndash; eine gute Idee für Konfigurationsdateien."
+    }
+  ],
   "links": [
     {
-      "name": "Third-Party JavaScript Development: The Future!",
+      "title": "Third-Party JavaScript Development: The Future!",
       "href": "http://weblog.bocoup.com/third-party-javascript-development-future/",
       "time": "00:11:02",
       "description": "Bocoup spekuliert über die Mittel der Zukunft für Third-Party-JS."
     },
     {
-      "name": "gmaps.js",
+      "title": "gmaps.js",
       "href": "http://hpneo.github.com/gmaps/examples.html",
       "time": "00:11:02",
       "description": "Wrapper für die Google Maps-API, der alles sehr sehr sehr viel bequemer macht."
     },
     {
-      "name": "Bunyip",
+      "title": "Bunyip",
       "href": "http://ryanseddon.github.com/bunyip/",
       "time": "00:11:02",
       "description": "Automatisches, paralleles Client-Side-Unittesting in beliebigen Browsern."
     },
     {
-      "name": "Trying out ECMAScript.next’s for…of loop in Firefox 13",
+      "title": "Trying out ECMAScript.next’s for…of loop in Firefox 13",
       "href": "http://www.2ality.com/2012/06/for-of-ff13.html",
       "time": "00:11:02",
       "description": "Axel Rauschmayer über Iteratoren im kommenden ECMAScript-Standard."

@@ -36,55 +36,55 @@
   "description": "Was könnte besser zum just gewesenen Osterfest passen als die Revision 666 eines nerdigen Webdev-Podcasts? Kahlil, Hans und Peter sahen das genau so.",
   "topics": [
     {
-      "name": "CSS-Vars Reloaded",
+      "title": "CSS-Vars Reloaded",
       "href": "http://www.w3.org/TR/css-variables/",
       "time": "00:00:25",
       "description": "Variablen in CSS sind jetzt ein offizieller Working Draft und die Syntax hat sich auch gebessert. Wir spekulieren, warum sie nicht noch simpler ist (z.B. <code>$foo</code> statt <code>var-foo</code>) und kommen zu keinem Ergebnis. Am Dollarzeichen kann es nicht liegen, das gibt es ja auch in <a href=\"http://www.w3.org/TR/selectors/\">Selectors Level 3</a> und <a href=\"http://www.w3.org/TR/selectors4/\">Level 4</a>"
     },
     {
-      "name": "The select menu navigation pattern",
+      "title": "The select menu navigation pattern",
       "href": "http://www.stuffandnonsense.co.uk/blog/about/the_select_menu_navigation_pattern",
       "time": "00:10:17",
       "description": "Select-Elemente taugen nicht als Navigationsmittel sagt der Andy Clarke. Wir gehen prinzipiell d&#8217;accord, aber große Navis responsive zu machen, ohne den ganzen Bildschirm zuzukleistern, ist auch nicht leicht&nbsp;&hellip;"
     },
     {
-      "name": "Brendan Eich ist homophob",
+      "title": "Brendan Eich ist homophob",
       "href": "http://projects.latimes.com/prop8/donation/8930/",
       "time": "00:31:00",
       "description": "Der JavaScript-Erfinder hat eine vierstellige im Kampf gegen die Homo-Ehe gestiftet. Wir wissen zwar nicht, ob das ein Thema für die Sendung ist, empören uns aber trotzdem. Aber was nun? Am besten <a href=\"http://www.davidflanagan.com/2012/04/javascript-its.html\">verabschiedet man sich einfach von der Idee, JS sei eine Community</a> und gewöhnt sich daran, dass es nur eine weitere Progammiersprache ist, die eben auch von Neandertalern und Spinnern benutzt und entwickelt wird."
     },
     {
-      "name": "Werbeblock",
+      "title": "Werbeblock",
       "time": "00:40:24",
       "description": "Peter hat in <a href=\"http://www.opensourceschool.de/kurstermine/muenchen/schulung/html5-05-2012/\">seiner nächsten HTML5-Schulung</a> noch Platz für ein paar Padawane. Schepp wiederum zettelt mit ein paar Mitstreitern einen Webworkerstammtisch in Düsseldorf an, der sich erstmalig am 12.04.2012 im <a href=\"http://www.garagebilk.de/\">Coworking Space Garage Bilk</a> zusammenfand. Das nächste mal am 24.05.2012 um 19h und danach an jedem 3ten Donnerstag im Monat. Kahlil schlussendich verbloggt ab jetzt regelmäßig <a href=\"http://dieillstenlinksvonneulich.de/\">die illsten Links von neulich</a>."
     }
   ],
   "links": [
     {
-      "name": "Round-up of web browser internals resources",
+      "title": "Round-up of web browser internals resources",
       "href": "http://updates.html5rocks.com/2012/04/Round-up-of-Web-Browser-Internals-Resources",
       "time": "00:47:47",
       "description": "Wer wissen will, wie Browser unter der Haube funktionieren, ist hier genau richtig."
     },
     {
-      "name": "locache",
+      "title": "locache",
       "href": "https://github.com/d0ugal/locache",
       "time": "00:47:47",
       "description": "Framework für Local Storage"
     },
     {
-      "name": "CoffeeScript in der Browser-Konsole",
+      "title": "CoffeeScript in der Browser-Konsole",
       "time": "00:47:47",
       "description": "Gibt es für <a href=\"http://snook.ca/archives/browsers/coffeeconsole\">Chrome</a> und <a href=\"https://addons.mozilla.org/en-US/firefox/addon/acebug/\">Firefox</a>"
     },
     {
-      "name": "AngularJS Tutorial + Anatomy of Backbone",
+      "title": "AngularJS Tutorial + Anatomy of Backbone",
       "href": "http://www.youtube.com/watch?v=WuiHuZq_cg4",
       "time": "00:47:47",
       "description": "Kompakte Video-Tutorials"
     },
     {
-      "name": "Emblr",
+      "title": "Emblr",
       "href": "http://emberjs.tumblr.com/",
       "time": "00:47:47",
       "description": "Tumblr zur Sammlung von Links zu <a href=\"http://emberjs.com/\">Ember.js</a>"

@@ -42,67 +42,67 @@
   "audio": "http://workingdraft.de/podpress_trac/web/1351/0/wd-79.mp3",
   "title": "File System API, Chrome Apps und ein Haufen Links",
   "description": "Schepp war nicht da, aber mit Rodney, Hans, Kahlil und Peter an Bord waren wir trotzdem beschlussfähig. Haben wir schon erwähnt, dass Rodney seit letzter Woche offizieller Bestandteil der Crew von Working Draft ist? Glückwunsch Rodney!",
-  "topics": [
-    {
-      "name": "Why no FileSystem API in Firefox?",
-      "href": "http://hacks.mozilla.org/2012/07/why-no-filesystem-api-in-firefox/",
-      "time": "00:01:14",
-      "description": "Jonas Sicking erklärt, warum wir nicht damit rechnen sollten, die <a href=\"http://dev.w3.org/2009/dap/file-system/file-dir-sys.html\">File System</a> und <a href=\"http://dev.w3.org/2009/dap/file-system/file-writer.html\">File Writer</a> zeitnah im Firefox vorzufinden. Andere APIs wie z.B. <a href=\"https://developer.mozilla.org/en/IndexedDB\">Indexed&nbsp;DB</a> und <a href=\"http://www.w3.org/TR/webstorage/\">Web Storage</a> können fast alle Aufgaben der FS-API übernehmen. Wir gehen im Prinzip d‘accord und finden auch, dass die Alternativen einfach viel schöner sind, als der elaboriert-javaeske Code, der bei der FS-API anfällt&nbsp;&ndash; man sehe sich nur mal <a href=\"http://www.html5rocks.com/de/tutorials/file/filesystem/\">dieses Tutorial</a> an. Und wer gar nicht ohne File System API kann, dem helfen (auf Indexed&nbsp;DB aufsetzende) <a href=\"https://github.com/ebidel/idb.filesystem.js\">Polyfills</a>."
-    },
-    {
-      "name": "Chrome Apps: JavaScript Desktop Development",
-      "href": "http://dailyjs.com/2012/07/05/evolution-chrome-apps/",
-      "time": "00:16:06",
-      "description": "Google hat auf der diesjährigen Google I/O mal wieder die Revolution <a href=\"https://www.youtube.com/watch?v=j8oFAr1YR-0\">angekündigt</a>&nbsp;&ndash; diesmal sollen‘s Webapps auf dem Desktop werden. Klingt eigentlich ganz schön, nur Peter fühlt sich an <a href=\"http://www.adobe.com/products/air.html\">Adobe Air</a> erinnert und fragt sich, warum man sich Web-Gefrickel auf der Clientseite wünschen sollte. Immerhin sollen die entstehenden Technologien in die <a href=\"http://www.w3.org/2012/05/sysapps-wg-charter.html\">System Applications Working Group</a> eingebracht werden, so dass vielleicht der eine oder andere Webstandard daraus entsteht."
-    }
-  ],
   "news": [
     {
-      "name": "Fullscreen-API",
+      "title": "Fullscreen-API",
       "href": "http://www.w3.org/TR/2012/WD-fullscreen-20120703/",
       "time": "00:00:22",
       "description": "Jetzt offizieller Working Draft"
     },
     {
-      "name": "Weniger Prefixes in Firefox",
+      "title": "Weniger Prefixes in Firefox",
       "href": "http://paulrouget.com/e/unprefixing-in-firefox-16/",
       "time": "00:00:22",
       "description": "Ab Version&nbsp;16 sind Animationen, Transitions, Transforms und Gradients nicht mehr geprefixt"
     }
   ],
+  "topics": [
+    {
+      "title": "Why no FileSystem API in Firefox?",
+      "href": "http://hacks.mozilla.org/2012/07/why-no-filesystem-api-in-firefox/",
+      "time": "00:01:14",
+      "description": "Jonas Sicking erklärt, warum wir nicht damit rechnen sollten, die <a href=\"http://dev.w3.org/2009/dap/file-system/file-dir-sys.html\">File System</a> und <a href=\"http://dev.w3.org/2009/dap/file-system/file-writer.html\">File Writer</a> zeitnah im Firefox vorzufinden. Andere APIs wie z.B. <a href=\"https://developer.mozilla.org/en/IndexedDB\">Indexed&nbsp;DB</a> und <a href=\"http://www.w3.org/TR/webstorage/\">Web Storage</a> können fast alle Aufgaben der FS-API übernehmen. Wir gehen im Prinzip d‘accord und finden auch, dass die Alternativen einfach viel schöner sind, als der elaboriert-javaeske Code, der bei der FS-API anfällt&nbsp;&ndash; man sehe sich nur mal <a href=\"http://www.html5rocks.com/de/tutorials/file/filesystem/\">dieses Tutorial</a> an. Und wer gar nicht ohne File System API kann, dem helfen (auf Indexed&nbsp;DB aufsetzende) <a href=\"https://github.com/ebidel/idb.filesystem.js\">Polyfills</a>."
+    },
+    {
+      "title": "Chrome Apps: JavaScript Desktop Development",
+      "href": "http://dailyjs.com/2012/07/05/evolution-chrome-apps/",
+      "time": "00:16:06",
+      "description": "Google hat auf der diesjährigen Google I/O mal wieder die Revolution <a href=\"https://www.youtube.com/watch?v=j8oFAr1YR-0\">angekündigt</a>&nbsp;&ndash; diesmal sollen‘s Webapps auf dem Desktop werden. Klingt eigentlich ganz schön, nur Peter fühlt sich an <a href=\"http://www.adobe.com/products/air.html\">Adobe Air</a> erinnert und fragt sich, warum man sich Web-Gefrickel auf der Clientseite wünschen sollte. Immerhin sollen die entstehenden Technologien in die <a href=\"http://www.w3.org/2012/05/sysapps-wg-charter.html\">System Applications Working Group</a> eingebracht werden, so dass vielleicht der eine oder andere Webstandard daraus entsteht."
+    }
+  ],
   "links": [
     {
-      "name": "Git in 15 Minutes",
+      "title": "Git in 15 Minutes",
       "href": "http://try.github.com/levels/1/challenges/1",
       "time": "00:30:42",
       "description": "Großartiges interaktives Tutorial."
     },
     {
-      "name": "GitHub Android App Released",
+      "title": "GitHub Android App Released",
       "href": "https://github.com/blog/1187-github-android-app-released",
       "time": "00:30:42",
       "description": "Github&nbsp;&ndash; jetzt auch für alle, die sich kein iPhone leisten können!"
     },
     {
-      "name": "PHP – The right way",
+      "title": "PHP – The right way",
       "href": "http://www.phptherightway.com/",
       "time": "00:30:42",
       "description": "Versucht, den zahllosen ranzigen Tutorials im Web die Stirn zu bieten."
     },
     {
-      "name": "Replacing Text in DOM",
+      "title": "Replacing Text in DOM",
       "href": "http://james.padolsey.com/javascript/replacing-text-in-the-dom-solved/",
       "time": "00:30:42",
       "description": "Diese Technik kommt auch mit größeren Tag-Verschachtelungen klar und liefert ein valides Ergebnis."
     },
     {
-      "name": "iOS has a :hover problem",
+      "title": "iOS has a :hover problem",
       "href": "http://www.nczonline.net/blog/2012/07/05/ios-has-a-hover-problem/",
       "time": "00:30:42",
       "description": "Erklärt, unter welchen Umstände iOS einen Klick/Tap als :hover interpretiert."
     },
     {
-      "name": "TYPO3 Codesprint Freiburg",
+      "title": "TYPO3 Codesprint Freiburg",
       "href": "http://wiki.typo3.org/Code_Sprint_Freiburg_2012",
       "time": "00:30:42",
       "description": "Hans will mit euch am 13. Juli Typo3 aufmöbeln."

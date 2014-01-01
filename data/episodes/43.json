@@ -25,36 +25,36 @@
   "description": "Diesmal nur zu zweit, da Markus derzeit den Status &#8220;homeless&#8221; und damit &#8220;wireless&#8221; innehat.",
   "topics": [
     {
-      "name": "Fronteers 2011",
+      "title": "Fronteers 2011",
       "href": "http://fronteers.nl/congres/2011",
       "time": "00:00:17",
       "description": "Schepp war bei der diesjährigen Fronteers Konferenz in Amsterdam und erzählt, wie er es fand. Videos der Talks trudeln nach und nach auf <a href=\"http://vimeo.com/channels/fronteers11\">Vimeo</a> ein."
     },
     {
-      "name": "Web DevCon 2011",
+      "title": "Web DevCon 2011",
       "href": "http://www.web-devcon.de/",
       "description": "Peter hingegen war als Speaker auf der Web DevCon in Hamburg eingeladen, und fand sie nerdiger vor als gedacht. Seine Entdekung dort: Der <a href=\" http://aloha-editor.org/\">Aloha Editor</a>."
     },
     {
-      "name": "Image Fallbacks and Annotations: the ‘image()’ notation",
+      "title": "Image Fallbacks and Annotations: the ‘image()’ notation",
       "href": "http://dev.w3.org/csswg/css3-images/#image-notation",
       "time": "00:24:36",
       "description": "Auf der Fronteers präsentierte Tab Atkins Jr. Ideen der W3C CSS Working Group, und davon waren besonders interessant: <a href=\"http://dev.w3.org/csswg/css3-images/#image-notation\">Image Fallbacks and Annotations: the ‘image()’ notation</a>, <a href=\"http://dev.w3.org/csswg/css3-images/#element-reference\">Using Elements as Images: the ‘element()’ function</a>, <a href=\"http://dev.w3.org/csswg/css3-images/#image-resolution\">Overriding Image Resolutions: the ‘image-resolution’ property</a> und die <a href=\"http://www.w3.org/TR/2011/WD-media-frags-20110317/\">Media Fragments</a>."
     },
     {
-      "name": "Die Syntax der linearen Verläufe hat sich geändert!",
+      "title": "Die Syntax der linearen Verläufe hat sich geändert!",
       "href": "http://dev.w3.org/csswg/css3-images/#linear-gradients",
       "time": "00:39:02",
       "description": "Anstatt wie bisher mit einem Richtungswort zu definieren, wo ein Verlauf startet, gibt es bald womöglich die Syntax &#8220;to&#8221; + Richtungswort, die dann festlegt, wo er hinläuft. Wir fragen uns, was das für Konsequenzen auf bisherigen Code haben könnte."
     },
     {
-      "name": "Dart: Structured Web Programming",
+      "title": "Dart: Structured Web Programming",
       "href": "http://www.dartlang.org/",
       "time": "00:50:35",
       "description": "Google hat nun endlich Dart vorgestellt. Und nicht nur Peter ist unterwältigt. Wofür könnte man Dart genau brauchen?"
     },
     {
-      "name": "16 Pixels for Body Copy. Anything Less is a Costly Mistake",
+      "title": "16 Pixels for Body Copy. Anything Less is a Costly Mistake",
       "href": "http://www.smashingmagazine.com/2011/10/07/16-pixels-body-copy-anything-less-costly-mistake/",
       "time": "01:07:03",
       "description": "Wir nehmen diesen Artikel zum Anlass, uns hinsichtlich Schriftgrößen auf Webseiten auszutauschen. Der Artikel meint: Minimum 16 Pixel! Gerne mehr."
@@ -62,19 +62,19 @@
   ],
   "links": [
     {
-      "name": "The JavaScript Show",
+      "title": "The JavaScript Show",
       "href": "http://javascriptshow.com/",
       "time": "01:14:10",
       "description": "Sehr netter, wöchentlich erscheinender Podcast, in dem Peter Cooper und Jason Seifer neueste Funde in Sachen JavaScript präsentieren."
     },
     {
-      "name": "Incredibly Useful CSS Snippets",
+      "title": "Incredibly Useful CSS Snippets",
       "href": "http://webexpedition18.com/articles/useful-css-snippets/",
       "time": "01:14:10",
       "description": "Nur die besten CSS-Code-Snippets liegen auf dieser Seite bereit, um von Euch per Copy &#038; Paste geräubert zu werden. Das ist 1A Ware!"
     },
     {
-      "name": "HTML Component Model & the Shadow DOM",
+      "title": "HTML Component Model & the Shadow DOM",
       "href": "http://jaffathecake.posterous.com/html-component-model-the-shadow-dom",
       "time": "01:14:10",
       "description": "Ein Umfassender Artikel Jake Archibalds rund um die Web Components und das Shadow DOM, mit denen sich in Zukunft neue, fehlende HTML-Elemente definieren und erzeugen lassen."

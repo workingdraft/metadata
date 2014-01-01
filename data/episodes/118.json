@@ -26,68 +26,68 @@
   "description": "News gibt es diese Woche keine zu verkünden.\n\nAufgrund von Konferenzen, Betankung und privater Großereignisse gibt es diese Woche ein kleines Loch an Themen. Schepp und Hans haben aber versucht das Beste draus zu machen.",
   "topics": [
     {
-      "name": "Coding, Fast and Slow: Developers and the Psychology of Overconfidence",
+      "title": "Coding, Fast and Slow: Developers and the Psychology of Overconfidence",
       "href": "http://blog.hut8labs.com/coding-fast-and-slow.html",
       "time": "00:00:33",
       "description": "Wir kennen es alle: Ein neues Projekt soll geschätzt werden und das am besten gleich in der nächsten halben Stunde. Wir kalkulieren irgendwelche Aufwände von Features, die wir gar nicht kennen. Dadurch entstehen oft Fehlschätzungen, die wir später oft selbst ausbaden müssen. Der oben genannte Artikel beschäftigt sich mit genau dieser Problematik und wir diskutieren, in wie fern man dem Entgegenwirken kann."
     }
   ],
-  "links": [
-    {
-      "name": "traceGL",
-      "href": "https://trace.gl/",
-      "time": "00:30:30",
-      "description": "traceGL visualisiert den Code-Fluss einer App."
-    },
-    {
-      "name": "Listen, Watch And Share!",
-      "href": "http://www.smashingmagazine.com/2013/04/19/podcasts-for-designers-developers/",
-      "time": "00:30:30",
-      "description": "Eine Liste an angesagten englischen web-spezifischen Podcasts."
-    },
-    {
-      "name": "PathFinding.js",
-      "href": "https://github.com/qiao/PathFinding.js",
-      "time": "00:30:30",
-      "description": "Mit PathFinding.js kann man anhand komplexer Algorithmen festlegen, wie sich Elemente auf einer Fläche bewegen dürfen. Vor allem für Spiele-Entwickler interessant."
-    },
-    {
-      "name": "PhantomCSS",
-      "href": "http://tldr.huddle.com/blog/css-testing/",
-      "time": "00:30:30",
-      "description": "Mit PhantomCSS lassen sich CSS-Tests automatisiert durchführen."
-    },
-    {
-      "name": "jQuery Annotated Source",
-      "href": "http://robflaherty.github.io/jquery-annotated-source/",
-      "time": "00:30:30",
-      "description": "Für alle, die etwas vom jQuery Core Code lernen möchten."
-    },
-    {
-      "name": "Snap.js",
-      "href": "https://github.com/jakiestfu/Snap.js",
-      "time": "00:30:30",
-      "description": "Snap.js bietet die Möglichkeit Menüs zu bauen, wie man sie von Facebooks oder Spotifys Mobile-App kennt."
-    },
-    {
-      "name": "Unheap",
-      "href": "http://www.unheap.com/",
-      "time": "00:30:30",
-      "description": "Unheap ist eine schön aufbereitete Sammlung von guten jQuery Plugins."
-    }
-  ],
   "randomSpec": [
     {
-      "name": "<col> und <colgroup>",
+      "title": "<col> und <colgroup>",
       "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/col",
       "time": "00:15:18",
       "description": "Mit <code>&lt;col&gt;</code> und <code>&lt;colgroup&gt;</code> erzeugt man in Tabellen Kontexte für einzelne Spalten, denen man Eigenschaften (wie zum Beispiel <code>lang</code>) zuweisen kann ohne sich in jeder Zeile wiederholen zu müssen. Die meisten Attribute, die man früher zum Stylen verwendet hat, sind mittlerweile obsolete."
     },
     {
-      "name": "Erlaubte Zeichen in JavaScript Kommentaren",
+      "title": "Erlaubte Zeichen in JavaScript Kommentaren",
       "href": "http://www.whatwg.org/specs/web-apps/current-work/#inline-documentation-for-external-scripts",
       "time": "00:15:18",
       "description": "Welche Zeichen darf man eigentlich in JavaScript Kommentaren verwenden? Und welche Mime-Types sind für JavaScripts erlaubt?"
+    }
+  ],
+  "links": [
+    {
+      "title": "traceGL",
+      "href": "https://trace.gl/",
+      "time": "00:30:30",
+      "description": "traceGL visualisiert den Code-Fluss einer App."
+    },
+    {
+      "title": "Listen, Watch And Share!",
+      "href": "http://www.smashingmagazine.com/2013/04/19/podcasts-for-designers-developers/",
+      "time": "00:30:30",
+      "description": "Eine Liste an angesagten englischen web-spezifischen Podcasts."
+    },
+    {
+      "title": "PathFinding.js",
+      "href": "https://github.com/qiao/PathFinding.js",
+      "time": "00:30:30",
+      "description": "Mit PathFinding.js kann man anhand komplexer Algorithmen festlegen, wie sich Elemente auf einer Fläche bewegen dürfen. Vor allem für Spiele-Entwickler interessant."
+    },
+    {
+      "title": "PhantomCSS",
+      "href": "http://tldr.huddle.com/blog/css-testing/",
+      "time": "00:30:30",
+      "description": "Mit PhantomCSS lassen sich CSS-Tests automatisiert durchführen."
+    },
+    {
+      "title": "jQuery Annotated Source",
+      "href": "http://robflaherty.github.io/jquery-annotated-source/",
+      "time": "00:30:30",
+      "description": "Für alle, die etwas vom jQuery Core Code lernen möchten."
+    },
+    {
+      "title": "Snap.js",
+      "href": "https://github.com/jakiestfu/Snap.js",
+      "time": "00:30:30",
+      "description": "Snap.js bietet die Möglichkeit Menüs zu bauen, wie man sie von Facebooks oder Spotifys Mobile-App kennt."
+    },
+    {
+      "title": "Unheap",
+      "href": "http://www.unheap.com/",
+      "time": "00:30:30",
+      "description": "Unheap ist eine schön aufbereitete Sammlung von guten jQuery Plugins."
     }
   ]
 }

@@ -27,32 +27,32 @@
   "description": "Nachdem wir letzte Woche mit zwei Stunden Sendungsdauer unseren Schnitt etwas gehoben haben, gleichen wir das in dieser Woche mit einer guten halben Stunde sofort wieder aus.",
   "topics": [
     {
-      "name": "VisualSearch.js",
+      "title": "VisualSearch.js",
       "href": "http://documentcloud.github.com/visualsearch/",
       "time": "0:02:04:000"
     },
     {
-      "name": "CDNjs.com",
+      "title": "CDNjs.com",
       "href": "http://www.cdnjs.com/#/search/",
       "time": "0:07:51:000"
     },
     {
-      "name": "Twitter promoted Tweets",
+      "title": "Twitter promoted Tweets",
       "href": "http://mashable.com/2011/06/23/twitter-promoted-tweets-timeline-2/",
       "time": "0:14:00:000"
     }
   ],
   "links": [
     {
-      "name": "CSS Animation Keyframe Events",
+      "title": "CSS Animation Keyframe Events",
       "href": "http://functionsource.com/post/css-animation-keyframe-events"
     },
     {
-      "name": "Spritecow",
+      "title": "Spritecow",
       "href": "http://www.spritecow.com/"
     },
     {
-      "name": "Webfont Load Enhancer",
+      "title": "Webfont Load Enhancer",
       "href": "https://github.com/MichaelvanLaar/Webfont-Load-Enhancer"
     }
   ]

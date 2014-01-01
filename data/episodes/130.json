@@ -45,7 +45,7 @@
   "description": "Fast alle Moderatoren waren ausgeflogen, was also tun? Natürlich eine AngularJS-Sonderrevision! Die hatten wir schon länger geplant, jetzt nutzten wir die Gunst der Stunde. Da Stefan und Schepp beide keine Alltagserfahrung mit AngularJS vorweisen konnten, luden sie sich ein deutsches Experten-Trio bestehend aus <a href=\"http://angularjs.de/entwickler/robinboehm\">Robin Böhm</a>, <a href=\"http://angularjs.de/entwickler/saschabrink\">Sascha Brink</a> und <a href=\"http://angularjs.de/entwickler/justphil\">Philipp Tarasiewicz</a> ein, die im Folgenden eine gute Stunde lang über die Funktionsweise und Vorteile von AngularJS erzählten.",
   "topics": [
     {
-      "name": "AngularJS",
+      "title": "AngularJS",
       "href": "http://angularjs.org/",
       "time": "00:00:00",
       "description": "Sascha, Robin und Philipp erklären uns, wie AngularJS funktioniert. Dabei erwähnen wir die Seite <a href=\"http://builtwith.angularjs.org/\">Built with AngularJS</a> und dass man <a href=\"http://deployd.com/\">deployd</a> als Datensilo mit einem AngularJS-Frontend <a href=\"http://docs.deployd.com/docs/collections/examples/a-simple-todo-app-with-angular.md\">verknüpfen kann</a>. Und nicht zuletzt natürlich die deutschsprachige Anlaufstelle für alle AngularJS-Entwickler: <a href=\"http://angularjs.de/\">angularjs.de</a>"
@@ -53,61 +53,61 @@
   ],
   "links": [
     {
-      "name": "IE11 Developer Preview for Windows 7",
+      "title": "IE11 Developer Preview for Windows 7",
       "href": "http://blogs.msdn.com/b/ie/archive/2013/07/25/ie11-developer-preview-for-windows-7-enabling-next-generation-sites-and-apps-faster.aspx",
       "time": "00:53:18",
       "description": "Wer den IE11 austesten will und Windows 7 schon einsetzt, der muss dazu kein Image von Windows 8.1 mehr herunterladen. Alternativ dazu gibt es für Mac und Linux Banutzer auch <a href=\"http://www.modern.ie/de-de/virtualization-tools#downloads\">ein Windows 7 Image mit integriertem IE11</a>."
     },
     {
-      "name": "Bootstrap 3 RC1",
+      "title": "Bootstrap 3 RC1",
       "href": "http://twbs.github.io/bootstrap/",
       "time": "00:53:18",
       "description": "Das neue Bootstrap ist jetzt mobile first und flat!"
     },
     {
-      "name": "Android and the eternal dying mobile browser",
+      "title": "Android and the eternal dying mobile browser",
       "href": "http://www.mobilexweb.com/blog/android-browser-eternal-dying",
       "time": "00:53:18",
       "description": "Auch mit Android 4.3 will der unterentwickelte Android-Browser einfach nicht aussterben. Weiterentwickelt hat er sich auch nicht."
     },
     {
-      "name": "On Mobile, Data URIs are 6x Slower than Source Linking",
+      "title": "On Mobile, Data URIs are 6x Slower than Source Linking",
       "href": "http://www.mobify.com/blog/data-uris-are-slow-on-mobile/",
       "time": "00:53:18",
       "description": "Mobify hat via Real User Monitoring, genannt RUM, herausgefunden, dass Bilder, die man per Data URI einbettet durch das doppelt nötige Dekodieren deutlich länger laden. Es gilt also, ihren Einsatz hier und da etwas zu begrenzen."
     },
     {
-      "name": "Generators in v8",
+      "title": "Generators in v8",
       "href": "http://wingolog.org/archives/2013/05/08/generators-in-v8",
       "time": "00:53:18",
       "description": "Ein kleiner Artikel, der die Vorzüge sogenannter Generatoren aus dem kommenden JavaScript-Version ES6 erklärt."
     },
     {
-      "name": "NerdyData",
+      "title": "NerdyData",
       "href": "http://nerdydata.com/",
       "time": "00:53:18",
       "description": "Eine Suchmaschine für Quellcode."
     },
     {
-      "name": "Top 10 Proactive Web Application Security Measures",
+      "title": "Top 10 Proactive Web Application Security Measures",
       "href": "https://blog.whitehatsec.com/top-10-proactive-web-application-security-measures/#.Uf4goZI71zI",
       "time": "00:53:18",
       "description": "10 Sicherheitsmaßnahmen, die man seiner Webseite angedeihen lassen sollte."
     },
     {
-      "name": "Thinkster – A better way to learn AngularJS",
+      "title": "Thinkster – A better way to learn AngularJS",
       "href": "http://www.thinkster.io/",
       "time": "00:53:18",
       "description": "Online-Workshop, um den Umgang mit AngularJS zu lernen."
     },
     {
-      "name": "jspm.io",
+      "title": "jspm.io",
       "href": "http://jspm.io/",
       "time": "00:53:18",
       "description": "jspm.io ist ein universeller JavaScript-Modul-Loader, dem es egal ist, ob ein Modul im ES6-, AMD- oder CommonJS-Format vorliegt. Außer aus dem lokalen Projekt kann jspm.io Module auch direkt von Github aus einbinden."
     },
     {
-      "name": "AngularJS.de – Das deutsche Portal zu AngularJS",
+      "title": "AngularJS.de – Das deutsche Portal zu AngularJS",
       "href": "http://angularjs.de/",
       "time": "00:53:18",
       "description": "Philipps, Saschas und Robins gemeinsames Projekt."

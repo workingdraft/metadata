@@ -30,13 +30,13 @@
   "description": "Christian und Rodney luden <a href=\"http://www.marcozehe.de/\">Marco Zehe</a> (<a href=\"https://twitter.com/MarcoZehe\">@MarcoZehe</a>) ein und verquatschten sich zum Thema Barrierefreiheit &#8211; mit wem könnte das besser gehen als mit einem Blinden, der obendrein für die Qualitätssicherung im Bereich Barrierefreiheit bei einem Browserhersteller arbeitet?",
   "topics": [
     {
-      "name": "The Vanilla Web Diet",
+      "title": "The Vanilla Web Diet",
       "href": "http://christianheilmann.com/2012/10/30/book-idea-the-vanilla-web-diet/",
       "time": "00:00:58",
       "description": "Christian Heilmann (<a href=\"https://twitter.com/codepo8\">@codepo8</a>) überlegt ein Buch zu schreiben. Über das Web, ohne schwere Bibliotheken, Polyfills und anderen Kram den man nicht braucht. Was sich zunächst als möglicherweise sinnvoll darstellt (<a href=\"http://www.raymondcamden.com/index.cfm/2012/10/23/Stop-using-jQuery-all-the-time\">Stop using jQuery all the time</a>), wird bei näherem Betrachten jedoch nicht mehr ganz so angenehm (Native APIs &#8211; dann doch lieber gleich Assembler…) und bringt vermutlich sogar große Rückschritte mit sich &#8211; denn dann müsste sich ja auf einmal jeder mit Barrierefreiheit auseinandersetzen. Letzteres nehmen uns Tools wie <a href=\"http://jqueryui.com/\">jQuery UI</a> glücklicherweise (noch) ab."
     },
     {
-      "name": "Accessibility – what is it good for?",
+      "title": "Accessibility – what is it good for?",
       "href": "http://www.marcozehe.de/2012/10/22/accessibility-what-is-it-good-for/",
       "time": "00:24:32",
       "description": "Gar nicht wenig ausufernd erklärt uns Marco die Hintergründe für seinen letzten Artikel &#8211; wie Accessibility doch auch nach Jahren der Predigten immer noch kein massenkompatibles Thema ist. Das ganze passt auch gut zum kürzlich stattgefundenen <a href=\"http://www.marcozehe.de/2012/10/30/my-recap-of-the-accessibility-day-2012-in-vienna-austria/\">A-Tag in Wien</a> (00:44:40) &#8211; an dem Marco einen Vortrag hielt. Über Zugänglichkeit in Firefox Mobile auf Android und Firefox OS sprechen wir übrigens auch. (Nein, auf Steve&#8217;s heiligem Sprachrohr wird&#8217;s auch künftig keinen roten Fuchs geben…)"
@@ -44,55 +44,55 @@
   ],
   "links": [
     {
-      "name": "Web Development for Windows Phone",
+      "title": "Web Development for Windows Phone",
       "href": "http://msdn.microsoft.com/en-us/library/windowsphone/develop/ff462082%28v=vs.105%29.aspx",
       "time": "01:23:25",
       "description": "…zeigt die Unterschiede von Internet Explorer 10 auf dem Desktop und auf Windows Phone 8"
     },
     {
-      "name": "Device screen resultions ordered by OS",
+      "title": "Device screen resultions ordered by OS",
       "href": "http://generatedcontent.org/post/34217358607/deviceresolution",
       "time": "01:23:25",
       "description": "…listet die verfügbaren Auflösungen je Betriebssystem"
     },
     {
-      "name": "Learn CSS Layout",
+      "title": "Learn CSS Layout",
       "href": "http://learnlayout.com/",
       "time": "01:23:25",
       "description": "…ist eine prima Ressource zum Einstieg in Layouting mit CSS"
     },
     {
-      "name": "A new Mobile UX Design Material",
+      "title": "A new Mobile UX Design Material",
       "href": "http://uxdesign.smashingmagazine.com/2012/10/30/motion-animation-new-mobile-ux-design-material/",
       "time": "01:23:25",
       "description": "…zeigt uns was Motion Design in der Mobile Welt bedeutet"
     },
     {
-      "name": "Sly",
+      "title": "Sly",
       "href": "http://darsa.in/sly/",
       "time": "01:23:25",
       "description": "…ist ein schickes jQuery-Plugin für alle möglichen Scroller- / Slider- Anwendungen"
     },
     {
-      "name": "localStorageDB",
+      "title": "localStorageDB",
       "href": "http://kailashnadh.name/code/localstoragedb/",
       "time": "01:23:25",
       "description": "…schenkt dem &#8220;einfachen&#8221; key/value store einen Hauch Datenbank-Feeling"
     },
     {
-      "name": "Lawnchair",
+      "title": "Lawnchair",
       "href": "http://brian.io/lawnchair/",
       "time": "01:23:25",
       "description": "…spielt JSON-Datenbank (mit Suche und so)"
     },
     {
-      "name": "The Rule Of Three",
+      "title": "The Rule Of Three",
       "href": "http://lostechies.com/derickbailey/2012/10/31/abstraction-the-rule-of-three/",
       "time": "01:23:25",
       "description": "…erklärt uns, dass wir nicht zu früh abstrahieren sollen."
     },
     {
-      "name": "Writing Fast, Memory-Efficient Javascript",
+      "title": "Writing Fast, Memory-Efficient Javascript",
       "href": "http://coding.smashingmagazine.com/2012/11/05/writing-fast-memory-efficient-javascript/",
       "time": "01:23:25",
       "description": "…erklärt uns anhand ein paar Javascript-Engine-Internals wie man JS schreibt, das den Garbage Collector nicht unnötig strapaziert &#8211; und wie wir solche Verbrecher finden können."

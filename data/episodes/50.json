@@ -21,43 +21,43 @@
   "description": "Zur runden Revision hat sich Schepp <a href=\"http://www.marcelkoch.net/\">Marcel Koch</a> aka <a href=\"http://www.twitter.com/makochnet\">@makochnet</a> aus dem Taunus eingeladen.",
   "topics": [
     {
-      "name": "HTML5 for Applications: The Fourth IE10 Platform Preview",
+      "title": "HTML5 for Applications: The Fourth IE10 Platform Preview",
       "href": "http://blogs.msdn.com/b/ie/archive/2011/11/29/html5-for-applications-the-fourth-ie10-platform-preview.aspx",
       "time": "00:01:47",
       "description": "Die Public Preview 4 des IE10 bringt uns ein paar wenige schöne Neuerungen, so etwa <a href=\"http://www.nczonline.net/blog/2010/05/25/cross-domain-ajax-with-cross-origin-resource-sharing/\">Cross-Origin Resource Sharing (CORS)</a>, <a href=\"http://blogs.msdn.com/b/ie/archive/2011/12/01/working-with-binary-data-using-typed-arrays.aspx\">Binärdaten-Unterstützung der File API</a>, JavaScript <a href=\"http://hacks.mozilla.org/2011/12/faster-canvas-pixel-manipulation-with-typed-arrays/\">Typed Arrays</a> und Video Untertitelungen."
     },
     {
-      "name": "“Mobile first” CSS and getting Sass to help with legacy IE",
+      "title": "“Mobile first” CSS and getting Sass to help with legacy IE",
       "href": "http://nicolasgallagher.com/mobile-first-css-sass-and-ie/",
       "time": "00:08:22",
       "description": "Nicolas Gallagher beschreibt, wie man mit Hilfe von SASS das &#8220;Mobile First&#8221; Paradigma umsetzen kann, ohne die Tür für die alten IEs zuzuschlagen. Schöne Idee!"
     },
     {
-      "name": "Opera Dragonfly Style Profiler Preview",
+      "title": "Opera Dragonfly Style Profiler Preview",
       "href": "http://my.opera.com/dragonfly/blog/style-profiler-preview",
       "time": "00:16:14",
       "description": "Operas Entwicklertools gibt es in einer sehr frühen Preview, die erstmalig mit einem Profiler für CSS-Selektoren aufwarten kann. Geil."
     },
     {
-      "name": "TitBit: Opera’s Neat ‘Spacebar’ Trick",
+      "title": "TitBit: Opera’s Neat ‘Spacebar’ Trick",
       "href": "http://www.abalook.com/journal/2011/4/17/titbit-operarsquos-neat-lsquospacebarrsquo-trick.html",
       "time": "00:23:17",
       "description": "Marcel hat bemerkt, dass Opera beim Erreichen des Endes einer Seite einen Hinweis einblendet, man könne durch Drücken der Leertaste zur folgenden Seite weiterblättern. Völlig unklar ist allerdings, woher Opera weiß, welche eben jene nächste Seite sein soll. <code>&lt;link rel=\"next\" /&gt;</code> ist es jedenfalls nicht, und doch klappt es meist. Myteriös&#8230; Wisst Ihr&#8217;s?"
     },
     {
-      "name": "Creating Custom Font Stacks with Unicode-Range",
+      "title": "Creating Custom Font Stacks with Unicode-Range",
       "href": "http://24ways.org/2011/unicode-range",
       "time": "00:29:50",
       "description": "Im 24ways Adventskalender erschien gleich am ersten Tag ein Artikel, der beschreibt, wie man mit der eher unbekannten CSS-Font-Eigenschaft <code>unicode-range</code> seine Texte buchstabenweise durchgestalten kann. Clevere Idee! Wofür <code>unicode-range</code> gut ist und welcher Browser es wie gut unterstützt, das lernt Ihr in Jake Archibalds Fronteers-Vortrag, wenn er denn mal <a href=\"http://vimeo.com/channels/fronteers11\">erscheint</a>."
     },
     {
-      "name": "P3P",
+      "title": "P3P",
       "href": "http://en.wikipedia.org/wiki/P3P",
       "time": "00:37:29",
       "description": "Obwohl nix Neues, so hat Marcel in letzter Zeit schwer mit sogenannten P3P-Headers zu kämpfen gehabt. Er erzählt uns, warum sie so kacke sind. Zur Überwindung hilft es, <a href=\"http://www.php.net/manual/de/function.setcookie.php#102352\">diesen Wert</a> in den HTTP-Headern mitzusenden."
     },
     {
-      "name": "Firefox faces uncertain future as Google deal apparently ends",
+      "title": "Firefox faces uncertain future as Google deal apparently ends",
       "href": "http://www.zdnet.com/blog/bott/firefox-faces-uncertain-future-as-google-deal-apparently-ends/4241",
       "time": "00:49:10",
       "description": "Rund 85% von Mozillas Finanzierung kam in den vergangenen Jahren von Google, die im Gegenzug als Standardsuche in Firefox eingebaut wurden. Der entsprechende Vertrag endete jedoch im letzten Monat und es gibt keinerlei Anzeichen dafür, dass der Vertrag erneuert wurde. Und das wäre sehr schlecht für Mozilla."
@@ -65,19 +65,19 @@
   ],
   "links": [
     {
-      "name": "Diverse Atzventzkalender",
+      "title": "Diverse Atzventzkalender",
       "href": "http://24ways.org/2011/",
       "time": "00:57:48",
       "description": "Wie die letzten Jahre, gibt es auch dieses Jahr wieder reichlich Adventskalender allerorten. Folgende haben wir für Euch ausgegraben:<p></p>\n<ul>\n<li><a href=\"http://phpadvent.org/2011\">PHP advent 2011</a></li>\n<li><a href=\"http://calendar.perfplanet.com/2011/\">Performance Calendar</a></li>\n<li><a href=\"http://maddesigns.de/\">CSS3 Adventskalender 2011</a></li>\n<li><a href=\"http://24ways.org/2011/\">24 Ways to Impress your Friends 2011</a></li>\n<li><a href=\"http://www.webkrauts.de/\">Webkrauts Adventskalender</a></li>\n<li><a href=\"http://www.der-prinz.de/blog\">WordPress Adventskalender</a></li>\n<li><a href=\"http://wpengineer.com/\">WPEngineer.com Advent Calendar</a></li>\n</ul>"
     },
     {
-      "name": "Zoomify HTML5",
+      "title": "Zoomify HTML5",
       "href": "http://www.zoomify.com/html5.htm",
       "time": "00:57:48",
       "description": "Unendliches Bilderzoomen geht nun endlich ohne Flash, in reinem HTML(5)!"
     },
     {
-      "name": "Sight",
+      "title": "Sight",
       "href": "https://chrome.google.com/webstore/detail/epmaefhielclhlnmjofcdapbeepkmggh",
       "time": "00:57:48",
       "description": "Google Chrome Erweiterung, die alle Programmiersprachen syntaxhighlightet, die nicht bei drei auf dem Baum sind."

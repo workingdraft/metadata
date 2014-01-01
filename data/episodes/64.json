@@ -39,31 +39,31 @@
   "description": "Zur Revision 64 haben wir uns <a href=\"https://twitter.com/#!/marcthiele\">Marc Thiele</a> eingeladen, der zusammen mit dem Schepp, Kahlil und Hans über seine Konferenzen und <a href=\"http://www.spoiler-web.de/\">seine Musik</a> spricht. Zunächst haben wir uns aber dem Tagesgeschäft gewidmet. Hier sind die Themen:",
   "topics": [
     {
-      "name": "Introduction to JavaScript Source Maps",
+      "title": "Introduction to JavaScript Source Maps",
       "href": "http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/",
       "time": "00:02:42",
       "description": "Source Maps helfen beim Debuggen von minimierten und konkatenierten JavaScripts. Sie zeigen uns Entwicklern den weg zu unserem ursprünglichen Fehler im entpackten Code. Seit einigen Tagen sind die Source Maps nun im Chrome Canary verfügbar. Support von Meta-Sprachen, wie CoffeeScript oder auch SASS ist in Planung und wird das Debuggen in Zukunft noch leichter machen."
     },
     {
-      "name": "Using event capturing to improve Basecamp page load times",
+      "title": "Using event capturing to improve Basecamp page load times",
       "href": "http://37signals.com/svn/posts/3137-using-event-capturing-to-improve-basecamp-page-load-times",
       "time": "00:10:50",
       "description": "Normalerweise hört man in JavaScript auf Events, in dem man das Bubbeling von Events nutzt. Die smarten Jungs von Basecamp haben festgestellt, dass man viel schneller auf Nutzereingaben reagieren kann, wenn man das Capturing nutzt, welches direkt vor dem Bubbeling passiert. Der Vorteil dabei ist, dass man während des Bubbelings schon auf das im Capturing festgelegte Verhalten reagieren kann.<br>\nDie angesprochene Bibliothek von Steve Souders heisst <a href=\"https://github.com/cosmin/ControlJS\">ControlJS</a>."
     },
     {
-      "name": "About HTML semantics and front-end architecture",
+      "title": "About HTML semantics and front-end architecture",
       "href": "http://nicolasgallagher.com/about-html-semantics-front-end-architecture/",
       "time": "00:18:14",
       "description": "Nicolas Gallagher beschreibt wie er Klassen im CSS vergibt und auf was er achtet, um die Übersichtlichkeit zu wahren. Dabei beschreibt er, dass Klassen nicht unbedingt semantisch sein müssen. Seine Ausführungen spiegeln die Gedanken aus <a href=\"http://oocss.org/\">OOCSS</a> und <a href=\"http://smacss.com/\">SMACSS</a> wieder. In diesem Zusammenhang"
     },
     {
-      "name": "[css4-images] The image-set() function (for responsive images)",
+      "title": "[css4-images] The image-set() function (for responsive images)",
       "href": "http://lists.w3.org/Archives/Public/www-style/2012Feb/1103.html",
       "time": "00:32:43",
       "description": "Monatelang <a href=\"http://www.w3.org/community/respimg/\">diskutieren</a> schlaue Leute darüber, wie man mit Bildern auf verschiedenen Geräten und Bildschirmgrößen umgehen soll. Sogar ein neues HTML-Element hat man sich überlegt. Apple macht nun einigen eigenen Vorschlag, wie man dieses Problem lösen kann und <a href=\"http://www.webkit.org/blog/1869/last-week-in-webkit-the-move-of-wtf-and-responsive-css-images/\">implementiert</a> es gleich mal in Webkit. Aber reicht das wirklich oder brauchen wir doch noch mehr Hilfsmittel, mit denen wir die Geschwindigkeit der Internetverbindung prüfen können?"
     },
     {
-      "name": "beyond tellerrand – play",
+      "title": "beyond tellerrand – play",
       "href": "http://play12.beyondtellerrand.com/",
       "time": "00:43:21",
       "description": "Mit <a href=\"https://twitter.com/#!/marcthiele\">Marc</a> sprechen wir über die beyond tellerrand – play und die angekündigte <a href=\"http://smashingconf.com/\">Smashing Conf</a>. Dabei erklärt er uns, wie es eigentlich dazu kam, dass er diese Konferenzen organisiert und wieso die beyond tellerrand so günstig ist. Für die beyond tellerrand – play sucht Marc noch ein paar Helfer. Schreibt ihm am besten einfach <a href=\"mailto:marc@beyondtellerrand.com\">eine E-Mail</a> oder haut ihn <a href=\"https://twitter.com/#!/marcthiele\">auf Twitter</a> an."
@@ -71,49 +71,49 @@
   ],
   "links": [
     {
-      "name": "Hammer.js – A javascript library for multi-touch gestures",
+      "title": "Hammer.js – A javascript library for multi-touch gestures",
       "href": "http://eightmedia.github.com/hammer.js/",
       "time": "01:05:27",
       "description": "Multi-Touch-Gesten-Erkennung leicht gemacht mit Hammer.js."
     },
     {
-      "name": "CSS Gradient Editor",
+      "title": "CSS Gradient Editor",
       "href": "http://glan.github.com/CSS-Patterns-Workbench/",
       "time": "01:05:27",
       "description": "Gradients wie in der <a href=\"http://lea.verou.me/css3patterns/\">Patterns Gallery</a> selbst bauen."
     },
     {
-      "name": "Love Hotels and Unicode",
+      "title": "Love Hotels and Unicode",
       "href": "http://www.reigndesign.com/blog/love-hotels-and-unicode/",
       "time": "01:05:27",
       "description": "Über die Weiterentwicklung des UTF-Zeichensatzes."
     },
     {
-      "name": "jSVG – An attempt to bring simple SVG Asset Management into modern browsers",
+      "title": "jSVG – An attempt to bring simple SVG Asset Management into modern browsers",
       "href": "http://jsvg.swissamigos.com/",
       "time": "01:05:27",
       "description": "Ein Packer für SVG – weniger HTTP-Requests ist das Ziel"
     },
     {
-      "name": "AliceJS – A Lightweight Independent CSS Engine",
+      "title": "AliceJS – A Lightweight Independent CSS Engine",
       "href": "http://blackberry.github.com/Alice/",
       "time": "01:05:27",
       "description": "Von Blackberry entwickelte JS-Library, die das Nutzen von Hardwarebeschleunigung vor allem für CSS3 erleichtern soll."
     },
     {
-      "name": "backlift",
+      "title": "backlift",
       "href": "http://www.backlift.com/index.html",
       "time": "01:05:27",
       "description": "Mit Backlift Backbone.js Anwendungen entwickeln, verwalten und hosten. Deployment mit nur drei Zeilen auf der Konsole."
     },
     {
-      "name": "swagger",
+      "title": "swagger",
       "href": "http://swagger.wordnik.com/",
       "time": "01:05:27",
       "description": "Swagger ist ein Dokumentationsframework für RESTful APIs."
     },
     {
-      "name": "BrowserQuest – a massively multiplayer HTML5 (WebSocket + Canvas) game experiment",
+      "title": "BrowserQuest – a massively multiplayer HTML5 (WebSocket + Canvas) game experiment",
       "href": "http://hacks.mozilla.org/2012/03/browserquest/",
       "time": "01:05:27",
       "description": "Ein realtime Browsergame auf HTML5-Basis."

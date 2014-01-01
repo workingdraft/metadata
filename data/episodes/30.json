@@ -29,31 +29,31 @@
   "description": "Diesmal sind wir wieder etwas später dran mit unserer Revision, denn wir mussten zwei mal aufnehmen. Der Grund: Wir hatten die verrückte Idee, anstatt per Skype mal per Google+ Hangout aufzunehmen; blöd war nur, dass der Hangout nach rund einer Stunde abstürzte, und die Aufnahme gleich dazu. Um nicht den gleichen Sermon erneut rezitieren zu müssen, haben wir uns für die zweite Aufnahme den <a href=\"http://grochtdreis.de/\">Jens Grochtdreis</a> dazu geholt.",
   "topics": [
     {
-      "name": "IE10 Public Preview 2 ist da!",
+      "title": "IE10 Public Preview 2 ist da!",
       "href": "http://blogs.msdn.com/b/scriptjunkie/archive/2011/06/29/ie10-platform-preview-is-out-with-more-html5-and-css3-goodness.aspx",
       "time": "00:00:00",
       "description": "Wir reden über Drag &#038; Drop, die File-API, HTML5 Forms, Web Workers, <a href=\"http://msdn.microsoft.com/en-us/ie/hh272905#_HTML5Sandbox\">Sandboxed Iframes</a>, <a href=\"http://www.peterkroener.de/ecmascript-5-die-nachste-version-von-javascript-teil-2-der-strict-mode/\">ES5 Strict Mode</a>, <a href=\"http://paulirish.com/2011/requestanimationframe-for-smart-animating/\">requestAnimationFrame</a>, <a href=\"http://msdn.microsoft.com/en-us/ie/hh272903#_DOMMediaQuery\">Media Query Listeners</a>, <a href=\"http://msdn.microsoft.com/en-us/ie/hh272905#_HTML5Async\">async-Attribut</a> <a href=\"http://www.drweb.de/magazin/css-spaltenlayouts-das-flexible-box-layout-modul/\">CSS3 Flexbox</a>, CSS3 Positioned Floats, <a href=\"http://www.golem.de/0709/54710.html\">CSS3 Grids</a> und <a href=\"http://www.drweb.de/magazin/css-3-spaltenlayouts-textumbruch-multi-column-layout-modul/\">CSS3 Multicolumn Layout</a>. Außerdem wagen wir uns an einer Einschätzung, ob der IE10 das Zünglein an der Waage ist, das unsere Art Webseiten zu layouten auf den Kopf stellt."
     },
     {
-      "name": "Google+",
+      "title": "Google+",
       "href": "http://plus.google.com/",
       "time": "00:38:30",
       "description": "Wir tun unsere Begeisterung über Googles neues soziales Netzwerk kund. Außerdem vergleichen wir es mit Twitter und Facebook, sagen was gut funktioniert und was noch verbesserungsfähig wäre."
     },
     {
-      "name": "CSS1K",
+      "title": "CSS1K",
       "href": "http://css1k.com/",
       "time": "01:01:18",
       "description": "Letzte Woche ist ein neuer Wettbewerb online gegangen, bei dem die Aufgabenstellung ist, ein vorgegebenes HTML möglichst kreativ mit nur 1024 Bytes (also Zeichen) CSS zu gestalten. Verboten sind alle externen Ressourcen, also Fonts und Bilder, wie auch DataURIs. Bisher sind nicht viele große Design-Würfe dabei, aber das Projekt ist ja noch jung&#8230;"
     },
     {
-      "name": "HTML5Pattern",
+      "title": "HTML5Pattern",
       "href": "http://html5pattern.com/",
       "time": "01:09:15",
       "description": "Diese Seite sammelt alle möglichen Regulären Ausdrücke, die man jemals im pattern-Attribut eines HTML5 Eingabefelds zur Feldprüfung gebrauchen könnte: Kreditkartennummern, Passwortvorgaben, Postleitzahlen, etc. Praktisch!"
     },
     {
-      "name": "Die Auferstehung des untoten Dr.Web",
+      "title": "Die Auferstehung des untoten Dr.Web",
       "href": "http://www.drweb.de/magazin/drweb-startet-wieder-durch-im-interview-mit-sven-lennartz-dem-gruender-von-drweb-de/",
       "time": "01:12:28",
       "description": "Das im letzten Jahr eingestellte Dr.Web-Magazin wurde offenbar an eine Online-Marketing-Firma verkauft, die die Seite nun wiederbeleben will. Betrachtet man diverse Rahmenparameter, so sind wir bzgl. eines möglichen Erfolgs sehr skeptisch."
@@ -61,37 +61,37 @@
   ],
   "links": [
     {
-      "name": "gmap3",
+      "title": "gmap3",
       "href": "https://github.com/jbdemonte/gmap3/tree/master/demo",
       "time": "01:20:44",
       "description": "jQuery-Wrapper für das Google Maps v3 API"
     },
     {
-      "name": "morf.js",
+      "title": "morf.js",
       "href": "http://blog.joelambert.co.uk/2011/06/30/morf-js-custom-easing-functions-for-css3-transition/",
       "time": "01:20:44",
       "description": "Mehr easing Funktionen für CSS3 Transitions!"
     },
     {
-      "name": "Node Up",
+      "title": "Node Up",
       "href": "http://nodeup.com/",
       "time": "01:20:44",
       "description": "Der erste Podcast zu Node.js"
     },
     {
-      "name": "IEWebGL",
+      "title": "IEWebGL",
       "href": "http://iewebgl.com/index.html",
       "time": "01:20:44",
       "description": "Ein Java-basiertes WebGL-Polyfill für die IEs"
     },
     {
-      "name": "Know Your Engines [PDF]",
+      "title": "Know Your Engines [PDF]",
       "href": "http://people.mozilla.com/~dmandelin/KnowYourEngines_Velocity2011.pdf",
       "time": "01:20:44",
       "description": "Vortrag von David Mandelin, dem neuen Chefarchitekten der Mozilla-JavaScript-Engine, von der Velocity 2011 über interessante Eigenheiten der verschiedenen JavaScript-Engines."
     },
     {
-      "name": "dotjs",
+      "title": "dotjs",
       "href": "http://defunkt.io/dotjs/",
       "time": "01:20:44",
       "description": "Im Browser per Plugin verankerte JavaScripte, die jeweils per Regel bei bestimmten Seiten ausgeführt werden."

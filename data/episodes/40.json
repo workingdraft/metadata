@@ -38,49 +38,49 @@
   "description": "Diese Revision war der gruseligste Aufnahmetrip seit Podcast-Gedenken: Erst streikten bei unserem ersten Gast <a href=\"http://rodneyrehm.de/en/\">Rodney Rehm</a> aka <a href=\"http://twitter.com/#!/rodneyrehm/\">@rodneyrehm</a> reihum alle Aufnahmegeräte, dann zerhackte uns das verf$%%/§%?!te Skype nach 45 Minuten Aufnahme auf einmal so den Ton, dass wir vom anderen rein gar nichts mehr verstanden und die Aufnahme abbrechen mussten. Die brachten wir am Folgetag mit weniger massiven Problemen zu Ende. Dass von den daraus resultierenden Störgeräuschen und Pausen nix mehr zu hören ist, haben wir der geduldigen Puzzlearbeit unseres zweiten Gastes, <a href=\"http://frederic-hemberger.de/\">Frederic Hemberger</a> aka <a href=\"http://twitter.com/#!/fhemberger\">@fhemberger</a> zu verdanken. Großes Danke dafür!",
   "topics": [
     {
-      "name": "Flexbox is Dead, Long Live Flexbox!",
+      "title": "Flexbox is Dead, Long Live Flexbox!",
       "href": "http://www.xanthir.com/blog/b4Dm0",
       "time": "00:03:44",
       "description": "Die Spec zur CSS3 Flexbox wurde frisch über den Haufen geworfen."
     },
     {
-      "name": "W3C Conditional Rules",
+      "title": "W3C Conditional Rules",
       "href": "http://www.w3.org/TR/css3-conditional/",
       "time": "00:18:25",
       "description": "Die W3C CSS Conditional Rules sind sowas wie <a href=\"http://www.modernizr.com/\">Modernizr</a> nur in nativ. Außerdem kann man Dank <code>@document</code> pfadabhängig stylen."
     },
     {
-      "name": "WebSocket binary message support",
+      "title": "WebSocket binary message support",
       "href": "https://plus.google.com/115535723976198353696/posts/ERN6zYozENV",
       "time": "00:24:25",
       "description": "Websockets unterstützen neuerdings auch die Übertragung von Binärdaten. Damit lässt sich allerhand anstellen."
     },
     {
-      "name": "JPEG 2000 on the Web",
+      "title": "JPEG 2000 on the Web",
       "href": "http://www.syntensity.com/static/openjpeg.html",
       "time": "00:30:00",
       "description": "Und wieder hat jemand <a href=\"http://emscripten.org/\">Emscripten</a> angeschmissen und was cooles transpiliert: Einen JPEG 2000 Dekoder in JavaScript. Und auch über <a href=\"http://html5-mediasource-api.googlecode.com/svn/trunk/draft-spec/mediasource-draft-spec.html\">MediaSource Extensions</a> sprachen wir."
     },
     {
-      "name": "Help The Community: Report Browser Bugs",
+      "title": "Help The Community: Report Browser Bugs",
       "href": "http://coding.smashingmagazine.com/2011/09/07/help-the-community-report-browser-bugs/",
       "time": "00:41:27",
       "description": "Ein Plädoyer dafür, dass man Browserbugs unbedingt sauber untersuchen und sie den Herstellern melden soll."
     },
     {
-      "name": "Mobile Web: Taiwan, Opera and WebOS",
+      "title": "Mobile Web: Taiwan, Opera and WebOS",
       "href": "http://paulrouget.com/e/mobilewebapps/",
       "time": "00:48:12",
       "description": "Paul Rouget gibt einen Einblick in die Welt Asiens, was die Nutzung des Internets angeht."
     },
     {
-      "name": "Octopress – A blogging framework for hackers",
+      "title": "Octopress – A blogging framework for hackers",
       "href": "http://octopress.org/",
       "time": "00:59:33",
       "description": "Frederic hat sich Octopress in der letzten Zeit genauer angesehen und berichtet uns über seine Erfahrungen damit."
     },
     {
-      "name": "Smarty – PHP Template Engine",
+      "title": "Smarty – PHP Template Engine",
       "href": "http://www.smarty.net/",
       "time": "01:04:07",
       "description": "Erst letztens erfuhren wir, dass Rodney in das Smarty-Projekt involviert ist und heftig an der Version 3.1 mitgebaut hat. Da waren wir ganz neugierig, was es dort Neues gibt!"
@@ -88,25 +88,25 @@
   ],
   "links": [
     {
-      "name": "Ready Set Raphael",
+      "title": "Ready Set Raphael",
       "href": "http://readysetraphael.com/",
       "time": "01:33:42",
       "description": "Ein SVG nach Raphael.JS Converter"
     },
     {
-      "name": "Die Node.js Knockout Gewinner",
+      "title": "Die Node.js Knockout Gewinner",
       "href": "http://blog.nodeknockout.com/post/9895206272/node-knockout-winners",
       "time": "01:33:42",
       "description": "Die Sieger des Wettbewerbs haben mit Node ein paar sehr krasse Sachen zusammengedübelt. Unbedingt anschauen."
     },
     {
-      "name": "imgmin",
+      "title": "imgmin",
       "href": "https://github.com/rflynn/imgmin",
       "time": "01:33:42",
       "description": "Ein sehr effektiver JPEG-Kleinschrumpfer für die Kommandozeile."
     },
     {
-      "name": "Frontend Conf Zürich Videos",
+      "title": "Frontend Conf Zürich Videos",
       "href": "http://www.ustream.tv/user/Frontendconf_Zurich/videos",
       "time": "01:33:42",
       "description": "Videos der gerade zu Ende gegangenen Frontend Conf Zürich 2011. Tolles Zeug dabei! Besonders empfehlenswert: <a href=\"http://www.ustream.tv/recorded/17155906\">CSS3 Secrets: 10 things you might not know about CSS3</a> von Lea Verou."

@@ -47,77 +47,77 @@
   "audio": "http://workingdraft.de/podpress_trac/web/1963/0/wd-123.mp3",
   "title": "Cargo-Culting in JS, localStorage und Prerendering",
   "description": "Zur Revision 123 begrüßen wir <a href=\"http://www.fettblog.eu/\">Stefan Baumgartner</a> als neuen Co-Moderator im Team. Außerdem sind Peter, Schepp und Hans mit von der Partie.<br>\nDas <a href=\"https://trello.com/board/revision-123/519c7f3e2dc601e777001702\">Board zur Sendung findet ihr hier</a>.",
+  "news": [],
   "topics": [
     {
-      "name": "Smartphone Browser localStorage is up to 5x Faster than Native Cache",
+      "title": "Smartphone Browser localStorage is up to 5x Faster than Native Cache",
       "href": "http://www.mobify.com/blog/smartphone-localstorage-outperforms-browser-cache/",
       "time": "00:00:26",
       "description": "Eine relativ aktueller Test hat ergeben, dass das Speichern von Daten im <a href=\"http://www.w3.org/TR/webstorage/\">LocalStorage</a> eines Smartphones bis zu 5x schneller sein kann als der Browser-Cache. Das widerlegt einige Behauptungen aus der Vergangenheit. Wir sprechen über den zusätzlichen Zeitaufwand, den man mit der Nutzung von LocalStorage investieren muss, aber Schepp erklärt uns, dass es sich lohnt. Das Präsentations-Framework von Peter über das wir sprechen, findet ihr <a href=\"http://pik.peterkroener.de/\">hier</a>."
     },
     {
-      "name": "Cargo-Culting in JavaScript",
+      "title": "Cargo-Culting in JavaScript",
       "href": "http://net.tutsplus.com/tutorials/javascript-ajax/cargo-culting-in-javascript/",
       "time": "00:16:07",
       "description": "<a href=\"http://de.wikipedia.org/wiki/Cargo-Kult\">James Padolsey</a> ist der Meinung, dass viele Developer <a href=\"http://de.wikipedia.org/wiki/Cargo-Kult\">Cargo-Culting</a> mit manchen JavaScript Konventionen betreiben. Aber wer von uns nutzt schon den <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function\">Function-Constructor</a> oder <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval\">eval</a>? Und <a href=\"http://en.wikipedia.org/wiki/Douglas_Crockford\">Douglas Crockfords</a> Guidelines sind sicher ein guter Anhaltspunkt für JavaScript-Entwickler. Man muss sie nur verstehen, anstatt sie blind zu adaptieren."
     },
     {
-      "name": "Using HTML5 prerendering to speed up a multi-page registration process",
+      "title": "Using HTML5 prerendering to speed up a multi-page registration process",
       "href": "http://www.holovaty.com/writing/prerendering/",
       "time": "00:28:50",
       "description": "Mit <a href=\"https://developers.google.com/chrome/whitepapers/prerender\">Prerendering</a> von Inhalten und <a href=\"https://developer.mozilla.org/en-US/docs/Controlling_DNS_prefetching#Controlling_prefetching_from_content\">Link-DNS-Prefetching</a> kann man die Performance von vielen Seiten verbessern, gerade wenn man die nächsten Aktionen des Nutzers &#8220;vorhersehen&#8221; kann. Aber man muss aufpassen, dass man das Netzwerk nicht zu sehr beansprucht. Vor allem wenn der Nutzer <a href=\"http://www.youtube.com/watch?v=dASOm88Wh8g\">mobil unterwegs</a> ist."
     }
   ],
-  "news": [],
+  "randomSpec": [
+    {
+      "title": "CanvasPathMethods",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/#canvaspathmethods",
+      "time": "00:41:38",
+      "description": "Canvas wird für &#8220;normales&#8221; Web-Development eher selten verwendet. Dabei gibt es ziemlich viele Anwendungsmöglichkeiten, die sich mit <a href=\"http://flashcanvas.net/\">Fallbacks</a> auch für alte Browser umsetzen lassen. Abstraktionen und <a href=\"https://github.com/gokercebeci/canvasresize\">Helper</a> gibt es sowieso genug."
+    }
+  ],
   "links": [
     {
-      "name": "How to keep up to date on Front-End Technologies",
+      "title": "How to keep up to date on Front-End Technologies",
       "href": "http://uptodate.frontendrescue.org/",
       "time": "00:48:32",
       "description": "Listen von interessanten Developern, Podcasts, Blogs und vielem mehr um auf dem aktuellen Stand zu bleiben."
     },
     {
-      "name": "HeidiSQL 8.0",
+      "title": "HeidiSQL 8.0",
       "href": "http://www.heidisql.com/forum.php?t=12650",
       "time": "00:48:32",
       "description": "Die Windows SQL Administrationsoberfläche HeidiSQL wurde in Version 8.0 veröffentlicht. Auf Mac macht <a href=\"http://www.sequelpro.com/\">Sequel Pro</a> glücklich."
     },
     {
-      "name": "XRegExp",
+      "title": "XRegExp",
       "href": "http://xregexp.com/",
       "time": "00:48:32",
       "description": "Eine JavaScript RegEx Library."
     },
     {
-      "name": "Autoprefixer",
+      "title": "Autoprefixer",
       "href": "https://github.com/ai/autoprefixer",
       "time": "00:48:32",
       "description": "CSS Vendor-Prefixes mit JavaScript. Ähnlich wie <a href=\"http://leaverou.github.io/prefixfree/\">Prefixfree</a>, nur maintained und besser."
     },
     {
-      "name": "Tern for Sublime",
+      "title": "Tern for Sublime",
       "href": "https://github.com/marijnh/tern_for_sublime",
       "time": "00:48:32",
       "description": "Das Tern-Plugin für Sublime Text, das funktioniert."
     },
     {
-      "name": "Sass Style Guide",
+      "title": "Sass Style Guide",
       "href": "http://css-tricks.com/sass-style-guide/",
       "time": "00:48:32",
       "description": "Ein paar Tips zum sauberen Aufbau von Sass Code."
     },
     {
-      "name": "Developer MeetUp Freiburg",
+      "title": "Developer MeetUp Freiburg",
       "href": "http://devsmeetup.de/",
       "time": "00:48:32",
       "description": "Hans organisiert am 12. Juni ein Developer und Software Engineering MeetUp in Freiburg. Wer Lust hat kommt vorbei."
-    }
-  ],
-  "randomSpec": [
-    {
-      "name": "CanvasPathMethods",
-      "href": "http://www.whatwg.org/specs/web-apps/current-work/#canvaspathmethods",
-      "time": "00:41:38",
-      "description": "Canvas wird für &#8220;normales&#8221; Web-Development eher selten verwendet. Dabei gibt es ziemlich viele Anwendungsmöglichkeiten, die sich mit <a href=\"http://flashcanvas.net/\">Fallbacks</a> auch für alte Browser umsetzen lassen. Abstraktionen und <a href=\"https://github.com/gokercebeci/canvasresize\">Helper</a> gibt es sowieso genug."
     }
   ]
 }

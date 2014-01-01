@@ -30,54 +30,54 @@
   "description": "Endlich haben wir es geschafft, eine Sprechprobe <a href=\"http://twitter.com/mademyday\">Marc Hinses</a> auf digitales Vinyl zu pressen. Und die Soundqualität ist auch gar nicht mal komplett scheiße.",
   "topics": [
     {
-      "name": "Marcs Screen Presenter",
+      "title": "Marcs Screen Presenter",
       "href": "http://www.mademyday.de/screen-presenter-screendesgins-praesentieren.html",
       "description": "Screendesigns angemessen dem Kunden präsentieren."
     },
     {
-      "name": "Prism is now Chromeless",
+      "title": "Prism is now Chromeless",
       "href": "https://mozillalabs.com/blog/2011/02/prism-is-now-chromeless/",
       "description": "Das Prism-Projekt wird abgeschaltet. Stattdessen soll mit Chromeless ein anderer Ansatz gefahren werden, der zum Beispiel mit <a href=\"http://www.phonegap.com/\">Phone GAP</a> vergleichbar ist."
     },
     {
-      "name": "Clipboard API Editor’s Draft",
+      "title": "Clipboard API Editor’s Draft",
       "href": "http://dev.w3.org/2006/webapi/clipops/clipops.html",
       "description": "Schnittstelle für den Umgang mit der Zwischenablage. Zum Verstehen der Funktionsweise hilft es, sich die <a href=\"http://dev.w3.org/html5/spec-author-view/dnd.html\">Drag&#038;Drop-API</a> zu Gemüte zu führen."
     },
     {
-      "name": "Web Audio API in Chrome und Firefox 4",
+      "title": "Web Audio API in Chrome und Firefox 4",
       "href": "http://lists.w3.org/Archives/Public/public-xg-audio/2011Feb/0000.html",
       "description": "Rohdaten aus einem HTML5-Audio lesen und schreiben. Möglich wird damit alles, was man sich vorstellen kann. Es hat auch schon jemand <a href=\"https://github.com/jussi-kalliokoski/audiolib.js\">ein paar Filter</a> zusammengekloppt."
     },
     {
-      "name": "Abusing HTTP Status Codes to Expose Private Information",
+      "title": "Abusing HTTP Status Codes to Expose Private Information",
       "href": "https://grepular.com/Abusing_HTTP_Status_Codes_to_Expose_Private_Information",
       "description": "Einfach prüfen, ob für den Benutzer Inhalte verfügbar sind, die man nur mit Login erreichen sollte. <a href=\"http://didyouwatchporn.com/\">DidYouWatchPorn.com</a> schlägt in eine vergleichbare Kerbe."
     },
     {
-      "name": "The New Bulletproof @Font-Face Syntax",
+      "title": "The New Bulletproof @Font-Face Syntax",
       "href": "http://www.fontspring.com/blog/the-new-bulletproof-font-face-syntax",
       "description": "Eine neue Methode, um den Internetz Explodierer bei @font-face vor’m Explodieren zu bewahren."
     },
     {
-      "name": "firecss.com",
+      "title": "firecss.com",
       "href": "http://firecss.com/",
       "description": "Live-CSS-Firebugging across the universe."
     }
   ],
   "links": [
     {
-      "name": "Chrome 11, a renewed XSS Filter and vertical text for multiple-column layouts",
+      "title": "Chrome 11, a renewed XSS Filter and vertical text for multiple-column layouts",
       "href": "http://peter.sh/2011/02/chrome-11-a-renewed-xss-filter-and-vertical-text-for-multiple-column-layouts/",
       "description": "Unspektakuläre Neuerungen."
     },
     {
-      "name": "Farbwert in Opera und dem IE9: invert",
+      "title": "Farbwert in Opera und dem IE9: invert",
       "href": "http://jsfiddle.net/leaverou/yxjgC/",
       "description": "Wie der Name schon sagt, invertiert der Wert einfach die Farben des Hintergrunds."
     },
     {
-      "name": "popcorn.js",
+      "title": "popcorn.js",
       "href": "http://popcornjs.org/",
       "description": "Framework für HTML5-Video. Beispielhafter Anwendungsfall: Zeitgesteuerte Annotations."
     }

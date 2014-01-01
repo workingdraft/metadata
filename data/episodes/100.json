@@ -45,103 +45,103 @@
   "audio": "http://workingdraft.de/podpress_trac/web/1694/0/wd-100.mp3",
   "title": "Anniversary with Paul Irish",
   "description": "Please take a second and tell us how you feel: <a href=\"http://twtpoll.com/09or8y\">Do you want more English revisions of Workingdraft, featuring international Guests?</a>\n\nWow, can it really be the 100th episode already? Almost 2 years of weekly updates and discussions on web development &#8211; and we&#8217;re still here. And so no one less than <a href=\"https://twitter.com/paul_irish\">Paul Irish</a> joined Hans, Kahlil, Rodney and Schepp. While our podcast is a German thing, we&#8217;re thrilled how things turned out with recording an English episode over the wire. Thank you Paul!",
-  "topics": [
-    {
-      "name": "BountySource",
-      "href": "https://www.bountysource.com/",
-      "time": "00:03:40",
-      "description": "Have an issue but neither you nor the maintainers of the project can (or want to) resolve? Set a bounty for it! BountySource let&#8217;s you define an amount (say 15$) up for grabs to anyone willing to solve your issue with an open source project. All you need to participate is a GitHub account and either PayPal or Google Wallet. Finally something that might work smoothly in Europe as well. Note that BountySource aims for the small things, backing full blown projects is (currently) better handled by <a href=\"http://pledgie.com/\">pledgie</a> et al."
-    },
-    {
-      "name": "5 APIs to change the world",
-      "href": "http://blog.alexmaccaw.com/the-next-web",
-      "time": "00:10:53",
-      "description": "We mostly agree with Alex on which APIs will have the highest impact next year. <a href=\"http://dvcs.w3.org/hg/webcomponents/raw-file/tip/explainer/index.html\">Web Components</a> are going to be the thing, as they allow modularization, templating and more. They will not enhance how we work, they will (evenutally) change the way we create web apps. Flexbox (and the other layouting schemes) are missing from the list. We&#8217;re still eagerly awaiting their availability. The <a href=\"http://wiki.whatwg.org/wiki/Autocomplete_Types\">Autocomplete API</a> (spec in development) is something that will benefit users more than developers. That and Mozilla&#8217;s <a href=\"http://www.mozilla.org/en-US/persona/\">Persona</a> will hopefully put an end to all that identification and recurring data input mess that has been our internet."
-    },
-    {
-      "name": "CSS Performance Debugging",
-      "href": "http://delicious.com/paul.irish/css+testing",
-      "time": "00:28:12",
-      "description": "<a href=\"https://speakerdeck.com/jonrohan/githubs-css-performance\">Github&#8217;s CSS Performance</a> made us reflect on tools and approaches we have to find rendering bottlenecks. Addy has written an article about <a href=\"http://addyosmani.com/blog/performance-optimisation-with-timeline-profiles/\">Performance Optimization With Timeline Profiles</a>."
-    },
-    {
-      "name": "display: none; | Laura Kalbag",
-      "href": "http://laurakalbag.com/display-none/",
-      "time": "00:38:21",
-      "description": "The gist of the story: »You needn’t be the first, you’ll just help if you’re the first that somebody finds.« Do not try to impress anyone. Do not assume everybody knows what you know. Simply <strong>publish what you learn</strong>. Instead of explaining things to your friends in closed channels, write a (short) blog about it. Found something new (to you)? Blog about it. Keep the knowledge flowing!"
-    }
-  ],
   "news": [
     {
-      "name": "Chrome DevTools: A Sneak Peek At CSS Media Type Emulation",
+      "title": "Chrome DevTools: A Sneak Peek At CSS Media Type Emulation",
       "href": "https://plus.google.com/u/0/115133653231679625609/posts/MgpioU84JPe",
       "time": "00:00:45",
       "description": "Addy Osmani shows us how Chrome Dev Tool (Canary, at the moment) allows you to specify the media type (screen, projector, handheld, print, …) used for CSS."
     },
     {
-      "name": "Firebug 1.11 is out",
+      "title": "Firebug 1.11 is out",
       "href": "https://hacks.mozilla.org/2012/12/firebug-1-11-new-features/",
       "time": "00:00:45",
       "description": "A new version Firebug has been released, sporting a number of interesting features. Performance Timing Visualization, copy &#8216;n&#8217; paste HTML chunks and observing postMessage to name a few."
     }
   ],
+  "topics": [
+    {
+      "title": "BountySource",
+      "href": "https://www.bountysource.com/",
+      "time": "00:03:40",
+      "description": "Have an issue but neither you nor the maintainers of the project can (or want to) resolve? Set a bounty for it! BountySource let&#8217;s you define an amount (say 15$) up for grabs to anyone willing to solve your issue with an open source project. All you need to participate is a GitHub account and either PayPal or Google Wallet. Finally something that might work smoothly in Europe as well. Note that BountySource aims for the small things, backing full blown projects is (currently) better handled by <a href=\"http://pledgie.com/\">pledgie</a> et al."
+    },
+    {
+      "title": "5 APIs to change the world",
+      "href": "http://blog.alexmaccaw.com/the-next-web",
+      "time": "00:10:53",
+      "description": "We mostly agree with Alex on which APIs will have the highest impact next year. <a href=\"http://dvcs.w3.org/hg/webcomponents/raw-file/tip/explainer/index.html\">Web Components</a> are going to be the thing, as they allow modularization, templating and more. They will not enhance how we work, they will (evenutally) change the way we create web apps. Flexbox (and the other layouting schemes) are missing from the list. We&#8217;re still eagerly awaiting their availability. The <a href=\"http://wiki.whatwg.org/wiki/Autocomplete_Types\">Autocomplete API</a> (spec in development) is something that will benefit users more than developers. That and Mozilla&#8217;s <a href=\"http://www.mozilla.org/en-US/persona/\">Persona</a> will hopefully put an end to all that identification and recurring data input mess that has been our internet."
+    },
+    {
+      "title": "CSS Performance Debugging",
+      "href": "http://delicious.com/paul.irish/css+testing",
+      "time": "00:28:12",
+      "description": "<a href=\"https://speakerdeck.com/jonrohan/githubs-css-performance\">Github&#8217;s CSS Performance</a> made us reflect on tools and approaches we have to find rendering bottlenecks. Addy has written an article about <a href=\"http://addyosmani.com/blog/performance-optimisation-with-timeline-profiles/\">Performance Optimization With Timeline Profiles</a>."
+    },
+    {
+      "title": "display: none; | Laura Kalbag",
+      "href": "http://laurakalbag.com/display-none/",
+      "time": "00:38:21",
+      "description": "The gist of the story: »You needn’t be the first, you’ll just help if you’re the first that somebody finds.« Do not try to impress anyone. Do not assume everybody knows what you know. Simply <strong>publish what you learn</strong>. Instead of explaining things to your friends in closed channels, write a (short) blog about it. Found something new (to you)? Blog about it. Keep the knowledge flowing!"
+    }
+  ],
   "links": [
     {
-      "name": "Embracing Touch (open in Chrome)",
+      "title": "Embracing Touch (open in Chrome)",
       "href": "http://markdalgleish.com/presentations/embracingtouch/",
       "time": "00:45:18",
       "description": "Instant Parallax on touch devices (ab)using CSS3 Transforms."
     },
     {
-      "name": "jQuery uncomment",
+      "title": "jQuery uncomment",
       "href": "http://chivil.com/uncomment/",
       "time": "00:45:18",
       "description": "Uncomment is a handy little plugin that allows you to serve HTML-comments and only have them parsed and processed when needed."
     },
     {
-      "name": "Crawly – Alexa 1x Search Engine",
+      "title": "Crawly – Alexa 1x Search Engine",
       "href": "https://crawly.org/2.0-beta/",
       "time": "00:45:18",
       "description": "Crawly allows you to perform regular expression matches against the sources of the Alexa 1x websites."
     },
     {
-      "name": "Focal Point: Intelligent Cropping of Responsive Images",
+      "title": "Focal Point: Intelligent Cropping of Responsive Images",
       "href": "http://designshack.net/articles/css/focal-point-intelligent-cropping-of-responsive-images/",
       "time": "00:45:18",
       "description": "Denote the focal point (interesting-content-center) of an image using CSS, allowing intelligent cropping on responsive sites"
     },
     {
-      "name": "Full Frontal 2012 Videos",
+      "title": "Full Frontal 2012 Videos",
       "href": "http://www.youtube.com/playlist?list=PLXmT1r4krsTrXThZIxcnzogf_YLOHRUZv&feature=view_all",
       "time": "00:45:18",
       "description": "Remy has finally uploaded all the talks of this year&#8217;s Full Frontal Conference. Paul is keeping a <a href=\"http://delicious.com/paul.irish/frontend+video\">list on delicious</a>"
     },
     {
-      "name": "Callbacks Considered A Code Smell",
+      "title": "Callbacks Considered A Code Smell",
       "href": "http://adamghill.com/2012/12/02/callbacks-considered-a-smell/",
       "time": "00:45:18",
       "description": "Nice recap of the various approaches to make asynchronous code maintainable."
     },
     {
-      "name": "jStat",
+      "title": "jStat",
       "href": "http://www.jstat.org/",
       "time": "00:45:18",
       "description": "Javascript statistics library &#8211; do you know the 4th qantile or what a median really is? No? Then this utility is for you."
     },
     {
-      "name": "GeoLib",
+      "title": "GeoLib",
       "href": "http://www.jstat.org/",
       "time": "00:45:18",
       "description": "Javascript library doing all the funky math you need for your geo location services."
     },
     {
-      "name": "#webtypobuch",
+      "title": "#webtypobuch",
       "href": "http://webtypobuch.de/lesen",
       "time": "00:45:18",
       "description": "A German book on typography on the web"
     },
     {
-      "name": "We Love Icon Fonts",
+      "title": "We Love Icon Fonts",
       "href": "http://weloveiconfonts.com/",
       "time": "00:45:18",
       "description": "Collection of icon fonts."

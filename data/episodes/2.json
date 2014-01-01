@@ -34,55 +34,55 @@
   "description": "Auf meiner Spur ist leider so viel Hall, dass ich zeitweise ernsthaft gezweifelt habe, ob wir die Folge wirklich auf die Öffentlichkeit loslassen sollen. Ihr seid aber hoffentlich schmerzresistent genug, um darüber hinwegzusehen – zumindest dieses mal noch. Ich hoffe, beim nächsten Mal habe ich die Problemquelle ausfindig gemacht. Da sich der Hall geradezu wie berechnet anhört, würde ich sogar vermuten, da hat der böse Steve seine Finger softwareseitig im Spiel …\n\nIn der Premierenfolge hatten wir es noch nicht geschafft, jetzt hat es geklappt. In voller Besetzung haben wir nun auch <em>inklusive <a href=\"http://twitter.com/derSchepp\">Schepp</a></em> gemeinsam unsere minderwertigen Mikrofone beschallt. Googles Apache-Modul mod_pagespeed als Ableger des Browser-Plugins PageSpeed, Web-Applikationen versus Browser-Applikationen, Featuredetection-basiertes Nachladen von Polyfills, Hardwarebeschleunigung in Chrome, Sub-Pixel-genaue Positionierung von Schrift im IE9, Adobes Bemühungen um Webtypografie und serverseitiges Canvas waren unsere Themen.",
   "topics": [
     {
-      "name": "mod_pagespeed",
+      "title": "mod_pagespeed",
       "href": "http://code.google.com/intl/de-DE/speed/page-speed/docs/module.html"
     },
     {
-      "name": "CSS-JS-Booster",
+      "title": "CSS-JS-Booster",
       "href": "https://github.com/Schepp/CSS-JS-Booster"
     },
     {
-      "name": "Chalk-Webapp ausschließlich für das iPad",
+      "title": "Chalk-Webapp ausschließlich für das iPad",
       "href": "http://37signals.com/svn/posts/2637-introducing-chalk-a-fun-little-browser-based-app-for-ipad-inspired-by-our-new-office"
     },
     {
-      "name": "poly:logo 003: Webapplikationen",
+      "title": "poly:logo 003: Webapplikationen",
       "href": "http://polylogo.org/3"
     },
     {
-      "name": "yepnope.js – A Feature-Test Based Loader For Your Polyfills!",
+      "title": "yepnope.js – A Feature-Test Based Loader For Your Polyfills!",
       "href": "https://github.com/SlexAxton/yepnope.js"
     },
     {
-      "name": "HTML5Boilerplate",
+      "title": "HTML5Boilerplate",
       "href": "http://html5boilerplate.com/"
     },
     {
-      "name": "GPU-accelerated compositing in Chrome",
+      "title": "GPU-accelerated compositing in Chrome",
       "href": "http://www.chromium.org/developers/design-documents/gpu-accelerated-compositing-in-chrome"
     },
     {
-      "name": "Sub-Pixel-genaue Positionierung von Schrift im IE9",
+      "title": "Sub-Pixel-genaue Positionierung von Schrift im IE9",
       "href": "http://blogs.msdn.com/b/ie/archive/2010/11/03/sub-pixel-fonts-in-ie9.aspx"
     },
     {
-      "name": "Adobe’s enhancing WebKit for better typography",
+      "title": "Adobe’s enhancing WebKit for better typography",
       "href": "http://blogs.adobe.com/jnack/2010/11/adobes-enhancing-webkit-for-better-typography.html"
     },
     {
-      "name": "jQSlickWrap",
+      "title": "jQSlickWrap",
       "href": "http://code.google.com/p/jqslickwrap/"
     },
     {
-      "name": "hyphenator.js",
+      "title": "hyphenator.js",
       "href": "http://code.google.com/p/hyphenator/"
     },
     {
-      "name": "node-canvas: Canvas für node.js",
+      "title": "node-canvas: Canvas für node.js",
       "href": "http://www.learnboost.com/introducing-node-canvas-server-side-html5-canvas-api/"
     },
     {
-      "name": "CRE167: node.js",
+      "title": "CRE167: node.js",
       "href": "http://chaosradio.ccc.de/cre167.html"
     }
   ]

@@ -41,13 +41,13 @@
   "description": "Die Not macht erfinderisch: Aus akutem Mangel an Themen zauberten Schepp, Peter und Stefan eine sehr JavaScript-lastige Revision aus dem Hut, die sich mit brandneuen bzw. noch nicht so geläufigen Technologien auseinandersetzt:",
   "topics": [
     {
-      "name": "DOM Mutation Events & Mutation Observers",
+      "title": "DOM Mutation Events & Mutation Observers",
       "href": "http://dev.opera.com/articles/view/mutation-observers-tutorial/",
       "time": "00:00:26",
       "description": "Bei seinen Arbeiten am <a href=\"http://dev.w3.org/csswg/css-images-3/#object-fit\">object-fit</a> Polyfill mit Anselm stieß Schepp auf die (älteren, mittlerweile obsoleten) DOM Mutation Events bzw. die (neueren, flotteren) Mutation Observer, mit denen sich Änderungen an DOM Knoten ab IE9 fein überwachen lassen. Schepp erzählt von seinen Erfahrungen und nennt Anwendungsmöglichkeiten, und verrät auch wie man rein theoretisch im alten IE8 etwas ähnliches nutzen könnte."
     },
     {
-      "name": "ECMAScript 6: Generators",
+      "title": "ECMAScript 6: Generators",
       "href": "http://www.peterkroener.de/ecmascript-6-generators/",
       "time": "00:19:09",
       "description": "Aus dem Webtechnologienlabor des Erklärbärs kommt ein feiner Artikel zu den neuen Generator Funktionen, die mit ECMAScript 6 spruchreif werden, und in Chrome via Flag und den Nightly Builds von Firefox sogar schon eingesetzt werden können. Peter erklärt Syntax und Funktionsweise und gibt einen Anwendungsfall an, mit dem man der Callback-Hölle entfliehen und ins asynchrone Nirvana eintreten kann. Das Schöne: Mit ES6 auf ES3 Transpilern wie <a href=\"https://github.com/google/traceur-compiler\">Traceur</a> und dem dazu passenden <a href=\"https://github.com/aaronfrost/grunt-traceur\">Grunt task</a> lässt sich das ganze sogar heute schon einsetzen!"
@@ -55,37 +55,37 @@
   ],
   "links": [
     {
-      "name": "Chrome Dev Summit: Service Worker",
+      "title": "Chrome Dev Summit: Service Worker",
       "href": "http://www.youtube.com/watch?v=1aPR43fhIWk",
       "time": "00:42:31",
       "description": "Ab 1:05:00 gibt&#8217;s einen tollen Ausblick auf die kommende <a href=\"https://github.com/slightlyoff/ServiceWorker/blob/master/explainer.md\">Service Worker API</a>."
     },
     {
-      "name": "Responsive Comments",
+      "title": "Responsive Comments",
       "href": "http://responsivecomments.com/",
       "time": "00:42:31",
       "description": "Responsive Inhalte (wie z.B.: Bilder) ressourcenschonend in Kommentare verpacken und mit dieser JavaScript Bibliothek auslesen."
     },
     {
-      "name": "noUISlider",
+      "title": "noUISlider",
       "href": "http://refreshless.com/nouislider/",
       "time": "00:42:31",
       "description": "jQuery Plugins seien passé? Nicht wenn man so ein sauber implementiertes und sogar auf Touchgeräten absolut funktionierendes Sliding Control vorgesetzt bekommt."
     },
     {
-      "name": "Unicode in Fonts",
+      "title": "Unicode in Fonts",
       "href": "http://unicode.johnholtripley.co.uk/",
       "time": "00:42:31",
       "description": "Wer braucht denn gleich die Iconfont, wenn man mit Unicode Characters auch seine Herzchen bekommt. Diese Liste enthält alle Details."
     },
     {
-      "name": "LocalForage",
+      "title": "LocalForage",
       "href": "https://github.com/mozilla/localforage",
       "time": "00:42:31",
       "description": "Auf die IndexedDB mit der aus localStorage bekannten API zugreifen. LocalForage von Mozilla macht das möglich."
     },
     {
-      "name": "Advent, Advent …",
+      "title": "Advent, Advent …",
       "time": "00:42:31",
       "description": "Die besinnlichste Zeit des Jahres wäre nicht dasselbe ohne die beliebten Advent(s)kalender von <a href=\"http://24ways.org/\">24 ways</a>, <a href=\"http://calendar.perfplanet.com/2013/\">Perfplanet</a> und natürlich den <a href=\"http://webkrauts.de/serien/adventskalender/2013\">Webkrauts</a>. Gerade bei letzterem empfehlen wir <a href=\"http://webkrauts.de/artikel/2013/mehr-sicherheit-im-frontend-durch-http-header\">Frederic Hembergers</a> HTTP Header Artikel."
     }

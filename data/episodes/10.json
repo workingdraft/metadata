@@ -38,64 +38,64 @@
   "description": "Viel Spaß mit der Folge!\n\nNEU und BREAKING: Es gibt jetzt auch mal testweise Kapitelmarken. Bisher leider nur im MP4-Format. Wenn das Feature ankommt und ihr beispielsweise Ogg fordert, kann ich auch das geschehen lassen.\n\nFür die potenziell sprengsatzhaltige Diskussion um Googles Entscheidung, den H.264-Codec aus Chrome zu entfernen, holten wir uns <a href=\"http://praegnanz.de\">Gerrit van Aaken</a> mit ins Boot. Wir hoffen, dass die Audio-Qualität langsam in den Bereich des Erträglichen vordringt.",
   "topics": [
     {
-      "name": "HTML Video Codec Support in Chrome",
+      "title": "HTML Video Codec Support in Chrome",
       "href": "http://blog.chromium.org/2011/01/html-video-codec-support-in-chrome.html",
       "description": "Google versetzt dem <a href=\"http://www.photoscala.de/Artikel/Zum-Codec-AVCH264-und-zum-Stand-der-Dinge\">lizenzbehafteten</a> H.264-Codec einen Hieb und kündigt an, ihn aus Chrome(ium) zu entfernen. Im Rahmen des daran entflammten Shitstorms haben sowohl <a href=\"http://praegnanz.de/weblog/die-sache-mit-chrome-und-h264\">Gerrit</a> als auch <a href=\"http://www.peterkroener.de/linksammlung-webm-h-264-debatte/\">Peter</a> und <a href=\"http://markus-schlegel.com/weblog/h264-rauswerfen-flash-behalten-ein-widerspruch\">Markus</a> ein paar Gedanken und Fakten zusammengetragen. Mit diesem Wissen unter dem Arm reden wir über die <a href=\"http://www.mpegla.com/main/programs/AVC/Pages/Licensors.aspx\">MPEG LA</a>, Googles Strategie, <a href=\"http://www.webmproject.org/about/supporters/\">WebMs</a> Aussichten, die <a href=\"http://my.opera.com/haavard/blog/2011/01/17/adoption\">Marktanteile der Browser</a>, <a href=\"http://blogs.arm.com/software-enablement/207-support-for-vp8-and-webm-on-arm/\">Hardware-Support auf mobilen Geräten</a> und erwähnen <a href=\"http://de.wikipedia.org/wiki/Graphics_Interchange_Format#GIF_und_die_LZW-Patente\">das GIF-Patent</a>."
     },
     {
-      "name": "JavaScript Full Screen API, Navigation Timing and repeating CSS Gradients",
+      "title": "JavaScript Full Screen API, Navigation Timing and repeating CSS Gradients",
       "href": "http://peter.sh/2011/01/javascript-full-screen-api-navigation-timing-and-repeating-css-gradients/",
       "description": "<a href=\"https://wiki.mozilla.org/index.php?title=Gecko:FullScreenAPI\">Fullscreen API</a> wird in Webkit unterstützt werden. Hurra und Yippieh."
     },
     {
-      "name": "photoshopetiquette.com",
+      "title": "photoshopetiquette.com",
       "href": "http://photoshopetiquette.com/",
       "description": "Grundregeln für den Umgang mit PSDs beim Screendesign. Insbesondere <a href=\"http://www.mademyday.de/web-ist-nicht-print.html\">an die lieben Printler</a> gerichtet."
     },
     {
-      "name": "IndexedDB in Firefox 4",
+      "title": "IndexedDB in Firefox 4",
       "href": "https://hacks.mozilla.org/2011/01/indexeddb-in-firefox-4/",
       "description": "Die aktuelle und hoffentlich letzte <a href=\"https://hacks.mozilla.org/2011/01/firefox-4-beta-9-a-huge-pile-of-awesome/\">Beta mit der Nummer 9</a> führt unter anderem IndexedDB ein. Die Final ist<a href=\"https://groups.google.com/group/mozilla.dev.planning/browse_thread/thread/edeea49d5339d7e7/e45ccde911c5eb08?show_docid=e45ccde911c5eb08\"> für Ende Februar geplant</a>. Außerdem drin: <a href=\"http://brendaneich.com/2010/11/proxy-inception/\">Harmony Proxies</a> und <a href=\"https://andreasgal.wordpress.com/2010/10/13/compartments/\">JavaScript Compartments</a>"
     },
     {
-      "name": "jQuery 1.5 Beta 1 released",
+      "title": "jQuery 1.5 Beta 1 released",
       "href": "http://blog.jquery.com/2011/01/14/jquery-1-5-beta-1-released/",
       "description": "Kleinere Verbesserungen, vornehmlich ein Rewrite der Ajax-Funktionalitäten."
     },
     {
-      "name": "Dojo 1.6 Release Notes",
+      "title": "Dojo 1.6 Release Notes",
       "href": "http://docs.dojocampus.org/releasenotes/1.6",
       "description": "Mit neuem LESS-angetriebenem Theme, einem IndexDB-Storage, Umstellung von dojo-Attributen im Markup à la <em>dojoType</em> auf HTML5-data-Attribute, Performanceverbesserungen in IE6 und 7 (dank einer Analyse des Codes mit <a href=\"http://ajax.dynatrace.com/ajax/de/Default.aspx\">dynaTrace</a>) und Dokumentation zur Verknüpfung von Dojo mit RequireJS."
     },
     {
-      "name": "What the heck is Shadow DOM?",
+      "title": "What the heck is Shadow DOM?",
       "href": "http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/",
       "description": "Elemente, die nicht im DOM auftauchen, aber trotzdem irgendwo sein müssen, ja, wo sind die? Im Shadow DOM! Im IE ist es wie so oft <a href=\"http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/#comment-266\">ein alter Hut</a>."
     },
     {
-      "name": "CSSOM, Vars, Mixins, etc. (=HTML Slides, zu navigieren per Cursortasten)",
+      "title": "CSSOM, Vars, Mixins, etc. (=HTML Slides, zu navigieren per Cursortasten)",
       "href": "http://www.xanthir.com/talks/2011-01-12/slides.html",
       "description": "Die immer wieder gewünschten Ermächtigungsgesetze von CSS. Genaugenommen <a href=\"http://www.w3.org/People/howcome/p/cascade.html\">gewünscht seit 1994</a> (nur anders). Inspiriert von so Frameworks wie <a href=\"http://lesscss.org/\">LESS</a> oder <a href=\"http://turbine.peterkroener.de/docs.php\">Turbine</a>."
     },
     {
-      "name": "w3fools.com",
+      "title": "w3fools.com",
       "href": "http://w3fools.com/",
       "description": "Die geben der dreckigen w3schools.com Saures. Konstruktiver ist das (man kann sagen SEO-)Projekt <a href=\"http://promotejs.com/\">PromoteJS</a>."
     },
     {
-      "name": "CSS3 gradients in Webkit …",
+      "title": "CSS3 gradients in Webkit …",
       "href": "http://webkit.org/blog/1424/css3-gradients/",
       "description": "… werden syntaxmäßig an den <a href=\"https://developer.mozilla.org/en/CSS/-moz-linear-gradient\">Firefox</a> angeglichen."
     }
   ],
   "links": [
     {
-      "name": "Mobile Perf",
+      "title": "Mobile Perf",
       "href": "http://www.stevesouders.com/mobileperf/",
       "description": "Steve Souders hat 2011 zu seinem Jahr der mobilen Performanceoptimierungen ausgerufen. Zum Start hat er dieses Bookmarklet gebaut, mit Hilfe dessen man sich auch in mobilen Browsern ein paar Werkzeuge zum Auswerten einblenden lassen kann."
     },
     {
-      "name": "Flash 10.2 beta",
+      "title": "Flash 10.2 beta",
       "href": "http://labs.adobe.com/technologies/flashplayer10/",
       "description": "… bringt das hochinteressante <a href=\"http://www.adobe.com/devnet/flashplayer/articles/stage_video.html\">Stage Video</a>."
     }

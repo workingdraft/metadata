@@ -34,47 +34,47 @@
   "description": "Am Anfang vergangener Woche war erstaunlich wenig los. Mozilla legte dann aber noch nach und brachte die 7er Beta des Firefox 4 mit Hardware-Grafikbeschleunigung, Forms &#038; File-API, Jägermonkey und Opentype-Featureunterstützung.\n\nEs lief technisch erstaunlich reibungsfrei. Garageband habe ich als Aufnahmesoftware dieses Mal zum Teufel gejagt, was sich als richtige Entscheidung herausstellte. Nur bei der Skype-Verbindung gabs hier und da ein paar Aussetzer.",
   "topics": [
     {
-      "name": "Mozilla F1",
+      "title": "Mozilla F1",
       "href": "http://mozillalabs.com/messaging/2010/11/10/f1/",
       "description": "Mozilla bringt die Social-Media Share-Buttons als Plugin in den Firefox<p></p>\n<dt><a href=\"http://www.mozilla.com/en-US/firefox/4.0b7/releasenotes/\">Mozilla Firefox 4 Beta 7: Releasenotes</a><p></p>\n<dd>Aktuelle Beta mit einigen interessanten Neuerungen<p></p>\n<dt><a href=\"https://wiki.mozilla.org/JaegerMonkey\">Jägermonkey</a><p></p>\n<dd>Jägermonkey begleitet Tracemonkey als JavaScript-Interpreter für nichtperfekten Code<p></p>\n<dt><a href=\"http://www.arewefastyet.com/\">Are We fast yet?</a><p></p>\n<dd>Mozilla-Website zeigt die Besserungen der Firefox-JavaScript-Compiler als Benchmark-Graphen<p></p>\n<dt><a href=\"http://hacks.mozilla.org/2010/11/firefox-4-html5-forms/\">HTML5 Forms API</a><p></p>\n<dd>Firefox zieht nach. Validierungen, Datepicker, neue Attribute etc. wie in Opera.<p></p>\n<dt><a href=\"http://www.w3.org/TR/FileAPI/\">W3C File API-Spec</a><p></p>\n<dd>Dateien direkt mit JS manipulieren, ohne über den Server zu müssen.<p></p>\n<dt><a href=\"https://github.com/mrdoob/three.js/\">Three.js on Github</a><p></p>\n<dd>JavaScript 3D-Framework ohne Kopfschmerzpotenzial<p></p>\n<dt><a href=\"http://hacks.mozilla.org/2010/11/firefox-4-font-feature-support\">Opentype-Feature-Support im FF4</a><p></p>\n<dd>Opentype-Funktionen auf low-levelige Art im CSS nutzen<p></p>\n<dt><a href=\"http://googleblog.blogspot.com/2010/11/beyond-instant-results-instant-previews.html\">Google Instant Previews</a><p></p>\n<dd>Nach Google Instant gibt es jetzt auch Vorschaubilder für die Google-Suche und <a href=\"http://googlecode.blogspot.com/2010/11/instant-previews-under-hood.html\">so funktioniert das angeblich alles</a>.<p></p>\n</dd></dt></dd></dt></dd></dt></dd></dt></dd></dt></dd></dt></dd></dt></dd></dt>"
     },
     {
-      "name": "Mozilla Firefox 4 Beta 7: Releasenotes",
+      "title": "Mozilla Firefox 4 Beta 7: Releasenotes",
       "href": "http://www.mozilla.com/en-US/firefox/4.0b7/releasenotes/",
       "description": "Aktuelle Beta mit einigen interessanten Neuerungen<p></p>\n<dt><a href=\"https://wiki.mozilla.org/JaegerMonkey\">Jägermonkey</a><p></p>\n<dd>Jägermonkey begleitet Tracemonkey als JavaScript-Interpreter für nichtperfekten Code<p></p>\n<dt><a href=\"http://www.arewefastyet.com/\">Are We fast yet?</a><p></p>\n<dd>Mozilla-Website zeigt die Besserungen der Firefox-JavaScript-Compiler als Benchmark-Graphen<p></p>\n<dt><a href=\"http://hacks.mozilla.org/2010/11/firefox-4-html5-forms/\">HTML5 Forms API</a><p></p>\n<dd>Firefox zieht nach. Validierungen, Datepicker, neue Attribute etc. wie in Opera.<p></p>\n<dt><a href=\"http://www.w3.org/TR/FileAPI/\">W3C File API-Spec</a><p></p>\n<dd>Dateien direkt mit JS manipulieren, ohne über den Server zu müssen.<p></p>\n<dt><a href=\"https://github.com/mrdoob/three.js/\">Three.js on Github</a><p></p>\n<dd>JavaScript 3D-Framework ohne Kopfschmerzpotenzial<p></p>\n<dt><a href=\"http://hacks.mozilla.org/2010/11/firefox-4-font-feature-support\">Opentype-Feature-Support im FF4</a><p></p>\n<dd>Opentype-Funktionen auf low-levelige Art im CSS nutzen<p></p>\n<dt><a href=\"http://googleblog.blogspot.com/2010/11/beyond-instant-results-instant-previews.html\">Google Instant Previews</a><p></p>\n<dd>Nach Google Instant gibt es jetzt auch Vorschaubilder für die Google-Suche und <a href=\"http://googlecode.blogspot.com/2010/11/instant-previews-under-hood.html\">so funktioniert das angeblich alles</a>.<p></p>\n</dd></dt></dd></dt></dd></dt></dd></dt></dd></dt></dd></dt></dd></dt>"
     },
     {
-      "name": "Jägermonkey",
+      "title": "Jägermonkey",
       "href": "https://wiki.mozilla.org/JaegerMonkey",
       "description": "Jägermonkey begleitet Tracemonkey als JavaScript-Interpreter für nichtperfekten Code<p></p>\n<dt><a href=\"http://www.arewefastyet.com/\">Are We fast yet?</a><p></p>\n<dd>Mozilla-Website zeigt die Besserungen der Firefox-JavaScript-Compiler als Benchmark-Graphen<p></p>\n<dt><a href=\"http://hacks.mozilla.org/2010/11/firefox-4-html5-forms/\">HTML5 Forms API</a><p></p>\n<dd>Firefox zieht nach. Validierungen, Datepicker, neue Attribute etc. wie in Opera.<p></p>\n<dt><a href=\"http://www.w3.org/TR/FileAPI/\">W3C File API-Spec</a><p></p>\n<dd>Dateien direkt mit JS manipulieren, ohne über den Server zu müssen.<p></p>\n<dt><a href=\"https://github.com/mrdoob/three.js/\">Three.js on Github</a><p></p>\n<dd>JavaScript 3D-Framework ohne Kopfschmerzpotenzial<p></p>\n<dt><a href=\"http://hacks.mozilla.org/2010/11/firefox-4-font-feature-support\">Opentype-Feature-Support im FF4</a><p></p>\n<dd>Opentype-Funktionen auf low-levelige Art im CSS nutzen<p></p>\n<dt><a href=\"http://googleblog.blogspot.com/2010/11/beyond-instant-results-instant-previews.html\">Google Instant Previews</a><p></p>\n<dd>Nach Google Instant gibt es jetzt auch Vorschaubilder für die Google-Suche und <a href=\"http://googlecode.blogspot.com/2010/11/instant-previews-under-hood.html\">so funktioniert das angeblich alles</a>.<p></p>\n</dd></dt></dd></dt></dd></dt></dd></dt></dd></dt></dd></dt>"
     },
     {
-      "name": "Are We fast yet?",
+      "title": "Are We fast yet?",
       "href": "http://www.arewefastyet.com/",
       "description": "Mozilla-Website zeigt die Besserungen der Firefox-JavaScript-Compiler als Benchmark-Graphen<p></p>\n<dt><a href=\"http://hacks.mozilla.org/2010/11/firefox-4-html5-forms/\">HTML5 Forms API</a><p></p>\n<dd>Firefox zieht nach. Validierungen, Datepicker, neue Attribute etc. wie in Opera.<p></p>\n<dt><a href=\"http://www.w3.org/TR/FileAPI/\">W3C File API-Spec</a><p></p>\n<dd>Dateien direkt mit JS manipulieren, ohne über den Server zu müssen.<p></p>\n<dt><a href=\"https://github.com/mrdoob/three.js/\">Three.js on Github</a><p></p>\n<dd>JavaScript 3D-Framework ohne Kopfschmerzpotenzial<p></p>\n<dt><a href=\"http://hacks.mozilla.org/2010/11/firefox-4-font-feature-support\">Opentype-Feature-Support im FF4</a><p></p>\n<dd>Opentype-Funktionen auf low-levelige Art im CSS nutzen<p></p>\n<dt><a href=\"http://googleblog.blogspot.com/2010/11/beyond-instant-results-instant-previews.html\">Google Instant Previews</a><p></p>\n<dd>Nach Google Instant gibt es jetzt auch Vorschaubilder für die Google-Suche und <a href=\"http://googlecode.blogspot.com/2010/11/instant-previews-under-hood.html\">so funktioniert das angeblich alles</a>.<p></p>\n</dd></dt></dd></dt></dd></dt></dd></dt></dd></dt>"
     },
     {
-      "name": "HTML5 Forms API",
+      "title": "HTML5 Forms API",
       "href": "http://hacks.mozilla.org/2010/11/firefox-4-html5-forms/",
       "description": "Firefox zieht nach. Validierungen, Datepicker, neue Attribute etc. wie in Opera.<p></p>\n<dt><a href=\"http://www.w3.org/TR/FileAPI/\">W3C File API-Spec</a><p></p>\n<dd>Dateien direkt mit JS manipulieren, ohne über den Server zu müssen.<p></p>\n<dt><a href=\"https://github.com/mrdoob/three.js/\">Three.js on Github</a><p></p>\n<dd>JavaScript 3D-Framework ohne Kopfschmerzpotenzial<p></p>\n<dt><a href=\"http://hacks.mozilla.org/2010/11/firefox-4-font-feature-support\">Opentype-Feature-Support im FF4</a><p></p>\n<dd>Opentype-Funktionen auf low-levelige Art im CSS nutzen<p></p>\n<dt><a href=\"http://googleblog.blogspot.com/2010/11/beyond-instant-results-instant-previews.html\">Google Instant Previews</a><p></p>\n<dd>Nach Google Instant gibt es jetzt auch Vorschaubilder für die Google-Suche und <a href=\"http://googlecode.blogspot.com/2010/11/instant-previews-under-hood.html\">so funktioniert das angeblich alles</a>.<p></p>\n</dd></dt></dd></dt></dd></dt></dd></dt>"
     },
     {
-      "name": "W3C File API-Spec",
+      "title": "W3C File API-Spec",
       "href": "http://www.w3.org/TR/FileAPI/",
       "description": "Dateien direkt mit JS manipulieren, ohne über den Server zu müssen.<p></p>\n<dt><a href=\"https://github.com/mrdoob/three.js/\">Three.js on Github</a><p></p>\n<dd>JavaScript 3D-Framework ohne Kopfschmerzpotenzial<p></p>\n<dt><a href=\"http://hacks.mozilla.org/2010/11/firefox-4-font-feature-support\">Opentype-Feature-Support im FF4</a><p></p>\n<dd>Opentype-Funktionen auf low-levelige Art im CSS nutzen<p></p>\n<dt><a href=\"http://googleblog.blogspot.com/2010/11/beyond-instant-results-instant-previews.html\">Google Instant Previews</a><p></p>\n<dd>Nach Google Instant gibt es jetzt auch Vorschaubilder für die Google-Suche und <a href=\"http://googlecode.blogspot.com/2010/11/instant-previews-under-hood.html\">so funktioniert das angeblich alles</a>.<p></p>\n</dd></dt></dd></dt></dd></dt>"
     },
     {
-      "name": "Three.js on Github",
+      "title": "Three.js on Github",
       "href": "https://github.com/mrdoob/three.js/",
       "description": "JavaScript 3D-Framework ohne Kopfschmerzpotenzial<p></p>\n<dt><a href=\"http://hacks.mozilla.org/2010/11/firefox-4-font-feature-support\">Opentype-Feature-Support im FF4</a><p></p>\n<dd>Opentype-Funktionen auf low-levelige Art im CSS nutzen<p></p>\n<dt><a href=\"http://googleblog.blogspot.com/2010/11/beyond-instant-results-instant-previews.html\">Google Instant Previews</a><p></p>\n<dd>Nach Google Instant gibt es jetzt auch Vorschaubilder für die Google-Suche und <a href=\"http://googlecode.blogspot.com/2010/11/instant-previews-under-hood.html\">so funktioniert das angeblich alles</a>.<p></p>\n</dd></dt></dd></dt>"
     },
     {
-      "name": "Opentype-Feature-Support im FF4",
+      "title": "Opentype-Feature-Support im FF4",
       "href": "http://hacks.mozilla.org/2010/11/firefox-4-font-feature-support",
       "description": "Opentype-Funktionen auf low-levelige Art im CSS nutzen<p></p>\n<dt><a href=\"http://googleblog.blogspot.com/2010/11/beyond-instant-results-instant-previews.html\">Google Instant Previews</a><p></p>\n<dd>Nach Google Instant gibt es jetzt auch Vorschaubilder für die Google-Suche und <a href=\"http://googlecode.blogspot.com/2010/11/instant-previews-under-hood.html\">so funktioniert das angeblich alles</a>.<p></p>\n</dd></dt>"
     },
     {
-      "name": "Google Instant Previews",
+      "title": "Google Instant Previews",
       "href": "http://googleblog.blogspot.com/2010/11/beyond-instant-results-instant-previews.html",
       "description": "Nach Google Instant gibt es jetzt auch Vorschaubilder für die Google-Suche und <a href=\"http://googlecode.blogspot.com/2010/11/instant-previews-under-hood.html\">so funktioniert das angeblich alles</a>.<p></p>"
     }

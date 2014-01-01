@@ -34,36 +34,36 @@
   "description": "Es stellte sich uns die Frage, ob es wohl als praktisch empfunden werden würde, veranstalteten wir einige Sondersendungen – entweder zusätzlich zu den wöchentlichen News-Folgen, wovon ihr uns aber erst überzeugen müsstet, oder stattdessen.",
   "topics": [
     {
-      "name": "contrastrebellion.com",
+      "title": "contrastrebellion.com",
       "href": "http://contrastrebellion.com/",
       "time": "00:00:34:000"
     },
     {
-      "name": "html2canvas",
+      "title": "html2canvas",
       "href": "http://html2canvas.hertzen.com/",
       "time": "00:18:02:000"
     },
     {
-      "name": "Get your HEAD in order!",
+      "title": "Get your HEAD in order!",
       "href": "http://blogs.msdn.com/b/ieinternals/archive/2011/07/18/optimal-html-head-ordering-to-avoid-parser-restarts-redownloads-and-improve-performance.aspx",
       "time": "00:26:13:000"
     },
     {
-      "name": "00:41:40.000 hascan: Only serve the ones you care about",
+      "title": "00:41:40.000 hascan: Only serve the ones you care about",
       "href": "http://functionsource.com/post/hascan-only-serve-the-ones-your-care-about"
     }
   ],
   "links": [
     {
-      "name": "SQL-Injection-Cheatsheet",
+      "title": "SQL-Injection-Cheatsheet",
       "href": "https://docs.google.com/Doc?docid=0AZNlBave77hiZGNjanptbV84Z25yaHJmMjk&pli=1#Allowed_Intermediary_Character_30801873723976314"
     },
     {
-      "name": "YouTube Creator Playbook",
+      "title": "YouTube Creator Playbook",
       "href": "http://www.youtube.com/creators/playbook.html"
     },
     {
-      "name": "CreativeJS",
+      "title": "CreativeJS",
       "href": "http://creativejs.com/"
     }
   ]

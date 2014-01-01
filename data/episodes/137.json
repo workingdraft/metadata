@@ -39,77 +39,77 @@
   "audio": "http://workingdraft.de/podpress_trac/web/2096/0/wd-137.mp3",
   "title": "Mobile Browser Wonderland",
   "description": "Aus Mangel an aktuellen Themen geben Peter, Stefan und der Schepp einen Rundumschlag zum Thema Mobile Browser. Wir plaudern fröhlich aus dem Nähkästchen, erzählen von unseren Erfahrungen und präsentieren die irrsinnigsten Browserquirks, die selbst dem IE6 alle Ehre gemacht hätten.",
-  "topics": [
-    {
-      "name": "HTML5 Video mit MP4",
-      "time": "00:05:00",
-      "description": "Schepp erzählt von seinen jüngsten Erfahrungen mit HTML5 Videos auf mobilen Browsern, und welche Browser sich trotz allen Vorkehrungen sich durch einen bestimmten Grund querstellen, wenn es um das Abspielen von MP4 geht. Peter und Stefan raten mehrmals falsch, die Lösung ist umso augenöffnender"
-    },
-    {
-      "name": "Scrolling",
-      "time": "00:11:08",
-      "description": "Schon mal eine Seite mit &#8220;tollen&#8221; Scrollingeffekten auf iOS Safari angesehen? Scrolling blockiert den Render-Thread aus diversen Gründen, Abhilfe schaffen JavaScript Bibliotheken wie <a href=\"https://github.com/cubiq/iscroll\">iScroll</a> und <a href=\"http://joehewitt.github.io/scrollability/\">Scrollability</a>, aber auch nur bedingt, wie Stefan auf Android 2.x geräten schmerzhaft erfahren musste."
-    },
-    {
-      "name": "Rendering Geschwindigkeit",
-      "time": "00:18:07",
-      "description": "Peter erzählt von seinen Kursen mit HTML5 Padawanen und wie sogar auf Desktop-Browsern keine ordentliche Renderperformance zustande kommt (<a href=\"http://updates.html5rocks.com/2013/02/Profiling-Long-Paint-Times-with-DevTools-Continuous-Painting-Mode\">Continuous Painting Mode</a> ist des Rätsels Lösung). Schepp empfiehlt CSS Transforms statt herkömmlichen Positionierungsmöglichkeiten, wenn es um flüssige Animationen geht und predigt und erklärt Browser-Verständnis, wie in seinem letzten Artikel in der <a href=\"http://screengui.de/magazin/magazin-archiv/detail/big-brother.html\">Screenguide</a>."
-    },
-    {
-      "name": "Debugging",
-      "time": "00:28:30",
-      "description": "Während man sich in den mobilen Urzeiten meist mit dem alert()-Debugger Abhilfe schaffen musste, gibt es jetzt mittlerweile ein paar sehr gute Tools, die einem dabei helfen. <a href=\"http://html.adobe.com/edge/inspect/&gt;Edge Inspect&lt;/a&gt; ist ganz brauchbar, trotz der zum Teil klapprigen Adobe Server. Alternativ dazu gibt es aber auch Weinre oder die M&#246;glichkeit, sich mittels &lt;a href=\" http:=\"\"></a>Command Line Tools Wasserfalldiagramme zu erstellen und im Web zu betrachten. Zu guter Letzt stellen wir noch das <a href=\"http://www.iunbug.com/mihtool\">MIHTool</a> vor."
-    },
-    {
-      "name": "Mobile Safari, IE10 und die Android Eigenheiten",
-      "time": "00:38:46",
-      "description": "Wer aktuell für den iOS Safari entwickelt muss sich auf diverse IE6 und WWII Vergleiche einstellen. Wir plaudern über unsere Erfahrungen mit den verschiedenen Plattformen und deren Standardbrowsern und kommen zum Schluß, dass wir nur noch von IE6en umgeben sind. Außerdem erwähnen wir clevere Hacks, wie Peters <a href=\"http://www.peterkroener.de/indexed-db-die-neue-html5-datenbank-im-browser-teil-2-browsermacken-tools-und-polyfills/\">IndexDB Polyfill</a>, erwähnen das <a href=\"https://github.com/ftlabs/fastclick\">300ms Klick Delay</a> und welche Probleme man damit hat, und verdammen neue Browser, die selbst die einfachsten Viewport Anweisungen nicht ohne Extraeinladungen verstehen."
-    },
-    {
-      "name": "Audio",
-      "time": "01:08:57",
-      "description": "Die Klammer schließt sich. War Video schon ein gebrochenes Ding, geht es mit HTML5 Audio weiter. Stefan erzählt von der Ein-Klick-Regel und erwähnt Soundsprites, und wir geben Hinweise auf Audio-Bibliotheken wie <a href=\"http://goldfirestudios.com/blog/104/howler.js-Modern-Web-Audio-Javascript-Library\">Howler</a>, <a href=\"http://www.schillmania.com/projects/soundmanager2/\">SoundManager2</a> und <a href=\"https://github.com/ddprrt/roadie.js\">Roadie.js</a>"
-    },
-    {
-      "name": "Get Firefox",
-      "time": "01:15:04",
-      "description": "Zu guter Letzt brechen wir noch eine Lanze für <a href=\"http://getfirefox.com\">Firefox</a>, dem mobilen Browser der im Moment wohl alles richtig zu machen scheint."
-    }
-  ],
   "news": [
     {
-      "name": "Adobe Generator for Photoshop CC",
+      "title": "Adobe Generator for Photoshop CC",
       "href": "http://blogs.adobe.com/photoshopdotcom/2013/09/introducing-adobe-generator-for-photoshop-cc.html",
       "time": "00:00:17",
       "description": "Echtzeit Assets direkt aus Photoshop in eure App? Geht mit dieser offziellen Erweiterung von Adobe."
     }
   ],
+  "topics": [
+    {
+      "title": "HTML5 Video mit MP4",
+      "time": "00:05:00",
+      "description": "Schepp erzählt von seinen jüngsten Erfahrungen mit HTML5 Videos auf mobilen Browsern, und welche Browser sich trotz allen Vorkehrungen sich durch einen bestimmten Grund querstellen, wenn es um das Abspielen von MP4 geht. Peter und Stefan raten mehrmals falsch, die Lösung ist umso augenöffnender"
+    },
+    {
+      "title": "Scrolling",
+      "time": "00:11:08",
+      "description": "Schon mal eine Seite mit &#8220;tollen&#8221; Scrollingeffekten auf iOS Safari angesehen? Scrolling blockiert den Render-Thread aus diversen Gründen, Abhilfe schaffen JavaScript Bibliotheken wie <a href=\"https://github.com/cubiq/iscroll\">iScroll</a> und <a href=\"http://joehewitt.github.io/scrollability/\">Scrollability</a>, aber auch nur bedingt, wie Stefan auf Android 2.x geräten schmerzhaft erfahren musste."
+    },
+    {
+      "title": "Rendering Geschwindigkeit",
+      "time": "00:18:07",
+      "description": "Peter erzählt von seinen Kursen mit HTML5 Padawanen und wie sogar auf Desktop-Browsern keine ordentliche Renderperformance zustande kommt (<a href=\"http://updates.html5rocks.com/2013/02/Profiling-Long-Paint-Times-with-DevTools-Continuous-Painting-Mode\">Continuous Painting Mode</a> ist des Rätsels Lösung). Schepp empfiehlt CSS Transforms statt herkömmlichen Positionierungsmöglichkeiten, wenn es um flüssige Animationen geht und predigt und erklärt Browser-Verständnis, wie in seinem letzten Artikel in der <a href=\"http://screengui.de/magazin/magazin-archiv/detail/big-brother.html\">Screenguide</a>."
+    },
+    {
+      "title": "Debugging",
+      "time": "00:28:30",
+      "description": "Während man sich in den mobilen Urzeiten meist mit dem alert()-Debugger Abhilfe schaffen musste, gibt es jetzt mittlerweile ein paar sehr gute Tools, die einem dabei helfen. <a href=\"http://html.adobe.com/edge/inspect/&gt;Edge Inspect&lt;/a&gt; ist ganz brauchbar, trotz der zum Teil klapprigen Adobe Server. Alternativ dazu gibt es aber auch Weinre oder die M&#246;glichkeit, sich mittels &lt;a href=\" http:=\"\"></a>Command Line Tools Wasserfalldiagramme zu erstellen und im Web zu betrachten. Zu guter Letzt stellen wir noch das <a href=\"http://www.iunbug.com/mihtool\">MIHTool</a> vor."
+    },
+    {
+      "title": "Mobile Safari, IE10 und die Android Eigenheiten",
+      "time": "00:38:46",
+      "description": "Wer aktuell für den iOS Safari entwickelt muss sich auf diverse IE6 und WWII Vergleiche einstellen. Wir plaudern über unsere Erfahrungen mit den verschiedenen Plattformen und deren Standardbrowsern und kommen zum Schluß, dass wir nur noch von IE6en umgeben sind. Außerdem erwähnen wir clevere Hacks, wie Peters <a href=\"http://www.peterkroener.de/indexed-db-die-neue-html5-datenbank-im-browser-teil-2-browsermacken-tools-und-polyfills/\">IndexDB Polyfill</a>, erwähnen das <a href=\"https://github.com/ftlabs/fastclick\">300ms Klick Delay</a> und welche Probleme man damit hat, und verdammen neue Browser, die selbst die einfachsten Viewport Anweisungen nicht ohne Extraeinladungen verstehen."
+    },
+    {
+      "title": "Audio",
+      "time": "01:08:57",
+      "description": "Die Klammer schließt sich. War Video schon ein gebrochenes Ding, geht es mit HTML5 Audio weiter. Stefan erzählt von der Ein-Klick-Regel und erwähnt Soundsprites, und wir geben Hinweise auf Audio-Bibliotheken wie <a href=\"http://goldfirestudios.com/blog/104/howler.js-Modern-Web-Audio-Javascript-Library\">Howler</a>, <a href=\"http://www.schillmania.com/projects/soundmanager2/\">SoundManager2</a> und <a href=\"https://github.com/ddprrt/roadie.js\">Roadie.js</a>"
+    },
+    {
+      "title": "Get Firefox",
+      "time": "01:15:04",
+      "description": "Zu guter Letzt brechen wir noch eine Lanze für <a href=\"http://getfirefox.com\">Firefox</a>, dem mobilen Browser der im Moment wohl alles richtig zu machen scheint."
+    }
+  ],
+  "randomSpec": [
+    {
+      "title": "Das Template Element",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/#the-template-element",
+      "time": "01:16:55",
+      "description": "Schepp erklärt uns das &lt;template&gt;-Element, mit dem wir kleine HTML Schnippsel für die spätere Verwerndung zwischenlagern können."
+    }
+  ],
   "links": [
     {
-      "name": "Canvas Inspection With Dev Tools",
+      "title": "Canvas Inspection With Dev Tools",
       "href": "http://www.html5rocks.com/en/tutorials/canvas/inspection/",
       "time": "01:21:00",
       "description": "Der Titel sagt alles. Das geht jetzt, und ist echt prima."
     },
     {
-      "name": "border:none 2013",
+      "title": "border:none 2013",
       "href": "https://border-none.net/",
       "time": "01:21:00",
       "description": "Apropos Mobile Devices. Die border:none aus dem Hause Thiele bringt zum Open Device Lab Day auch noch eine Minikonferenz mit hochkarätigem Line-Up und starkem Mobileinschlag."
     },
     {
-      "name": "ECMAScript 5",
+      "title": "ECMAScript 5",
       "href": "http://www.opensourcepress.de/de/produkte/ECMAScript-5/10365/978-3-95539-063-1",
       "time": "01:21:00",
       "description": "Peters aktuellstes Schriftstück aus dem Open Source Press Verlag könnt ihr hier finden."
-    }
-  ],
-  "randomSpec": [
-    {
-      "name": "Das Template Element",
-      "href": "http://www.whatwg.org/specs/web-apps/current-work/#the-template-element",
-      "time": "01:16:55",
-      "description": "Schepp erklärt uns das &lt;template&gt;-Element, mit dem wir kleine HTML Schnippsel für die spätere Verwerndung zwischenlagern können."
     }
   ]
 }

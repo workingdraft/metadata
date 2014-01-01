@@ -38,32 +38,32 @@
   "description": "Achja, und das mit dem Normalisieren muss mir noch mal einer erklären. Ich krieg die Peter-Spur nie so laut, dass sie gleich ist wie die anderen.\n\nErste Folge im neuen Jahr, zum ersten Mal <a href=\"http://www.guido-muehlwitz.de/\">zu viert</a>,  aber hoffentlich das letzte Mal mit Mülltonnen-Sound von meiner Seite. Ab nächster Woche laufe ich nämlich mit dem gleichen Headset auf, das z.B. auch von <a href=\"http://tim.geekheim.de\">Tim Pritlove</a>, <a href=\"http://philipbanse.de/wp/\">Philip Banse</a> oder <a href=\"http://alternativlos.org\">Frank &#038; Fefe</a> benutzt wird.",
   "topics": [
     {
-      "name": "Einsteiger-Tutorial zu CoffeeScript",
+      "title": "Einsteiger-Tutorial zu CoffeeScript",
       "href": "http://net.tutsplus.com/tutorials/javascript-ajax/rocking-out-with-coffeescript/",
       "description": "JavaScript mit Ruby-Syntax – kurz: <a href=\"http://jashkenas.github.com/coffee-script/\">CoffeeScript</a> – ausführlich erklärt. Peter erwähnte noch das Buch <a href=\"http://www.amazon.de/Coders-at-Work-Peter-Seibel/dp/1430219483/ref=sr_1_1?ie=UTF8&amp;s=books-intl-de&amp;qid=1294678068&amp;sr=8-1\">Coders at work</a> und seinen <a href=\"http://www.peterkroener.de/coffeescript/\">CoffeeScript-Blogeintrag</a><p></p>\n<dt><a href=\"http://mir.aculo.us/dom-monster/\">DOM-Monster</a><p></p>\n<dd>Eine Art PageSpeed/YSlow mit Fokus auf dem DOM; Nützlichkeits-Level eher so kann-man-mal-machen. Ebenso verhält es sich mit den <a href=\"http://javascriptrocks.com/performance/\">zugehörigen Büchern</a>.<p></p>\n<dt><a href=\"http://html5sec.org/\">HTML5sec.org</a><p></p>\n<dd>Die Website listet alle Stellen, an denen die Ausgabe ungefilterten User-Inputs doppelt vermeidenswert ist.<p></p>\n<dt><a href=\"http://html5labs.interoperabilitybridges.com/\">IE9-Entwicklungsäste mit experimentellen Features</a><p></p>\n<dd>Es gibt einen Build mit IndexedDB- und einen mit Websockets-Unterstützung.<p></p>\n<dt><a href=\"http://drupal.org/drupal-7.0\">Drupal-CMS in Version 7</a><p></p>\n<dd>Module in den Core gehievt und das Backend verschönert; <a href=\"http://www.guido-muehlwitz.de/2010/01/was-ist-neu-in-drupal-7/\">Guidos Artikel</a> und <a href=\"http://technikwuerze.de/\">2h Technikwürze</a> zu dem Thema<p></p>\n<dt><a href=\"http://www.exploringbinary.com/php-hangs-on-numeric-value-2-2250738585072011e-308/\">PHP in eine Endlosschleife schicken …</a><p></p>\n<dd>… wenn die Fließkommazahl 2.2250738585072011e-308 als solche verwendet wird.\n</dd></dt></dd></dt></dd></dt></dd></dt></dd></dt>"
     },
     {
-      "name": "DOM-Monster",
+      "title": "DOM-Monster",
       "href": "http://mir.aculo.us/dom-monster/",
       "description": "Eine Art PageSpeed/YSlow mit Fokus auf dem DOM; Nützlichkeits-Level eher so kann-man-mal-machen. Ebenso verhält es sich mit den <a href=\"http://javascriptrocks.com/performance/\">zugehörigen Büchern</a>.<p></p>\n<dt><a href=\"http://html5sec.org/\">HTML5sec.org</a><p></p>\n<dd>Die Website listet alle Stellen, an denen die Ausgabe ungefilterten User-Inputs doppelt vermeidenswert ist.<p></p>\n<dt><a href=\"http://html5labs.interoperabilitybridges.com/\">IE9-Entwicklungsäste mit experimentellen Features</a><p></p>\n<dd>Es gibt einen Build mit IndexedDB- und einen mit Websockets-Unterstützung.<p></p>\n<dt><a href=\"http://drupal.org/drupal-7.0\">Drupal-CMS in Version 7</a><p></p>\n<dd>Module in den Core gehievt und das Backend verschönert; <a href=\"http://www.guido-muehlwitz.de/2010/01/was-ist-neu-in-drupal-7/\">Guidos Artikel</a> und <a href=\"http://technikwuerze.de/\">2h Technikwürze</a> zu dem Thema<p></p>\n<dt><a href=\"http://www.exploringbinary.com/php-hangs-on-numeric-value-2-2250738585072011e-308/\">PHP in eine Endlosschleife schicken …</a><p></p>\n<dd>… wenn die Fließkommazahl 2.2250738585072011e-308 als solche verwendet wird.\n</dd></dt></dd></dt></dd></dt></dd></dt>"
     },
     {
-      "name": "HTML5sec.org",
+      "title": "HTML5sec.org",
       "href": "http://html5sec.org/",
       "description": "Die Website listet alle Stellen, an denen die Ausgabe ungefilterten User-Inputs doppelt vermeidenswert ist.<p></p>\n<dt><a href=\"http://html5labs.interoperabilitybridges.com/\">IE9-Entwicklungsäste mit experimentellen Features</a><p></p>\n<dd>Es gibt einen Build mit IndexedDB- und einen mit Websockets-Unterstützung.<p></p>\n<dt><a href=\"http://drupal.org/drupal-7.0\">Drupal-CMS in Version 7</a><p></p>\n<dd>Module in den Core gehievt und das Backend verschönert; <a href=\"http://www.guido-muehlwitz.de/2010/01/was-ist-neu-in-drupal-7/\">Guidos Artikel</a> und <a href=\"http://technikwuerze.de/\">2h Technikwürze</a> zu dem Thema<p></p>\n<dt><a href=\"http://www.exploringbinary.com/php-hangs-on-numeric-value-2-2250738585072011e-308/\">PHP in eine Endlosschleife schicken …</a><p></p>\n<dd>… wenn die Fließkommazahl 2.2250738585072011e-308 als solche verwendet wird.\n</dd></dt></dd></dt></dd></dt>"
     },
     {
-      "name": "IE9-Entwicklungsäste mit experimentellen Features",
+      "title": "IE9-Entwicklungsäste mit experimentellen Features",
       "href": "http://html5labs.interoperabilitybridges.com/",
       "description": "Es gibt einen Build mit IndexedDB- und einen mit Websockets-Unterstützung.<p></p>\n<dt><a href=\"http://drupal.org/drupal-7.0\">Drupal-CMS in Version 7</a><p></p>\n<dd>Module in den Core gehievt und das Backend verschönert; <a href=\"http://www.guido-muehlwitz.de/2010/01/was-ist-neu-in-drupal-7/\">Guidos Artikel</a> und <a href=\"http://technikwuerze.de/\">2h Technikwürze</a> zu dem Thema<p></p>\n<dt><a href=\"http://www.exploringbinary.com/php-hangs-on-numeric-value-2-2250738585072011e-308/\">PHP in eine Endlosschleife schicken …</a><p></p>\n<dd>… wenn die Fließkommazahl 2.2250738585072011e-308 als solche verwendet wird.\n</dd></dt></dd></dt>"
     },
     {
-      "name": "Drupal-CMS in Version 7",
+      "title": "Drupal-CMS in Version 7",
       "href": "http://drupal.org/drupal-7.0",
       "description": "Module in den Core gehievt und das Backend verschönert; <a href=\"http://www.guido-muehlwitz.de/2010/01/was-ist-neu-in-drupal-7/\">Guidos Artikel</a> und <a href=\"http://technikwuerze.de/\">2h Technikwürze</a> zu dem Thema<p></p>\n<dt><a href=\"http://www.exploringbinary.com/php-hangs-on-numeric-value-2-2250738585072011e-308/\">PHP in eine Endlosschleife schicken …</a><p></p>\n<dd>… wenn die Fließkommazahl 2.2250738585072011e-308 als solche verwendet wird.\n</dd></dt>"
     },
     {
-      "name": "PHP in eine Endlosschleife schicken …",
+      "title": "PHP in eine Endlosschleife schicken …",
       "href": "http://www.exploringbinary.com/php-hangs-on-numeric-value-2-2250738585072011e-308/",
       "description": "… wenn die Fließkommazahl 2.2250738585072011e-308 als solche verwendet wird."
     }

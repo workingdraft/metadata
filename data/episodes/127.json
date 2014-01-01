@@ -33,49 +33,49 @@
   "description": "Die Rumpfbesatzung aus Schepp und Peter erfreute sich diese Woche am IE11, fuhr das Glücksrad an den Drehzahlbegrenzer und verlost(e) am Ende sogar noch drei Exemplare von <a href=\"http://html5-dvd.de/\">Peters HTML5/CSS3-Videotraining</a>.",
   "topics": [
     {
-      "name": "Kompatibilität im IE11",
+      "title": "Kompatibilität im IE11",
       "time": "00:00:21",
       "description": "Nachdem Schepp für Peter nochmal die <a href=\"http://generatedcontent.org/post/53943518693/ie11preview1\">Features des IE11</a> rezitiert hat, kommen wir zum eigentlichen Thema: der Abwärtskompatibiliät des neuen Internet Explorer. Mehr als je zuvor <a href=\"http://msdn.microsoft.com/en-us/library/ie/bg182625(v=vs.85).aspx#docmode\">sägt Microsoft alte Features wie <code>document.all</code> und <code>attachEvent()</code> ab</a> und baut sogar den UA-String um. Zum einen soll so der IE11 von Browsersniffern nicht mehr versehentlich als einer seiner fossilen Vorfahren identifiziert werden, zum anderen wird der Browser so standardkonformer. Das ganze geht allerdings nach Meinung einiger schon fast zu weit, denn auch einige nützliche IE-Eigenheiten wie <a href=\"https://github.com/Schepp/CSS-Filters-Polyfill#a-word-regarding-ie-10\">Filter</a> und <a href=\"http://blog.getify.com/ie11-please-bring-real-script-preloading-back/\">kontrollierte Scriptausführung</a> sind aus dem Browser geworfen worden. Wir halten das eher für ein Luxusproblem. Schepp ist guter Dinge, dass bald alte IE genau so ein Unding sind wie alte Chrome-Versionen, Peter verweist darauf, <a href=\"http://superuser.com/questions/423061/is-there-a-modern-browser-that-runs-on-windows-3-1\">dass sich alte Software im Business-Bereich oft sehr lange hält.</a>"
     }
   ],
-  "links": [
-    {
-      "name": "Google Glass Browser",
-      "href": "http://www.mobilexweb.com/blog/google-glass-browser-html5-responsive-web-design",
-      "time": "00:39:44",
-      "description": "Nichts nerdiges, nur ein kleiner Trip Report von der Benutzung des Glass-Browsers."
-    },
-    {
-      "name": "Basic JavaScript: an introduction to the language",
-      "href": "http://www.2ality.com/2013/06/basic-javascript.html?spref=tw",
-      "time": "00:39:44",
-      "description": "Der Doktor hat wieder zugeschlagen und liefert eine umfassende JS-Einführung für erfahrene Programmierer ab."
-    },
-    {
-      "name": "Web Platform Doc Sprint Zurich",
-      "href": "https://wpds-zurich.eventbrite.com/",
-      "time": "00:39:44",
-      "description": "In Zürich treffen sich am 28. August Nerds, um Dokumentation für die Web-Plattform zu schreiben. Klingt langeweilig, ist es aber nicht; Zweifler mögen sich unseren Bericht in <a href=\"http://workingdraft.de/107/\">Revision 107</a> anhören."
-    }
-  ],
   "randomSpec": [
     {
-      "name": "Browser-Infrastruktur",
+      "title": "Browser-Infrastruktur",
       "href": "http://www.whatwg.org/specs/web-apps/current-work/#browsing-the-web",
       "time": "00:23:47",
       "description": "Peter lobpreist die Vollständigkeit der HTML5-Specs am Beispiel eine inhaltlich sehr langweiligen Abschnitts über Browser-Infrastruktur."
     },
     {
-      "name": "Media Elements",
+      "title": "Media Elements",
       "href": "http://www.whatwg.org/specs/web-apps/current-work/#media-elements",
       "time": "00:23:47",
       "description": "Schepp berichtet, dass er in der Praxis keine freien Audio- und Videoformate einsetzt, sondern einfach H.264 und MP3 mit einem Flash-Fallback ausliefert. Seine Player-Libraries der Wahl sind <a href=\"http://mediaelementjs.com/\">MediaElement.js</a> und der <a href=\"http://www.longtailvideo.com/\">JWPlayer</a>."
     },
     {
-      "name": "Das Mark-Element",
+      "title": "Das Mark-Element",
       "href": "http://www.whatwg.org/specs/web-apps/current-work/#the-mark-element",
       "time": "00:23:47",
       "description": "Peter quält Schepp mit Fragen zu obskuren HTML5-Elementen wie &lt;mark&gt;, <a href=\"http://www.whatwg.org/specs/web-apps/current-work/#the-s-element\">&lt;s&gt;</a> und <a href=\"http://www.whatwg.org/specs/web-apps/current-work/#the-u-element\">&lt;u&gt;</a>. An sich finden wir Recycling ganz löblich, aber hier sind wir uns nicht so sicher."
+    }
+  ],
+  "links": [
+    {
+      "title": "Google Glass Browser",
+      "href": "http://www.mobilexweb.com/blog/google-glass-browser-html5-responsive-web-design",
+      "time": "00:39:44",
+      "description": "Nichts nerdiges, nur ein kleiner Trip Report von der Benutzung des Glass-Browsers."
+    },
+    {
+      "title": "Basic JavaScript: an introduction to the language",
+      "href": "http://www.2ality.com/2013/06/basic-javascript.html?spref=tw",
+      "time": "00:39:44",
+      "description": "Der Doktor hat wieder zugeschlagen und liefert eine umfassende JS-Einführung für erfahrene Programmierer ab."
+    },
+    {
+      "title": "Web Platform Doc Sprint Zurich",
+      "href": "https://wpds-zurich.eventbrite.com/",
+      "time": "00:39:44",
+      "description": "In Zürich treffen sich am 28. August Nerds, um Dokumentation für die Web-Plattform zu schreiben. Klingt langeweilig, ist es aber nicht; Zweifler mögen sich unseren Bericht in <a href=\"http://workingdraft.de/107/\">Revision 107</a> anhören."
     }
   ]
 }

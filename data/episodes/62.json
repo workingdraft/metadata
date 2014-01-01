@@ -29,61 +29,61 @@
   "description": "Diesmal erhielten Schepp und Peter Unterstützung von Pascal Szewczyk (<a href=\"http://www.peppmedien.de/\">peppmedien.de</a>, <a href=\"https://twitter.com/#!/derPepo\">@derPepo</a>) und kämpften sich live durch die Themen der Woche.",
   "topics": [
     {
-      "name": "Adobe Shadow",
+      "title": "Adobe Shadow",
       "href": "http://labs.adobe.com/technologies/shadow/",
       "time": "00:00:56",
       "description": "Luxuriöses Remote Debugging auf Basis von <a href=\"http://phonegap.github.com/weinre/\">Weinre</a>. Das gefällt besonders den Windows- und Mac-Usern unter uns. Eine Ghetto-Version des Tools (ohne GUI) gibt es unter <a href=\"http://debug.phonegap.com/\">debug.phonegap.com</a>&nbsp;&ndash; noch!"
     },
     {
-      "name": "Hardware-accelerated audio/video decoding in Gecko?",
+      "title": "Hardware-accelerated audio/video decoding in Gecko?",
       "href": "http://groups.google.com/group/mozilla.dev.platform/browse_thread/thread/fb14de8b9ad84e15#",
       "time": "00:12:16",
       "description": "Wird der mobile Firefox demnächst den H.264-Codec des Android-Systems nutzen um Videos abzuspielen? Sollte er? Wenn ja, was passiert dann mit dem Desktop? Kann man überhaupt mehr tun, als wild zu spekulieren? Und ist das Thema nicht langsam durch?"
     },
     {
-      "name": "Web developer relations management in the mobile world",
+      "title": "Web developer relations management in the mobile world",
       "href": "http://www.quirksmode.org/blog/archives/2012/03/web_developer_r.html",
       "time": "00:20:38",
       "description": "PPK jammert, dass er nicht von allen Herstellern kostenlose Mobilgeräte zum Testen bekommt. Wir bekämen zwar auch gern kostenloses Spielzeug nachgeworfen, können uns aber nicht drauf einigen, ob dieser Ansatz wirklich so ohne weiteres skaliert. PPKs Primärziel, Mozillas B2G, ist jedenfalls <a href=\"http://robertnyman.com/2012/03/08/thoughts-on-ppks-take-on-web-developer-relations-management-in-the-mobile-world/\">entschuldigt</a>."
     },
     {
-      "name": "Mit der Gesamtsituation unzufrieden",
+      "title": "Mit der Gesamtsituation unzufrieden",
       "time": "00:35:33",
       "description": "Schepp und Pascal können sich des Eindrucks nicht erwehren, dass Deutschland Internettechnologie-Entwicklungsland sei. Sie berichten von leeren Workshops und stumpfen Veranstaltungen. Peter ist skeptisch. Was sagt ihr?"
     },
     {
-      "name": "Wir senden live!",
+      "title": "Wir senden live!",
       "time": "00:51:10",
       "description": "Die Aufzeichnung von Working Draft wird ab jetzt (hoffentlich) jeden Montag gegen 20:00 Uhr live geschehen. Wo der Stream dann jeweils im einzelnen zu finden sein wird, ist noch nicht ganz klar (eventuell weiterhin <a href=\"http://www.livestream.com/workingdraft\">bei Livestream.com</a>), aber der Chat in <a href=\"http://webchat.freenode.net/?channels=workingdraft\">#workingdraft auf Freenode</a> ist bereits jetzt eine Institution."
     }
   ],
   "links": [
     {
-      "name": "SASS Video Tutorials",
+      "title": "SASS Video Tutorials",
       "href": "http://www.youtube.com/playlist?list=PL2CB1F80266E986EA",
       "time": "00:53:44",
       "description": "Wer einen Einstieg in das Thema SASS braucht, findet ihn hier."
     },
     {
-      "name": "udacity.com",
+      "title": "udacity.com",
       "href": "http://www.udacity.com ",
       "time": "00:53:44",
       "description": "Großkalibrige Informatik-Universitätskurse zum Anschauen im Internet!"
     },
     {
-      "name": "Least",
+      "title": "Least",
       "href": "http://toki-woki.net/p/least/",
       "time": "00:53:44",
       "description": "CSS-nach-LESS/SASS/Stylus-Converter."
     },
     {
-      "name": "Fantomas Icon Font Generator",
+      "title": "Fantomas Icon Font Generator",
       "href": "http://nodeca.github.com/fontomas/",
       "time": "00:53:44",
       "description": "Erzeugt Icon-Fonts auf Knopfdruck."
     },
     {
-      "name": "Cutter.js",
+      "title": "Cutter.js",
       "href": "http://tcorral.github.com/Cutter.js/",
       "time": "00:53:44",
       "description": "JS-Lib, die Text schneidet, ohne die enthaltenen HTML-Tags in Mitleidenschaft zu ziehen."

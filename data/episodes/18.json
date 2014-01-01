@@ -21,59 +21,59 @@
   "description": "Nachdem wir die Sendung letzte Woche aufgrund weniger Themen und AKW-dominierter Nachrichtenlage haben ausfallen lassen, so haben wir uns diesmal den Cem Derin, alias <a href=\"http://twitter.com/unset\">@unset</a>, als Co-Moderator an Bord geholt. Der eine oder andere kennt Cem vielleicht von seinen wöchentlichen Berichten zur Schräglage der Nation in Form des <a href=\"http://shitstorm.cemderin.net/\">Shitstorm Podcasts</a>.",
   "topics": [
     {
-      "name": "Wallaby – Convert Adobe Flash FLA files into HTML and reach more devices",
+      "title": "Wallaby – Convert Adobe Flash FLA files into HTML and reach more devices",
       "href": "http://labs.adobe.com/technologies/wallaby/",
       "description": "Wie der Titel schon impliziert, hat Adobe in seine Labs ein neues Werkzeug gestellt, mit sich FLA-Kompositionen in HTML5 und Co umwandeln lassen. Das läuft aber offenbar noch nicht ganz so rund, so dass es durchaus richtig ist, es in den Adobe Labs zu belassen. Dennoch begrüßen wir den Ansatz. Und wir erinnern uns an Tools wie <a href=\"https://github.com/tobeytailor/gordon\">Gordon</a> (<a href=\"http://paulirish.com/work/gordon/demos/\">Demos</a>) und <a href=\"http://smokescreen.us/\">Smokescreen</a>."
     },
     {
-      "name": "Scoped Styles in HTML5",
+      "title": "Scoped Styles in HTML5",
       "href": "http://www.impressivewebs.com/scoped-styles-html5/",
       "description": "Bei den Scoped Styles geht es darum, eine Möglichkeit zu haben, Subsektionen im HTML-Dokument mit einem anderen Stylesheet zu stylen als den großen Rest. Nützlich in Webmail-Clients zur Darstellung von E-Mails, für fremdeingebettete Inhalte und für WYSIWYG-Editoren. Derzeit nirgends nativ implementiert, bei Mozilla und Webkit aber am fernen Horizont zu sehen, und jetzt schon in Form eines <a href=\"http://thingsinjars.com/post/360/scoped-style/\">jQuery-Plugins</a> nutzbar."
     },
     {
-      "name": "A function for detecting if the browser is in a given media mode",
+      "title": "A function for detecting if the browser is in a given media mode",
       "href": "https://gist.github.com/08602e7d2ee448be834c",
       "description": "Kleine nützliche Funktion von Nicholas Zakas, mit der in JavaScript man prüfen kann, welche CSS3 Media Queries gerade zutreffen. Also etwa so: <code>if(isMedia(\"screen and (orientation:portrait)\"){machwas();}</code>"
     },
     {
-      "name": "weinre – Web Inspector Remote",
+      "title": "weinre – Web Inspector Remote",
       "href": "http://pmuellr.github.com/weinre/",
       "description": "<blockquote><p>It&#8217;s a debugger for web pages, like FireBug (for FireFox) and Web Inspector (for WebKit-based browsers), except it&#8217;s designed to work remotely, and in particular, to allow you debug web pages on a mobile device such as a phone.</p></blockquote>\n<p>Das sagt im Prinzip schon alles. Man startet lokal einen Java-Server, bindet ein JavaScript in die auf dem Mobilgerät zu debuggende Seite ein und startet dann auf seinem Desktop den Ferndebugger, der alles kann, was der klassische Webkit Web Inspektor kann &#8211; nur dass das Anschauungsobjekt eben im Mobilgerät liegt.</p>"
     },
     {
-      "name": "Internet Explorer 9 Network Performance Improvements",
+      "title": "Internet Explorer 9 Network Performance Improvements",
       "href": "http://blogs.msdn.com/b/ie/archive/2011/03/17/internet-explorer-9-network-performance-improvements.aspx",
       "description": "Das Blogpost von Microsoft finden wir deswegen interessant, weil wir dort ein paar schöne Statistiken zum Verhältnis Wartezeit und Ausführungszeit beim Laden von Seiten an die Hand bekommen. Und es bekräftigt, dass die Optimierungskette sehr lang ist, bis man an den Punkt kommt, an dem man seine CSS-Selektoren oder JavaScripte bis ins letzte optimieren muss."
     },
     {
-      "name": "Apple handcuffs ‘open’ web apps on iPhone home screen",
+      "title": "Apple handcuffs ‘open’ web apps on iPhone home screen",
       "href": "http://www.theregister.co.uk/2011/03/15/apple_ios_throttles_web_apps_on_home_screen/",
       "description": "Wir reden darüber, <a href=\"http://daringfireball.net/2011/03/nitro_ios_43\">warum</a> Apple seine JavaScript Engine <i>Nitro</i> nur im Safari aktiviert und <a href=\"http://www.mobilexweb.com/blog/apple-phonegap-html5-nitro\">nicht</a> in den Home Screen Webapps und in den Safari-nutzenden nativen Apps."
     },
     {
-      "name": "WideImage und Imagine",
+      "title": "WideImage und Imagine",
       "href": "http://wideimage.sourceforge.net/",
       "description": "Wir stellen zwei sehr praktische Bildmanipulationsframeworks für PHP vor, die vom Resizen über Beschneiden, Rotieren, Spiegeln, Entfärben bis hin zum Maskieren alles bieten, was das von der GDLib gepeinigte Herz begehrt."
     },
     {
-      "name": "Twitters veränderte API-Richtlinien",
+      "title": "Twitters veränderte API-Richtlinien",
       "href": "http://www.golem.de/1103/82061.html",
       "description": "Wir reden darüber, was die Beweggründe für Twitters pünktlich zum 5. Geburtstag ausgegebenen strammen neuen API-Richtlinien sein können. Und wir überlegen, ob wir das gut oder schlecht finden."
     }
   ],
   "links": [
     {
-      "name": "When is a stylesheet really loaded?",
+      "title": "When is a stylesheet really loaded?",
       "href": "http://www.phpied.com/when-is-a-stylesheet-really-loaded/",
       "description": "Wie man herausfinden kann, wann ein Stylesheet fertiggeladen wurde."
     },
     {
-      "name": "iScroll 4",
+      "title": "iScroll 4",
       "href": "http://cubiq.org/iscroll-4",
       "description": "Kleines JavaScript, mit dem man <code>&lt;div&gt;</code>s mit <code>overflow: scroll</code> in mobilen Webkits mit einem Finger scrollbar machen kann."
     },
     {
-      "name": "NowJS",
+      "title": "NowJS",
       "href": "http://nowjs.com",
       "description": "Framework, mit dessen Hilfe Datensätze gleichzeitig von einem Node.js-Server und clientseitig von JavaScript bearbeitbar werden."
     }

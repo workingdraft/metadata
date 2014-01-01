@@ -38,55 +38,55 @@
   "description": "Hans und Stefan luden sich zu dieser Revision <a href=\"http://praegnanz.de\">Gerrit von Aaken</a> ein, deutsches Podcast-Urgestein und Meister der Webtypografie.",
   "topics": [
     {
-      "name": "Die Toolchain-Welt aus Designersicht",
+      "title": "Die Toolchain-Welt aus Designersicht",
       "time": "00:02:44",
       "description": "Grunt, Yeoman, Jekyll, Travis und co. in allen Ehren, oft braucht man Tooling an Ort und Stelle. Gerrit erzählt uns von seinem Einstieg ins Tooling mit <a href=\"http://incident57.com/codekit/\">Codekit</a> und wir philosophieren etwas über die Toolchain-Welten, in denen wir uns bewegen."
     },
     {
-      "name": "Wissenswertes zum Thema WebFonts",
+      "title": "Wissenswertes zum Thema WebFonts",
       "href": "http://www.webtypobuch.de",
       "time": "00:18:52",
       "description": "In Anlehnung an die Hörerfrage aus einer früheren <a href=\"/142/\">Revision</a> graben wir das Thema Webfonts und vor allem Webfont Hosting-Services aus. Gerrit erzählt von den unumstrittenen Vorteilen, die ein Fremdhosting bieten kann."
     },
     {
-      "name": "Offline First vs. Progressive Enhancement. Unvereinbar?",
+      "title": "Offline First vs. Progressive Enhancement. Unvereinbar?",
       "time": "00:38:22",
       "description": "Offline First! Zuvor bei <a href=\"/145\">Workingdraft</a>, dann bei <a href=\"http://alistapart.com/article/offline-first\">A List Apart</a>. Doch beisst sich der Gedanke nicht mit den Grundlagen des Progressive Enhancements? Und was gilt jetzt eigentlich wirklich? Mobile First? Desktop First? Offline First? Coffee First? Wir nehmen den unumstrittenen Paradigmen ein wenig Wind aus den Segeln."
     }
   ],
   "links": [
     {
-      "name": "Share Grunt Configuration",
+      "title": "Share Grunt Configuration",
       "href": "http://thenittygritty.co/shared-grunt-configuration",
       "time": "00:51:00",
       "description": "Hans beschreibt, wie man seine Grunt tasks super versionierbar macht."
     },
     {
-      "name": "Phantomas",
+      "title": "Phantomas",
       "href": "http://calendar.perfplanet.com/2013/phantomas/",
       "time": "00:51:00",
       "description": "Webperformance Metriken via PhantomJS unter Node."
     },
     {
-      "name": "How the browser preloader makes pages load faster",
+      "title": "How the browser preloader makes pages load faster",
       "href": "http://andydavies.me/blog/2013/10/22/how-the-browser-pre-loader-makes-pages-load-faster/",
       "time": "00:51:00",
       "description": "Bei der Vielzahl an unterschiedlichen prefetch Methoden der Browser verwirrt? Dieser Artikel gibt Aufschluss."
     },
     {
-      "name": "Android Chrome Dev Tools",
+      "title": "Android Chrome Dev Tools",
       "href": "http://www.html5rocks.com/en/tutorials/developertools/mobile/",
       "time": "00:51:00",
       "description": "Chrome am Desktop und Chrome auf Android. Ein Gespann wie es im Buche steht. Welche neuen Möglichkeiten es gibt, Chrome auf Android auf eurem Desktop zu debuggen, findet ihr hier.."
     },
     {
-      "name": "Have I been PWNED?",
+      "title": "Have I been PWNED?",
       "href": "http://haveibeenpwned.com/",
       "time": "00:51:00",
       "description": "Sind eure Mailadressen in den großen Sicherheitslückenoffenbarungen der letzten Monate dabei gewesen? Hier könnt ihr es ausprobieren."
     },
     {
-      "name": "Front-end development quiz",
+      "title": "Front-end development quiz",
       "href": "http://davidshariff.com/quiz/",
       "time": "00:51:00",
       "description": "Bei einer durchschnittlichen Antwortgenauigkeit von 53% ist eins sicher: Knackig und nichts für Anfänger"

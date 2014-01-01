@@ -29,25 +29,25 @@
   "title": "Peter hat ein MacBook Air!",
   "topics": [
     {
-      "name": "Safari 5.1",
+      "title": "Safari 5.1",
       "href": "http://www.apple.com/de/safari/whats-new.html",
       "time": "00:00:43:000",
       "description": "Auto-Hyphens, seltsames Scrollen, WebKit2, Fullscreen und ordentliche Gradients."
     },
     {
-      "name": "Uberspace.de",
+      "title": "Uberspace.de",
       "href": "https://uberspace.de/",
       "time": "00:22:23:000",
       "description": "„Uberspace.de ist deine Plattform für den Betrieb von Websites und Mail. Sie bietet ungewöhnlich viele Möglichkeiten, engagierte Unterstützung durch erfahrene Linux-Admins – und das Beste: den Preis bestimmst du!“"
     },
     {
-      "name": "MDN Search",
+      "title": "MDN Search",
       "href": "https://chrome.google.com/webstore/detail/dcigbgdcdfockaomfcmpobjjnnbfpiin",
       "time": "00:35:14:000",
       "description": "Chrome-Plugin, das dabei hilft, schnell und easy die Mozilla-JavaScript-Dokus zu durchsuchen. Das braucht man, denn Google ist dazu äußerst ungeeignet, was man aber auch <a href=\"http://promotejs.com/\">versuchen sollte zu ändern</a>."
     },
     {
-      "name": "EU-Cookie-FAQ",
+      "title": "EU-Cookie-FAQ",
       "href": "http://networkedblogs.com/ki8cb",
       "time": "00:46:24:000",
       "description": "Das Telemediengesetz wird oder wurde entsprechend der EU-Richtlinien erneuert. Neues Futter für windige Anwälte: Eine Website darf keine Daten mehr auf dem Client speichern, wenn dem der Nutzer nicht ausdrücklich zugestimmt hat. Yeah!"
@@ -55,11 +55,11 @@
   ],
   "links": [
     {
-      "name": "responsivepx.com",
+      "title": "responsivepx.com",
       "href": "http://responsivepx.com/"
     },
     {
-      "name": "Noch mehr Polyfills",
+      "title": "Noch mehr Polyfills",
       "href": "https://github.com/remy/polyfills"
     }
   ]

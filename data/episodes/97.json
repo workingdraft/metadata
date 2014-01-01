@@ -47,13 +47,13 @@
   "description": "Hans, Christian und Rodney tummelten sich Anfang der Woche &#8211; mit einer ganzen Menge anderer Webnasen &#8211; auf dem Klassentreffen der deutschen Webentwicklerszene. Zusammen mit den Jungs von der <a href=\"http://technikwuerze.de/\">Technikwürze</a> konnten wir dort Bruce Lawson von Opera für ein gemeinsames Interview gewinnen.",
   "topics": [
     {
-      "name": "beyond tellerrand 2012",
+      "title": "beyond tellerrand 2012",
       "href": "http://2012.beyondtellerrand.com/",
       "time": "00:00:00",
       "description": "Christian und Rodney erzählen ein bisschen was von der Konferenz &#8211; maßgeblich von den Vorträgen."
     },
     {
-      "name": "Interview mit Bruce Lawson",
+      "title": "Interview mit Bruce Lawson",
       "href": "http://www.brucelawson.co.uk/",
       "time": "00:17:30",
       "description": "Bruce arbeitet für <a href=\"http://www.opera.com/\">Opera</a> &#8211; evangelisiert aber mehr für Web Standards als für seinen Lieblingsbrowser. (Machen die anderen Browser-bezahlten Evangelisten aber eigentlich auch…). Bruce ist ausserdem ein <a href=\"http://www.html5doctor.com/\">HTML5-Doktor</a>. Während Bruce für diese Arbeiten von Opera bezahlt wird, machen Idealisten wie <a href=\"http://www.iandevlin.com/\">Ian Devlin</a> das in ihrer Freizeit. Ab und zu kommen da übrigens auch komische Anfragen rein, und die landen dann bei <a href=\"http://html5nurse.tumblr.com/\">HTML5 Nurse</a>."

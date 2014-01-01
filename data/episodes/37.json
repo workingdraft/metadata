@@ -39,37 +39,37 @@
   "description": "Peter war wieder auf Achse und so haben wir uns diesmal <a href=\"http://twitter.com/mademyday\">Marc Hinse</a> und <a href=\"http://twitter.com/kahlillechelt\">Khalil Lechelt</a> als Fachleute dazugeholt.",
   "topics": [
     {
-      "name": "speak.js – Text-To-Speech on the Web",
+      "title": "speak.js – Text-To-Speech on the Web",
       "href": "http://syntensity.com/static/espeak.html",
       "time": "00:02:06",
       "description": "Wieder einmal wurde dank <a href=\"emscripten.org\">Emscripten</a> etwas nach JavaScript portiert. Und diesmal ist es was sehr Praktisches: ein Text-zu-Audio-Synthesizer. Damit lassen sich endlich Vorlese-Dienste quelloffen umsetzen, wie sie bislang nur das kommerzielle <a href=\"http://www.readspeaker.com/de\">ReadSpeaker</a> zum Beispiel in <a href=\"http://www.heise.de/newsticker/meldung/Steve-Jobs-tritt-zurueck-1330614.html\">heise Newsticker Meldungen</a> möglich gemacht hat (oben links: &#8220;vorlesen&#8221;)."
     },
     {
-      "name": "tween.js",
+      "title": "tween.js",
       "href": "https://github.com/sole/tween.js",
       "time": "00:10:53",
       "description": "<a href=\"http://learningthreejs.com/blog/2011/08/17/tweenjs-for-smooth-animation/\">tween.js</a> ist ein generisches Werkzeug zur Erzeugung von zeitgesteuerten Übergangskurven. Diese Werte lassen sich dann zur Animation beliebiger Dinge nutzen."
     },
     {
-      "name": "Cross-browser contextmenu support with a polyfill",
+      "title": "Cross-browser contextmenu support with a polyfill",
       "href": "https://plus.google.com/115133653231679625609/posts/CJMyExJTbug",
       "time": "00:17:56",
       "description": "Firefox 8 unterstützt erstmalig HTML5 Contextmenüs. <a href=\"http://twitter.com/addyosmani\">Addy Osmani</a> zeigt, wie das geht und verweist auf ein Polyfill von <a href=\"http://twitter.com/rodneyrehm\">Rodney Rehm</a>."
     },
     {
-      "name": "Native Client – Googles Vision vom nativen Web",
+      "title": "Native Client – Googles Vision vom nativen Web",
       "href": "http://www.golem.de/1108/85854.html",
       "time": "00:34:02",
       "description": "Google stellte schon 2008 seine Idee des nativen Clients vor. Mit Chrome 14 ist die Plattform nun einigermaßen vorzeigbar und erste Chrome Apps <a href=\"http://www.naclbox.com/\">nutzen das schon</a>. Was ist davon zu halten?"
     },
     {
-      "name": "pjscrape",
+      "title": "pjscrape",
       "href": "http://nrabinowitz.github.com/pjscrape/",
       "time": "00:55:26",
       "description": "Ein Contentscraper, der auch dann funktioniert, wenn der Inhalt der Zielseite per JavaScript erzeugt wird. Möglich macht das der darunterliegende Headless-WebKit namens <a href=\"http://phantomjs.org/\">PhantomJS</a>"
     },
     {
-      "name": "backbone.js und andere MVC/MVVM-JavaScript-Frameworks",
+      "title": "backbone.js und andere MVC/MVVM-JavaScript-Frameworks",
       "href": "http://documentcloud.github.com/backbone/",
       "time": "01:02:08",
       "description": "Kahlil erzählt uns ein wenig was über backbone.js und <a href=\"http://documentcloud.github.com/underscore/\">underscore.js</a>. Wir reden aber auch über <a href=\"http://knockoutjs.com/\">Knockout.js</a> und über die Designphilosophie all dieser recht frischen MVC bzw. MVVM Frameworks. Dazu lesenswert: Der Artikel <a href=\"http://molily.de/weblog/javascript-standards\">Standardkonforme und zukunftsfähige JavaScript-Bibliotheken</a> von Mathias Schäfer."
@@ -77,43 +77,43 @@
   ],
   "links": [
     {
-      "name": "How Browsers Work: Behind the Scenes of Modern Web Browsers",
+      "title": "How Browsers Work: Behind the Scenes of Modern Web Browsers",
       "href": "http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/",
       "time": "01:31:41",
       "description": "Dieses Dokument beschreibt den gesamten Ablauf, den Browser beim Darstellen einer Seite .durchlaufen müssen."
     },
     {
-      "name": "Verbesserungen am Netzwerkstack von Firefox 6",
+      "title": "Verbesserungen am Netzwerkstack von Firefox 6",
       "href": "https://plus.google.com/100166083286297802191/posts/hFZ6UWExvfA",
       "time": "01:31:41",
       "description": "Interessanter Beitrag des zuständigen Firefox-Architekten, was in Version 6 alles an cleveren Verbesserungen in den Netzwerkstack geflossen ist."
     },
     {
-      "name": "Browserling",
+      "title": "Browserling",
       "href": "http://browserling.com/",
       "time": "01:31:41",
       "description": "Mit Browserling kann man Seiten in den wichtigsten älteren Browsern testen. Das coole dabei ist, dass das Ergebnis in Echtzeit in ein HTML5 Canvas Element gezeichnet wird."
     },
     {
-      "name": "Spin.js",
+      "title": "Spin.js",
       "href": "http://fgnass.github.com/spin.js/",
       "time": "01:31:41",
       "description": "Ein reiner Markup-Loading-Spinner."
     },
     {
-      "name": "Firefox Scratchpad",
+      "title": "Firefox Scratchpad",
       "href": "http://blog.mozilla.com/devtools/2011/08/15/introducing-scratchpad/",
       "time": "01:31:41",
       "description": "Firefox kommt nun mit einer Art integriertem <a href=\"http://jsfiddle.net/\">jsfiddle</a> zum Code-Testen daher. Praktisch!"
     },
     {
-      "name": "Rasta.js",
+      "title": "Rasta.js",
       "href": "http://rastajs.errorjs.com/",
       "time": "01:31:41",
       "description": "Ein simpler kleiner Cross-Domain-Key-Value-Store."
     },
     {
-      "name": "Usability in Icons",
+      "title": "Usability in Icons",
       "href": "http://stiern.com/articles/usability/usability-in-icons/",
       "time": "01:31:41",
       "description": "Dieser Artikel beschäftigt sich mit der Tatsache, dass die wenigsten Icon-Symboliken von den Benutzern verstanden werden."

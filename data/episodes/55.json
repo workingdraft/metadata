@@ -26,49 +26,49 @@
   "description": "Diese Woche widmen sich <a href=\"http://twitter.com/#!/kahlillechelt\">Kahlil</a> und <a href=\"http://twitter.com/#!/derSchepp\">Schepp</a> einer Menge kleinerer Webfundstücke und Tools. Als da wären:",
   "topics": [
     {
-      "name": "JavaScript Pattern Collection",
+      "title": "JavaScript Pattern Collection",
       "href": "http://shichuan.github.com/javascript-patterns/",
       "time": "00:00:40",
       "description": "Inspiriert und zusammengesammelt von vielen Quellen findet man hier Best-Practice-Code zur Lösung verschiedenster Aufgabenstellungen."
     },
     {
-      "name": "What You May Not Know About jQuery",
+      "title": "What You May Not Know About jQuery",
       "href": "http://www.kendoui.com/blogs/teamblog/posts/12-01-06/what_you_may_not_know_about_jquery.aspx?utm_source=javascriptweekly&utm_medium=email",
       "time": "00:03:50",
       "description": "Im Blog des jQuery Frameworks Kendo UI werden selten beachtete, aber nicht minder praktische jQuery Methoden beleuchtet."
     },
     {
-      "name": "Sublime Text 2",
+      "title": "Sublime Text 2",
       "href": "http://www.sublimetext.com/2",
       "time": "00:11:40",
       "description": "Der leichtgewichtige und featurestarke Editor Sublime Text geht bald in die zweite Runde. Aktuell wird an der Beta gewerkelt und es gibt ihn für alle Desktop-Plattformen."
     },
     {
-      "name": "CSSDeck",
+      "title": "CSSDeck",
       "href": "http://cssdeck.com/",
       "time": "00:15:41",
       "description": "CSSDeck klaut zwar das Design von <a href=\"http://dribbble.com/\">Dribbble</a>, will aber kein Showcase für Design- sondern für CSS-Fähigkeiten sein. Zum direkt online Loscoden bietet es eine Art <a href=\"http://jsfiddle.net/\">JSFiddle</a>/<a href=\"http://dabblet.com/\">Dabblet</a> Interface, zu finden unter &#8220;<a href=\"http://cssdeck.com/t\">Play</a>&#8220;."
     },
     {
-      "name": "Smashing Magazine Redesign",
+      "title": "Smashing Magazine Redesign",
       "href": "http://www.smashingmagazine.com/",
       "time": "00:20:41",
       "description": "Das Smashing Magazine hat letzte Woche auf ein massivst responsives Layout umgestellt. Wir bequatschen, wo die Operation geglückt und wo eher missglückt ist."
     },
     {
-      "name": "Making Love to WebKit",
+      "title": "Making Love to WebKit",
       "href": "http://acko.net/blog/making-love-to-webkit/",
       "time": "00:35:37",
       "description": "Der Designer Steven Wittens hat seine Seite relaunched und sie komplett in 3D gebaut. Die Perspektive ist gekoppelt an die Scrollposition und verschiebt sich nach 2D, sobald man die Seite ein wenig herunterscrollt."
     },
     {
-      "name": "Live Reload",
+      "title": "Live Reload",
       "href": "http://livereload.com/",
       "time": "00:41:58",
       "description": "Live Reload ist ein Tool für Mac, das nur in einer instabilen Alpha für Windows vorliegt, und welches SASS/LESS/Stylus Dateien automatisch kompiliert und die resultierenden Styles live im gerade offenen Browser austauscht. Fast ähnlich läuft es mit JavaScript."
     },
     {
-      "name": "Neues in WebKit",
+      "title": "Neues in WebKit",
       "href": "http://peter.sh/2012/01/font-css-properties-selector-source-location-and-calc-tests/",
       "time": "00:46:08",
       "description": "<ul>\n<li>Es wird daran gearbeitet, dass WebKit bald mit <a href=\"http://www.w3.org/TR/css3-values/#calc\">CSS calc(), min() and max()</a> umgehen kann.</li>\n<li>Auch in WebKit halten die ersten <a href=\"http://ie.microsoft.com/testdrive/Graphics/opentype/opentype-fontbureau/index.html\">OpenType Features</a> Einzug, nämlich Kerning und Ligaturen.</li>\n<li>In Chromes JavaScript Engine V8 lassen sich erste <a href=\"http://erik.eae.net/archives/2011/12/29/00.00.29/\">ES.Next / JavaScript Harmony Features aktivieren und ausprobieren</a></li>\n</ul>"
@@ -76,19 +76,19 @@
   ],
   "links": [
     {
-      "name": "The Top 10 Javascript MVC Frameworks Reviewed",
+      "title": "The Top 10 Javascript MVC Frameworks Reviewed",
       "href": "http://codebrief.com/2012/01/the-top-10-javascript-mvc-frameworks-reviewed/",
       "time": "00:55:38",
       "description": "Gegenüberstellung verschiedener JavaScript MVC Frameworks."
     },
     {
-      "name": "PxLoader",
+      "title": "PxLoader",
       "href": "http://thinkpixellab.com/pxloader/",
       "time": "00:55:38",
       "description": "JavaScript Bibliothek zum Vorladen von Ressourcen."
     },
     {
-      "name": "jQ.Mobi",
+      "title": "jQ.Mobi",
       "href": "http://www.jqmobi.com/",
       "time": "00:55:38",
       "description": "Ein neues mobile Web Framework à la jQuery Mobile und Sencha Touch."

@@ -36,36 +36,36 @@
   "title": "Zweiundvierzig!",
   "topics": [
     {
-      "name": "You may soon be developing for 76 browsers.",
+      "title": "You may soon be developing for 76 browsers.",
       "href": "http://paulirish.com/2011/browser-market-pollution-iex-is-the-new-ie6/",
       "time": "00:00:44:000",
       "description": "Paul Irish sagt eine Zukunft voraus, in der wir für 72 Internet Explorer entwickeln werden. Das liegt dann angeblich an der 10-Jahre-Support-Regelung von Microsoft."
     },
     {
-      "name": "Web technologies need an owner",
+      "title": "Web technologies need an owner",
       "href": "http://joehewitt.com/2011/09/22/web-technologies-need-an-owner",
       "time": "00:19:39:000",
       "description": "Joe Hewitt (Firebug-Entwickler und einst bei Facebook) meint, dass das Web doomed ist und wir einen Diktator brauchen."
     },
     {
-      "name": "SMACSS – A Scalable and Modular Architecture for CSS",
+      "title": "SMACSS – A Scalable and Modular Architecture for CSS",
       "href": "http://smacss.com/book/",
       "time": "00:39:50:000",
       "description": "Regeln für ordentliches CSS."
     },
     {
-      "name": "CSS shaders",
+      "title": "CSS shaders",
       "href": "https://dvcs.w3.org/hg/FXTF/raw-file/tip/custom/index.html",
       "time": "00:54:42:000",
       "description": "Selbstprogrammierte Shader-Effekte auf normale HTML-Elemente anwenden."
     },
     {
-      "name": "Ein Award",
+      "title": "Ein Award",
       "time": "01:04:50:000",
       "description": "Und wir sagen nicht, worum es geht."
     },
     {
-      "name": "Multimediatreff in Köln",
+      "title": "Multimediatreff in Köln",
       "href": "http://www.multimediatreff.de/naechstestreffen.php",
       "time": "01:09:05:000",
       "description": "Hinfahren!"
@@ -73,23 +73,23 @@
   ],
   "links": [
     {
-      "name": "Stripe.com",
+      "title": "Stripe.com",
       "href": "https://stripe.com/"
     },
     {
-      "name": "Peerbind",
+      "title": "Peerbind",
       "href": "http://peerbind.com/"
     },
     {
-      "name": "git-dude",
+      "title": "git-dude",
       "href": "https://github.com/sickill/git-dude"
     },
     {
-      "name": "cdnplanet.com",
+      "title": "cdnplanet.com",
       "href": "http://www.cdnplanet.com/"
     },
     {
-      "name": "Streetview mit jQuery",
+      "title": "Streetview mit jQuery",
       "href": "http://www.netmagazine.com/tutorials/create-interactive-street-view-jquery"
     }
   ]

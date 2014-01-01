@@ -26,25 +26,25 @@
   "description": "Während Schepp sich von der Release-Party seines Forks erholte und Markus am Ereignishorizont eines schwarzen Internet-Lochs festhing, trümmerten Peter und <a href=\"http://rodneyrehm.de/en/\">Rodney Rehm</a> zu zweit die fällige Revision ein.",
   "topics": [
     {
-      "name": "Working Draft bei Google Plus",
+      "title": "Working Draft bei Google Plus",
       "href": "https://plus.google.com/100063817839650840647",
       "time": "00:00:34",
       "description": "Seid dabei und kreist uns ein!"
     },
     {
-      "name": "Firefox 8",
+      "title": "Firefox 8",
       "href": "https://developer.mozilla.org/en/Firefox_8_for_developers",
       "time": "00:01:10",
       "description": "Firefox 8 bietet neben verbesserter Performance und einer Reihe von Bugfixes ein Update für Web Sockets, eine erste Implementierung von FileReaderSync, sowie die Möglichkeit HTML5-Kontextmenus zu definieren. Letzteres ist aber so dermaßen defekt, dass man lieber zu <a href=\"http://medialize.github.com/jQuery-contextMenu/demo/html5-polyfill-firefox8.html\">Rodneys jQuery-Polyfill</a> greift. Außerdem will man die eh nicht verwenden, weil die nur verwirren. Anlässlich der Performance-Frage schweifen wir in Richtung Externe-Scripts-sind-die-Pest-Rants ab (Werbung ist am schlimmsten) und kommen zum Schluss: <a href=\"http://www.heise.de/newsticker/meldung/Facebook-Co-2-Klicks-fuer-mehr-Datenschutz-1335091.html\">die 2-Klick-Methode von Heise</a> sollte man jenseits aller Facebook-Paranoia allein schon aus Performance-Gründen verwenden."
     },
     {
-      "name": "Firefox Aurora 10",
+      "title": "Firefox Aurora 10",
       "href": "http://hacks.mozilla.org/2011/11/announcing-firefox-aurora-10/",
       "time": "00:25:10",
       "description": "Firefox Aurora 10 ist raus und hat 3D-Transforms, Load- und Error-Events auf Stylesheets, die Battery API, die Fullscreen API und vieles mehr an Bord."
     },
     {
-      "name": "jQuery soll wieder schlanker werden",
+      "title": "jQuery soll wieder schlanker werden",
       "href": "http://blog.jquery.com/2011/11/08/building-a-slimmer-jquery/",
       "time": "00:29:06",
       "description": "jQuery findet sich zu dick und will abnehmen. Ist das wirklich nötig? Warum nicht gleich Microframeworks verwenden, z.B. mit <a href=\"http://ender.no.de/\">Ender</a>? Letztlich wohl eine Frage der persönlichen Präferenz. Außerdem: Sollte man Code lieber undokumentiert oder gar nicht veröffentlichen?"
@@ -52,13 +52,13 @@
   ],
   "links": [
     {
-      "name": "Shapecatcher",
+      "title": "Shapecatcher",
       "href": "http://shapecatcher.com/",
       "time": "00:51:00",
       "description": "Shapecatcher ist ein Unicode-Zeichen-Finder nach dem Malen-nach-Zahlen-Prinzip."
     },
     {
-      "name": "Mag.js sucht Autoren",
+      "title": "Mag.js sucht Autoren",
       "href": "https://twitter.com/#!/rauschma/status/134710592257802241",
       "time": "00:51:00",
       "description": "Das JavaScript-Magazin <a href=\"http://www.magjs.de/\">Mag.js</a> sucht Autoren. Ruhm und Ehre sind eimerweise in Aussicht."

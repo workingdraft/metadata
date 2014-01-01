@@ -36,70 +36,70 @@
   "audio": "http://workingdraft.de/podpress_trac/web/1900/0/wd-116.mp3",
   "title": "Konferenzen, Motion Design, IDs versus Classes",
   "description": "Volles Haus bei Working Draft! Neben Schepp und Peter gaben sich heute <a href=\"http://twitter.com/maddesigns\">Sven Wolfermann</a>, <a href=\"http://twitter.com/czillgens\">Christoph Zillgens</a>, <a href=\"http://twitter.com/g16n\">Gunnar Bittersmann</a> und <a href=\"http://twitter.com/ddprrt\">Stefan Baumgartner</a> die Ehre um zu berichten, zu ranten und zu streiten.",
-  "topics": [
-    {
-      "name": "Breaking Development Orlando",
-      "href": "http://bdconf.com/2013/orlando",
-      "time": "00:03:02",
-      "description": "Stefan liefert einen Tipreport von einer tollen Konferenz an einer originellen Location. Videos der Talks sind noch nicht hochgeladen, aber wenn das soweit ist, sind die Performances von <a href=\"http://bdconf.com/2013/orlando/schedule#triblondon\">Andrew Betts</a> (Offline-Apps), <a href=\"http://bdconf.com/2013/orlando/schedule#wilto\">Mat Marquis</a> (Responsive Assets) und <a href=\"http://bdconf.com/2013/orlando/schedule#cameronmoll\">Cameron Moll</a> (Cross-Alles-UX) besonders sehenswert. Außerdem reden wir über Konferenz-Kultur sowie <a href=\"http://blog.cloudfour.com/media-queries-in-svg-images/\">Media Queries in SVG</a> und verweisen auf <a href=\"http://www.lukew.com/ff/\">die Konferenz-Notizen von Luke Wroblewski</a> sowie <a href=\"http://eventifier.co/event/bdconf2013/\">die hier gesammelten Fotos und Folien</a>."
-    },
-    {
-      "name": "Transitional Interfaces",
-      "href": "https://medium.com/design-ux/926eb80d64e3",
-      "time": "00:20:51",
-      "description": "Medium.com argumentiert pro animierte UI-Elemente und wir gehen d‘accord. Besonders Schepp fordert vehement, dass wir <a href=\"http://de.wikipedia.org/wiki/Motion-Design\">Motion Design</a> bzw. Motion Designer besser in Web-Projekte integrieren. Als mögliche Hindernisse machen wir wie üblich die Troika aus Kunden ohne Zeitbudget für sowas, in Photoshop festhängenden Designern mit statischem Weltbild und es übertreibenden Flashern aus."
-    },
-    {
-      "name": "IDs versus Classes",
-      "time": "00:33:07",
-      "description": "Vor einigen Wochen poppte die Diskussion bei Twitter auf: IDs sind doof, man sollte nur Klassen verwenden. Peter trollt ohne großartigen Erfolg gegen den Konsens an, der allerlei Argumente für seine Position auffährt. Wir reden außerdem über <a href=\"http://smacss.com/\">SMACSS</a>, <a href=\"http://www.stuffandnonsense.co.uk/archives/css_specificity_wars.html\">Selektorspezifität</a>, Attributselektoren, Semantik, Hunde, <a href=\"http://csswizardry.com/2012/11/code-smells-in-css/\">CSS Code Smells</a> und sogar <a href=\"http://schema.org/\">Mikroformate</a>."
-    }
-  ],
   "news": [
     {
-      "name": "Persona einsatzbereit",
+      "title": "Persona einsatzbereit",
       "href": "http://www.golem.de/news/persona-mozillas-passwortkiller-1304-98624.html",
       "time": "00:02:15",
       "description": "„Mozillas Passwortkiller“ (wie Golem.de es nennt) hat Beta 2 erreicht und kann dank Identity Bridging nun auch tatsächlich benutzt werden. <a href=\"https://developer.mozilla.org/en-US/docs/Persona/Quick_Setup\">MDN erklärt die Details.</a>"
     }
   ],
-  "links": [
+  "topics": [
     {
-      "name": "Detecting Touch – the WHY, not the HOW",
-      "href": "https://hacks.mozilla.org/2013/04/detecting-touch-its-the-why-not-the-how/",
-      "time": "01:30:50",
-      "description": "Patrick H. Lauke erschlägt die gesamte Touch-Problematik in einem Artikel."
+      "title": "Breaking Development Orlando",
+      "href": "http://bdconf.com/2013/orlando",
+      "time": "00:03:02",
+      "description": "Stefan liefert einen Tipreport von einer tollen Konferenz an einer originellen Location. Videos der Talks sind noch nicht hochgeladen, aber wenn das soweit ist, sind die Performances von <a href=\"http://bdconf.com/2013/orlando/schedule#triblondon\">Andrew Betts</a> (Offline-Apps), <a href=\"http://bdconf.com/2013/orlando/schedule#wilto\">Mat Marquis</a> (Responsive Assets) und <a href=\"http://bdconf.com/2013/orlando/schedule#cameronmoll\">Cameron Moll</a> (Cross-Alles-UX) besonders sehenswert. Außerdem reden wir über Konferenz-Kultur sowie <a href=\"http://blog.cloudfour.com/media-queries-in-svg-images/\">Media Queries in SVG</a> und verweisen auf <a href=\"http://www.lukew.com/ff/\">die Konferenz-Notizen von Luke Wroblewski</a> sowie <a href=\"http://eventifier.co/event/bdconf2013/\">die hier gesammelten Fotos und Folien</a>."
     },
     {
-      "name": "Movement.js",
-      "href": "http://movement.mgechev.com/",
-      "time": "01:30:50",
-      "description": "Webapps in Minority-Report-Manier mit Gesten steuern? Diese Library macht es möglich!"
+      "title": "Transitional Interfaces",
+      "href": "https://medium.com/design-ux/926eb80d64e3",
+      "time": "00:20:51",
+      "description": "Medium.com argumentiert pro animierte UI-Elemente und wir gehen d‘accord. Besonders Schepp fordert vehement, dass wir <a href=\"http://de.wikipedia.org/wiki/Motion-Design\">Motion Design</a> bzw. Motion Designer besser in Web-Projekte integrieren. Als mögliche Hindernisse machen wir wie üblich die Troika aus Kunden ohne Zeitbudget für sowas, in Photoshop festhängenden Designern mit statischem Weltbild und es übertreibenden Flashern aus."
     },
     {
-      "name": "TimeJump",
-      "href": "http://davatron5000.github.io/TimeJump/",
-      "time": "01:30:50",
-      "description": "Polyfill für <a href=\"http://www.w3.org/TR/media-frags/\">Media Fragments URIs</a>."
-    },
-    {
-      "name": "Flexbox",
-      "time": "01:30:50",
-      "description": "<a href=\"http://dev.opera.com/articles/view/advanced-cross-browser-flexbox/\">Ein Artikel</a> und <a href=\"http://the-echoplex.net/flexyboxes/\">ein Generator</a> für Cross-Browser-Flexbox-Code."
+      "title": "IDs versus Classes",
+      "time": "00:33:07",
+      "description": "Vor einigen Wochen poppte die Diskussion bei Twitter auf: IDs sind doof, man sollte nur Klassen verwenden. Peter trollt ohne großartigen Erfolg gegen den Konsens an, der allerlei Argumente für seine Position auffährt. Wir reden außerdem über <a href=\"http://smacss.com/\">SMACSS</a>, <a href=\"http://www.stuffandnonsense.co.uk/archives/css_specificity_wars.html\">Selektorspezifität</a>, Attributselektoren, Semantik, Hunde, <a href=\"http://csswizardry.com/2012/11/code-smells-in-css/\">CSS Code Smells</a> und sogar <a href=\"http://schema.org/\">Mikroformate</a>."
     }
   ],
   "randomSpec": [
     {
-      "name": "HTML5: das dialog-Element",
+      "title": "HTML5: das dialog-Element",
       "href": "http://www.whatwg.org/specs/web-apps/current-work/#the-dialog-element",
       "time": "01:13:44",
       "description": "Mangels Browserunterstützung für das eigentliche Fundstück schweifen wir in Richtung <a href=\"http://www.whatwg.org/specs/web-apps/current-work/#the-details-element\">details-Element</a> ab und stellen die Frage ob man für all sowas eigene HTML-Elemente braucht. Schepp meint: sofern ARIA-Attribute eingebaut werden, machen diese Elemente Sinn."
     },
     {
-      "name": "CSS3: CSS Multi-column Layout Module",
+      "title": "CSS3: CSS Multi-column Layout Module",
       "href": "http://www.w3.org/TR/css3-multicol/",
       "time": "01:13:44",
       "description": "Trotz mittlerweile okayer Browserunterstützung finden wir Spalten-Layouts im Web eher problematisch. Von <a href=\"http://www.w3.org/TR/css3-regions/\">CSS Regions</a> versprechen wir uns da schon mehr"
+    }
+  ],
+  "links": [
+    {
+      "title": "Detecting Touch – the WHY, not the HOW",
+      "href": "https://hacks.mozilla.org/2013/04/detecting-touch-its-the-why-not-the-how/",
+      "time": "01:30:50",
+      "description": "Patrick H. Lauke erschlägt die gesamte Touch-Problematik in einem Artikel."
+    },
+    {
+      "title": "Movement.js",
+      "href": "http://movement.mgechev.com/",
+      "time": "01:30:50",
+      "description": "Webapps in Minority-Report-Manier mit Gesten steuern? Diese Library macht es möglich!"
+    },
+    {
+      "title": "TimeJump",
+      "href": "http://davatron5000.github.io/TimeJump/",
+      "time": "01:30:50",
+      "description": "Polyfill für <a href=\"http://www.w3.org/TR/media-frags/\">Media Fragments URIs</a>."
+    },
+    {
+      "title": "Flexbox",
+      "time": "01:30:50",
+      "description": "<a href=\"http://dev.opera.com/articles/view/advanced-cross-browser-flexbox/\">Ein Artikel</a> und <a href=\"http://the-echoplex.net/flexyboxes/\">ein Generator</a> für Cross-Browser-Flexbox-Code."
     }
   ]
 }

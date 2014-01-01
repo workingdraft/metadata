@@ -41,95 +41,95 @@
   "audio": "http://workingdraft.de/podpress_trac/web/1333/0/wd-78.mp3",
   "title": "Editoren, jQuery, Yeoman, Browser",
   "description": "Die gesamte Crew war an Bord, allerdings leider auch die Skype-Dämonen. Wir hoffen dass die Themen-Menge für die sporadischen Audio-Fails kompensiert.",
-  "topics": [
-    {
-      "name": "Editoren & IDEs",
-      "time": "00:01:08",
-      "description": "Web-IDE Cloud9 stellt (unter anderem) sein neues <a href=\"http://c9.io/site/blog/2012/06/cloud9ide-new-features/\">Collaboration-Feature</a> vor, während Adobe mit <a href=\"http://brackets.io/\">Brackets</a> seine eigene Fassung eines Online-Codeeditors veröffentlicht (mit einigen sehr schicken Features). In der Offline-Welt ist derweil <a href=\"http://www.sublimetext.com/blog/articles/sublime-text-2-0-released\">Sublime Text 2.0 Stable</a> erschienen. Ebenfalls offline, aber nicht ganz so traditionell kommt <a href=\"http://www.kickstarter.com/projects/ibdknox/light-table&quot;\">Light Table</a> daher, von dem es mittlerweile <a href=\"http://www.chris-granger.com/2012/06/24/its-playtime/\">erste Brocken</a> zu sehen gibt. Wir finden die Auswahl super, aber können Online-IDEs auch wirklich alles leisten, was ihre Offline-Verwandten können, z.B. Buildprozesse mit PNG-Optimierung? <a href=\"http://richardassar.github.com/pngcrush.js/\">Möglich sein sollte es eigentlich.</a> Peter baut sich seinen eigenen Cloud-Editor, indem er sein Sublime Text&nbsp;2 nebst Einstellungen mittels <a href=\"https://one.ubuntu.com/\">Ubuntu One</a> zwischen seinen Rechnern synchronisiert."
-    },
-    {
-      "name": "Die Zukunft von jQuery",
-      "time": "00:20:42",
-      "description": "<a href=\"http://blog.jquery.com/2012/06/22/jquery-1-8-beta-1-see-whats-coming-and-going/\">jQuery 1.8 ward angekündigt!</a> Neu ist neben automatischen Vendor-Prefixes und so mancher internen Aufräumaktion vor allem Modularität, ganz ähnlich wie bei <a href=\"http://mootools.net/core/\">MooTools</a>. Auch für die Versionen 1.9 und 2.0 <a href=\"http://blog.jquery.com/2012/06/28/jquery-core-version-1-9-and-beyond/\">laufen bereits die Planungen</a>. Beide Versionen sollen die gleiche API haben&nbsp;&ndash; der einzige Unterschied ist, dass sich 2.0 die Unterstützung für alte Internet Explorer spart. Genaueres ist den <a href=\"http://www.slideshare.net/dmethvin/jquery-conference-2012-keynote\">Slides der jQuery Conference 2012 keynote</a> zu entnehmen."
-    },
-    {
-      "name": "Yeoman",
-      "href": "http://yeoman.io/",
-      "time": "00:34:20",
-      "description": "Yeoman hält sich für eine Sammlung von Tools für Frontend-Entwicklung, Kahlil spricht hingegen einfach von &#8220;<a href=\"https://github.com/cowboy/grunt\">Grunt</a> auf Crack&#8221;. Zusätzliche Features sind im wesentlichen Presents und ein paar Extra-Plugins für Grunt. Peter sieht nicht ganz ein, warum er sich von irgendwelchen Hanseln Grunt vorkonfigurieren lassen sollte, wenn er das doch selbst ganz gut kann."
-    },
-    {
-      "name": "Chrome für iOS",
-      "href": "http://www.mobilexweb.com/blog/chrome-ios-android-4-1-jelly-bean-html5",
-      "time": "00:54:23",
-      "description": "Chrome für iOS ist da und findet durchaus unser Gefallen. Er kommt zwar notgedrungen ohne V8 daher und ist daher sogar eigentlich noch langsamer als Safari, aber <a href=\"http://robert.accettura.com/blog/2012/06/28/perception-of-performance/comment-page-1/#comment-1761355\">ein paar Speed-Schmankerl</a> gibt es trotzdem."
-    }
-  ],
   "news": [
     {
-      "name": "New (experimental) CSS feature: Hierarchies",
+      "title": "New (experimental) CSS feature: Hierarchies",
       "href": "http://lists.webkit.org/pipermail/webkit-dev/2012-June/021315.html",
       "time": "00:00:16",
       "description": "Jetzt zum ausprobieren in Webkit Nightlies"
     },
     {
-      "name": "Web Intents",
+      "title": "Web Intents",
       "href": "http://www.w3.org/TR/2012/WD-web-intents-20120626/",
       "time": "00:00:16",
       "description": "Seit kurzem offizieller W3C-Draft"
     }
   ],
+  "topics": [
+    {
+      "title": "Editoren & IDEs",
+      "time": "00:01:08",
+      "description": "Web-IDE Cloud9 stellt (unter anderem) sein neues <a href=\"http://c9.io/site/blog/2012/06/cloud9ide-new-features/\">Collaboration-Feature</a> vor, während Adobe mit <a href=\"http://brackets.io/\">Brackets</a> seine eigene Fassung eines Online-Codeeditors veröffentlicht (mit einigen sehr schicken Features). In der Offline-Welt ist derweil <a href=\"http://www.sublimetext.com/blog/articles/sublime-text-2-0-released\">Sublime Text 2.0 Stable</a> erschienen. Ebenfalls offline, aber nicht ganz so traditionell kommt <a href=\"http://www.kickstarter.com/projects/ibdknox/light-table&quot;\">Light Table</a> daher, von dem es mittlerweile <a href=\"http://www.chris-granger.com/2012/06/24/its-playtime/\">erste Brocken</a> zu sehen gibt. Wir finden die Auswahl super, aber können Online-IDEs auch wirklich alles leisten, was ihre Offline-Verwandten können, z.B. Buildprozesse mit PNG-Optimierung? <a href=\"http://richardassar.github.com/pngcrush.js/\">Möglich sein sollte es eigentlich.</a> Peter baut sich seinen eigenen Cloud-Editor, indem er sein Sublime Text&nbsp;2 nebst Einstellungen mittels <a href=\"https://one.ubuntu.com/\">Ubuntu One</a> zwischen seinen Rechnern synchronisiert."
+    },
+    {
+      "title": "Die Zukunft von jQuery",
+      "time": "00:20:42",
+      "description": "<a href=\"http://blog.jquery.com/2012/06/22/jquery-1-8-beta-1-see-whats-coming-and-going/\">jQuery 1.8 ward angekündigt!</a> Neu ist neben automatischen Vendor-Prefixes und so mancher internen Aufräumaktion vor allem Modularität, ganz ähnlich wie bei <a href=\"http://mootools.net/core/\">MooTools</a>. Auch für die Versionen 1.9 und 2.0 <a href=\"http://blog.jquery.com/2012/06/28/jquery-core-version-1-9-and-beyond/\">laufen bereits die Planungen</a>. Beide Versionen sollen die gleiche API haben&nbsp;&ndash; der einzige Unterschied ist, dass sich 2.0 die Unterstützung für alte Internet Explorer spart. Genaueres ist den <a href=\"http://www.slideshare.net/dmethvin/jquery-conference-2012-keynote\">Slides der jQuery Conference 2012 keynote</a> zu entnehmen."
+    },
+    {
+      "title": "Yeoman",
+      "href": "http://yeoman.io/",
+      "time": "00:34:20",
+      "description": "Yeoman hält sich für eine Sammlung von Tools für Frontend-Entwicklung, Kahlil spricht hingegen einfach von &#8220;<a href=\"https://github.com/cowboy/grunt\">Grunt</a> auf Crack&#8221;. Zusätzliche Features sind im wesentlichen Presents und ein paar Extra-Plugins für Grunt. Peter sieht nicht ganz ein, warum er sich von irgendwelchen Hanseln Grunt vorkonfigurieren lassen sollte, wenn er das doch selbst ganz gut kann."
+    },
+    {
+      "title": "Chrome für iOS",
+      "href": "http://www.mobilexweb.com/blog/chrome-ios-android-4-1-jelly-bean-html5",
+      "time": "00:54:23",
+      "description": "Chrome für iOS ist da und findet durchaus unser Gefallen. Er kommt zwar notgedrungen ohne V8 daher und ist daher sogar eigentlich noch langsamer als Safari, aber <a href=\"http://robert.accettura.com/blog/2012/06/28/perception-of-performance/comment-page-1/#comment-1761355\">ein paar Speed-Schmankerl</a> gibt es trotzdem."
+    }
+  ],
   "links": [
     {
-      "name": "Retinafy your Website",
+      "title": "Retinafy your Website",
       "href": "http://f.cl.ly/items/192E3I3O3o1w2b0a1g2l/How%20to%20Retinafy%20your%20Website.pdf",
       "time": "01:04:47",
       "description": "Zum Ausdrucken und aufhängen."
     },
     {
-      "name": "Tinycon – Favicon Alert Bubbles",
+      "title": "Tinycon – Favicon Alert Bubbles",
       "href": "http://tommoor.github.com/tinycon/",
       "time": "01:04:47",
       "description": "<q lang=\"en\">A small library for manipulating the favicon</q>"
     },
     {
-      "name": "Introduction To JavaScript Unit Testing",
+      "title": "Introduction To JavaScript Unit Testing",
       "href": "http://coding.smashingmagazine.com/2012/06/27/introduction-to-javascript-unit-testing/",
       "time": "01:04:47",
       "description": "Autor <a href=\"http://bassistance.de/\">Jörn Zaefferer</a> ist für <a href=\"http://docs.jquery.com/QUnit\">QUnit</a>, das Testframework von jQuery, verantwortlich."
     },
     {
-      "name": "Symbolset",
+      "title": "Symbolset",
       "href": "http://symbolset.com/",
       "time": "01:04:47",
       "description": "Eine bessere Icon-Font."
     },
     {
-      "name": "Recommendations for building smartphone-optimized websites",
+      "title": "Recommendations for building smartphone-optimized websites",
       "href": "http://googlewebmastercentral.blogspot.de/2012/06/recommendations-for-building-smartphone.html",
       "time": "01:04:47",
       "description": "Google sagt wie sie&#8217;s gern hätten."
     },
     {
-      "name": "Google IO 2012 Notes",
+      "title": "Google IO 2012 Notes",
       "href": "http://christianheilmann.com/2012/07/02/google-io-2012-notes-lots-of-them/",
       "time": "01:04:47",
       "description": "Gesammelt von Christian Heilmann."
     },
     {
-      "name": "SirPepe/HTML5Resources",
+      "title": "SirPepe/HTML5Resources",
       "href": "https://github.com/SirPepe/HTML5Resources",
       "time": "01:04:47",
       "description": "Peter sammelt Links."
     },
     {
-      "name": "Repo.js",
+      "title": "Repo.js",
       "href": "http://darcyclarke.me/dev/repojs/",
       "time": "01:04:47",
       "description": "Sehr schick: Github-Projekte direkt in Websites einbetten!"
     },
     {
-      "name": "Peity",
+      "title": "Peity",
       "href": "http://benpickles.github.com/peity/",
       "time": "01:04:47",
       "description": "Dynamisch generierte Inline-Graphen."

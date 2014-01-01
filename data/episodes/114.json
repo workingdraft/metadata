@@ -30,68 +30,68 @@
   "description": "Für die neue Revision werden Schepp und Peter von <a href=\"https://twitter.com/dantz\">Andreas Dantz</a> begleitet, der sich sehr über den JavaScript-Schwerpunkt dieser Sendung gefreut hat. Zum Ausgleich drehen wir dieses mal auch am CSS3-Glücksrad.",
   "topics": [
     {
-      "name": "HTML’s New Template Tag",
+      "title": "HTML’s New Template Tag",
       "href": "http://www.html5rocks.com/en/tutorials/webcomponents/template/",
       "time": "00:00:35",
       "description": "HTML5 Rocks berichtet vom neuen <a href=\"http://www.w3.org/TR/html-templates/\"><code>&lt;template&gt;</code>-Element</a>, einen Mechanismus zum Unterbringen von Template-Code in HTML. Bisher hatte man Code für z.B. <a href=\"http://handlebarsjs.com/\">Handlebars</a> in dazu mißbrauchten <code>&lt;script&gt;</code>-Tags verstecken müssen. Das <code>&lt;template&gt;</code>-Element ist hingegen für diesen Zweck gebaut und enthält nichts außer einem einsatzbereiten <a href=\"https://developer.mozilla.org/de/docs/DOM/DocumentFragment\">DocumentFragment</a>. Warum man allerdings Templates als Code in HTML-Elementen und nicht als fertig kompilierte JS-Funktionen würde verwenden wollen, ist uns nicht ganz klar geworden."
     },
     {
-      "name": "Fixing appcache: a proposal to get us started",
+      "title": "Fixing appcache: a proposal to get us started",
       "href": "http://lists.w3.org/Archives/Public/public-webapps/2013JanMar/0977.html",
       "time": "00:14:20",
       "description": "Jonas Sicking hat einen Vorschlag, wie man den <a href=\"http://www.whatwg.org/specs/web-apps/current-work/multipage/offline.html\">HTML5 Application Cache</a> reparieren könnte, da dieser ja bekanntlich <a href=\"https://www.youtube.com/watch?v=cR-TP6jOSQM&amp;feature=player_embedded\">ein Arschpirat</a> ist. Oder? Peter sieht das eher differenziert und hat darüber hinaus etwas gegen das vorgeschlagene JSON-Format für Manifest-Files und die Idee eines „Online-Modus“."
     },
     {
-      "name": "Why asm.js bothers me",
+      "title": "Why asm.js bothers me",
       "href": "http://mrale.ph/blog/2013/03/28/why-asmjs-bothers-me.html",
       "time": "00:34:17",
       "description": "Ein V8-Engineer hat Probleme mit asm.js (s. <a href=\"http://workingdraft.de/108/\">Revision 108</a>). Das Ende der Performance-Optimierung von normalem JS wird befürchtet und außerdem sollte man lieber einen richtigen Bytecode statt eines JS-Subsets einführen. Aber <a href=\"http://www.2ality.com/2012/01/bytecode-myth.html\">wie der Doktor schon schrieb</a> ist das mit dem Bytecode auch nicht so einfach, wie es zunächst scheint. Außerdem ist Vorteil des JS-Subsets, dass asm-Scripts bereits heute in allen Browsern laufen, auch wenn <a href=\"https://blog.mozilla.org/blog/2013/03/27/mozilla-is-unlocking-the-power-of-the-web-as-a-platform-for-gaming/\">die Unreal-Demo</a> im IE&nbsp;6 weniger flüssig sein dürfte als im Nightly Firefox."
     }
   ],
-  "links": [
-    {
-      "name": "SVG Patterns Library",
-      "href": "http://philbit.com/svgpatterns/",
-      "time": "01:01:51",
-      "description": "Wie die CSS3 Patterns Library, aber mit SVG (und damit im IE 9)"
-    },
-    {
-      "name": "Angular.js Resources",
-      "href": "https://gist.github.com/kahlil/5245859",
-      "time": "01:01:51",
-      "description": "Von Kahlil gesammelte Links zu Angular."
-    },
-    {
-      "name": "jquery.resize.js",
-      "href": "https://github.com/yckart/jquery.resize.js",
-      "time": "01:01:51",
-      "description": "Wir hatten uns in der letzten Revision dieses Script gewünscht, Yannick Albert liefert."
-    },
-    {
-      "name": "DevTools Extensions For Web App Developers",
-      "href": "http://addyosmani.com/blog/devtools-extensions-for-webapp-developers/",
-      "time": "01:01:51",
-      "description": "Peter würde Addy Osmanis Chrome-Extension-Liste gern um den <a href=\"https://chrome.google.com/webstore/detail/javascript-errors-notifie/jafmfknfnkoekkdocjiaipcnmkklaajd\">JavaScript Errors Notifier</a> ergänzt sehen."
-    },
-    {
-      "name": "Bacon.js",
-      "href": "https://github.com/raimohanska/bacon.js",
-      "time": "01:01:51",
-      "description": "Eine Functional Reactive Programming Library, die Peter ganz toll findet, aber nur sehr inadäquat erklären kann."
-    }
-  ],
   "randomSpec": [
     {
-      "name": "CSS3: Font property descriptors",
+      "title": "CSS3: Font property descriptors",
       "href": "http://www.w3.org/TR/css3-fonts/#font-prop-desc",
       "time": "00:47:10",
       "description": "Wir finden mühsam die Details von <a href=\"http://de.wikipedia.org/wiki/Kursiv#Kursivierung\">Kursivierung</a> heraus und spekulieren über das Verhalten von <code>font-stretch</code>."
     },
     {
-      "name": "HTML5: The Document object",
+      "title": "HTML5: The Document object",
       "href": "http://www.whatwg.org/specs/web-apps/current-work/multipage/dom.html#the-document-object",
       "time": "00:47:10",
       "description": "Wir graben <a href=\"http://wtfjs.com/2010/02/25/ie-scope\">obskure IE-Triva</a> über das Document-Objekt aus und staunen darüber, dass <code>document.head</code> eine eher neue Erfindung ist."
+    }
+  ],
+  "links": [
+    {
+      "title": "SVG Patterns Library",
+      "href": "http://philbit.com/svgpatterns/",
+      "time": "01:01:51",
+      "description": "Wie die CSS3 Patterns Library, aber mit SVG (und damit im IE 9)"
+    },
+    {
+      "title": "Angular.js Resources",
+      "href": "https://gist.github.com/kahlil/5245859",
+      "time": "01:01:51",
+      "description": "Von Kahlil gesammelte Links zu Angular."
+    },
+    {
+      "title": "jquery.resize.js",
+      "href": "https://github.com/yckart/jquery.resize.js",
+      "time": "01:01:51",
+      "description": "Wir hatten uns in der letzten Revision dieses Script gewünscht, Yannick Albert liefert."
+    },
+    {
+      "title": "DevTools Extensions For Web App Developers",
+      "href": "http://addyosmani.com/blog/devtools-extensions-for-webapp-developers/",
+      "time": "01:01:51",
+      "description": "Peter würde Addy Osmanis Chrome-Extension-Liste gern um den <a href=\"https://chrome.google.com/webstore/detail/javascript-errors-notifie/jafmfknfnkoekkdocjiaipcnmkklaajd\">JavaScript Errors Notifier</a> ergänzt sehen."
+    },
+    {
+      "title": "Bacon.js",
+      "href": "https://github.com/raimohanska/bacon.js",
+      "time": "01:01:51",
+      "description": "Eine Functional Reactive Programming Library, die Peter ganz toll findet, aber nur sehr inadäquat erklären kann."
     }
   ]
 }

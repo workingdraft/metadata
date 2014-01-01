@@ -43,25 +43,25 @@
   "description": "Die Stammbesatzung trat an und brauchte zum Sortieren der Themen länger als für die Aufnahme. Trotzdem ist noch einiges an Material übrig geblieben.",
   "topics": [
     {
-      "name": "SASS versus LESS",
+      "title": "SASS versus LESS",
       "href": "http://css-tricks.com/sass-vs-less/",
       "time": "00:00:22",
       "description": "Chris Coyier vergleicht SASS mit LESS und kürt ersteres zum Gewinner. Für rechten Widerspruch reicht es bei uns nicht, da wir SASS in Kombination mit <a href=\"http://compass-style.org/\">Compass</a> und <a href=\"https://incident57.com/codekit/\">CodeKit</a> auch nicht so ganz schlecht finden. Die etwas nerdigere Fraktion findet aber auch die Kombination <a href=\"http://learnboost.github.com/stylus/\">Stylus</a> + <a href=\"https://github.com/visionmedia/nib\">Nib</a> + <a href=\"https://github.com/cowboy/grunt\">Grunt</a> ganz gut. Naja, jeder wie er will :)"
     },
     {
-      "name": "Media Queries Level 4",
+      "title": "Media Queries Level 4",
       "href": "http://dev.w3.org/csswg/css4-mediaqueries/",
       "time": "00:22:00",
       "description": "CSS4 ist im Anmarsch und die neuen Media Queries führen neben einem Script-Detektor auch ein Feature ein, mit dem man herausfinden kann, ob ein Gerät so etwas wie ein „Mousover“ (d.h. die Hover-Pseudoklasse) überhaupt leisten kann. Ob ein Gerät einen Tochscreen hat, kann man zwar schon mit <a href=\"https://developer.mozilla.org/en/CSS/Media_queries#-moz-touch-enabled\">proprietären Mitteln</a> herausfinden, aber <a href=\"http://blog.gsmarena.com/sony-xperia-sola-official-video-ad-demonstrates-the-hover-touch/\">ein Touchscreen muss Mouseover-Funktionalität ja nicht zwingend ausschließen</a>."
     },
     {
-      "name": "Google Bot now crawls arbitrary Javascript sites",
+      "title": "Google Bot now crawls arbitrary Javascript sites",
       "href": "http://swapped.tumblr.com/post/23133779276/google-bot-now-crawls-arbitrary-javascript-sites",
       "time": "00:27:57",
       "description": "Wir sind uns überhaupt nicht einig, ob das nicht schon alter Käse ist und ob man aus dieser Entdeckung irgend etwas für die tägliche Arbeit ableiten sollte. Was meint ihr?"
     },
     {
-      "name": "Google Chrome Canary: webkitdirectory attribute walkthrough",
+      "title": "Google Chrome Canary: webkitdirectory attribute walkthrough",
       "href": "https://plus.google.com/115133653231679625609/posts/Dk5UhZ6zfF3",
       "time": "00:41:20",
       "description": "Addy Osmani erklärt, wie man aus der <a href=\"http://www.w3.org/TR/FileAPI/\">HTML5 File API</a>, einem neuen HTML-Attribut und etwas Trickserei etwas backen kann, dass Drag &amp; Drop von ganzen Verzeichnissen in Webapps ermöglicht."
@@ -69,43 +69,43 @@
   ],
   "links": [
     {
-      "name": "SpahQL",
+      "title": "SpahQL",
       "href": "http://angryamoeba.co.uk/spahql-announce/",
       "time": "00:47:55",
       "description": "Query-Sprache für komplexe JavaScript-Objekte."
     },
     {
-      "name": "JSCheck-Tutorial",
+      "title": "JSCheck-Tutorial",
       "href": "http://net.tutsplus.com/tutorials/javascript-ajax/meet-crockford%E2%80%99s-jscheck/",
       "time": "00:47:55",
       "description": "Einführung in <a href=\"http://www.jscheck.org/\">ein neues Test-Framework</a> von Douglas Crockford, das mit Zufalls-Inputs arbeitet."
     },
     {
-      "name": "Responsive Tables",
+      "title": "Responsive Tables",
       "href": "http://www.zurb.com/article/982/a-new-take-on-responsive-tables",
       "time": "00:47:55",
       "description": "Ein Ansatz für Responsive Tabellen."
     },
     {
-      "name": "Our Approach to Routing in Ember.js",
+      "title": "Our Approach to Routing in Ember.js",
       "href": "http://tomdale.net/2012/05/ember-routing/",
       "time": "00:47:55",
       "description": "Man kann es so oder so machen. <a href=\"http://emberjs.com/\">Ember.js</a> macht es so."
     },
     {
-      "name": "wysihtml5 – A better approach to rich text editing",
+      "title": "wysihtml5 – A better approach to rich text editing",
       "href": "http://xing.github.com/wysihtml5/",
       "time": "00:47:55",
       "description": "Qualität aus dem Hause Xing."
     },
     {
-      "name": "How To Choose The Right Face For A Beautiful Body",
+      "title": "How To Choose The Right Face For A Beautiful Body",
       "href": "http://www.smashingmagazine.com/2012/05/21/how-to-choose-the-right-face-for-a-beautiful-body/",
       "time": "00:47:55",
       "description": "Typoraphie-Tutorial."
     },
     {
-      "name": "GitHub for Windows",
+      "title": "GitHub for Windows",
       "href": "https://github.com/blog/1127-github-for-windows",
       "time": "00:47:55",
       "description": "Nach dem Github-Client für Mac gibt es nun auch einen für Windows."

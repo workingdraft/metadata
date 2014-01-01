@@ -25,67 +25,67 @@
   "audio": "http://workingdraft.de/podpress_trac/web/2068/0/wd-133.mp3",
   "title": "Responsive Webdesign und CSS Frameworks",
   "description": "In Abwesenheit der restlichen Stammbesetzung holt sich Stefan die beiden Gäste <a href=\"http://helloanselm.com/\">Anselm Hannemann</a> und <a href=\"http://grochtdreis.de/\">Jens &#8220;Flocke&#8221; Grochtdreis</a> ins virtuelle Studio. Bei diesem hochkarätigen Aufgebot an Mitsprechern liegen die Hauptpunkte der heutigen Sendung direkt auf dem Tisch: Responsive Webdesign in all seinen Formen. In einer angeregten Diskussion sprechen wir über neue Prozesse für Responsive Webdesign in Agenturen und kommen zu einer ausführlichen Betrachtung von CSS- und Grid-Frameworks. Viel Spaß!",
-  "topics": [
-    {
-      "name": "Robustes PNG Fallback für SVG",
-      "href": "http://lynn.ru/examples/svg/en.html",
-      "time": "00:01:00",
-      "description": "SVGs sind toll und die Möglichkeiten scheinen schier unbegrenzt. Zu dumm dass ältere Browser nichts damit anfangen können. Alexey Ten zeigt in seinem Artikel, wie man alte Browsereigenheiten ausnutzen kann um aus Browserfixes eine Technik zu entwickeln, die äußerst robust und plattformübergreifend ein PNG als Fallbäck lädt. Eine Technik, die unter anderem auch von <a href=\"http://css-tricks.com/svg-fallbacks/\">Chris Coyier</a> äußerst genau analysiert wurde. Wir diskutieren über diesen und andere Hacks sowie deren Zukunftssicherheit, zeigen Alternativen wie <a href=\"http://icomoon.io/app/\">Icon-Fonts</a> und finden die Sache trotz der einen oder anderen Schwierigkeit toll."
-    },
-    {
-      "name": "Warum Responsive Web-Design Schrott ist",
-      "href": "http://www.mobile-zeitgeist.com/2013/08/07/warum-responsive-webdesign-schrott-ist/",
-      "time": "00:14:00",
-      "description": "Was für eine Woche! Patrick Voelcker hat mit seinem Artikel über den Unsinn von Responsive Webdesign für die heißeste Diskussion des Sommers im deutschsprachigen Webraum gesorgt und nicht nur <a href=\"http://www.mademyday.de/responsive-webdesign-ist-kein-schrott.html\">Marc Hinse</a> oder <a href=\"http://grochtdreis.de/weblog/2013/08/12/responsive-webdesign-ist-die-zukunft/\">Jens selbst</a> mit an- und aufgeregten Gegenantworten vor die Schirme geholt. Wir erklären die eigentlichen Inhalte des Artikels und erzählen, warum &#8220;Warum Responsive Webdesign Schrott ist&#8221; Schrott ist. Denn immerhin geht&#8217;s nicht nur um die Technik, sondern auch um Prozesse, Abläufe und halt eine ganz neue Herangehensweise."
-    },
-    {
-      "name": "Responsive Webdesign braucht kein Framework.",
-      "href": "http://grochtdreis.de/weblog/2013/08/14/responsive-webdesign-benoetigt-kein-framework/",
-      "time": "00:26:00",
-      "description": "Oder doch? Bei all den neuen Vorgehensweisen gibt es in der Responsive Elite etliche <a href=\"http://www.netmagazine.com/advertorial/responsive-web-design-6-experts-4-questions\">Stimmen gegen den Einsatz von Frameworks wie Bootstrap oder Foundation</a>. Stefan erklärt, wie diese Frameworks doch sinnvoll eingesetzt werden können und welche Vorteile sich für Entwickler wie Designer dadurch ergeben."
-    },
-    {
-      "name": "Missverständnis Framework",
-      "href": "http://grochtdreis.de/weblog/2013/08/19/missverstaendnis-framework/",
-      "time": "00:36:20",
-      "description": "Allerdings meint Stefan auch, dass trotz aller Benefits für Entwickler und Designer man irgendwann an die Grenzen eines Frameworks stößt, zumindest bei Bootstrap. Jens bricht einige Lanzen für das deutsche CSS Framework <a href=\"http://www.yaml.de/\">YAML</a>, wir betrachten den Sinn und Unsinn von <a href=\"http://inuitcss.com/\">Harry Roberts inuit.css</a> im Detail, und sprechen über die Erfolgsfaktoren von <a href=\"http://getbootstrap.com/\">Bootstrap</a> und <a href=\"http://foundation.zurb.com/\">Foundation</a>. Schlußendlich halten wir es wie Framework Experte Mark Otto: Ein Framework ist immer nur ein Anfang."
-    }
-  ],
   "news": [
     {
-      "name": "Webkit unterstützt das srcset Attribut",
+      "title": "Webkit unterstützt das srcset Attribut",
       "href": "https://www.webkit.org/blog/2910/improved-support-for-high-resolution-displays-with-the-srcset-image-attribute/",
       "time": "00:00:20",
       "description": "und legt damit die ersten Pflastersteine in Richtung Responsive Images"
     },
     {
-      "name": "Opera Developer",
+      "title": "Opera Developer",
       "href": "http://www.opera.com/developer",
       "time": "00:00:20",
       "description": "nennt sich die nächtlich aktualisierte Entwicklerversion des norwegischen Browsers. Der neue Channel wurde vor kurzem geöffnet und bietet Entwicklern eine erste Vorschau auf kommende Dinge."
     }
   ],
+  "topics": [
+    {
+      "title": "Robustes PNG Fallback für SVG",
+      "href": "http://lynn.ru/examples/svg/en.html",
+      "time": "00:01:00",
+      "description": "SVGs sind toll und die Möglichkeiten scheinen schier unbegrenzt. Zu dumm dass ältere Browser nichts damit anfangen können. Alexey Ten zeigt in seinem Artikel, wie man alte Browsereigenheiten ausnutzen kann um aus Browserfixes eine Technik zu entwickeln, die äußerst robust und plattformübergreifend ein PNG als Fallbäck lädt. Eine Technik, die unter anderem auch von <a href=\"http://css-tricks.com/svg-fallbacks/\">Chris Coyier</a> äußerst genau analysiert wurde. Wir diskutieren über diesen und andere Hacks sowie deren Zukunftssicherheit, zeigen Alternativen wie <a href=\"http://icomoon.io/app/\">Icon-Fonts</a> und finden die Sache trotz der einen oder anderen Schwierigkeit toll."
+    },
+    {
+      "title": "Warum Responsive Web-Design Schrott ist",
+      "href": "http://www.mobile-zeitgeist.com/2013/08/07/warum-responsive-webdesign-schrott-ist/",
+      "time": "00:14:00",
+      "description": "Was für eine Woche! Patrick Voelcker hat mit seinem Artikel über den Unsinn von Responsive Webdesign für die heißeste Diskussion des Sommers im deutschsprachigen Webraum gesorgt und nicht nur <a href=\"http://www.mademyday.de/responsive-webdesign-ist-kein-schrott.html\">Marc Hinse</a> oder <a href=\"http://grochtdreis.de/weblog/2013/08/12/responsive-webdesign-ist-die-zukunft/\">Jens selbst</a> mit an- und aufgeregten Gegenantworten vor die Schirme geholt. Wir erklären die eigentlichen Inhalte des Artikels und erzählen, warum &#8220;Warum Responsive Webdesign Schrott ist&#8221; Schrott ist. Denn immerhin geht&#8217;s nicht nur um die Technik, sondern auch um Prozesse, Abläufe und halt eine ganz neue Herangehensweise."
+    },
+    {
+      "title": "Responsive Webdesign braucht kein Framework.",
+      "href": "http://grochtdreis.de/weblog/2013/08/14/responsive-webdesign-benoetigt-kein-framework/",
+      "time": "00:26:00",
+      "description": "Oder doch? Bei all den neuen Vorgehensweisen gibt es in der Responsive Elite etliche <a href=\"http://www.netmagazine.com/advertorial/responsive-web-design-6-experts-4-questions\">Stimmen gegen den Einsatz von Frameworks wie Bootstrap oder Foundation</a>. Stefan erklärt, wie diese Frameworks doch sinnvoll eingesetzt werden können und welche Vorteile sich für Entwickler wie Designer dadurch ergeben."
+    },
+    {
+      "title": "Missverständnis Framework",
+      "href": "http://grochtdreis.de/weblog/2013/08/19/missverstaendnis-framework/",
+      "time": "00:36:20",
+      "description": "Allerdings meint Stefan auch, dass trotz aller Benefits für Entwickler und Designer man irgendwann an die Grenzen eines Frameworks stößt, zumindest bei Bootstrap. Jens bricht einige Lanzen für das deutsche CSS Framework <a href=\"http://www.yaml.de/\">YAML</a>, wir betrachten den Sinn und Unsinn von <a href=\"http://inuitcss.com/\">Harry Roberts inuit.css</a> im Detail, und sprechen über die Erfolgsfaktoren von <a href=\"http://getbootstrap.com/\">Bootstrap</a> und <a href=\"http://foundation.zurb.com/\">Foundation</a>. Schlußendlich halten wir es wie Framework Experte Mark Otto: Ein Framework ist immer nur ein Anfang."
+    }
+  ],
   "links": [
     {
-      "name": "Speed Awareness Month.",
+      "title": "Speed Awareness Month.",
       "href": "http://www.speedawarenessmonth.com/",
       "time": "00:57:20",
       "description": "Auch wenn er schon fast vorüber ist, ist der August immer noch Speed Awareness Month. Diese Website versorgt euch mit Aritkeln und Beiträgen zum Thema Webgeschwindigkeit am Client und am Server."
     },
     {
-      "name": "Web Platform Doc Sprint Zürich.",
+      "title": "Web Platform Doc Sprint Zürich.",
       "href": "http://wpds-zurich.eventbrite.com/",
       "time": "00:57:20",
       "description": "Diese Woche in Zürich und am Mittwoch noch nichts vor? Kurz vor der Schweizer Frontendconf findet in der Zentralgasse 37 der Web Platform Doc Sprint statt. Schaut vorbei und unterstützt die verschiedenen Teams beim Aufpeppeln der gemeinschaftlichen Online-Dokumentation. Von der Working Draft Crew sind Hans und Rodney mit am Start."
     },
     {
-      "name": "Handle deprecated and unmaintained repositories.",
+      "title": "Handle deprecated and unmaintained repositories.",
       "href": "http://helloanselm.com/2013/handle-deprecated-unmaintained-repositories/",
       "time": "00:57:20",
       "description": "Ist das einstige Pet Project und jQuery Plugin mittlerweile am Verstauben? Das ehemalige Problem bereits perfekt gelöst oder irgendein Megaframework hat eine prominentere Lösung dafür? Gast Anselm gibt in seinem Artikel Tipps und Ratschläge, wie man mit veralteten und schlafengelegten Open Source Projekten verfahren soll."
     },
     {
-      "name": "LESS Mixins.",
+      "title": "LESS Mixins.",
       "href": "https://github.com/drublic/less-mixins",
       "time": "00:57:20",
       "description": "Und zu guter Letzt hat Hans seine populären Sass Mixins auch nach LESS portiert. Take what you need!"

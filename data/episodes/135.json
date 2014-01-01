@@ -35,55 +35,55 @@
   "audio": "http://workingdraft.de/podpress_trac/web/2083/0/wd-135.mp3",
   "title": "Progressive Enhancement, Sigh JavaScript und Bower",
   "description": "In der heutigen Revision holen sich Schepp und Stefan <a href=\"http://twitter.com/yellowled\">Matthias Mees aus dem hohen Norden</a> vors Mikro, um über Progressive Enhancement und Twitters Paketmanager Bower zu quatschen.",
-  "topics": [
-    {
-      "name": "Progressive Enhancement – Still alive and kicking.",
-      "href": "http://danielmall.com/articles/progressive-enhancement/",
-      "time": "00:02:41",
-      "description": "Progressive Enhancement wird von der Community in der letzten Zeit wieder ordentlich heiß diskutiert und lässt nach <a href=\"http://jakearchibald.com/2013/progressive-enhancement-still-important/\">Jake Archibalds</a> Post vor ein paar Monaten auch einige andere Stimmen zu Wort kommen. Wie Daniel Mall, der mit seinem Tumblr <a href=\"http://sighjavascript.tumblr.com/\">Sigh, JavaScript</a> eine virtuelle Hall of Shame für Websites, die so ohne JavaScript mal gar nicht funktionieren, eröffnet hat. Wir plaudern über über unsere Erfahrungen mit deaktiviertem JavaScript und fragen uns, ob die Fragestellung nach Sinn oder Unsinn von Progressive Enhancement nicht eher eine Frage der Entwicklungsqualität sein sollte."
-    },
-    {
-      "name": "Bower – A package manager for the web",
-      "href": "http://yellowled.de/archiv/46/Asset-Verwaltung-mit-Bower.html",
-      "time": "00:19:00",
-      "description": "Seit einiger Zeit ist Twitters <a href=\"http://bower.io/\">Bower</a> schon veröffentlicht, und durch Tools wie <a href=\"http://yeoman.io\">Yeoman</a> schon in den Arbeitsablauf einiger Webentwickler fest integriert, ohne dass man es unbedingt mitbekommen hat. Von Matthias&#8217; Blogbeitrag ausgehend, erklären wir die Funktionsweise des <a href=\"http://sindresorhus.com/bower-components/\">Paketmanagers</a>, wo die großen Stärken liegen und worauf Nutzer achten sollen, wenn es in ihren Workflow integriert werden soll."
-    }
-  ],
   "news": [
     {
-      "name": "Stripe",
+      "title": "Stripe",
       "href": "https://stripe.com/global#germany",
       "time": "00:01:36",
       "description": "Der Online Payment Provider Stripe ist jetzt auch in Deutschland verfügbar."
     },
     {
-      "name": "Opera 16 released",
+      "title": "Opera 16 released",
       "href": "http://my.opera.com/desktopteam/blog/2013/08/27/opera-16",
       "time": "00:01:36",
       "description": "Nachdem durch den Umstieg auf Blink Opera kurzzeitig seine Geolocation-Fähigkeit verloren hat, ist mit Version 16 nun wieder alles komplett."
     }
   ],
+  "topics": [
+    {
+      "title": "Progressive Enhancement – Still alive and kicking.",
+      "href": "http://danielmall.com/articles/progressive-enhancement/",
+      "time": "00:02:41",
+      "description": "Progressive Enhancement wird von der Community in der letzten Zeit wieder ordentlich heiß diskutiert und lässt nach <a href=\"http://jakearchibald.com/2013/progressive-enhancement-still-important/\">Jake Archibalds</a> Post vor ein paar Monaten auch einige andere Stimmen zu Wort kommen. Wie Daniel Mall, der mit seinem Tumblr <a href=\"http://sighjavascript.tumblr.com/\">Sigh, JavaScript</a> eine virtuelle Hall of Shame für Websites, die so ohne JavaScript mal gar nicht funktionieren, eröffnet hat. Wir plaudern über über unsere Erfahrungen mit deaktiviertem JavaScript und fragen uns, ob die Fragestellung nach Sinn oder Unsinn von Progressive Enhancement nicht eher eine Frage der Entwicklungsqualität sein sollte."
+    },
+    {
+      "title": "Bower – A package manager for the web",
+      "href": "http://yellowled.de/archiv/46/Asset-Verwaltung-mit-Bower.html",
+      "time": "00:19:00",
+      "description": "Seit einiger Zeit ist Twitters <a href=\"http://bower.io/\">Bower</a> schon veröffentlicht, und durch Tools wie <a href=\"http://yeoman.io\">Yeoman</a> schon in den Arbeitsablauf einiger Webentwickler fest integriert, ohne dass man es unbedingt mitbekommen hat. Von Matthias&#8217; Blogbeitrag ausgehend, erklären wir die Funktionsweise des <a href=\"http://sindresorhus.com/bower-components/\">Paketmanagers</a>, wo die großen Stärken liegen und worauf Nutzer achten sollen, wenn es in ihren Workflow integriert werden soll."
+    }
+  ],
   "links": [
     {
-      "name": "XDomain",
+      "title": "XDomain",
       "href": "https://github.com/jpillora/xdomain",
       "time": "00:44:30",
       "description": "Cross Origin Resource Sharing leicht gemacht. Diese JavaScript Bibliothek kümmert sich um all eure CORS Anliegen. Prädikat: cheffig."
     },
     {
-      "name": "Transitions for Off-Canvas Navigations",
+      "title": "Transitions for Off-Canvas Navigations",
       "href": "http://tympanus.net/codrops/2013/08/28/transitions-for-off-canvas-navigations/",
       "time": "00:44:30",
       "description": "Dass Off-Canvas Navigationen nicht immer lahm wie bei der Facebook-App aussehen müssen, zeigen die Leute bei Typmanus mit diesem gelungenen Demo."
     },
     {
-      "name": "HTML5 Progress Element",
+      "title": "HTML5 Progress Element",
       "href": "http://css-tricks.com/html5-progress-element/",
       "time": "00:44:30",
       "description": "Pankaj Parashar zeigt in seinem Gastartikel bei CSS Tricks, in welchem Status das HTML5 Progress Element ist, und was man mittlerweile alles damit anstellen kann."
     },
     {
-      "name": "Anfragen aus der Hölle",
+      "title": "Anfragen aus der Hölle",
       "href": "http://anfragenausderhoelle.tumblr.com/",
       "time": "00:44:30",
       "description": "Marc Hinse made our day mit unser aller Lieblingstumblr rund um Kundenanfragen und Sonderwünsche. Zum scheppig lachen!"

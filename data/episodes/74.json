@@ -27,7 +27,7 @@
   "description": "Schepp war im Urlaub, Kahlil verhindert und die Themenliste war leer. Also besprachen Hans und Peter diesmal eben nur ein einziges Thema.",
   "topics": [
     {
-      "name": "Sweep the Sleaze",
+      "title": "Sweep the Sleaze",
       "href": "http://informationarchitects.net/blog/sweep-the-sleaze/",
       "time": "00:01:02",
       "description": "Oliver Reichenstein meint, dass der Nutzen von Social-Media-Buttons (Facebook, Twitter usw.) zweifelhaft, der bei ihrem Einsatz entstehende Schaden für Image und Seitenperformance hingegen ziemlich sicher sei. Peter mag nicht ganz zustimmen und meint: wenn man es richtig macht, stören die Dinger zumindest nicht."
@@ -35,19 +35,19 @@
   ],
   "links": [
     {
-      "name": "Code Painter",
+      "title": "Code Painter",
       "href": "https://github.com/fawek/codepainter",
       "time": "00:18:03",
       "description": "<q lang=\"en\">Code Painter is a JavaScript beautifier that instead of asking you to manually specify the desired formatting style, can infer it from a code sample provided by you.</q>"
     },
     {
-      "name": "Videos von Fluent 2012",
+      "title": "Videos von Fluent 2012",
       "href": "http://www.youtube.com/view_play_list?p=PL75AC4484E6866741",
       "time": "00:18:03",
       "description": "Kurzweilige Vorträge von Nerds mit Kaliber."
     },
     {
-      "name": "Sorting – We’re Doing It Wrong",
+      "title": "Sorting – We’re Doing It Wrong",
       "href": "http://blog.rodneyrehm.de/archives/14-Sorting-Were-Doing-It-Wrong.html",
       "time": "00:18:03",
       "description": "Rodney Rehm steigt aber mal so richtig tief in das Thema „sortieren in JavaScript ein“."
