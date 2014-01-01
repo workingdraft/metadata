@@ -2,7 +2,8 @@
 
 module.exports = function(mandatory) {
   var options = {
-    analyze: true
+    analyze: true,
+    update: true
   };
 
   process.argv.slice(2).forEach(function (val, index, array) {
@@ -33,6 +34,9 @@ module.exports = function(mandatory) {
     if (val === '--analyze') {
       options.analyze = array[index+1] === 'off' ? false : true;
     }
+    if (val === '--update') {
+      options.update = array[index+1] === 'off' ? false : true;
+    }
     if (val === '--force') {
       options.force = true;
     }
@@ -43,6 +47,7 @@ module.exports = function(mandatory) {
       console.log(" --limit 10        update only the first 10 update-worthy episodes");
       console.log(" --force           update all episodes (excluding --except) even if they're already cached");
       console.log(" --analyze off     disable content quality analysis");
+      console.log(" --update off      disable update of 'stale' cache");
       process.exit(0);
     }
   });

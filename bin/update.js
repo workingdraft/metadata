@@ -16,7 +16,8 @@ var episodes, people, contents, checksum;
 
 loadIndexFiles()
   .then(determineEpisodes)
-  .then(updateEpisodes)
+  .then(parseEpisodes)
+  .then(updateCachedEpisodes)
   .then(saveIndexFiles)
   .then(findAnomalies)
   .catch(logError.bind(null, null));
@@ -75,7 +76,7 @@ function determineEpisodes() {
   return Q(_episodes);
 }
 
-function updateEpisodes(list) {
+function parseEpisodes(list) {
   var promises = list.map(function(id) {
     return fetchEpisode(id)
       .then(parseWordpress)
@@ -88,6 +89,39 @@ function updateEpisodes(list) {
   // continue processing even if an episode failed
   return Q.allSettled(promises)
     .thenResolve(list);
+}
+
+function updateCachedEpisodes(list) {
+  if (!options.update) {
+    return list;
+  }
+  
+  var promises = determineCachedEpisodes(list).map(function(id) {
+    if (contents[id]) {
+      contents[id].id = id;
+    }
+    
+    return Q(contents[id] || {id: id})
+      .then(mergeEpisodeContents)
+      .then(updateEpisodesIndex)
+      // TOTO: avoid unnecessary disk I/O when nothing's changed
+      .then(saveEpisodeContents)
+      .catch(logError.bind(null, id));
+  });
+  
+  return Q.allSettled(promises)
+    .thenResolve(list);
+}
+
+function determineCachedEpisodes(list) {
+  var fetched = {};
+  list.forEach(function(item) {
+    fetched[item] = true;
+  });
+
+  return Object.keys(episodes).map(Number).filter(function(item) {
+    return !fetched[item];
+  });
 }
 
 function fetchEpisode(id) {
@@ -120,7 +154,9 @@ function mergeEpisodeContents(data) {
   var episode = episodes[data.id];
 
   function toData(key) {
-    _data[key] = this[key];
+    if (_data[key] === undefined) {
+      _data[key] = this[key];
+    }
   }
   
   // import episode metadata
