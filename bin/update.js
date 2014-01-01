@@ -104,9 +104,7 @@ function saveJSON() {
 
 function saveContents(id) {
   var writeFile = Q.denodeify(FS.writeFile);
-  var data = {
-    episode: id
-  };
+  var data = {};
   
   function toData(key) {
     data[key] = this[key];
