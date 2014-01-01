@@ -59,7 +59,14 @@
       "description": "Wir erfreuen uns an einer Cross-Browser-Lösung für das Ermitteln von Größenänderungen von einzelnen Elementen im DOM. Etwas nutzerfreundlicher wäre die Kapselung in jQuery&#8217;s Special Events &#8211; weitere Infos dazu haben <a href=\"http://benalman.com/news/2010/03/jquery-special-events/\">Ben Alman</a> und <a href=\"http://learn.jquery.com/events/event-extensions/\">learn jQuery</a>."
     }
   ],
-  "randomSpec": [],
+  "randomSpec": [
+    {
+      "title": "menuitem",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/#the-menuitem-element",
+      "time": "00:30:36",
+      "description": "Wir haben uns ein <a href=\"http://www.whatwg.org/specs/web-apps/current-work/#the-menuitem-element\"><code>menuitem</code></a> Element gewonnen. Damit lassen sich, in Verbindung mit <code>&lt;menu type=\"context\"&gt;</code> native, also in der Browser-UI gerenderte, Kontextmenüs basteln.<br>\nBisher kann das nur der Firefox, doch Rod hatte damals ein <a href=\"http://medialize.github.com/jQuery-contextMenu/\">jQuery Plugin mit HTML5 import</a> gebaut."
+    }
+  ],
   "links": [
     {
       "title": "Chart.js",

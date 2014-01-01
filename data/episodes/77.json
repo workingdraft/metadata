@@ -32,97 +32,97 @@
   "audio": "http://workingdraft.de/podpress_trac/web/1309/0/wd-77.mp3",
   "title": "Do not Track, IHK-Petition und Web Components",
   "description": "Überraschung: Sowohl Schepp als auch Peter waren zur Abwechlsung mal wieder an Bord. <a href=\"http://blog.rodneyrehm.de/\">Der ewige Rod</a> vertrat Hans und Kahlil.",
-  "topics": [
-    {
-      "name": "The Sabotage of Do Not Track",
-      "href": "http://laboratorium.net/archive/2012/06/19/the_sabotage_of_do_not_track",
-      "time": "00:00:55",
-      "description": "Kommt er oder kommt er nicht, der Do-Not-Track-Header? Und wenn ja, wie? Seit der Microsoft-Ankündigung, <a href=\"http://blogs.technet.com/b/microsoft_on_the_issues/archive/2012/05/31/advancing-consumer-trust-and-privacy-internet-explorer-in-windows-8.aspx\">den IE10 per Default DNT:1 schicken zu lassen</a> regt sich Widerstand bei den Werbenetzwerken. Ohne irgendwelche Gesetzgebung, als reiner Webstandard, wird es wohl schwer für Do Not Track&nbsp;&hellip;"
-    },
-    {
-      "name": "I Want a DAMNodeInserted Event",
-      "href": "http://www.backalleycoder.com/2012/04/25/i-want-a-damnodeinserted/",
-      "time": "00:18:30",
-      "description": "Epischer Hack implementiert einen primitiven DOM-Observer für Insertions, quasi als Teil-Polyfill für die in <a href=\"http://workingdraft.de/71/\">Revision&nbsp;71</a> schon besprochenen <a href=\"http://hacks.mozilla.org/2012/05/dom-mutationobserver-reacting-to-dom-changes-without-killing-browser-performance/\">DOM Mutation Observers</a>. Der Trick ist zwar recht abgefahren, für Dinge wie <a href=\"https://github.com/yatil/accessifyhtml5.js\">accessifyhtml5.js</a> aber sicher von Wert (falls man nicht gerade jQuery verwendet und <a href=\"http://blog.rodneyrehm.de/archives/11-jQuery-Hooks.html\">die entsprechenden Hooks</a> benutzt)."
-    },
-    {
-      "name": "X-Tag – Web Components Workshop und Working with CSS Regions and Shadow DOM",
-      "href": "https://air.mozilla.org/x-tags/",
-      "time": "00:29:05",
-      "description": "Präsentation eines Polyfills für <a href=\"http://mozilla.github.com/x-tag/\">Web Components</a> (ihr wisst schon, <a href=\"http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/\">Shadow DOM</a> und so) und ein Adobe-Artikel zur Kombination von Shadow DOM und <a href=\"http://vimeo.com/32126964\">CSS3 Regions</a>."
-    },
-    {
-      "name": "Der IHK-Zwang muss abgeschafft werden",
-      "href": "http://www.perun.net/2012/06/24/kommentar-der-ihk-zwang-muss-abgeschafft-werden/",
-      "time": "00:42:35",
-      "description": "Vladimir Simovic erklärt uns warum der IHK-Zwang in die Tonne getreten gehört. Wir gehen d&#8217;accord und fordern <a href=\"https://epetitionen.bundestag.de/index.php?action=petition%3Bsa%3Dsign%3Bpetition%3D24793%3Blimit%3D10%3Bsort%3Dpet_sign_nr%3Bdir%3Ddown%3Bstart%3D0\">zum Unterzeichnen der dazugehörigen Petition</a> auf."
-    }
-  ],
   "news": [
     {
-      "name": "It’s Official, CSS Media Queries Are a Web Standard",
+      "title": "It’s Official, CSS Media Queries Are a Web Standard",
       "href": "http://www.webmonkey.com/2012/06/its-official-css-media-queries-are-a-web-standard",
       "time": "00:00:22",
       "description": "CSS3 Media Queries sind eine fertige W3C Recommendation"
     }
   ],
+  "topics": [
+    {
+      "title": "The Sabotage of Do Not Track",
+      "href": "http://laboratorium.net/archive/2012/06/19/the_sabotage_of_do_not_track",
+      "time": "00:00:55",
+      "description": "Kommt er oder kommt er nicht, der Do-Not-Track-Header? Und wenn ja, wie? Seit der Microsoft-Ankündigung, <a href=\"http://blogs.technet.com/b/microsoft_on_the_issues/archive/2012/05/31/advancing-consumer-trust-and-privacy-internet-explorer-in-windows-8.aspx\">den IE10 per Default DNT:1 schicken zu lassen</a> regt sich Widerstand bei den Werbenetzwerken. Ohne irgendwelche Gesetzgebung, als reiner Webstandard, wird es wohl schwer für Do Not Track&nbsp;&hellip;"
+    },
+    {
+      "title": "I Want a DAMNodeInserted Event",
+      "href": "http://www.backalleycoder.com/2012/04/25/i-want-a-damnodeinserted/",
+      "time": "00:18:30",
+      "description": "Epischer Hack implementiert einen primitiven DOM-Observer für Insertions, quasi als Teil-Polyfill für die in <a href=\"http://workingdraft.de/71/\">Revision&nbsp;71</a> schon besprochenen <a href=\"http://hacks.mozilla.org/2012/05/dom-mutationobserver-reacting-to-dom-changes-without-killing-browser-performance/\">DOM Mutation Observers</a>. Der Trick ist zwar recht abgefahren, für Dinge wie <a href=\"https://github.com/yatil/accessifyhtml5.js\">accessifyhtml5.js</a> aber sicher von Wert (falls man nicht gerade jQuery verwendet und <a href=\"http://blog.rodneyrehm.de/archives/11-jQuery-Hooks.html\">die entsprechenden Hooks</a> benutzt)."
+    },
+    {
+      "title": "X-Tag – Web Components Workshop und Working with CSS Regions and Shadow DOM",
+      "href": "https://air.mozilla.org/x-tags/",
+      "time": "00:29:05",
+      "description": "Präsentation eines Polyfills für <a href=\"http://mozilla.github.com/x-tag/\">Web Components</a> (ihr wisst schon, <a href=\"http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/\">Shadow DOM</a> und so) und ein Adobe-Artikel zur Kombination von Shadow DOM und <a href=\"http://vimeo.com/32126964\">CSS3 Regions</a>."
+    },
+    {
+      "title": "Der IHK-Zwang muss abgeschafft werden",
+      "href": "http://www.perun.net/2012/06/24/kommentar-der-ihk-zwang-muss-abgeschafft-werden/",
+      "time": "00:42:35",
+      "description": "Vladimir Simovic erklärt uns warum der IHK-Zwang in die Tonne getreten gehört. Wir gehen d&#8217;accord und fordern <a href=\"https://epetitionen.bundestag.de/index.php?action=petition%3Bsa%3Dsign%3Bpetition%3D24793%3Blimit%3D10%3Bsort%3Dpet_sign_nr%3Bdir%3Ddown%3Bstart%3D0\">zum Unterzeichnen der dazugehörigen Petition</a> auf."
+    }
+  ],
   "links": [
     {
-      "name": "reFiddle",
+      "title": "reFiddle",
       "href": "http://refiddle.com/",
       "time": "00:57:05",
       "description": "JSFiddle für Regex."
     },
     {
-      "name": "Asynchronous programming and continuation-passing style in JavaScript",
+      "title": "Asynchronous programming and continuation-passing style in JavaScript",
       "href": "http://www.2ality.com/2012/06/continuation-passing-style.html",
       "time": "00:57:05",
       "description": "Der Doktor erleuchtet uns über asynchrones JS."
     },
     {
-      "name": "DailyJS #js101",
+      "title": "DailyJS #js101",
       "href": "http://dailyjs.com/tags.html#js101",
       "time": "00:57:05",
       "description": "Artikel für JavaScript-Einsteiger."
     },
     {
-      "name": "Grunt plugins published to Npm",
+      "title": "Grunt plugins published to Npm",
       "href": "http://jsfiddle.net/cowboy/qzRjD/show/",
       "time": "00:57:05",
       "description": "Damit man nicht mehr selbst Tasks bauen muss."
     },
     {
-      "name": "pageguide.js",
+      "title": "pageguide.js",
       "href": "http://tracelytics.github.com/pageguide/",
       "time": "00:57:05",
       "description": "<q lang=\"en\">An interactive guide for web page elements using jQuery and CSS3.</q>"
     },
     {
-      "name": "10 things you didn’t know JavaScript could do",
+      "title": "10 things you didn’t know JavaScript could do",
       "href": "http://www.netmagazine.com/features/10-things-you-didnt-know-javascript-could-do",
       "time": "00:57:05",
       "description": "Von <a href=\"https://twitter.com/asciidisco\">@asciidisco</a>."
     },
     {
-      "name": "Cool URIs don’t change",
+      "title": "Cool URIs don’t change",
       "href": "http://www.w3.org/Provider/Style/URI.html",
       "time": "00:57:05",
       "description": "Steinalt, aber immer noch relevant und richtig."
     },
     {
-      "name": "Shumway & bikeshed.js",
+      "title": "Shumway & bikeshed.js",
       "href": "http://badassjs.com/post/25369867558/shumway-mozillas-flash-vm-and-runtime-in-javascript",
       "time": "00:57:05",
       "description": "Flash-Interpreter in JS."
     },
     {
-      "name": "CSS generated content and screen readers",
+      "title": "CSS generated content and screen readers",
       "href": "http://www.456bereastreet.com/archive/201205/css_generated_content_and_screen_readers/",
       "time": "00:57:05",
       "description": "Die lesen das Zeug vor!"
     },
     {
-      "name": "Skrollr",
+      "title": "Skrollr",
       "href": "https://github.com/Prinzhorn/skrollr",
       "time": "00:57:05",
       "description": "Scrolling-Library ohne Dependencies."

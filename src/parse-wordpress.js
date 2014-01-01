@@ -82,6 +82,11 @@ function analyzeContents(title) {
     data = data.concat(analyzeList(list, title));
     list = list.next();
   }
+  
+  // randomSpec sometimes comes as a single <p>
+  if (!data.length && title.next().is('p')) {
+    data = data.concat(analyzeList(title.next(), title));
+  }
 
   return data.filter(function(item) {
     return !!item.title;
