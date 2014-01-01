@@ -225,26 +225,13 @@ function findAnomalies(list) {
         checksum[id].topics !== (content.topics || []).length && log(id, "checksum of topics is wrong");
         checksum[id].randomSpec !== (content.randomSpec || []).length && log(id, "checksum of randomSpec is wrong");
         checksum[id].links !== (content.links || []).length && log(id, "checksum of links is wrong");
-        checksum[id].description !== (content.description || "").split("\n\n").length && log(id, "checksum of description is wrong");
-      } else {
-        // check pure existence
-        episode.flags && episode.flags.forEach(function(flag) {
-          switch (flag) {
-            case 'no-topics':
-              content = content || {};
-              content.topics = ['foo'];
-              break;
-            case 'no-description':
-              content = content || {};
-              content.description = 'foo';
-              break;
-          }
-        });
         
-        !content.description && log(id, "Description is missing");
-        if (!content.topics || !content.topics.length) {
-          log(id, "topics are missing");
-        }
+		if (checksum[id].description) {
+			checksum[id].description !== (content.description || "").split("\n\n").length && log(id, "checksum of description is wrong");
+		} else {
+			content.description && log(id, "checksum of description is wrong - there should be none");
+		}
+		
       }
     }
   });

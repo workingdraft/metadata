@@ -300,9 +300,6 @@
     "id": 24,
     "date": "2011-05-10",
     "duration": "00:53:53",
-    "flags": [
-      "no-description"
-    ],
     "people": [
       "derSchepp",
       "sir_pepe"
@@ -417,9 +414,6 @@
     "id": 33,
     "date": "2011-07-26",
     "duration": "01:09:50",
-    "flags": [
-      "no-description"
-    ],
     "people": [
       "markus_schlegel",
       "sir_pepe"
@@ -538,9 +532,6 @@
     "id": 42,
     "date": "2011-12-08",
     "duration": "01:20:02",
-    "flags": [
-      "no-description"
-    ],
     "people": [
       "derSchepp",
       "markus_schlegel",
@@ -755,9 +746,6 @@
     "id": 58,
     "date": "2012-02-16",
     "duration": "01:31:36",
-    "flags": [
-      "no-description"
-    ],
     "people": [
       "derSchepp",
       "distilledhype",
@@ -1413,9 +1401,6 @@
     "date": "2013-01-17",
     "duration": "00:05:59",
     "live": true,
-    "flags": [
-      "no-topics"
-    ],
     "people": [
       "distilledhype",
       "drublic",
@@ -1545,9 +1530,6 @@
     "date": "2013-03-19",
     "duration": "00:40:22",
     "live": true,
-    "flags": [
-      "no-topics"
-    ],
     "people": [
       "derSchepp",
       "sir_pepe"
@@ -1685,9 +1667,6 @@
     "id": 122,
     "date": "2013-06-04",
     "duration": "00:34:17",
-    "flags": [
-      "no-topics"
-    ],
     "people": [
       "codepo8",
       "derSchepp",
@@ -1770,9 +1749,6 @@
         "duration": "01:12:13",
         "date": "2013-07-01"
       }
-    ],
-    "flags": [
-      "no-topics"
     ],
     "people": [
       "ddprrt",
@@ -2268,9 +2244,6 @@
     "id": 150,
     "date": "2013-12-29",
     "duration": "00:17:58",
-    "flags": [
-      "no-topics"
-    ],
     "people": [
       "derSchepp",
       "sir_pepe"
