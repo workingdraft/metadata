@@ -48,7 +48,9 @@ The episode index `data/episodes.json` contains general metadata:
     // [optional] link to the episode's audio file
     "audio": "http://workingdraft.de/some/path/to/file/12345.mp3",
     // [optional] link to the episode's video
-    "video": "http://www.youtube.com/watch?v=aFEiw0SEMyw"
+    "video": "http://www.youtube.com/watch?v=aFEiw0SEMyw",
+    // the episode's name
+    "title": "Some Catchy Episode Title"
   }
 }
 ```
@@ -107,9 +109,9 @@ An episode's content is tracked in `data/episodes/12345.json`:
   // [optional] link to the episode's video
   "video": "http://www.youtube.com/watch?v=aFEiw0SEMyw",
   // the episode's name
-  "title": "Myth, statische Seiten, Links",
-  // [optional] the episode's brief meta-description
-  "description": "Kurz vor Weihnachten plauderten Rodney und Peter über den neuesten CSS-Präprozessor (den niemand benutzen sollte) und statische Webseiten.",
+  "title": "Some Catchy Episode Title",
+  // [optional] the episode's brief meta-description (HTML)
+  "description": "Some Episode Description.",
   // [optional] the topics ("Schaunotizen") that were discussed in this episode
   "topics": [
     {
