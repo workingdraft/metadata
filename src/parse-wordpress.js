@@ -19,10 +19,12 @@ function analyze(html) {
     audio: content.find(".podpress_downloadimglink").attr("href") || "",
     href: $('[rel="bookmark"]').attr("href") || ""
   };
+
+  content.find('.podPress_content, script, .wp-flattr-button').remove();
   
   var headlines = content.find('h3');
   var paragraphs = headlines.length ? headlines.first().prevAll() : content.find('p');
-  var description = paragraphs.map(function(item) {
+  var description = paragraphs.map(function() {
     this.find('a').removeAttr('onclick');
     return trim(this.html());
   }).filter(function(item){ return !!item; }).join('\n\n');
