@@ -16,7 +16,8 @@
       "team": [
         "2011-11-03"
       ],
-      "twitter": "https://twitter.com/drublic"
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
     },
     {
       "name": "Marc Thiele",
@@ -27,7 +28,8 @@
       "team": [
         "2010-11-02"
       ],
-      "twitter": "https://twitter.com/sir_pepe"
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
     }
   ],
   "href": "http://workingdraft.de/85/",

@@ -16,14 +16,16 @@
       "team": [
         "2011-11-03"
       ],
-      "twitter": "https://twitter.com/drublic"
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
     },
     {
       "name": "Rodney Rehm",
       "team": [
         "2011-09-16"
       ],
-      "twitter": "https://twitter.com/rodneyrehm"
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
     }
   ],
   "href": "http://workingdraft.de/91/",
