@@ -12,8 +12,10 @@ function analyze(html) {
     throw new Error("No Content Found");
   }
   
+  var title = ($('.postcontainer h2').text() || "").match(/^revision (\d+):(.+)/i);
   var data = {
-    title: ($('.postcontainer h2').text() || "").replace(/^revision \d+:\s+/i, ''),
+    id: parseInt(title[1], 10),
+    title: trim(title[2]),
     audio: content.find(".podpress_downloadimglink").attr("href") || "",
     href: $('[rel="bookmark"]').attr("href") || ""
   };
