@@ -177,6 +177,7 @@ An episode's content is tracked in `data/episodes/12345.json`:
 * [wordpress] consider adding timestamps where presently not available
 * [scraping] parse all links to extract keywords (JS, CSS, Grunt, Sass, Preprocessor, …)
 * [parse-wordpress] import comments
+* [linking] consider (manually?) adding links to trello boards in `data/episodes.json`
 
 
 ## Interesting Links ##
