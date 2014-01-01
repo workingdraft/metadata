@@ -1,6 +1,5 @@
 {
   "1": {
-    "episode": 1,
     "title": "Sencha Animator, Webfernsehen und Firesheep",
     "description": "Die allererste Folge des neuen News-Podcasts für den ambitionierten Webmenschen. Peter und ich haben uns über den endgültigen Tod von Silverlight im Web, Adobes HTML5-Bemühungen, den tollen Sencha Animationseditor, Vimeo Couchmode und Youtube Leanback, den Google-WebFont-Loader, XML-Tags für Facebook, Audio-APIs im Firefox, Stacktraces in JavaScript und natürlich Firesheep unterhalten.",
     "topics": [
@@ -59,7 +58,6 @@
     ]
   },
   "2": {
-    "episode": 2,
     "title": "mod_pagespeed, Sub-Pixel-Positionierung und viel Hall",
     "description": "Auf meiner Spur ist leider so viel Hall, dass ich zeitweise ernsthaft gezweifelt habe, ob wir die Folge wirklich auf die Öffentlichkeit loslassen sollen. Ihr seid aber hoffentlich schmerzresistent genug, um darüber hinwegzusehen – zumindest dieses mal noch. Ich hoffe, beim nächsten Mal habe ich die Problemquelle ausfindig gemacht. Da sich der Hall geradezu wie berechnet anhört, würde ich sogar vermuten, da hat der böse Steve seine Finger softwareseitig im Spiel …\n\nIn der Premierenfolge hatten wir es noch nicht geschafft, jetzt hat es geklappt. In voller Besetzung haben wir nun auch <em>inklusive <a href=\"http://twitter.com/derSchepp\">Schepp</a></em> gemeinsam unsere minderwertigen Mikrofone beschallt. Googles Apache-Modul mod_pagespeed als Ableger des Browser-Plugins PageSpeed, Web-Applikationen versus Browser-Applikationen, Featuredetection-basiertes Nachladen von Polyfills, Hardwarebeschleunigung in Chrome, Sub-Pixel-genaue Positionierung von Schrift im IE9, Adobes Bemühungen um Webtypografie und serverseitiges Canvas waren unsere Themen.",
     "topics": [
@@ -118,7 +116,6 @@
     ]
   },
   "3": {
-    "episode": 3,
     "title": "FF4Beta7, F1 und Google Instant Previews",
     "description": "Am Anfang vergangener Woche war erstaunlich wenig los. Mozilla legte dann aber noch nach und brachte die 7er Beta des Firefox 4 mit Hardware-Grafikbeschleunigung, Forms &#038; File-API, Jägermonkey und Opentype-Featureunterstützung.\n\nEs lief technisch erstaunlich reibungsfrei. Garageband habe ich als Aufnahmesoftware dieses Mal zum Teufel gejagt, was sich als richtige Entscheidung herausstellte. Nur bei der Skype-Verbindung gabs hier und da ein paar Aussetzer.",
     "topics": [
@@ -170,7 +167,6 @@
     ]
   },
   "4": {
-    "episode": 4,
     "title": "Sencha Touch 1.0, IE9-JS und HTML5-Gaming",
     "description": "Peter war dieses mal nicht dabei; dafür aber <a href=\"http://twitter.com/polarity\">@polarity</a>. Robert hat sich in letzter Zeit verstärkt mit Game-Engines auf HTML5-Basis beschäftigt und ob der lahmen News-Situation diese Woche haben wir am Ende dann einfach noch einen generellen EInblick in das Thema gegeben.",
     "topics": [
@@ -232,7 +228,6 @@
     ]
   },
   "5": {
-    "episode": 5,
     "title": "iOS 4.2, Opera 11, Web Messaging und Kinect",
     "description": "Auf <a href=\"http://praegnanz.de/weblog/webtypografie-bei-polylogo\">Gerrits Drängen</a> hin, hab ich dieses mal das integrierte MacBook-Mikrofon zum Aufnehmen genutzt. Konkret bedeutet das, dass ich nun in einer Mülltonne zu sitzen scheine; meine scharfkantigen Atmungsaktivitäten stechen damit aber immerhin weniger ins Ohr.",
     "topics": [
@@ -269,7 +264,6 @@
     ]
   },
   "6": {
-    "episode": 6,
     "title": "Firebug 1.6, head.js, Adventskalender und alle sind krank",
     "description": "<a href=\"http://twitter.com/mademyday\">Marc Hinse</a>, Peters geplante Aushilfe erkrankte leider kurzfristig, sodass der Schepp und ich das zu zweit schaukeln mussten. Bis auf mein Kopf und meine Stimme spielten auch alle Beteiligten mit.",
     "topics": [
@@ -316,7 +310,6 @@
     ]
   },
   "7": {
-    "episode": 7,
     "title": "Dateisystem, Android 2.3, Websockets-Protokoll-Glitch, CSS 2.1",
     "description": "Dann kamen noch Fragen nach einer Spendenmöglichkeit per Direktüberweisung; ohne Paypal. Wer also meine Kontodaten will, bekommt diese auf Anfrage <a href=\"mailto:mail@markus-schlegel.com\">per Mail</a>.\n\nWeil wir noch ein paar Themen haben, die wir gerne noch zusammen mit Schepp besprechen würden, andererseits aber dachten, dies sollte die letzte Sendung vor Weihnachten sein, fragen wir nun einfach in die Runde der Hörer: Wollt ihr nächsten Dienstag noch eine Sendung oder seid ihr da schon an den Weihnachtsbaum gekettet und mit Tannenbaumbesorgungen beschäftigt?\n\nSchepp fiel aus, Marc stand im Stau, also mussten Peter und ich uns die Themen eben zu zweit zur Brust nehmen. In Rekordzeit!",
     "topics": [
@@ -343,7 +336,6 @@
     ]
   },
   "8": {
-    "episode": 8,
     "title": "CrankShaft, Treesaver und ControlJS",
     "description": "Hier übrigens ein Screenshot, der zeigt, wie ausdifferenziert unsere Betriebssystemwahl aussieht:<br>\n<a href=\"http://workingdraft.de/wp-content/uploads/2010/12/Screen-shot-2010-12-20-at-20.12.31.png\"><img class=\"alignnone size-medium wp-image-163\" title=\"Screen shot 2010-12-20 at 20.12.31\" src=\"http://workingdraft.de/wp-content/uploads/2010/12/Screen-shot-2010-12-20-at-20.12.31-300x182.png\" alt=\"\" width=\"300\" height=\"182\"></a>\n\nDie letzte Folge des Jahres. Ein Holzscheit in den wärmenden Kamin der nerdigen Weihnachtlichkeit, der uns über die Feiertage bringen soll, bis wir dann am 10.1. die nächste Sendung aufnehmen werden. Wer Anregungen für die neue Saison hat: Her damit!",
     "topics": [
@@ -385,7 +377,6 @@
     ]
   },
   "9": {
-    "episode": 9,
     "title": "DOM-Monster, Drupal 7 und 2.2250738585072011e-308",
     "description": "Achja, und das mit dem Normalisieren muss mir noch mal einer erklären. Ich krieg die Peter-Spur nie so laut, dass sie gleich ist wie die anderen.\n\nErste Folge im neuen Jahr, zum ersten Mal <a href=\"http://www.guido-muehlwitz.de/\">zu viert</a>,  aber hoffentlich das letzte Mal mit Mülltonnen-Sound von meiner Seite. Ab nächster Woche laufe ich nämlich mit dem gleichen Headset auf, das z.B. auch von <a href=\"http://tim.geekheim.de\">Tim Pritlove</a>, <a href=\"http://philipbanse.de/wp/\">Philip Banse</a> oder <a href=\"http://alternativlos.org\">Frank &#038; Fefe</a> benutzt wird.",
     "topics": [
@@ -422,7 +413,6 @@
     ]
   },
   "10": {
-    "episode": 10,
     "title": "H.264 vs. WebM, Shadow DOM und w3fools.com",
     "description": "Viel Spaß mit der Folge!\n\nNEU und BREAKING: Es gibt jetzt auch mal testweise Kapitelmarken. Bisher leider nur im MP4-Format. Wenn das Feature ankommt und ihr beispielsweise Ogg fordert, kann ich auch das geschehen lassen.\n\nFür die potenziell sprengsatzhaltige Diskussion um Googles Entscheidung, den H.264-Codec aus Chrome zu entfernen, holten wir uns <a href=\"http://praegnanz.de\">Gerrit van Aaken</a> mit ins Boot. Wir hoffen, dass die Audio-Qualität langsam in den Bereich des Erträglichen vordringt.",
     "topics": [
@@ -491,7 +481,6 @@
     ]
   },
   "11": {
-    "episode": 11,
     "title": "HTML5 +Logo -5, Markup-Manipulation und IP-Adressen-Endzeit",
     "description": "Bei unserer Tonqualität ist es wie beim Google Linkjuice: Zählt man alle Beteiligten zusammen, kommt immer die Zahl 1 heraus. Während Markus nun also THX-Ultra-zertifiziert ist, zerbröselten unserem Gast <a href=\"http://twitter.com/nicobruenjes\">Nico Brünjes</a>, <a href=\"http://codecandies.de\">Frontendentwickler</a> bei <a href=\"http://www.zeit.de\">ZEIT ONLINE</a>, reihenweise die Headsets unter den Fingern weg :(",
     "topics": [
@@ -540,7 +529,6 @@
     ]
   },
   "12": {
-    "episode": 12,
     "title": "CSS-Reset, IE9 RC1 und Harmony",
     "description": "Ausgabe Nummer zwölf mit einem neuen Gast, nämlich <a href=\"https://www.xing.com/profile/Tobias_Oberrauch\">Tobias Oberrauch</a> aus Karlsruhe, und spitzen Soundqualität. Yeah!",
     "topics": [
@@ -594,7 +582,6 @@
     ]
   },
   "13": {
-    "episode": 13,
     "title": "Screen Presenter, Chromeless und Clipboard API",
     "description": "Endlich haben wir es geschafft, eine Sprechprobe <a href=\"http://twitter.com/mademyday\">Marc Hinses</a> auf digitales Vinyl zu pressen. Und die Soundqualität ist auch gar nicht mal komplett scheiße.",
     "topics": [
@@ -653,7 +640,6 @@
     ]
   },
   "14": {
-    "episode": 14,
     "title": "Hashbangs, PhantomJS und Github-Gene",
     "description": "Die große Seuche grassierte wieder. Peter strich die Segel und Schepp griff schon nach der weißen Flagge. Eine Viertel Stunde vor offiziellem Aufnahmetermin holten wir uns dann als Verstärkung wieder <a href=\"http://twitter.com/mademyday\">Marc Hinse</a> ins Boot. Vielen Dank nochmals dafür!",
     "topics": [
@@ -702,7 +688,6 @@
     ]
   },
   "15": {
-    "episode": 15,
     "title": "IE9 unmodern? Teure Featuredetection? Pareto-Prinzip?",
     "description": "Nachdem Peter immer noch hustengeplagt und Markus anderweitig absent war, freute sich Schepp über bewährte Verstärkung seitens <a href=\"http://www.mademyday.de/\">Marc Hinses</a> alias <a href=\"http://twitter.com/mademyday\">@mademyday</a> (Notiz an uns selbst: Wir sollten Marc bald mal in der Liste unserer festen Moderatoren verankern&#8230;).",
     "topics": [
@@ -746,7 +731,6 @@
     ]
   },
   "16": {
-    "episode": 16,
     "title": "Interview mit Microsoft",
     "description": "Zielrichtung unseres Gesprächs waren die Fragen: Wie denkt Microsoft in Sachen Browser so? Warum ist der IE9 so geworden wie er ist? Wie ist der weitere Entwicklungsweg geplant? Was wünscht man sich von der Webentwicklergemeinde?\n\nDiese Revision sind wir mal vom gewohnten Kurs abgewichen und haben keine Wochenrückschau, sondern eine Schwerpunkt-Folge für Euch erstellt. Möglich gemacht hat das <a href=\"http://twitter.com/dm_ms\">Daniel Melanchthon</a>, <a href=\"http://blogs.technet.com/b/dmelanchthon/\">Developer Platform Evangelist bei Microsoft</a> und Fachmann unter anderem für den IE9. Vielen Dank an Daniel, der sich trotz Rückreise-Jetlag kurzfristig abends Zeit für uns genommen hat!",
     "topics": [
@@ -781,7 +765,6 @@
     ]
   },
   "17": {
-    "episode": 17,
     "title": "A/B-Test, Animationen, Canvas und WebGL",
     "description": "Nach ganzen vier(!) Wochen des krankheitsbedingten Ausfallens haben wir uns endlich den Peter wieder in die Sendung zurückgeholt. Das war auch dringend erforderlich, denn bedingt durch unsere letztwöchige Sondersendung haben sich bei uns furchtbar viele interessante Themen angesammelt, die in Augenschein genommen werden mussten. Die Themenflut hatte zudem zur Folge, dass wir besonders rigoros sieben mussten. Da wir dieses Material nicht ganz unter den Tisch fallen lassen wollten sind im Gegenzug unsere <em>KEINE Schaunotizen</em> sehr umfangreich geworden. Also unbedingt mal durchscrollen!",
     "topics": [
@@ -855,7 +838,6 @@
     ]
   },
   "18": {
-    "episode": 18,
     "title": "Scoped Styles, Web Inspector Remote, Bildmanipulation in PHP",
     "description": "Nachdem wir die Sendung letzte Woche aufgrund weniger Themen und AKW-dominierter Nachrichtenlage haben ausfallen lassen, so haben wir uns diesmal den Cem Derin, alias <a href=\"http://twitter.com/unset\">@unset</a>, als Co-Moderator an Bord geholt. Der eine oder andere kennt Cem vielleicht von seinen wöchentlichen Berichten zur Schräglage der Nation in Form des <a href=\"http://shitstorm.cemderin.net/\">Shitstorm Podcasts</a>.",
     "topics": [
@@ -919,7 +901,6 @@
     ]
   },
   "19": {
-    "episode": 19,
     "title": "Barcamp, HTML5 Buch, Device-API und Manifest-Validator",
     "description": "Diese Woche haben wir uns kompetente Unterstützung von <a href=\"http://twitter.com/dantz\">Andreas Dantz</a> aus Bremen gesichert.",
     "topics": [
@@ -993,7 +974,6 @@
     ]
   },
   "20": {
-    "episode": 20,
     "title": "HTTPArchive, dynaTrace und AmplifyJS",
     "description": "Irgendwie hat sich die Veröffentlichung der zwanzigsten Folge etwas hingezogen. Jetzt ist sie aber da und ist bereit, sich mit brachialer Gewalt in eure Trommelfelle zu fressen.",
     "topics": [
@@ -1047,7 +1027,6 @@
     ]
   },
   "21": {
-    "episode": 21,
     "title": "SPDY, Mobile UI, Webshims, und alles hardboiled!",
     "description": "Heute zu Gast bei uns: <a href=\"http://www.highresolution.info/\">Dirk Jesse</a> aus Berlin, Autor des HTML+CSS-Frameworks <a href=\"http://www.yaml.de/\">YAML</a>. Und zu viert haben wir unsere bisher beste und längste Sendung hingequatscht.",
     "topics": [
@@ -1111,7 +1090,6 @@
     ]
   },
   "22": {
-    "episode": 22,
     "title": "IE10, Live.js und Favicons",
     "description": "Wer uns übrigens einen Audio-Kommentar (Fragen, Lob, Tadel) zusenden möchte, der kann und sollte das gerne tun. Entweder via Mail an <a href=\"mailto:mail@markus-schlegel.com\">mail@markus-schlegel.com</a> oder als <a href=\"http://audioboo.fm/\">Audioboo</a> mit dem Tag &#8220;workingdraft&#8221;. Vielen Dank schon mal.\n\nDiese Folge ist sowas von <a href=\"http://audioboo.fm/boos/335136-geile-scheie-alter\">geile Scheiße, Alter&trade;</a>. Unabhängig davon rufen wir nochmals alle Hörer dazu auf, den <a href=\"https://twitter.com/codepo8\">Chris Heilmann</a> zu überreden, dass er uns bald mit seiner Präsenz bei einer Firefox-Sondersendung beglückt.",
     "topics": [
@@ -1170,7 +1148,6 @@
     ]
   },
   "23": {
-    "episode": 23,
     "title": "Node-SPDY, Zukunftskram und CoffeeKup",
     "description": "Und zum Format der Audiodatei: Besitzt ihr alle AAC-fähige Endgeräte und kann ich auf MP3 verzichten, oder ist das gammlige Encoding immer noch Pflicht?\n\nNoch einmal die Kapitelmarken-Diskussion: In der letzten Woche meldeten sich dann doch einige, denen nach Chaptermarks dürstete. Allerdings ist das schon ein recht großer Aufwand und wahrscheinlich beansprucht das immer noch ca. eine Stunde mehr an Nachbearbeitung. Ist es euch das wert? Oder lieber die Sendung früher bekommen und dafür auf Chapters verzichten?\n\nNach einer kurzen Osterpause geht es mit der Illuminatenfolge weiter. Der Schepp ist leider nicht dabei, aber dafür kann er uns nächste Woche dann umso mehr erzählen.",
     "topics": [
@@ -1229,7 +1206,6 @@
     ]
   },
   "24": {
-    "episode": 24,
     "title": "Silbentrennung, Semikola und Reward.js",
     "topics": [
       {
@@ -1309,7 +1285,6 @@
     ]
   },
   "25": {
-    "episode": 25,
     "title": "Visibility API und Chromebooks",
     "description": "Die neuste Revision geht mit sensationell wenigen Themen ins Rennen. Woran es lag? Wir haben uns ein Opera-Themen-Verbot auferlegt, bis wir Patrick H. Lauke mal in der Sendung haben zum drüber Quatschen. Desweiteren konnte die <a href=\"http://www.google.com/events/io/2011/index-live.html\">Google I/O</a> nicht mit ganz so viel Web-Bezogenem aufwarten. Aber wie Ihr hört, kriegen wir auch das gebügelt.",
     "topics": [
@@ -1360,7 +1335,6 @@
     ]
   },
   "26": {
-    "episode": 26,
     "title": "Viel Internet Explorer",
     "description": "Diesmal war &#8220;Schepp allein zu Haus&#8221; angesagt, und da hab ich mir knallhart den <a href=\"http://grochtdreis.de/weblog/\">Jens Grochtdreis</a>, den Gründer der <a href=\"http://www.webkrauts.de\">Webkrauts</a> aus Mainz mit ins Boot geholt. Als bekennende IE-Masochisten stürzten wir uns beide auf diesbezüglich eingefärbte Themen (die Woche gab es allerdings auch zufällig her). Kommentare wieder gerne auf <a href=\"http://audioboo.fm/\">Audioboo</a> mit dem Tag #workingdraft hinterlegen.",
     "topics": [
@@ -1453,7 +1427,6 @@
     ]
   },
   "27": {
-    "episode": 27,
     "title": "Revision 27: @viewport, Tastatursteuerung und Aurora 6",
     "description": "Tolle Folge. Nuffsaid.",
     "topics": [
@@ -1507,7 +1480,6 @@
     ]
   },
   "28": {
-    "episode": 28,
     "title": "Niemand hat Lion oder iOS 5",
     "description": "Nach zweiwöchiger Abstinenz melden wir uns mit einer rekordverdächtigen Folge zurück: Vier Mann füllen knapp zwei Stunden Hörmaterial. Das liegt unter anderem daran, dass wir uns am Ende auch einer Betrachtung des Verhältnisses der Deutschen zum Internet widmen. Ihr wisst schon: Netzabdeckung, Cyberabwehrzentrum, freie WLANs, Kinderpornos und so. Zu Gast war diesmal <a href=\"http://twitter.com/#!/derCemDerin\">Cem Derin</a>. Mehr von ihm hört in seinem <a href=\"http://shitstorm.cemderin.net/\">Podcast</a> oder seht Ihr auf <a href=\"http://shitstorm.cemderin.net/termine/\">Offenen Bühnen Events</a>.",
     "topics": [
@@ -1588,7 +1560,6 @@
     ]
   },
   "29": {
-    "episode": 29,
     "title": "VisualSearch.js und Twitter-Spam",
     "description": "Nachdem wir letzte Woche mit zwei Stunden Sendungsdauer unseren Schnitt etwas gehoben haben, gleichen wir das in dieser Woche mit einer guten halben Stunde sofort wieder aus.",
     "topics": [
@@ -1624,7 +1595,6 @@
     ]
   },
   "30": {
-    "episode": 30,
     "title": "IE10, Google+ und Dr.Web",
     "description": "Diesmal sind wir wieder etwas später dran mit unserer Revision, denn wir mussten zwei mal aufnehmen. Der Grund: Wir hatten die verrückte Idee, anstatt per Skype mal per Google+ Hangout aufzunehmen; blöd war nur, dass der Hangout nach rund einer Stunde abstürzte, und die Aufnahme gleich dazu. Um nicht den gleichen Sermon erneut rezitieren zu müssen, haben wir uns für die zweite Aufnahme den <a href=\"http://grochtdreis.de/\">Jens Grochtdreis</a> dazu geholt.",
     "topics": [
@@ -1699,7 +1669,6 @@
     ]
   },
   "31": {
-    "episode": 31,
     "title": "Takeout, OpenCL und Memory Management",
     "description": "Besser spät als nie: die Neue Revision ist da! Es gab viel zu besprechen, dafür aber keine Keine Schaunotizen.",
     "topics": [
@@ -1736,7 +1705,6 @@
     ]
   },
   "32": {
-    "episode": 32,
     "title": "Zwei hoch fünf",
     "description": "Peter war als HTML5-Sithlord seine Padawane schulen und Markus qualmte von einer sehr produktiven Woche noch der Schädel. Daher hat sich Schepp mal mit dem lieben <a href=\"http://bueltge.de/\">Frank Bültge</a> (<a href=\"http://twitter.com/#!/bueltge\">@bueltge</a>) zusammengetan, seines Zeichens <a href=\"http://wpengineer.com/\">WordPress-Experte</a>, <a href=\"http://wordpress-buch.bueltge.de/\">Autor</a> und <a href=\"http://inpsyde.com/\">Mitveranstalter</a> des alljährlichen <a href=\"http://wordcamp.de/\">WordCamp Deutschland</a>.",
     "topics": [
@@ -1805,7 +1773,6 @@
     ]
   },
   "33": {
-    "episode": 33,
     "title": "Peter hat ein MacBook Air!",
     "topics": [
       {
@@ -1845,7 +1812,6 @@
     ]
   },
   "34": {
-    "episode": 34,
     "title": "Kontraste und Kleinscheiß",
     "description": "Es stellte sich uns die Frage, ob es wohl als praktisch empfunden werden würde, veranstalteten wir einige Sondersendungen – entweder zusätzlich zu den wöchentlichen News-Folgen, wovon ihr uns aber erst überzeugen müsstet, oder stattdessen.",
     "topics": [
@@ -1885,7 +1851,6 @@
     ]
   },
   "35": {
-    "episode": 35,
     "title": "PhoneGap und Web Intents",
     "description": "Was gibt es Besseres, als bei dem aktuellen Wetter den virtuellen Kamin anzufachen und sich auf einen Plausch um ihn herum zu setzen?",
     "topics": [
@@ -1960,7 +1925,6 @@
     ]
   },
   "36": {
-    "episode": 36,
     "title": "Ohne Jan, aber mit Delay",
     "description": "Wir hatten einen Gast, und zwar den <a href=\"http://www.twitter.com/anselmhannemann\">Anselm</a>, <a href=\"http://anselm.novolo.de/\">Webworker</a> aus München und frischgebackener Autor eines <a href=\"http://www.video2brain.com/de/products-833.htm\">Videotrainings</a>. Außerdem mit von der Partie: ein zehnsekündiges Delay auf Markus&#8217; Leitung.",
     "topics": [
@@ -2018,7 +1982,6 @@
     ]
   },
   "37": {
-    "episode": 37,
     "title": "speak.js, Native Client und JS-MVC-Frameworks",
     "description": "Peter war wieder auf Achse und so haben wir uns diesmal <a href=\"http://twitter.com/mademyday\">Marc Hinse</a> und <a href=\"http://twitter.com/kahlillechelt\">Khalil Lechelt</a> als Fachleute dazugeholt.",
     "topics": [
@@ -2105,7 +2068,6 @@
     ]
   },
   "38": {
-    "episode": 38,
     "title": "Gridsysteme und Best Practices",
     "description": "Peter hängt nach wie vor <a href=\"https://plus.google.com/100967148217893238418/posts/VnC2iYHzeMu\">im Rheinland</a> fest und Markus ist vom Erdboden verschluckt. Sturmfrei für Schepp! Auf einen geselligen Webworker-Abend hat er sich <a href=\"http://twitter.com/djesse\">Dirk Jesse</a>, Autor des <a href=\"http://www.yaml.de/\">YAML-Frameworks</a>, und <a href=\"http://twitter.com/yellowled\">Matthias Mees</a>, <a href=\"http://netzgestaltung.net/\">Webdesigner</a> aus der Nähe von Lübeck und Mitmoderator des Serendipity-Podcasts <a href=\"http://www.s9ycamp.info/\">S9y InfoCamp</a>, eingeladen.",
     "topics": [
@@ -2204,7 +2166,6 @@
     ]
   },
   "39": {
-    "episode": 39,
     "title": "Zucker, Bullenkot und GEFÄNGNIS",
     "description": "Fast hätte es diesmal mit der Revision nicht geklappt, weil Markus weg war, Peter Koffer packen musste und Schepp es verpeilt hatte, sich früh genug nach Gästen umzuschauen. Aber Peter hat sich dann doch noch ein Herz gefasst.",
     "topics": [
@@ -2267,7 +2228,6 @@
     ]
   },
   "40": {
-    "episode": 40,
     "title": "Zerskyped",
     "description": "Diese Revision war der gruseligste Aufnahmetrip seit Podcast-Gedenken: Erst streikten bei unserem ersten Gast <a href=\"http://rodneyrehm.de/en/\">Rodney Rehm</a> aka <a href=\"http://twitter.com/#!/rodneyrehm/\">@rodneyrehm</a> reihum alle Aufnahmegeräte, dann zerhackte uns das verf$%%/§%?!te Skype nach 45 Minuten Aufnahme auf einmal so den Ton, dass wir vom anderen rein gar nichts mehr verstanden und die Aufnahme abbrechen mussten. Die brachten wir am Folgetag mit weniger massiven Problemen zu Ende. Dass von den daraus resultierenden Störgeräuschen und Pausen nix mehr zu hören ist, haben wir der geduldigen Puzzlearbeit unseres zweiten Gastes, <a href=\"http://frederic-hemberger.de/\">Frederic Hemberger</a> aka <a href=\"http://twitter.com/#!/fhemberger\">@fhemberger</a> zu verdanken. Großes Danke dafür!",
     "topics": [
@@ -2348,7 +2308,6 @@
     ]
   },
   "41": {
-    "episode": 41,
     "title": "setImmediate API, CSS Compositing und überflüssiges HTML5",
     "description": "Und noch einmal bekamen wir Verstärkung von <a href=\"https://plus.google.com/100716543757626923860/posts\">Rodney Rehm</a>. Wir waren ganz schöne Quatschlieseln, aber es ist auch ganz schön was bei herumgekommen.",
     "topics": [
@@ -2441,7 +2400,6 @@
     ]
   },
   "42": {
-    "episode": 42,
     "title": "Zweiundvierzig!",
     "topics": [
       {
@@ -2504,7 +2462,6 @@
     ]
   },
   "43": {
-    "episode": 43,
     "title": "Tripreports, CSS Image Values und Dart",
     "description": "Diesmal nur zu zweit, da Markus derzeit den Status &#8220;homeless&#8221; und damit &#8220;wireless&#8221; innehat.",
     "topics": [
@@ -2566,7 +2523,6 @@
     ]
   },
   "44": {
-    "episode": 44,
     "title": "HTTP-Statuscodes, TYPO3 und ‘n Echo, echo, cho, o….",
     "description": "Was wir lange wollten, haben wir diesmal geschafft: Den <a href=\"http://maddesigns.de/\">Sven Wolfermann</a>, auch bekannt als <a href=\"http://twitter.com/#!/maddesigns\">@maddesigns</a> aus der Nähe von Berlin endlich mal in unsere Sendung einzuladen. Leider ist uns in dem Zusammenhang die Tonqualität wieder mal etwas entglitten. Sorry dafür.",
     "topics": [
@@ -2623,7 +2579,6 @@
     ]
   },
   "45": {
-    "episode": 45,
     "title": "H.264 in JS, jQuery Standards Team & OccupyHTML5!",
     "description": "Frostig war es draußen, und Vollmond womöglich auch, als sich Schepp mit <a href=\"http://www.mademyday.de/\">Marc Hinse</a>, aka <a href=\"http://twitter.com/#!/MadeMyDay\">@MadeMyDay</a>, und <a href=\"http://drublic.de\">Hans Reinl</a>, aka <a href=\"https://twitter.com/#!/drublic\">@drublic</a> und Frontendentwickler aus Freiburg, ans virtuelle Kaminfeuer setzte und mit ihnen zusammen die Woche revuepassieren ließ.",
     "topics": [
@@ -2686,7 +2641,6 @@
     ]
   },
   "46": {
-    "episode": 46,
     "title": "Aloha Editor, jQuery 1.7 und halbgare Zukunftstechniken",
     "description": "Nach gefühlten Ewigkeiten waren mal wieder alle festen Hosts beieinander. Und noch jemand war da, nämlich <a href=\"http://twitter.com/#!/draftkraft\">Haymo Meran</a>, CTO und Mitbegründer des Wiener Unternehmens <a href=\"http://gentics.com/\">Gentics</a> und vor allem geistiger Vater des <a href=\"http://aloha-editor.org/\">HTML5 Aloha Richtext Editors</a>.",
     "topics": [
@@ -2737,7 +2691,6 @@
     ]
   },
   "47": {
-    "episode": 47,
     "title": "Firefox 8, Aurora 10 und jQuery-Diät mit dem dynamischen Duo",
     "description": "Während Schepp sich von der Release-Party seines Forks erholte und Markus am Ereignishorizont eines schwarzen Internet-Lochs festhing, trümmerten Peter und <a href=\"http://rodneyrehm.de/en/\">Rodney Rehm</a> zu zweit die fällige Revision ein.",
     "topics": [
@@ -2782,7 +2735,6 @@
     ]
   },
   "48": {
-    "episode": 48,
     "title": "Direkt von der beyond tellerrand. In Bewegtbild!",
     "description": "<a href=\"http://www.youtube.com/watch?v=aFEiw0SEMyw\" target=\"_blank\"><img src=\"http://workingdraft.de/wp-content/uploads/2011/11/wd-48.jpg\" alt=\"Mit Christian Schaefer, Anselm Hannemann, Frederic Hemberger, Marc Hinse, Hans Christian Reinl, David Maciejewski, Naomi Atkinson, Rodney Rehm und Maik Wagner.\" title=\"Aufnahme zur Working Draft Revision 48\" width=\"640\" height=\"360\" class=\"alignnone size-full wp-image-891\"></a><br>\n<em><a href=\"http://www.youtube.com/watch?v=aFEiw0SEMyw\" target=\"_blank\">Working Draft 48 auf YouTube</a></em>\n\nUnd weil so viele unserer Hörer und Gäste diese Mutter aller Konferenzen besuchen wollten, entstand die Idee, die hiesige Revision dann auch direkt dort aufzunehmen. Yeah, Baby! Gäste waren <a href=\"http://twitter.com/anselmhannemann\">Anselm Hannemann</a>, <a href=\"http://twitter.com/fhemberger\">Frederic Hemberger</a>, <a href=\"http://twitter.com/MadeMyDay\">Marc Hinse</a>, <a href=\"http://twitter.com/drublic\">Hans Christian Reinl</a>, <a href=\"http://twitter.com/maddesigns\">Sven Wolfermann</a>, <a href=\"http://twitter.com/rodneyrehm\">Rodney Rehm</a> und <a href=\"http://twitter.com/fernmuendlich\">Maik Wagner</a>. Aber auch <a href=\"http://twitter.com/macx\">David Maciejewski</a> von der <a href=\"http://technikwuerze.de/\">Technikwürze</a> war auch vor Ort, so dass man sagen kann: Dies war die erste mit der Technikwürze zusammen koproduzierte Working Draft Revision! Ein großes Dankeschön geht außerdem an Dank Rodney Rehm, dem wir zwei saugeile Funkmikrofone verdankten!\n\n<iframe src=\"http://player.vimeo.com/video/32574970?title=0&amp;byline=0&amp;portrait=0\" width=\"640\" height=\"480\" frameborder=\"0\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\"></iframe><br>\n<em>Stop Motion Opening Sequence der beyond tellerrand 2011</em>\n\nMinutiös auf die Revision 48 abgestimmt, ließ der liebe <a href=\"http://twitter.com/#!/marcthiele\">Marc Thiele</a> diesen Montag (sowie Sonntag und Dienstag) die <a href=\"http://2011.beyondtellerrand.com/\">beyond tellerrand 2011</a> vom Stapel. Und was sollen wir sagen? Sie war verdammt nochmal exzellent! Das <a href=\"http://2011.beyondtellerrand.com/conference.php\">Lineup</a> war der Hammer und übertraf alle Erwartungen.\n\n<a href=\"http://workingdraft.de/wp-content/uploads/2011/11/beyondtellerrand.png\"><img src=\"http://workingdraft.de/wp-content/uploads/2011/11/beyondtellerrand.png\" alt=\"\" title=\"beyondtellerrand\" width=\"640\" height=\"82\" class=\"alignnone size-full wp-image-898\"></a>",
     "topics": [
@@ -2801,7 +2753,6 @@
     ]
   },
   "49": {
-    "episode": 49,
     "title": "Devtools und Kleinvieh",
     "description": "Heute hat sich Schepp mit <a href=\"http://drublic.de/\">Hans Christian Reinl</a>, alias <a href=\"http://twitter.com/#!/drublic\">@drublic</a> hingesetzt, und zusammen haben wir recht viel schöne Kleinigkeiten für Euch ausgegraben.",
     "topics": [
@@ -2858,7 +2809,6 @@
     ]
   },
   "50": {
-    "episode": 50,
     "title": "P3P olé!",
     "description": "Zur runden Revision hat sich Schepp <a href=\"http://www.marcelkoch.net/\">Marcel Koch</a> aka <a href=\"http://www.twitter.com/makochnet\">@makochnet</a> aus dem Taunus eingeladen.",
     "topics": [
@@ -2927,7 +2877,6 @@
     ]
   },
   "51": {
-    "episode": 51,
     "title": "AMD, jQuery Plugin Repo & Alphatier-Gekabbel",
     "description": "Die erste Revision nach unserer sprunghaften Vermehrung bestreiten zusammen <a href=\"http://drublic.de/\">Hans</a>, <a href=\"http://kahlil.co/\">Kahlil</a> und <a href=\"http://twitter.com/#!/derSchepp\">Schepp</a>. Hierüber reden wir:",
     "topics": [
@@ -3002,7 +2951,6 @@
     ]
   },
   "52": {
-    "episode": 52,
     "title": "Android 4.0, Webvideo & CoffeeScript",
     "description": "Nach seiner Endjahres-Ochsentour, endlich mal wieder eine Revision mit <a href=\"http://twitter.com/#!/sirpepe\">Peter</a>. Außerdem dabei <a href=\"http://twitter.com/#!/kahlillechelt\">Kahlil</a> und <a href=\"http://twitter.com/#!/derSchepp\">Schepp</a>. Hierüber reden wir:",
     "topics": [
@@ -3077,7 +3025,6 @@
     ]
   },
   "53": {
-    "episode": 53,
     "title": "At the Smashing Magazine meetup!",
     "description": "Wer auch da war, das waren Kahlil, Hans und Rodney. Dank <a href=\"http://twitter.com/#!/lilaineurope\">Lisa</a> und <a href=\"http://twitter.com/#!/smashingmag\">Vitaly</a> vom <a href=\"http://www.smashingmagazine.com\">Smashing Mag</a> durften wir eine schöne Paneldiskussion auf die Beine stellen. Mit Hans an der Kamera interviewten Kahlil und Rodney Paul, Vitaly und Chris zu Themen wie Alphatier-Gekabbel, Sprachbarrieren, Wissensvermittlung, mobilen Geräten oder nativen UI-Elementen.\n\nAm 21.12.2011 fand das <a href=\"http://www.meetup.com/The-SmashingMagazine-Meetup/events/42026332/\">dritte Smashing Magazine Meetup</a> statt, diesmal in Zusammenarbeit mit der <a href=\"http://stuttgart.gtugs.org/\">Stuttgarter Google Technology Usergroup</a> in&#8230; ähm ja Stuttgart. Zu Besuch waren <a href=\"http://twitter.com/#!/paul_irish\">Paul Irish</a> von Google, dessen Bruder in Stuttgart lebt und den er besuchte, sowie <a href=\"http://twitter.com/#!/codepo8\">Chris Heilmann</a> von Mozilla, der auf Heimatbesuch war. Beide hielten je einen Vortrag: <a href=\"http://vimeo.com/34332821\">History of HTML5 and The New Vocabulary of Web Dev</a> und <a href=\"http://vimeo.com/34333188\">&#8220;Style and Distance &#8211; you don&#8217;t need to burn the museum to create a new world&#8221;</a>.",
     "topics": [
@@ -3090,7 +3037,6 @@
     ]
   },
   "54": {
-    "episode": 54,
     "title": "Ein Sack voll Firefox, lahmes CSS und Media Queries",
     "description": "Frohes Neues wünschen wir Euch allen! <a href=\"http://twitter.com/#!/sirpepe\">Peter</a> und <a href=\"http://twitter.com/#!/derSchepp\">Schepp</a> reden über:",
     "topics": [
@@ -3159,7 +3105,6 @@
     ]
   },
   "55": {
-    "episode": 55,
     "title": "Webfundstücke und Devtools",
     "description": "Diese Woche widmen sich <a href=\"http://twitter.com/#!/kahlillechelt\">Kahlil</a> und <a href=\"http://twitter.com/#!/derSchepp\">Schepp</a> einer Menge kleinerer Webfundstücke und Tools. Als da wären:",
     "topics": [
@@ -3234,7 +3179,6 @@
     ]
   },
   "56": {
-    "episode": 56,
     "title": "Font.js, CSS3 UI & Wunderkit",
     "description": "<a href=\"http://twitter.com/#!/sir_pepe\">Peter</a> und <a href=\"http://twitter.com/#!/derSchepp\">Schepp</a> luden sich den <a href=\"http://twitter.com/#!/MadeMyDay\">Marc</a> ein, und zu dritt sprachen man über&#8230;",
     "topics": [
@@ -3321,7 +3265,6 @@
     ]
   },
   "57": {
-    "episode": 57,
     "title": "IDBExplorer, Gradient Syntax & Wrap.js",
     "description": "Da eine leere Themenliste mit vollen Todo-Listen der gesamten Teams korrelierte, ließen Schepp, Hans, Kahlil und Peter eine Woche ausfallen, nur dann umso nerdiger zuzuschlagen.",
     "topics": [
@@ -3378,7 +3321,6 @@
     ]
   },
   "58": {
-    "episode": 58,
     "title": "-webkit-CSS3, -webkit-SEO und -webkit-MMT",
     "topics": [
       {
@@ -3475,7 +3417,6 @@
     ]
   },
   "59": {
-    "episode": 59,
     "title": "Wie ticken Webentwickler?",
     "description": "Aus akutem Mangel an aktuellen Themen haben Hans, Kahlil und Peter spontan eine Sondersendung eingeschoben. Da letzterer demnächst HTML5 an Entwickler vermitteln soll, die bisher keine Erfahrung mit Web-Frontendentwicklung haben, stellte sich die Frage, wie Webentwickler überhaupt mit der Realität im WWW klarkommen. Anders als „normale“ Programmierer kennt der Web-Nerd keine festen Zielplattformen, die einzelnen Technologien mutieren ohne engere Abstimmung miteinander vor sich hin, es gibt keine irgendwie gearteten „offiziellen“ Tools, keine zentrale Dokumentation und so weiter. Auf der Suche nach des Pudels Kern haben wir dann einfach die Aufnahme mitlaufen lassen und erklären das Ergebnis unserer Diskussion zur Revision 59.",
     "topics": [
@@ -3515,7 +3456,6 @@
     ]
   },
   "60": {
-    "episode": 60,
     "title": "Adobe Edge, Web Components & Informationsquellen",
     "description": "Heute quatschen mal nur der <a href=\"http://www.highresolution.info\">Dirk Jesse</a>, seines Zeichens <a href=\"http://www.yaml.de/\">YAML-Framework</a>-Autor und CSS-Tüftler, und der Schepp über die Themen der Woche. Inklusive Epic Aufnahmefail.",
     "topics": [
@@ -3589,7 +3529,6 @@
     ]
   },
   "61": {
-    "episode": 61,
     "title": "HTML5 Please API, Boot to Gecko, Image Replacements",
     "description": "Hans, Schepp und Peter granteln über neue CSS-Techniken, bashen ein wenig PHP und lobpreisen die neuesten Entwicklungen aus dem Hause Mozilla.",
     "topics": [
@@ -3661,7 +3600,6 @@
     ]
   },
   "62": {
-    "episode": 62,
     "title": "Adobe Shadow, Mobile und Gerante – Live!",
     "description": "Diesmal erhielten Schepp und Peter Unterstützung von Pascal Szewczyk (<a href=\"http://www.peppmedien.de/\">peppmedien.de</a>, <a href=\"https://twitter.com/#!/derPepo\">@derPepo</a>) und kämpften sich live durch die Themen der Woche.",
     "topics": [
@@ -3728,7 +3666,6 @@
     ]
   },
   "63": {
-    "episode": 63,
     "title": "Responsiver Content, Firefox 11 und Offene Datenquellen",
     "description": "Wer dieses mal noch nicht dabei war, aber nächstes mal gerne auch mitdiskutieren möchte, folgt uns am besten <a href=\"http://twitter.com/#!/workingdraft/\">auf Twitter</a> und macht sich mit <a href=\"http://de.wikipedia.org/wiki/Internet_Relay_Chat\">IRC</a> vertraut. Unseren Chat findet ihr auf <a href=\"http://webchat.freenode.net/?channels=workingdraft\">Freenote im Channel #workingdraft</a>.\n\nHans und Peter sprechen mit Stammgast <a title=\"Rodney bei Twitter\" href=\"https://twitter.com/#!/rodneyrehm\">Rodney Rehm</a> über die Neuerungen der vergangenen Woche.<br>\nAuch diese Woche hatten wir wieder einen Live-Stream am Start. Danke für alle, die zugehört und im Chat mit diskutiert haben.",
     "topics": [
@@ -3783,7 +3720,6 @@
     ]
   },
   "64": {
-    "episode": 64,
     "title": "Source Maps, Event Capturing & beyond tellerrand – play",
     "description": "Zur Revision 64 haben wir uns <a href=\"https://twitter.com/#!/marcthiele\">Marc Thiele</a> eingeladen, der zusammen mit dem Schepp, Kahlil und Hans über seine Konferenzen und <a href=\"http://www.spoiler-web.de/\">seine Musik</a> spricht. Zunächst haben wir uns aber dem Tagesgeschäft gewidmet. Hier sind die Themen:",
     "topics": [
@@ -3870,7 +3806,6 @@
     ]
   },
   "65": {
-    "episode": 65,
     "title": "Infinite Transition Delays, jQuery Hooks, ECMAScript 6",
     "description": "Mit allen Mann an Bord ging es um die aprilscherzbedingt nicht besonders zahlreichen Themen der Woche.",
     "topics": [
@@ -3915,7 +3850,6 @@
     ]
   },
   "66": {
-    "episode": 66,
     "title": "CSS-Variablen, Homo-Ehe und ein Werbeblock",
     "description": "Was könnte besser zum just gewesenen Osterfest passen als die Revision 666 eines nerdigen Webdev-Podcasts? Kahlil, Hans und Peter sahen das genau so.",
     "topics": [
@@ -3976,7 +3910,6 @@
     ]
   },
   "67": {
-    "episode": 67,
     "title": "Meteor, Media Queries, Light Table",
     "description": "Mit allen Mann an Deck stürzten wir uns auf die Themen der Woche. Jedenfalls auf die, die nichts mit Semikolons zu tun hatten.",
     "topics": [
@@ -4033,7 +3966,6 @@
     ]
   },
   "68": {
-    "episode": 68,
     "title": "Ein <dialog> aus scharfem Pink und Grunzern",
     "description": "Mit <a href=\"http://frederic-hemberger.de/\">Frederic Hemberger</a> als hochkarätigem Ersatz für den ausgeflogenen Peter stürzten wir uns auf aktuelle und liegen gebliebene Themen.",
     "topics": [
@@ -4107,7 +4039,6 @@
     ]
   },
   "69": {
-    "episode": 69,
     "title": "CSS Battle Royale – Opera ",
     "description": "Drei Themen, drei Buchstaben&nbsp;&ndash; CSS! Nur die Crew war wieder zu viert am Start.",
     "topics": [
@@ -4152,7 +4083,6 @@
     ]
   },
   "70": {
-    "episode": 70,
     "title": "JS Styleguides, Barrierefreiheit & Web Intents",
     "description": "Wir möchten auch noch einmal auf unseren <a href=\"http://www.livestream.com/workingdraft\">Live-Stream</a> und den <a href=\"http://webchat.freenode.net/?channels=workingdraft\">IRC-Chat auf Freenode im Channel #workingdraft</a> hinweisen. Wir sind immer montags ab 20 Uhr live, wenn nicht anders angekündigt. Die neusten Infos gibt&#8217;s immer auf <a href=\"https://twitter.com/#!/workingdraft\">Twitter</a> und bei <a href=\"https://plus.google.com/100063817839650840647/posts\">Google+</a>.\n\nAls Gast war diesmal wieder <a href=\"http://frederic-hemberger.de/\">Frederic Hemberger</a> am Start, der uns immer gerne mit seinem Fachwissen zur Seite steht.",
     "topics": [
@@ -4227,7 +4157,6 @@
     ]
   },
   "71": {
-    "episode": 71,
     "title": "Error.stack, Physical Units & DOM Mutation Observers",
     "description": "Zur aktuellen Sendung fanden sich der Schepp, Kahlil und Hans ein, um wie gewohnt die wichtigsten Neuerungen und Entdeckungen der Woche zu besprechen.",
     "topics": [
@@ -4325,7 +4254,6 @@
     ]
   },
   "72": {
-    "episode": 72,
     "title": "SASS vs. LESS & Googlebot vs. JavaScript",
     "description": "Die Stammbesatzung trat an und brauchte zum Sortieren der Themen länger als für die Aufnahme. Trotzdem ist noch einiges an Material übrig geblieben.",
     "topics": [
@@ -4400,7 +4328,6 @@
     ]
   },
   "73": {
-    "episode": 73,
     "title": "Von CSS Blenden, Cross-Domain-Requests und responsiven Bildern",
     "description": "Zu Gast war diese Woche <a href=\"http://anselm-hannemann.com/\">Anselm Hannemann</a>, den wir mit seinem Fachwissen gerne <a href=\"http://workingdraft.de/36/\">wieder eingeladen</a> haben. Außerdem waren der Schepp und Hans mit von der Partie.",
     "topics": [
@@ -4469,7 +4396,6 @@
     ]
   },
   "74": {
-    "episode": 74,
     "title": "Social-Media-Buttons, Links und die kürzeste Revision aller Zeiten",
     "description": "Schepp war im Urlaub, Kahlil verhindert und die Themenliste war leer. Also besprachen Hans und Peter diesmal eben nur ein einziges Thema.",
     "topics": [
@@ -4502,7 +4428,6 @@
     ]
   },
   "75": {
-    "episode": 75,
     "title": "News, Links und die diesmal wirklich kürzeste Revision aller Zeiten",
     "description": "Eine Kombination aus Sommerloch, EM, WWDC und Schepps Urlaub sorgt erneut für Magerkost bei den Themen. Kann man nichts machen! Dafür führen wir mit den News einen neuen Sendungsbestandteil ein, bei dem es in Zukunft (?) immer ein paar kurze Update-Durchsagen geben soll.",
     "topics": [
@@ -4554,7 +4479,6 @@
     ]
   },
   "76": {
-    "episode": 76,
     "title": "Testen, Dokumentieren und Abhängigkeiten verwalten",
     "description": "Dieses mal trafen sich Hans, <a href=\"http://www.asciidisco.com\">Sebastian Golasch</a> aka <a href=\"https://twitter.com/#!/asciidisco\">@asciidisco</a> und Kahlil in Skype, um sich durch einen stattliche Anzahl an Themen zu arbeiten.",
     "topics": [
@@ -4673,7 +4597,6 @@
     ]
   },
   "77": {
-    "episode": 77,
     "title": "Do not Track, IHK-Petition und Web Components",
     "description": "Überraschung: Sowohl Schepp als auch Peter waren zur Abwechlsung mal wieder an Bord. <a href=\"http://blog.rodneyrehm.de/\">Der ewige Rod</a> vertrat Hans und Kahlil.",
     "topics": [
@@ -4774,7 +4697,6 @@
     ]
   },
   "78": {
-    "episode": 78,
     "title": "Editoren, jQuery, Yeoman, Browser",
     "description": "Die gesamte Crew war an Bord, allerdings leider auch die Skype-Dämonen. Wir hoffen dass die Themen-Menge für die sporadischen Audio-Fails kompensiert.",
     "topics": [
@@ -4873,7 +4795,6 @@
     ]
   },
   "79": {
-    "episode": 79,
     "title": "File System API, Chrome Apps und ein Haufen Links",
     "description": "Schepp war nicht da, aber mit Rodney, Hans, Kahlil und Peter an Bord waren wir trotzdem beschlussfähig. Haben wir schon erwähnt, dass Rodney seit letzter Woche offizieller Bestandteil der Crew von Working Draft ist? Glückwunsch Rodney!",
     "topics": [
@@ -4944,7 +4865,6 @@
     ]
   },
   "80": {
-    "episode": 80,
     "title": "X-Tag, Print Styles und IE-Basher bashen",
     "description": "Scheppman, Hans, Rodney und Kahlil trafen sich dieses mal wieder, um in illustrer Runde so zu tun, als hätten Sie eine Ahnung von Webentwicklung und so.",
     "topics": [
@@ -5014,7 +4934,6 @@
     ]
   },
   "81": {
-    "episode": 81,
     "title": "Seamless Iframes, relative Fontgrößen und ein Berg Links",
     "description": "Dieses mal waren Schepp, Hans, Kahlil und Special Guest <a href=\"http://twitter.com/bkastl\">Benedikt Kastl</a> am Start um den Webkram der letzten Woche zu besprechen.",
     "topics": [
@@ -5099,7 +5018,6 @@
     ]
   },
   "82": {
-    "episode": 82,
     "title": "Wiederverwertbarkeit von CSS & Web Security",
     "description": "Diesmal trafen sich Schepp, Hans, Kahlil und Special Guest <a href=\"http://anselm-hannemann.com/\">Anselm Hannemann</a> zum wöchentlichen Webdev-Geplänkel im virtuellen Working Draft Studio (Skype).",
     "topics": [
@@ -5189,7 +5107,6 @@
     ]
   },
   "83": {
-    "episode": 83,
     "title": "ECMAScript 6, @supports, WebRTC",
     "description": "Mit dem seltenen Überraschungsgast Peter starten Rodney und Hans in eine neue Revision voller Spiel, Spaß und Abenteuer!",
     "topics": [
@@ -5254,7 +5171,6 @@
     ]
   },
   "84": {
-    "episode": 84,
     "title": "jQuery, Git, Informationsverwaltung und jede Menge Links",
     "description": "Die Crew von Working Draft fiel wie die Fliegen Deadlines und Kopfschmerzen zum Opfer. Zum Glück konnte Sebastian Golasch alias <a href=\"https://twitter.com/asciidisco\">@asciidisco</a> die am Ende nur noch aus Rodney und Peter bestehende Rumpftruppe verstärken.",
     "topics": [
@@ -5341,7 +5257,6 @@
     ]
   },
   "85": {
-    "episode": 85,
     "title": "Konferenzen, CSS und Twitter",
     "description": "Dieses mal wurde die Crew durch den Konferenz-Großmeister <a href=\"http://twitter.com/marcthiele\">Marc Thiele</a> verstärkt.",
     "topics": [
@@ -5424,7 +5339,6 @@
     ]
   },
   "86": {
-    "episode": 86,
     "title": "CAS und Object.observe",
     "description": "Wir haben das Sommerloch gefunden! Hans und Rodney wurden von <a title=\"Sebastian Golasch\" href=\"https://twitter.com/asciidisco\">Sebastian Golasch</a> unterstützt.",
     "topics": [
@@ -5493,7 +5407,6 @@
     ]
   },
   "87": {
-    "episode": 87,
     "title": "Position Sticky",
     "description": "Diesmal haben sich Hans, Rodney und Kahlil zum schnacken getroffen.",
     "topics": [
@@ -5553,7 +5466,6 @@
     ]
   },
   "88": {
-    "episode": 88,
     "title": "Opus Codec, hot CSS Specs und Bower",
     "description": "Vier von Fünf &#8211; nur Peter ist noch auf Weltreise. Wir schreiben die Revision 88, deren zahlentechnische Signifikanz wir, zu Peters Bedauern, vollkommen unter den Tisch fallen lassen. Stattdessen konzentrieren wir uns auf den heißen Scheiss der letzten Woche.",
     "topics": [
@@ -5654,7 +5566,6 @@
     ]
   },
   "89": {
-    "episode": 89,
     "title": "Mobile, Frameworks, iOS 6",
     "description": "Während sich Schepp mit seinen Ladies in fernen Ländern die Sonne auf den Pelz brennen ließ, luden Hans, Kahlil und Rod jemanden names Peter ein, um das Team für diese Revision zu komplettieren.",
     "topics": [
@@ -5760,7 +5671,6 @@
     ]
   },
   "90": {
-    "episode": 90,
     "title": ".mobi-Gate, Persona und TypeScript",
     "description": "Während alle anderen auf tollen Konferenzen rumturnen, trümmerten <a href=\"http://twitter.com/asciidisco\">Sebastian</a>, <a href=\"http://twitter.com/anselmhannemann\">Anselm</a>, <a href=\"http://twitter.com/fhemberger\">Frederic</a> und Peter eine weitere Revision eures Lieblingspodcasts ein. Extradicker Dank geht an Schepp, der die total mißratene Tonspur noch einigermaßen gerettet hat.",
     "topics": [
@@ -5849,7 +5759,6 @@
     ]
   },
   "91": {
-    "episode": 91,
     "title": "Konferenzen und HiDPI Bilder",
     "description": "Schepp, Hans und Rodney fanden sich trotz ihrer leicht verschleppten Konferenzia ein, um das Eine oder Andere der letzten Woche(n) Revue passieren zu lassen.",
     "topics": [
@@ -5931,7 +5840,6 @@
     ]
   },
   "92": {
-    "episode": 92,
     "title": "Firefox, Fullscreen API und Thinkin’ Tags",
     "description": "Hans, Kahlil und Peter nudelten diese Woche nicht nur die üblichen Themen durch, sondern hatten obendrein keinen Geringeren als <a href=\"http://www.highresolution.info/\">Dirk Jesse</a> zu Gast, der sein Projekt <strong>Thinkin&#8217; Tags</strong> vorstellt.",
     "topics": [
@@ -5996,7 +5904,6 @@
     ]
   },
   "93": {
-    "episode": 93,
     "title": "Farbkontraste und die volle Responsive Dröhnung!",
     "description": "Diese Woche luden der Schepp, Kahlil und Hans <a href=\"http://christophzillgens.com/\">Christoph Zillgens</a> ein, sprachen über Responsive Design und befragten ihn zu seinem neuen Buch.<br>\nAußerdem könnt ihr sein Buch auch gewinnen! Mehr zu unserem <strong>Gewinnspiel</strong> weiter unten&#8230;",
     "topics": [
@@ -6109,7 +6016,6 @@
     ]
   },
   "94": {
-    "episode": 94,
     "title": "Test The Web Forward!",
     "description": "Diesmal gibt es keine News zu vermelden.\n\nDa irgendwie alle Moderatoren in der vergangenen Woche in der Weltgeschichte unterwegs waren, um die neusten Ideen und Tools für euch aufzutreiben, waren es doch eher wenige Artikel, die gelesen werden konnten und die Themenvielfalt hielt sich in Grenzen.",
     "topics": [
@@ -6165,7 +6071,6 @@
     ]
   },
   "95": {
-    "episode": 95,
     "title": "Vanilla Web und Accessibility",
     "description": "Christian und Rodney luden <a href=\"http://www.marcozehe.de/\">Marco Zehe</a> (<a href=\"https://twitter.com/MarcoZehe\">@MarcoZehe</a>) ein und verquatschten sich zum Thema Barrierefreiheit &#8211; mit wem könnte das besser gehen als mit einem Blinden, der obendrein für die Qualitätssicherung im Bereich Barrierefreiheit bei einem Browserhersteller arbeitet?",
     "topics": [
@@ -6240,7 +6145,6 @@
     ]
   },
   "96": {
-    "episode": 96,
     "title": "News, HTML5 und Links",
     "description": "Keine Themen sind auch keine Ausrede. Also bashten Hans, Rod und Peter einfach ein wenig den IE 10 Mobile und beschränkten sich ansonsten auf das Verlesen von News und Links.",
     "topics": [
@@ -6287,7 +6191,6 @@
     ]
   },
   "97": {
-    "episode": 97,
     "title": "beyond tellerrand 2012 & Interview mit Bruce Lawson",
     "description": "Hans, Christian und Rodney tummelten sich Anfang der Woche &#8211; mit einer ganzen Menge anderer Webnasen &#8211; auf dem Klassentreffen der deutschen Webentwicklerszene. Zusammen mit den Jungs von der <a href=\"http://technikwuerze.de/\">Technikwürze</a> konnten wir dort Bruce Lawson von Opera für ein gemeinsames Interview gewinnen.",
     "topics": [
@@ -6306,7 +6209,6 @@
     ]
   },
   "98": {
-    "episode": 98,
     "title": "IE10, HTML5 und CSS",
     "description": "Ein hustender Hans, ein nicht ganz so viel hustender Peter und ein kerngesunder Schepp in der Blüte seiner Jugend befassten sich in bewährter Manier mit den Themen der vergangenen Woche.",
     "topics": [
@@ -6389,7 +6291,6 @@
     ]
   },
   "99": {
-    "episode": 99,
     "title": "ProcessWire, Sueddeutsche.de und mehr",
     "description": "Verstärkt von <a href=\"http://twitter.com/MadeMyDay\">Marc Hinse</a> und <a href=\"http://twitter.com/fhemberger\">Frederic Hemberger</a> warfen sich Kahlil, Hans und Peter todesmutig den Themen der Woche in den Weg.",
     "topics": [
@@ -6462,7 +6363,6 @@
     ]
   },
   "100": {
-    "episode": 100,
     "title": "Anniversary with Paul Irish",
     "description": "Please take a second and tell us how you feel: <a href=\"http://twtpoll.com/09or8y\">Do you want more English revisions of Workingdraft, featuring international Guests?</a>\n\nWow, can it really be the 100th episode already? Almost 2 years of weekly updates and discussions on web development &#8211; and we&#8217;re still here. And so no one less than <a href=\"https://twitter.com/paul_irish\">Paul Irish</a> joined Hans, Kahlil, Rodney and Schepp. While our podcast is a German thing, we&#8217;re thrilled how things turned out with recording an English episode over the wire. Thank you Paul!",
     "topics": [
@@ -6569,7 +6469,6 @@
     ]
   },
   "101": {
-    "episode": 101,
     "title": "Canvas, HTML5, Damals",
     "description": "Das ist die letzte Revision für dieses Jahr. Wir danken allen treuen Hören, wünschen ein frohes Fest und einen verschleißfreien Rutsch ins neue Jahr!\n\nNach der internationalen Gala letzte Woche war diesmal wieder teutonisches Steineklopfen an der Web-Front angesagt. Schepp, Hans, Rod und Peter wühlten sich in bewährter Manier durch HTML5-News und andere Neuheiten.",
     "topics": [
@@ -6615,7 +6514,6 @@
     ]
   },
   "102": {
-    "episode": 102,
     "title": "Templates, JPEGs, JavaScript und OpenSource",
     "description": "Alles beim alten im neuen Jahr: Wie immer kämpften sich Hans, Schepp, Rodney und Peter durch die Themen der vergangenen paar Zeiteinheiten. News gab es keine, dafür um so mehr Themen und Links.",
     "topics": [
@@ -6707,7 +6605,6 @@
     ]
   },
   "103": {
-    "episode": 103,
     "title": "Keine Themen",
     "description": "Trotz intensiver Suche und voller Besatzung haben wir dieses mal kein einziges Thema gefunden, das eine ausführliche Besprechung verdient hätte. Deshalb ist die Nummer 103 die kürzeste Revision seit Ende des Mesozoikums. Wir entschuldigen uns und versprechen schon mal, dass das in der nächsten Revision ganz anders sein wird.",
     "news": [
@@ -6757,7 +6654,6 @@
     ]
   },
   "104": {
-    "episode": 104,
     "title": "Open Device Labs und Webplatform.org-Docsprints",
     "description": "Nach der Spezial-Folge letzte Woche sind wir diesmal wieder mit vollem Programm am Start. Hans, Schepp und Peter meldeten sich zum Dienst. Als Gast war diesmal <a href=\"http://klick-ass.com/\">Andre Jay Meissner</a> dabei, der uns über Open Device Labs und Docsprints berichtete.",
     "topics": [
@@ -6845,7 +6741,6 @@
     ]
   },
   "105": {
-    "episode": 105,
     "title": "CSS-Performance, Web Workers und ein paar Links",
     "description": "Schepp und Peter holten sich Verstärkung bei <a href=\"https://twitter.com/asciidisco\">Sebastian Golasch</a> und beackerten mit ihm zwei Themen aus dem Bereich der Frontend-Performance. Dazu kommt die übliche Ladung Links.",
     "topics": [
@@ -6888,7 +6783,6 @@
     ]
   },
   "106": {
-    "episode": 106,
     "title": "modern.IE, Textbalance und der ES5 Strict Mode",
     "description": "Neue Revision, neues Glück! Diesmal als Glücksfeen am Start: Kahli, Hans und als Überraschungsgast der feine <a href=\"https://twitter.com/fhemberger\">Herr Hemberger</a>.",
     "topics": [
@@ -6970,7 +6864,6 @@
     ]
   },
   "107": {
-    "episode": 107,
     "title": "Unresponsive Design, Docsprint und ein paar Links",
     "description": "Mit Schepp, Hans, <a href=\"https://twitter.com/helloanselm\">Anselm</a> und Peter auf der Brücke dampfte Working Draft gezielt auf seine Revision 107 zu.",
     "topics": [
@@ -7029,7 +6922,6 @@
     ]
   },
   "108": {
-    "episode": 108,
     "title": "asm.js, UA Sniffing und Operas Wechsel zu WebKit",
     "description": "Als lieben Gast hatten sich Christian und Hans diesmal <a href=\"https://twitter.com/asciidisco\">Sebastian Golasch</a> dazu geholt, der bereits einige Male zu Gast war und jedes mal eine Bereicherung für die Sendung ist.",
     "topics": [
@@ -7112,7 +7004,6 @@
     ]
   },
   "109": {
-    "episode": 109,
     "title": "Counter Styles, mobile Betriebssysteme, HTML5-Linkelemente",
     "description": "Kahlil und Rod luden <a href=\"https://twitter.com/dantz\">Andreas Dantz</a> ins virtuelle Studio ein, um die letzte Internetwoche zu reflektieren.",
     "topics": [
@@ -7162,7 +7053,6 @@
     ]
   },
   "110": {
-    "episode": 110,
     "title": "Rendering Performance",
     "description": "Peter, Hans und Rod diskutieren Rendering Performance auf mobilen Geräten. Wie finden wir die Engpässe, was lässt sich ohne Verluste beheben und wo möchte man freiwillig Abstriche machen? Eine sehr exakte Wissenschaft, wir liefern Fakten Fakten Fakten!",
     "topics": [
@@ -7234,7 +7124,6 @@
     ]
   },
   "111": {
-    "episode": 111,
     "title": "Performance-Proxy, Media Queries Level 4, http-client-hints",
     "description": "Eigentlich haben wir alle keine Zeit, aber das ist keine Ausrede&nbsp;&ndash; jedenfalls nicht für Schepp, Peter und <a href=\"http://twitter.com/frederichemberger\">Frederic</a>.",
     "topics": [
@@ -7319,7 +7208,6 @@
     ]
   },
   "112": {
-    "episode": 112,
     "title": "Glücksrad und Links",
     "description": "Schepp und Peter sahen sich akutem Themenmangel gegenüber und beschlossen daher, einfach ein halbes Stündchen das Glücksrad drehen zu lassen und dann die Links zu verlesen.",
     "links": [
@@ -7394,7 +7282,6 @@
     ]
   },
   "113": {
-    "episode": 113,
     "title": "jQuery vom CDN und Resize Events auf DOM Elementen",
     "description": "Hans und Rod gaben sich zu Zweit die Ehre &#8211; können ja nicht alle arbeiten oder Häuser kaufen…",
     "topics": [
@@ -7484,7 +7371,6 @@
     "randomSpec": []
   },
   "114": {
-    "episode": 114,
     "title": "<template>, Appcache, asm.js versus Bytecode",
     "description": "Für die neue Revision werden Schepp und Peter von <a href=\"https://twitter.com/dantz\">Andreas Dantz</a> begleitet, der sich sehr über den JavaScript-Schwerpunkt dieser Sendung gefreut hat. Zum Ausgleich drehen wir dieses mal auch am CSS3-Glücksrad.",
     "topics": [
@@ -7555,7 +7441,6 @@
     ]
   },
   "115": {
-    "episode": 115,
     "title": "Browsertriebwerke, RWD und Steinzeitmalerei",
     "description": "Hans und Rod luden sich <a href=\"http://www.mademyday.de/\">Marc Hinse</a> ein, um den wöchentliche Tratsch mal streng Badisch abzuwickeln &#8211; Wir können alles, außer Hochdeutsch.",
     "topics": [
@@ -7669,7 +7554,6 @@
     ]
   },
   "116": {
-    "episode": 116,
     "title": "Konferenzen, Motion Design, IDs versus Classes",
     "description": "Volles Haus bei Working Draft! Neben Schepp und Peter gaben sich heute <a href=\"http://twitter.com/maddesigns\">Sven Wolfermann</a>, <a href=\"http://twitter.com/czillgens\">Christoph Zillgens</a>, <a href=\"http://twitter.com/g16n\">Gunnar Bittersmann</a> und <a href=\"http://twitter.com/ddprrt\">Stefan Baumgartner</a> die Ehre um zu berichten, zu ranten und zu streiten.",
     "topics": [
@@ -7740,7 +7624,6 @@
     ]
   },
   "117": {
-    "episode": 117,
     "title": "jQuery, Performance, Links",
     "description": "Schepp, Hans und Peter ackerten sich in gewohnter Manier durch das, was sie für die Themen der Woche hielten.",
     "topics": [
@@ -7813,7 +7696,6 @@
     ]
   },
   "118": {
-    "episode": 118,
     "title": "Die Problematik des Schätzens",
     "description": "News gibt es diese Woche keine zu verkünden.\n\nAufgrund von Konferenzen, Betankung und privater Großereignisse gibt es diese Woche ein kleines Loch an Themen. Schepp und Hans haben aber versucht das Beste draus zu machen.",
     "topics": [
@@ -7884,7 +7766,6 @@
     ]
   },
   "119": {
-    "episode": 119,
     "title": "Transitions, Flaggen, Links",
     "description": "Hans, Rodney und Peter erzählten, ranteten und verlasen wie üblich das neues aus der Web-Welt.",
     "topics": [
@@ -7945,7 +7826,6 @@
     ]
   },
   "120": {
-    "episode": 120,
     "title": "CSS Strukturieren, Sinn und Unsinn von Touchdetection, DRM",
     "description": "Christian und Hans besprachen diese Woche die Themen aus der Welt von CSS, Touch-Detection und verschlüsselten Medien.",
     "topics": [
@@ -8028,7 +7908,6 @@
     ]
   },
   "121": {
-    "episode": 121,
     "title": "requestAutocomplete, Web Components, Offline-Detection",
     "description": "Neue Browser, alte Probleme&nbsp;&ndash; diesmal mit Schepp, Peter und Rodney an den Mikrofonen.",
     "topics": [
@@ -8107,12 +7986,10 @@
     ]
   },
   "122": {
-    "episode": 122,
     "title": "Interview mit Chris Heilmann zu Firefox OS",
     "description": "Letzte Woche haben wir die <a href=\"http://2013.beyondtellerrand.com/\">beyond tellerrand 2013</a> in Düsseldorf besucht und dabei die Gelegenheit genutzt, <a href=\"http://christianheilmann.com/\">Christian Heilmann</a> von Mozilla vors Mikro zu bekommen und ihn zu <a href=\"http://www.mozilla.org/de/firefox/partners/\">Firefox OS</a> zu befragen. Das Gespräch haben wir im Foyer aufgenommen, was leider mit vielen Nebengeräuschen einher ging. Sorry dafür.\n\n<a class=\"FlattrButton\" style=\"display:none;\" href=\"http://workingdraft.de/122/\" title=\" Revision 122: Interview mit Chris Heilmann zu Firefox OS\" rev=\"flattr;uid:markusschlegel;language:de_DE;category:audio;tags:blog;\">Letzte Woche haben wir die beyond tellerrand 2013 in Düsseldorf besucht und dabei die Gelegenheit genutzt, Christian Heilmann von Mozilla vors Mikro zu bekommen und ihn zu Firefox OS zu...</a>"
   },
   "123": {
-    "episode": 123,
     "title": "Cargo-Culting in JS, localStorage und Prerendering",
     "description": "Zur Revision 123 begrüßen wir <a href=\"http://www.fettblog.eu/\">Stefan Baumgartner</a> als neuen Co-Moderator im Team. Außerdem sind Peter, Schepp und Hans mit von der Partie.<br>\nDas <a href=\"https://trello.com/board/revision-123/519c7f3e2dc601e777001702\">Board zur Sendung findet ihr hier</a>.",
     "topics": [
@@ -8190,7 +8067,6 @@
     ]
   },
   "124": {
-    "episode": 124,
     "title": "Screen Readers, CSP und In-depth Script Loading",
     "description": "Kleine Runde, große Spieldauer: In der 124. Revision des Working Drafts beleuchten der Schepp und Stefan eine Reihe eher JavaScript-lastige Themen. Neben dem gewohnten Programm gibt es auch noch eine Verlosung: <a href=\"http://twitter.com/asciidisco\">Sebastian Golasch</a> stellt uns ein Ticket für das <a href=\"http://braincamp-cologne.com/\">Braincamp Cologne</a> zur Verfügung! Unsere Trello Notizen findet ihr <a href=\"https://trello.com/board/revision-124/51af3edd75aa1e654d002c06\">hier</a>.",
     "topics": [
@@ -8260,7 +8136,6 @@
     ]
   },
   "125": {
-    "episode": 125,
     "title": "Bye, Bye, Chrome Frame und Table Layouts",
     "description": "Diese Woche sind fast alle irgendwie unterwegs. Deshalb lud Hans sich Stammgast <a href=\"http://helloanselm.com/\">Anselm Hannemann</a> ein, um ein bisschen über die aktuellen Themen des Web zu sprechen.",
     "topics": [
@@ -8335,7 +8210,6 @@
     ]
   },
   "126": {
-    "episode": 126,
     "title": "Inputs, Formulare, Pseudoklassen und Origin",
     "description": "Bei einem schönen Digestivum drehten Stefan und Schepp ein paar mal am HTML5-Glücksrad und ließen einen Berg Links vom Stapel. Im Detail ergab sich das folgendermaßen:",
     "news": [
@@ -8418,7 +8292,6 @@
     ]
   },
   "127": {
-    "episode": 127,
     "title": "IE11, Glücksrad, Verlosung",
     "description": "Die Rumpfbesatzung aus Schepp und Peter erfreute sich diese Woche am IE11, fuhr das Glücksrad an den Drehzahlbegrenzer und verlost(e) am Ende sogar noch drei Exemplare von <a href=\"http://html5-dvd.de/\">Peters HTML5/CSS3-Videotraining</a>.",
     "topics": [
@@ -8470,7 +8343,6 @@
     ]
   },
   "128": {
-    "episode": 128,
     "title": "CoffeeScript, mobile Apps, Gewinne",
     "description": "Getreu dem Motto „Viel Feind, viel Ehr‘“ luden sich Stefan, Peter und Rodney mit <a href=\"https://twitter.com/thedeftone\">Jan Monschke</a> und <a href=\"https://twitter.com/sippndipp\">Sebastian Deutsch</a> gleich zwei Gäste ein, die in der Debatte rund um CoffeeScript ordentlich Gas gaben. Das Glückrad entfiel aus Zeitgründen, dafür wurden die Gewinner des Gewinnspiels aus Revision 127 gezogen.",
     "topics": [
@@ -8527,7 +8399,6 @@
     ]
   },
   "129": {
-    "episode": 129,
     "title": "Zuschauerfragen sind heiß",
     "description": "Angesichts hoher Temperaturen und eines niedrigen Themenlisten-Pegels nahmen sich Hans, Schepp und Peter <a href=\"http://workingdraft.de/127/#comments\">Themenwünsche der Leser aus Revision 127</a> zur Brust. Obwohl wir jedem Thema nicht mehr als 5 Minuten gewidmet haben, hat die Zeit nicht für alle Fragen gereicht, aber die kommen dann eben nächstes Mal dran. Falls ihr noch weitere Themenwünsche habt, ab damit in die Kommentare.",
     "topics": [
@@ -8648,7 +8519,6 @@
     ]
   },
   "130": {
-    "episode": 130,
     "title": "AngularJS – Superheroic JavaScript MVW Framework",
     "description": "Fast alle Moderatoren waren ausgeflogen, was also tun? Natürlich eine AngularJS-Sonderrevision! Die hatten wir schon länger geplant, jetzt nutzten wir die Gunst der Stunde. Da Stefan und Schepp beide keine Alltagserfahrung mit AngularJS vorweisen konnten, luden sie sich ein deutsches Experten-Trio bestehend aus <a href=\"http://angularjs.de/entwickler/robinboehm\">Robin Böhm</a>, <a href=\"http://angularjs.de/entwickler/saschabrink\">Sascha Brink</a> und <a href=\"http://angularjs.de/entwickler/justphil\">Philipp Tarasiewicz</a> ein, die im Folgenden eine gute Stunde lang über die Funktionsweise und Vorteile von AngularJS erzählten.",
     "topics": [
@@ -8723,7 +8593,6 @@
     ]
   },
   "131": {
-    "episode": 131,
     "title": "Zuschauerfragen die Zweite",
     "description": "Das Sommerloch hat die Themenliste gefressen! Zum Glück lagen noch ein paar Zuhörerfragen auf Halde, derer sich Rodney, Stefan und Peter annahmen.",
     "topics": [
@@ -8785,7 +8654,6 @@
     ]
   },
   "132": {
-    "episode": 132,
     "title": "Rund ums Testen",
     "description": "Schepp und Rodney luden sich <a href=\"https://twitter.com/asciidisco\">Sebastian Golasch</a> ein, um ein wenig was über sein neues Projekt <a href=\"http://dalekjs.com/\">DalekJS</a> zu erfahren.",
     "topics": [
@@ -8844,7 +8712,6 @@
     ]
   },
   "133": {
-    "episode": 133,
     "title": "Responsive Webdesign und CSS Frameworks",
     "description": "In Abwesenheit der restlichen Stammbesetzung holt sich Stefan die beiden Gäste <a href=\"http://helloanselm.com/\">Anselm Hannemann</a> und <a href=\"http://grochtdreis.de/\">Jens &#8220;Flocke&#8221; Grochtdreis</a> ins virtuelle Studio. Bei diesem hochkarätigen Aufgebot an Mitsprechern liegen die Hauptpunkte der heutigen Sendung direkt auf dem Tisch: Responsive Webdesign in all seinen Formen. In einer angeregten Diskussion sprechen wir über neue Prozesse für Responsive Webdesign in Agenturen und kommen zu einer ausführlichen Betrachtung von CSS- und Grid-Frameworks. Viel Spaß!",
     "topics": [
@@ -8915,7 +8782,6 @@
     ]
   },
   "134": {
-    "episode": 134,
     "title": "News, CSS, Links",
     "description": "Trotz angespannter Themenlage griffen Hans, Schepp und Peter zu den Mikrofonen. Letzter verpennte in Folge das Schreiben der Schaunotizen, was leichte Verzögerungen im Betriebsablauf der weiteren Veröffentlichung nach sich zog.",
     "topics": [
@@ -8994,7 +8860,6 @@
     ]
   },
   "135": {
-    "episode": 135,
     "title": "Progressive Enhancement, Sigh JavaScript und Bower",
     "description": "In der heutigen Revision holen sich Schepp und Stefan <a href=\"http://twitter.com/yellowled\">Matthias Mees aus dem hohen Norden</a> vors Mikro, um über Progressive Enhancement und Twitters Paketmanager Bower zu quatschen.",
     "topics": [
@@ -9053,7 +8918,6 @@
     ]
   },
   "136": {
-    "episode": 136,
     "title": "Smashing Conference und ein moderner Design-Workflow",
     "description": "Zur Revision 136 war <a href=\"http://www.stn.my/\">Stefan Nitzsche</a> zu Gast, der mit uns ein wenig über seine Projekte und seinen Workflow redete.",
     "topics": [
@@ -9097,7 +8961,6 @@
     ]
   },
   "137": {
-    "episode": 137,
     "title": "Mobile Browser Wonderland",
     "description": "Aus Mangel an aktuellen Themen geben Peter, Stefan und der Schepp einen Rundumschlag zum Thema Mobile Browser. Wir plaudern fröhlich aus dem Nähkästchen, erzählen von unseren Erfahrungen und präsentieren die irrsinnigsten Browserquirks, die selbst dem IE6 alle Ehre gemacht hätten.",
     "topics": [
@@ -9175,7 +9038,6 @@
     ]
   },
   "138": {
-    "episode": 138,
     "title": "Auf der roten CMS Couch",
     "description": "Eine spontane Revision mit spontanen Gästen und einem noch spontaneren Twitter. Eine fünf Minuten vor Start zusammengestoppelte Besetzung aus <a href=\"http://www.yellowled.de\">Matthias Mees</a>, <a href=\"http://grochtdreis.de\">Jens Grochtdreis</a>, Stefan und Schepp diskutiert über die Dinge, die dem Webworker seit jeher graue Haare und Falten bereiten: Content Management Systeme.",
     "topics": [
@@ -9245,7 +9107,6 @@
     ]
   },
   "139": {
-    "episode": 139,
     "title": "Toolchain-Kult und Touch-Events",
     "description": "Viele Bothaner erlitten den Tod bis endlich <a href=\"https://twitter.com/patrick_h_lauke\">Patrick Lauke</a> den Weg in unsere Sendung fand. Dort angekommen erhellte er uns über Touch- und Pointer-Events und glich seine Meinung über Toolchains und ARIA-Kurse mit Schepp und Peter ab.",
     "topics": [
@@ -9295,7 +9156,6 @@
     ]
   },
   "141": {
-    "episode": 141,
     "title": "Devops, statische Seiten und Links",
     "description": "Hans, Stefan und Peter luden sich dieses Mal Ole Michaelis (<a href=\"https://twitter.com/CodeStars\">@codestars</a>) ein, um sich zum Thema DevOps erleuchten zu lassen. Ole arbeitet tagsüber bei <a href=\"http://de.jimdo.com/\">Jimdo</a>, organisiert des Nachts Konferenzen wie <a href=\"http://socoded.com/\">So Coded</a> und <a href=\"https://speakerdeck.com/nesquick/next-level-devops\">erzählt viel über DevOps</a>.",
     "topics": [
@@ -9351,7 +9211,6 @@
     ]
   },
   "142": {
-    "episode": 142,
     "title": "Webfonts und IDEs",
     "description": "Es herrscht Saure-Gurken-Zeit und die Themenliste war gähnend leer. Zum Glück konnte die Hörerschaft Hans, Peter und Stefan mit zwei Fragen gerade noch davon abhalten, eine Null-Minuten-Revision zu fabrizieren.",
     "topics": [
@@ -9392,7 +9251,6 @@
     ]
   },
   "143": {
-    "episode": 143,
     "title": "CSS, Performance, Hörerfragen",
     "description": "Mit fast voller Stammbesatzung (Schepp, Stefan, Hans und Peter) stellten wir uns den CSS-Themen der Woche und nahmen uns auch eine Hörerfrage vor.",
     "topics": [
@@ -9463,7 +9321,6 @@
     ]
   },
   "144": {
-    "episode": 144,
     "title": "RESS und unsere Deployment Strategien",
     "description": "Diese Woche war mal wieder ein Gast im Working Draft dabei: <a href=\"http://maddesigns.de/\">Sven Wolfermann</a> gab sich die Ehre ein wenig über seine Projekte und Erfahrungen mit Responsive Images und vielem mehr Preis zu geben.",
     "topics": [
@@ -9527,7 +9384,6 @@
     ]
   },
   "145": {
-    "episode": 145,
     "title": "Dezentralisierung und Hoodie",
     "description": "Eine weitere Sendung mit Besonderheiten und tollen Gästen: <a href=\"http://getkirby.com/\">Kirby</a>-Papa <a href=\"http://bastianallgeier.com/\">Bastian Allgeier</a> und <a href=\"http://hood.ie/\">Hoodie</a>-Mitentwickler <a href=\"http://alexfeyerke.com/\">Alex Feyerke</a> waren diesmal mit von der Partie.",
     "topics": [
@@ -9580,7 +9436,6 @@
     ]
   },
   "146": {
-    "episode": 146,
     "title": "Responsive Images, Verträge und Links",
     "description": "Wenn es keine Themen gibt, macht man sich einfach welche. So luden Schepp, Peter und Stefan kurzerhand den <a href=\"http://helloanselm.com/\">Anselm</a> ein und sprachen über Responsive Images (Anselm ist zufällig Experte auf dem Gebiet) sowie Verträge und Geschäftspraktiken im Webentwickler-Alltag.",
     "topics": [
@@ -9623,7 +9478,6 @@
     ]
   },
   "147": {
-    "episode": 147,
     "title": "Über das INIT Boilerplate und das Laravel PHP-Framework",
     "description": "Stefan, Hans und Schepp luden sich diesmal <a href=\"http://christoph-rumpel.com/\">Christoph Rumpel</a> aus dem schönen Wien ein. Und darum ging es:",
     "topics": [
@@ -9710,7 +9564,6 @@
     ]
   },
   "148": {
-    "episode": 148,
     "title": "Generatoren und Mutationen",
     "description": "Die Not macht erfinderisch: Aus akutem Mangel an Themen zauberten Schepp, Peter und Stefan eine sehr JavaScript-lastige Revision aus dem Hut, die sich mit brandneuen bzw. noch nicht so geläufigen Technologien auseinandersetzt:",
     "topics": [
@@ -9766,7 +9619,6 @@
     ]
   },
   "149": {
-    "episode": 149,
     "title": "Toolchains, WebFonts und Offline-First",
     "description": "Hans und Stefan luden sich zu dieser Revision <a href=\"http://praegnanz.de\">Gerrit von Aaken</a> ein, deutsches Podcast-Urgestein und Meister der Webtypografie.",
     "topics": [
@@ -9827,7 +9679,6 @@
     ]
   },
   "150": {
-    "episode": 150,
     "title": "Kurz-Jubiläum mit News, Glücksrad und Links",
     "description": "Das 150er-Jubiläum geriet aufgrund von Themen- und Personalmangel sowie leichter Verpestung seitens Peters etwas kurz. Da konnte auch der eigentlich sehr motivierte Schepp nicht mehr viel ausrichten.",
     "news": [
@@ -9880,7 +9731,6 @@
     ]
   },
   "151": {
-    "episode": 151,
     "title": "Myth, statische Seiten, Links",
     "description": "Kurz vor Weihnachten plauderten Rodney und Peter über den neuesten CSS-Präprozessor (den niemand benutzen sollte) und statische Webseiten.",
     "topics": [
