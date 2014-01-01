@@ -8,7 +8,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/1/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1/0/Revision1_-Sencha-Animator-Webfernsehen-und-Firesheep.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1/0/Revision1_-Sencha-Animator-Webfernsehen-und-Firesheep.mp3",
+    "title": "Sencha Animator, Webfernsehen und Firesheep"
   },
   "2": {
     "id": 2,
@@ -20,7 +21,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/2/",
-    "audio": "http://workingdraft.de/podpress_trac/web/25/0/revision21.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/25/0/revision21.mp3",
+    "title": "mod_pagespeed, Sub-Pixel-Positionierung und viel Hall"
   },
   "3": {
     "id": 3,
@@ -32,7 +34,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/3/",
-    "audio": "http://workingdraft.de/podpress_trac/web/60/0/Revision-3_-FF4Beta7-F1-und-Google-Instant-Previews.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/60/0/Revision-3_-FF4Beta7-F1-und-Google-Instant-Previews.mp3",
+    "title": "FF4Beta7, F1 und Google Instant Previews"
   },
   "4": {
     "id": 4,
@@ -44,7 +47,8 @@
       "polarity"
     ],
     "href": "http://workingdraft.de/4/",
-    "audio": "http://workingdraft.de/podpress_trac/web/93/0/Revision-4_-Sencha-Touch-1.0-IE9-JS-und-HTML5-Gaming.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/93/0/Revision-4_-Sencha-Touch-1.0-IE9-JS-und-HTML5-Gaming.mp3",
+    "title": "Sencha Touch 1.0, IE9-JS und HTML5-Gaming"
   },
   "5": {
     "id": 5,
@@ -56,7 +60,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/5/",
-    "audio": "http://workingdraft.de/podpress_trac/web/105/0/Revision5_-iOS-4.2-Opera-11-Web-Messaging-und-Kinect.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/105/0/Revision5_-iOS-4.2-Opera-11-Web-Messaging-und-Kinect.mp3",
+    "title": "iOS 4.2, Opera 11, Web Messaging und Kinect"
   },
   "6": {
     "id": 6,
@@ -67,7 +72,8 @@
       "markus_schlegel"
     ],
     "href": "http://workingdraft.de/6/",
-    "audio": "http://workingdraft.de/podpress_trac/web/130/0/Revision-6_-Firebug-1.6-head.js-Adventskalender-und-alle-sind-krank.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/130/0/Revision-6_-Firebug-1.6-head.js-Adventskalender-und-alle-sind-krank.mp3",
+    "title": "Firebug 1.6, head.js, Adventskalender und alle sind krank"
   },
   "7": {
     "id": 7,
@@ -78,7 +84,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/7/",
-    "audio": "http://workingdraft.de/podpress_trac/web/145/0/Revision-7_-Dateisystem-Android-2.3-Websockets-Protokoll-Glitch-CSS-2.1.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/145/0/Revision-7_-Dateisystem-Android-2.3-Websockets-Protokoll-Glitch-CSS-2.1.mp3",
+    "title": "Dateisystem, Android 2.3, Websockets-Protokoll-Glitch, CSS 2.1"
   },
   "8": {
     "id": 8,
@@ -90,7 +97,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/8/",
-    "audio": "http://workingdraft.de/podpress_trac/web/164/0/Revision-8_-CrankShaft-Treesaver-und-ControlJS.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/164/0/Revision-8_-CrankShaft-Treesaver-und-ControlJS.mp3",
+    "title": "CrankShaft, Treesaver und ControlJS"
   },
   "9": {
     "id": 9,
@@ -103,7 +111,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/9/",
-    "audio": "http://workingdraft.de/podpress_trac/web/186/0/Revision-9_-DOM-Monster-Drupal-7-und-2.2250738585072011e-308.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/186/0/Revision-9_-DOM-Monster-Drupal-7-und-2.2250738585072011e-308.mp3",
+    "title": "DOM-Monster, Drupal 7 und 2.2250738585072011e-308"
   },
   "10": {
     "id": 10,
@@ -116,7 +125,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/10/",
-    "audio": "http://workingdraft.de/podpress_trac/web/212/0/Revision-10_-H.264-vs.-WebM-Shadow-DOM-und-w3fools.com_.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/212/0/Revision-10_-H.264-vs.-WebM-Shadow-DOM-und-w3fools.com_.mp3",
+    "title": "H.264 vs. WebM, Shadow DOM und w3fools.com"
   },
   "11": {
     "id": 11,
@@ -128,7 +138,8 @@
       "nicobruenjes"
     ],
     "href": "http://workingdraft.de/11/",
-    "audio": "http://workingdraft.de/podpress_trac/web/250/0/wd-11.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/250/0/wd-11.mp3",
+    "title": "HTML5 +Logo -5, Markup-Manipulation und IP-Adressen-Endzeit"
   },
   "12": {
     "id": 12,
@@ -141,7 +152,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/12/",
-    "audio": "http://workingdraft.de/podpress_trac/web/279/0/wd-12.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/279/0/wd-12.mp3",
+    "title": "CSS-Reset, IE9 RC1 und Harmony"
   },
   "13": {
     "id": 13,
@@ -153,7 +165,8 @@
       "markus_schlegel"
     ],
     "href": "http://workingdraft.de/13/",
-    "audio": "http://workingdraft.de/podpress_trac/web/307/0/wd-13.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/307/0/wd-13.mp3",
+    "title": "Screen Presenter, Chromeless und Clipboard API"
   },
   "14": {
     "id": 14,
@@ -165,7 +178,8 @@
       "markus_schlegel"
     ],
     "href": "http://workingdraft.de/14/",
-    "audio": "http://workingdraft.de/podpress_trac/web/329/0/wd-14.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/329/0/wd-14.mp3",
+    "title": "Hashbangs, PhantomJS und Github-Gene"
   },
   "15": {
     "id": 15,
@@ -176,7 +190,8 @@
       "derSchepp"
     ],
     "href": "http://workingdraft.de/15/",
-    "audio": "http://workingdraft.de/podpress_trac/web/355/0/wd-15.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/355/0/wd-15.mp3",
+    "title": "IE9 unmodern? Teure Featuredetection? Pareto-Prinzip?"
   },
   "16": {
     "id": 16,
@@ -188,7 +203,8 @@
       "markus_schlegel"
     ],
     "href": "http://workingdraft.de/16/",
-    "audio": "http://workingdraft.de/podpress_trac/web/407/0/wd-16.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/407/0/wd-16.mp3",
+    "title": "Interview mit Microsoft"
   },
   "17": {
     "id": 17,
@@ -200,7 +216,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/17/",
-    "audio": "http://workingdraft.de/podpress_trac/web/422/0/wd-17.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/422/0/wd-17.mp3",
+    "title": "A/B-Test, Animationen, Canvas und WebGL"
   },
   "18": {
     "id": 18,
@@ -211,7 +228,8 @@
       "derSchepp"
     ],
     "href": "http://workingdraft.de/18/",
-    "audio": "http://workingdraft.de/podpress_trac/web/445/0/wd-18.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/445/0/wd-18.mp3",
+    "title": "Scoped Styles, Web Inspector Remote, Bildmanipulation in PHP"
   },
   "19": {
     "id": 19,
@@ -223,7 +241,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/19/",
-    "audio": "http://workingdraft.de/podpress_trac/web/462/0/wd-19.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/462/0/wd-19.mp3",
+    "title": "Barcamp, HTML5 Buch, Device-API und Manifest-Validator"
   },
   "20": {
     "id": 20,
@@ -235,7 +254,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/20/",
-    "audio": "http://workingdraft.de/podpress_trac/web/473/0/wd-20.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/473/0/wd-20.mp3",
+    "title": "HTTPArchive, dynaTrace und AmplifyJS"
   },
   "21": {
     "id": 21,
@@ -248,7 +268,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/21/",
-    "audio": "http://workingdraft.de/podpress_trac/web/482/0/wd-21.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/482/0/wd-21.mp3",
+    "title": "SPDY, Mobile UI, Webshims, und alles hardboiled!"
   },
   "22": {
     "id": 22,
@@ -260,7 +281,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/22/",
-    "audio": "http://workingdraft.de/podpress_trac/web/490/0/wd-22.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/490/0/wd-22.mp3",
+    "title": "IE10, Live.js und Favicons"
   },
   "23": {
     "id": 23,
@@ -271,7 +293,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/23/",
-    "audio": "http://workingdraft.de/podpress_trac/web/520/0/wd-23.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/520/0/wd-23.mp3",
+    "title": "Node-SPDY, Zukunftskram und CoffeeKup"
   },
   "24": {
     "id": 24,
@@ -285,7 +308,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/24/",
-    "audio": "http://workingdraft.de/podpress_trac/web/537/0/wd-24.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/537/0/wd-24.mp3",
+    "title": "Silbentrennung, Semikola und Reward.js"
   },
   "25": {
     "id": 25,
@@ -297,7 +321,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/25/",
-    "audio": "http://workingdraft.de/podpress_trac/web/555/0/wd-25.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/555/0/wd-25.mp3",
+    "title": "Visibility API und Chromebooks"
   },
   "26": {
     "id": 26,
@@ -308,7 +333,8 @@
       "markus_schlegel"
     ],
     "href": "http://workingdraft.de/26/",
-    "audio": "http://workingdraft.de/podpress_trac/web/577/0/wd-26.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/577/0/wd-26.mp3",
+    "title": "Viel Internet Explorer"
   },
   "27": {
     "id": 27,
@@ -320,7 +346,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/27/",
-    "audio": ""
+    "audio": "",
+    "title": "Revision 27: @viewport, Tastatursteuerung und Aurora 6"
   },
   "28": {
     "id": 28,
@@ -333,7 +360,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/28/",
-    "audio": "http://workingdraft.de/podpress_trac/web/611/0/wd-28.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/611/0/wd-28.mp3",
+    "title": "Niemand hat Lion oder iOS 5"
   },
   "29": {
     "id": 29,
@@ -344,7 +372,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/29/",
-    "audio": "http://workingdraft.de/podpress_trac/web/629/0/wd-29.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/629/0/wd-29.mp3",
+    "title": "VisualSearch.js und Twitter-Spam"
   },
   "30": {
     "id": 30,
@@ -356,7 +385,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/30/",
-    "audio": "http://workingdraft.de/podpress_trac/web/641/0/wd-30.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/641/0/wd-30.mp3",
+    "title": "IE10, Google+ und Dr.Web"
   },
   "31": {
     "id": 31,
@@ -368,7 +398,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/31/",
-    "audio": "http://workingdraft.de/podpress_trac/web/657/0/wd-31.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/657/0/wd-31.mp3",
+    "title": "Takeout, OpenCL und Memory Management"
   },
   "32": {
     "id": 32,
@@ -379,7 +410,8 @@
       "derSchepp"
     ],
     "href": "http://workingdraft.de/32/",
-    "audio": "http://workingdraft.de/podpress_trac/web/666/0/wd-32.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/666/0/wd-32.mp3",
+    "title": "Zwei hoch fünf"
   },
   "33": {
     "id": 33,
@@ -393,7 +425,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/33/",
-    "audio": "http://workingdraft.de/podpress_trac/web/684/0/wd-33.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/684/0/wd-33.mp3",
+    "title": "Peter hat ein MacBook Air!"
   },
   "34": {
     "id": 34,
@@ -405,7 +438,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/34/",
-    "audio": "http://workingdraft.de/podpress_trac/web/700/0/wd-34.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/700/0/wd-34.mp3",
+    "title": "Kontraste und Kleinscheiß"
   },
   "35": {
     "id": 35,
@@ -417,7 +451,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/35/",
-    "audio": "http://workingdraft.de/podpress_trac/web/711/0/wd-35.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/711/0/wd-35.mp3",
+    "title": "PhoneGap und Web Intents"
   },
   "36": {
     "id": 36,
@@ -430,7 +465,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/36/",
-    "audio": "http://workingdraft.de/podpress_trac/web/727/0/wd-36.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/727/0/wd-36.mp3",
+    "title": "Ohne Jan, aber mit Delay"
   },
   "37": {
     "id": 37,
@@ -443,7 +479,8 @@
       "markus_schlegel"
     ],
     "href": "http://workingdraft.de/37/",
-    "audio": "http://workingdraft.de/podpress_trac/web/742/0/wd-37.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/742/0/wd-37.mp3",
+    "title": "speak.js, Native Client und JS-MVC-Frameworks"
   },
   "38": {
     "id": 38,
@@ -455,7 +492,8 @@
       "yellowled"
     ],
     "href": "http://workingdraft.de/38/",
-    "audio": "http://workingdraft.de/podpress_trac/web/751/0/wd-38.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/751/0/wd-38.mp3",
+    "title": "Gridsysteme und Best Practices"
   },
   "39": {
     "id": 39,
@@ -466,7 +504,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/39/",
-    "audio": "http://workingdraft.de/podpress_trac/web/774/0/wd-39.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/774/0/wd-39.mp3",
+    "title": "Zucker, Bullenkot und GEFÄNGNIS"
   },
   "40": {
     "id": 40,
@@ -479,7 +518,8 @@
       "rodneyrehm"
     ],
     "href": "http://workingdraft.de/40/",
-    "audio": "http://workingdraft.de/podpress_trac/web/783/0/wd-40.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/783/0/wd-40.mp3",
+    "title": "Zerskyped"
   },
   "41": {
     "id": 41,
@@ -491,7 +531,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/41/",
-    "audio": "http://workingdraft.de/podpress_trac/web/793/0/wd-41.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/793/0/wd-41.mp3",
+    "title": "setImmediate API, CSS Compositing und überflüssiges HTML5"
   },
   "42": {
     "id": 42,
@@ -506,7 +547,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/42/",
-    "audio": "http://workingdraft.de/podpress_trac/web/812/0/wd-42.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/812/0/wd-42.mp3",
+    "title": "Zweiundvierzig!"
   },
   "43": {
     "id": 43,
@@ -517,7 +559,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/43/",
-    "audio": "http://workingdraft.de/podpress_trac/web/826/0/wd-43.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/826/0/wd-43.mp3",
+    "title": "Tripreports, CSS Image Values und Dart"
   },
   "44": {
     "id": 44,
@@ -529,7 +572,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/44/",
-    "audio": "http://workingdraft.de/podpress_trac/web/845/0/wd-44.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/845/0/wd-44.mp3",
+    "title": "HTTP-Statuscodes, TYPO3 und ‘n Echo, echo, cho, o…."
   },
   "45": {
     "id": 45,
@@ -541,7 +585,8 @@
       "drublic"
     ],
     "href": "http://workingdraft.de/45/",
-    "audio": "http://workingdraft.de/podpress_trac/web/856/0/wd-45.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/856/0/wd-45.mp3",
+    "title": "H.264 in JS, jQuery Standards Team & OccupyHTML5!"
   },
   "46": {
     "id": 46,
@@ -554,7 +599,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/46/",
-    "audio": "http://workingdraft.de/podpress_trac/web/875/0/wd-46.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/875/0/wd-46.mp3",
+    "title": "Aloha Editor, jQuery 1.7 und halbgare Zukunftstechniken"
   },
   "47": {
     "id": 47,
@@ -565,7 +611,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/47/",
-    "audio": "http://workingdraft.de/podpress_trac/web/886/0/wd-47.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/886/0/wd-47.mp3",
+    "title": "Firefox 8, Aurora 10 und jQuery-Diät mit dem dynamischen Duo"
   },
   "48": {
     "id": 48,
@@ -585,7 +632,8 @@
       "rodneyrehm"
     ],
     "href": "http://workingdraft.de/48/",
-    "audio": "http://workingdraft.de/podpress_trac/web/890/0/wd-48.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/890/0/wd-48.mp3",
+    "title": "Direkt von der beyond tellerrand. In Bewegtbild!"
   },
   "49": {
     "id": 49,
@@ -596,7 +644,8 @@
       "drublic"
     ],
     "href": "http://workingdraft.de/49/",
-    "audio": "http://workingdraft.de/podpress_trac/web/914/0/wd-49.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/914/0/wd-49.mp3",
+    "title": "Devtools und Kleinvieh"
   },
   "50": {
     "id": 50,
@@ -607,7 +656,8 @@
       "makochnet"
     ],
     "href": "http://workingdraft.de/50/",
-    "audio": "http://workingdraft.de/podpress_trac/web/925/0/wd-50.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/925/0/wd-50.mp3",
+    "title": "P3P olé!"
   },
   "51": {
     "id": 51,
@@ -619,7 +669,8 @@
       "drublic"
     ],
     "href": "http://workingdraft.de/51/",
-    "audio": "http://workingdraft.de/podpress_trac/web/931/0/wd-51.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/931/0/wd-51.mp3",
+    "title": "AMD, jQuery Plugin Repo & Alphatier-Gekabbel"
   },
   "52": {
     "id": 52,
@@ -631,7 +682,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/52/",
-    "audio": "http://workingdraft.de/podpress_trac/web/945/0/wd-52.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/945/0/wd-52.mp3",
+    "title": "Android 4.0, Webvideo & CoffeeScript"
   },
   "53": {
     "id": 53,
@@ -645,7 +697,8 @@
       "rodneyrehm"
     ],
     "href": "http://workingdraft.de/53/",
-    "audio": "http://workingdraft.de/podpress_trac/web/951/0/wd-53.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/951/0/wd-53.mp3",
+    "title": "At the Smashing Magazine meetup!"
   },
   "54": {
     "id": 54,
@@ -656,7 +709,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/54/",
-    "audio": "http://workingdraft.de/podpress_trac/web/962/0/wd-54.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/962/0/wd-54.mp3",
+    "title": "Ein Sack voll Firefox, lahmes CSS und Media Queries"
   },
   "55": {
     "id": 55,
@@ -667,7 +721,8 @@
       "distilledhype"
     ],
     "href": "http://workingdraft.de/55/",
-    "audio": "http://workingdraft.de/podpress_trac/web/974/0/wd-55.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/974/0/wd-55.mp3",
+    "title": "Webfundstücke und Devtools"
   },
   "56": {
     "id": 56,
@@ -679,7 +734,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/56/",
-    "audio": "http://workingdraft.de/podpress_trac/web/990/0/wd-56.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/990/0/wd-56.mp3",
+    "title": "Font.js, CSS3 UI & Wunderkit"
   },
   "57": {
     "id": 57,
@@ -692,7 +748,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/57/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1004/0/wd-57.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1004/0/wd-57.mp3",
+    "title": "IDBExplorer, Gradient Syntax & Wrap.js"
   },
   "58": {
     "id": 58,
@@ -708,7 +765,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/58/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1018/0/wd-58.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1018/0/wd-58.mp3",
+    "title": "-webkit-CSS3, -webkit-SEO und -webkit-MMT"
   },
   "59": {
     "id": 59,
@@ -720,7 +778,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/59/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1038/0/wd-59.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1038/0/wd-59.mp3",
+    "title": "Wie ticken Webentwickler?"
   },
   "60": {
     "id": 60,
@@ -731,7 +790,8 @@
       "djesse"
     ],
     "href": "http://workingdraft.de/60/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1053/0/wd-60.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1053/0/wd-60.mp3",
+    "title": "Adobe Edge, Web Components & Informationsquellen"
   },
   "61": {
     "id": 61,
@@ -743,7 +803,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/61/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1063/0/wd-61.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1063/0/wd-61.mp3",
+    "title": "HTML5 Please API, Boot to Gecko, Image Replacements"
   },
   "62": {
     "id": 62,
@@ -755,7 +816,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/62/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1081/0/wd-62.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1081/0/wd-62.mp3",
+    "title": "Adobe Shadow, Mobile und Gerante – Live!"
   },
   "63": {
     "id": 63,
@@ -768,7 +830,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/63/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1095/0/wd-63.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1095/0/wd-63.mp3",
+    "title": "Responsiver Content, Firefox 11 und Offene Datenquellen"
   },
   "64": {
     "id": 64,
@@ -782,7 +845,8 @@
       "marcthiele"
     ],
     "href": "http://workingdraft.de/64/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1109/0/wd-64.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1109/0/wd-64.mp3",
+    "title": "Source Maps, Event Capturing & beyond tellerrand – play"
   },
   "65": {
     "id": 65,
@@ -796,7 +860,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/65/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1125/0/wd-65.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1125/0/wd-65.mp3",
+    "title": "Infinite Transition Delays, jQuery Hooks, ECMAScript 6"
   },
   "66": {
     "id": 66,
@@ -809,7 +874,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/66/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1142/0/wd-66.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1142/0/wd-66.mp3",
+    "title": "CSS-Variablen, Homo-Ehe und ein Werbeblock"
   },
   "67": {
     "id": 67,
@@ -823,7 +889,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/67/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1153/0/wd-67.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1153/0/wd-67.mp3",
+    "title": "Meteor, Media Queries, Light Table"
   },
   "68": {
     "id": 68,
@@ -837,7 +904,8 @@
       "fhemberger"
     ],
     "href": "http://workingdraft.de/68/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1167/0/wd-68.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1167/0/wd-68.mp3",
+    "title": "Ein <dialog> aus scharfem Pink und Grunzern"
   },
   "69": {
     "id": 69,
@@ -851,7 +919,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/69/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1183/0/wd-69.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1183/0/wd-69.mp3",
+    "title": "CSS Battle Royale – Opera "
   },
   "70": {
     "id": 70,
@@ -866,7 +935,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/70/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1195/0/wd-70.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1195/0/wd-70.mp3",
+    "title": "JS Styleguides, Barrierefreiheit & Web Intents"
   },
   "71": {
     "id": 71,
@@ -879,7 +949,8 @@
       "drublic"
     ],
     "href": "http://workingdraft.de/71/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1216/0/wd-71.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1216/0/wd-71.mp3",
+    "title": "Error.stack, Physical Units & DOM Mutation Observers"
   },
   "72": {
     "id": 72,
@@ -893,7 +964,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/72/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1227/0/wd-72.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1227/0/wd-72.mp3",
+    "title": "SASS vs. LESS & Googlebot vs. JavaScript"
   },
   "73": {
     "id": 73,
@@ -906,7 +978,8 @@
       "helloanselm"
     ],
     "href": "http://workingdraft.de/73/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1250/0/wd73.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1250/0/wd73.mp3",
+    "title": "Von CSS Blenden, Cross-Domain-Requests und responsiven Bildern"
   },
   "74": {
     "id": 74,
@@ -918,7 +991,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/74/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1262/0/wd-74.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1262/0/wd-74.mp3",
+    "title": "Social-Media-Buttons, Links und die kürzeste Revision aller Zeiten"
   },
   "75": {
     "id": 75,
@@ -931,7 +1005,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/75/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1271/0/wd-75.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1271/0/wd-75.mp3",
+    "title": "News, Links und die diesmal wirklich kürzeste Revision aller Zeiten"
   },
   "76": {
     "id": 76,
@@ -944,7 +1019,8 @@
       "drublic"
     ],
     "href": "http://workingdraft.de/76/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1285/0/wd-76.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1285/0/wd-76.mp3",
+    "title": "Testen, Dokumentieren und Abhängigkeiten verwalten"
   },
   "77": {
     "id": 77,
@@ -957,7 +1033,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/77/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1309/0/wd-77.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1309/0/wd-77.mp3",
+    "title": "Do not Track, IHK-Petition und Web Components"
   },
   "78": {
     "id": 78,
@@ -971,7 +1048,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/78/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1333/0/wd-78.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1333/0/wd-78.mp3",
+    "title": "Editoren, jQuery, Yeoman, Browser"
   },
   "79": {
     "id": 79,
@@ -985,7 +1063,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/79/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1351/0/wd-79.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1351/0/wd-79.mp3",
+    "title": "File System API, Chrome Apps und ein Haufen Links"
   },
   "80": {
     "id": 80,
@@ -999,7 +1078,8 @@
       "rodneyrehm"
     ],
     "href": "http://workingdraft.de/80/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1365/0/wd-80.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1365/0/wd-80.mp3",
+    "title": "X-Tag, Print Styles und IE-Basher bashen"
   },
   "81": {
     "id": 81,
@@ -1013,7 +1093,8 @@
       "drublic"
     ],
     "href": "http://workingdraft.de/81/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1378/0/wd-81.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1378/0/wd-81.mp3",
+    "title": "Seamless Iframes, relative Fontgrößen und ein Berg Links"
   },
   "82": {
     "id": 82,
@@ -1027,7 +1108,8 @@
       "helloanselm"
     ],
     "href": "http://workingdraft.de/82/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1389/0/wd-82.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1389/0/wd-82.mp3",
+    "title": "Wiederverwertbarkeit von CSS & Web Security"
   },
   "83": {
     "id": 83,
@@ -1040,7 +1122,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/83/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1398/0/wd-83.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1398/0/wd-83.mp3",
+    "title": "ECMAScript 6, @supports, WebRTC"
   },
   "84": {
     "id": 84,
@@ -1053,7 +1136,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/84/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1414/0/wd-84.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1414/0/wd-84.mp3",
+    "title": "jQuery, Git, Informationsverwaltung und jede Menge Links"
   },
   "85": {
     "id": 85,
@@ -1067,7 +1151,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/85/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1428/0/wd-85.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1428/0/wd-85.mp3",
+    "title": "Konferenzen, CSS und Twitter"
   },
   "86": {
     "id": 86,
@@ -1080,7 +1165,8 @@
       "rodneyrehm"
     ],
     "href": "http://workingdraft.de/86/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1457/0/wd86.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1457/0/wd86.mp3",
+    "title": "CAS und Object.observe"
   },
   "87": {
     "id": 87,
@@ -1093,7 +1179,8 @@
       "rodneyrehm"
     ],
     "href": "http://workingdraft.de/87/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1475/0/wd87.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1475/0/wd87.mp3",
+    "title": "Position Sticky"
   },
   "88": {
     "id": 88,
@@ -1107,7 +1194,8 @@
       "rodneyrehm"
     ],
     "href": "http://workingdraft.de/88/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1484/0/wd-88.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1484/0/wd-88.mp3",
+    "title": "Opus Codec, hot CSS Specs und Bower"
   },
   "89": {
     "id": 89,
@@ -1121,7 +1209,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/89/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1501/0/wd89.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1501/0/wd89.mp3",
+    "title": "Mobile, Frameworks, iOS 6"
   },
   "90": {
     "id": 90,
@@ -1135,7 +1224,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/90/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1528/0/wd-90.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1528/0/wd-90.mp3",
+    "title": ".mobi-Gate, Persona und TypeScript"
   },
   "91": {
     "id": 91,
@@ -1148,7 +1238,8 @@
       "rodneyrehm"
     ],
     "href": "http://workingdraft.de/91/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1521/0/wd-91.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1521/0/wd-91.mp3",
+    "title": "Konferenzen und HiDPI Bilder"
   },
   "92": {
     "id": 92,
@@ -1162,7 +1253,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/92/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1550/0/wd-92.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1550/0/wd-92.mp3",
+    "title": "Firefox, Fullscreen API und Thinkin’ Tags"
   },
   "93": {
     "id": 93,
@@ -1176,7 +1268,8 @@
       "drublic"
     ],
     "href": "http://workingdraft.de/93/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1569/0/wd-93.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1569/0/wd-93.mp3",
+    "title": "Farbkontraste und die volle Responsive Dröhnung!"
   },
   "94": {
     "id": 94,
@@ -1190,7 +1283,8 @@
       "rodneyrehm"
     ],
     "href": "http://workingdraft.de/94/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1592/0/wd-94.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1592/0/wd-94.mp3",
+    "title": "Test The Web Forward!"
   },
   "95": {
     "id": 95,
@@ -1203,7 +1297,8 @@
       "rodneyrehm"
     ],
     "href": "http://workingdraft.de/95/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1607/0/wd-95.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1607/0/wd-95.mp3",
+    "title": "Vanilla Web und Accessibility"
   },
   "96": {
     "id": 96,
@@ -1216,7 +1311,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/96/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1620/0/wd-96.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1620/0/wd-96.mp3",
+    "title": "News, HTML5 und Links"
   },
   "97": {
     "id": 97,
@@ -1233,7 +1329,8 @@
       "rodneyrehm"
     ],
     "href": "http://workingdraft.de/97/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1636/0/wd-97.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1636/0/wd-97.mp3",
+    "title": "beyond tellerrand 2012 & Interview mit Bruce Lawson"
   },
   "98": {
     "id": 98,
@@ -1246,7 +1343,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/98/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1655/0/wd98.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1655/0/wd98.mp3",
+    "title": "IE10, HTML5 und CSS"
   },
   "99": {
     "id": 99,
@@ -1261,7 +1359,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/99/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1672/0/wd-99.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1672/0/wd-99.mp3",
+    "title": "ProcessWire, Sueddeutsche.de und mehr"
   },
   "100": {
     "id": 100,
@@ -1276,7 +1375,8 @@
       "rodneyrehm"
     ],
     "href": "http://workingdraft.de/100/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1694/0/wd-100.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1694/0/wd-100.mp3",
+    "title": "Anniversary with Paul Irish"
   },
   "101": {
     "id": 101,
@@ -1290,7 +1390,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/101/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1714/0/wd-101.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1714/0/wd-101.mp3",
+    "title": "Canvas, HTML5, Damals"
   },
   "102": {
     "id": 102,
@@ -1304,7 +1405,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/102/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1737/0/wd-102.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1737/0/wd-102.mp3",
+    "title": "Templates, JPEGs, JavaScript und OpenSource"
   },
   "103": {
     "id": 103,
@@ -1321,7 +1423,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/103/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1765/0/wd-103.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1765/0/wd-103.mp3",
+    "title": "Keine Themen"
   },
   "104": {
     "id": 104,
@@ -1335,7 +1438,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/104/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1774/0/wd-104.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1774/0/wd-104.mp3",
+    "title": "Open Device Labs und Webplatform.org-Docsprints"
   },
   "105": {
     "id": 105,
@@ -1348,7 +1452,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/105/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1789/0/wd-105.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1789/0/wd-105.mp3",
+    "title": "CSS-Performance, Web Workers und ein paar Links"
   },
   "106": {
     "id": 106,
@@ -1361,7 +1466,8 @@
       "fhemberger"
     ],
     "href": "http://workingdraft.de/106/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1798/0/wd-106.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1798/0/wd-106.mp3",
+    "title": "modern.IE, Textbalance und der ES5 Strict Mode"
   },
   "107": {
     "id": 107,
@@ -1375,7 +1481,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/107/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1808/0/wd-107.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1808/0/wd-107.mp3",
+    "title": "Unresponsive Design, Docsprint und ein paar Links"
   },
   "108": {
     "id": 108,
@@ -1388,7 +1495,8 @@
       "drublic"
     ],
     "href": "http://workingdraft.de/108/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1816/0/wd-108.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1816/0/wd-108.mp3",
+    "title": "asm.js, UA Sniffing und Operas Wechsel zu WebKit"
   },
   "109": {
     "id": 109,
@@ -1401,7 +1509,8 @@
       "rodneyrehm"
     ],
     "href": "http://workingdraft.de/109/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1827/0/wd-109.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1827/0/wd-109.mp3",
+    "title": "Counter Styles, mobile Betriebssysteme, HTML5-Linkelemente"
   },
   "110": {
     "id": 110,
@@ -1414,7 +1523,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/110/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1838/0/wd-110.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1838/0/wd-110.mp3",
+    "title": "Rendering Performance"
   },
   "111": {
     "id": 111,
@@ -1427,7 +1537,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/111/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1845/0/wd-111.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1845/0/wd-111.mp3",
+    "title": "Performance-Proxy, Media Queries Level 4, http-client-hints"
   },
   "112": {
     "id": 112,
@@ -1442,7 +1553,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/112/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1853/0/wd-112.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1853/0/wd-112.mp3",
+    "title": "Glücksrad und Links"
   },
   "113": {
     "id": 113,
@@ -1454,7 +1566,8 @@
       "rodneyrehm"
     ],
     "href": "http://workingdraft.de/113/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1868/0/wd-113.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1868/0/wd-113.mp3",
+    "title": "jQuery vom CDN und Resize Events auf DOM Elementen"
   },
   "114": {
     "id": 114,
@@ -1467,7 +1580,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/114/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1874/0/wd-114.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1874/0/wd-114.mp3",
+    "title": "<template>, Appcache, asm.js versus Bytecode"
   },
   "115": {
     "id": 115,
@@ -1480,7 +1594,8 @@
       "rodneyrehm"
     ],
     "href": "http://workingdraft.de/115/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1886/0/wd-115.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1886/0/wd-115.mp3",
+    "title": "Browsertriebwerke, RWD und Steinzeitmalerei"
   },
   "116": {
     "id": 116,
@@ -1495,7 +1610,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/116/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1900/0/wd-116.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1900/0/wd-116.mp3",
+    "title": "Konferenzen, Motion Design, IDs versus Classes"
   },
   "117": {
     "id": 117,
@@ -1508,7 +1624,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/117/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1913/0/wd-117.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1913/0/wd-117.mp3",
+    "title": "jQuery, Performance, Links"
   },
   "118": {
     "id": 118,
@@ -1520,7 +1637,8 @@
       "drublic"
     ],
     "href": "http://workingdraft.de/118/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1920/0/wd-118.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1920/0/wd-118.mp3",
+    "title": "Die Problematik des Schätzens"
   },
   "119": {
     "id": 119,
@@ -1533,7 +1651,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/119/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1932/0/wd-119.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1932/0/wd-119.mp3",
+    "title": "Transitions, Flaggen, Links"
   },
   "120": {
     "id": 120,
@@ -1545,7 +1664,8 @@
       "drublic"
     ],
     "href": "http://workingdraft.de/120/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1942/0/wd-120.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1942/0/wd-120.mp3",
+    "title": "CSS Strukturieren, Sinn und Unsinn von Touchdetection, DRM"
   },
   "121": {
     "id": 121,
@@ -1558,7 +1678,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/121/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1951/0/wd-121.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1951/0/wd-121.mp3",
+    "title": "requestAutocomplete, Web Components, Offline-Detection"
   },
   "122": {
     "id": 122,
@@ -1573,7 +1694,8 @@
       "rodneyrehm"
     ],
     "href": "http://workingdraft.de/122/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1959/0/wd-122.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1959/0/wd-122.mp3",
+    "title": "Interview mit Chris Heilmann zu Firefox OS"
   },
   "123": {
     "id": 123,
@@ -1587,7 +1709,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/123/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1963/0/wd-123.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1963/0/wd-123.mp3",
+    "title": "Cargo-Culting in JS, localStorage und Prerendering"
   },
   "124": {
     "id": 124,
@@ -1599,7 +1722,8 @@
       "derSchepp"
     ],
     "href": "http://workingdraft.de/124/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1970/0/wd-124.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1970/0/wd-124.mp3",
+    "title": "Screen Readers, CSP und In-depth Script Loading"
   },
   "125": {
     "id": 125,
@@ -1611,7 +1735,8 @@
       "helloanselm"
     ],
     "href": "http://workingdraft.de/125/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1981/0/wd-125.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1981/0/wd-125.mp3",
+    "title": "Bye, Bye, Chrome Frame und Table Layouts"
   },
   "126": {
     "id": 126,
@@ -1626,7 +1751,8 @@
       "derSchepp"
     ],
     "href": "http://workingdraft.de/126/",
-    "audio": "http://workingdraft.de/podpress_trac/web/1989/0/wd-126.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/1989/0/wd-126.mp3",
+    "title": "Inputs, Formulare, Pseudoklassen und Origin"
   },
   "127": {
     "id": 127,
@@ -1638,7 +1764,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/127/",
-    "audio": "http://workingdraft.de/podpress_trac/web/2000/0/wd-127.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/2000/0/wd-127.mp3",
+    "title": "IE11, Glücksrad, Verlosung"
   },
   "128": {
     "id": 128,
@@ -1653,7 +1780,8 @@
       "thedeftone"
     ],
     "href": "http://workingdraft.de/128/",
-    "audio": "http://workingdraft.de/podpress_trac/web/2014/0/wd-128.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/2014/0/wd-128.mp3",
+    "title": "CoffeeScript, mobile Apps, Gewinne"
   },
   "129": {
     "id": 129,
@@ -1666,7 +1794,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/129/",
-    "audio": "http://workingdraft.de/podpress_trac/web/2021/0/wd-129.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/2021/0/wd-129.mp3",
+    "title": "Zuschauerfragen sind heiß"
   },
   "130": {
     "id": 130,
@@ -1681,7 +1810,8 @@
       "sascha_brink"
     ],
     "href": "http://workingdraft.de/130/",
-    "audio": "http://workingdraft.de/podpress_trac/web/2032/0/wd-130.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/2032/0/wd-130.mp3",
+    "title": "AngularJS – Superheroic JavaScript MVW Framework"
   },
   "131": {
     "id": 131,
@@ -1693,7 +1823,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/131/",
-    "audio": "http://workingdraft.de/podpress_trac/web/2043/0/wd-131.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/2043/0/wd-131.mp3",
+    "title": "Zuschauerfragen die Zweite"
   },
   "132": {
     "id": 132,
@@ -1706,7 +1837,8 @@
       "rodneyrehm"
     ],
     "href": "http://workingdraft.de/132/",
-    "audio": "http://workingdraft.de/podpress_trac/web/2054/0/wd-132.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/2054/0/wd-132.mp3",
+    "title": "Rund ums Testen"
   },
   "133": {
     "id": 133,
@@ -1719,7 +1851,8 @@
       "helloanselm"
     ],
     "href": "http://workingdraft.de/133/",
-    "audio": "http://workingdraft.de/podpress_trac/web/2068/0/wd-133.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/2068/0/wd-133.mp3",
+    "title": "Responsive Webdesign und CSS Frameworks"
   },
   "134": {
     "id": 134,
@@ -1732,7 +1865,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/134/",
-    "audio": "http://workingdraft.de/podpress_trac/web/2077/0/wd-134.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/2077/0/wd-134.mp3",
+    "title": "News, CSS, Links"
   },
   "135": {
     "id": 135,
@@ -1745,7 +1879,8 @@
       "yellowled"
     ],
     "href": "http://workingdraft.de/135/",
-    "audio": "http://workingdraft.de/podpress_trac/web/2083/0/wd-135.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/2083/0/wd-135.mp3",
+    "title": "Progressive Enhancement, Sigh JavaScript und Bower"
   },
   "136": {
     "id": 136,
@@ -1758,7 +1893,8 @@
       "stn1978"
     ],
     "href": "http://workingdraft.de/136/",
-    "audio": "http://workingdraft.de/podpress_trac/web/2090/0/wd-136.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/2090/0/wd-136.mp3",
+    "title": "Smashing Conference und ein moderner Design-Workflow"
   },
   "137": {
     "id": 137,
@@ -1771,7 +1907,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/137/",
-    "audio": "http://workingdraft.de/podpress_trac/web/2096/0/wd-137.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/2096/0/wd-137.mp3",
+    "title": "Mobile Browser Wonderland"
   },
   "138": {
     "id": 138,
@@ -1785,7 +1922,8 @@
       "yellowled"
     ],
     "href": "http://workingdraft.de/138/",
-    "audio": "http://workingdraft.de/podpress_trac/web/2100/0/wd-138.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/2100/0/wd-138.mp3",
+    "title": "Auf der roten CMS Couch"
   },
   "139": {
     "id": 139,
@@ -1798,7 +1936,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/139/",
-    "audio": "http://workingdraft.de/podpress_trac/web/2109/0/wd-139.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/2109/0/wd-139.mp3",
+    "title": "Toolchain-Kult und Touch-Events"
   },
   "140": {
     "id": 140,
@@ -1824,7 +1963,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/141/",
-    "audio": "http://workingdraft.de/podpress_trac/web/2126/0/wd-141.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/2126/0/wd-141.mp3",
+    "title": "Devops, statische Seiten und Links"
   },
   "142": {
     "id": 142,
@@ -1837,7 +1977,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/142/",
-    "audio": "http://workingdraft.de/podpress_trac/web/2132/0/wd-142.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/2132/0/wd-142.mp3",
+    "title": "Webfonts und IDEs"
   },
   "143": {
     "id": 143,
@@ -1851,7 +1992,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/143/",
-    "audio": "http://workingdraft.de/podpress_trac/web/2141/0/wd-143.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/2141/0/wd-143.mp3",
+    "title": "CSS, Performance, Hörerfragen"
   },
   "144": {
     "id": 144,
@@ -1864,7 +2006,8 @@
       "maddesigns"
     ],
     "href": "http://workingdraft.de/144/",
-    "audio": "http://workingdraft.de/podpress_trac/web/2151/0/wd-144.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/2151/0/wd-144.mp3",
+    "title": "RESS und unsere Deployment Strategien"
   },
   "145": {
     "id": 145,
@@ -1879,7 +2022,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/145/",
-    "audio": "http://workingdraft.de/podpress_trac/web/2156/0/wd-145.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/2156/0/wd-145.mp3",
+    "title": "Dezentralisierung und Hoodie"
   },
   "146": {
     "id": 146,
@@ -1893,7 +2037,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/146/",
-    "audio": "http://workingdraft.de/podpress_trac/web/2167/0/wd-146.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/2167/0/wd-146.mp3",
+    "title": "Responsive Images, Verträge und Links"
   },
   "147": {
     "id": 147,
@@ -1907,7 +2052,8 @@
       "drublic"
     ],
     "href": "http://workingdraft.de/147/",
-    "audio": "http://workingdraft.de/podpress_trac/web/2177/0/wd-147.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/2177/0/wd-147.mp3",
+    "title": "Über das INIT Boilerplate und das Laravel PHP-Framework"
   },
   "148": {
     "id": 148,
@@ -1920,7 +2066,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/148/",
-    "audio": "http://workingdraft.de/podpress_trac/web/2186/0/wd-148.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/2186/0/wd-148.mp3",
+    "title": "Generatoren und Mutationen"
   },
   "149": {
     "id": 149,
@@ -1933,7 +2080,8 @@
       "gerritvanaaken"
     ],
     "href": "http://workingdraft.de/149/",
-    "audio": "http://workingdraft.de/podpress_trac/web/2193/0/wd-149.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/2193/0/wd-149.mp3",
+    "title": "Toolchains, WebFonts und Offline-First"
   },
   "150": {
     "id": 150,
@@ -1947,7 +2095,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/150/",
-    "audio": "http://workingdraft.de/podpress_trac/web/2198/0/wd-150.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/2198/0/wd-150.mp3",
+    "title": "Kurz-Jubiläum mit News, Glücksrad und Links"
   },
   "151": {
     "id": 151,
@@ -1958,7 +2107,8 @@
       "sir_pepe"
     ],
     "href": "http://workingdraft.de/151/",
-    "audio": "http://workingdraft.de/podpress_trac/web/2225/0/wd-151.mp3"
+    "audio": "http://workingdraft.de/podpress_trac/web/2225/0/wd-151.mp3",
+    "title": "Myth, statische Seiten, Links"
   },
   "152": {
     "id": 152,
