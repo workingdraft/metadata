@@ -2,7 +2,14 @@
   "id": 144,
   "date": "2013-11-17",
   "duration": "00:52:11",
-  "live": true,
+  "live": [
+    {
+      "title": "Revision 144",
+      "href": "http://livestre.am/4FHZl",
+      "duration": "02:04:10",
+      "date": "2013-11-04"
+    }
+  ],
   "people": [
     {
       "name": "Christian Schaefer",

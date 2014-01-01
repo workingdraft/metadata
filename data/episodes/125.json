@@ -2,7 +2,14 @@
   "id": 125,
   "date": "2013-06-25",
   "duration": "00:33:08",
-  "live": true,
+  "live": [
+    {
+      "title": "Revision 125",
+      "href": "http://livestre.am/4vQ2j",
+      "duration": "01:57:20",
+      "date": "2013-06-24"
+    }
+  ],
   "people": [
     {
       "name": "Hans Reinl",

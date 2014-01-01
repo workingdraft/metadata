@@ -25,6 +25,14 @@
   "href": "http://workingdraft.de/150/",
   "audio": "http://workingdraft.de/podpress_trac/web/2198/0/wd-150.mp3",
   "title": "Kurz-Jubiläum mit News, Glücksrad und Links",
+  "live": [
+    {
+      "title": "Revision 150",
+      "href": "http://livestre.am/4Ilx6",
+      "duration": "00:48:21",
+      "date": "2013-12-16"
+    }
+  ],
   "description": "Das 150er-Jubiläum geriet aufgrund von Themen- und Personalmangel sowie leichter Verpestung seitens Peters etwas kurz. Da konnte auch der eigentlich sehr motivierte Schepp nicht mehr viel ausrichten.",
   "news": [
     {

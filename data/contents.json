@@ -11778,7 +11778,14 @@
     "id": 123,
     "date": "2013-06-09",
     "duration": "00:53:53",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 123",
+        "href": "http://livestre.am/4u8L0",
+        "duration": "02:18:20",
+        "date": "2013-06-03"
+      }
+    ],
     "people": [
       {
         "name": "Stefan Baumgartner",
@@ -11894,7 +11901,14 @@
     "id": 124,
     "date": "2013-06-14",
     "duration": "00:50:08",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 124",
+        "href": "http://livestre.am/4uFO9",
+        "duration": "01:42:38",
+        "date": "2013-06-10"
+      }
+    ],
     "people": [
       {
         "name": "Stefan Baumgartner",
@@ -11986,7 +12000,14 @@
     "id": 125,
     "date": "2013-06-25",
     "duration": "00:33:08",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 125",
+        "href": "http://livestre.am/4vQ2j",
+        "duration": "01:57:20",
+        "date": "2013-06-24"
+      }
+    ],
     "people": [
       {
         "name": "Hans Reinl",
@@ -12080,7 +12101,14 @@
     "id": 126,
     "date": "2013-07-06",
     "duration": "00:46:48",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 126",
+        "href": "http://livestre.am/4wq0a",
+        "duration": "01:12:13",
+        "date": "2013-07-01"
+      }
+    ],
     "flags": [
       "no-topics"
     ],
@@ -12188,7 +12216,14 @@
     "id": 127,
     "date": "2013-07-09",
     "duration": "00:46:21",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 127",
+        "href": "http://livestre.am/4wV4K",
+        "duration": "01:55:54",
+        "date": "2013-07-08"
+      }
+    ],
     "people": [
       {
         "name": "Christian Schaefer",
@@ -12262,7 +12297,14 @@
     "id": 128,
     "date": "2013-07-20",
     "duration": "01:18:56",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 128",
+        "href": "http://livestre.am/4xt48",
+        "duration": "02:19:58",
+        "date": "2013-07-15"
+      }
+    ],
     "people": [
       {
         "name": "Stefan Baumgartner",
@@ -12358,7 +12400,14 @@
     "id": 129,
     "date": "2013-07-24",
     "duration": "01:07:45",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 129 zweite Hälfte",
+        "href": "http://livestre.am/4y3le",
+        "duration": "00:15:21",
+        "date": "2013-07-22"
+      }
+    ],
     "people": [
       {
         "name": "Christian Schaefer",
@@ -12509,7 +12558,14 @@
     "id": 130,
     "date": "2013-08-04",
     "duration": "01:02:14",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 130",
+        "href": "http://livestre.am/4yFsE",
+        "duration": "02:04:48",
+        "date": "2013-07-29"
+      }
+    ],
     "people": [
       {
         "name": "Stefan Baumgartner",
@@ -12710,7 +12766,14 @@
     "id": 132,
     "date": "2013-08-14",
     "duration": "01:08:35",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 132",
+        "href": "http://livestre.am/4zJtC",
+        "duration": "01:50:53",
+        "date": "2013-08-12"
+      }
+    ],
     "people": [
       {
         "name": "asciidisco",
@@ -12889,7 +12952,20 @@
     "id": 134,
     "date": "2013-09-05",
     "duration": "00:52:04",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 134 Teil 1",
+        "href": "http://livestre.am/4AOtv",
+        "duration": "00:48:03",
+        "date": "2013-08-26"
+      },
+      {
+        "title": "Revision 134 Teil 2",
+        "href": "http://livestre.am/4AOPD",
+        "duration": "01:31:58",
+        "date": "2013-08-26"
+      }
+    ],
     "people": [
       {
         "name": "Christian Schaefer",
@@ -12998,7 +13074,14 @@
     "id": 135,
     "date": "2013-09-09",
     "duration": "00:48:32",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 135",
+        "href": "http://livestre.am/4BghD",
+        "duration": "01:37:04",
+        "date": "2013-09-02"
+      }
+    ],
     "people": [
       {
         "name": "Stefan Baumgartner",
@@ -13083,7 +13166,14 @@
     "id": 136,
     "date": "2013-09-16",
     "duration": "00:55:40",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 136",
+        "href": "http://livestre.am/4BJRA",
+        "duration": "01:43:23",
+        "date": "2013-09-09"
+      }
+    ],
     "people": [
       {
         "name": "Christian Schaefer",
@@ -13153,7 +13243,14 @@
     "id": 137,
     "date": "2013-09-24",
     "duration": "01:25:37",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 137",
+        "href": "http://livestre.am/4CeV8",
+        "duration": "02:12:40",
+        "date": "2013-09-16"
+      }
+    ],
     "people": [
       {
         "name": "Stefan Baumgartner",
@@ -13261,7 +13358,14 @@
     "id": 138,
     "date": "2013-10-01",
     "duration": "01:15:25",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 138",
+        "href": "http://livestre.am/4CGHx",
+        "duration": "01:41:44",
+        "date": "2013-09-23"
+      }
+    ],
     "people": [
       {
         "name": "Jens Grochtdreis",
@@ -13361,7 +13465,14 @@
     "id": 139,
     "date": "2013-10-06",
     "duration": "01:16:21",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 139",
+        "href": "http://livestre.am/4Daxy",
+        "duration": "02:11:19",
+        "date": "2013-09-30"
+      }
+    ],
     "people": [
       {
         "name": "Christian Schaefer",
@@ -13437,7 +13548,14 @@
     "id": 140,
     "date": null,
     "duration": "",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 140",
+        "href": "http://livestre.am/4DEy6",
+        "duration": "01:58:07",
+        "date": "2013-10-07"
+      }
+    ],
     "people": [
       {
         "name": "Ingo Kasch",
@@ -13465,7 +13583,14 @@
     "id": 141,
     "date": "2013-10-19",
     "duration": "00:50:47",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 141",
+        "href": "http://livestre.am/4EavU",
+        "duration": "01:48:35",
+        "date": "2013-10-14"
+      }
+    ],
     "people": [
       {
         "name": "Ole Michaelis",
@@ -13556,7 +13681,14 @@
     "id": 142,
     "date": "2013-10-27",
     "duration": "00:59:16",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 142",
+        "href": "http://livestre.am/4EDIp",
+        "duration": "02:02:32",
+        "date": "2013-10-21"
+      }
+    ],
     "people": [
       {
         "name": "Stefan Baumgartner",
@@ -13628,7 +13760,14 @@
     "id": 143,
     "date": "2013-11-02",
     "duration": "00:59:03",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 143",
+        "href": "http://livestre.am/4Fb7a",
+        "duration": "01:51:56",
+        "date": "2013-10-28"
+      }
+    ],
     "people": [
       {
         "name": "Stefan Baumgartner",
@@ -13737,7 +13876,14 @@
     "id": 144,
     "date": "2013-11-17",
     "duration": "00:52:11",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 144",
+        "href": "http://livestre.am/4FHZl",
+        "duration": "02:04:10",
+        "date": "2013-11-04"
+      }
+    ],
     "people": [
       {
         "name": "Christian Schaefer",
@@ -13827,7 +13973,14 @@
     "id": 145,
     "date": "2013-11-19",
     "duration": "00:58:05",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 145",
+        "href": "http://livestre.am/4G8HR",
+        "duration": "01:42:56",
+        "date": "2013-11-11"
+      }
+    ],
     "people": [
       {
         "name": "Bastian Allgeier",
@@ -13918,7 +14071,14 @@
     "id": 146,
     "date": "2013-11-24",
     "duration": "01:14:31",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 146",
+        "href": "http://livestre.am/4GAfO",
+        "duration": "02:42:43",
+        "date": "2013-11-18"
+      }
+    ],
     "people": [
       {
         "name": "Stefan Baumgartner",
@@ -13995,7 +14155,14 @@
     "id": 147,
     "date": "2013-12-03",
     "duration": "01:08:24",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 147",
+        "href": "http://livestre.am/4H2r9",
+        "duration": "02:14:32",
+        "date": "2013-11-25"
+      }
+    ],
     "people": [
       {
         "name": "Christoph Rumpel",
@@ -14116,7 +14283,14 @@
     "id": 148,
     "date": "2013-12-15",
     "duration": "00:48:48",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 148",
+        "href": "http://livestre.am/4HsqZ",
+        "duration": "02:09:59",
+        "date": "2013-12-02"
+      }
+    ],
     "people": [
       {
         "name": "Stefan Baumgartner",
@@ -14202,7 +14376,14 @@
     "id": 149,
     "date": "2013-12-25",
     "duration": "00:59:23",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 149",
+        "href": "http://livestre.am/4HV81",
+        "duration": "01:58:28",
+        "date": "2013-12-09"
+      }
+    ],
     "people": [
       {
         "name": "Stefan Baumgartner",
@@ -14313,6 +14494,14 @@
     "href": "http://workingdraft.de/150/",
     "audio": "http://workingdraft.de/podpress_trac/web/2198/0/wd-150.mp3",
     "title": "Kurz-Jubiläum mit News, Glücksrad und Links",
+    "live": [
+      {
+        "title": "Revision 150",
+        "href": "http://livestre.am/4Ilx6",
+        "duration": "00:48:21",
+        "date": "2013-12-16"
+      }
+    ],
     "description": "Das 150er-Jubiläum geriet aufgrund von Themen- und Personalmangel sowie leichter Verpestung seitens Peters etwas kurz. Da konnte auch der eigentlich sehr motivierte Schepp nicht mehr viel ausrichten.",
     "news": [
       {
@@ -14391,13 +14580,13 @@
     "description": "Kurz vor Weihnachten plauderten Rodney und Peter über den neuesten CSS-Präprozessor (den niemand benutzen sollte) und statische Webseiten.",
     "topics": [
       {
-        "name": "Myth",
+        "title": "Myth",
         "href": "http://www.myth.io/",
         "time": "00:00:24",
         "description": "Myth ist ein CSS-Präprozessor, der sich als CSS-Polyfill verkauft, dabei aber den Verkaufs-Part wesentlich besser macht als den Polyfill-Part. Rodney macht eins der Probleme darin aus, dass man nicht mehr erkennen kann, ob CSS/Myth-Code vom Browser oder vom Präprozessor verarbeitet wird. Das ist besonders problematisch, da Myth z.B. Variablen nur in der Syntax <a href=\"http://www.w3.org/TR/css-variables-1/\">dem Standard</a> nachempfindet und nicht die Kaskade berücksichtigt (<a href=\"https://hacks.mozilla.org/2013/12/css-variables-in-firefox-nightly/\">siehe</a> <a href=\"https://hacks.mozilla.org/2013/12/css-variables-in-firefox-nightly/\">auch</a>). Das wiederum verhindert, dass man die richtigen CSS-Vars überhaupt nutzt. Die sind ggf. sehr nutzenswert, auch wenn Rodney in den aktuellen Browsern noch einige Bugs ausfindig gemacht hat. Die Zusamenfasung (<a href=\"http://blog.rodneyrehm.de/archives/30-CSS-Polyfill-Preprocessor-Its-A-Myth.html\">hier aus Rodneys Feder in lang</a>: Myth sollte man dringend ignorieren und keinesfalls benutzen."
       },
       {
-        "name": "Goodbye WordPress: 2014 Will Be the Year of Flat-File CMSes — Type & Grids",
+        "title": "Goodbye WordPress: 2014 Will Be the Year of Flat-File CMSes — Type & Grids",
         "href": "http://www.typeandgrids.com/blog/goodbye-wordpress-2014-will-be-the-year-of-flat-file-cmses",
         "time": "00:35:05",
         "description": "Jeremiah Shoaf lässt einen Abgesang auf fette CMS vom Stapel, in den Rodney und Peter eingeschränkt einstimmen. Peters hatte in der Vergangenheit PHP-Monstren wie WordPress und <a href=\"http://modx.com/\">ModX</a> im Einsatz und will aus Performance-, Sicherheits- und Genervtheitsgründen schleunigst zurück zu einer statischen Seite. Rodneys Seite besteht schon einem Kirby-ähnliches Eigenbau-Produkt, während sein Blog noch <a href=\"http://www.s9y.org/\">Serendipity</a> nutzt. Das große Problem für das Staische-Seiten-Jahr 2014 machen wir darin aus, Nicht-Nerds das Konzept zu verkaufen&nbsp;&hellip;"
@@ -14405,31 +14594,31 @@
     ],
     "links": [
       {
-        "name": "addyosmani/es6-tools",
+        "title": "addyosmani/es6-tools",
         "href": "https://github.com/addyosmani/es6-tools",
         "time": "00:45:32",
         "description": "Eche JS-Hipster benutzen schon ES6 bevor es Standard ist."
       },
       {
-        "name": "SpinKit",
+        "title": "SpinKit",
         "href": "http://tobiasahlin.com/spinkit/",
         "time": "00:45:32",
         "description": "Was früher das Ajax-Gif war macht man heute mit CSS."
       },
       {
-        "name": "How Do Users Really Hold Mobile Devices?",
+        "title": "How Do Users Really Hold Mobile Devices?",
         "href": "http://www.uxmatters.com/mt/archives/2013/02/how-do-users-really-hold-mobile-devices.php",
         "time": "00:45:32",
         "description": "Interessante Erkenntnisse."
       },
       {
-        "name": "Lea Verou: CSS in the 4th Dimension",
+        "title": "Lea Verou: CSS in the 4th Dimension",
         "href": "http://www.youtube.com/watch?v=NTJUFQmHbvc",
         "time": "00:45:32",
         "description": "Leicht bekömmlicher Rundumschlag zum Thema Animationen und Transitions."
       },
       {
-        "name": "generator-init",
+        "title": "generator-init",
         "href": "https://github.com/use-init/generator-init",
         "time": "00:45:32",
         "description": "Ein Yeoman-Generator für <a href=\"http://use-init.com/\">INIT</a>."
@@ -14474,6 +14663,14 @@
       }
     ],
     "href": "",
-    "audio": ""
+    "audio": "",
+    "live": [
+      {
+        "title": "Revision 152",
+        "href": "http://livestre.am/4J9Tq",
+        "duration": "03:04:51",
+        "date": "2013-12-30"
+      }
+    ]
   }
 }

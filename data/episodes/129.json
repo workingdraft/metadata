@@ -2,7 +2,14 @@
   "id": 129,
   "date": "2013-07-24",
   "duration": "01:07:45",
-  "live": true,
+  "live": [
+    {
+      "title": "Revision 129 zweite Hälfte",
+      "href": "http://livestre.am/4y3le",
+      "duration": "00:15:21",
+      "date": "2013-07-22"
+    }
+  ],
   "people": [
     {
       "name": "Christian Schaefer",

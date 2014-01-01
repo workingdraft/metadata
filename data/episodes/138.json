@@ -2,7 +2,14 @@
   "id": 138,
   "date": "2013-10-01",
   "duration": "01:15:25",
-  "live": true,
+  "live": [
+    {
+      "title": "Revision 138",
+      "href": "http://livestre.am/4CGHx",
+      "duration": "01:41:44",
+      "date": "2013-09-23"
+    }
+  ],
   "people": [
     {
       "name": "Jens Grochtdreis",

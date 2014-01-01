@@ -2,7 +2,14 @@
   "id": 145,
   "date": "2013-11-19",
   "duration": "00:58:05",
-  "live": true,
+  "live": [
+    {
+      "title": "Revision 145",
+      "href": "http://livestre.am/4G8HR",
+      "duration": "01:42:56",
+      "date": "2013-11-11"
+    }
+  ],
   "people": [
     {
       "name": "Bastian Allgeier",

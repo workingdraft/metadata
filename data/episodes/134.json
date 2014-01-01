@@ -2,7 +2,20 @@
   "id": 134,
   "date": "2013-09-05",
   "duration": "00:52:04",
-  "live": true,
+  "live": [
+    {
+      "title": "Revision 134 Teil 1",
+      "href": "http://livestre.am/4AOtv",
+      "duration": "00:48:03",
+      "date": "2013-08-26"
+    },
+    {
+      "title": "Revision 134 Teil 2",
+      "href": "http://livestre.am/4AOPD",
+      "duration": "01:31:58",
+      "date": "2013-08-26"
+    }
+  ],
   "people": [
     {
       "name": "Christian Schaefer",

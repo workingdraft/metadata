@@ -2,7 +2,14 @@
   "id": 141,
   "date": "2013-10-19",
   "duration": "00:50:47",
-  "live": true,
+  "live": [
+    {
+      "title": "Revision 141",
+      "href": "http://livestre.am/4EavU",
+      "duration": "01:48:35",
+      "date": "2013-10-14"
+    }
+  ],
   "people": [
     {
       "name": "Ole Michaelis",

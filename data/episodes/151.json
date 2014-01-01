@@ -26,13 +26,13 @@
   "description": "Kurz vor Weihnachten plauderten Rodney und Peter über den neuesten CSS-Präprozessor (den niemand benutzen sollte) und statische Webseiten.",
   "topics": [
     {
-      "name": "Myth",
+      "title": "Myth",
       "href": "http://www.myth.io/",
       "time": "00:00:24",
       "description": "Myth ist ein CSS-Präprozessor, der sich als CSS-Polyfill verkauft, dabei aber den Verkaufs-Part wesentlich besser macht als den Polyfill-Part. Rodney macht eins der Probleme darin aus, dass man nicht mehr erkennen kann, ob CSS/Myth-Code vom Browser oder vom Präprozessor verarbeitet wird. Das ist besonders problematisch, da Myth z.B. Variablen nur in der Syntax <a href=\"http://www.w3.org/TR/css-variables-1/\">dem Standard</a> nachempfindet und nicht die Kaskade berücksichtigt (<a href=\"https://hacks.mozilla.org/2013/12/css-variables-in-firefox-nightly/\">siehe</a> <a href=\"https://hacks.mozilla.org/2013/12/css-variables-in-firefox-nightly/\">auch</a>). Das wiederum verhindert, dass man die richtigen CSS-Vars überhaupt nutzt. Die sind ggf. sehr nutzenswert, auch wenn Rodney in den aktuellen Browsern noch einige Bugs ausfindig gemacht hat. Die Zusamenfasung (<a href=\"http://blog.rodneyrehm.de/archives/30-CSS-Polyfill-Preprocessor-Its-A-Myth.html\">hier aus Rodneys Feder in lang</a>: Myth sollte man dringend ignorieren und keinesfalls benutzen."
     },
     {
-      "name": "Goodbye WordPress: 2014 Will Be the Year of Flat-File CMSes — Type & Grids",
+      "title": "Goodbye WordPress: 2014 Will Be the Year of Flat-File CMSes — Type & Grids",
       "href": "http://www.typeandgrids.com/blog/goodbye-wordpress-2014-will-be-the-year-of-flat-file-cmses",
       "time": "00:35:05",
       "description": "Jeremiah Shoaf lässt einen Abgesang auf fette CMS vom Stapel, in den Rodney und Peter eingeschränkt einstimmen. Peters hatte in der Vergangenheit PHP-Monstren wie WordPress und <a href=\"http://modx.com/\">ModX</a> im Einsatz und will aus Performance-, Sicherheits- und Genervtheitsgründen schleunigst zurück zu einer statischen Seite. Rodneys Seite besteht schon einem Kirby-ähnliches Eigenbau-Produkt, während sein Blog noch <a href=\"http://www.s9y.org/\">Serendipity</a> nutzt. Das große Problem für das Staische-Seiten-Jahr 2014 machen wir darin aus, Nicht-Nerds das Konzept zu verkaufen&nbsp;&hellip;"
@@ -40,31 +40,31 @@
   ],
   "links": [
     {
-      "name": "addyosmani/es6-tools",
+      "title": "addyosmani/es6-tools",
       "href": "https://github.com/addyosmani/es6-tools",
       "time": "00:45:32",
       "description": "Eche JS-Hipster benutzen schon ES6 bevor es Standard ist."
     },
     {
-      "name": "SpinKit",
+      "title": "SpinKit",
       "href": "http://tobiasahlin.com/spinkit/",
       "time": "00:45:32",
       "description": "Was früher das Ajax-Gif war macht man heute mit CSS."
     },
     {
-      "name": "How Do Users Really Hold Mobile Devices?",
+      "title": "How Do Users Really Hold Mobile Devices?",
       "href": "http://www.uxmatters.com/mt/archives/2013/02/how-do-users-really-hold-mobile-devices.php",
       "time": "00:45:32",
       "description": "Interessante Erkenntnisse."
     },
     {
-      "name": "Lea Verou: CSS in the 4th Dimension",
+      "title": "Lea Verou: CSS in the 4th Dimension",
       "href": "http://www.youtube.com/watch?v=NTJUFQmHbvc",
       "time": "00:45:32",
       "description": "Leicht bekömmlicher Rundumschlag zum Thema Animationen und Transitions."
     },
     {
-      "name": "generator-init",
+      "title": "generator-init",
       "href": "https://github.com/use-init/generator-init",
       "time": "00:45:32",
       "description": "Ein Yeoman-Generator für <a href=\"http://use-init.com/\">INIT</a>."

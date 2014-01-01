@@ -2,7 +2,14 @@
   "id": 147,
   "date": "2013-12-03",
   "duration": "01:08:24",
-  "live": true,
+  "live": [
+    {
+      "title": "Revision 147",
+      "href": "http://livestre.am/4H2r9",
+      "duration": "02:14:32",
+      "date": "2013-11-25"
+    }
+  ],
   "people": [
     {
       "name": "Christoph Rumpel",

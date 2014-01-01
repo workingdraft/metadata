@@ -2,7 +2,14 @@
   "id": 126,
   "date": "2013-07-06",
   "duration": "00:46:48",
-  "live": true,
+  "live": [
+    {
+      "title": "Revision 126",
+      "href": "http://livestre.am/4wq0a",
+      "duration": "01:12:13",
+      "date": "2013-07-01"
+    }
+  ],
   "flags": [
     "no-topics"
   ],

@@ -1701,7 +1701,14 @@
     "id": 123,
     "date": "2013-06-09",
     "duration": "00:53:53",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 123",
+        "href": "http://livestre.am/4u8L0",
+        "duration": "02:18:20",
+        "date": "2013-06-03"
+      }
+    ],
     "people": [
       "ddprrt",
       "derSchepp",
@@ -1716,7 +1723,14 @@
     "id": 124,
     "date": "2013-06-14",
     "duration": "00:50:08",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 124",
+        "href": "http://livestre.am/4uFO9",
+        "duration": "01:42:38",
+        "date": "2013-06-10"
+      }
+    ],
     "people": [
       "ddprrt",
       "derSchepp"
@@ -1729,7 +1743,14 @@
     "id": 125,
     "date": "2013-06-25",
     "duration": "00:33:08",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 125",
+        "href": "http://livestre.am/4vQ2j",
+        "duration": "01:57:20",
+        "date": "2013-06-24"
+      }
+    ],
     "people": [
       "drublic",
       "helloanselm"
@@ -1742,7 +1763,14 @@
     "id": 126,
     "date": "2013-07-06",
     "duration": "00:46:48",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 126",
+        "href": "http://livestre.am/4wq0a",
+        "duration": "01:12:13",
+        "date": "2013-07-01"
+      }
+    ],
     "flags": [
       "no-topics"
     ],
@@ -1758,7 +1786,14 @@
     "id": 127,
     "date": "2013-07-09",
     "duration": "00:46:21",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 127",
+        "href": "http://livestre.am/4wV4K",
+        "duration": "01:55:54",
+        "date": "2013-07-08"
+      }
+    ],
     "people": [
       "derSchepp",
       "sir_pepe"
@@ -1771,7 +1806,14 @@
     "id": 128,
     "date": "2013-07-20",
     "duration": "01:18:56",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 128",
+        "href": "http://livestre.am/4xt48",
+        "duration": "02:19:58",
+        "date": "2013-07-15"
+      }
+    ],
     "people": [
       "ddprrt",
       "rodneyrehm",
@@ -1787,7 +1829,14 @@
     "id": 129,
     "date": "2013-07-24",
     "duration": "01:07:45",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 129 zweite Hälfte",
+        "href": "http://livestre.am/4y3le",
+        "duration": "00:15:21",
+        "date": "2013-07-22"
+      }
+    ],
     "people": [
       "derSchepp",
       "drublic",
@@ -1801,7 +1850,14 @@
     "id": 130,
     "date": "2013-08-04",
     "duration": "01:02:14",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 130",
+        "href": "http://livestre.am/4yFsE",
+        "duration": "02:04:48",
+        "date": "2013-07-29"
+      }
+    ],
     "people": [
       "ddprrt",
       "derSchepp",
@@ -1830,7 +1886,14 @@
     "id": 132,
     "date": "2013-08-14",
     "duration": "01:08:35",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 132",
+        "href": "http://livestre.am/4zJtC",
+        "duration": "01:50:53",
+        "date": "2013-08-12"
+      }
+    ],
     "people": [
       "asciidisco",
       "derSchepp",
@@ -1858,7 +1921,20 @@
     "id": 134,
     "date": "2013-09-05",
     "duration": "00:52:04",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 134 Teil 1",
+        "href": "http://livestre.am/4AOtv",
+        "duration": "00:48:03",
+        "date": "2013-08-26"
+      },
+      {
+        "title": "Revision 134 Teil 2",
+        "href": "http://livestre.am/4AOPD",
+        "duration": "01:31:58",
+        "date": "2013-08-26"
+      }
+    ],
     "people": [
       "derSchepp",
       "drublic",
@@ -1872,7 +1948,14 @@
     "id": 135,
     "date": "2013-09-09",
     "duration": "00:48:32",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 135",
+        "href": "http://livestre.am/4BghD",
+        "duration": "01:37:04",
+        "date": "2013-09-02"
+      }
+    ],
     "people": [
       "ddprrt",
       "derSchepp",
@@ -1886,7 +1969,14 @@
     "id": 136,
     "date": "2013-09-16",
     "duration": "00:55:40",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 136",
+        "href": "http://livestre.am/4BJRA",
+        "duration": "01:43:23",
+        "date": "2013-09-09"
+      }
+    ],
     "people": [
       "derSchepp",
       "drublic",
@@ -1900,7 +1990,14 @@
     "id": 137,
     "date": "2013-09-24",
     "duration": "01:25:37",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 137",
+        "href": "http://livestre.am/4CeV8",
+        "duration": "02:12:40",
+        "date": "2013-09-16"
+      }
+    ],
     "people": [
       "ddprrt",
       "derSchepp",
@@ -1914,7 +2011,14 @@
     "id": 138,
     "date": "2013-10-01",
     "duration": "01:15:25",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 138",
+        "href": "http://livestre.am/4CGHx",
+        "duration": "01:41:44",
+        "date": "2013-09-23"
+      }
+    ],
     "people": [
       "Flocke",
       "ddprrt",
@@ -1929,7 +2033,14 @@
     "id": 139,
     "date": "2013-10-06",
     "duration": "01:16:21",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 139",
+        "href": "http://livestre.am/4Daxy",
+        "duration": "02:11:19",
+        "date": "2013-09-30"
+      }
+    ],
     "people": [
       "derSchepp",
       "patrick_h_lauke",
@@ -1943,7 +2054,14 @@
     "id": 140,
     "date": null,
     "duration": "",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 140",
+        "href": "http://livestre.am/4DEy6",
+        "duration": "01:58:07",
+        "date": "2013-10-07"
+      }
+    ],
     "people": [
       "IngoKasch",
       "asciidisco",
@@ -1955,7 +2073,14 @@
     "id": 141,
     "date": "2013-10-19",
     "duration": "00:50:47",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 141",
+        "href": "http://livestre.am/4EavU",
+        "duration": "01:48:35",
+        "date": "2013-10-14"
+      }
+    ],
     "people": [
       "codestars",
       "ddprrt",
@@ -1970,7 +2095,14 @@
     "id": 142,
     "date": "2013-10-27",
     "duration": "00:59:16",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 142",
+        "href": "http://livestre.am/4EDIp",
+        "duration": "02:02:32",
+        "date": "2013-10-21"
+      }
+    ],
     "people": [
       "ddprrt",
       "drublic",
@@ -1984,7 +2116,14 @@
     "id": 143,
     "date": "2013-11-02",
     "duration": "00:59:03",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 143",
+        "href": "http://livestre.am/4Fb7a",
+        "duration": "01:51:56",
+        "date": "2013-10-28"
+      }
+    ],
     "people": [
       "ddprrt",
       "derSchepp",
@@ -1999,7 +2138,14 @@
     "id": 144,
     "date": "2013-11-17",
     "duration": "00:52:11",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 144",
+        "href": "http://livestre.am/4FHZl",
+        "duration": "02:04:10",
+        "date": "2013-11-04"
+      }
+    ],
     "people": [
       "derSchepp",
       "drublic",
@@ -2013,7 +2159,14 @@
     "id": 145,
     "date": "2013-11-19",
     "duration": "00:58:05",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 145",
+        "href": "http://livestre.am/4G8HR",
+        "duration": "01:42:56",
+        "date": "2013-11-11"
+      }
+    ],
     "people": [
       "bastianallgeier",
       "derSchepp",
@@ -2029,7 +2182,14 @@
     "id": 146,
     "date": "2013-11-24",
     "duration": "01:14:31",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 146",
+        "href": "http://livestre.am/4GAfO",
+        "duration": "02:42:43",
+        "date": "2013-11-18"
+      }
+    ],
     "people": [
       "ddprrt",
       "derSchepp",
@@ -2044,7 +2204,14 @@
     "id": 147,
     "date": "2013-12-03",
     "duration": "01:08:24",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 147",
+        "href": "http://livestre.am/4H2r9",
+        "duration": "02:14:32",
+        "date": "2013-11-25"
+      }
+    ],
     "people": [
       "christophrumpel",
       "ddprrt",
@@ -2059,7 +2226,14 @@
     "id": 148,
     "date": "2013-12-15",
     "duration": "00:48:48",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 148",
+        "href": "http://livestre.am/4HsqZ",
+        "duration": "02:09:59",
+        "date": "2013-12-02"
+      }
+    ],
     "people": [
       "ddprrt",
       "derSchepp",
@@ -2073,7 +2247,14 @@
     "id": 149,
     "date": "2013-12-25",
     "duration": "00:59:23",
-    "live": true,
+    "live": [
+      {
+        "title": "Revision 149",
+        "href": "http://livestre.am/4HV81",
+        "duration": "01:58:28",
+        "date": "2013-12-09"
+      }
+    ],
     "people": [
       "ddprrt",
       "drublic",
@@ -2096,7 +2277,15 @@
     ],
     "href": "http://workingdraft.de/150/",
     "audio": "http://workingdraft.de/podpress_trac/web/2198/0/wd-150.mp3",
-    "title": "Kurz-Jubiläum mit News, Glücksrad und Links"
+    "title": "Kurz-Jubiläum mit News, Glücksrad und Links",
+    "live": [
+      {
+        "title": "Revision 150",
+        "href": "http://livestre.am/4Ilx6",
+        "duration": "00:48:21",
+        "date": "2013-12-16"
+      }
+    ]
   },
   "151": {
     "id": 151,
@@ -2121,6 +2310,14 @@
       "sir_pepe"
     ],
     "href": "",
-    "audio": ""
+    "audio": "",
+    "live": [
+      {
+        "title": "Revision 152",
+        "href": "http://livestre.am/4J9Tq",
+        "duration": "03:04:51",
+        "date": "2013-12-30"
+      }
+    ]
   }
 }

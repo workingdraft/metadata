@@ -2,7 +2,14 @@
   "id": 137,
   "date": "2013-09-24",
   "duration": "01:25:37",
-  "live": true,
+  "live": [
+    {
+      "title": "Revision 137",
+      "href": "http://livestre.am/4CeV8",
+      "duration": "02:12:40",
+      "date": "2013-09-16"
+    }
+  ],
   "people": [
     {
       "name": "Stefan Baumgartner",
