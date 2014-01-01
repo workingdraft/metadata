@@ -147,7 +147,8 @@ function extractDescription(dd) {
     if (!dd.is('dd')) {
       break;
     }
-    
+    // Note: while this "fixes" invalid html across many posts,
+    // it removes the sub-definition of Revision 97
     var _dd = dd.clone();
     _dd.find('dl').remove();
     // don't we love google analytics?
