@@ -1,7 +1,7 @@
 {
   "id": 152,
-  "date": null,
-  "duration": "00:00:00",
+  "date": "2014-01-08",
+  "duration": "01:19:50",
   "people": [
     {
       "name": "Stefan Baumgartner",
@@ -35,14 +35,76 @@
       "web": "http://peterkroener.de/"
     }
   ],
-  "href": "",
-  "audio": "",
+  "href": "http://workingdraft.de/152/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2244/0/wd-152.mp3",
   "live": [
     {
       "title": "Revision 152",
       "href": "http://livestre.am/4J9Tq",
       "duration": "03:04:51",
       "date": "2013-12-30"
+    }
+  ],
+  "title": "JSPerf, Open Source, Gulp, Funktionales",
+  "description": "Außerdem führen wir versuchsweise eine neue Rubrik ein: beim Tipp der Woche werden wir (un)regemäßig Kleinst-Tipps für den Weballtag absondern, die uns im Laufe der letzten sieben Tage über den Weg gelaufen sind. Außerdem neu aus Github: <a href=\"https://github.com/workingdraft/metadata\">Workingdraft-Metadata</a>!\n\nNach vielen Revisionen mit Rumpfbesatzung und Themenmangel geht es diemal wieder voll zur Sache: Schepp, Rodney, Stefan und Peter erklären ranten und mäandern durch die diesmal durchaus vorhandenen Themen der vergangenen Woche.",
+  "news": [
+    {
+      "title": "Autoprefixer 1.0",
+      "href": "https://github.com/ai/autoprefixer/releases/tag/1.0",
+      "time": "00:00:12",
+      "description": "Jetzt mit Source Maps!"
+    },
+    {
+      "title": "Workingdraft Metadata",
+      "href": "https://github.com/workingdraft/metadata",
+      "time": "00:00:12",
+      "description": "Alle Daten zu allen Episoden von Working Draft auf Github. Gehet hin und hacket!"
+    }
+  ],
+  "topics": [
+    {
+      "title": "Stop JSPerf abuse",
+      "href": "http://blog.methvin.com/2013/12/please-stop-jsperfcom-abuse.html",
+      "time": "00:00:34",
+      "description": "Wir reden über einen Rant, der einen unsauberen <a href=\"http://jsperf.com/\">JSPerf</a>-Vergleich von jQuerys <code>.addClass()</code> mit nativer <code>classList</code> (<a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Element.classList\">MDN</a>) zum Thema hat. Rodney zürnt über die classList-API und berichtet von seinen eigenen JSPerf-Erfahrungen. Performance-Pontifex Schepp ordnet das Thema etwas ein: Man sollte kein JSPerf-Nazi werden, da Rendering und CSS die eigentlichen Problemfelder sind und der Browser automatisch JS optimiert, <a href=\"http://www.youtube.com/watch?v=65-RbBwZQdU\">was im Falle von Chrome auch bequem nachvollzogen werden kann</a>.<p></p>"
+    },
+    {
+      "title": "Upgrading to iScroll 5",
+      "href": "http://blog.rodneyrehm.de/archives/32-Updating-to-iScroll-5.html",
+      "time": "00:16:30",
+      "description": "Rodney hatte großen Spaß am Versuch, Version&nbsp;5 von <a href=\"https://github.com/cubiq/iscroll\">iScroll</a> (einer Library für Scrollerei auf Mobilgeräten) zu benutzen und lässt uns alle daran teilhaben. Breaking Changes beim Wechsel von&nbsp;4 auf&nbsp;5 sind laut <a href=\"http://semver.org/\">Semantic Versioning</a> zwar möglich, werden aber zum Ärgernis wenn sie nicht dokumentiert sind. So fordern wir Changelog und Migration Guide für alle Open-Source-Projekte, denn das reduziert nicht nur Nutzerfrust, sondern sorgt auch dafür, dass Autoren von Software weniger Supportanfragen bearbeiten müssen&nbsp;&ndash; Rod spricht <a href=\"http://medialize.github.io/URI.js/\">aus Erfahrung</a>."
+    },
+    {
+      "title": "Gulp und funktionale Programmierung",
+      "href": "https://github.com/gulpjs/gulp",
+      "time": "00:39:42",
+      "description": "Gulp ist ein Buildsystem wie <a href=\"http://gruntjs.com/\">Grunt</a>, allerdings streambasiert (<a href=\"http://slid.es/contra/gulp\">siehe Slides</a>). Ein Wechsel scheint dann sinnvoll, wenn man großen gruntinduzierten Leidensdruck verspürt, was bei Peter noch nicht der Fall ist, bei Rodney hingegen schon&nbsp; ein Gruntfile-Vergleich ergibt, dass Rod den mit Abstand längsten hat, was mit Streams weniger unübersichtlich wäre. Dem Stream-Prinzip gegenüber sind wir grundsätzlich alle sehr positiv eingestellt; <a href=\"http://de.wikipedia.org/wiki/Pipe_(Informatik)\">Pipes</a> und die daran andockende <a href=\"http://de.wikipedia.org/wiki/Unix-Kommando#Die_Baukasten-Philosophie\">Unix-Philosophie</a> sind was feines. Über Pipes kommen wir zum Thema <a href=\"http://promises-aplus.github.io/promises-spec/\">Promises</a> und <a href=\"http://de.wikipedia.org/wiki/Funktionale_Programmierung\">funktionale Programmierung</a>, das Peter mit etwas Fabuliererei über <a href=\"https://github.com/baconjs/bacon.js\">Bacon.js</a> abschließt."
+    }
+  ],
+  "links": [
+    {
+      "title": "PostCSS",
+      "href": "https://github.com/ai/postcss",
+      "time": "01:14:47",
+      "description": "Tool zum Parsen und Manipulieren von CSS."
+    },
+    {
+      "title": "Polyfill.js",
+      "href": "http://philipwalton.github.io/polyfill/",
+      "time": "01:14:47",
+      "description": "Das Tool für euren nächsten CSS-Polyfill."
+    },
+    {
+      "title": "JS Test – Code Coverage",
+      "time": "01:14:47",
+      "description": "<a href=\"http://ariya.ofilabs.com/2013/12/code-coverage-of-mocha-tests-using-istanbul-and-karma.html\">Drei</a> <a href=\"http://ariya.ofilabs.com/2013/10/code-coverage-of-jasmine-tests-using-istanbul-and-karma.html\">Artikel</a> <a href=\"http://ariya.ofilabs.com/2013/10/code-coverage-of-qunit-tests-using-istanbul-and-karma.html\">erklären</a> wie ihr die Coverage eurer JS-Tests ermitteln könnt."
+    }
+  ],
+  "tip": [
+    {
+      "title": "Chrome Devtools",
+      "time": "01:18:54",
+      "description": "Stefan hat herausgefunden: die Suche im Elements-Panel (<key>STRG</key>/<key>CMF</key>+<key>F</key>) akzeptiert auch CSS-Selektoren (und XPath)."
     }
   ]
 }

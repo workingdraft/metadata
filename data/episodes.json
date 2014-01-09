@@ -2274,22 +2274,44 @@
   },
   "152": {
     "id": 152,
-    "date": null,
-    "duration": "00:00:00",
+    "date": "2014-01-08",
+    "duration": "01:19:50",
     "people": [
       "ddprrt",
       "derSchepp",
       "rodneyrehm",
       "sir_pepe"
     ],
-    "href": "",
-    "audio": "",
+    "href": "http://workingdraft.de/152/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2244/0/wd-152.mp3",
     "live": [
       {
         "title": "Revision 152",
         "href": "http://livestre.am/4J9Tq",
         "duration": "03:04:51",
         "date": "2013-12-30"
+      }
+    ],
+    "title": "JSPerf, Open Source, Gulp, Funktionales"
+  },
+  "153": {
+    "id": 153,
+    "date": null,
+    "duration": "00:00:00",
+    "people": [
+      "asciidisco",
+      "ddprrt",
+      "drublic",
+      "rodneyrehm"
+    ],
+    "href": "",
+    "audio": "",
+    "live": [
+      {
+        "title": "Revision 153",
+        "href": "http://livestre.am/4JyVT",
+        "duration": "01:05:20",
+        "date": "2014-01-06"
       }
     ]
   }

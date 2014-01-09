@@ -1,0 +1,45 @@
+{
+  "id": 153,
+  "date": null,
+  "duration": "00:00:00",
+  "people": [
+    {
+      "name": "asciidisco",
+      "twitter": "https://twitter.com/asciidisco"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    }
+  ],
+  "href": "",
+  "audio": "",
+  "live": [
+    {
+      "title": "Revision 153",
+      "href": "http://livestre.am/4JyVT",
+      "duration": "01:05:20",
+      "date": "2014-01-06"
+    }
+  ]
+}
