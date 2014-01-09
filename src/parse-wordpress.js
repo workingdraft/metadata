@@ -45,7 +45,9 @@ function analyze(html) {
       bucket = 'randomSpec';
     } else if (title.indexOf("notizen") > -1 || title.indexOf("notes") > -1 || title.indexOf("fragen über fragen") > -1 ) {
       bucket = 'topics';
-    } else if (title.indexOf("verlosung")) {
+    } else if (title.indexOf("woche") > -1) {
+      bucket = 'tip';
+    } else if (title.indexOf("verlosung") > -1) {
       return;
     }
     
