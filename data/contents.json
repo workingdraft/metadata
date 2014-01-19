@@ -14717,8 +14717,8 @@
   },
   "153": {
     "id": 153,
-    "date": null,
-    "duration": "00:00:00",
+    "date": "2014-01-19",
+    "duration": "00:53:20",
     "people": [
       {
         "name": "asciidisco",
@@ -14749,14 +14749,145 @@
         "web": "http://rodneyrehm.de/en/"
       }
     ],
-    "href": "",
-    "audio": "",
+    "href": "http://workingdraft.de/153/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2256/0/wd-153.mp3",
     "live": [
       {
         "title": "Revision 153",
         "href": "http://livestre.am/4JyVT",
         "duration": "01:05:20",
         "date": "2014-01-06"
+      }
+    ],
+    "title": "Typecsset und die Web Speech API",
+    "description": "Zu viert machten wir uns diese Woche auf in die Sendung. Mit von der Partie war als Gast <a href=\"https://github.com/asciidisco\">Sebastian Golasch</a>.",
+    "news": [],
+    "topics": [
+      {
+        "title": "Typecsset",
+        "href": "https://github.com/csswizardry/typecsset",
+        "time": "00:00:25",
+        "description": "Harry Roberts beschreibt in seinem Artikel <a href=\"http://csswizardry.com/2012/06/single-direction-margin-declarations/\"><i>Single-direction margin declarations</i></a> die Vorzüge, margins für Elemente nur in eine Richtung zu verwenden und entwickelt mit Typecsset die passende Library um vertikalen Rhythmus innerhalb einer Seite zu nutzen. Stefan benutzt ein solches Tool, der Rest allerdings noch nicht. Rod und Sebastian kennen bestenfalls <a href=\"http://media.smashingmagazine.com/wp-content/uploads/technical-type/img/06.jpg\">Grid Backgrounds</a> (oder auch per <a href=\"http://basehold.it/\">Tool</a>). Die Vorteile von Typecsset sind vor allem im Zusammenspiel mit ausgefeilten Designs nicht von der Hand zu weisen."
+      },
+      {
+        "title": "Web Speech API",
+        "href": "http://www.iandevlin.com/blog/2014/01/javascript/using-the-web-speech-api-to-control-a-html5-video",
+        "time": "00:10:46",
+        "description": "Mit der Web Speech API lässt sich Sprache in Text umwandeln. Supported wird das Ganze in <a href=\"http://stackoverflow.com/questions/14257598/what-are-language-codes-for-voice-recognition-languages-in-chromes-implementati\">verschiedenen Sprachen</a> per Google Translate. Aber gerade das ist auch das Manko: Bisher supported nur Google Chrome die API."
+      }
+    ],
+    "randomSpec": [
+      {
+        "title": "Drag ‘n’ Drop",
+        "href": "http://www.whatwg.org/specs/web-apps/current-work/multipage/dnd.html#dnd",
+        "time": "00:26:05",
+        "description": "Die Drag and Drop API ist quasi in <a href=\"http://caniuse.com/#feat=dragndrop\">allen Browsern verfügbar</a>. Mittels Progressive Enhancement lässt sich DnD ziemlich einfach für alle Web-Anwendungen, zum Beispiel <a href=\"http://html5demos.com/dnd-upload\">für File-Uploads</a>, <a href=\"http://www.html5rocks.com/en/tutorials/dnd/basics/\">umsetzen</a>."
+      }
+    ],
+    "links": [
+      {
+        "title": "Google Analytics für GitHub",
+        "href": "https://github.com/igrigorik/ga-beacon",
+        "time": "00:41:21",
+        "description": "Mit GA Beacon lässt sich Google Analytics leicht in jedes GitHub-Projekt integrieren. <a href=\"https://github.com/blog/1672-introducing-github-traffic-analytics\">Mittlerweile werden Statistiken</a> auch direkt von GitHub unterstützt."
+      },
+      {
+        "title": "CSS Architecture",
+        "href": "http://engineering.appfolio.com/2012/11/16/css-architecture/",
+        "time": "00:41:21",
+        "description": "Ein gutes Wrap-up zum Thema CSS Architektur und Theorien im Allgemeinen."
+      },
+      {
+        "title": "Ocrad.js",
+        "href": "http://antimatter15.github.io/ocrad.js/demo.html",
+        "time": "00:41:21",
+        "description": "Ocrad.js ist ein OCR (Optical Character Recognition) Tool, dass mit Emscripten nach JavaScript konvertiert wurde und gescannte Texte in richtigen Text umwandeln kann."
+      },
+      {
+        "title": "Gulp is the new black",
+        "href": "http://www.shaundunne.com/gulp-is-the-new-black/",
+        "time": "00:41:21",
+        "description": "Eine Einführung in Gulp und die Theorien mit denen Gulp sich beschäftigt."
+      },
+      {
+        "title": "Getting started with Bower",
+        "href": "http://blog.teamtreehouse.com/getting-started-bower",
+        "time": "00:41:21",
+        "description": "Für alle, die noch nicht mit einem Package-Manager im Front-End arbeiten hier eine Einführung in Bower."
+      },
+      {
+        "title": "Endangered species of the web: The Link",
+        "href": "http://christianheilmann.com/2014/01/05/endangered-species-of-the-web-the-link/",
+        "time": "00:41:21",
+        "description": "Christian Heilmann philosophiert darüber, dass Links zu oft missbraucht werden und propagiert man solle sich auf die eigentliche Aufgabe von Links zurückbesinnen."
+      },
+      {
+        "title": "Unify",
+        "href": "http://unicode.johnholtripley.co.uk/",
+        "time": "00:41:21",
+        "description": "Unify ist ein Tool um den Browser-support von einzelnen Unicode-Zeichen zu überprüfen."
+      },
+      {
+        "title": "Web Color Palette",
+        "href": "http://clrs.cc/",
+        "time": "00:41:21",
+        "description": "Die Entwickler von Web Color Palette wünschen sich eine neue, verbesserte Color Palette fürs Internet und geben ein schönes Beispiel vor, wie die Standardfarben und dazu gehörende Color-Codes besser gewählt sein können."
+      }
+    ]
+  },
+  "154": {
+    "id": 154,
+    "date": null,
+    "duration": "00:00:00",
+    "people": [
+      {
+        "name": "Marius Kleidl",
+        "twitter": "https://twitter.com/Acconut_"
+      },
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      },
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-11-03"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      {
+        "name": "Frederic Hemberger",
+        "twitter": "https://twitter.com/fhemberger"
+      },
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      }
+    ],
+    "href": "",
+    "audio": "",
+    "live": [
+      {
+        "title": "Revision 154",
+        "href": "http://livestre.am/4JYP8",
+        "duration": "02:20:53",
+        "date": "2014-01-13"
       }
     ]
   }

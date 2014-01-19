@@ -1,0 +1,56 @@
+{
+  "id": 154,
+  "date": null,
+  "duration": "00:00:00",
+  "people": [
+    {
+      "name": "Marius Kleidl",
+      "twitter": "https://twitter.com/Acconut_"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Frederic Hemberger",
+      "twitter": "https://twitter.com/fhemberger"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "href": "",
+  "audio": "",
+  "live": [
+    {
+      "title": "Revision 154",
+      "href": "http://livestre.am/4JYP8",
+      "duration": "02:20:53",
+      "date": "2014-01-13"
+    }
+  ]
+}

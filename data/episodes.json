@@ -2296,22 +2296,46 @@
   },
   "153": {
     "id": 153,
-    "date": null,
-    "duration": "00:00:00",
+    "date": "2014-01-19",
+    "duration": "00:53:20",
     "people": [
       "asciidisco",
       "ddprrt",
       "drublic",
       "rodneyrehm"
     ],
-    "href": "",
-    "audio": "",
+    "href": "http://workingdraft.de/153/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2256/0/wd-153.mp3",
     "live": [
       {
         "title": "Revision 153",
         "href": "http://livestre.am/4JyVT",
         "duration": "01:05:20",
         "date": "2014-01-06"
+      }
+    ],
+    "title": "Typecsset und die Web Speech API"
+  },
+  "154": {
+    "id": 154,
+    "date": null,
+    "duration": "00:00:00",
+    "people": [
+      "Acconut_",
+      "ddprrt",
+      "derSchepp",
+      "drublic",
+      "fhemberger",
+      "sir_pepe"
+    ],
+    "href": "",
+    "audio": "",
+    "live": [
+      {
+        "title": "Revision 154",
+        "href": "http://livestre.am/4JYP8",
+        "duration": "02:20:53",
+        "date": "2014-01-13"
       }
     ]
   }
