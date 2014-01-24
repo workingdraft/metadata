@@ -1,7 +1,7 @@
 {
   "id": 154,
-  "date": null,
-  "duration": "00:00:00",
+  "date": "2014-01-22",
+  "duration": "00:51:14",
   "people": [
     {
       "name": "Marius Kleidl",
@@ -43,14 +43,94 @@
       "web": "http://peterkroener.de/"
     }
   ],
-  "href": "",
-  "audio": "",
+  "href": "http://workingdraft.de/154/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2262/0/wd-154.mp3",
   "live": [
     {
       "title": "Revision 154",
       "href": "http://livestre.am/4JYP8",
       "duration": "02:20:53",
       "date": "2014-01-13"
+    }
+  ],
+  "title": "Vagrant und Clientside JavaScript Error Reporting",
+  "description": "Die Stammbesetzung von Schepp, Peter, Hans und Stefan durfte in der aktuellen Revision <a href=\"http://frederic-hemberger.de/\">Frederic Hemberger</a> als Gast begrüßen, um uns über die unterschiedlichen Use Cases von Vagrant zu informieren. Spontan stieß auch noch unser treuer Hörer <a href=\"https://twitter.com/Acconut_\">Marius</a> hinzu, der ebenfalls in die Lobeshymnen einstimmte.",
+  "topics": [
+    {
+      "title": "Vagrant – Development environments made easy",
+      "href": "http://www.vagrantup.com/",
+      "time": "00:01:03",
+      "description": "Die Entwicklungsumgebung braucht Java, man will sich die eigene Maschine aber nicht versauen? PHP in einer Uraltversion gefordert, die man lokal nicht mehr zum Laufen kriegt? Oder einfach zwischen den Kollegen die gleichen Rahmenparameter für die Entwicklung herstellen? Mit Vagrant alles kein Problem. Frederic und Stefan sind seit längerem Fan des Commandline Tools, welches das Aufsetzen, Steuern und Konfigurieren von virtuellen (Linux-)Maschinen kinderleicht und versionierbar macht. Die beiden machen &#8212; unterstützt von Marius &#8212; dem Rest der Truppe die Vor- und Nachteile an einigen Beispielen schmackhaft und sprechen vom ultimativen Test- und Reproduzierbarkeitsnirvana. Wer auf den Geschmack gekommen ist und mehr als Ubuntu braucht, wird übrigens auf <a href=\"http://www.vagrantbox.es/\">Vagrantbox.es</a> fündig. WordPressentwickler sollten sich <a href=\"http://vagrantpress.org\">VagrantPress</a> genauer ansehehn."
+    },
+    {
+      "title": "Clientside JavaScript Error Reporting",
+      "time": "00:20:30",
+      "description": "Die Hörerfrage von Marius wurde nicht nur über Twitter, sondern auch gleich live in der Sendung vom Fragesteller persönlich eingeworfen: Welche client-seitigen Fehlerreporting Tools verwenden wir eigentlich, und welche Dienste sind uns da am geläufigsten? Frederic schwört auf eine eigene Lösung, bestehend aus ca. 60 Zeilen Code, die ihm beim Ermitteln von Edge Cases schon einige Male enorm geholfen hat. Außerdem gab <a href=\"https://plus.google.com/+PaulIrish/posts/12BVL5exFJn\">Paul Irish</a> auf Google Plus einen guten Überblick über geläufige Services."
+    }
+  ],
+  "randomSpec": [
+    {
+      "title": "Application Cache",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/multipage/offline.html",
+      "time": "00:30:48",
+      "description": "Der Application Cache war als Offlinemechanismus eine durchaus ambitionierte Angelegenheit, ging bei uns aber nie über den Demostatus hinaus. Wir erörtern die Gründe und geben auch <a href=\"http://developers.whatwg.org/\">Positivbeispiele</a>. Erwähnung findet auch Frederics <a href=\"http://manifest-validator.com/\">Manifest Validator</a> und ein Blick in die Zukunft mit <a href=\"https://github.com/slightlyoff/ServiceWorker/\">Service Workern</a>."
+    }
+  ],
+  "links": [
+    {
+      "title": "10 Reasons we switched from an icon font to SVG",
+      "href": "http://ianfeather.co.uk/ten-reasons-we-switched-from-an-icon-font-to-svg/",
+      "time": "00:40:10",
+      "description": "Icon Fonts sind toll, haben aber ein paar Nachteile, die für die Autoren des Artikels Grund genug waren komplett auf SVG zu wechseln."
+    },
+    {
+      "title": "How to measure Frontend Performance with Phantomas and Grunt",
+      "href": "http://4waisenkinder.de/blog/2013/12/22/how-to-measure-frontend-performance-with-phantomas-and-grunt/",
+      "time": "00:40:10",
+      "description": "Die 4Waisenkinder erzählen uns wie man Frontend Performance mit Phantomas und Automatisierungstools wie Grunt hervorragend messen kann."
+    },
+    {
+      "title": "Slip",
+      "href": "https://github.com/pornel/slip",
+      "time": "00:40:10",
+      "description": "Listen, die auf unterschiedliche Gesten unterschiedlich reagieren, gibt&#8217;s bei Pornels Slip."
+    },
+    {
+      "title": "Accessibility Tools",
+      "time": "00:40:10",
+      "description": "Frederic wirft drei hervorragende Accessibility Tools ins Rennen: <a href=\"https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb\">Eine Chrome Extension</a> nebst anschaulichen Lintern bei <a href=\"http://www.accesslint.com/\">AccessLint</a> und <a href=\"http://wave.webaim.org/\">WAVE</a>."
+    },
+    {
+      "title": "Manageable Sass Components",
+      "href": "http://fettblog.eu/blog/2014/01/13/manageable-sass-components/",
+      "time": "00:40:10",
+      "description": "Wer mit Bower und Sass Komponenten arbeitet bzw. solche sogar entwickelt, kann in dieser Ode an das !default Flag erkennen, wie man diese für Außenstehende konfigurierbar macht."
+    },
+    {
+      "title": "Kod.io Linz",
+      "href": "http://linz.kod.io/",
+      "time": "00:40:10",
+      "description": "Stefans Wahlheimatstadt Linz bekommt eine Entwicklerkonferenz. Eine einmalige Gelegenheit mit einem ansehnlichen Line-Up, auch für Frontend Entwickler."
+    },
+    {
+      "title": "I Want To Use",
+      "href": "http://onmobile.iwanttouse.com/",
+      "time": "00:40:10",
+      "description": "Irgendein modernes Browserfeature erwünscht? Nicht sicher ob das alle mobilen Devices auch können? &#8220;On mobile, I want to use&#8221; gibt Aufschluss."
+    },
+    {
+      "title": "Donate your dusty device",
+      "href": "http://opendevicelab.com/DYDD",
+      "time": "00:40:10",
+      "description": "Die Open Device Labs der Welt fordern auf, euer ranziges Smartphone für den guten Testzweck zu spenden. Finden wir unterstützenswert!"
+    }
+  ],
+  "tip": [
+    {
+      "title": "Option-Key + Click",
+      "href": "https://twitter.com/blackjack75/status/422036078540103681",
+      "time": "00:49:22",
+      "description": "Man lernt eben nie aus: Im OS Terminal kann man bei gedrücktem Option Key und einem Klick die Cursorposition ändern. Enorm hilfreich bei langen Commandline-Befehlen."
     }
   ]
 }

@@ -2318,8 +2318,8 @@
   },
   "154": {
     "id": 154,
-    "date": null,
-    "duration": "00:00:00",
+    "date": "2014-01-22",
+    "duration": "00:51:14",
     "people": [
       "Acconut_",
       "ddprrt",
@@ -2328,8 +2328,8 @@
       "fhemberger",
       "sir_pepe"
     ],
-    "href": "",
-    "audio": "",
+    "href": "http://workingdraft.de/154/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2262/0/wd-154.mp3",
     "live": [
       {
         "title": "Revision 154",
@@ -2337,7 +2337,8 @@
         "duration": "02:20:53",
         "date": "2014-01-13"
       }
-    ]
+    ],
+    "title": "Vagrant und Clientside JavaScript Error Reporting"
   },
   "155": {
     "id": 155,
