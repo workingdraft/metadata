@@ -2342,11 +2342,32 @@
   },
   "155": {
     "id": 155,
-    "date": null,
-    "duration": "00:00:00",
+    "date": "2014-01-30",
+    "duration": "00:57:08",
     "people": [
       "derSchepp",
       "drublic",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/155/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2269/0/wd-155.mp3",
+    "live": [
+      {
+        "title": "Revision 155",
+        "href": "http://livestre.am/4KpBn",
+        "duration": "01:54:09",
+        "date": "2014-01-20"
+      }
+    ],
+    "title": "Sass.js und die Konferenzen 2014"
+  },
+  "156": {
+    "id": 156,
+    "date": null,
+    "duration": "00:00:00",
+    "people": [
+      "ddprt",
       "rodneyrehm",
       "sir_pepe"
     ],
@@ -2354,10 +2375,10 @@
     "audio": "",
     "live": [
       {
-        "title": "Revision 155",
-        "href": "http://livestre.am/4KpBn",
-        "duration": "01:54:09",
-        "date": "2014-01-20"
+        "title": "Revision 156",
+        "href": "http://livestre.am/4KUP4",
+        "duration": "02:13:01",
+        "date": "2014-01-27"
       }
     ]
   }

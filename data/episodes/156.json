@@ -1,0 +1,34 @@
+{
+  "id": 156,
+  "date": null,
+  "duration": "00:00:00",
+  "people": [
+    null,
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "href": "",
+  "audio": "",
+  "live": [
+    {
+      "title": "Revision 156",
+      "href": "http://livestre.am/4KUP4",
+      "duration": "02:13:01",
+      "date": "2014-01-27"
+    }
+  ]
+}

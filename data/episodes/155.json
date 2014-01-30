@@ -1,7 +1,7 @@
 {
   "id": 155,
-  "date": null,
-  "duration": "00:00:00",
+  "date": "2014-01-30",
+  "duration": "00:57:08",
   "people": [
     {
       "name": "Christian Schaefer",
@@ -35,14 +35,58 @@
       "web": "http://peterkroener.de/"
     }
   ],
-  "href": "",
-  "audio": "",
+  "href": "http://workingdraft.de/155/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2269/0/wd-155.mp3",
   "live": [
     {
       "title": "Revision 155",
       "href": "http://livestre.am/4KpBn",
       "duration": "01:54:09",
       "date": "2014-01-20"
+    }
+  ],
+  "title": "Sass.js und die Konferenzen 2014",
+  "description": "Revision 155 ging zwar ohne Gäste an den Start, dafür war Rodney aber top in Form und erzählt über sein letztes Projekt. Über Kommentare zu den Themen freuen wir uns und beantworten diese (manchmal zeitversetzt).",
+  "news": [],
+  "topics": [
+    {
+      "title": "Sass.js",
+      "href": "http://blog.rodneyrehm.de/archives/33-libsass.js-An-Emscripten-Experiment.html",
+      "time": "00:00:18",
+      "description": "Rodney und <a href=\"https://github.com/asciidisco\">Sebastian</a> arbeiteten vor kurzer Zeit an einem Port von <a href=\"https://github.com/hcatlin/libsass\">libsass</a> nach JavaScript mit <a href=\"https://github.com/kripken/emscripten\">Emscripten</a> um Sass im Browser kompilieren zu können (zum Beispiel für Services wie Dabblet). libsass ist eine C-Compiler für Sass, der unter anderem auch in <a href=\"https://github.com/andrew/node-sass\">node-sass</a> Anwendung findet. Rod erzählt über seine Reise hinab ins C++-Kaninchenloch und weist auf eine <a href=\"http://shoptalkshow.com/episodes/070-with-hampton-catlin/\">Shoptalk Folge</a> mit dem SASS-Erfinder und libsass-Autoren) hin.<br>\nFazit: solide C/C++-Kenntnisse sind empfohlen für Emscripten-Experimente"
+    },
+    {
+      "title": "Konferenzen 2014",
+      "href": "https://twitter.com/malteriechmann/status/423400547425603584",
+      "time": "00:29:51",
+      "description": "Auf die Hörerfrage von Malte antworten wir mit einer Liste: Welche Konferenzen sollte man 2014 besuchen, wenn man die Working Draft Crew treffen will?<p></p>\n<ul>\n<li><a href=\"http://reasons.to/\">Reasons</a>, London</li>\n<li><a href=\"http://2013.dconstruct.org/\">dConstruct</a>, Brighton</li>\n<li><a href=\"http://2013.lxjs.org/\">LXJS</a>, Lissabon</li>\n<li><a href=\"http://javascript-days.de/2014/\">JavaScript Days / HTML5 Days</a>, München</li>\n<li><a href=\"http://www.gentics.com/jquery-eu-2014/page/2014/eu.html\">jQuery Europe</a>, Wien</li>\n<li><a href=\"http://smashingconf.com/\">Smashing Conf</a>, Oxford</li>\n<li><a href=\"http://edgeconf.com/2014-london/\">Edge Conf</a>, London</li>\n<li><a href=\"http://beyondtellerrand.com/\">Beyond Tellerrand</a>, Düsseldorf</li>\n<li><a href=\"http://fronteers.nl/congres/2014\">Fronteers</a>, Amsterdam</li>\n<li><a href=\"http://www.dotjs.eu/\">dotJS</a>, Paris</li>\n</ul>"
+    }
+  ],
+  "randomSpec": [],
+  "links": [
+    {
+      "title": "Speaking.io",
+      "href": "http://speaking.io/",
+      "time": "00:51:41",
+      "description": "Eine Website, die sich ums Public Speaking dreht und wertvolle Tips für Speaker bereit hält."
+    },
+    {
+      "title": "GistBoxApp",
+      "href": "http://www.gistboxapp.com/",
+      "time": "00:51:41",
+      "description": "GistBoxApp ergänzt gist.github.com mit tagging, suche und weiterem. Also quasi alles Nützliche, was fehlt."
+    },
+    {
+      "title": "Zone.js",
+      "href": "https://github.com/btford/zone.js/",
+      "time": "00:51:41",
+      "description": "Execution Context für JavaScript Development."
+    },
+    {
+      "title": "Principles for making things for the web",
+      "href": "https://github.com/veltman/principles",
+      "time": "00:51:41",
+      "description": "Eine Zusammenstellung an Richtlinien, die man beachten sollte, wenn man fürs Web entwickelt."
     }
   ]
 }
