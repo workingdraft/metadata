@@ -15065,8 +15065,8 @@
   },
   "156": {
     "id": 156,
-    "date": null,
-    "duration": "00:00:00",
+    "date": "2014-01-30",
+    "duration": "00:52:10",
     "people": [
       null,
       {
@@ -15086,14 +15086,66 @@
         "web": "http://peterkroener.de/"
       }
     ],
-    "href": "",
-    "audio": "",
+    "href": "http://workingdraft.de/156/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2277/0/wd-156.mp3",
     "live": [
       {
         "title": "Revision 156",
         "href": "http://livestre.am/4KUP4",
         "duration": "02:13:01",
         "date": "2014-01-27"
+      }
+    ],
+    "title": "Viewport Units in iOS und Gegenwind für CSS Regions",
+    "description": "Wenig Themen, viel Diskussion! Peter, Rodney und Stefan besprechen Browserbugs, die keine sein sollten und sinnieren über einen jüngst veröffentlichten A List Apart Artikel, den man wohl ohne Weiteres in die Kategorie &#8220;Große Erschütterung der Macht&#8221; stecken darf.",
+    "news": [
+      {
+        "title": "CSS Editor’s Draft contains links to Shepherd",
+        "href": "http://dev.w3.org/csswg/css-transitions/",
+        "time": "00:00:15",
+        "description": "Noch in Beta und in starker Bearbeitung, aber nach jahrelanger Wartezeit endlich Realität: Im CSS Editor&#8217;s Draft der W3C werden die Shepherd Tests verlinkt."
+      }
+    ],
+    "topics": [
+      {
+        "title": "Viewport Units in iOS",
+        "href": "http://blog.rodneyrehm.de/archives/34-iOS7-Mobile-Safari-And-Viewport-Units.html",
+        "time": "00:01:00",
+        "description": "Trotz recht weitreichender <a href=\"http://caniuse.com/viewport-units\">Kompatibilität</a> und echtem Bedarf sind Viewport Units <a href=\"https://code.google.com/p/chromium/issues/detail?id=137617\">überaus</a> <a href=\"https://code.google.com/p/chromium/issues/detail?id=168840\">buggy</a> und <a href=\"https://bugs.webkit.org/show_bug.cgi?id=94158\">beinah unbrauchbar</a>, wie Rodney jüngst herausfinden musste. Wir sprechen über die <a href=\"https://developer.mozilla.org/de/docs/Web/CSS/length#Relativ_zum_Viewport\">eigentliche Nutzung</a> und wie man Dank <a href=\"http://dev.w3.org/csswg/cssom/\">CSSOM</a> zu einem netten <a href=\"https://github.com/rodneyrehm/viewport-units-buggyfill\">Buggyfill</a> kommt (Term coined by <a href=\"http://twitter.com/asciidisco\">Sebastian Golasch</a>."
+      },
+      {
+        "title": "CSS Regions considered harmful",
+        "href": "http://alistapart.com/blog/post/css-regions-considered-harmful",
+        "time": "00:24:05",
+        "description": "Wenn einer der <a href=\"https://de.wikipedia.org/wiki/H%C3%A5kon_Wium_Lie\">CSS Erfinder</a> CSS Regions öffentlich für Scheiße erklärt, kann das Internet schonmal Kopf stehen. Browserhersteller treten den Rückzug an und nehmen <a href=\"http://news.cnet.com/8301-1023_3-57617840-93/reversing-course-google-rejects-adobe-web-publishing-tech/\">experimentelle Implementierungen aus der Codebase</a>. Wir sprechen über Sinn und Unsinn, Web vs. Webtechnologie und  den Bedarf an &#8220;Generated Content&#8221;. Außerdem flattert pünktlich zur Sendung ein sehr interessanter <a href=\"http://flippinawesome.org/2014/01/27/css-regions-matter/\">Pro-Artikel</a> von <a href=\"http://twitter.com/SaraSoueidan\">Sara Soueidan</a> zum Thema herein."
+      }
+    ],
+    "randomSpec": [
+      {
+        "title": "Table Sorting Model",
+        "href": "http://www.whatwg.org/specs/web-apps/current-work/#table-sorting-model",
+        "time": "00:44:31",
+        "description": "Tabellensortieren im Browser, wie einst beim guten, alten jQuery Tablesorter! Existiert momentan allerdings nur am Papier."
+      }
+    ],
+    "links": [
+      {
+        "title": "Drag & Drop für Dateien",
+        "href": "http://www.peterkroener.de/html5-drag-drop-fuer-dateien/",
+        "time": "00:49:25",
+        "description": "Peter beschreibt eine uralte API, mit der man sogar ganz brauchbare Dinge anstellen kann. Erster Teil einer Minireihe."
+      },
+      {
+        "title": "Avoiding anonymous JavaScript funcitons",
+        "href": "http://toddmotto.com/avoiding-anonymous-javascript-functions/",
+        "time": "00:49:25",
+        "description": "Todd Motto erklärt anonyme Funktionen, deren Nachteil und wie man sie vermeidet."
+      },
+      {
+        "title": "Markdown.js",
+        "href": "https://github.com/evilstreak/markdown-js",
+        "time": "00:49:25",
+        "description": "Markdown Parser in JavaScript. Mitsamt Abstract Syntax Tree."
       }
     ]
   }

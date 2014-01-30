@@ -2364,15 +2364,15 @@
   },
   "156": {
     "id": 156,
-    "date": null,
-    "duration": "00:00:00",
+    "date": "2014-01-30",
+    "duration": "00:52:10",
     "people": [
       "ddprt",
       "rodneyrehm",
       "sir_pepe"
     ],
-    "href": "",
-    "audio": "",
+    "href": "http://workingdraft.de/156/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2277/0/wd-156.mp3",
     "live": [
       {
         "title": "Revision 156",
@@ -2380,6 +2380,7 @@
         "duration": "02:13:01",
         "date": "2014-01-27"
       }
-    ]
+    ],
+    "title": "Viewport Units in iOS und Gegenwind für CSS Regions"
   }
 }
