@@ -15068,7 +15068,14 @@
     "date": "2014-01-30",
     "duration": "00:52:10",
     "people": [
-      null,
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      },
       {
         "name": "Rodney Rehm",
         "team": [
