@@ -2382,5 +2382,26 @@
       }
     ],
     "title": "Viewport Units in iOS und Gegenwind für CSS Regions"
+  },
+  "157": {
+    "id": 157,
+    "date": "2014-02-08",
+    "duration": "01:11:21",
+    "people": [
+      "derSchepp",
+      "rodneyrehm",
+      "drublic"
+    ],
+    "href": "http://workingdraft.de/157/",
+    "audio": "http://workingdraft.de/wp-content/uploads/mp3/wd-157.mp3",
+    "live": [
+      {
+        "title": "Revision 157",
+        "href": "http://livestre.am/4Lm8K",
+        "duration": "01:59:25",
+        "date": "2014-02-03"
+      }
+    ],
+    "title": "Komplexes Markup, Styles Inlinen und HTTP/2"
   }
 }
