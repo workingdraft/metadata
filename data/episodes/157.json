@@ -1,0 +1,97 @@
+{
+  "id": 157,
+  "date": "2014-02-09",
+  "duration": "01:11:21",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    }
+  ],
+  "href": "http://workingdraft.de/157/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2285/0/wd-157.mp3",
+  "live": [
+    {
+      "title": "Revision 157",
+      "href": "http://livestre.am/4Lm8K",
+      "duration": "01:59:25",
+      "date": "2014-02-03"
+    }
+  ],
+  "title": "Komplexes Markup, Styles Inlinen und HTTP/2",
+  "description": "Keine Gäste, trotzdem Themen in einer – mal wieder – etwas längeren Sendung.",
+  "news": [],
+  "topics": [
+    {
+      "title": "HTML is too complex",
+      "href": "http://studiotendra.com/2014/01/29/html-is-too-complex/",
+      "time": "00:00:20",
+      "description": "Wir stellen uns die Frage, ob HTML mit den Additionen in HTML5 zu komplex für uns Developer geworden ist. Hans vertritt die Meinung, dass mehr Möglichkeiten auch verbesserte Semantik mit sich bringt. Rodney ist da eher skeptisch, in wie fern dies dem durchschnittlichen Web Entwickler tatsächlich hilft."
+    },
+    {
+      "title": "Putting CSS in the head",
+      "href": "https://medium.com/p/f98103d09ce1",
+      "time": "00:12:00",
+      "description": "Basierend auf Hans&#8217; Artikel und dessen Vorläufer &#8220;<a href=\"https://medium.com/coding-design/24888fbbd2e2\">What’s with putting the CSS in the head?</a>&#8221; diskutieren wir die Vor– und Nachteile von der Platzierung des CSS inline im Head-Element einer Website. Wir sprechen über allgemeine Performance, CDNs und die Use Cases dieser Technik."
+    },
+    {
+      "title": "Nine Things to Expect from HTTP/2",
+      "href": "http://www.mnot.net/blog/2014/01/30/http2_expectations",
+      "time": "00:29:19",
+      "description": "Wir erklären HTTP/2 und SPDY etwas genauer. Die beiden neuen Netzwerk-Technologien sind gerade auf dem aufsteigenden Ast und werden uns Web-Entwicklern die Arbeit, gerade im Bezug auf Netzwerk-Performance erleichtern, sobald sie dann bei der breiten Masse angekommen sind. Testen, ob eine Website SPDY einsetzt, kann man mit <a href=\"http://spdycheck.org/\">SPDY-Check</a> und eine gute Erklärung zum Thema SPDY Push <a href=\"http://www.youtube.com/watch?v=4Ai_rrhM8gA\">gibt&#8217;s in diesem Video</a>."
+    },
+    {
+      "title": "CSS Will Change",
+      "href": "http://aerotwist.com/blog/bye-bye-layer-hacks/",
+      "time": "00:49:19",
+      "description": "Aktuell nutzen wir CSS 3D-Transforms um Grafik-Hardware-Beschleunigung für Elemente zu erreichen, damit diese flüssiger rendern. Mit der CSS-Eigenschaft <code>will-change</code> soll diesem Hack nun abgeholfen werden."
+    }
+  ],
+  "randomSpec": [
+    {
+      "title": "HTML5 Media",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/multipage/the-video-element.html",
+      "time": "00:55:06",
+      "description": "Die Audio- und Video-API sind wichtige Bestandteile von HTML5. Leider sind diese allerdings für komplexere Anwendungen noch ziemlich inkonsistent in den verschiedenen Browsers implementiert. Schepp erzählt von seinen Erfahrungen."
+    }
+  ],
+  "links": [
+    {
+      "title": "Static Site Generators",
+      "href": "http://maddesigns.de/static-site-generators-2138.html",
+      "time": "01:04:06",
+      "description": "Eine Sammlung von Static Site Generatoren gibt Sven Wolfermann inklusive Wertung. Hans möchte zusätzlich sein <a href=\"http://use-init.com/\">INIT</a> Projekt anpreisen."
+    },
+    {
+      "title": "Take Off Conf Videos",
+      "href": "http://www.youtube.com/user/takeoffconference",
+      "time": "01:04:06",
+      "description": "Die Videos der Take Off Conference, die Ende Januar statt fand, sind bereits online."
+    },
+    {
+      "title": "Service Worker",
+      "href": "https://speakerdeck.com/phuu/frontendlondon-serviceworker-and-the-offline-web",
+      "time": "01:04:06",
+      "description": "Ein Slidedeck mit allen Infos zu Service Workern."
+    }
+  ]
+}
