@@ -2367,7 +2367,7 @@
     "date": "2014-01-30",
     "duration": "00:52:10",
     "people": [
-      "ddprt",
+      "ddprrt",
       "rodneyrehm",
       "sir_pepe"
     ],
@@ -2394,6 +2394,15 @@
     ],
     "href": "http://workingdraft.de/157/",
     "audio": "http://workingdraft.de/podpress_trac/web/2285/0/wd-157.mp3",
+    "date": "2014-02-08",
+    "duration": "01:11:21",
+    "people": [
+      "derSchepp",
+      "rodneyrehm",
+      "drublic"
+    ],
+    "href": "http://workingdraft.de/157/",
+    "audio": "http://workingdraft.de/wp-content/uploads/mp3/wd-157.mp3",
     "live": [
       {
         "title": "Revision 157",
