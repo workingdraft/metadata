@@ -6,6 +6,16 @@ The data in `episodes.json` is (mostly) maintained manually, thus might not alwa
 
 Use `node bin/update.js` to save scraped data to disk. Use `node bin/test-wordpress.js --episode 123` to test the scraper for a specific set of episodes. Use `--help` on either script to see the available options.
 
+## Loading Data
+
+By using [rawgithub.com](http://rawgithub.com) you can import all our data directly into [JSFiddle](http://jsfiddle.net), [JSBin](http://jsbin.com), et al:
+
+```
+https://raw2.github.com/workingdraft/metadata/master/data/episodes.json
+becomes
+https://rawgithub.com/workingdraft/metadata/master/data/episodes.json
+```
+
 
 ## Motivation
 
@@ -53,6 +63,8 @@ The episode index `data/episodes.json` contains general metadata:
       "rodneyrehm",
       "sir_pepe"
     ],
+    // link to the episode's trello board
+    "trello": "https://trello.com/.../",
     // link to the episode's blog post
     "href": "http://workingdraft.de/12345/",
     // [optional] link to the episode's audio file
@@ -129,6 +141,8 @@ An episode's content is tracked in `data/episodes/12345.json`:
       "date": "2015-01-02"
     }
   ],
+  // link to the episode's trello board
+  "trello": "https://trello.com/.../",
   // link to the episode's blog post
   "href": "http://workingdraft.de/12345/",
   // [optional] link to the episode's audio file
@@ -177,7 +191,6 @@ An episode's content is tracked in `data/episodes/12345.json`:
 * [wordpress] consider adding timestamps where presently not available
 * [scraping] parse all links to extract keywords (JS, CSS, Grunt, Sass, Preprocessor, …)
 * [parse-wordpress] import comments
-* [linking] consider (manually?) adding links to trello boards in `data/episodes.json`
 
 
 ## Interesting Links ##
