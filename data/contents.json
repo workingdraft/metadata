@@ -13560,7 +13560,8 @@
         "twitter": "https://twitter.com/rodneyrehm",
         "web": "http://rodneyrehm.de/en/"
       }
-    ]
+    ],
+    "trello": "https://trello.com/b/FErgIO1n/revision-140"
   },
   "141": {
     "id": 141,
@@ -13604,6 +13605,7 @@
         "web": "http://peterkroener.de/"
       }
     ],
+    "trello": "https://trello.com/b/dKm2BQlu/revision-141",
     "href": "http://workingdraft.de/141/",
     "audio": "http://workingdraft.de/podpress_trac/web/2126/0/wd-141.mp3",
     "title": "Devops, statische Seiten und Links",
@@ -13698,6 +13700,7 @@
         "web": "http://peterkroener.de/"
       }
     ],
+    "trello": "https://trello.com/b/GbDfl8OY/revision-142",
     "href": "http://workingdraft.de/142/",
     "audio": "http://workingdraft.de/podpress_trac/web/2132/0/wd-142.mp3",
     "title": "Webfonts und IDEs",
@@ -13784,6 +13787,7 @@
         "web": "http://peterkroener.de/"
       }
     ],
+    "trello": "https://trello.com/b/Ysc5QT67/revision-143",
     "href": "http://workingdraft.de/143/",
     "audio": "http://workingdraft.de/podpress_trac/web/2141/0/wd-143.mp3",
     "title": "CSS, Performance, Hörerfragen",
@@ -13888,6 +13892,7 @@
         "twitter": "https://twitter.com/maddesigns"
       }
     ],
+    "trello": "https://trello.com/b/bTqq8U6q/revision-144",
     "href": "http://workingdraft.de/144/",
     "audio": "http://workingdraft.de/podpress_trac/web/2151/0/wd-144.mp3",
     "title": "RESS und unsere Deployment Strategien",
@@ -13997,6 +14002,7 @@
         "web": "http://peterkroener.de/"
       }
     ],
+    "trello": "https://trello.com/b/RSXbAdcZ/revision-145",
     "href": "http://workingdraft.de/145/",
     "audio": "http://workingdraft.de/podpress_trac/web/2156/0/wd-145.mp3",
     "title": "Dezentralisierung und Hoodie",
@@ -14091,6 +14097,7 @@
         "web": "http://peterkroener.de/"
       }
     ],
+    "trello": "https://trello.com/b/rU9XPMiL/revision-146",
     "href": "http://workingdraft.de/146/",
     "audio": "http://workingdraft.de/podpress_trac/web/2167/0/wd-146.mp3",
     "title": "Responsive Images, Verträge und Links",
@@ -14175,6 +14182,7 @@
         "web": "http://drublic.de/"
       }
     ],
+    "trello": "https://trello.com/b/M3n3SH6n/revision-147",
     "href": "http://workingdraft.de/147/",
     "audio": "http://workingdraft.de/podpress_trac/web/2177/0/wd-147.mp3",
     "title": "Über das INIT Boilerplate und das Laravel PHP-Framework",
@@ -14299,6 +14307,7 @@
         "web": "http://peterkroener.de/"
       }
     ],
+    "trello": "https://trello.com/b/VsnLsrwP/revision-148",
     "href": "http://workingdraft.de/148/",
     "audio": "http://workingdraft.de/podpress_trac/web/2186/0/wd-148.mp3",
     "title": "Generatoren und Mutationen",
@@ -14389,6 +14398,7 @@
         "twitter": "https://twitter.com/gerritvanaaken"
       }
     ],
+    "trello": "https://trello.com/b/eLJuUVg8/revision-149",
     "href": "http://workingdraft.de/149/",
     "audio": "http://workingdraft.de/podpress_trac/web/2193/0/wd-149.mp3",
     "title": "Toolchains, WebFonts und Offline-First",
@@ -14471,6 +14481,7 @@
         "web": "http://peterkroener.de/"
       }
     ],
+    "trello": "https://trello.com/b/Vcp5Gyg3/revision-150",
     "href": "http://workingdraft.de/150/",
     "audio": "http://workingdraft.de/podpress_trac/web/2198/0/wd-150.mp3",
     "title": "Kurz-Jubiläum mit News, Glücksrad und Links",
@@ -14554,6 +14565,7 @@
         "web": "http://peterkroener.de/"
       }
     ],
+    "trello": "https://trello.com/b/kVzl6Kis/revision-151",
     "href": "http://workingdraft.de/151/",
     "audio": "http://workingdraft.de/podpress_trac/web/2225/0/wd-151.mp3",
     "title": "Myth, statische Seiten, Links",
@@ -14642,6 +14654,7 @@
         "web": "http://peterkroener.de/"
       }
     ],
+    "trello": "https://trello.com/b/6deppt9D/revision-152",
     "href": "http://workingdraft.de/152/",
     "audio": "http://workingdraft.de/podpress_trac/web/2244/0/wd-152.mp3",
     "live": [
@@ -14749,6 +14762,7 @@
         "web": "http://rodneyrehm.de/en/"
       }
     ],
+    "trello": "https://trello.com/b/iM6IDNTa/revision-153",
     "href": "http://workingdraft.de/153/",
     "audio": "http://workingdraft.de/podpress_trac/web/2256/0/wd-153.mp3",
     "live": [
@@ -14880,6 +14894,7 @@
         "web": "http://peterkroener.de/"
       }
     ],
+    "trello": "https://trello.com/b/iMhmWQo9/revision-154",
     "href": "http://workingdraft.de/154/",
     "audio": "http://workingdraft.de/podpress_trac/web/2262/0/wd-154.mp3",
     "live": [
@@ -15008,6 +15023,7 @@
         "web": "http://peterkroener.de/"
       }
     ],
+    "trello": "https://trello.com/b/WBv907GY/revision-155",
     "href": "http://workingdraft.de/155/",
     "audio": "http://workingdraft.de/podpress_trac/web/2269/0/wd-155.mp3",
     "live": [
@@ -15093,6 +15109,7 @@
         "web": "http://peterkroener.de/"
       }
     ],
+    "trello": "https://trello.com/b/Uj9HvFAm/revision-156",
     "href": "http://workingdraft.de/156/",
     "audio": "http://workingdraft.de/podpress_trac/web/2277/0/wd-156.mp3",
     "live": [
@@ -15185,6 +15202,7 @@
         "web": "http://rodneyrehm.de/en/"
       }
     ],
+    "trello": "https://trello.com/b/m34PnYWr/revision-157",
     "href": "http://workingdraft.de/157/",
     "audio": "http://workingdraft.de/podpress_trac/web/2285/0/wd-157.mp3",
     "live": [
@@ -15250,6 +15268,155 @@
         "href": "https://speakerdeck.com/phuu/frontendlondon-serviceworker-and-the-offline-web",
         "time": "01:04:06",
         "description": "Ein Slidedeck mit allen Infos zu Service Workern."
+      }
+    ]
+  },
+  "158": {
+    "id": 158,
+    "date": "2014-02-16",
+    "duration": "01:02:43",
+    "people": [
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-11-03"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      },
+      {
+        "name": "Tobias Baldauf",
+        "twitter": "https://twitter.com/tbaldauf"
+      }
+    ],
+    "trello": "https://trello.com/b/pVGY5rNF/revision-158",
+    "href": "http://workingdraft.de/158/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2296/0/wd-158.mp3",
+    "live": [
+      {
+        "title": "Revision 158",
+        "href": "http://livestre.am/4LQCy",
+        "duration": "00:53:56",
+        "date": "2014-02-10"
+      }
+    ],
+    "title": "Performance, Performance, Performance; sowie Leserfragen",
+    "description": "In der heutigen Revision haben Hans, Peter und Schepp den Performance-König <a href=\"http://tobias.is/who/\">Tobias Baldauf</a> eingeladen, um über aktuelle Trends und gute Ratschläge in Sachen Webperformance zu plaudern.",
+    "news": [
+      {
+        "title": "Firefox 27",
+        "href": "http://www.mozilla.org/en-US/firefox/27.0/releasenotes/",
+        "time": "00:01:08",
+        "description": "Neuer Release des Independent Browser, mit der neuen CSS Eigenschaft <code>all:unset</code> und einigen anderen Änderungen."
+      }
+    ],
+    "topics": [
+      {
+        "title": "Bleeding Edge Bildoptimierung",
+        "time": "00:01:56",
+        "description": "Tobias erzählt über aktuelle Trends in der Bildoptimierung, und wie man aus langgedienten Grafikformaten wie JPEG dank Machine Learning noch weitere 10% rausholen möchte."
+      },
+      {
+        "title": "Renderingoptimierungsmöglichkeiten bei Webfonts",
+        "href": "http://www.igvita.com/2014/01/31/optimizing-web-font-rendering-performance/",
+        "time": "00:07:56",
+        "description": "Chrome hat seinen Webfont Renderingprozess neu gelöst, und zeigt nach 30 Sekunden ohne geladener Font eine Fallbackschrift an. Außerdem erzählen wir welche weiteren Steuerungsmöglichkeiten es gibt, ob <code><a href=\"https://developer.mozilla.org/de/docs/Web/CSS/text-rendering\">text-rendering</a></code> Unterschiede macht und wie man <a href=\"http://www.igvita.com/2012/09/12/web-fonts-performance-making-pretty-fast/\">Subsetting</a> richtig einsetzen kann!"
+      },
+      {
+        "title": "Automatisiert Performance Metriken generieren",
+        "time": "00:13:15",
+        "description": "Performance kann und soll man klarerweise messen. Tobias gibt Tipps und verweist auf Tools wie <a href=\"https://github.com/macbre/phantomas\">Phantomas</a> (samt <a href=\"https://github.com/stefanjudis/grunt-phantomas\">Grunt-Plugin</a>) und das <a href=\"http://httparchive.org/\">HTTP Archive</a>."
+      },
+      {
+        "title": "Viele Schriftschnitte vs. Performance",
+        "href": "http://praegnanz.de/weblog/webfonts-fette-fehlerquelle",
+        "time": "00:17:41",
+        "description": "Der Schriftenkaiser Gerrit van Aaken ruft zu Recht auf, verschiedene Fettschnitte in Webfonts zu beachten. Doch was des Designers Freud&#8217; ist des Performanceoptimierers Leid. Wo liegt die optimale Grenze, und welche Möglichkeiten würden wir uns wünschen um beide Welten zufrieden zu stellen. Wir philosophieren."
+      },
+      {
+        "title": "Performance-Guidelines und -Budgets",
+        "time": "00:22:06",
+        "description": "Performance ist wichtig und kann auch gut argumentiert bzw. verkauft werden! Stefan erzählt von Kompromissen aus dem täglichen Agenturleben und welche Probleme man sich fernhält, wenn man das Performance-Augenmerk von Anfang an in Betracht zieht. Der Rest stimmt in der Reflexion mit ein und gibt Ratschläge."
+      },
+      {
+        "title": "Leserfrage: Unsere Erfahrungen zu custom styled Inputs",
+        "href": "https://twitter.com/christophrumpel/status/430731865205374976",
+        "time": "00:27:58",
+        "description": "Stammhörer Christoph Rumpel fragt, wie man Formularelemente am besten stylen kann, und welche Bibliotheken bzw. Tools wir dafür nehmen. Eine Antwort mit einem Plottwist. Erwähnt werden: Ryan Seddons <a href=\"http://www.thecssninja.com/css/custom-inputs-using-css\">Technik über :checked Attribut</a> und das ähnlich funktionierende <a href=\"https://github.com/micjamking/Navigataur\">Navigataur</a>. Außerdem wird es Zeit <code>alert</code> und <code>confirm</code> wieder aus ihrer Versenkung zu bringen!"
+      },
+      {
+        "title": "Layoutgeschwindigkeit von CSS Flexbox",
+        "href": "http://jakearchibald.com/2014/dont-use-flexbox-for-page-layout/",
+        "time": "00:35:37",
+        "description": "CSS Flexbox rendert langsam und hat nicht unbedenkliche Aufbaustrukturen. Doch lieber CSS3 Grid-Layouts verwenden! Doch was, wenn manches davon noch gar nicht in den aktuellen Browsern implementiert wurde? Wir ranten über Angebot und Nachfrage, den IE9 und die Zukunft des Internet Explorers, und geben Peter in einer spontanen Selbsthilfegruppensitzung Platz."
+      },
+      {
+        "title": "Leserfrage: Gute Onlinecommunities für Webentwicklung?",
+        "href": "https://twitter.com/owzim/status/431829497353342976",
+        "time": "00:46:47",
+        "description": "Christian fragt: Welche guten Onlinecommunities gibt es? Die Leute kurz vor oder jenseits der 30 erzählen mit weißen Rauschebärten über die gute, alte Forenzeit, dass deren Abgesang eigentlich eh nicht so schlecht ist, und warum Twitter und Co. sich in den letzten Jahren behauptet haben."
+      }
+    ],
+    "links": [
+      {
+        "title": "CSS Above the fold Inliner",
+        "href": "https://github.com/drdk/dr-css-inliner",
+        "time": "00:58:52",
+        "description": "Dinge, die über der Fenstergrenze passieren sollten auch besonders schnell sichtbar sein. Dieses PhantomJS basierte Tool hilft!"
+      },
+      {
+        "title": "Responsive Images & Lazy Loading",
+        "href": "http://maddesigns.de/responsive-images-lazy-loading-2151.html",
+        "time": "00:58:52",
+        "description": "Der sehr aktive Sven Wolfermann über Responsive Images und Lazy Loading. Pflichtartikel"
+      }
+    ],
+    "tip": []
+  },
+  "159": {
+    "id": 159,
+    "date": null,
+    "duration": "00:00:00",
+    "people": [
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      null,
+      {
+        "name": "Rodney Rehm",
+        "team": [
+          "2011-09-16"
+        ],
+        "twitter": "https://twitter.com/rodneyrehm",
+        "web": "http://rodneyrehm.de/en/"
+      }
+    ],
+    "trello": "https://trello.com/b/E2mEugHK/revision-159",
+    "live": [
+      {
+        "title": "Revision 159",
+        "href": "http://livestre.am/4MhTE",
+        "duration": "01:58:14",
+        "date": "2014-02-17"
       }
     ]
   }
