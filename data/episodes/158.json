@@ -1,0 +1,117 @@
+{
+  "id": 158,
+  "date": "2014-02-16",
+  "duration": "01:02:43",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Tobias Baldauf",
+      "twitter": "https://twitter.com/tbaldauf"
+    }
+  ],
+  "trello": "https://trello.com/b/pVGY5rNF/revision-158",
+  "href": "http://workingdraft.de/158/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2296/0/wd-158.mp3",
+  "live": [
+    {
+      "title": "Revision 158",
+      "href": "http://livestre.am/4LQCy",
+      "duration": "00:53:56",
+      "date": "2014-02-10"
+    }
+  ],
+  "title": "Performance, Performance, Performance; sowie Leserfragen",
+  "description": "In der heutigen Revision haben Hans, Peter und Schepp den Performance-König <a href=\"http://tobias.is/who/\">Tobias Baldauf</a> eingeladen, um über aktuelle Trends und gute Ratschläge in Sachen Webperformance zu plaudern.",
+  "news": [
+    {
+      "title": "Firefox 27",
+      "href": "http://www.mozilla.org/en-US/firefox/27.0/releasenotes/",
+      "time": "00:01:08",
+      "description": "Neuer Release des Independent Browser, mit der neuen CSS Eigenschaft <code>all:unset</code> und einigen anderen Änderungen."
+    }
+  ],
+  "topics": [
+    {
+      "title": "Bleeding Edge Bildoptimierung",
+      "time": "00:01:56",
+      "description": "Tobias erzählt über aktuelle Trends in der Bildoptimierung, und wie man aus langgedienten Grafikformaten wie JPEG dank Machine Learning noch weitere 10% rausholen möchte."
+    },
+    {
+      "title": "Renderingoptimierungsmöglichkeiten bei Webfonts",
+      "href": "http://www.igvita.com/2014/01/31/optimizing-web-font-rendering-performance/",
+      "time": "00:07:56",
+      "description": "Chrome hat seinen Webfont Renderingprozess neu gelöst, und zeigt nach 30 Sekunden ohne geladener Font eine Fallbackschrift an. Außerdem erzählen wir welche weiteren Steuerungsmöglichkeiten es gibt, ob <code><a href=\"https://developer.mozilla.org/de/docs/Web/CSS/text-rendering\">text-rendering</a></code> Unterschiede macht und wie man <a href=\"http://www.igvita.com/2012/09/12/web-fonts-performance-making-pretty-fast/\">Subsetting</a> richtig einsetzen kann!"
+    },
+    {
+      "title": "Automatisiert Performance Metriken generieren",
+      "time": "00:13:15",
+      "description": "Performance kann und soll man klarerweise messen. Tobias gibt Tipps und verweist auf Tools wie <a href=\"https://github.com/macbre/phantomas\">Phantomas</a> (samt <a href=\"https://github.com/stefanjudis/grunt-phantomas\">Grunt-Plugin</a>) und das <a href=\"http://httparchive.org/\">HTTP Archive</a>."
+    },
+    {
+      "title": "Viele Schriftschnitte vs. Performance",
+      "href": "http://praegnanz.de/weblog/webfonts-fette-fehlerquelle",
+      "time": "00:17:41",
+      "description": "Der Schriftenkaiser Gerrit van Aaken ruft zu Recht auf, verschiedene Fettschnitte in Webfonts zu beachten. Doch was des Designers Freud&#8217; ist des Performanceoptimierers Leid. Wo liegt die optimale Grenze, und welche Möglichkeiten würden wir uns wünschen um beide Welten zufrieden zu stellen. Wir philosophieren."
+    },
+    {
+      "title": "Performance-Guidelines und -Budgets",
+      "time": "00:22:06",
+      "description": "Performance ist wichtig und kann auch gut argumentiert bzw. verkauft werden! Stefan erzählt von Kompromissen aus dem täglichen Agenturleben und welche Probleme man sich fernhält, wenn man das Performance-Augenmerk von Anfang an in Betracht zieht. Der Rest stimmt in der Reflexion mit ein und gibt Ratschläge."
+    },
+    {
+      "title": "Leserfrage: Unsere Erfahrungen zu custom styled Inputs",
+      "href": "https://twitter.com/christophrumpel/status/430731865205374976",
+      "time": "00:27:58",
+      "description": "Stammhörer Christoph Rumpel fragt, wie man Formularelemente am besten stylen kann, und welche Bibliotheken bzw. Tools wir dafür nehmen. Eine Antwort mit einem Plottwist. Erwähnt werden: Ryan Seddons <a href=\"http://www.thecssninja.com/css/custom-inputs-using-css\">Technik über :checked Attribut</a> und das ähnlich funktionierende <a href=\"https://github.com/micjamking/Navigataur\">Navigataur</a>. Außerdem wird es Zeit <code>alert</code> und <code>confirm</code> wieder aus ihrer Versenkung zu bringen!"
+    },
+    {
+      "title": "Layoutgeschwindigkeit von CSS Flexbox",
+      "href": "http://jakearchibald.com/2014/dont-use-flexbox-for-page-layout/",
+      "time": "00:35:37",
+      "description": "CSS Flexbox rendert langsam und hat nicht unbedenkliche Aufbaustrukturen. Doch lieber CSS3 Grid-Layouts verwenden! Doch was, wenn manches davon noch gar nicht in den aktuellen Browsern implementiert wurde? Wir ranten über Angebot und Nachfrage, den IE9 und die Zukunft des Internet Explorers, und geben Peter in einer spontanen Selbsthilfegruppensitzung Platz."
+    },
+    {
+      "title": "Leserfrage: Gute Onlinecommunities für Webentwicklung?",
+      "href": "https://twitter.com/owzim/status/431829497353342976",
+      "time": "00:46:47",
+      "description": "Christian fragt: Welche guten Onlinecommunities gibt es? Die Leute kurz vor oder jenseits der 30 erzählen mit weißen Rauschebärten über die gute, alte Forenzeit, dass deren Abgesang eigentlich eh nicht so schlecht ist, und warum Twitter und Co. sich in den letzten Jahren behauptet haben."
+    }
+  ],
+  "links": [
+    {
+      "title": "CSS Above the fold Inliner",
+      "href": "https://github.com/drdk/dr-css-inliner",
+      "time": "00:58:52",
+      "description": "Dinge, die über der Fenstergrenze passieren sollten auch besonders schnell sichtbar sein. Dieses PhantomJS basierte Tool hilft!"
+    },
+    {
+      "title": "Responsive Images & Lazy Loading",
+      "href": "http://maddesigns.de/responsive-images-lazy-loading-2151.html",
+      "time": "00:58:52",
+      "description": "Der sehr aktive Sven Wolfermann über Responsive Images und Lazy Loading. Pflichtartikel"
+    }
+  ],
+  "tip": []
+}

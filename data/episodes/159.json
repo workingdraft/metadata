@@ -1,0 +1,32 @@
+{
+  "id": 159,
+  "date": null,
+  "duration": "00:00:00",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    null,
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    }
+  ],
+  "trello": "https://trello.com/b/E2mEugHK/revision-159",
+  "live": [
+    {
+      "title": "Revision 159",
+      "href": "http://livestre.am/4MhTE",
+      "duration": "01:58:14",
+      "date": "2014-02-17"
+    }
+  ]
+}
