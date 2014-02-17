@@ -34,6 +34,7 @@
   "href": "http://workingdraft.de/135/",
   "audio": "http://workingdraft.de/podpress_trac/web/2083/0/wd-135.mp3",
   "title": "Progressive Enhancement, Sigh JavaScript und Bower",
+  "trello": "https://trello.com/b/HIxOHIMH/revision-135",
   "description": "In der heutigen Revision holen sich Schepp und Stefan <a href=\"http://twitter.com/yellowled\">Matthias Mees aus dem hohen Norden</a> vors Mikro, um über Progressive Enhancement und Twitters Paketmanager Bower zu quatschen.",
   "news": [
     {

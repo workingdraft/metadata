@@ -819,7 +819,8 @@
     ],
     "href": "http://workingdraft.de/63/",
     "audio": "http://workingdraft.de/podpress_trac/web/1095/0/wd-63.mp3",
-    "title": "Responsiver Content, Firefox 11 und Offene Datenquellen"
+    "title": "Responsiver Content, Firefox 11 und Offene Datenquellen",
+    "trello": "https://trello.com/b/ifftwlQ3/revision-63"
   },
   "64": {
     "id": 64,
@@ -994,7 +995,8 @@
     ],
     "href": "http://workingdraft.de/75/",
     "audio": "http://workingdraft.de/podpress_trac/web/1271/0/wd-75.mp3",
-    "title": "News, Links und die diesmal wirklich kürzeste Revision aller Zeiten"
+    "title": "News, Links und die diesmal wirklich kürzeste Revision aller Zeiten",
+    "trello": "https://trello.com/b/DDHBY3ju/revision-75"
   },
   "76": {
     "id": 76,
@@ -1008,7 +1010,8 @@
     ],
     "href": "http://workingdraft.de/76/",
     "audio": "http://workingdraft.de/podpress_trac/web/1285/0/wd-76.mp3",
-    "title": "Testen, Dokumentieren und Abhängigkeiten verwalten"
+    "title": "Testen, Dokumentieren und Abhängigkeiten verwalten",
+    "trello": "https://trello.com/b/I1oqkQ1J/revision-76"
   },
   "77": {
     "id": 77,
@@ -1022,7 +1025,8 @@
     ],
     "href": "http://workingdraft.de/77/",
     "audio": "http://workingdraft.de/podpress_trac/web/1309/0/wd-77.mp3",
-    "title": "Do not Track, IHK-Petition und Web Components"
+    "title": "Do not Track, IHK-Petition und Web Components",
+    "trello": "https://trello.com/b/Wn92Ax1S/revision-77"
   },
   "78": {
     "id": 78,
@@ -1037,7 +1041,8 @@
     ],
     "href": "http://workingdraft.de/78/",
     "audio": "http://workingdraft.de/podpress_trac/web/1333/0/wd-78.mp3",
-    "title": "Editoren, jQuery, Yeoman, Browser"
+    "title": "Editoren, jQuery, Yeoman, Browser",
+    "trello": "https://trello.com/b/miZlApq9/revision-78"
   },
   "79": {
     "id": 79,
@@ -1052,7 +1057,8 @@
     ],
     "href": "http://workingdraft.de/79/",
     "audio": "http://workingdraft.de/podpress_trac/web/1351/0/wd-79.mp3",
-    "title": "File System API, Chrome Apps und ein Haufen Links"
+    "title": "File System API, Chrome Apps und ein Haufen Links",
+    "trello": "https://trello.com/b/kUrwrqk0/revision-79"
   },
   "80": {
     "id": 80,
@@ -1067,7 +1073,8 @@
     ],
     "href": "http://workingdraft.de/80/",
     "audio": "http://workingdraft.de/podpress_trac/web/1365/0/wd-80.mp3",
-    "title": "X-Tag, Print Styles und IE-Basher bashen"
+    "title": "X-Tag, Print Styles und IE-Basher bashen",
+    "trello": "https://trello.com/b/ZSKtGbBq/revision-80"
   },
   "81": {
     "id": 81,
@@ -1082,7 +1089,8 @@
     ],
     "href": "http://workingdraft.de/81/",
     "audio": "http://workingdraft.de/podpress_trac/web/1378/0/wd-81.mp3",
-    "title": "Seamless Iframes, relative Fontgrößen und ein Berg Links"
+    "title": "Seamless Iframes, relative Fontgrößen und ein Berg Links",
+    "trello": "https://trello.com/b/GMtcolri/revision-81"
   },
   "82": {
     "id": 82,
@@ -1097,7 +1105,8 @@
     ],
     "href": "http://workingdraft.de/82/",
     "audio": "http://workingdraft.de/podpress_trac/web/1389/0/wd-82.mp3",
-    "title": "Wiederverwertbarkeit von CSS & Web Security"
+    "title": "Wiederverwertbarkeit von CSS & Web Security",
+    "trello": "https://trello.com/b/OhB8NjW5/revision-82"
   },
   "83": {
     "id": 83,
@@ -1111,7 +1120,8 @@
     ],
     "href": "http://workingdraft.de/83/",
     "audio": "http://workingdraft.de/podpress_trac/web/1398/0/wd-83.mp3",
-    "title": "ECMAScript 6, @supports, WebRTC"
+    "title": "ECMAScript 6, @supports, WebRTC",
+    "trello": "https://trello.com/b/evJCvsbb/revision-83"
   },
   "84": {
     "id": 84,
@@ -1125,7 +1135,8 @@
     ],
     "href": "http://workingdraft.de/84/",
     "audio": "http://workingdraft.de/podpress_trac/web/1414/0/wd-84.mp3",
-    "title": "jQuery, Git, Informationsverwaltung und jede Menge Links"
+    "title": "jQuery, Git, Informationsverwaltung und jede Menge Links",
+    "trello": "https://trello.com/b/E5JfTe1T/revision-84"
   },
   "85": {
     "id": 85,
@@ -1140,7 +1151,8 @@
     ],
     "href": "http://workingdraft.de/85/",
     "audio": "http://workingdraft.de/podpress_trac/web/1428/0/wd-85.mp3",
-    "title": "Konferenzen, CSS und Twitter"
+    "title": "Konferenzen, CSS und Twitter",
+    "trello": "https://trello.com/b/ysqJl4J4/revision-85"
   },
   "86": {
     "id": 86,
@@ -1154,7 +1166,8 @@
     ],
     "href": "http://workingdraft.de/86/",
     "audio": "http://workingdraft.de/podpress_trac/web/1457/0/wd86.mp3",
-    "title": "CAS und Object.observe"
+    "title": "CAS und Object.observe",
+    "trello": "https://trello.com/b/DpFp7amF/revision-86"
   },
   "87": {
     "id": 87,
@@ -1168,7 +1181,8 @@
     ],
     "href": "http://workingdraft.de/87/",
     "audio": "http://workingdraft.de/podpress_trac/web/1475/0/wd87.mp3",
-    "title": "Position Sticky"
+    "title": "Position Sticky",
+    "trello": "https://trello.com/b/UkHp2SPE/revision-87"
   },
   "88": {
     "id": 88,
@@ -1183,7 +1197,8 @@
     ],
     "href": "http://workingdraft.de/88/",
     "audio": "http://workingdraft.de/podpress_trac/web/1484/0/wd-88.mp3",
-    "title": "Opus Codec, hot CSS Specs und Bower"
+    "title": "Opus Codec, hot CSS Specs und Bower",
+    "trello": "https://trello.com/b/3aD82P9n/revision-88"
   },
   "89": {
     "id": 89,
@@ -1198,7 +1213,8 @@
     ],
     "href": "http://workingdraft.de/89/",
     "audio": "http://workingdraft.de/podpress_trac/web/1501/0/wd89.mp3",
-    "title": "Mobile, Frameworks, iOS 6"
+    "title": "Mobile, Frameworks, iOS 6",
+    "trello": "https://trello.com/b/9sPmxajq/revision-89"
   },
   "90": {
     "id": 90,
@@ -1213,7 +1229,8 @@
     ],
     "href": "http://workingdraft.de/90/",
     "audio": "http://workingdraft.de/podpress_trac/web/1528/0/wd-90.mp3",
-    "title": ".mobi-Gate, Persona und TypeScript"
+    "title": ".mobi-Gate, Persona und TypeScript",
+    "trello": "https://trello.com/b/qx6deaqd/revision-90"
   },
   "91": {
     "id": 91,
@@ -1227,7 +1244,8 @@
     ],
     "href": "http://workingdraft.de/91/",
     "audio": "http://workingdraft.de/podpress_trac/web/1521/0/wd-91.mp3",
-    "title": "Konferenzen und HiDPI Bilder"
+    "title": "Konferenzen und HiDPI Bilder",
+    "trello": "https://trello.com/b/ylwYOdfq/revision-91"
   },
   "92": {
     "id": 92,
@@ -1242,7 +1260,8 @@
     ],
     "href": "http://workingdraft.de/92/",
     "audio": "http://workingdraft.de/podpress_trac/web/1550/0/wd-92.mp3",
-    "title": "Firefox, Fullscreen API und Thinkin’ Tags"
+    "title": "Firefox, Fullscreen API und Thinkin’ Tags",
+    "trello": "https://trello.com/b/3ZO9Nxrd/revision-92"
   },
   "93": {
     "id": 93,
@@ -1257,7 +1276,8 @@
     ],
     "href": "http://workingdraft.de/93/",
     "audio": "http://workingdraft.de/podpress_trac/web/1569/0/wd-93.mp3",
-    "title": "Farbkontraste und die volle Responsive Dröhnung!"
+    "title": "Farbkontraste und die volle Responsive Dröhnung!",
+    "trello": "https://trello.com/b/RY1xilLD/revision-93"
   },
   "94": {
     "id": 94,
@@ -1272,7 +1292,8 @@
     ],
     "href": "http://workingdraft.de/94/",
     "audio": "http://workingdraft.de/podpress_trac/web/1592/0/wd-94.mp3",
-    "title": "Test The Web Forward!"
+    "title": "Test The Web Forward!",
+    "trello": "https://trello.com/b/AKJ5BCXl/revision-94"
   },
   "95": {
     "id": 95,
@@ -1286,7 +1307,8 @@
     ],
     "href": "http://workingdraft.de/95/",
     "audio": "http://workingdraft.de/podpress_trac/web/1607/0/wd-95.mp3",
-    "title": "Vanilla Web und Accessibility"
+    "title": "Vanilla Web und Accessibility",
+    "trello": "https://trello.com/b/oiC2kYlB/revision-95"
   },
   "96": {
     "id": 96,
@@ -1300,7 +1322,8 @@
     ],
     "href": "http://workingdraft.de/96/",
     "audio": "http://workingdraft.de/podpress_trac/web/1620/0/wd-96.mp3",
-    "title": "News, HTML5 und Links"
+    "title": "News, HTML5 und Links",
+    "trello": "https://trello.com/b/GfqFMfez/revision-96"
   },
   "97": {
     "id": 97,
@@ -1318,7 +1341,8 @@
     ],
     "href": "http://workingdraft.de/97/",
     "audio": "http://workingdraft.de/podpress_trac/web/1636/0/wd-97.mp3",
-    "title": "beyond tellerrand 2012 & Interview mit Bruce Lawson"
+    "title": "beyond tellerrand 2012 & Interview mit Bruce Lawson",
+    "trello": "https://trello.com/b/zdwiNd9C/revision-97"
   },
   "98": {
     "id": 98,
@@ -1332,7 +1356,8 @@
     ],
     "href": "http://workingdraft.de/98/",
     "audio": "http://workingdraft.de/podpress_trac/web/1655/0/wd98.mp3",
-    "title": "IE10, HTML5 und CSS"
+    "title": "IE10, HTML5 und CSS",
+    "trello": "https://trello.com/b/rWnpqxfW/revision-98"
   },
   "99": {
     "id": 99,
@@ -1348,7 +1373,8 @@
     ],
     "href": "http://workingdraft.de/99/",
     "audio": "http://workingdraft.de/podpress_trac/web/1672/0/wd-99.mp3",
-    "title": "ProcessWire, Sueddeutsche.de und mehr"
+    "title": "ProcessWire, Sueddeutsche.de und mehr",
+    "trello": "https://trello.com/b/Eyk8Cyzr/revision-99"
   },
   "100": {
     "id": 100,
@@ -1364,7 +1390,8 @@
     ],
     "href": "http://workingdraft.de/100/",
     "audio": "http://workingdraft.de/podpress_trac/web/1694/0/wd-100.mp3",
-    "title": "Anniversary with Paul Irish"
+    "title": "Anniversary with Paul Irish",
+    "trello": "https://trello.com/b/1bvMMAbW/revision-100"
   },
   "101": {
     "id": 101,
@@ -1379,7 +1406,8 @@
     ],
     "href": "http://workingdraft.de/101/",
     "audio": "http://workingdraft.de/podpress_trac/web/1714/0/wd-101.mp3",
-    "title": "Canvas, HTML5, Damals"
+    "title": "Canvas, HTML5, Damals",
+    "trello": "https://trello.com/b/PKO5UoI5/revision-101"
   },
   "102": {
     "id": 102,
@@ -1394,7 +1422,8 @@
     ],
     "href": "http://workingdraft.de/102/",
     "audio": "http://workingdraft.de/podpress_trac/web/1737/0/wd-102.mp3",
-    "title": "Templates, JPEGs, JavaScript und OpenSource"
+    "title": "Templates, JPEGs, JavaScript und OpenSource",
+    "trello": "https://trello.com/b/okdqJFY8/revision-102"
   },
   "103": {
     "id": 103,
@@ -1409,7 +1438,8 @@
     ],
     "href": "http://workingdraft.de/103/",
     "audio": "http://workingdraft.de/podpress_trac/web/1765/0/wd-103.mp3",
-    "title": "Keine Themen"
+    "title": "Keine Themen",
+    "trello": "https://trello.com/b/6CYyQNuF/revision-103"
   },
   "104": {
     "id": 104,
@@ -1424,7 +1454,8 @@
     ],
     "href": "http://workingdraft.de/104/",
     "audio": "http://workingdraft.de/podpress_trac/web/1774/0/wd-104.mp3",
-    "title": "Open Device Labs und Webplatform.org-Docsprints"
+    "title": "Open Device Labs und Webplatform.org-Docsprints",
+    "trello": "https://trello.com/b/YHiOwrTX/revision-104"
   },
   "105": {
     "id": 105,
@@ -1438,7 +1469,8 @@
     ],
     "href": "http://workingdraft.de/105/",
     "audio": "http://workingdraft.de/podpress_trac/web/1789/0/wd-105.mp3",
-    "title": "CSS-Performance, Web Workers und ein paar Links"
+    "title": "CSS-Performance, Web Workers und ein paar Links",
+    "trello": "https://trello.com/b/DYiq6qNG/revision-105"
   },
   "106": {
     "id": 106,
@@ -1452,7 +1484,8 @@
     ],
     "href": "http://workingdraft.de/106/",
     "audio": "http://workingdraft.de/podpress_trac/web/1798/0/wd-106.mp3",
-    "title": "modern.IE, Textbalance und der ES5 Strict Mode"
+    "title": "modern.IE, Textbalance und der ES5 Strict Mode",
+    "trello": "https://trello.com/b/xYmcEnbl/revision-106"
   },
   "107": {
     "id": 107,
@@ -1467,7 +1500,8 @@
     ],
     "href": "http://workingdraft.de/107/",
     "audio": "http://workingdraft.de/podpress_trac/web/1808/0/wd-107.mp3",
-    "title": "Unresponsive Design, Docsprint und ein paar Links"
+    "title": "Unresponsive Design, Docsprint und ein paar Links",
+    "trello": "https://trello.com/b/rllKyOTT/revision-107"
   },
   "108": {
     "id": 108,
@@ -1481,7 +1515,8 @@
     ],
     "href": "http://workingdraft.de/108/",
     "audio": "http://workingdraft.de/podpress_trac/web/1816/0/wd-108.mp3",
-    "title": "asm.js, UA Sniffing und Operas Wechsel zu WebKit"
+    "title": "asm.js, UA Sniffing und Operas Wechsel zu WebKit",
+    "trello": "https://trello.com/b/Yn9jyE9J/revision-108"
   },
   "109": {
     "id": 109,
@@ -1495,7 +1530,8 @@
     ],
     "href": "http://workingdraft.de/109/",
     "audio": "http://workingdraft.de/podpress_trac/web/1827/0/wd-109.mp3",
-    "title": "Counter Styles, mobile Betriebssysteme, HTML5-Linkelemente"
+    "title": "Counter Styles, mobile Betriebssysteme, HTML5-Linkelemente",
+    "trello": "https://trello.com/b/Lyfk5mz2/revision-109"
   },
   "110": {
     "id": 110,
@@ -1509,7 +1545,8 @@
     ],
     "href": "http://workingdraft.de/110/",
     "audio": "http://workingdraft.de/podpress_trac/web/1838/0/wd-110.mp3",
-    "title": "Rendering Performance"
+    "title": "Rendering Performance",
+    "trello": "https://trello.com/b/3vMYjKQO/revision-110"
   },
   "111": {
     "id": 111,
@@ -1523,7 +1560,8 @@
     ],
     "href": "http://workingdraft.de/111/",
     "audio": "http://workingdraft.de/podpress_trac/web/1845/0/wd-111.mp3",
-    "title": "Performance-Proxy, Media Queries Level 4, http-client-hints"
+    "title": "Performance-Proxy, Media Queries Level 4, http-client-hints",
+    "trello": "https://trello.com/b/D0s7H7lP/revision-111"
   },
   "112": {
     "id": 112,
@@ -1536,7 +1574,8 @@
     ],
     "href": "http://workingdraft.de/112/",
     "audio": "http://workingdraft.de/podpress_trac/web/1853/0/wd-112.mp3",
-    "title": "Glücksrad und Links"
+    "title": "Glücksrad und Links",
+    "trello": "https://trello.com/b/gJlSqIQ9/revision-112"
   },
   "113": {
     "id": 113,
@@ -1549,7 +1588,8 @@
     ],
     "href": "http://workingdraft.de/113/",
     "audio": "http://workingdraft.de/podpress_trac/web/1868/0/wd-113.mp3",
-    "title": "jQuery vom CDN und Resize Events auf DOM Elementen"
+    "title": "jQuery vom CDN und Resize Events auf DOM Elementen",
+    "trello": "https://trello.com/b/e1adPdjJ/revision-113"
   },
   "114": {
     "id": 114,
@@ -1563,7 +1603,8 @@
     ],
     "href": "http://workingdraft.de/114/",
     "audio": "http://workingdraft.de/podpress_trac/web/1874/0/wd-114.mp3",
-    "title": "<template>, Appcache, asm.js versus Bytecode"
+    "title": "<template>, Appcache, asm.js versus Bytecode",
+    "trello": "https://trello.com/b/QV4tfMZF/revision-114"
   },
   "115": {
     "id": 115,
@@ -1577,7 +1618,8 @@
     ],
     "href": "http://workingdraft.de/115/",
     "audio": "http://workingdraft.de/podpress_trac/web/1886/0/wd-115.mp3",
-    "title": "Browsertriebwerke, RWD und Steinzeitmalerei"
+    "title": "Browsertriebwerke, RWD und Steinzeitmalerei",
+    "trello": "https://trello.com/b/1dlib9Dk/revision-115"
   },
   "116": {
     "id": 116,
@@ -1593,7 +1635,8 @@
     ],
     "href": "http://workingdraft.de/116/",
     "audio": "http://workingdraft.de/podpress_trac/web/1900/0/wd-116.mp3",
-    "title": "Konferenzen, Motion Design, IDs versus Classes"
+    "title": "Konferenzen, Motion Design, IDs versus Classes",
+    "trello": "https://trello.com/b/i8aHNRtW/revision-116"
   },
   "117": {
     "id": 117,
@@ -1607,7 +1650,8 @@
     ],
     "href": "http://workingdraft.de/117/",
     "audio": "http://workingdraft.de/podpress_trac/web/1913/0/wd-117.mp3",
-    "title": "jQuery, Performance, Links"
+    "title": "jQuery, Performance, Links",
+    "trello": "https://trello.com/b/H5uaNDp1/revision-117"
   },
   "118": {
     "id": 118,
@@ -1620,7 +1664,8 @@
     ],
     "href": "http://workingdraft.de/118/",
     "audio": "http://workingdraft.de/podpress_trac/web/1920/0/wd-118.mp3",
-    "title": "Die Problematik des Schätzens"
+    "title": "Die Problematik des Schätzens",
+    "trello": "https://trello.com/b/Hk23lvlg/revision-118"
   },
   "119": {
     "id": 119,
@@ -1634,7 +1679,8 @@
     ],
     "href": "http://workingdraft.de/119/",
     "audio": "http://workingdraft.de/podpress_trac/web/1932/0/wd-119.mp3",
-    "title": "Transitions, Flaggen, Links"
+    "title": "Transitions, Flaggen, Links",
+    "trello": "https://trello.com/b/pjdHWytD/revision-119"
   },
   "120": {
     "id": 120,
@@ -1647,7 +1693,8 @@
     ],
     "href": "http://workingdraft.de/120/",
     "audio": "http://workingdraft.de/podpress_trac/web/1942/0/wd-120.mp3",
-    "title": "CSS Strukturieren, Sinn und Unsinn von Touchdetection, DRM"
+    "title": "CSS Strukturieren, Sinn und Unsinn von Touchdetection, DRM",
+    "trello": "https://trello.com/b/Aw8H3fUl/revision-120"
   },
   "121": {
     "id": 121,
@@ -1661,7 +1708,8 @@
     ],
     "href": "http://workingdraft.de/121/",
     "audio": "http://workingdraft.de/podpress_trac/web/1951/0/wd-121.mp3",
-    "title": "requestAutocomplete, Web Components, Offline-Detection"
+    "title": "requestAutocomplete, Web Components, Offline-Detection",
+    "trello": "https://trello.com/b/IIhNss17/revision-121"
   },
   "122": {
     "id": 122,
@@ -1674,7 +1722,8 @@
     ],
     "href": "http://workingdraft.de/122/",
     "audio": "http://workingdraft.de/podpress_trac/web/1959/0/wd-122.mp3",
-    "title": "Interview mit Chris Heilmann zu Firefox OS"
+    "title": "Interview mit Chris Heilmann zu Firefox OS",
+    "trello": "https://trello.com/b/IFdqyppc/revision-122"
   },
   "123": {
     "id": 123,
@@ -1696,7 +1745,8 @@
     ],
     "href": "http://workingdraft.de/123/",
     "audio": "http://workingdraft.de/podpress_trac/web/1963/0/wd-123.mp3",
-    "title": "Cargo-Culting in JS, localStorage und Prerendering"
+    "title": "Cargo-Culting in JS, localStorage und Prerendering",
+    "trello": "https://trello.com/b/wbUESd7B/revision-123"
   },
   "124": {
     "id": 124,
@@ -1716,7 +1766,8 @@
     ],
     "href": "http://workingdraft.de/124/",
     "audio": "http://workingdraft.de/podpress_trac/web/1970/0/wd-124.mp3",
-    "title": "Screen Readers, CSP und In-depth Script Loading"
+    "title": "Screen Readers, CSP und In-depth Script Loading",
+    "trello": "https://trello.com/b/iTgvRKZd/revision-124"
   },
   "125": {
     "id": 125,
@@ -1736,7 +1787,8 @@
     ],
     "href": "http://workingdraft.de/125/",
     "audio": "http://workingdraft.de/podpress_trac/web/1981/0/wd-125.mp3",
-    "title": "Bye, Bye, Chrome Frame und Table Layouts"
+    "title": "Bye, Bye, Chrome Frame und Table Layouts",
+    "trello": "https://trello.com/b/d7slgL8S/revision-125"
   },
   "126": {
     "id": 126,
@@ -1756,7 +1808,8 @@
     ],
     "href": "http://workingdraft.de/126/",
     "audio": "http://workingdraft.de/podpress_trac/web/1989/0/wd-126.mp3",
-    "title": "Inputs, Formulare, Pseudoklassen und Origin"
+    "title": "Inputs, Formulare, Pseudoklassen und Origin",
+    "trello": "https://trello.com/b/ZdugMjsT/revision-126"
   },
   "127": {
     "id": 127,
@@ -1776,7 +1829,8 @@
     ],
     "href": "http://workingdraft.de/127/",
     "audio": "http://workingdraft.de/podpress_trac/web/2000/0/wd-127.mp3",
-    "title": "IE11, Glücksrad, Verlosung"
+    "title": "IE11, Glücksrad, Verlosung",
+    "trello": "https://trello.com/b/1CdZlf1i/revision-127"
   },
   "128": {
     "id": 128,
@@ -1799,7 +1853,8 @@
     ],
     "href": "http://workingdraft.de/128/",
     "audio": "http://workingdraft.de/podpress_trac/web/2014/0/wd-128.mp3",
-    "title": "CoffeeScript, mobile Apps, Gewinne"
+    "title": "CoffeeScript, mobile Apps, Gewinne",
+    "trello": "https://trello.com/b/20kTH6Hs/revision-128"
   },
   "129": {
     "id": 129,
@@ -1820,7 +1875,8 @@
     ],
     "href": "http://workingdraft.de/129/",
     "audio": "http://workingdraft.de/podpress_trac/web/2021/0/wd-129.mp3",
-    "title": "Zuschauerfragen sind heiß"
+    "title": "Zuschauerfragen sind heiß",
+    "trello": "https://trello.com/b/AMz8NdtE/revision-129"
   },
   "130": {
     "id": 130,
@@ -1843,7 +1899,8 @@
     ],
     "href": "http://workingdraft.de/130/",
     "audio": "http://workingdraft.de/podpress_trac/web/2032/0/wd-130.mp3",
-    "title": "AngularJS – Superheroic JavaScript MVW Framework"
+    "title": "AngularJS – Superheroic JavaScript MVW Framework",
+    "trello": "https://trello.com/b/0QITRdG3/revision-130"
   },
   "131": {
     "id": 131,
@@ -1856,7 +1913,8 @@
     ],
     "href": "http://workingdraft.de/131/",
     "audio": "http://workingdraft.de/podpress_trac/web/2043/0/wd-131.mp3",
-    "title": "Zuschauerfragen die Zweite"
+    "title": "Zuschauerfragen die Zweite",
+    "trello": "https://trello.com/b/a4cNo5mF/revision-131"
   },
   "132": {
     "id": 132,
@@ -1877,7 +1935,8 @@
     ],
     "href": "http://workingdraft.de/132/",
     "audio": "http://workingdraft.de/podpress_trac/web/2054/0/wd-132.mp3",
-    "title": "Rund ums Testen"
+    "title": "Rund ums Testen",
+    "trello": "https://trello.com/b/Klv8omJ2/revision-132"
   },
   "133": {
     "id": 133,
@@ -1891,7 +1950,8 @@
     ],
     "href": "http://workingdraft.de/133/",
     "audio": "http://workingdraft.de/podpress_trac/web/2068/0/wd-133.mp3",
-    "title": "Responsive Webdesign und CSS Frameworks"
+    "title": "Responsive Webdesign und CSS Frameworks",
+    "trello": "https://trello.com/b/LtodZ46x/revision-133"
   },
   "134": {
     "id": 134,
@@ -1918,7 +1978,8 @@
     ],
     "href": "http://workingdraft.de/134/",
     "audio": "http://workingdraft.de/podpress_trac/web/2077/0/wd-134.mp3",
-    "title": "News, CSS, Links"
+    "title": "News, CSS, Links",
+    "trello": "https://trello.com/b/jMKWpZGi/revision-134"
   },
   "135": {
     "id": 135,
@@ -1939,7 +2000,8 @@
     ],
     "href": "http://workingdraft.de/135/",
     "audio": "http://workingdraft.de/podpress_trac/web/2083/0/wd-135.mp3",
-    "title": "Progressive Enhancement, Sigh JavaScript und Bower"
+    "title": "Progressive Enhancement, Sigh JavaScript und Bower",
+    "trello": "https://trello.com/b/HIxOHIMH/revision-135"
   },
   "136": {
     "id": 136,
@@ -1960,7 +2022,8 @@
     ],
     "href": "http://workingdraft.de/136/",
     "audio": "http://workingdraft.de/podpress_trac/web/2090/0/wd-136.mp3",
-    "title": "Smashing Conference und ein moderner Design-Workflow"
+    "title": "Smashing Conference und ein moderner Design-Workflow",
+    "trello": "https://trello.com/b/0f8Vfb27/revision-136"
   },
   "137": {
     "id": 137,
@@ -1981,7 +2044,8 @@
     ],
     "href": "http://workingdraft.de/137/",
     "audio": "http://workingdraft.de/podpress_trac/web/2096/0/wd-137.mp3",
-    "title": "Mobile Browser Wonderland"
+    "title": "Mobile Browser Wonderland",
+    "trello": "https://trello.com/b/FFDBAPLS/revision-137"
   },
   "138": {
     "id": 138,
@@ -2003,7 +2067,8 @@
     ],
     "href": "http://workingdraft.de/138/",
     "audio": "http://workingdraft.de/podpress_trac/web/2100/0/wd-138.mp3",
-    "title": "Auf der roten CMS Couch"
+    "title": "Auf der roten CMS Couch",
+    "trello": "https://trello.com/b/1e382ml9/revision-138"
   },
   "139": {
     "id": 139,
@@ -2024,7 +2089,8 @@
     ],
     "href": "http://workingdraft.de/139/",
     "audio": "http://workingdraft.de/podpress_trac/web/2109/0/wd-139.mp3",
-    "title": "Toolchain-Kult und Touch-Events"
+    "title": "Toolchain-Kult und Touch-Events",
+    "trello": "https://trello.com/b/8x4HQOTz/revision-139"
   },
   "140": {
     "id": 140,

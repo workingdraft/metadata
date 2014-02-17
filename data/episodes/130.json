@@ -42,6 +42,7 @@
   "href": "http://workingdraft.de/130/",
   "audio": "http://workingdraft.de/podpress_trac/web/2032/0/wd-130.mp3",
   "title": "AngularJS – Superheroic JavaScript MVW Framework",
+  "trello": "https://trello.com/b/0QITRdG3/revision-130",
   "description": "Fast alle Moderatoren waren ausgeflogen, was also tun? Natürlich eine AngularJS-Sonderrevision! Die hatten wir schon länger geplant, jetzt nutzten wir die Gunst der Stunde. Da Stefan und Schepp beide keine Alltagserfahrung mit AngularJS vorweisen konnten, luden sie sich ein deutsches Experten-Trio bestehend aus <a href=\"http://angularjs.de/entwickler/robinboehm\">Robin Böhm</a>, <a href=\"http://angularjs.de/entwickler/saschabrink\">Sascha Brink</a> und <a href=\"http://angularjs.de/entwickler/justphil\">Philipp Tarasiewicz</a> ein, die im Folgenden eine gute Stunde lang über die Funktionsweise und Vorteile von AngularJS erzählten.",
   "topics": [
     {

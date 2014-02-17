@@ -27,6 +27,7 @@
   "href": "http://workingdraft.de/105/",
   "audio": "http://workingdraft.de/podpress_trac/web/1789/0/wd-105.mp3",
   "title": "CSS-Performance, Web Workers und ein paar Links",
+  "trello": "https://trello.com/b/DYiq6qNG/revision-105",
   "description": "Schepp und Peter holten sich Verstärkung bei <a href=\"https://twitter.com/asciidisco\">Sebastian Golasch</a> und beackerten mit ihm zwei Themen aus dem Bereich der Frontend-Performance. Dazu kommt die übliche Ladung Links.",
   "topics": [
     {

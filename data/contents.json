@@ -5462,6 +5462,7 @@
     "href": "http://workingdraft.de/63/",
     "audio": "http://workingdraft.de/podpress_trac/web/1095/0/wd-63.mp3",
     "title": "Responsiver Content, Firefox 11 und Offene Datenquellen",
+    "trello": "https://trello.com/b/ifftwlQ3/revision-63",
     "description": "Wer dieses mal noch nicht dabei war, aber nächstes mal gerne auch mitdiskutieren möchte, folgt uns am besten <a href=\"http://twitter.com/#!/workingdraft/\">auf Twitter</a> und macht sich mit <a href=\"http://de.wikipedia.org/wiki/Internet_Relay_Chat\">IRC</a> vertraut. Unseren Chat findet ihr auf <a href=\"http://webchat.freenode.net/?channels=workingdraft\">Freenote im Channel #workingdraft</a>.\n\nHans und Peter sprechen mit Stammgast <a title=\"Rodney bei Twitter\" href=\"https://twitter.com/#!/rodneyrehm\">Rodney Rehm</a> über die Neuerungen der vergangenen Woche.<br>\nAuch diese Woche hatten wir wieder einen Live-Stream am Start. Danke für alle, die zugehört und im Chat mit diskutiert haben.",
     "topics": [
       {
@@ -6649,6 +6650,7 @@
     "href": "http://workingdraft.de/75/",
     "audio": "http://workingdraft.de/podpress_trac/web/1271/0/wd-75.mp3",
     "title": "News, Links und die diesmal wirklich kürzeste Revision aller Zeiten",
+    "trello": "https://trello.com/b/DDHBY3ju/revision-75",
     "description": "Eine Kombination aus Sommerloch, EM, WWDC und Schepps Urlaub sorgt erneut für Magerkost bei den Themen. Kann man nichts machen! Dafür führen wir mit den News einen neuen Sendungsbestandteil ein, bei dem es in Zukunft (?) immer ein paar kurze Update-Durchsagen geben soll.",
     "news": [
       {
@@ -6729,6 +6731,7 @@
     "href": "http://workingdraft.de/76/",
     "audio": "http://workingdraft.de/podpress_trac/web/1285/0/wd-76.mp3",
     "title": "Testen, Dokumentieren und Abhängigkeiten verwalten",
+    "trello": "https://trello.com/b/I1oqkQ1J/revision-76",
     "description": "Dieses mal trafen sich Hans, <a href=\"http://www.asciidisco.com\">Sebastian Golasch</a> aka <a href=\"https://twitter.com/#!/asciidisco\">@asciidisco</a> und Kahlil in Skype, um sich durch einen stattliche Anzahl an Themen zu arbeiten.",
     "news": [
       {
@@ -6878,6 +6881,7 @@
     "href": "http://workingdraft.de/77/",
     "audio": "http://workingdraft.de/podpress_trac/web/1309/0/wd-77.mp3",
     "title": "Do not Track, IHK-Petition und Web Components",
+    "trello": "https://trello.com/b/Wn92Ax1S/revision-77",
     "description": "Überraschung: Sowohl Schepp als auch Peter waren zur Abwechlsung mal wieder an Bord. <a href=\"http://blog.rodneyrehm.de/\">Der ewige Rod</a> vertrat Hans und Kahlil.",
     "news": [
       {
@@ -7018,6 +7022,7 @@
     "href": "http://workingdraft.de/78/",
     "audio": "http://workingdraft.de/podpress_trac/web/1333/0/wd-78.mp3",
     "title": "Editoren, jQuery, Yeoman, Browser",
+    "trello": "https://trello.com/b/miZlApq9/revision-78",
     "description": "Die gesamte Crew war an Bord, allerdings leider auch die Skype-Dämonen. Wir hoffen dass die Themen-Menge für die sporadischen Audio-Fails kompensiert.",
     "news": [
       {
@@ -7157,6 +7162,7 @@
     "href": "http://workingdraft.de/79/",
     "audio": "http://workingdraft.de/podpress_trac/web/1351/0/wd-79.mp3",
     "title": "File System API, Chrome Apps und ein Haufen Links",
+    "trello": "https://trello.com/b/kUrwrqk0/revision-79",
     "description": "Schepp war nicht da, aber mit Rodney, Hans, Kahlil und Peter an Bord waren wir trotzdem beschlussfähig. Haben wir schon erwähnt, dass Rodney seit letzter Woche offizieller Bestandteil der Crew von Working Draft ist? Glückwunsch Rodney!",
     "news": [
       {
@@ -7267,6 +7273,7 @@
     "href": "http://workingdraft.de/80/",
     "audio": "http://workingdraft.de/podpress_trac/web/1365/0/wd-80.mp3",
     "title": "X-Tag, Print Styles und IE-Basher bashen",
+    "trello": "https://trello.com/b/ZSKtGbBq/revision-80",
     "description": "Scheppman, Hans, Rodney und Kahlil trafen sich dieses mal wieder, um in illustrer Runde so zu tun, als hätten Sie eine Ahnung von Webentwicklung und so.",
     "news": [
       {
@@ -7372,6 +7379,7 @@
     "href": "http://workingdraft.de/81/",
     "audio": "http://workingdraft.de/podpress_trac/web/1378/0/wd-81.mp3",
     "title": "Seamless Iframes, relative Fontgrößen und ein Berg Links",
+    "trello": "https://trello.com/b/GMtcolri/revision-81",
     "description": "Dieses mal waren Schepp, Hans, Kahlil und Special Guest <a href=\"http://twitter.com/bkastl\">Benedikt Kastl</a> am Start um den Webkram der letzten Woche zu besprechen.",
     "news": [
       {
@@ -7492,6 +7500,7 @@
     "href": "http://workingdraft.de/82/",
     "audio": "http://workingdraft.de/podpress_trac/web/1389/0/wd-82.mp3",
     "title": "Wiederverwertbarkeit von CSS & Web Security",
+    "trello": "https://trello.com/b/OhB8NjW5/revision-82",
     "description": "Diesmal trafen sich Schepp, Hans, Kahlil und Special Guest <a href=\"http://anselm-hannemann.com/\">Anselm Hannemann</a> zum wöchentlichen Webdev-Geplänkel im virtuellen Working Draft Studio (Skype).",
     "topics": [
       {
@@ -7613,6 +7622,7 @@
     "href": "http://workingdraft.de/83/",
     "audio": "http://workingdraft.de/podpress_trac/web/1398/0/wd-83.mp3",
     "title": "ECMAScript 6, @supports, WebRTC",
+    "trello": "https://trello.com/b/evJCvsbb/revision-83",
     "description": "Mit dem seltenen Überraschungsgast Peter starten Rodney und Hans in eine neue Revision voller Spiel, Spaß und Abenteuer!",
     "news": [
       {
@@ -7705,6 +7715,7 @@
     "href": "http://workingdraft.de/84/",
     "audio": "http://workingdraft.de/podpress_trac/web/1414/0/wd-84.mp3",
     "title": "jQuery, Git, Informationsverwaltung und jede Menge Links",
+    "trello": "https://trello.com/b/E5JfTe1T/revision-84",
     "description": "Die Crew von Working Draft fiel wie die Fliegen Deadlines und Kopfschmerzen zum Opfer. Zum Glück konnte Sebastian Golasch alias <a href=\"https://twitter.com/asciidisco\">@asciidisco</a> die am Ende nur noch aus Rodney und Peter bestehende Rumpftruppe verstärken.",
     "topics": [
       {
@@ -7826,6 +7837,7 @@
     "href": "http://workingdraft.de/85/",
     "audio": "http://workingdraft.de/podpress_trac/web/1428/0/wd-85.mp3",
     "title": "Konferenzen, CSS und Twitter",
+    "trello": "https://trello.com/b/ysqJl4J4/revision-85",
     "description": "Dieses mal wurde die Crew durch den Konferenz-Großmeister <a href=\"http://twitter.com/marcthiele\">Marc Thiele</a> verstärkt.",
     "news": [
       {
@@ -7936,6 +7948,7 @@
     "href": "http://workingdraft.de/86/",
     "audio": "http://workingdraft.de/podpress_trac/web/1457/0/wd86.mp3",
     "title": "CAS und Object.observe",
+    "trello": "https://trello.com/b/DpFp7amF/revision-86",
     "description": "Wir haben das Sommerloch gefunden! Hans und Rodney wurden von <a title=\"Sebastian Golasch\" href=\"https://twitter.com/asciidisco\">Sebastian Golasch</a> unterstützt.",
     "topics": [
       {
@@ -8037,6 +8050,7 @@
     "href": "http://workingdraft.de/87/",
     "audio": "http://workingdraft.de/podpress_trac/web/1475/0/wd87.mp3",
     "title": "Position Sticky",
+    "trello": "https://trello.com/b/UkHp2SPE/revision-87",
     "description": "Diesmal haben sich Hans, Rodney und Kahlil zum schnacken getroffen.",
     "topics": [
       {
@@ -8136,6 +8150,7 @@
     "href": "http://workingdraft.de/88/",
     "audio": "http://workingdraft.de/podpress_trac/web/1484/0/wd-88.mp3",
     "title": "Opus Codec, hot CSS Specs und Bower",
+    "trello": "https://trello.com/b/3aD82P9n/revision-88",
     "description": "Vier von Fünf &#8211; nur Peter ist noch auf Weltreise. Wir schreiben die Revision 88, deren zahlentechnische Signifikanz wir, zu Peters Bedauern, vollkommen unter den Tisch fallen lassen. Stattdessen konzentrieren wir uns auf den heißen Scheiss der letzten Woche.",
     "news": [
       {
@@ -8277,6 +8292,7 @@
     "href": "http://workingdraft.de/89/",
     "audio": "http://workingdraft.de/podpress_trac/web/1501/0/wd89.mp3",
     "title": "Mobile, Frameworks, iOS 6",
+    "trello": "https://trello.com/b/9sPmxajq/revision-89",
     "description": "Während sich Schepp mit seinen Ladies in fernen Ländern die Sonne auf den Pelz brennen ließ, luden Hans, Kahlil und Rod jemanden names Peter ein, um das Team für diese Revision zu komplettieren.",
     "news": [
       {
@@ -8410,6 +8426,7 @@
     "href": "http://workingdraft.de/90/",
     "audio": "http://workingdraft.de/podpress_trac/web/1528/0/wd-90.mp3",
     "title": ".mobi-Gate, Persona und TypeScript",
+    "trello": "https://trello.com/b/qx6deaqd/revision-90",
     "description": "Während alle anderen auf tollen Konferenzen rumturnen, trümmerten <a href=\"http://twitter.com/asciidisco\">Sebastian</a>, <a href=\"http://twitter.com/anselmhannemann\">Anselm</a>, <a href=\"http://twitter.com/fhemberger\">Frederic</a> und Peter eine weitere Revision eures Lieblingspodcasts ein. Extradicker Dank geht an Schepp, der die total mißratene Tonspur noch einigermaßen gerettet hat.",
     "news": [
       {
@@ -8529,6 +8546,7 @@
     "href": "http://workingdraft.de/91/",
     "audio": "http://workingdraft.de/podpress_trac/web/1521/0/wd-91.mp3",
     "title": "Konferenzen und HiDPI Bilder",
+    "trello": "https://trello.com/b/ylwYOdfq/revision-91",
     "description": "Schepp, Hans und Rodney fanden sich trotz ihrer leicht verschleppten Konferenzia ein, um das Eine oder Andere der letzten Woche(n) Revue passieren zu lassen.",
     "news": [
       {
@@ -8647,6 +8665,7 @@
     "href": "http://workingdraft.de/92/",
     "audio": "http://workingdraft.de/podpress_trac/web/1550/0/wd-92.mp3",
     "title": "Firefox, Fullscreen API und Thinkin’ Tags",
+    "trello": "https://trello.com/b/3ZO9Nxrd/revision-92",
     "description": "Hans, Kahlil und Peter nudelten diese Woche nicht nur die üblichen Themen durch, sondern hatten obendrein keinen Geringeren als <a href=\"http://www.highresolution.info/\">Dirk Jesse</a> zu Gast, der sein Projekt <strong>Thinkin&#8217; Tags</strong> vorstellt.",
     "news": [
       {
@@ -8747,6 +8766,7 @@
     "href": "http://workingdraft.de/93/",
     "audio": "http://workingdraft.de/podpress_trac/web/1569/0/wd-93.mp3",
     "title": "Farbkontraste und die volle Responsive Dröhnung!",
+    "trello": "https://trello.com/b/RY1xilLD/revision-93",
     "description": "Diese Woche luden der Schepp, Kahlil und Hans <a href=\"http://christophzillgens.com/\">Christoph Zillgens</a> ein, sprachen über Responsive Design und befragten ihn zu seinem neuen Buch.<br>\nAußerdem könnt ihr sein Buch auch gewinnen! Mehr zu unserem <strong>Gewinnspiel</strong> weiter unten&#8230;",
     "news": [
       {
@@ -8899,6 +8919,7 @@
     "href": "http://workingdraft.de/94/",
     "audio": "http://workingdraft.de/podpress_trac/web/1592/0/wd-94.mp3",
     "title": "Test The Web Forward!",
+    "trello": "https://trello.com/b/AKJ5BCXl/revision-94",
     "description": "Diesmal gibt es keine News zu vermelden.\n\nDa irgendwie alle Moderatoren in der vergangenen Woche in der Weltgeschichte unterwegs waren, um die neusten Ideen und Tools für euch aufzutreiben, waren es doch eher wenige Artikel, die gelesen werden konnten und die Themenvielfalt hielt sich in Grenzen.",
     "topics": [
       {
@@ -8981,6 +9002,7 @@
     "href": "http://workingdraft.de/95/",
     "audio": "http://workingdraft.de/podpress_trac/web/1607/0/wd-95.mp3",
     "title": "Vanilla Web und Accessibility",
+    "trello": "https://trello.com/b/oiC2kYlB/revision-95",
     "description": "Christian und Rodney luden <a href=\"http://www.marcozehe.de/\">Marco Zehe</a> (<a href=\"https://twitter.com/MarcoZehe\">@MarcoZehe</a>) ein und verquatschten sich zum Thema Barrierefreiheit &#8211; mit wem könnte das besser gehen als mit einem Blinden, der obendrein für die Qualitätssicherung im Bereich Barrierefreiheit bei einem Browserhersteller arbeitet?",
     "topics": [
       {
@@ -9087,6 +9109,7 @@
     "href": "http://workingdraft.de/96/",
     "audio": "http://workingdraft.de/podpress_trac/web/1620/0/wd-96.mp3",
     "title": "News, HTML5 und Links",
+    "trello": "https://trello.com/b/GfqFMfez/revision-96",
     "description": "Keine Themen sind auch keine Ausrede. Also bashten Hans, Rod und Peter einfach ein wenig den IE 10 Mobile und beschränkten sich ansonsten auf das Verlesen von News und Links.",
     "news": [
       {
@@ -9177,6 +9200,7 @@
     "href": "http://workingdraft.de/97/",
     "audio": "http://workingdraft.de/podpress_trac/web/1636/0/wd-97.mp3",
     "title": "beyond tellerrand 2012 & Interview mit Bruce Lawson",
+    "trello": "https://trello.com/b/zdwiNd9C/revision-97",
     "description": "Hans, Christian und Rodney tummelten sich Anfang der Woche &#8211; mit einer ganzen Menge anderer Webnasen &#8211; auf dem Klassentreffen der deutschen Webentwicklerszene. Zusammen mit den Jungs von der <a href=\"http://technikwuerze.de/\">Technikwürze</a> konnten wir dort Bruce Lawson von Opera für ein gemeinsames Interview gewinnen.",
     "topics": [
       {
@@ -9226,6 +9250,7 @@
     "href": "http://workingdraft.de/98/",
     "audio": "http://workingdraft.de/podpress_trac/web/1655/0/wd98.mp3",
     "title": "IE10, HTML5 und CSS",
+    "trello": "https://trello.com/b/rWnpqxfW/revision-98",
     "description": "Ein hustender Hans, ein nicht ganz so viel hustender Peter und ein kerngesunder Schepp in der Blüte seiner Jugend befassten sich in bewährter Manier mit den Themen der vergangenen Woche.",
     "news": [
       {
@@ -9349,6 +9374,7 @@
     "href": "http://workingdraft.de/99/",
     "audio": "http://workingdraft.de/podpress_trac/web/1672/0/wd-99.mp3",
     "title": "ProcessWire, Sueddeutsche.de und mehr",
+    "trello": "https://trello.com/b/Eyk8Cyzr/revision-99",
     "description": "Verstärkt von <a href=\"http://twitter.com/MadeMyDay\">Marc Hinse</a> und <a href=\"http://twitter.com/fhemberger\">Frederic Hemberger</a> warfen sich Kahlil, Hans und Peter todesmutig den Themen der Woche in den Weg.",
     "topics": [
       {
@@ -9465,6 +9491,7 @@
     "href": "http://workingdraft.de/100/",
     "audio": "http://workingdraft.de/podpress_trac/web/1694/0/wd-100.mp3",
     "title": "Anniversary with Paul Irish",
+    "trello": "https://trello.com/b/1bvMMAbW/revision-100",
     "description": "Please take a second and tell us how you feel: <a href=\"http://twtpoll.com/09or8y\">Do you want more English revisions of Workingdraft, featuring international Guests?</a>\n\nWow, can it really be the 100th episode already? Almost 2 years of weekly updates and discussions on web development &#8211; and we&#8217;re still here. And so no one less than <a href=\"https://twitter.com/paul_irish\">Paul Irish</a> joined Hans, Kahlil, Rodney and Schepp. While our podcast is a German thing, we&#8217;re thrilled how things turned out with recording an English episode over the wire. Thank you Paul!",
     "news": [
       {
@@ -9610,6 +9637,7 @@
     "href": "http://workingdraft.de/101/",
     "audio": "http://workingdraft.de/podpress_trac/web/1714/0/wd-101.mp3",
     "title": "Canvas, HTML5, Damals",
+    "trello": "https://trello.com/b/PKO5UoI5/revision-101",
     "description": "Das ist die letzte Revision für dieses Jahr. Wir danken allen treuen Hören, wünschen ein frohes Fest und einen verschleißfreien Rutsch ins neue Jahr!\n\nNach der internationalen Gala letzte Woche war diesmal wieder teutonisches Steineklopfen an der Web-Front angesagt. Schepp, Hans, Rod und Peter wühlten sich in bewährter Manier durch HTML5-News und andere Neuheiten.",
     "news": [
       {
@@ -9694,6 +9722,7 @@
     "href": "http://workingdraft.de/102/",
     "audio": "http://workingdraft.de/podpress_trac/web/1737/0/wd-102.mp3",
     "title": "Templates, JPEGs, JavaScript und OpenSource",
+    "trello": "https://trello.com/b/okdqJFY8/revision-102",
     "description": "Alles beim alten im neuen Jahr: Wie immer kämpften sich Hans, Schepp, Rodney und Peter durch die Themen der vergangenen paar Zeiteinheiten. News gab es keine, dafür um so mehr Themen und Links.",
     "topics": [
       {
@@ -9826,6 +9855,7 @@
     "href": "http://workingdraft.de/103/",
     "audio": "http://workingdraft.de/podpress_trac/web/1765/0/wd-103.mp3",
     "title": "Keine Themen",
+    "trello": "https://trello.com/b/6CYyQNuF/revision-103",
     "description": "Trotz intensiver Suche und voller Besatzung haben wir dieses mal kein einziges Thema gefunden, das eine ausführliche Besprechung verdient hätte. Deshalb ist die Nummer 103 die kürzeste Revision seit Ende des Mesozoikums. Wir entschuldigen uns und versprechen schon mal, dass das in der nächsten Revision ganz anders sein wird.",
     "news": [
       {
@@ -9910,6 +9940,7 @@
     "href": "http://workingdraft.de/104/",
     "audio": "http://workingdraft.de/podpress_trac/web/1774/0/wd-104.mp3",
     "title": "Open Device Labs und Webplatform.org-Docsprints",
+    "trello": "https://trello.com/b/YHiOwrTX/revision-104",
     "description": "Nach der Spezial-Folge letzte Woche sind wir diesmal wieder mit vollem Programm am Start. Hans, Schepp und Peter meldeten sich zum Dienst. Als Gast war diesmal <a href=\"http://klick-ass.com/\">Andre Jay Meissner</a> dabei, der uns über Open Device Labs und Docsprints berichtete.",
     "news": [
       {
@@ -10024,6 +10055,7 @@
     "href": "http://workingdraft.de/105/",
     "audio": "http://workingdraft.de/podpress_trac/web/1789/0/wd-105.mp3",
     "title": "CSS-Performance, Web Workers und ein paar Links",
+    "trello": "https://trello.com/b/DYiq6qNG/revision-105",
     "description": "Schepp und Peter holten sich Verstärkung bei <a href=\"https://twitter.com/asciidisco\">Sebastian Golasch</a> und beackerten mit ihm zwei Themen aus dem Bereich der Frontend-Performance. Dazu kommt die übliche Ladung Links.",
     "topics": [
       {
@@ -10095,6 +10127,7 @@
     "href": "http://workingdraft.de/106/",
     "audio": "http://workingdraft.de/podpress_trac/web/1798/0/wd-106.mp3",
     "title": "modern.IE, Textbalance und der ES5 Strict Mode",
+    "trello": "https://trello.com/b/xYmcEnbl/revision-106",
     "description": "Neue Revision, neues Glück! Diesmal als Glücksfeen am Start: Kahli, Hans und als Überraschungsgast der feine <a href=\"https://twitter.com/fhemberger\">Herr Hemberger</a>.",
     "news": [
       {
@@ -10211,6 +10244,7 @@
     "href": "http://workingdraft.de/107/",
     "audio": "http://workingdraft.de/podpress_trac/web/1808/0/wd-107.mp3",
     "title": "Unresponsive Design, Docsprint und ein paar Links",
+    "trello": "https://trello.com/b/rllKyOTT/revision-107",
     "description": "Mit Schepp, Hans, <a href=\"https://twitter.com/helloanselm\">Anselm</a> und Peter auf der Brücke dampfte Working Draft gezielt auf seine Revision 107 zu.",
     "news": [
       {
@@ -10296,6 +10330,7 @@
     "href": "http://workingdraft.de/108/",
     "audio": "http://workingdraft.de/podpress_trac/web/1816/0/wd-108.mp3",
     "title": "asm.js, UA Sniffing und Operas Wechsel zu WebKit",
+    "trello": "https://trello.com/b/Yn9jyE9J/revision-108",
     "description": "Als lieben Gast hatten sich Christian und Hans diesmal <a href=\"https://twitter.com/asciidisco\">Sebastian Golasch</a> dazu geholt, der bereits einige Male zu Gast war und jedes mal eine Bereicherung für die Sendung ist.",
     "news": [
       {
@@ -10407,6 +10442,7 @@
     "href": "http://workingdraft.de/109/",
     "audio": "http://workingdraft.de/podpress_trac/web/1827/0/wd-109.mp3",
     "title": "Counter Styles, mobile Betriebssysteme, HTML5-Linkelemente",
+    "trello": "https://trello.com/b/Lyfk5mz2/revision-109",
     "description": "Kahlil und Rod luden <a href=\"https://twitter.com/dantz\">Andreas Dantz</a> ins virtuelle Studio ein, um die letzte Internetwoche zu reflektieren.",
     "topics": [
       {
@@ -10488,6 +10524,7 @@
     "href": "http://workingdraft.de/110/",
     "audio": "http://workingdraft.de/podpress_trac/web/1838/0/wd-110.mp3",
     "title": "Rendering Performance",
+    "trello": "https://trello.com/b/3vMYjKQO/revision-110",
     "description": "Peter, Hans und Rod diskutieren Rendering Performance auf mobilen Geräten. Wie finden wir die Engpässe, was lässt sich ohne Verluste beheben und wo möchte man freiwillig Abstriche machen? Eine sehr exakte Wissenschaft, wir liefern Fakten Fakten Fakten!",
     "news": [
       {
@@ -10586,6 +10623,7 @@
     "href": "http://workingdraft.de/111/",
     "audio": "http://workingdraft.de/podpress_trac/web/1845/0/wd-111.mp3",
     "title": "Performance-Proxy, Media Queries Level 4, http-client-hints",
+    "trello": "https://trello.com/b/D0s7H7lP/revision-111",
     "description": "Eigentlich haben wir alle keine Zeit, aber das ist keine Ausrede&nbsp;&ndash; jedenfalls nicht für Schepp, Peter und <a href=\"http://twitter.com/frederichemberger\">Frederic</a>.",
     "news": [
       {
@@ -10693,6 +10731,7 @@
     "href": "http://workingdraft.de/112/",
     "audio": "http://workingdraft.de/podpress_trac/web/1853/0/wd-112.mp3",
     "title": "Glücksrad und Links",
+    "trello": "https://trello.com/b/gJlSqIQ9/revision-112",
     "description": "Schepp und Peter sahen sich akutem Themenmangel gegenüber und beschlossen daher, einfach ein halbes Stündchen das Glücksrad drehen zu lassen und dann die Links zu verlesen.",
     "randomSpec": [
       {
@@ -10791,6 +10830,7 @@
     "href": "http://workingdraft.de/113/",
     "audio": "http://workingdraft.de/podpress_trac/web/1868/0/wd-113.mp3",
     "title": "jQuery vom CDN und Resize Events auf DOM Elementen",
+    "trello": "https://trello.com/b/e1adPdjJ/revision-113",
     "description": "Hans und Rod gaben sich zu Zweit die Ehre &#8211; können ja nicht alle arbeiten oder Häuser kaufen…",
     "news": [
       {
@@ -10914,6 +10954,7 @@
     "href": "http://workingdraft.de/114/",
     "audio": "http://workingdraft.de/podpress_trac/web/1874/0/wd-114.mp3",
     "title": "<template>, Appcache, asm.js versus Bytecode",
+    "trello": "https://trello.com/b/QV4tfMZF/revision-114",
     "description": "Für die neue Revision werden Schepp und Peter von <a href=\"https://twitter.com/dantz\">Andreas Dantz</a> begleitet, der sich sehr über den JavaScript-Schwerpunkt dieser Sendung gefreut hat. Zum Ausgleich drehen wir dieses mal auch am CSS3-Glücksrad.",
     "topics": [
       {
@@ -11012,6 +11053,7 @@
     "href": "http://workingdraft.de/115/",
     "audio": "http://workingdraft.de/podpress_trac/web/1886/0/wd-115.mp3",
     "title": "Browsertriebwerke, RWD und Steinzeitmalerei",
+    "trello": "https://trello.com/b/1dlib9Dk/revision-115",
     "description": "Hans und Rod luden sich <a href=\"http://www.mademyday.de/\">Marc Hinse</a> ein, um den wöchentliche Tratsch mal streng Badisch abzuwickeln &#8211; Wir können alles, außer Hochdeutsch.",
     "news": [
       {
@@ -11160,6 +11202,7 @@
     "href": "http://workingdraft.de/116/",
     "audio": "http://workingdraft.de/podpress_trac/web/1900/0/wd-116.mp3",
     "title": "Konferenzen, Motion Design, IDs versus Classes",
+    "trello": "https://trello.com/b/i8aHNRtW/revision-116",
     "description": "Volles Haus bei Working Draft! Neben Schepp und Peter gaben sich heute <a href=\"http://twitter.com/maddesigns\">Sven Wolfermann</a>, <a href=\"http://twitter.com/czillgens\">Christoph Zillgens</a>, <a href=\"http://twitter.com/g16n\">Gunnar Bittersmann</a> und <a href=\"http://twitter.com/ddprrt\">Stefan Baumgartner</a> die Ehre um zu berichten, zu ranten und zu streiten.",
     "news": [
       {
@@ -11261,6 +11304,7 @@
     "href": "http://workingdraft.de/117/",
     "audio": "http://workingdraft.de/podpress_trac/web/1913/0/wd-117.mp3",
     "title": "jQuery, Performance, Links",
+    "trello": "https://trello.com/b/H5uaNDp1/revision-117",
     "description": "Schepp, Hans und Peter ackerten sich in gewohnter Manier durch das, was sie für die Themen der Woche hielten.",
     "news": [
       {
@@ -11356,6 +11400,7 @@
     "href": "http://workingdraft.de/118/",
     "audio": "http://workingdraft.de/podpress_trac/web/1920/0/wd-118.mp3",
     "title": "Die Problematik des Schätzens",
+    "trello": "https://trello.com/b/Hk23lvlg/revision-118",
     "description": "News gibt es diese Woche keine zu verkünden.\n\nAufgrund von Konferenzen, Betankung und privater Großereignisse gibt es diese Woche ein kleines Loch an Themen. Schepp und Hans haben aber versucht das Beste draus zu machen.",
     "topics": [
       {
@@ -11458,6 +11503,7 @@
     "href": "http://workingdraft.de/119/",
     "audio": "http://workingdraft.de/podpress_trac/web/1932/0/wd-119.mp3",
     "title": "Transitions, Flaggen, Links",
+    "trello": "https://trello.com/b/pjdHWytD/revision-119",
     "description": "Hans, Rodney und Peter erzählten, ranteten und verlasen wie üblich das neues aus der Web-Welt.",
     "news": [
       {
@@ -11541,6 +11587,7 @@
     "href": "http://workingdraft.de/120/",
     "audio": "http://workingdraft.de/podpress_trac/web/1942/0/wd-120.mp3",
     "title": "CSS Strukturieren, Sinn und Unsinn von Touchdetection, DRM",
+    "trello": "https://trello.com/b/Aw8H3fUl/revision-120",
     "description": "Christian und Hans besprachen diese Woche die Themen aus der Welt von CSS, Touch-Detection und verschlüsselten Medien.",
     "news": [
       {
@@ -11654,6 +11701,7 @@
     "href": "http://workingdraft.de/121/",
     "audio": "http://workingdraft.de/podpress_trac/web/1951/0/wd-121.mp3",
     "title": "requestAutocomplete, Web Components, Offline-Detection",
+    "trello": "https://trello.com/b/IIhNss17/revision-121",
     "description": "Neue Browser, alte Probleme&nbsp;&ndash; diesmal mit Schepp, Peter und Rodney an den Mikrofonen.",
     "news": [
       {
@@ -11758,6 +11806,7 @@
     "href": "http://workingdraft.de/122/",
     "audio": "http://workingdraft.de/podpress_trac/web/1959/0/wd-122.mp3",
     "title": "Interview mit Chris Heilmann zu Firefox OS",
+    "trello": "https://trello.com/b/IFdqyppc/revision-122",
     "description": "Letzte Woche haben wir die <a href=\"http://2013.beyondtellerrand.com/\">beyond tellerrand 2013</a> in Düsseldorf besucht und dabei die Gelegenheit genutzt, <a href=\"http://christianheilmann.com/\">Christian Heilmann</a> von Mozilla vors Mikro zu bekommen und ihn zu <a href=\"http://www.mozilla.org/de/firefox/partners/\">Firefox OS</a> zu befragen. Das Gespräch haben wir im Foyer aufgenommen, was leider mit vielen Nebengeräuschen einher ging. Sorry dafür."
   },
   "123": {
@@ -11808,6 +11857,7 @@
     "href": "http://workingdraft.de/123/",
     "audio": "http://workingdraft.de/podpress_trac/web/1963/0/wd-123.mp3",
     "title": "Cargo-Culting in JS, localStorage und Prerendering",
+    "trello": "https://trello.com/b/wbUESd7B/revision-123",
     "description": "Zur Revision 123 begrüßen wir <a href=\"http://www.fettblog.eu/\">Stefan Baumgartner</a> als neuen Co-Moderator im Team. Außerdem sind Peter, Schepp und Hans mit von der Partie.<br>\nDas <a href=\"https://trello.com/board/revision-123/519c7f3e2dc601e777001702\">Board zur Sendung findet ihr hier</a>.",
     "news": [],
     "topics": [
@@ -11915,6 +11965,7 @@
     "href": "http://workingdraft.de/124/",
     "audio": "http://workingdraft.de/podpress_trac/web/1970/0/wd-124.mp3",
     "title": "Screen Readers, CSP und In-depth Script Loading",
+    "trello": "https://trello.com/b/iTgvRKZd/revision-124",
     "description": "Kleine Runde, große Spieldauer: In der 124. Revision des Working Drafts beleuchten der Schepp und Stefan eine Reihe eher JavaScript-lastige Themen. Neben dem gewohnten Programm gibt es auch noch eine Verlosung: <a href=\"http://twitter.com/asciidisco\">Sebastian Golasch</a> stellt uns ein Ticket für das <a href=\"http://braincamp-cologne.com/\">Braincamp Cologne</a> zur Verfügung! Unsere Trello Notizen findet ihr <a href=\"https://trello.com/board/revision-124/51af3edd75aa1e654d002c06\">hier</a>.",
     "news": [],
     "topics": [
@@ -12011,6 +12062,7 @@
     "href": "http://workingdraft.de/125/",
     "audio": "http://workingdraft.de/podpress_trac/web/1981/0/wd-125.mp3",
     "title": "Bye, Bye, Chrome Frame und Table Layouts",
+    "trello": "https://trello.com/b/d7slgL8S/revision-125",
     "description": "Diese Woche sind fast alle irgendwie unterwegs. Deshalb lud Hans sich Stammgast <a href=\"http://helloanselm.com/\">Anselm Hannemann</a> ein, um ein bisschen über die aktuellen Themen des Web zu sprechen.",
     "topics": [
       {
@@ -12115,6 +12167,7 @@
     "href": "http://workingdraft.de/126/",
     "audio": "http://workingdraft.de/podpress_trac/web/1989/0/wd-126.mp3",
     "title": "Inputs, Formulare, Pseudoklassen und Origin",
+    "trello": "https://trello.com/b/ZdugMjsT/revision-126",
     "description": "Bei einem schönen Digestivum drehten Stefan und Schepp ein paar mal am HTML5-Glücksrad und ließen einen Berg Links vom Stapel. Im Detail ergab sich das folgendermaßen:",
     "news": [
       {
@@ -12227,6 +12280,7 @@
     "href": "http://workingdraft.de/127/",
     "audio": "http://workingdraft.de/podpress_trac/web/2000/0/wd-127.mp3",
     "title": "IE11, Glücksrad, Verlosung",
+    "trello": "https://trello.com/b/1CdZlf1i/revision-127",
     "description": "Die Rumpfbesatzung aus Schepp und Peter erfreute sich diese Woche am IE11, fuhr das Glücksrad an den Drehzahlbegrenzer und verlost(e) am Ende sogar noch drei Exemplare von <a href=\"http://html5-dvd.de/\">Peters HTML5/CSS3-Videotraining</a>.",
     "topics": [
       {
@@ -12325,6 +12379,7 @@
     "href": "http://workingdraft.de/128/",
     "audio": "http://workingdraft.de/podpress_trac/web/2014/0/wd-128.mp3",
     "title": "CoffeeScript, mobile Apps, Gewinne",
+    "trello": "https://trello.com/b/20kTH6Hs/revision-128",
     "description": "Getreu dem Motto „Viel Feind, viel Ehr‘“ luden sich Stefan, Peter und Rodney mit <a href=\"https://twitter.com/thedeftone\">Jan Monschke</a> und <a href=\"https://twitter.com/sippndipp\">Sebastian Deutsch</a> gleich zwei Gäste ein, die in der Debatte rund um CoffeeScript ordentlich Gas gaben. Das Glückrad entfiel aus Zeitgründen, dafür wurden die Gewinner des Gewinnspiels aus Revision 127 gezogen.",
     "news": [
       {
@@ -12419,6 +12474,7 @@
     "href": "http://workingdraft.de/129/",
     "audio": "http://workingdraft.de/podpress_trac/web/2021/0/wd-129.mp3",
     "title": "Zuschauerfragen sind heiß",
+    "trello": "https://trello.com/b/AMz8NdtE/revision-129",
     "description": "Angesichts hoher Temperaturen und eines niedrigen Themenlisten-Pegels nahmen sich Hans, Schepp und Peter <a href=\"http://workingdraft.de/127/#comments\">Themenwünsche der Leser aus Revision 127</a> zur Brust. Obwohl wir jedem Thema nicht mehr als 5 Minuten gewidmet haben, hat die Zeit nicht für alle Fragen gereicht, aber die kommen dann eben nächstes Mal dran. Falls ihr noch weitere Themenwünsche habt, ab damit in die Kommentare.",
     "topics": [
       {
@@ -12581,6 +12637,7 @@
     "href": "http://workingdraft.de/130/",
     "audio": "http://workingdraft.de/podpress_trac/web/2032/0/wd-130.mp3",
     "title": "AngularJS – Superheroic JavaScript MVW Framework",
+    "trello": "https://trello.com/b/0QITRdG3/revision-130",
     "description": "Fast alle Moderatoren waren ausgeflogen, was also tun? Natürlich eine AngularJS-Sonderrevision! Die hatten wir schon länger geplant, jetzt nutzten wir die Gunst der Stunde. Da Stefan und Schepp beide keine Alltagserfahrung mit AngularJS vorweisen konnten, luden sie sich ein deutsches Experten-Trio bestehend aus <a href=\"http://angularjs.de/entwickler/robinboehm\">Robin Böhm</a>, <a href=\"http://angularjs.de/entwickler/saschabrink\">Sascha Brink</a> und <a href=\"http://angularjs.de/entwickler/justphil\">Philipp Tarasiewicz</a> ein, die im Folgenden eine gute Stunde lang über die Funktionsweise und Vorteile von AngularJS erzählten.",
     "topics": [
       {
@@ -12686,6 +12743,7 @@
     "href": "http://workingdraft.de/131/",
     "audio": "http://workingdraft.de/podpress_trac/web/2043/0/wd-131.mp3",
     "title": "Zuschauerfragen die Zweite",
+    "trello": "https://trello.com/b/a4cNo5mF/revision-131",
     "description": "Das Sommerloch hat die Themenliste gefressen! Zum Glück lagen noch ein paar Zuhörerfragen auf Halde, derer sich Rodney, Stefan und Peter annahmen.",
     "topics": [
       {
@@ -12781,6 +12839,7 @@
     "href": "http://workingdraft.de/132/",
     "audio": "http://workingdraft.de/podpress_trac/web/2054/0/wd-132.mp3",
     "title": "Rund ums Testen",
+    "trello": "https://trello.com/b/Klv8omJ2/revision-132",
     "description": "Schepp und Rodney luden sich <a href=\"https://twitter.com/asciidisco\">Sebastian Golasch</a> ein, um ein wenig was über sein neues Projekt <a href=\"http://dalekjs.com/\">DalekJS</a> zu erfahren.",
     "news": [
       {
@@ -12863,6 +12922,7 @@
     "href": "http://workingdraft.de/133/",
     "audio": "http://workingdraft.de/podpress_trac/web/2068/0/wd-133.mp3",
     "title": "Responsive Webdesign und CSS Frameworks",
+    "trello": "https://trello.com/b/LtodZ46x/revision-133",
     "description": "In Abwesenheit der restlichen Stammbesetzung holt sich Stefan die beiden Gäste <a href=\"http://helloanselm.com/\">Anselm Hannemann</a> und <a href=\"http://grochtdreis.de/\">Jens &#8220;Flocke&#8221; Grochtdreis</a> ins virtuelle Studio. Bei diesem hochkarätigen Aufgebot an Mitsprechern liegen die Hauptpunkte der heutigen Sendung direkt auf dem Tisch: Responsive Webdesign in all seinen Formen. In einer angeregten Diskussion sprechen wir über neue Prozesse für Responsive Webdesign in Agenturen und kommen zu einer ausführlichen Betrachtung von CSS- und Grid-Frameworks. Viel Spaß!",
     "news": [
       {
@@ -12977,6 +13037,7 @@
     "href": "http://workingdraft.de/134/",
     "audio": "http://workingdraft.de/podpress_trac/web/2077/0/wd-134.mp3",
     "title": "News, CSS, Links",
+    "trello": "https://trello.com/b/jMKWpZGi/revision-134",
     "description": "Trotz angespannter Themenlage griffen Hans, Schepp und Peter zu den Mikrofonen. Letzter verpennte in Folge das Schreiben der Schaunotizen, was leichte Verzögerungen im Betriebsablauf der weiteren Veröffentlichung nach sich zog.",
     "news": [
       {
@@ -13089,6 +13150,7 @@
     "href": "http://workingdraft.de/135/",
     "audio": "http://workingdraft.de/podpress_trac/web/2083/0/wd-135.mp3",
     "title": "Progressive Enhancement, Sigh JavaScript und Bower",
+    "trello": "https://trello.com/b/HIxOHIMH/revision-135",
     "description": "In der heutigen Revision holen sich Schepp und Stefan <a href=\"http://twitter.com/yellowled\">Matthias Mees aus dem hohen Norden</a> vors Mikro, um über Progressive Enhancement und Twitters Paketmanager Bower zu quatschen.",
     "news": [
       {
@@ -13181,6 +13243,7 @@
     "href": "http://workingdraft.de/136/",
     "audio": "http://workingdraft.de/podpress_trac/web/2090/0/wd-136.mp3",
     "title": "Smashing Conference und ein moderner Design-Workflow",
+    "trello": "https://trello.com/b/0f8Vfb27/revision-136",
     "description": "Zur Revision 136 war <a href=\"http://www.stn.my/\">Stefan Nitzsche</a> zu Gast, der mit uns ein wenig über seine Projekte und seinen Workflow redete.",
     "topics": [
       {
@@ -13262,6 +13325,7 @@
     "href": "http://workingdraft.de/137/",
     "audio": "http://workingdraft.de/podpress_trac/web/2096/0/wd-137.mp3",
     "title": "Mobile Browser Wonderland",
+    "trello": "https://trello.com/b/FFDBAPLS/revision-137",
     "description": "Aus Mangel an aktuellen Themen geben Peter, Stefan und der Schepp einen Rundumschlag zum Thema Mobile Browser. Wir plaudern fröhlich aus dem Nähkästchen, erzählen von unseren Erfahrungen und präsentieren die irrsinnigsten Browserquirks, die selbst dem IE6 alle Ehre gemacht hätten.",
     "news": [
       {
@@ -13377,6 +13441,7 @@
     "href": "http://workingdraft.de/138/",
     "audio": "http://workingdraft.de/podpress_trac/web/2100/0/wd-138.mp3",
     "title": "Auf der roten CMS Couch",
+    "trello": "https://trello.com/b/1e382ml9/revision-138",
     "description": "Eine spontane Revision mit spontanen Gästen und einem noch spontaneren Twitter. Eine fünf Minuten vor Start zusammengestoppelte Besetzung aus <a href=\"http://www.yellowled.de\">Matthias Mees</a>, <a href=\"http://grochtdreis.de\">Jens Grochtdreis</a>, Stefan und Schepp diskutiert über die Dinge, die dem Webworker seit jeher graue Haare und Falten bereiten: Content Management Systeme.",
     "news": [
       {
@@ -13480,6 +13545,7 @@
     "href": "http://workingdraft.de/139/",
     "audio": "http://workingdraft.de/podpress_trac/web/2109/0/wd-139.mp3",
     "title": "Toolchain-Kult und Touch-Events",
+    "trello": "https://trello.com/b/8x4HQOTz/revision-139",
     "description": "Viele Bothaner erlitten den Tod bis endlich <a href=\"https://twitter.com/patrick_h_lauke\">Patrick Lauke</a> den Weg in unsere Sendung fand. Dort angekommen erhellte er uns über Touch- und Pointer-Events und glich seine Meinung über Toolchains und ARIA-Kurse mit Schepp und Peter ab.",
     "topics": [
       {
