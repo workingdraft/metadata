@@ -2043,7 +2043,8 @@
       "asciidisco",
       "jkphl",
       "rodneyrehm"
-    ]
+    ],
+    "trello": "https://trello.com/b/FErgIO1n/revision-140"
   },
   "141": {
     "id": 141,
@@ -2063,6 +2064,7 @@
       "drublic",
       "sir_pepe"
     ],
+    "trello": "https://trello.com/b/dKm2BQlu/revision-141",
     "href": "http://workingdraft.de/141/",
     "audio": "http://workingdraft.de/podpress_trac/web/2126/0/wd-141.mp3",
     "title": "Devops, statische Seiten und Links"
@@ -2084,6 +2086,7 @@
       "drublic",
       "sir_pepe"
     ],
+    "trello": "https://trello.com/b/GbDfl8OY/revision-142",
     "href": "http://workingdraft.de/142/",
     "audio": "http://workingdraft.de/podpress_trac/web/2132/0/wd-142.mp3",
     "title": "Webfonts und IDEs"
@@ -2106,6 +2109,7 @@
       "drublic",
       "sir_pepe"
     ],
+    "trello": "https://trello.com/b/Ysc5QT67/revision-143",
     "href": "http://workingdraft.de/143/",
     "audio": "http://workingdraft.de/podpress_trac/web/2141/0/wd-143.mp3",
     "title": "CSS, Performance, Hörerfragen"
@@ -2127,6 +2131,7 @@
       "drublic",
       "maddesigns"
     ],
+    "trello": "https://trello.com/b/bTqq8U6q/revision-144",
     "href": "http://workingdraft.de/144/",
     "audio": "http://workingdraft.de/podpress_trac/web/2151/0/wd-144.mp3",
     "title": "RESS und unsere Deployment Strategien"
@@ -2150,6 +2155,7 @@
       "espylaub",
       "sir_pepe"
     ],
+    "trello": "https://trello.com/b/RSXbAdcZ/revision-145",
     "href": "http://workingdraft.de/145/",
     "audio": "http://workingdraft.de/podpress_trac/web/2156/0/wd-145.mp3",
     "title": "Dezentralisierung und Hoodie"
@@ -2172,6 +2178,7 @@
       "helloanselm",
       "sir_pepe"
     ],
+    "trello": "https://trello.com/b/rU9XPMiL/revision-146",
     "href": "http://workingdraft.de/146/",
     "audio": "http://workingdraft.de/podpress_trac/web/2167/0/wd-146.mp3",
     "title": "Responsive Images, Verträge und Links"
@@ -2194,6 +2201,7 @@
       "derSchepp",
       "drublic"
     ],
+    "trello": "https://trello.com/b/M3n3SH6n/revision-147",
     "href": "http://workingdraft.de/147/",
     "audio": "http://workingdraft.de/podpress_trac/web/2177/0/wd-147.mp3",
     "title": "Über das INIT Boilerplate und das Laravel PHP-Framework"
@@ -2215,6 +2223,7 @@
       "derSchepp",
       "sir_pepe"
     ],
+    "trello": "https://trello.com/b/VsnLsrwP/revision-148",
     "href": "http://workingdraft.de/148/",
     "audio": "http://workingdraft.de/podpress_trac/web/2186/0/wd-148.mp3",
     "title": "Generatoren und Mutationen"
@@ -2236,6 +2245,7 @@
       "drublic",
       "gerritvanaaken"
     ],
+    "trello": "https://trello.com/b/eLJuUVg8/revision-149",
     "href": "http://workingdraft.de/149/",
     "audio": "http://workingdraft.de/podpress_trac/web/2193/0/wd-149.mp3",
     "title": "Toolchains, WebFonts und Offline-First"
@@ -2248,6 +2258,7 @@
       "derSchepp",
       "sir_pepe"
     ],
+    "trello": "https://trello.com/b/Vcp5Gyg3/revision-150",
     "href": "http://workingdraft.de/150/",
     "audio": "http://workingdraft.de/podpress_trac/web/2198/0/wd-150.mp3",
     "title": "Kurz-Jubiläum mit News, Glücksrad und Links",
@@ -2268,6 +2279,7 @@
       "rodneyrehm",
       "sir_pepe"
     ],
+    "trello": "https://trello.com/b/kVzl6Kis/revision-151",
     "href": "http://workingdraft.de/151/",
     "audio": "http://workingdraft.de/podpress_trac/web/2225/0/wd-151.mp3",
     "title": "Myth, statische Seiten, Links"
@@ -2282,6 +2294,7 @@
       "rodneyrehm",
       "sir_pepe"
     ],
+    "trello": "https://trello.com/b/6deppt9D/revision-152",
     "href": "http://workingdraft.de/152/",
     "audio": "http://workingdraft.de/podpress_trac/web/2244/0/wd-152.mp3",
     "live": [
@@ -2304,6 +2317,7 @@
       "drublic",
       "rodneyrehm"
     ],
+    "trello": "https://trello.com/b/iM6IDNTa/revision-153",
     "href": "http://workingdraft.de/153/",
     "audio": "http://workingdraft.de/podpress_trac/web/2256/0/wd-153.mp3",
     "live": [
@@ -2328,6 +2342,7 @@
       "fhemberger",
       "sir_pepe"
     ],
+    "trello": "https://trello.com/b/iMhmWQo9/revision-154",
     "href": "http://workingdraft.de/154/",
     "audio": "http://workingdraft.de/podpress_trac/web/2262/0/wd-154.mp3",
     "live": [
@@ -2350,6 +2365,7 @@
       "rodneyrehm",
       "sir_pepe"
     ],
+    "trello": "https://trello.com/b/WBv907GY/revision-155",
     "href": "http://workingdraft.de/155/",
     "audio": "http://workingdraft.de/podpress_trac/web/2269/0/wd-155.mp3",
     "live": [
@@ -2371,6 +2387,7 @@
       "rodneyrehm",
       "sir_pepe"
     ],
+    "trello": "https://trello.com/b/Uj9HvFAm/revision-156",
     "href": "http://workingdraft.de/156/",
     "audio": "http://workingdraft.de/podpress_trac/web/2277/0/wd-156.mp3",
     "live": [
@@ -2392,8 +2409,9 @@
       "drublic",
       "rodneyrehm"
     ],
+    "trello": "https://trello.com/b/m34PnYWr/revision-157",
     "href": "http://workingdraft.de/157/",
-    "audio": "http://workingdraft.de/wp-content/uploads/mp3/wd-157.mp3",
+    "audio": "http://workingdraft.de/podpress_trac/web/2285/0/wd-157.mp3",
     "live": [
       {
         "title": "Revision 157",
@@ -2414,10 +2432,18 @@
       "sir_pepe",
       "tbaldauf"
     ],
-    "href": "",
-    "audio": "",
-    "live": true,
-    "title": ""
+    "trello": "https://trello.com/b/pVGY5rNF/revision-158",
+    "href": "http://workingdraft.de/158/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2296/0/wd-158.mp3",
+    "live": [
+      {
+        "title": "Revision 158",
+        "href": "http://livestre.am/4LQCy",
+        "duration": "00:53:56",
+        "date": "2014-02-10"
+      }
+    ],
+    "title": "Performance, Performance, Performance; sowie Leserfragen"
   },
   "159": {
     "id": 159,
@@ -2428,6 +2454,14 @@
       "ddprt",
       "rodneyrehm"
     ],
-    "live": true
-  },
+    "trello": "https://trello.com/b/E2mEugHK/revision-159",
+    "live": [
+      {
+        "title": "Revision 159",
+        "href": "http://livestre.am/4MhTE",
+        "duration": "01:58:14",
+        "date": "2014-02-17"
+      }
+    ]
+  }
 }
