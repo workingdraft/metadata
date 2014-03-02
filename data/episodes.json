@@ -2513,8 +2513,8 @@
   },
   "159": {
     "id": 159,
-    "date": null,
-    "duration": "00:00:00",
+    "date": "2014-03-02",
+    "duration": "00:56:08",
     "people": [
       "derSchepp",
       "ddprt",
@@ -2528,6 +2528,37 @@
         "duration": "01:58:14",
         "date": "2014-02-17"
       }
-    ]
+    ],
+    "href": "http://workingdraft.de/159/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2305/0/wd-159.mp3",
+    "title": "Grunt im Einsatz"
+  },
+  "160": {
+    "id": 160,
+    "date": "2014-03-02",
+    "duration": "01:17:09",
+    "people": [
+      "derSchepp",
+      "goloroden",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/Q3Fq8IiT/revision-160",
+    "live": [
+      {
+        "title": "Revision 160A",
+        "href": "http://livestre.am/4MLoC",
+        "duration": "01:02:20",
+        "date": "2014-02-24"
+      },
+      {
+        "title": "Revision 160B",
+        "href": "http://livestre.am/4MMDT",
+        "duration": "01:07:02",
+        "date": "2014-02-24"
+      }
+    ],
+    "href": "http://workingdraft.de/160/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2309/0/wd-160.mp3",
+    "title": "Node, JavaScript, Links"
   }
 }

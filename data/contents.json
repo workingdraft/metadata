@@ -15456,8 +15456,8 @@
   },
   "159": {
     "id": 159,
-    "date": null,
-    "duration": "00:00:00",
+    "date": "2014-03-02",
+    "duration": "00:56:08",
     "people": [
       {
         "name": "Christian Schaefer",
@@ -15483,6 +15483,192 @@
         "href": "http://livestre.am/4MhTE",
         "duration": "01:58:14",
         "date": "2014-02-17"
+      }
+    ],
+    "href": "http://workingdraft.de/159/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2305/0/wd-159.mp3",
+    "title": "Grunt im Einsatz",
+    "description": "Gästefrei sind diesmal Schepp, Rodney und Stefan mit am Start, um mit Grunt nach dem Hype in Klausur zu gehen.",
+    "topics": [
+      {
+        "title": "Grunt",
+        "time": "00:00:29",
+        "description": "Grunt ist ja nun schon eine Weile bekannt und im Einsatz, und erfreut sich immer größerer Beliebtheit bei den Entwicklern. Sogar Schepp hat seine selbstgebastelten Buildscripts für diverse Projekte verlassen und ist in die Grunt-Welt eingetaucht. Wird reden über den Einsatz des Buildtools in großen und kleinen Projekten, und wie man sich das effiziente Entwickeln, vor allem in Hinblick auf CI und CD ohne Grunt eigentlich nicht mehr vorstellen kann. Plugins die erwähnt werden sind unter anderem <a href=\"https://www.npmjs.org/package/grunt-spritesmith\">spritesmith</a>, <a href=\"&lt;br /&gt;\nhttps://www.npmjs.org/package/grunt-autoprefixer\">autoprefixer</a>, <a href=\"&lt;br /&gt;\nhttps://www.npmjs.org/package/grunt-svgmin\">svgmin</a>, <a href=\"&lt;br /&gt;\nhttps://www.npmjs.org/package/grunt-contrib-cssmin\">cssmin</a> und <a href=\"https://www.npmjs.org/package/grunt-connect\">connect</a>. Außerdem empfiehlt Rodney, statt <a href=\"https://www.npmjs.org/package/load-grunt-tasks\">load-grunt-tasks</a>besser <a href=\"https://www.npmjs.org/package/matchdep\">matchdep</a> zu verwenden. Wer übrigens das letzte aus Grunt herauskitzeln will, dem empfehlen wir <a href=\"http://www.html5rocks.com/en/tutorials/tooling/supercharging-your-gruntfile/\">Paul Bakaus Artikel auf HTML5 Rocks</a>"
+      }
+    ],
+    "links": [
+      {
+        "title": "Chrome CLI",
+        "href": "https://github.com/prasmussen/chrome-cli",
+        "time": "00:47:27",
+        "description": "Viel im Terminal? Mit der Chrome CLI kann man seinen Entwicklungsbrowser nun auch bequem von der Kommandozeile aus steuern."
+      },
+      {
+        "title": "What nobody told you about Sass @extend",
+        "href": "http://www.sitepoint.com/sass-extend-nobody-told-you/",
+        "time": "00:47:27",
+        "description": "Hugo Giraudel schreibt über die Funktionsweise und Gefahren der Sass <code>@extend</code> Methode."
+      },
+      {
+        "title": "Try Handlebars",
+        "href": "http://tryhandlebarsjs.com/",
+        "time": "00:47:27",
+        "description": "Handlebars templates direkt im Browser ausprobieren und sehen, ob selbstgeschriebene Helper funktionieren. Geht hier."
+      },
+      {
+        "title": "Pageres",
+        "href": "https://github.com/sindresorhus/pageres",
+        "time": "00:47:27",
+        "description": "Mit Sindre Sorhus neuem Tool kann man Screenshots von der Kommandozeile aus machen."
+      },
+      {
+        "title": "Refactoring Techniques",
+        "href": "http://www.integralist.co.uk/posts/refactoring-techniques/",
+        "time": "00:47:27",
+        "description": "Wie man richtig Refactoring betreibt wird in diesem Artikel erklärt."
+      },
+      {
+        "title": "JavaScript Code Style Checker",
+        "href": "https://github.com/mdevils/node-jscs",
+        "time": "00:47:27",
+        "description": "Ein weiterer Code Style Checker, aber höchst konfigurierbar und bis aufs kleinste anzupassen"
+      },
+      {
+        "title": "Web Animation at Work",
+        "href": "http://alistapart.com/article/web-animation-at-work",
+        "time": "00:47:27",
+        "description": "Rachel Nabors beschreibt ihr Steckenpferd in diesem List Apart Artikel."
+      },
+      {
+        "title": "Draggable elements that push others out of way",
+        "href": "http://css-tricks.com/draggable-elements-push-others-way/",
+        "time": "00:47:27",
+        "description": "Chris Coyier schreibt über ein Design Pattern, und die unterschiedlichen Wege und Bibliotheken, es zufriedenstellend umzusetzen."
+      }
+    ],
+    "tip": [
+      {
+        "title": "Including data from Github",
+        "href": "http://blog.rodneyrehm.de/archives/35-Including-Data-From-Github.html",
+        "time": "00:53:25",
+        "description": "Tipp von Rodney: Wenn man mal Github files im Rohformat braucht, hat man mit diesen Services viel Freude."
+      }
+    ]
+  },
+  "160": {
+    "id": 160,
+    "date": "2014-03-02",
+    "duration": "01:17:09",
+    "people": [
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      {
+        "name": " Golo Roden",
+        "twitter": "https://twitter.com/goloroden"
+      },
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      }
+    ],
+    "trello": "https://trello.com/b/Q3Fq8IiT/revision-160",
+    "live": [
+      {
+        "title": "Revision 160A",
+        "href": "http://livestre.am/4MLoC",
+        "duration": "01:02:20",
+        "date": "2014-02-24"
+      },
+      {
+        "title": "Revision 160B",
+        "href": "http://livestre.am/4MMDT",
+        "duration": "01:07:02",
+        "date": "2014-02-24"
+      }
+    ],
+    "href": "http://workingdraft.de/160/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2309/0/wd-160.mp3",
+    "title": "Node, JavaScript, Links",
+    "description": "Für diese Revision luden sich Schepp und Peter den Node-Nerd Golo Roden (<a href=\"https://twitter.com/goloroden\">Twitter</a>, <a href=\"http://www.goloroden.de/\">Webseite</a>) ein und plauderten über Node.JS und ganz allgemein den Zustand von JavaScript in Gegenwart und Zukunft.",
+    "topics": [
+      {
+        "title": "JavaScript aus der Perspektive eines Backend-Entwicklers",
+        "time": "00:01:50",
+        "description": "Golo erzählt, wie man aus der C#-Welt an JavaScript gerät und das ganze dann auch vernünftig lernt. Gemeinsam sind wir der Auffassung, dass nach den ersten Copy-Paste-Basteleien die Lektüre von <a href=\"http://www.oreilly.de/catalog/9780596517748/\">The Good Parts</a> und <a href=\"http://shop.oreilly.com/product/9780596805531.do\">The Definitive Guide</a> angebracht sind."
+      },
+      {
+        "title": "ES6 und Async",
+        "time": "00:15:50",
+        "description": "Golo und Peter debattieren die Vor- und Nachteile von ES6-Features wie <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/arrow_functions\">Arrow Functions</a>, <a href=\"http://tc39wiki.calculist.org/es6/classes/\">Klassen</a> und <a href=\"http://www.peterkroener.de/ecmascript-6-generators/\">Generator Functions</a> (nebst <a href=\"https://github.com/visionmedia/co\">Libraries</a>), wobei neben <a href=\"https://github.com/caolan/async\">Async.js</a> auch die Artikel <a href=\"http://steve-yegge.blogspot.de/2006/03/execution-in-kingdom-of-nouns.html\">Execution in the Kingdom of Nouns</a> und <a href=\"http://www.paulgraham.com/diff.html\">What Made Lisp different</a> zur Sprache kommen."
+      },
+      {
+        "title": "Node 0.12",
+        "time": "00:43:22",
+        "description": "Nachdem wir festgestellt haben, dass wir alle schon Node benutzt haben bevor es cool war (Version 0.4) erzählt Golo ein wenig über das kommende Node-Release 0.12. Wir sprechen über instabile APIs und Module, <a href=\"https://github.com/visionmedia\">TJ Holowaychuk</a>, <a href=\"https://github.com/zpao/spidernode\">SpiderNode</a> (mittlerweile eingestellt) und die Causa Joyent versus Strongloop."
+      },
+      {
+        "title": "Hörer-Frage: Koa vs Express",
+        "href": "https://twitter.com/mkuehnel/status/437690535047069696",
+        "time": "00:57:50",
+        "description": "Bei der Frage <a href=\"http://expressjs.com/\">Express</a> versus <a href=\"http://koajs.com/\">Koa</a> (beides Webframeworks) sind wir uns einig: Koa taugt erstmal nur als Spielzeug. Golo weist darauf hin, dass ES6 noch nicht in Node Standardmäßig aktiviert ist und Peter hat obendrein noch kein Vertrauen in die Stabilität von Koa selbst. Der aktuelle Hype erinnert uns ein wenig an die leicht überhypte Frage <a href=\"http://gruntjs.com/\">Grunt</a> versus <a href=\"http://gulpjs.com/\">Gulp</a>."
+      },
+      {
+        "title": "Wie lernt man am besten Node?",
+        "time": "01:03:44",
+        "description": "Peter behauptet, Node wäre ganz einfach, sofern man JavaScript schon kann; die APIs lernt man besten, indem man wie in jeder anderen Programmiersprache einfache Programme schreibt. Golo geht im Prinzip d‘accord, sieht die größte Hürde im etwas unübersichtlichen Ökosystem von Node. Hilfe findet man natürlich am besten in Golos Buch <a href=\"http://www.amazon.de/Node-js-hochperformante-echtzeitf%C3%A4hige-Webanwendungen-professionell/dp/389864829X\">Node.js &amp; Co: Skalierbare, hochperformante und echtzeitfähige Webanwendungen professionell in JavaScript entwickeln</a>."
+      },
+      {
+        "title": "EnterJS",
+        "href": "http://www.enterjs.de/",
+        "time": "01:09:27",
+        "description": "Golo erzählt von seiner Konferenz EnterJS, die vom 30. Juni bis 2. Juli in Köln stattfindet. Thema ist JavaScript im Unternehmenskontext."
+      }
+    ],
+    "links": [
+      {
+        "title": "Random User Generator",
+        "href": "http://randomuser.me/",
+        "time": "01:13:19",
+        "description": "Placekitten für User-Daten."
+      },
+      {
+        "title": "noPrefixes flag in Modernizr",
+        "href": "http://fettblog.eu/blog/2014/02/20/no-prefixes/",
+        "time": "01:13:19",
+        "description": "Stefan bloggt über Fortschritte im Kampf gegen Vendor-Prefixes an der Modernizr-Front"
+      },
+      {
+        "title": "Installable Standalone WebApps",
+        "href": "https://github.com/w3c-webmob/installable-webapps/blob/gh-pages/ios_standalone/README.md",
+        "time": "01:13:19",
+        "description": "Ein Überblick über den Status Quo."
+      },
+      {
+        "title": "WURFL.js – Client Side, meet Server Side",
+        "href": "http://wurfljs.com/",
+        "time": "01:13:19",
+        "description": "Die bekannte Device Detection Library jetzt auch clientseitig."
+      },
+      {
+        "title": "The 4 Slice Scaling Technique for SVG",
+        "href": "http://w3.eleqtriq.com/2014/02/the-4-slice-scaling-technique-for-svg/",
+        "time": "01:13:19",
+        "description": "SVG-Nerd Dirk Weber SVG-Slicing für Fortgeschrittene."
+      },
+      {
+        "title": "Using blend modes in HTML Canvas",
+        "href": "http://blogs.adobe.com/webplatform/2014/02/24/using-blend-modes-in-html-canvas/",
+        "time": "01:13:19",
+        "description": "Ein weniger bekanntes HTML5-Feature wird vom Adobe-Team beleuchtet."
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": 159,
-  "date": null,
-  "duration": "00:00:00",
+  "date": "2014-03-02",
+  "duration": "00:56:08",
   "people": [
     {
       "name": "Christian Schaefer",
@@ -27,6 +27,75 @@
       "href": "http://livestre.am/4MhTE",
       "duration": "01:58:14",
       "date": "2014-02-17"
+    }
+  ],
+  "href": "http://workingdraft.de/159/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2305/0/wd-159.mp3",
+  "title": "Grunt im Einsatz",
+  "description": "Gästefrei sind diesmal Schepp, Rodney und Stefan mit am Start, um mit Grunt nach dem Hype in Klausur zu gehen.",
+  "topics": [
+    {
+      "title": "Grunt",
+      "time": "00:00:29",
+      "description": "Grunt ist ja nun schon eine Weile bekannt und im Einsatz, und erfreut sich immer größerer Beliebtheit bei den Entwicklern. Sogar Schepp hat seine selbstgebastelten Buildscripts für diverse Projekte verlassen und ist in die Grunt-Welt eingetaucht. Wird reden über den Einsatz des Buildtools in großen und kleinen Projekten, und wie man sich das effiziente Entwickeln, vor allem in Hinblick auf CI und CD ohne Grunt eigentlich nicht mehr vorstellen kann. Plugins die erwähnt werden sind unter anderem <a href=\"https://www.npmjs.org/package/grunt-spritesmith\">spritesmith</a>, <a href=\"&lt;br /&gt;\nhttps://www.npmjs.org/package/grunt-autoprefixer\">autoprefixer</a>, <a href=\"&lt;br /&gt;\nhttps://www.npmjs.org/package/grunt-svgmin\">svgmin</a>, <a href=\"&lt;br /&gt;\nhttps://www.npmjs.org/package/grunt-contrib-cssmin\">cssmin</a> und <a href=\"https://www.npmjs.org/package/grunt-connect\">connect</a>. Außerdem empfiehlt Rodney, statt <a href=\"https://www.npmjs.org/package/load-grunt-tasks\">load-grunt-tasks</a>besser <a href=\"https://www.npmjs.org/package/matchdep\">matchdep</a> zu verwenden. Wer übrigens das letzte aus Grunt herauskitzeln will, dem empfehlen wir <a href=\"http://www.html5rocks.com/en/tutorials/tooling/supercharging-your-gruntfile/\">Paul Bakaus Artikel auf HTML5 Rocks</a>"
+    }
+  ],
+  "links": [
+    {
+      "title": "Chrome CLI",
+      "href": "https://github.com/prasmussen/chrome-cli",
+      "time": "00:47:27",
+      "description": "Viel im Terminal? Mit der Chrome CLI kann man seinen Entwicklungsbrowser nun auch bequem von der Kommandozeile aus steuern."
+    },
+    {
+      "title": "What nobody told you about Sass @extend",
+      "href": "http://www.sitepoint.com/sass-extend-nobody-told-you/",
+      "time": "00:47:27",
+      "description": "Hugo Giraudel schreibt über die Funktionsweise und Gefahren der Sass <code>@extend</code> Methode."
+    },
+    {
+      "title": "Try Handlebars",
+      "href": "http://tryhandlebarsjs.com/",
+      "time": "00:47:27",
+      "description": "Handlebars templates direkt im Browser ausprobieren und sehen, ob selbstgeschriebene Helper funktionieren. Geht hier."
+    },
+    {
+      "title": "Pageres",
+      "href": "https://github.com/sindresorhus/pageres",
+      "time": "00:47:27",
+      "description": "Mit Sindre Sorhus neuem Tool kann man Screenshots von der Kommandozeile aus machen."
+    },
+    {
+      "title": "Refactoring Techniques",
+      "href": "http://www.integralist.co.uk/posts/refactoring-techniques/",
+      "time": "00:47:27",
+      "description": "Wie man richtig Refactoring betreibt wird in diesem Artikel erklärt."
+    },
+    {
+      "title": "JavaScript Code Style Checker",
+      "href": "https://github.com/mdevils/node-jscs",
+      "time": "00:47:27",
+      "description": "Ein weiterer Code Style Checker, aber höchst konfigurierbar und bis aufs kleinste anzupassen"
+    },
+    {
+      "title": "Web Animation at Work",
+      "href": "http://alistapart.com/article/web-animation-at-work",
+      "time": "00:47:27",
+      "description": "Rachel Nabors beschreibt ihr Steckenpferd in diesem List Apart Artikel."
+    },
+    {
+      "title": "Draggable elements that push others out of way",
+      "href": "http://css-tricks.com/draggable-elements-push-others-way/",
+      "time": "00:47:27",
+      "description": "Chris Coyier schreibt über ein Design Pattern, und die unterschiedlichen Wege und Bibliotheken, es zufriedenstellend umzusetzen."
+    }
+  ],
+  "tip": [
+    {
+      "title": "Including data from Github",
+      "href": "http://blog.rodneyrehm.de/archives/35-Including-Data-From-Github.html",
+      "time": "00:53:25",
+      "description": "Tipp von Rodney: Wenn man mal Github files im Rohformat braucht, hat man mit diesen Services viel Freude."
     }
   ]
 }
