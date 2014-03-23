@@ -5,7 +5,8 @@
   "people": [
     {
       "name": "Christian Heilmann",
-      "twitter": "https://twitter.com/codepo8"
+      "twitter": "https://twitter.com/codepo8",
+      "web": "http://christianheilmann.com/"
     },
     {
       "name": "Christian Schaefer",

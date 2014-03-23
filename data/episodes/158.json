@@ -4,11 +4,12 @@
   "duration": "01:02:43",
   "people": [
     {
-      "name": "Christian Schaefer",
+      "name": "Stefan Baumgartner",
       "team": [
-        "2010-11-09"
+        "2013-06-09"
       ],
-      "twitter": "https://twitter.com/derSchepp"
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
     },
     {
       "name": "Hans Christian Reinl",
@@ -43,7 +44,7 @@
     }
   ],
   "title": "Performance, Performance, Performance; sowie Leserfragen",
-  "description": "In der heutigen Revision haben Hans, Peter und Schepp den Performance-König <a href=\"http://tobias.is/who/\">Tobias Baldauf</a> eingeladen, um über aktuelle Trends und gute Ratschläge in Sachen Webperformance zu plaudern.",
+  "description": "In der heutigen Revision haben Hans, Peter und Stefan den Performance-König <a href=\"http://tobias.is/who/\">Tobias Baldauf</a> eingeladen, um über aktuelle Trends und gute Ratschläge in Sachen Webperformance zu plaudern.",
   "news": [
     {
       "title": "Firefox 27",
