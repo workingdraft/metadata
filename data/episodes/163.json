@@ -1,0 +1,39 @@
+{
+  "id": 163,
+  "date": null,
+  "duration": "00:00:00",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "trello": "https://trello.com/b/HrENwAYk/revision-163",
+  "live": [
+    {
+      "title": "Revision 163",
+      "href": "http://livestre.am/4NWWt",
+      "duration": "01:22:37",
+      "date": "2014-03-17"
+    }
+  ]
+}

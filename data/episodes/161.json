@@ -1,0 +1,83 @@
+{
+  "id": 161,
+  "date": "2014-03-11",
+  "duration": "01:14:52",
+  "people": [
+    {
+      "name": "asciidisco",
+      "twitter": "https://twitter.com/asciidisco"
+    },
+    {
+      "name": "Christian Heilmann",
+      "twitter": "https://twitter.com/codepo8",
+      "web": "http://christianheilmann.com/"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    }
+  ],
+  "trello": "https://trello.com/b/7eK1msZe/revision-161",
+  "live": [
+    {
+      "title": "Revision 161",
+      "href": "http://livestre.am/4Nc0p",
+      "duration": "01:59:07",
+      "date": "2014-03-03"
+    }
+  ],
+  "href": "http://workingdraft.de/161/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2318/0/wd-161.mp3",
+  "title": "Too Easy, Didn’t Learn",
+  "description": "Es war Rosenmontag und der großteil des Workingdraft-Teams bereitete sich auf das halten diverser Workshops vor. Um einem Monolog zu entkommen lud sich Rodney die Herren <a href=\"http://christianheilmann.com/\">Christian Heilmann</a> und <a href=\"http://asciidisco.com/\">Sebastian Golasch</a> ein, um ein wenig über Christians Vortrag an der <a href=\"http://www.gentics.com/jquery-eu-2014/page/2014/eu.html\">jQuery Europe</a> zu schnacken.",
+  "topics": [
+    {
+      "title": "TE;DL – Too Easy, Didn’t Learn (video)",
+      "href": "http://videoservice.apa.at/Player/UniversalPlayer.aspx?guid=5abd4cdf-1b84-4837-aa4d-0e75732fa8c2",
+      "time": "00:01:04",
+      "description": "Mit jedem Tool und mit jeder Abstraktion vereinfachen wir uns die Arbeit. Was wir jedoch nicht vereinfachen ist das Lernen und Verstehen der Dinge, die wir in eine Abstraktion oder Tool gepresst haben. Wir beleuchten den »Just build a tool for that«-Hype einmal von der anderen Seite."
+    },
+    {
+      "title": "W3C HTML JSON form submission (Unofficial Draft)",
+      "href": "http://darobin.github.io/formic/specs/json/",
+      "time": "00:46:04",
+      "description": "Ein Vorschlag <code>&lt;form&gt;</code> Elemente neben <code>application/x-www-form-urlencoded</code> auch als <code>application/json</code> absenden zu lassen. Wir diskutieren die Vorzüge und Probleme des Vorschlags. Wir kommen auch kurz auf das recht unbekannte Objekt <a href=\"https://developer.mozilla.org/en-US/docs/Web/Guide/Using_FormData_Objects\"><code>FormData</code></a> zu sprechen, von dem wir dachten, dass es den Umgang mit Formularen bereits vereinfachen würde &#8211; was sich dann leider doch nicht als der heilige Gral der Formulardatenverarbeitung herausstellt."
+    }
+  ],
+  "links": [
+    {
+      "title": "CSS performance revisited: selectors, bloat and expensive styles",
+      "href": "http://benfrain.com/css-performance-revisited-selectors-bloat-expensive-styles/",
+      "time": "01:06:53",
+      "description": "Komplexe CSS Selektoren sind wohl eine kleinere Bremse als überschüssiges, ungenützes CSS."
+    },
+    {
+      "title": "Cross-browser Web Fonts part 3: Hyphens, Text Rendering, and Font Feature Settings",
+      "href": "http://www.sitepoint.com/cross-browser-web-fonts-part-3/",
+      "time": "01:06:53",
+      "description": "Der Artikel erklärt wie das Beeinflussen von Ligaturen, Kerning, Fractionals, Ordinals, etc. funktioniert."
+    },
+    {
+      "title": "How to Use The HTML5 Sectioning Elements",
+      "href": "http://blog.teamtreehouse.com/use-html5-sectioning-elements#tw.2242014",
+      "time": "01:06:53",
+      "description": "Wann nutze ich <code>&lt;section&gt;</code>, wann <code>&lt;article&gt;</code> und wann doch lieber nur ein <code>&lt;div&gt;</code>?"
+    },
+    {
+      "title": "layout thrashing in jQuery",
+      "href": "https://gist.github.com/desandro/4657744",
+      "time": "01:06:53",
+      "description": "Welche jQuery-Funktionen können sich negativ auf die Rendering-Performance auswirken?"
+    },
+    {
+      "title": "Rewriting A WebApp in ES6",
+      "href": "http://blog.tastejs.com/rewriting-a-webapp-with-ecmascript-6/",
+      "time": "01:06:53",
+      "description": "Man nehme eine Backbone Applikation und schreibe große Teile davon mit EcmaScript6 neu. Weil man kann."
+    }
+  ]
+}

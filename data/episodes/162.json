@@ -1,0 +1,107 @@
+{
+  "id": 162,
+  "date": "2014-03-23",
+  "duration": "01:09:05",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": " Marco Zehe",
+      "twitter": "https://twitter.com/MarcoZehe",
+      "web": "http://www.zehe-edv.de/"
+    },
+    {
+      "name": " Thomas Caspers",
+      "twitter": "https://twitter.com/tcaspers",
+      "web": "http://tomascaspers.de/"
+    }
+  ],
+  "trello": "https://trello.com/b/lrEkcMmB/revision-162",
+  "live": [
+    {
+      "title": "Revision 162",
+      "href": "http://livestre.am/4NypG",
+      "duration": "02:02:40",
+      "date": "2014-03-10"
+    }
+  ],
+  "href": "http://workingdraft.de/162/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2331/0/wd-162.mp3",
+  "title": "Indie UI",
+  "description": "In Revision 162 sind zwei Gäste mit von der Partie. Zum einen Mozillas Accessibility Experte <a href=\"http://www.zehe-edv.de/\">Marco Zehe</a>, der bereits zu Gast war, sowie <a href=\"http://tomascaspers.de/\">Tomas Caspers</a>, der sich seit vielen Jahren mit dem Thema Accessibility beschäftigt und bei uns zum ersten Mal dabei ist.",
+  "news": [
+    {
+      "title": "Sass 3.3.0",
+      "href": "http://blog.sass-lang.com/posts/184094-sass-33-is-released",
+      "time": "00:01:43",
+      "description": "Sass ist in der Version 3.3.0 veröffentlicht worden und bringt einige Neuerungen mit sich."
+    }
+  ],
+  "topics": [
+    {
+      "title": "Indie UI und Accessibility",
+      "href": "http://www.w3.org/WAI/IndieUI/",
+      "time": "00:02:28",
+      "description": "Mit unseren beiden Themen-Gästen sprechen wir über das Thema Accessibility. Aufhänger dafür ist der Editors-Draft zu Indie UI, der sich mit der Verallgemeinerung von <a href=\"https://dvcs.w3.org/hg/IndieUI/raw-file/default/src/indie-ui-events.html\">Benutzer-Input Events</a> und <a href=\"https://dvcs.w3.org/hg/IndieUI/raw-file/default/src/indie-ui-context.html\">sichtbaren Einstellungen</a> beschäftigt.<br>\nMarco ist, wie auch <a href=\"http://tink.co.uk/2014/02/thoughts-on-screen-reader-detection/\">manch anderer</a>, mit dem Konzept von Indie UI <a href=\"http://www.marcozehe.de/2014/02/27/why-screen-reader-detection-on-the-web-is-a-bad-thing/\">nicht so ganz einverstanden</a> und diskutiert seine Position mit Tomas, der den Ansatz der Spezifikation schon mal <a href=\"http://www.karlgroves.com/2014/02/28/should-we-detect-screen-readers-is-the-wrong-question/\">richtig findet</a>.<br>\nIm Laufe der Diskussion driften wir auf die Erfahrungen der beiden mit dem allgemeinen Thema Accessibility ab."
+    }
+  ],
+  "links": [
+    {
+      "title": "Grunt YSlow",
+      "href": "http://andyshora.com/grunt-yslow.html",
+      "time": "01:03:25",
+      "description": "Grunt YSlow ist eine Grunt Task, die die Performance einer Website anhand der Metriken von Yahoo!s YSlow analysiert."
+    },
+    {
+      "title": "Grunt PageSpeed",
+      "href": "https://www.npmjs.org/package/grunt-pagespeed",
+      "time": "01:03:25",
+      "description": "Grunt PageSpeed ist das Pendant zur YSlow Implementierung als Grunt Task, basierend auf Google PageSpeed."
+    },
+    {
+      "title": "Parker",
+      "href": "https://github.com/katiefenn/parker",
+      "time": "01:03:25",
+      "description": "Das CSS Analyse-Tool Parker ermittelt Metriken eines Stylesheets und ist als CLI verfügbar."
+    },
+    {
+      "title": "Bootstrap Accessibility Plugin",
+      "href": "https://github.com/paypal/bootstrap-accessibility-plugin",
+      "time": "01:03:25",
+      "description": "Die Entwickler bei Paypal haben die Grundfunktionalität von Bootstrap so erweitert, dass die einzelnen Module zugänglicher sind und dies in ein Plugin verpackt."
+    },
+    {
+      "title": "Umstieg von Mac auf Windows",
+      "href": "http://www.zehe-edv.de/2014/02/07/ich-kehre-zu-windows-zurueck/",
+      "time": "01:03:25",
+      "description": "Marco hat sich für die Rückkehr zu Windows entschieden und beschreibt warum er diesen Schritt geht."
+    },
+    {
+      "title": "Content Strategy Forum",
+      "href": "http://csforum2014.com/",
+      "time": "01:03:25",
+      "description": "Vom 1. bis 3. Juli findet in Frankfurt das Content Strategy Forum. Im Call For Papers sind die Organisatoren auch an Front-End Entwicklung und die Schnittmengen mit der Content-Erstellung interessiert."
+    }
+  ]
+}

@@ -178,7 +178,8 @@
   },
   "codepo8": {
     "name": "Christian Heilmann",
-    "twitter": "https://twitter.com/codepo8"
+    "twitter": "https://twitter.com/codepo8",
+    "web": "http://christianheilmann.com/"
   },
   "thedeftone": {
     "name": "Jan Monschke",
@@ -242,6 +243,17 @@
   },
   "goloroden": {
     "name": " Golo Roden",
-    "twitter": "https://twitter.com/goloroden"
+    "twitter": "https://twitter.com/goloroden",
+    "web": "http://www.goloroden.de/"
+  },
+  "tcaspers": {
+    "name": " Thomas Caspers",
+    "twitter": "https://twitter.com/tcaspers",
+    "web": "http://tomascaspers.de/"
+  },
+  "MarcoZehe": {
+    "name": " Marco Zehe",
+    "twitter": "https://twitter.com/MarcoZehe",
+    "web": "http://www.zehe-edv.de/"
   }
 }
