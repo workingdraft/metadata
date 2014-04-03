@@ -15874,8 +15874,8 @@
   },
   "163": {
     "id": 163,
-    "date": null,
-    "duration": "00:00:00",
+    "date": "2014-03-26",
+    "duration": "00:46:20",
     "people": [
       {
         "name": "Christian Schaefer",
@@ -15908,6 +15908,68 @@
         "href": "http://livestre.am/4NWWt",
         "duration": "01:22:37",
         "date": "2014-03-17"
+      }
+    ],
+    "href": "http://workingdraft.de/163/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2329/0/wd-163.mp3",
+    "title": "CSS-Glücksrad und Links",
+    "description": "Mangels Themen zockten sich Hans, Schepp und Peter durch vier Runden CSS-Glücksrad. Nachdem sie dort keine großen Erfolge feiern konnten, verlasen sie die Links und ließen es gut sein.",
+    "randomSpec": [
+      {
+        "title": "CSS Conditionals",
+        "href": "http://www.w3.org/TR/css3-conditional/",
+        "time": "00:00:50",
+        "description": "Eine Spezifikation aus der Abteilung CSS-Fundament, zu deren Unterpunkt <a href=\"http://www.w3.org/TR/css3-conditional/#at-media\">@media-Syntax</a> uns nicht viel einfiel. Schepp erklärte das only-Keyword in Media Queries und am Ende schweiften wir in Richtung Cargo-Cult-Techniken in CSS und JS ab."
+      },
+      {
+        "title": "CSS Marquee",
+        "href": "http://www.w3.org/TR/css3-marquee/",
+        "time": "00:07:27",
+        "description": "Marquee in CSS? Gibt es weder auf Caniuse noch in MDN noch, wie wir feststellen mussten, in irgendeinem Browser. Über mögliche Use Cases dachten wir trotzdem ein wenig nach."
+      },
+      {
+        "title": "CSS Transforms",
+        "href": "http://www.w3.org/TR/css3-transforms/",
+        "time": "00:13:59",
+        "description": "CSS-Transforms kann man über bequeme Funktionen, aber auch über <a href=\"http://www.w3.org/TR/css3-transforms/#matrix-interpolation\">Transformationsmatrizen</a> festlegen. Wir stellten fest, dass wir diese Möglichkeit bisher eher selten nutzen, was daran liegt, dass wir eher selten CSS-Transformationen durch Code errechnen lassen (dann dafür wären sie gut geeignet). Ein weiteres interessantes Detail ist, dass das <a href=\"http://dev.w3.org/csswg/cssom/\">CSS OM</a> beim Abfragen von Transformationen immer mit Matrizen antwortet. Schließlich schweifen wir in Richtung <a href=\"http://www.w3.org/TR/css3-transforms/#funcdef-skew\">skew-Transforms</a> ab (die Schepp mal für Schatteneffekte brauchte) und reden über die Auswirkungen von <a href=\"http://www.peterkroener.de/fragen-zu-html5-und-co-beantwortet-7-doctypes-css-transformationen-codecs-semantik/\">Transforms auf den Stacking Context</a> (die es <a href=\"http://www.w3.org/TR/css3-color/#transparency\">auch bei opacity</a> geben soll)."
+      },
+      {
+        "title": "CSS Selectors Level 4",
+        "href": "http://www.w3.org/TR/selectors4/",
+        "time": "00:27:00",
+        "description": "Nachdem Peter ein wenig über <a href=\"http://www.w3.org/TR/selectors/#empty-pseudo\">:empty in Selectors Level 3</a> (kaputt) und <a href=\"http://www.w3.org/TR/selectors4/#the-blank-pseudo\">:blank in Selectors Level 4</a> (nicht kaputt) gerantet hatte, versuchten wir ohne großen Erfolg das Wesen der <a href=\"http://www.w3.org/TR/selectors4/#table-pseudos\">Grid-Structural Selectors</a> zu erraten. Mehr Erfolg haben wir bei den Themen Parent Selector, <a href=\"http://www.w3.org/TR/selectors/#last-child-pseudo\">:last-child</a> und den technischen (Performance-)Probleme dahinter. Zum Schluss erklärte Peter nochmal kurz, warum es kein CSS4 gibt und wir stellten erfreut fest, dass die Kombinatoren <code>+</code> und <code>~</code> selbst im IE7 funktionieren."
+      }
+    ],
+    "links": [
+      {
+        "title": "Popping Out of Hidden Overflow",
+        "href": "http://css-tricks.com/popping-hidden-overflow/",
+        "time": "00:41:40",
+        "description": "Beschreibt einen interessanten Edge Case bei der Arbeit mit Overflows in CSS."
+      },
+      {
+        "title": "Custom CSS preprocessing",
+        "href": "http://nicolasgallagher.com/custom-css-preprocessing/",
+        "time": "00:41:40",
+        "description": "Wie man sein eigenes kleines CSS-Tool baut."
+      },
+      {
+        "title": "codefest.herzogtumcleve.de",
+        "href": "http://codefest.herzogtumcleve.de/",
+        "time": "00:41:40",
+        "description": "Ein aus rheinischer Solidarität gespeister Tipp von Schepp."
+      },
+      {
+        "title": "Lesser-Known JavaScript Debugging Techniques",
+        "href": "http://amasad.me/2014/03/09/lesser-known-javascript-debugging-techniques/",
+        "time": "00:41:40",
+        "description": "Besonders interessant: die DebugUtils."
+      },
+      {
+        "title": "Stylestats",
+        "href": "https://github.com/t32k/stylestats",
+        "time": "00:41:40",
+        "description": "Produziert interessante Statistiken zu Stylesheets."
       }
     ]
   }

@@ -2609,8 +2609,8 @@
   },
   "163": {
     "id": 163,
-    "date": null,
-    "duration": "00:00:00",
+    "date": "2014-03-26",
+    "duration": "00:46:20",
     "people": [
       "derSchepp",
       "drublic",
@@ -2624,6 +2624,9 @@
         "duration": "01:22:37",
         "date": "2014-03-17"
       }
-    ]
+    ],
+    "href": "http://workingdraft.de/163/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2329/0/wd-163.mp3",
+    "title": "CSS-Glücksrad und Links"
   }
 }
