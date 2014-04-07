@@ -74,7 +74,8 @@
   },
   "makochnet": {
     "name": "Marcel Koch",
-    "twitter": "https://twitter.com/makochnet"
+    "twitter": "https://twitter.com/makochnet",
+    "web": "http://www.marcelkoch.net/"
   },
   "helloanselm": {
     "name": "Anselm Hannemann",
@@ -265,11 +266,5 @@
     "name": "Marius Eisenbraun",
     "twitter": "https://twitter.com/Mr_Eis",
     "web": "http://marius-eisenbraun.de/"
-  },
-  "makochnet": {
-    "name": "Marcel Koch",
-    "twitter": "https://twitter.com/makochnet",
-    "web": "http://www.marcelkoch.net/"
   }
-
 }
