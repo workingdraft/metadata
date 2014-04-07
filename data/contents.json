@@ -4216,7 +4216,8 @@
       },
       {
         "name": "Marcel Koch",
-        "twitter": "https://twitter.com/makochnet"
+        "twitter": "https://twitter.com/makochnet",
+        "web": "http://www.marcelkoch.net/"
       }
     ],
     "href": "http://workingdraft.de/50/",
@@ -15794,12 +15795,12 @@
         "web": "http://drublic.de/"
       },
       {
-        "name": " Marco Zehe",
+        "name": "Marco Zehe",
         "twitter": "https://twitter.com/MarcoZehe",
         "web": "http://www.zehe-edv.de/"
       },
       {
-        "name": " Thomas Caspers",
+        "name": "Thomas Caspers",
         "twitter": "https://twitter.com/tcaspers",
         "web": "http://tomascaspers.de/"
       }
@@ -15970,6 +15971,136 @@
         "href": "https://github.com/t32k/stylestats",
         "time": "00:41:40",
         "description": "Produziert interessante Statistiken zu Stylesheets."
+      }
+    ]
+  },
+  "164": {
+    "id": 164,
+    "date": "2014-04-05",
+    "duration": "01:15:50",
+    "people": [
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-11-03"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Fabian Beiner",
+        "twitter": "https://twitter.com/FabianBeiner",
+        "web": "http://fabian-beiner.de/"
+      },
+      {
+        "name": "Marcel Koch",
+        "twitter": "https://twitter.com/makochnet",
+        "web": "http://www.marcelkoch.net/"
+      },
+      {
+        "name": "Marius Eisenbraun",
+        "twitter": "https://twitter.com/Mr_Eis",
+        "web": "http://marius-eisenbraun.de/"
+      }
+    ],
+    "trello": "https://trello.com/b/bsmlQj5K/revision-164",
+    "live": true,
+    "href": "http://workingdraft.de/164/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2345/0/wd-164.mp3",
+    "title": "Die Welt der WebagenturenGewinnspiel",
+    "description": "Die Revision 164 ist mit einigen Gästen gespickt: <a href=\"http://fabian-beiner.de/de/artikel/\">Fabian Beiner</a>, <a href=\"http://marius-eisenbraun.de/\">Marius Eisenbraun</a> und <a href=\"http://www.marcelkoch.net/\">Marcel Koch</a>. Drei unterschiedliche Gäste, mit denen wir über ein Thema sprechen, das uns alle zusammenführt: Wie funktioniert unsere Branche?",
+    "news": [
+      {
+        "title": "Hack",
+        "href": "http://hacklang.org/",
+        "time": "00:02:30",
+        "description": "Hack ist eine Erweiterung von PHP, auf der Virtuellen Maschine HVVM läuft und die Sprache um Typensicherheit ergänzt."
+      }
+    ],
+    "topics": [
+      {
+        "title": "Einstieg in die Berufswelt des Web",
+        "time": "00:03:22",
+        "description": "Marius ist daran interessiert, wie der Einstieg in die Berufswelt eines Web-Entwicklers einfach ist. Wir sprechen über Sprungbretter, wie Agenturen und Open Source Projekte."
+      },
+      {
+        "title": "Wie funktioniert eine Webagentur?",
+        "time": "00:22:42",
+        "description": "Im Allgemeinen sind Agenturen oft etwas anders organisiert, als Teams, die an einem Produkt arbeiten. Die Vor- und Nachteile für uns Web-Entwickler sind ein Diskussionspunkt. Mit Marcel haben wir einen Agentur-Arbeiter dabei, Hans, der Schepp und Fabian haben durch ihrer freiberufliche Tätigkeit immer wieder Berührungspunkte mit Agenturen. Jeder berichtet ein bisschen über seine Erfahrungen."
+      },
+      {
+        "title": "DevCamp Karlsruhe",
+        "href": "http://www.nerd-zone.com/devcamp/",
+        "time": "00:35:20",
+        "description": "Das Developer-Camp in Karlsruhe richtete sich an Developer aus alle Bereichen &#8211; nicht nur Web. Fabian spricht über seine Erfahrungen mit diesem und auch anderen BarCamps. Wir diskutieren über deren Bedeutung für unsere Szene und deren Besucher."
+      },
+      {
+        "title": "JavaScript Minifier-Tools",
+        "href": "https://twitter.com/bitbonk/status/448134492356882432",
+        "time": "00:43:06",
+        "description": "<a href=\"https://twitter.com/bitbonk\">@bitbonk</a> fragt:<p></p>\n<blockquote class=\"twitter-tweet\" lang=\"en\"><p><a href=\"https://twitter.com/workingdraft\">@workingdraft</a> Welchem JavaScript minifier gebt ihr den Vorzug? <a href=\"https://twitter.com/search?q=%23noobquestion&amp;src=hash\">#noobquestion</a></p>\n<p>&mdash; bit bonk (@bitbonk) <a href=\"https://twitter.com/bitbonk/statuses/448134492356882432\">March 24, 2014</a></p></blockquote>\n<p><br>\nWir sind der Meinung, dass es nicht unbedingt drauf ankommt, dass man ein bestimmtest Tool, wie Uglify oder Closure Compiler verwendet, sondern dass überhaupt einen zur Anwendung bringt.\n</p>"
+      },
+      {
+        "title": "Unobtrusive Javascript vs. Angular, Backbone and Co.",
+        "time": "00:52:34",
+        "description": "Heut zu Tage gibt es sehr viele Single Page Applications und Webpages, die ohne JavaScript keinerlei Funktion mehr bieten. Ein Diskussionspunkt über den wir schon öfter sprachen. Doch diesmal führt uns die Diskussion zum Thema, was eigentlich eine App und was eine Website ist."
+      }
+    ],
+    "links": [
+      {
+        "title": "Introducing the Canvas Debugger in Firefox Developer Tools",
+        "href": "https://hacks.mozilla.org/2014/03/introducing-the-canvas-debugger-in-firefox-developer-tools/",
+        "time": "01:08:38",
+        "description": "Mozilla implementiert (neben einem <a href=\"https://brendaneich.com/2014/03/mozilla-news/\">neuen CEO</a>) einen Debugger für das Canvas-Element, mit dessen Hilfe es leichter wird, mit <code>&lt;canvas&gt;</code> zu arbeiten."
+      },
+      {
+        "title": "Picture element implementation in Blink",
+        "href": "http://www.indiegogo.com/projects/picture-element-implementation-in-blink",
+        "time": "01:08:38",
+        "description": "Eine IndieGoGo Kampagne zur Implementierung des Picture elements in Blink von <a href=\"http://blog.yoav.ws/\">Yoav Weiss</a>. Unserer Meinung nach unterstützenswert."
+      },
+      {
+        "title": "HarpJS",
+        "href": "http://harpjs.com/",
+        "time": "01:08:38",
+        "description": "Ein weiterer Statischer Webseiten Generator."
+      },
+      {
+        "title": "Bootstrapping Design eBook: Become the Designer your Startup needs.",
+        "href": "http://bootstrappingdesign.com/",
+        "time": "01:08:38",
+        "description": "Dieses design-lastige Buch ist &#8211; laut Marcels Empfehlung &#8211; auch sehr für Programmierer geeignet."
+      },
+      {
+        "title": "Web-Design Repo",
+        "href": "http://www.webdesignrepo.com/",
+        "time": "01:08:38",
+        "description": "Eine riesige Anzahl an Web-Development und -Design Links."
+      },
+      {
+        "title": "Cerberus – Responsive Email Patterns",
+        "href": "http://tedgoas.github.io/Cerberus/",
+        "time": "01:08:38",
+        "description": "HTML-E-Mail-Templates sind immer noch ein schwieriges Thema. Cerberus versucht den Schmerz bei der Erstellung solcher Templates zu mindern."
+      },
+      {
+        "title": "Antwort",
+        "href": "http://internations.github.io/antwort/guide.html",
+        "time": "01:08:38",
+        "description": "Ähnlich wie Cerberus, ist Antwort ein Responsive HTML-E-Mail-Template."
+      },
+      {
+        "title": "Easings Cheat Sheet",
+        "href": "http://easings.net/de",
+        "time": "01:08:38",
+        "description": "Wenn man gerade mal nicht weiß, wie Easings (Transitions-Verläufe) in CSS oder JavaScript funktionieren, kann man hier nachsehen."
       }
     ]
   }

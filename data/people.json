@@ -247,13 +247,29 @@
     "web": "http://www.goloroden.de/"
   },
   "tcaspers": {
-    "name": " Thomas Caspers",
+    "name": "Thomas Caspers",
     "twitter": "https://twitter.com/tcaspers",
     "web": "http://tomascaspers.de/"
   },
   "MarcoZehe": {
-    "name": " Marco Zehe",
+    "name": "Marco Zehe",
     "twitter": "https://twitter.com/MarcoZehe",
     "web": "http://www.zehe-edv.de/"
+  },
+  "FabianBeiner": {
+    "name": "Fabian Beiner",
+    "twitter": "https://twitter.com/FabianBeiner",
+    "web": "http://fabian-beiner.de/"
+  },
+  "Mr_Eis": {
+    "name": "Marius Eisenbraun",
+    "twitter": "https://twitter.com/Mr_Eis",
+    "web": "http://marius-eisenbraun.de/"
+  },
+  "makochnet": {
+    "name": "Marcel Koch",
+    "twitter": "https://twitter.com/makochnet",
+    "web": "http://www.marcelkoch.net/"
   }
+
 }
