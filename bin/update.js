@@ -91,6 +91,10 @@ function updateEpisodeIndexLivestreams() {
 
 function mergeEpisodeIndexLivestreams(livestreams) {
   Object.keys(livestreams).forEach(function(id) {
+    if (!episodes[id]) {
+      return;
+    }
+    
     episodes[id].live = livestreams[id];
   });
 }
