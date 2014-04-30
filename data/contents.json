@@ -16103,5 +16103,287 @@
         "description": "Wenn man gerade mal nicht weiß, wie Easings (Transitions-Verläufe) in CSS oder JavaScript funktionieren, kann man hier nachsehen."
       }
     ]
+  },
+  "165": {
+    "id": 165,
+    "date": "2014-04-14",
+    "duration": "00:07:10",
+    "people": [
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      },
+      {
+        "name": "Jens Grochtdreis",
+        "twitter": "https://twitter.com/Flocke"
+      },
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      },
+      {
+        "name": "Matthias Mees",
+        "twitter": "https://twitter.com/yellowled"
+      }
+    ],
+    "trello": "https://trello.com/b/RqSws07I/revision-165",
+    "href": "http://workingdraft.de/165/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2355/0/wd-165.mp3",
+    "title": "Über den Webkongress Erlangen und den Zustand mancher Website",
+    "description": "Stefan und Peter haben sich <a href=\"http://twitter.com/yellowled\">Matthias Mees</a> und <a href=\"http://twitter.com/Flocke\">Jens Grochtdreis</a> ins virtuelle Studio geholt um den kürzlich stattgefundenen Webkongress in Erlangen Revue passieren zu lassen, sowie über den Zustand diverser Websites zu philosophieren.",
+    "topics": [
+      {
+        "title": "Rückblick Webkongress Erlangen",
+        "href": "http://www.webkongress.uni-erlangen.de/",
+        "time": "00:00:15",
+        "description": "Im März fand der dritte Webkongress der Uni Erlangen statt, der sich auch um die Themen kümmert, die nicht so viel Beachtung auf den großen Konferenzen der Branche finden: Barrierefreiheit und Content Management System, zum Beispiel. Jens und Matthias erzählen von ihren Erlebnissen in der Universitätststadt und geben folgende <a href=\"http://www.video.uni-erlangen.de/course/id/263.html\">Anschautipps</a>: Marc Hinse &#8211; <a href=\"http://www.video.uni-erlangen.de/clip/id/3704.html\">Die Gefahren von Webdesign Trends</a>, Wolfgang Wiese &#8211; <a href=\"http://www.video.uni-erlangen.de/clip/id/3705.html\">The Beauty and the Beast</a>, Patrick Lobacher &#8211; <a href=\"http://www.video.uni-erlangen.de/clip/id/3687.html\">Typo 3 Neos</a>, Nils Pooker &#8211; <a href=\"http://www.video.uni-erlangen.de/clip/id/3702.html\">Alles so schön responsive hier?</a>, sowie alle Barrierefreiheits-Talks"
+      },
+      {
+        "title": "Die Beschissenheit mancher Websites, und Ihre Gründe",
+        "href": "https://twitter.com/pookerman/status/449076290147336192",
+        "time": "00:13:17",
+        "description": "Warum gibt es immer noch Restaurants, die ihre Menükarten als PDF verlinken und nicht einfach den Text auf der Website zugänglich machen? Wenn es schon so viele Profis gibt, die gute Websites erzeugen, warum findet man immer noch soviel Mist im Web? Und wie geht man als Entwickler/Designer mit der Beratungsresistenz mancher Kunden um? In einer groß angelegten Raunz-Runde versuchen wir die Gründe zu erörtern und lassen sich über einige Misstände der Branche aus."
+      },
+      {
+        "title": "Our Enclosed Space",
+        "href": "http://alistapart.com/column/our-enclosed-space",
+        "time": "00:47:04",
+        "description": "Rachel Andrew schreibt, dass wir uns in einer elitären und sehr kleinen Referenzgruppe bewegen und viel vom echten Leben &#8220;da draussen&#8221; gerne mal vergessen. Oder vergessen würden. Bei all den schönen, tollen, neuen Technologien die auf den Konferenzen propagiert werden, wären doch am Ende die wenigsten heute doch auch wirklich einsetzbar. Vermitteln wir ein falsches Bild und vergessen die Dinge, auf die es wirklich ankommt? Ranting-Runde, Teil 2."
+      }
+    ],
+    "links": [
+      {
+        "title": "Was ist WAI-ARIA?",
+        "href": "http://www.zehe-edv.de/2014/03/28/was-ist-wai-aria-was-tut-es-und-was-tut-es-nicht/",
+        "time": "01:02:58",
+        "description": "WAI-ARIA ist eine W3C Recommendation, und Marco Zehe erklärt, was es damit auf sich hat."
+      },
+      {
+        "title": "SmashingConf 2014",
+        "href": "http://netzartist.de/blog/2014/03/smashingconf-2014/",
+        "time": "01:02:58",
+        "description": "Jan Deppisch erzählt uns seine Highlights der letzen SmashingConf."
+      },
+      {
+        "title": "jQuery San Diego",
+        "href": " http://events.jquery.org/2014/san-diego/",
+        "time": "01:02:58",
+        "description": "Videos und Material zur letzten jQuery Konferenz."
+      },
+      {
+        "title": "Formular Elemente gestalten",
+        "href": "http://tjvantoll.com/2013/04/15/list-of-pseudo-elements-to-style-form-controls/#input_range",
+        "time": "01:02:58",
+        "description": "Ein Artikel, wie man Formular Elemente gestalten kann, und ein begleitender Artikel von <a href=\"http://samples.msdn.microsoft.com/iedevcenter/FormControls/default.html\">Microsoft</a> zum gleichen Thema."
+      },
+      {
+        "title": "HTML5 Master Class",
+        "href": "http://html5-master-class.de/",
+        "time": "01:02:58",
+        "description": "Der CSS Buddha und der HTML5 Erklärbär für drei ganze Tage in Düsseldorf!"
+      },
+      {
+        "title": "CodeFront",
+        "href": "http://codefront.io/",
+        "time": "01:02:58",
+        "description": "Linz bekommt die Front-End Konferenz mit dem schönsten Logo."
+      }
+    ]
+  },
+  "166": {
+    "id": 166,
+    "date": "2014-04-20",
+    "duration": "00:44:29",
+    "people": [
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-11-03"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Pascal Hartig",
+        "twitter": "https://twitter.com/passy"
+      },
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      }
+    ],
+    "trello": "https://trello.com/b/1jFY8pTr/revision-166",
+    "href": "http://workingdraft.de/166/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2362/0/wd-166.mp3",
+    "title": "Open Source, React und AssetGraph",
+    "live": [
+      {
+        "title": "Revision 166",
+        "href": "http://livestre.am/4P7Jv",
+        "duration": "02:01:34",
+        "date": "2014-04-07"
+      }
+    ],
+    "description": "Eine weitere Woche mit einem Gast. Diesmal ist <a href=\"http://passy.me/\">Pascal Hartig aka. Passy</a> vom <a href=\"http://yeoman.io/\">Yeoman</a>- und <a href=\"http://todomvc.com/\">Todo-MVC</a>-Team mit dabei.",
+    "news": [],
+    "topics": [
+      {
+        "title": "Open Source",
+        "time": "00:00:58",
+        "description": "Pascal spricht über seine Arbeit im Open-Source-Bereich und erzählt vom Anfang seiner Karriere mit <a href=\"http://24pullrequests.com/\">24 Pull Requests</a>. Dadurch wurde vom TodoMVC-Team rekrutiert, kurz danach folgte Yeoman, dann Bower und nun arbeitet er bei Twitter in London.<br>\nPascal erzählt von der Balance zwischen &#8220;normaler&#8221; Arbeit und Open Source, dem Unterschied zwischen einer kleiner Agentur und der großen Firma Twitter.<br>\nFür alle, die auch so enden möchten, gibt er als Tipp, dass man konsistent an OSS Projekten mitarbeitet und nicht nur hier und da ein Pull Request erstellt."
+      },
+      {
+        "title": "React",
+        "href": "http://facebook.github.io/react/",
+        "time": "00:20:43",
+        "description": "Pascals Wunschthema ist Facebooks React, eine Bibliothek für User Interfaces, dessen Hauptfunktion die Erstellung von wiederverwertbaren Komponenten ist. <a href=\"http://2013.jsconf.eu/speakers/pete-hunt-react-rethinking-best-practices.html\">Pete Hunts Talk</a> gibt nähere Einblicke zur Funktionalität: HTML in JS durch virtuelles DOM erstellen, das mit nativem DOM verglichen wird. Das Interessante an React ist, dass es auch mit anderen Frameworks, wie AngularJS o. Ä., kombinierbar ist, da sich React <i>nur</i> um die Views kümmert.<br>\nDer größte Nachteil ist wohl die Kombination mit anderen DOM-verändernden Libraries (wie z. B. jQuery), aber auch dieses Problem ist laut Pascal, unter Kontrolle zu bekommen.<br>\n<a href=\"http://facebook.github.io/react/docs/tutorial.html\">Reacts Starting-Tutorial</a> ist auf jeden Fall einen Blick wert."
+      },
+      {
+        "title": "AssetGraph",
+        "href": "https://github.com/assetgraph/assetgraph",
+        "time": "00:31:29",
+        "description": "AssetGraph ist der Versuch einen Graphen einer Webseite abzubilden – welche Ressourcen werden von welchen anderen Ressourcen verwendet.<br>\nDadurch ergeben sich Möglichkeiten, wie intelligentes Autocomplete in der IDE, einfache Diagnose von Problemen, Optimierung von Web-Seiten und Applikationen. Die Nachteile sind allerdings die hohe Komplexität und, durch seine Neuartigkeit, die gegebenenfalls noch etwas mühsame Benutzung."
+      }
+    ],
+    "links": [
+      {
+        "title": "JSON Generator",
+        "href": "http://www.json-generator.com/",
+        "time": "00:39:34",
+        "description": "Generiert JSON passend zur API-Definition."
+      },
+      {
+        "title": "Status IE",
+        "href": "http://status.modern.ie/",
+        "time": "00:39:34",
+        "description": "Status IE ist eine Aufzeichnung der aktuellen Feature-Implementierung in Internet Explorer. Chromes Pendent dazu gibt’s <a href=\"http://www.chromestatus.com/features\">hier</a>."
+      },
+      {
+        "title": "Node JSCS",
+        "href": "https://github.com/mdevils/node-jscs",
+        "time": "00:39:34",
+        "description": "Ein JavaScript Code Style Checker – mehr als nur JSHint."
+      }
+    ],
+    "tip": [
+      {
+        "title": "visibility: visible undoes visibility: hidden",
+        "href": "http://jakearchibald.com/2014/visible-undoes-hidden/",
+        "time": "00:41:33",
+        "description": "Setzt man visibility: hidden auf ein Element, kann man ein Kinds-Element mit visibility: visible wieder sichtbar machen."
+      },
+      {
+        "title": "Use of .apply() with ‘new’ operator. Is this possible?",
+        "href": "https://stackoverflow.com/questions/1606797/use-of-apply-with-new-operator-is-this-possible/8843181#8843181",
+        "time": "00:41:33",
+        "description": "Beliebig viele Argumente an einen Constructor in JavaScript mit Function.prototype.bind übergeben."
+      }
+    ]
+  },
+  "167": {
+    "id": 167,
+    "date": "2014-04-22",
+    "duration": "00:55:45",
+    "people": [
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      {
+        "name": "Marc Thiele",
+        "twitter": "https://twitter.com/marcthiele"
+      },
+      {
+        "name": "Bastian Allgeier",
+        "twitter": "https://twitter.com/bastianallgeier"
+      }
+    ],
+    "trello": "https://trello.com/b/VDzYcA6M/revision-167",
+    "href": "http://workingdraft.de/167/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2371/0/wd-167.mp3",
+    "title": "Das Decentralize Camp",
+    "live": [
+      {
+        "title": "Revision 167",
+        "href": "http://livestre.am/4Px5r",
+        "duration": "01:33:24",
+        "date": "2014-04-14"
+      }
+    ],
+    "description": "Die aktuelle Sendung steht ganz im Zeichen der Dezentralisierung. Passend dazu sind <a href=\"https://twitter.com/marcthiele\">Marc Thiele</a> und <a href=\"http://bastianallgeier.com/\">Bastian Allgeier</a> als Gäste mit dabei, die gemeinsam am 21. Mai das erste <a href=\"http://decentralizecamp.com/\">Decentralize Camp</a> veranstalten.",
+    "news": [
+      {
+        "title": "CSS Line Grid Module Level 1",
+        "href": "http://www.w3.org/TR/css-line-grid-1/",
+        "time": "00:00:32",
+        "description": "Working Draft: Das CSS Line Grid Module befasst sich damit, Inhalte an einer vertikalen Baseline auszurichten."
+      },
+      {
+        "title": "CSS Extensions",
+        "href": "http://dev.w3.org/csswg/css-extensions/",
+        "time": "00:00:32",
+        "description": "Achtung: Editor’s Draft! Dieser spezifiziert die Möglichkeit der Erweiterung von CSS mittels eigener Eigenschaften, at-Rules, Selektor-Kombinationen und mehr."
+      }
+    ],
+    "topics": [
+      {
+        "title": "Decentralize Camp",
+        "href": "http://decentralizecamp.com/",
+        "time": "00:01:57",
+        "description": "Das erste Decentralize Camp findet am 21. Mai 2014 in Düsseldorf statt und kostet gerade mal 30 Euro! <a href=\"http://decentralizecamp.com/registration\">Anmeldungen werden auf der Website entgegen genommen</a>."
+      },
+      {
+        "title": "Verlosung: Tipp, wie man seine Daten “befreien” kann",
+        "time": "00:46:57",
+        "description": "Wer einen guten Tipp oder ein gutes Howto parat hat, mit dem man seine Daten aus den großen Datensilos heraus in heimische Gewässer bekommt, der poste es in den Kommentaren. Jeder nimmt dann automatisch an einer Verlosung zweier Karten für das Decentralize Camp teil."
+      }
+    ],
+    "links": [
+      {
+        "title": "Meine eigene kleine Datenwolke",
+        "href": "http://www.webrocker.de/2014/04/14/meine-eigene-kleine-datenwolke/",
+        "time": "00:53:13",
+        "description": "Tom Arnold berichtet über seine Erfahrungen mit <a href=\"http://owncloud.org/\">ownCloud</a>, seiner eigenen, dezentralen Cloud."
+      },
+      {
+        "title": "RegExr",
+        "href": "http://www.regexr.com/",
+        "time": "00:53:13",
+        "description": "RegExr ist das perfekte Tool zum Testen von Regulären Ausdrücken."
+      }
+    ]
+  },
+  "168": {
+    "id": 168,
+    "date": null,
+    "duration": "00:00:00",
+    "people": [],
+    "trello": "https://trello.com/b/fECmqXdd/revision-168",
+    "href": "",
+    "audio": "",
+    "title": "",
+    "live": [
+      {
+        "title": "Revision 168",
+        "href": "http://livestre.am/4PTRH",
+        "duration": "02:09:49",
+        "date": "2014-04-21"
+      }
+    ]
   }
 }

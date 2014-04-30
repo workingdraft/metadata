@@ -1,0 +1,94 @@
+{
+  "id": 165,
+  "date": "2014-04-14",
+  "duration": "00:07:10",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Jens Grochtdreis",
+      "twitter": "https://twitter.com/Flocke"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Matthias Mees",
+      "twitter": "https://twitter.com/yellowled"
+    }
+  ],
+  "trello": "https://trello.com/b/RqSws07I/revision-165",
+  "href": "http://workingdraft.de/165/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2355/0/wd-165.mp3",
+  "title": "Über den Webkongress Erlangen und den Zustand mancher Website",
+  "description": "Stefan und Peter haben sich <a href=\"http://twitter.com/yellowled\">Matthias Mees</a> und <a href=\"http://twitter.com/Flocke\">Jens Grochtdreis</a> ins virtuelle Studio geholt um den kürzlich stattgefundenen Webkongress in Erlangen Revue passieren zu lassen, sowie über den Zustand diverser Websites zu philosophieren.",
+  "topics": [
+    {
+      "title": "Rückblick Webkongress Erlangen",
+      "href": "http://www.webkongress.uni-erlangen.de/",
+      "time": "00:00:15",
+      "description": "Im März fand der dritte Webkongress der Uni Erlangen statt, der sich auch um die Themen kümmert, die nicht so viel Beachtung auf den großen Konferenzen der Branche finden: Barrierefreiheit und Content Management System, zum Beispiel. Jens und Matthias erzählen von ihren Erlebnissen in der Universitätststadt und geben folgende <a href=\"http://www.video.uni-erlangen.de/course/id/263.html\">Anschautipps</a>: Marc Hinse &#8211; <a href=\"http://www.video.uni-erlangen.de/clip/id/3704.html\">Die Gefahren von Webdesign Trends</a>, Wolfgang Wiese &#8211; <a href=\"http://www.video.uni-erlangen.de/clip/id/3705.html\">The Beauty and the Beast</a>, Patrick Lobacher &#8211; <a href=\"http://www.video.uni-erlangen.de/clip/id/3687.html\">Typo 3 Neos</a>, Nils Pooker &#8211; <a href=\"http://www.video.uni-erlangen.de/clip/id/3702.html\">Alles so schön responsive hier?</a>, sowie alle Barrierefreiheits-Talks"
+    },
+    {
+      "title": "Die Beschissenheit mancher Websites, und Ihre Gründe",
+      "href": "https://twitter.com/pookerman/status/449076290147336192",
+      "time": "00:13:17",
+      "description": "Warum gibt es immer noch Restaurants, die ihre Menükarten als PDF verlinken und nicht einfach den Text auf der Website zugänglich machen? Wenn es schon so viele Profis gibt, die gute Websites erzeugen, warum findet man immer noch soviel Mist im Web? Und wie geht man als Entwickler/Designer mit der Beratungsresistenz mancher Kunden um? In einer groß angelegten Raunz-Runde versuchen wir die Gründe zu erörtern und lassen sich über einige Misstände der Branche aus."
+    },
+    {
+      "title": "Our Enclosed Space",
+      "href": "http://alistapart.com/column/our-enclosed-space",
+      "time": "00:47:04",
+      "description": "Rachel Andrew schreibt, dass wir uns in einer elitären und sehr kleinen Referenzgruppe bewegen und viel vom echten Leben &#8220;da draussen&#8221; gerne mal vergessen. Oder vergessen würden. Bei all den schönen, tollen, neuen Technologien die auf den Konferenzen propagiert werden, wären doch am Ende die wenigsten heute doch auch wirklich einsetzbar. Vermitteln wir ein falsches Bild und vergessen die Dinge, auf die es wirklich ankommt? Ranting-Runde, Teil 2."
+    }
+  ],
+  "links": [
+    {
+      "title": "Was ist WAI-ARIA?",
+      "href": "http://www.zehe-edv.de/2014/03/28/was-ist-wai-aria-was-tut-es-und-was-tut-es-nicht/",
+      "time": "01:02:58",
+      "description": "WAI-ARIA ist eine W3C Recommendation, und Marco Zehe erklärt, was es damit auf sich hat."
+    },
+    {
+      "title": "SmashingConf 2014",
+      "href": "http://netzartist.de/blog/2014/03/smashingconf-2014/",
+      "time": "01:02:58",
+      "description": "Jan Deppisch erzählt uns seine Highlights der letzen SmashingConf."
+    },
+    {
+      "title": "jQuery San Diego",
+      "href": " http://events.jquery.org/2014/san-diego/",
+      "time": "01:02:58",
+      "description": "Videos und Material zur letzten jQuery Konferenz."
+    },
+    {
+      "title": "Formular Elemente gestalten",
+      "href": "http://tjvantoll.com/2013/04/15/list-of-pseudo-elements-to-style-form-controls/#input_range",
+      "time": "01:02:58",
+      "description": "Ein Artikel, wie man Formular Elemente gestalten kann, und ein begleitender Artikel von <a href=\"http://samples.msdn.microsoft.com/iedevcenter/FormControls/default.html\">Microsoft</a> zum gleichen Thema."
+    },
+    {
+      "title": "HTML5 Master Class",
+      "href": "http://html5-master-class.de/",
+      "time": "01:02:58",
+      "description": "Der CSS Buddha und der HTML5 Erklärbär für drei ganze Tage in Düsseldorf!"
+    },
+    {
+      "title": "CodeFront",
+      "href": "http://codefront.io/",
+      "time": "01:02:58",
+      "description": "Linz bekommt die Front-End Konferenz mit dem schönsten Logo."
+    }
+  ]
+}

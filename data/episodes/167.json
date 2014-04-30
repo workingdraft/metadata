@@ -1,0 +1,76 @@
+{
+  "id": 167,
+  "date": "2014-04-22",
+  "duration": "00:55:45",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Marc Thiele",
+      "twitter": "https://twitter.com/marcthiele"
+    },
+    {
+      "name": "Bastian Allgeier",
+      "twitter": "https://twitter.com/bastianallgeier"
+    }
+  ],
+  "trello": "https://trello.com/b/VDzYcA6M/revision-167",
+  "href": "http://workingdraft.de/167/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2371/0/wd-167.mp3",
+  "title": "Das Decentralize Camp",
+  "live": [
+    {
+      "title": "Revision 167",
+      "href": "http://livestre.am/4Px5r",
+      "duration": "01:33:24",
+      "date": "2014-04-14"
+    }
+  ],
+  "description": "Die aktuelle Sendung steht ganz im Zeichen der Dezentralisierung. Passend dazu sind <a href=\"https://twitter.com/marcthiele\">Marc Thiele</a> und <a href=\"http://bastianallgeier.com/\">Bastian Allgeier</a> als Gäste mit dabei, die gemeinsam am 21. Mai das erste <a href=\"http://decentralizecamp.com/\">Decentralize Camp</a> veranstalten.",
+  "news": [
+    {
+      "title": "CSS Line Grid Module Level 1",
+      "href": "http://www.w3.org/TR/css-line-grid-1/",
+      "time": "00:00:32",
+      "description": "Working Draft: Das CSS Line Grid Module befasst sich damit, Inhalte an einer vertikalen Baseline auszurichten."
+    },
+    {
+      "title": "CSS Extensions",
+      "href": "http://dev.w3.org/csswg/css-extensions/",
+      "time": "00:00:32",
+      "description": "Achtung: Editor’s Draft! Dieser spezifiziert die Möglichkeit der Erweiterung von CSS mittels eigener Eigenschaften, at-Rules, Selektor-Kombinationen und mehr."
+    }
+  ],
+  "topics": [
+    {
+      "title": "Decentralize Camp",
+      "href": "http://decentralizecamp.com/",
+      "time": "00:01:57",
+      "description": "Das erste Decentralize Camp findet am 21. Mai 2014 in Düsseldorf statt und kostet gerade mal 30 Euro! <a href=\"http://decentralizecamp.com/registration\">Anmeldungen werden auf der Website entgegen genommen</a>."
+    },
+    {
+      "title": "Verlosung: Tipp, wie man seine Daten “befreien” kann",
+      "time": "00:46:57",
+      "description": "Wer einen guten Tipp oder ein gutes Howto parat hat, mit dem man seine Daten aus den großen Datensilos heraus in heimische Gewässer bekommt, der poste es in den Kommentaren. Jeder nimmt dann automatisch an einer Verlosung zweier Karten für das Decentralize Camp teil."
+    }
+  ],
+  "links": [
+    {
+      "title": "Meine eigene kleine Datenwolke",
+      "href": "http://www.webrocker.de/2014/04/14/meine-eigene-kleine-datenwolke/",
+      "time": "00:53:13",
+      "description": "Tom Arnold berichtet über seine Erfahrungen mit <a href=\"http://owncloud.org/\">ownCloud</a>, seiner eigenen, dezentralen Cloud."
+    },
+    {
+      "title": "RegExr",
+      "href": "http://www.regexr.com/",
+      "time": "00:53:13",
+      "description": "RegExr ist das perfekte Tool zum Testen von Regulären Ausdrücken."
+    }
+  ]
+}

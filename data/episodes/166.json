@@ -1,0 +1,94 @@
+{
+  "id": 166,
+  "date": "2014-04-20",
+  "duration": "00:44:29",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Pascal Hartig",
+      "twitter": "https://twitter.com/passy"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "trello": "https://trello.com/b/1jFY8pTr/revision-166",
+  "href": "http://workingdraft.de/166/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2362/0/wd-166.mp3",
+  "title": "Open Source, React und AssetGraph",
+  "live": [
+    {
+      "title": "Revision 166",
+      "href": "http://livestre.am/4P7Jv",
+      "duration": "02:01:34",
+      "date": "2014-04-07"
+    }
+  ],
+  "description": "Eine weitere Woche mit einem Gast. Diesmal ist <a href=\"http://passy.me/\">Pascal Hartig aka. Passy</a> vom <a href=\"http://yeoman.io/\">Yeoman</a>- und <a href=\"http://todomvc.com/\">Todo-MVC</a>-Team mit dabei.",
+  "news": [],
+  "topics": [
+    {
+      "title": "Open Source",
+      "time": "00:00:58",
+      "description": "Pascal spricht über seine Arbeit im Open-Source-Bereich und erzählt vom Anfang seiner Karriere mit <a href=\"http://24pullrequests.com/\">24 Pull Requests</a>. Dadurch wurde vom TodoMVC-Team rekrutiert, kurz danach folgte Yeoman, dann Bower und nun arbeitet er bei Twitter in London.<br>\nPascal erzählt von der Balance zwischen &#8220;normaler&#8221; Arbeit und Open Source, dem Unterschied zwischen einer kleiner Agentur und der großen Firma Twitter.<br>\nFür alle, die auch so enden möchten, gibt er als Tipp, dass man konsistent an OSS Projekten mitarbeitet und nicht nur hier und da ein Pull Request erstellt."
+    },
+    {
+      "title": "React",
+      "href": "http://facebook.github.io/react/",
+      "time": "00:20:43",
+      "description": "Pascals Wunschthema ist Facebooks React, eine Bibliothek für User Interfaces, dessen Hauptfunktion die Erstellung von wiederverwertbaren Komponenten ist. <a href=\"http://2013.jsconf.eu/speakers/pete-hunt-react-rethinking-best-practices.html\">Pete Hunts Talk</a> gibt nähere Einblicke zur Funktionalität: HTML in JS durch virtuelles DOM erstellen, das mit nativem DOM verglichen wird. Das Interessante an React ist, dass es auch mit anderen Frameworks, wie AngularJS o. Ä., kombinierbar ist, da sich React <i>nur</i> um die Views kümmert.<br>\nDer größte Nachteil ist wohl die Kombination mit anderen DOM-verändernden Libraries (wie z. B. jQuery), aber auch dieses Problem ist laut Pascal, unter Kontrolle zu bekommen.<br>\n<a href=\"http://facebook.github.io/react/docs/tutorial.html\">Reacts Starting-Tutorial</a> ist auf jeden Fall einen Blick wert."
+    },
+    {
+      "title": "AssetGraph",
+      "href": "https://github.com/assetgraph/assetgraph",
+      "time": "00:31:29",
+      "description": "AssetGraph ist der Versuch einen Graphen einer Webseite abzubilden – welche Ressourcen werden von welchen anderen Ressourcen verwendet.<br>\nDadurch ergeben sich Möglichkeiten, wie intelligentes Autocomplete in der IDE, einfache Diagnose von Problemen, Optimierung von Web-Seiten und Applikationen. Die Nachteile sind allerdings die hohe Komplexität und, durch seine Neuartigkeit, die gegebenenfalls noch etwas mühsame Benutzung."
+    }
+  ],
+  "links": [
+    {
+      "title": "JSON Generator",
+      "href": "http://www.json-generator.com/",
+      "time": "00:39:34",
+      "description": "Generiert JSON passend zur API-Definition."
+    },
+    {
+      "title": "Status IE",
+      "href": "http://status.modern.ie/",
+      "time": "00:39:34",
+      "description": "Status IE ist eine Aufzeichnung der aktuellen Feature-Implementierung in Internet Explorer. Chromes Pendent dazu gibt’s <a href=\"http://www.chromestatus.com/features\">hier</a>."
+    },
+    {
+      "title": "Node JSCS",
+      "href": "https://github.com/mdevils/node-jscs",
+      "time": "00:39:34",
+      "description": "Ein JavaScript Code Style Checker – mehr als nur JSHint."
+    }
+  ],
+  "tip": [
+    {
+      "title": "visibility: visible undoes visibility: hidden",
+      "href": "http://jakearchibald.com/2014/visible-undoes-hidden/",
+      "time": "00:41:33",
+      "description": "Setzt man visibility: hidden auf ein Element, kann man ein Kinds-Element mit visibility: visible wieder sichtbar machen."
+    },
+    {
+      "title": "Use of .apply() with ‘new’ operator. Is this possible?",
+      "href": "https://stackoverflow.com/questions/1606797/use-of-apply-with-new-operator-is-this-possible/8843181#8843181",
+      "time": "00:41:33",
+      "description": "Beliebig viele Argumente an einen Constructor in JavaScript mit Function.prototype.bind übergeben."
+    }
+  ]
+}
