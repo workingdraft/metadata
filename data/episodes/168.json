@@ -1,0 +1,98 @@
+{
+  "id": 168,
+  "date": "2014-04-30",
+  "duration": "07:07:39",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-11-03"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Paul Bakaus",
+      "twitter": "https://twitter.com/pbakaus",
+      "web": "http://paulbakaus.com"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "trello": "https://trello.com/b/fECmqXdd/revision-168",
+  "href": "http://workingdraft.de/168/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2380/0/wd-168.mp3",
+  "title": "Monitore, Bildkompression, Links",
+  "live": [
+    {
+      "title": "Revision 168",
+      "href": "http://livestre.am/4PTRH",
+      "duration": "02:09:49",
+      "date": "2014-04-21"
+    }
+  ],
+  "description": "Als Gast konnten Schepp, Hans und Peter diesmal <a href=\"http://paulbakaus.com\">Paul Bakaus</a> begrüßen (bekannt für jQuery UI, später bei Zynga), der heute als Developer Advocate für Google unterwegs ist.",
+  "topics": [
+    {
+      "title": "The Illusion of Motion",
+      "time": "00:01:05",
+      "description": "Paul erzählt von seinem demnächst erscheinenden Artikel über die Hintergründe von Bildschirmdarstellung. Die Kernfrage ist: warum zielen wir bei der Performanceoptimierung im Web auf 60 FPS, wenn doch z.B. Filme auskommen? Wir reden über Bewegungsunschärfe, das amerikanische Stromnetz, das Auge, CRTs und LCDs, den Flicker Fusion Threshold, <a href=\"http://www.nvidia.de/object/g-sync-monitor-technology-de.html\">G-Sync</a>, Fernseher und Fernseherhersteller, Zwischenbildberechnung sowie die Lufthansa."
+    },
+    {
+      "title": "Bildkompression",
+      "time": "00:25:11",
+      "description": "Paul wundert sich, warum so wenig in Sachen Bildkompression passiert, obwohl dort doch das meiste Optimierungspotenzial schlummert. Trotzdem es so manches Tool gibt (wir erwähnen unter anderem <a href=\"http://pngmini.com/\">ImageAlpha</a>, <a href=\"http://www.jpegmini.com/\">JPEGMini</a>, <a href=\"https://github.com/technopagan/adept-jpg-compressor\">adept-jpg-compressor</a> und <a href=\"http://pngquant.org/\">pngquant</a>) fehlt es noch an ausreichend smarten Tools. Auch <a href=\"https://de.wikipedia.org/wiki/WebP\">WebP</a> (und den damit verbundenen <a href=\"http://www.cnet.com/news/facebook-tries-googles-webp-image-format-users-squawk/\">Griff ins Klo</a> durch Facebook), <a href=\"https://github.com/adobe-photoshop/generator-assets\">Photoshops Generator-Funktionalität für Bilder</a> und ein <a href=\"http://www.lukew.com/ff/entry.asp?1797\">Performance-Artikel von Luke Wroblewski</a> kommen zur Sprache."
+    },
+    {
+      "title": "Winning for Users",
+      "href": "http://paulbakaus.com/2014/04/16/winning-for-users/",
+      "time": "00:47:01",
+      "description": "In einem Artikel empfiehlt Paul eine auf die User ausgerichtete Argumentationslinie für Webtechnologie. Peter lässt es sich nicht nehmen, den Advocatus Diaboli für Native Apps zu spielen. Schepp empfiehlt in diesem Kontext <a href=\"http://vimeo.com/91027416\">den spektakulären Talk &#8220;How to destroy the web&#8221;</a> von Bruce Lawson."
+    }
+  ],
+  "links": [
+    {
+      "title": "Cheat Sheets für Shadow DOM und Github",
+      "href": "http://robdodson.me/blog/2014/04/10/shadow-dom-css-cheat-sheet/",
+      "time": "01:02:32",
+      "description": "Vor allem letzterer ist von epischer Länge und Tiefe."
+    },
+    {
+      "title": "Understanding CSS Timing Functions",
+      "href": "http://www.smashingmagazine.com/2014/04/15/understanding-css-timing-functions/",
+      "time": "01:02:32",
+      "description": "Wirklich <em>alles</em> was es über Timing Functions zu wissen gibt."
+    },
+    {
+      "title": "BrowserStage: Web Automation That Just Works",
+      "href": "http://www.browserstage.com/",
+      "time": "01:02:32",
+      "description": "Wir haben es nicht getestet, aber einen Blick scheint dieses Produkt wert."
+    },
+    {
+      "title": "Conditioner.js",
+      "href": "http://conditionerjs.com/",
+      "time": "01:02:32",
+      "description": "Zitat: <i>Frizz free, environment-aware, javascript modules.</i>"
+    },
+    {
+      "title": "Düsseldorfer Web Platform Doc Sprint",
+      "href": "https://www.eventbrite.com/e/web-platform-doc-sprint-dusseldorf-tickets-2009968871",
+      "time": "01:02:32",
+      "description": "Am 18. Mai Docs schreiben und grillen in Düsseldorf ."
+    }
+  ]
+}

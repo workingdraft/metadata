@@ -1,0 +1,50 @@
+{
+  "id": 169,
+  "date": "2014-05-04",
+  "duration": "00:44:32",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Jens Grochtdreis",
+      "twitter": "https://twitter.com/Flocke"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "href": "http://workingdraft.de/169/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2387/0/wd-169.mp3",
+  "title": "Plausch im Biergarten",
+  "description": "Da wir in einem Biergarten nahe einer Straße saßen, kann die Tonqualität diesmal nicht ganz mit denen der übrigen Folgen mithalten. <a href=\"http://auphonic.com/\">auphonic</a> hat allerdings wieder mal etwas sehr Brauchbares herbeigezaubert. &lt;3\n\nDa Peter und <a href=\"http://www.grochtdreis.de/\">Jens Grochtdreis</a> zufällig gerade in Düsseldorf weilten, wo sie über drei Tage verteilt ihre <a href=\"http://html5-master-class.de/\">HTML5 MasterClass</a> gaben, dachte Schepp sich: Warum nicht das Angenehme mit dem Nützlichen verbinden, sich mit den Jungs im Biergarten treffen, und ein Mikro auf den Tisch stellen? Gesagt, getan! Statt über das übliche Nerd-Zeugs zu reden, rekapitulierten wir, wie wir im Laufe der Jahre durch Ereignisse und Dinge die wir bewusst taten zu dem beruflichen Punkt angelangten, an dem wir jetzt stehen.",
+  "links": [
+    {
+      "title": "gitignore.io",
+      "href": "http://www.gitignore.io/",
+      "time": "00:42:21",
+      "description": "Create useful .gitignore files for your project"
+    },
+    {
+      "title": "PuPHPet",
+      "href": "https://puphpet.com/",
+      "time": "00:42:21",
+      "description": "Online GUI Configurator for Puppet &#038; Vagrant"
+    },
+    {
+      "title": "Adobe’s Project Parfait",
+      "href": "https://projectparfait.adobe.com/",
+      "time": "00:42:21",
+      "description": "PSD CSS Extraction, Measurements and Image Optimization Service for the Web"
+    }
+  ]
+}

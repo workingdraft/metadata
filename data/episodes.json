@@ -2706,13 +2706,18 @@
   },
   "168": {
     "id": 168,
-    "date": null,
-    "duration": "00:00:00",
-    "people": [],
+    "date": "2014-04-30",
+    "duration": "07:07:39",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "pbakaus",
+      "sir_pepe"
+    ],
     "trello": "https://trello.com/b/fECmqXdd/revision-168",
-    "href": "",
-    "audio": "",
-    "title": "",
+    "href": "http://workingdraft.de/168/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2380/0/wd-168.mp3",
+    "title": "Monitore, Bildkompression, Links",
     "live": [
       {
         "title": "Revision 168",
@@ -2721,5 +2726,18 @@
         "date": "2014-04-21"
       }
     ]
+  },
+  "169": {
+    "id": 169,
+    "date": "2014-05-04",
+    "duration": "00:44:32",
+    "people": [
+      "derSchepp",
+      "Flocke",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/169/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2387/0/wd-169.mp3",
+    "title": "Plausch im Biergarten"
   }
 }
