@@ -16419,7 +16419,7 @@
       {
         "title": "The Illusion of Motion",
         "time": "00:01:05",
-        "description": "Paul erzählt von seinem demnächst erscheinenden Artikel über die Hintergründe von Bildschirmdarstellung. Die Kernfrage ist: warum zielen wir bei der Performanceoptimierung im Web auf 60 FPS, wenn doch z.B. Filme auskommen? Wir reden über Bewegungsunschärfe, das amerikanische Stromnetz, das Auge, CRTs und LCDs, den Flicker Fusion Threshold, <a href=\"http://www.nvidia.de/object/g-sync-monitor-technology-de.html\">G-Sync</a>, Fernseher und Fernseherhersteller, Zwischenbildberechnung sowie die Lufthansa."
+        "description": "Paul erzählt von seinem demnächst erscheinenden Artikel über die Hintergründe von Bildschirmdarstellung. Die Kernfrage ist: warum zielen wir bei der Performanceoptimierung im Web auf 60 FPS, wenn doch z.B. Filme mit 24 FPS auskommen? Wir reden über Bewegungsunschärfe, das amerikanische Stromnetz, das Auge, CRTs und LCDs, den Flicker Fusion Threshold, <a href=\"http://www.nvidia.de/object/g-sync-monitor-technology-de.html\">G-Sync</a>, Fernseher und Fernseherhersteller, Zwischenbildberechnung sowie die Lufthansa."
       },
       {
         "title": "Bildkompression",
