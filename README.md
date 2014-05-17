@@ -168,15 +168,15 @@ An episode's content is tracked in `data/episodes/12345.json`:
   ],
   // [optional] the news ("News") that were stated in this episode
   "news": [
-    // safe format as topic content
+    // same format as topic content
   ],
   // [optional] the links ("Keine Schaunotizen") that were suggested in this episode
   "links": [
-    // safe format as topic content
+    // same format as topic content
   ],
   // [optional] the random specifications ("HTML5-Glücksrad") that were explained in this episode
   "randomSpec": [
-    // safe format as topic content
+    // same format as topic content
   ]
 }
 ```
