@@ -1,0 +1,96 @@
+{
+  "id": 170,
+  "date": "2014-05-24",
+  "duration": "00:41:32",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    }
+  ],
+  "trello": "https://trello.com/b/puukLW91/revision-170",
+  "href": "http://workingdraft.de/170/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2398/0/wd-170.mp3",
+  "title": "Inline SVGs vs Icon Fonts, Adaptive Placeholders und currentScript",
+  "description": "Eine kurze und knackige Episode zu diversen Themen, inklusive den Gewinnern der Verlosung aus <a href=\"/167/\">Revision 167</a>",
+  "news": [
+    {
+      "title": "Firefox 29",
+      "href": "https://developer.mozilla.org/en-US/Firefox/Releases/29",
+      "time": "00:00:00",
+      "description": "Firefox 29 ist da, inklusive CSS Variablen und <code>will-change</code> Attribut hinter Flag, und einer nicht prefixten Implementierung von <code>box-sizing</code>."
+    }
+  ],
+  "topics": [
+    {
+      "title": "Icon Fonts vs SVG",
+      "href": "http://css-tricks.com/icon-fonts-vs-svg/",
+      "time": "00:00:46",
+      "description": "Chris Coyier schreibt über die Vor- und Nachteile von Icon Fonts und (Inline) SVG, und schlägt sich mit nur wenigen Abstrichen ganz klar auf die Seite der skalierbaren Vektoren. Wir sinnieren über Seperation of concerns, fallbacks, mögliche Sicherheitslücken und resümieren mit unseren eigenen Erfahrungen."
+    },
+    {
+      "title": "Adaptive Placeholders",
+      "href": "http://blog.circleci.com/adaptive-placeholders/",
+      "time": "00:13:20",
+      "description": "Auch bekannt als das <a href=\"http://bradfrostweb.com/blog/post/float-label-pattern/\">Float Label Pattern</a> sind &#8220;Adaptive Placeholders&#8221; der nächste Usability Schrei da draussen. Das jetzt viele Leute (u.a. auch <a href=\"http://snook.ca/archives/html_and_css/floated-label-pattern-css\">Jonathan Snook</a>) mit diversen Implementierungen versuchen die Grundidee optimal zu implementieren, zeigt nur wie sympathisch diese Idee Designern wie Entwicklern ist. Dass man allerdings nicht allen JavaScript-freien Implementierungen trauen soll und manches Mal das Web ganz schön verbogen wird, zeigen wir."
+    },
+    {
+      "title": "Identifying the current <script> element",
+      "href": "http://www.2ality.com/2014/05/current-script.html",
+      "time": "00:23:10",
+      "description": "Unser JavaScript Guru Rodney hält eine Audienz der JavaScript Eminenz <a href=\"http://www.2ality.com\">Axel Rauschmayer</a>, und zeigt uns was mit neuen JavaScript APIs wie <code>document.currentScript</code> und <code>document.scripts</code> getan werden kann, und wozu das eigentlich gut ist."
+    },
+    {
+      "title": "Gewinner Decentralize Camp",
+      "href": "http://workingdraft.de/167/",
+      "time": "00:33:25",
+      "description": "In Revision 167 wollten wir von euch wissen, wie man seine Daten &#8220;befreien&#8221; kann. Als Gewinn winken zwei Tickets zum <a href=\"http://decentralizecamp.com/\">Decentralize Camp</a> am 21. Mai in Düsseldorf. Gewonnen haben Sebastian und Philip, wie Rodneys <a href=\"https://gist.github.com/ddprrt/370eb62c8257dcf8eff3\">unparteiisch einwandfreies Auswahl-Skript</a> entschied."
+    }
+  ],
+  "links": [
+    {
+      "title": "JavaScript Promises in Wicked Detail",
+      "href": "http://mattgreer.org/articles/promises-in-wicked-detail/",
+      "time": "00:37:30",
+      "description": "Noch Fragen zu JavaScript Promises? Hier wird alles äußerst ausführlich beantwortet."
+    },
+    {
+      "title": "The difference between Sass and SCSS",
+      "href": "http://www.sitepoint.com/whats-difference-sass-scss/",
+      "time": "00:37:30",
+      "description": "Den Unterschied zwischen den beiden Syntax-Varianten von Sass sollten mittlerweile alle Anwender kennen. Die geschichtlichen Hintergründe sind vielleicht noch unbekannt. Hugo Giraudel klärt auf."
+    },
+    {
+      "title": "The Secret Messages Inside Chinese URLs",
+      "href": "http://www.newrepublic.com/article/117608/chinese-number-websites-secret-meaning-urls",
+      "time": "00:37:30",
+      "description": "Etliche Aha-Effekte in diesem Artikel, der zeigt warum 888888888.com für China eine ganz tolle Domain ist."
+    },
+    {
+      "title": "webcomponents.org",
+      "href": "http://webcomponents.org/",
+      "time": "00:37:30",
+      "description": "Web Components sind das nächste große Ding, das Portal ist das dazu passende Wissensarchiv."
+    }
+  ]
+}

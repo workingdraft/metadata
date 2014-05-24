@@ -1380,6 +1380,7 @@
     "id": 100,
     "date": "2012-12-12",
     "duration": "00:56:36",
+    "lang": "EN",
     "live": true,
     "people": [
       "derSchepp",
@@ -2739,5 +2740,45 @@
     "href": "http://workingdraft.de/169/",
     "audio": "http://workingdraft.de/podpress_trac/web/2387/0/wd-169.mp3",
     "title": "Plausch im Biergarten"
+  },
+  "170": {
+    "id": 170,
+    "date": "2014-05-24",
+    "duration": "00:41:32",
+    "people": [
+      "ddprrt",
+      "drublic",
+      "rodneyrehm"
+    ],
+    "trello": "https://trello.com/b/puukLW91/revision-170",
+    "href": "http://workingdraft.de/170/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2398/0/wd-170.mp3",
+    "title": "Inline SVGs vs Icon Fonts, Adaptive Placeholders und currentScript"
+  },
+  "171": {
+    "id": 171,
+    "date": null,
+    "duration": "00:00:00",
+    "people": [],
+    "trello": "https://trello.com/b/Iu67v9TI/revision-171",
+    "href": "",
+    "audio": "",
+    "title": ""
+  },
+  "172": {
+    "id": 172,
+    "date": null,
+    "duration": "00:00:00",
+    "lang": "EN",
+    "people": [
+      "chriscoyier",
+      "derSchepp",
+      "ddprrt",
+      "helloanselm",
+      "rodneyrehm"
+    ],
+    "href": "",
+    "audio": "",
+    "title": ""
   }
 }

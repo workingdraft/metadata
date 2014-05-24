@@ -275,7 +275,8 @@
       },
       {
         "name": "Robert Agthe",
-        "twitter": "https://twitter.com/polarity"
+        "twitter": "https://twitter.com/polarity",
+        "web": "http://robert-agthe.de/"
       }
     ],
     "href": "http://workingdraft.de/4/",
@@ -621,7 +622,8 @@
       },
       {
         "name": "Guido Mühlwitz",
-        "twitter": "https://twitter.com/muehlwitz"
+        "twitter": "https://twitter.com/muehlwitz",
+        "web": "http://www.guido-muehlwitz.de/"
       },
       {
         "name": "Peter Kröner",
@@ -683,7 +685,8 @@
       },
       {
         "name": "Gerrit van Aaken",
-        "twitter": "https://twitter.com/gerritvanaaken"
+        "twitter": "https://twitter.com/gerritvanaaken",
+        "web": "http://praegnanz.de/"
       },
       {
         "name": "Markus Schlegel",
@@ -795,7 +798,8 @@
       },
       {
         "name": "Nico Brünjes",
-        "twitter": "https://twitter.com/nicobruenjes"
+        "twitter": "https://twitter.com/nicobruenjes",
+        "web": "http://nicobruenjes.de/"
       }
     ],
     "href": "http://workingdraft.de/11/",
@@ -942,7 +946,8 @@
     "people": [
       {
         "name": "Marc Hinse",
-        "twitter": "https://twitter.com/MadeMyDay"
+        "twitter": "https://twitter.com/MadeMyDay",
+        "web": "http://siebennull.com/"
       },
       {
         "name": "Christian Schaefer",
@@ -1027,7 +1032,8 @@
     "people": [
       {
         "name": "Marc Hinse",
-        "twitter": "https://twitter.com/MadeMyDay"
+        "twitter": "https://twitter.com/MadeMyDay",
+        "web": "http://siebennull.com/"
       },
       {
         "name": "Christian Schaefer",
@@ -1102,7 +1108,8 @@
     "people": [
       {
         "name": "Marc Hinse",
-        "twitter": "https://twitter.com/MadeMyDay"
+        "twitter": "https://twitter.com/MadeMyDay",
+        "web": "http://siebennull.com/"
       },
       {
         "name": "Christian Schaefer",
@@ -1328,7 +1335,8 @@
     "people": [
       {
         "name": "Cem Derin",
-        "twitter": "https://twitter.com/derCemDerin"
+        "twitter": "https://twitter.com/derCemDerin",
+        "web": "http://cemderin.net/"
       },
       {
         "name": "Christian Schaefer",
@@ -1409,7 +1417,8 @@
     "people": [
       {
         "name": "Andreas Dantz",
-        "twitter": "https://twitter.com/dantz"
+        "twitter": "https://twitter.com/dantz",
+        "web": "http://dantz.me/"
       },
       {
         "name": "Christian Schaefer",
@@ -1599,7 +1608,8 @@
       },
       {
         "name": "Dirk Jesse",
-        "twitter": "https://twitter.com/djesse"
+        "twitter": "https://twitter.com/djesse",
+        "web": "http://www.highresolution.info/"
       },
       {
         "name": "Markus Schlegel",
@@ -2043,7 +2053,8 @@
     "people": [
       {
         "name": "Jens Grochtdreis",
-        "twitter": "https://twitter.com/Flocke"
+        "twitter": "https://twitter.com/Flocke",
+        "web": "http://grochtdreis.de/"
       },
       {
         "name": "Markus Schlegel",
@@ -2239,7 +2250,8 @@
     "people": [
       {
         "name": "Cem Derin",
-        "twitter": "https://twitter.com/derCemDerin"
+        "twitter": "https://twitter.com/derCemDerin",
+        "web": "http://cemderin.net/"
       },
       {
         "name": "Christian Schaefer",
@@ -2413,7 +2425,8 @@
     "people": [
       {
         "name": "Jens Grochtdreis",
-        "twitter": "https://twitter.com/Flocke"
+        "twitter": "https://twitter.com/Flocke",
+        "web": "http://grochtdreis.de/"
       },
       {
         "name": "Christian Schaefer",
@@ -2580,7 +2593,8 @@
     "people": [
       {
         "name": "Frank Bueltge",
-        "twitter": "https://twitter.com/bueltge"
+        "twitter": "https://twitter.com/bueltge",
+        "web": "http://bueltge.de/"
       },
       {
         "name": "Christian Schaefer",
@@ -2911,7 +2925,11 @@
       },
       {
         "name": "Anselm Hannemann",
-        "twitter": "https://twitter.com/helloanselm"
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
       },
       {
         "name": "Markus Schlegel",
@@ -2996,7 +3014,8 @@
     "people": [
       {
         "name": "Marc Hinse",
-        "twitter": "https://twitter.com/MadeMyDay"
+        "twitter": "https://twitter.com/MadeMyDay",
+        "web": "http://siebennull.com/"
       },
       {
         "name": "Christian Schaefer",
@@ -3125,11 +3144,13 @@
       },
       {
         "name": "Dirk Jesse",
-        "twitter": "https://twitter.com/djesse"
+        "twitter": "https://twitter.com/djesse",
+        "web": "http://www.highresolution.info/"
       },
       {
         "name": "Matthias Mees",
-        "twitter": "https://twitter.com/yellowled"
+        "twitter": "https://twitter.com/yellowled",
+        "web": "http://yellowled.de/"
       }
     ],
     "href": "http://workingdraft.de/38/",
@@ -3329,7 +3350,8 @@
       },
       {
         "name": "Frederic Hemberger",
-        "twitter": "https://twitter.com/fhemberger"
+        "twitter": "https://twitter.com/fhemberger",
+        "web": "http://frederic-hemberger.de/"
       },
       {
         "name": "Markus Schlegel",
@@ -3742,7 +3764,8 @@
       },
       {
         "name": "Sven Wolfermann",
-        "twitter": "https://twitter.com/maddesigns"
+        "twitter": "https://twitter.com/maddesigns",
+        "web": "http://maddesigns.de/"
       },
       {
         "name": "Peter Kröner",
@@ -3817,7 +3840,8 @@
     "people": [
       {
         "name": "Marc Hinse",
-        "twitter": "https://twitter.com/MadeMyDay"
+        "twitter": "https://twitter.com/MadeMyDay",
+        "web": "http://siebennull.com/"
       },
       {
         "name": "Christian Schaefer",
@@ -3829,7 +3853,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -4059,7 +4083,8 @@
     "people": [
       {
         "name": "Marc Hinse",
-        "twitter": "https://twitter.com/MadeMyDay"
+        "twitter": "https://twitter.com/MadeMyDay",
+        "web": "http://siebennull.com/"
       },
       {
         "name": "Christian Schaefer",
@@ -4071,30 +4096,38 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
       },
       {
         "name": "Maik Wagner",
-        "twitter": "https://twitter.com/fernmuendlich"
+        "twitter": "https://twitter.com/fernmuendlich",
+        "web": "http://www.fernmuendli.ch/"
       },
       {
         "name": "Frederic Hemberger",
-        "twitter": "https://twitter.com/fhemberger"
+        "twitter": "https://twitter.com/fhemberger",
+        "web": "http://frederic-hemberger.de/"
       },
       {
         "name": "Anselm Hannemann",
-        "twitter": "https://twitter.com/helloanselm"
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
       },
       {
         "name": "David Maciejewski",
-        "twitter": "https://twitter.com/macx"
+        "twitter": "https://twitter.com/macx",
+        "web": "http://macx.io/"
       },
       {
         "name": "Sven Wolfermann",
-        "twitter": "https://twitter.com/maddesigns"
+        "twitter": "https://twitter.com/maddesigns",
+        "web": "http://maddesigns.de/"
       },
       {
         "name": "Rodney Rehm",
@@ -4139,7 +4172,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -4313,7 +4346,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -4518,7 +4551,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -4739,7 +4772,8 @@
     "people": [
       {
         "name": "Marc Hinse",
-        "twitter": "https://twitter.com/MadeMyDay"
+        "twitter": "https://twitter.com/MadeMyDay",
+        "web": "http://siebennull.com/"
       },
       {
         "name": "Christian Schaefer",
@@ -4868,7 +4902,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -4963,7 +4997,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -5091,7 +5125,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -5159,7 +5193,8 @@
       },
       {
         "name": "Dirk Jesse",
-        "twitter": "https://twitter.com/djesse"
+        "twitter": "https://twitter.com/djesse",
+        "web": "http://www.highresolution.info/"
       }
     ],
     "href": "http://workingdraft.de/60/",
@@ -5251,7 +5286,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -5344,7 +5379,8 @@
     "people": [
       {
         "name": "Pascal Szewczyk",
-        "twitter": "https://twitter.com/derPepo"
+        "twitter": "https://twitter.com/derPepo",
+        "web": "http://elektrowecker.de/"
       },
       {
         "name": "Christian Schaefer",
@@ -5438,7 +5474,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -5541,14 +5577,15 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
       },
       {
         "name": "Marc Thiele",
-        "twitter": "https://twitter.com/marcthiele"
+        "twitter": "https://twitter.com/marcthiele",
+        "web": "http://marcthiele.com/"
       }
     ],
     "href": "http://workingdraft.de/64/",
@@ -5663,7 +5700,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -5740,7 +5777,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -5840,7 +5877,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -5936,14 +5973,15 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
       },
       {
         "name": "Frederic Hemberger",
-        "twitter": "https://twitter.com/fhemberger"
+        "twitter": "https://twitter.com/fhemberger",
+        "web": "http://frederic-hemberger.de/"
       }
     ],
     "href": "http://workingdraft.de/68/",
@@ -6045,7 +6083,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -6129,14 +6167,15 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
       },
       {
         "name": "Frederic Hemberger",
-        "twitter": "https://twitter.com/fhemberger"
+        "twitter": "https://twitter.com/fhemberger",
+        "web": "http://frederic-hemberger.de/"
       },
       {
         "name": "Peter Kröner",
@@ -6247,7 +6286,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -6376,7 +6415,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -6481,14 +6520,18 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
       },
       {
         "name": "Anselm Hannemann",
-        "twitter": "https://twitter.com/helloanselm"
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
       }
     ],
     "href": "http://workingdraft.de/73/",
@@ -6569,7 +6612,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -6634,7 +6677,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -6709,7 +6752,8 @@
     "people": [
       {
         "name": "asciidisco",
-        "twitter": "https://twitter.com/asciidisco"
+        "twitter": "https://twitter.com/asciidisco",
+        "web": "http://www.asciidisco.com/"
       },
       {
         "name": "Kahlil Lechelt",
@@ -6723,7 +6767,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -7006,7 +7050,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -7138,7 +7182,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -7257,7 +7301,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -7350,7 +7394,8 @@
     "people": [
       {
         "name": "Benedikt Kastl",
-        "twitter": "https://twitter.com/bkastl"
+        "twitter": "https://twitter.com/bkastl",
+        "web": "http://benediktkastl.de/"
       },
       {
         "name": "Christian Schaefer",
@@ -7371,7 +7416,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -7488,14 +7533,18 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
       },
       {
         "name": "Anselm Hannemann",
-        "twitter": "https://twitter.com/helloanselm"
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
       }
     ],
     "href": "http://workingdraft.de/82/",
@@ -7598,7 +7647,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -7694,7 +7743,8 @@
     "people": [
       {
         "name": "asciidisco",
-        "twitter": "https://twitter.com/asciidisco"
+        "twitter": "https://twitter.com/asciidisco",
+        "web": "http://www.asciidisco.com/"
       },
       {
         "name": "Rodney Rehm",
@@ -7817,14 +7867,15 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
       },
       {
         "name": "Marc Thiele",
-        "twitter": "https://twitter.com/marcthiele"
+        "twitter": "https://twitter.com/marcthiele",
+        "web": "http://marcthiele.com/"
       },
       {
         "name": "Peter Kröner",
@@ -7927,12 +7978,13 @@
     "people": [
       {
         "name": "asciidisco",
-        "twitter": "https://twitter.com/asciidisco"
+        "twitter": "https://twitter.com/asciidisco",
+        "web": "http://www.asciidisco.com/"
       },
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -8034,7 +8086,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -8134,7 +8186,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -8268,7 +8320,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -8405,15 +8457,21 @@
     "people": [
       {
         "name": "asciidisco",
-        "twitter": "https://twitter.com/asciidisco"
+        "twitter": "https://twitter.com/asciidisco",
+        "web": "http://www.asciidisco.com/"
       },
       {
         "name": "Frederic Hemberger",
-        "twitter": "https://twitter.com/fhemberger"
+        "twitter": "https://twitter.com/fhemberger",
+        "web": "http://frederic-hemberger.de/"
       },
       {
         "name": "Anselm Hannemann",
-        "twitter": "https://twitter.com/helloanselm"
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
       },
       {
         "name": "Peter Kröner",
@@ -8530,7 +8588,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -8644,12 +8702,13 @@
       },
       {
         "name": "Dirk Jesse",
-        "twitter": "https://twitter.com/djesse"
+        "twitter": "https://twitter.com/djesse",
+        "web": "http://www.highresolution.info/"
       },
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -8737,7 +8796,8 @@
     "people": [
       {
         "name": "Christopher Zillgens",
-        "twitter": "https://twitter.com/czillgens"
+        "twitter": "https://twitter.com/czillgens",
+        "web": "http://christophzillgens.com/en/"
       },
       {
         "name": "Christian Schaefer",
@@ -8758,7 +8818,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -8903,7 +8963,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -8989,7 +9049,8 @@
       },
       {
         "name": "Marco Zehe",
-        "twitter": "https://twitter.com/marcozehe"
+        "twitter": "https://twitter.com/marcozehe",
+        "web": "http://www.zehe-edv.de/"
       },
       {
         "name": "Rodney Rehm",
@@ -9085,7 +9146,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -9164,7 +9225,8 @@
     "people": [
       {
         "name": "Bruce Lawson",
-        "twitter": "https://twitter.com/brucel"
+        "twitter": "https://twitter.com/brucel",
+        "web": "http://www.brucelawson.co.uk/"
       },
       {
         "name": "Christian Schaefer",
@@ -9176,18 +9238,23 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
       },
       {
         "name": "Anselm Hannemann",
-        "twitter": "https://twitter.com/helloanselm"
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
       },
       {
         "name": "David Maciejewski",
-        "twitter": "https://twitter.com/macx"
+        "twitter": "https://twitter.com/macx",
+        "web": "http://macx.io/"
       },
       {
         "name": "Rodney Rehm",
@@ -9234,7 +9301,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -9340,7 +9407,8 @@
     "people": [
       {
         "name": "Marc Hinse",
-        "twitter": "https://twitter.com/MadeMyDay"
+        "twitter": "https://twitter.com/MadeMyDay",
+        "web": "http://siebennull.com/"
       },
       {
         "name": "Kahlil Lechelt",
@@ -9354,14 +9422,15 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
       },
       {
         "name": "Frederic Hemberger",
-        "twitter": "https://twitter.com/fhemberger"
+        "twitter": "https://twitter.com/fhemberger",
+        "web": "http://frederic-hemberger.de/"
       },
       {
         "name": "Peter Kröner",
@@ -9450,6 +9519,7 @@
     "id": 100,
     "date": "2012-12-12",
     "duration": "00:56:36",
+    "lang": "EN",
     "live": true,
     "people": [
       {
@@ -9471,14 +9541,15 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
       },
       {
         "name": "Paul Irish",
-        "twitter": "https://twitter.com/paul_irish"
+        "twitter": "https://twitter.com/paul_irish",
+        "web": "http://www.paulirish.com/"
       },
       {
         "name": "Rodney Rehm",
@@ -9613,7 +9684,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -9698,7 +9769,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -9831,7 +9902,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -9920,14 +9991,14 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
       },
       {
         "name": "Andre Jay Meissner",
-        "twitter": "https://twitter.com/klick_ass"
+        "twitter": "http://klick-ass.com/"
       },
       {
         "name": "Peter Kröner",
@@ -10035,7 +10106,8 @@
     "people": [
       {
         "name": "asciidisco",
-        "twitter": "https://twitter.com/asciidisco"
+        "twitter": "https://twitter.com/asciidisco",
+        "web": "http://www.asciidisco.com/"
       },
       {
         "name": "Christian Schaefer",
@@ -10115,14 +10187,15 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
       },
       {
         "name": "Frederic Hemberger",
-        "twitter": "https://twitter.com/fhemberger"
+        "twitter": "https://twitter.com/fhemberger",
+        "web": "http://frederic-hemberger.de/"
       }
     ],
     "href": "http://workingdraft.de/106/",
@@ -10224,14 +10297,18 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
       },
       {
         "name": "Anselm Hannemann",
-        "twitter": "https://twitter.com/helloanselm"
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
       },
       {
         "name": "Peter Kröner",
@@ -10310,7 +10387,8 @@
     "people": [
       {
         "name": "asciidisco",
-        "twitter": "https://twitter.com/asciidisco"
+        "twitter": "https://twitter.com/asciidisco",
+        "web": "http://www.asciidisco.com/"
       },
       {
         "name": "Christian Schaefer",
@@ -10322,7 +10400,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -10420,7 +10498,8 @@
     "people": [
       {
         "name": "Andreas Dantz",
-        "twitter": "https://twitter.com/dantz"
+        "twitter": "https://twitter.com/dantz",
+        "web": "http://dantz.me/"
       },
       {
         "name": "Kahlil Lechelt",
@@ -10500,7 +10579,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -10610,7 +10689,8 @@
       },
       {
         "name": "Frederic Hemberger",
-        "twitter": "https://twitter.com/fhemberger"
+        "twitter": "https://twitter.com/fhemberger",
+        "web": "http://frederic-hemberger.de/"
       },
       {
         "name": "Peter Kröner",
@@ -10814,7 +10894,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -10934,7 +11014,8 @@
     "people": [
       {
         "name": "Andreas Dantz",
-        "twitter": "https://twitter.com/dantz"
+        "twitter": "https://twitter.com/dantz",
+        "web": "http://dantz.me/"
       },
       {
         "name": "Christian Schaefer",
@@ -11032,12 +11113,13 @@
     "people": [
       {
         "name": "Marc Hinse",
-        "twitter": "https://twitter.com/MadeMyDay"
+        "twitter": "https://twitter.com/MadeMyDay",
+        "web": "http://siebennull.com/"
       },
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -11174,7 +11256,8 @@
     "people": [
       {
         "name": "Bruce Lawson",
-        "twitter": "https://twitter.com/brucel"
+        "twitter": "https://twitter.com/brucel",
+        "web": "http://www.brucelawson.co.uk/"
       },
       {
         "name": "Christian Schaefer",
@@ -11185,11 +11268,13 @@
       },
       {
         "name": "Gunnar Bittersmann",
-        "twitter": "https://twitter.com/g16n"
+        "twitter": "https://twitter.com/g16n",
+        "web": "http://bittersmann.de/"
       },
       {
         "name": "Sven Wolfermann",
-        "twitter": "https://twitter.com/maddesigns"
+        "twitter": "https://twitter.com/maddesigns",
+        "web": "http://maddesigns.de/"
       },
       {
         "name": "Peter Kröner",
@@ -11288,7 +11373,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -11392,7 +11477,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -11479,7 +11564,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -11579,7 +11664,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -11842,7 +11927,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -12051,14 +12136,18 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
       },
       {
         "name": "Anselm Hannemann",
-        "twitter": "https://twitter.com/helloanselm"
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
       }
     ],
     "href": "http://workingdraft.de/125/",
@@ -12375,7 +12464,8 @@
       },
       {
         "name": "Jan Monschke",
-        "twitter": "https://twitter.com/thedeftone"
+        "twitter": "https://twitter.com/thedeftone",
+        "web": "http://janmonschke.com/"
       }
     ],
     "href": "http://workingdraft.de/128/",
@@ -12459,7 +12549,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -12820,7 +12910,8 @@
     "people": [
       {
         "name": "asciidisco",
-        "twitter": "https://twitter.com/asciidisco"
+        "twitter": "https://twitter.com/asciidisco",
+        "web": "http://www.asciidisco.com/"
       },
       {
         "name": "Christian Schaefer",
@@ -12906,7 +12997,8 @@
     "people": [
       {
         "name": "Jens Grochtdreis",
-        "twitter": "https://twitter.com/Flocke"
+        "twitter": "https://twitter.com/Flocke",
+        "web": "http://grochtdreis.de/"
       },
       {
         "name": "Stefan Baumgartner",
@@ -12918,7 +13010,11 @@
       },
       {
         "name": "Anselm Hannemann",
-        "twitter": "https://twitter.com/helloanselm"
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
       }
     ],
     "href": "http://workingdraft.de/133/",
@@ -13022,7 +13118,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -13146,7 +13242,8 @@
       },
       {
         "name": "Matthias Mees",
-        "twitter": "https://twitter.com/yellowled"
+        "twitter": "https://twitter.com/yellowled",
+        "web": "http://yellowled.de/"
       }
     ],
     "href": "http://workingdraft.de/135/",
@@ -13232,14 +13329,15 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
       },
       {
         "name": "Stefan Nitzsche",
-        "twitter": "https://twitter.com/stn1978"
+        "twitter": "https://twitter.com/stn1978",
+        "web": "http://www.stn.my/"
       }
     ],
     "href": "http://workingdraft.de/136/",
@@ -13418,7 +13516,8 @@
     "people": [
       {
         "name": "Jens Grochtdreis",
-        "twitter": "https://twitter.com/Flocke"
+        "twitter": "https://twitter.com/Flocke",
+        "web": "http://grochtdreis.de/"
       },
       {
         "name": "Stefan Baumgartner",
@@ -13437,7 +13536,8 @@
       },
       {
         "name": "Matthias Mees",
-        "twitter": "https://twitter.com/yellowled"
+        "twitter": "https://twitter.com/yellowled",
+        "web": "http://yellowled.de/"
       }
     ],
     "href": "http://workingdraft.de/138/",
@@ -13533,7 +13633,8 @@
       },
       {
         "name": "Patrick Lauke",
-        "twitter": "https://twitter.com/patrick_h_lauke"
+        "twitter": "https://twitter.com/patrick_h_lauke",
+        "web": "http://www.splintered.co.uk/"
       },
       {
         "name": "Peter Kröner",
@@ -13614,11 +13715,13 @@
       },
       {
         "name": "asciidisco",
-        "twitter": "https://twitter.com/asciidisco"
+        "twitter": "https://twitter.com/asciidisco",
+        "web": "http://www.asciidisco.com/"
       },
       {
         "name": "Joschi Kuphal",
-        "twitter": "https://twitter.com/jkphl"
+        "twitter": "https://twitter.com/jkphl",
+        "web": "http://jkphl.is/"
       },
       {
         "name": "Rodney Rehm",
@@ -13646,7 +13749,8 @@
     "people": [
       {
         "name": "Ole Michaelis",
-        "twitter": "https://twitter.com/codestars"
+        "twitter": "https://twitter.com/codestars",
+        "web": "http://codestars.eu/"
       },
       {
         "name": "Stefan Baumgartner",
@@ -13659,7 +13763,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -13754,7 +13858,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -13841,7 +13945,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -13950,14 +14054,15 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
       },
       {
         "name": "Sven Wolfermann",
-        "twitter": "https://twitter.com/maddesigns"
+        "twitter": "https://twitter.com/maddesigns",
+        "web": "http://maddesigns.de/"
       }
     ],
     "trello": "https://trello.com/b/bTqq8U6q/revision-144",
@@ -14040,7 +14145,8 @@
     "people": [
       {
         "name": "Bastian Allgeier",
-        "twitter": "https://twitter.com/bastianallgeier"
+        "twitter": "https://twitter.com/bastianallgeier",
+        "web": "http://bastianallgeier.com/"
       },
       {
         "name": "Christian Schaefer",
@@ -14052,7 +14158,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -14154,7 +14260,11 @@
       },
       {
         "name": "Anselm Hannemann",
-        "twitter": "https://twitter.com/helloanselm"
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
       },
       {
         "name": "Peter Kröner",
@@ -14224,7 +14334,8 @@
     "people": [
       {
         "name": "Christoph Rumpel",
-        "twitter": "https://twitter.com/christophrumpel"
+        "twitter": "https://twitter.com/christophrumpel",
+        "web": "http://christoph-rumpel.com/"
       },
       {
         "name": "Stefan Baumgartner",
@@ -14244,7 +14355,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -14456,14 +14567,15 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
       },
       {
         "name": "Gerrit van Aaken",
-        "twitter": "https://twitter.com/gerritvanaaken"
+        "twitter": "https://twitter.com/gerritvanaaken",
+        "web": "http://praegnanz.de/"
       }
     ],
     "trello": "https://trello.com/b/eLJuUVg8/revision-149",
@@ -14803,7 +14915,8 @@
     "people": [
       {
         "name": "asciidisco",
-        "twitter": "https://twitter.com/asciidisco"
+        "twitter": "https://twitter.com/asciidisco",
+        "web": "http://www.asciidisco.com/"
       },
       {
         "name": "Stefan Baumgartner",
@@ -14816,7 +14929,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -14944,14 +15057,15 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
       },
       {
         "name": "Frederic Hemberger",
-        "twitter": "https://twitter.com/fhemberger"
+        "twitter": "https://twitter.com/fhemberger",
+        "web": "http://frederic-hemberger.de/"
       },
       {
         "name": "Peter Kröner",
@@ -15069,7 +15183,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -15256,7 +15370,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -15355,7 +15469,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -15370,7 +15484,8 @@
       },
       {
         "name": "Tobias Baldauf",
-        "twitter": "https://twitter.com/tbaldauf"
+        "twitter": "https://twitter.com/tbaldauf",
+        "web": "http://tobias.is/"
       }
     ],
     "trello": "https://trello.com/b/pVGY5rNF/revision-158",
@@ -15690,7 +15805,8 @@
     "people": [
       {
         "name": "asciidisco",
-        "twitter": "https://twitter.com/asciidisco"
+        "twitter": "https://twitter.com/asciidisco",
+        "web": "http://www.asciidisco.com/"
       },
       {
         "name": "Christian Heilmann",
@@ -15789,7 +15905,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -15888,7 +16004,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -15989,7 +16105,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -16119,7 +16235,8 @@
       },
       {
         "name": "Jens Grochtdreis",
-        "twitter": "https://twitter.com/Flocke"
+        "twitter": "https://twitter.com/Flocke",
+        "web": "http://grochtdreis.de/"
       },
       {
         "name": "Peter Kröner",
@@ -16131,7 +16248,8 @@
       },
       {
         "name": "Matthias Mees",
-        "twitter": "https://twitter.com/yellowled"
+        "twitter": "https://twitter.com/yellowled",
+        "web": "http://yellowled.de/"
       }
     ],
     "trello": "https://trello.com/b/RqSws07I/revision-165",
@@ -16206,14 +16324,15 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
       },
       {
         "name": "Pascal Hartig",
-        "twitter": "https://twitter.com/passy"
+        "twitter": "https://twitter.com/passy",
+        "web": "http://passy.me/"
       },
       {
         "name": "Peter Kröner",
@@ -16306,11 +16425,13 @@
       },
       {
         "name": "Marc Thiele",
-        "twitter": "https://twitter.com/marcthiele"
+        "twitter": "https://twitter.com/marcthiele",
+        "web": "http://marcthiele.com/"
       },
       {
         "name": "Bastian Allgeier",
-        "twitter": "https://twitter.com/bastianallgeier"
+        "twitter": "https://twitter.com/bastianallgeier",
+        "web": "http://bastianallgeier.com/"
       }
     ],
     "trello": "https://trello.com/b/VDzYcA6M/revision-167",
@@ -16383,7 +16504,7 @@
       {
         "name": "Hans Christian Reinl",
         "team": [
-          "2011-11-03"
+          "2011-08-25"
         ],
         "twitter": "https://twitter.com/drublic",
         "web": "http://drublic.de/"
@@ -16391,7 +16512,7 @@
       {
         "name": "Paul Bakaus",
         "twitter": "https://twitter.com/pbakaus",
-        "web": "http://paulbakaus.com"
+        "web": "http://paulbakaus.com/"
       },
       {
         "name": "Peter Kröner",
@@ -16480,7 +16601,8 @@
       },
       {
         "name": "Jens Grochtdreis",
-        "twitter": "https://twitter.com/Flocke"
+        "twitter": "https://twitter.com/Flocke",
+        "web": "http://grochtdreis.de/"
       },
       {
         "name": "Peter Kröner",
@@ -16515,5 +16637,158 @@
         "description": "PSD CSS Extraction, Measurements and Image Optimization Service for the Web"
       }
     ]
+  },
+  "170": {
+    "id": 170,
+    "date": "2014-05-24",
+    "duration": "00:41:32",
+    "people": [
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      },
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Rodney Rehm",
+        "team": [
+          "2011-09-16"
+        ],
+        "twitter": "https://twitter.com/rodneyrehm",
+        "web": "http://rodneyrehm.de/en/"
+      }
+    ],
+    "trello": "https://trello.com/b/puukLW91/revision-170",
+    "href": "http://workingdraft.de/170/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2398/0/wd-170.mp3",
+    "title": "Inline SVGs vs Icon Fonts, Adaptive Placeholders und currentScript",
+    "description": "Eine kurze und knackige Episode zu diversen Themen, inklusive den Gewinnern der Verlosung aus <a href=\"/167/\">Revision 167</a>",
+    "news": [
+      {
+        "title": "Firefox 29",
+        "href": "https://developer.mozilla.org/en-US/Firefox/Releases/29",
+        "time": "00:00:00",
+        "description": "Firefox 29 ist da, inklusive CSS Variablen und <code>will-change</code> Attribut hinter Flag, und einer nicht prefixten Implementierung von <code>box-sizing</code>."
+      }
+    ],
+    "topics": [
+      {
+        "title": "Icon Fonts vs SVG",
+        "href": "http://css-tricks.com/icon-fonts-vs-svg/",
+        "time": "00:00:46",
+        "description": "Chris Coyier schreibt über die Vor- und Nachteile von Icon Fonts und (Inline) SVG, und schlägt sich mit nur wenigen Abstrichen ganz klar auf die Seite der skalierbaren Vektoren. Wir sinnieren über Seperation of concerns, fallbacks, mögliche Sicherheitslücken und resümieren mit unseren eigenen Erfahrungen."
+      },
+      {
+        "title": "Adaptive Placeholders",
+        "href": "http://blog.circleci.com/adaptive-placeholders/",
+        "time": "00:13:20",
+        "description": "Auch bekannt als das <a href=\"http://bradfrostweb.com/blog/post/float-label-pattern/\">Float Label Pattern</a> sind &#8220;Adaptive Placeholders&#8221; der nächste Usability Schrei da draussen. Das jetzt viele Leute (u.a. auch <a href=\"http://snook.ca/archives/html_and_css/floated-label-pattern-css\">Jonathan Snook</a>) mit diversen Implementierungen versuchen die Grundidee optimal zu implementieren, zeigt nur wie sympathisch diese Idee Designern wie Entwicklern ist. Dass man allerdings nicht allen JavaScript-freien Implementierungen trauen soll und manches Mal das Web ganz schön verbogen wird, zeigen wir."
+      },
+      {
+        "title": "Identifying the current <script> element",
+        "href": "http://www.2ality.com/2014/05/current-script.html",
+        "time": "00:23:10",
+        "description": "Unser JavaScript Guru Rodney hält eine Audienz der JavaScript Eminenz <a href=\"http://www.2ality.com\">Axel Rauschmayer</a>, und zeigt uns was mit neuen JavaScript APIs wie <code>document.currentScript</code> und <code>document.scripts</code> getan werden kann, und wozu das eigentlich gut ist."
+      },
+      {
+        "title": "Gewinner Decentralize Camp",
+        "href": "http://workingdraft.de/167/",
+        "time": "00:33:25",
+        "description": "In Revision 167 wollten wir von euch wissen, wie man seine Daten &#8220;befreien&#8221; kann. Als Gewinn winken zwei Tickets zum <a href=\"http://decentralizecamp.com/\">Decentralize Camp</a> am 21. Mai in Düsseldorf. Gewonnen haben Sebastian und Philip, wie Rodneys <a href=\"https://gist.github.com/ddprrt/370eb62c8257dcf8eff3\">unparteiisch einwandfreies Auswahl-Skript</a> entschied."
+      }
+    ],
+    "links": [
+      {
+        "title": "JavaScript Promises in Wicked Detail",
+        "href": "http://mattgreer.org/articles/promises-in-wicked-detail/",
+        "time": "00:37:30",
+        "description": "Noch Fragen zu JavaScript Promises? Hier wird alles äußerst ausführlich beantwortet."
+      },
+      {
+        "title": "The difference between Sass and SCSS",
+        "href": "http://www.sitepoint.com/whats-difference-sass-scss/",
+        "time": "00:37:30",
+        "description": "Den Unterschied zwischen den beiden Syntax-Varianten von Sass sollten mittlerweile alle Anwender kennen. Die geschichtlichen Hintergründe sind vielleicht noch unbekannt. Hugo Giraudel klärt auf."
+      },
+      {
+        "title": "The Secret Messages Inside Chinese URLs",
+        "href": "http://www.newrepublic.com/article/117608/chinese-number-websites-secret-meaning-urls",
+        "time": "00:37:30",
+        "description": "Etliche Aha-Effekte in diesem Artikel, der zeigt warum 888888888.com für China eine ganz tolle Domain ist."
+      },
+      {
+        "title": "webcomponents.org",
+        "href": "http://webcomponents.org/",
+        "time": "00:37:30",
+        "description": "Web Components sind das nächste große Ding, das Portal ist das dazu passende Wissensarchiv."
+      }
+    ]
+  },
+  "171": {
+    "id": 171,
+    "date": null,
+    "duration": "00:00:00",
+    "people": [],
+    "trello": "https://trello.com/b/Iu67v9TI/revision-171",
+    "href": "",
+    "audio": "",
+    "title": ""
+  },
+  "172": {
+    "id": 172,
+    "date": null,
+    "duration": "00:00:00",
+    "lang": "EN",
+    "people": [
+      {
+        "name": "Chris Coyier",
+        "twitter": "https://twitter.com/chriscoyier",
+        "web": "http://css-tricks.com/"
+      },
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      },
+      {
+        "name": "Anselm Hannemann",
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
+      },
+      {
+        "name": "Rodney Rehm",
+        "team": [
+          "2011-09-16"
+        ],
+        "twitter": "https://twitter.com/rodneyrehm",
+        "web": "http://rodneyrehm.de/en/"
+      }
+    ],
+    "href": "",
+    "audio": "",
+    "title": ""
   }
 }
