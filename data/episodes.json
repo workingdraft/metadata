@@ -2771,8 +2771,8 @@
   },
   "172": {
     "id": 172,
-    "date": null,
-    "duration": "00:00:00",
+    "date": "2014-05-24",
+    "duration": "00:31:00",
     "lang": "EN",
     "people": [
       "chriscoyier",
@@ -2781,8 +2781,8 @@
       "helloanselm",
       "rodneyrehm"
     ],
-    "href": "",
-    "audio": "",
-    "title": ""
+    "href": "http://workingdraft.de/172/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2418/0/wd-172.mp3",
+    "title": "Interview mit Chris Coyier"
   }
 }

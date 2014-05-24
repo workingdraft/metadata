@@ -1,0 +1,48 @@
+{
+  "id": 172,
+  "date": "2014-05-24",
+  "duration": "00:31:00",
+  "lang": "EN",
+  "people": [
+    {
+      "name": "Chris Coyier",
+      "twitter": "https://twitter.com/chriscoyier",
+      "web": "http://css-tricks.com/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    }
+  ],
+  "href": "http://workingdraft.de/172/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2418/0/wd-172.mp3",
+  "title": "Interview mit Chris Coyier",
+  "description": "Wie jedes Jahr waren wir auch diesmal zu mehreren auf der <a href=\"http://2014.beyondtellerrand.com/\">beyond tellerrand</a> und haben einen Speaker in einen Hinterhalt gelockt, aus dem er erst nach einem Interview mit uns wieder freigelassen wurde. Unsere Beute diesmal: Niemand geringeres als Chris Coyier von <a href=\"http://css-tricks.com/\">CSS Tricks</a>, <a href=\"http://codepen.io/\">Codepen.io</a> und <a href=\"http://shoptalkshow.com/\">Shoptalkshow</a>, auch bekannt als &#8220;Die Rampensau&#8221;! :) Wir stellten viele Fragen über seinen Werdegang, und sein täglich Brot und Butter. Viel Spaß!"
+}

@@ -16828,8 +16828,8 @@
   },
   "172": {
     "id": 172,
-    "date": null,
-    "duration": "00:00:00",
+    "date": "2014-05-24",
+    "duration": "00:31:00",
     "lang": "EN",
     "people": [
       {
@@ -16869,8 +16869,9 @@
         "web": "http://rodneyrehm.de/en/"
       }
     ],
-    "href": "",
-    "audio": "",
-    "title": ""
+    "href": "http://workingdraft.de/172/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2418/0/wd-172.mp3",
+    "title": "Interview mit Chris Coyier",
+    "description": "Wie jedes Jahr waren wir auch diesmal zu mehreren auf der <a href=\"http://2014.beyondtellerrand.com/\">beyond tellerrand</a> und haben einen Speaker in einen Hinterhalt gelockt, aus dem er erst nach einem Interview mit uns wieder freigelassen wurde. Unsere Beute diesmal: Niemand geringeres als Chris Coyier von <a href=\"http://css-tricks.com/\">CSS Tricks</a>, <a href=\"http://codepen.io/\">Codepen.io</a> und <a href=\"http://shoptalkshow.com/\">Shoptalkshow</a>, auch bekannt als &#8220;Die Rampensau&#8221;! :) Wir stellten viele Fragen über seinen Werdegang, und sein täglich Brot und Butter. Viel Spaß!"
   }
 }
