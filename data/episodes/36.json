@@ -12,7 +12,11 @@
     },
     {
       "name": "Anselm Hannemann",
-      "twitter": "https://twitter.com/helloanselm"
+      "team": [
+        "2014-05-05"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
     },
     {
       "name": "Markus Schlegel",

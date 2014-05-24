@@ -23,14 +23,18 @@
     {
       "name": "Hans Christian Reinl",
       "team": [
-        "2011-11-03"
+        "2011-08-25"
       ],
       "twitter": "https://twitter.com/drublic",
       "web": "http://drublic.de/"
     },
     {
       "name": "Anselm Hannemann",
-      "twitter": "https://twitter.com/helloanselm"
+      "team": [
+        "2014-05-05"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
     }
   ],
   "href": "http://workingdraft.de/82/",

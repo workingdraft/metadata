@@ -21,14 +21,15 @@
     {
       "name": "Hans Christian Reinl",
       "team": [
-        "2011-11-03"
+        "2011-08-25"
       ],
       "twitter": "https://twitter.com/drublic",
       "web": "http://drublic.de/"
     },
     {
       "name": "Sven Wolfermann",
-      "twitter": "https://twitter.com/maddesigns"
+      "twitter": "https://twitter.com/maddesigns",
+      "web": "http://maddesigns.de/"
     }
   ],
   "trello": "https://trello.com/b/bTqq8U6q/revision-144",

@@ -13,7 +13,8 @@
   "people": [
     {
       "name": "Christoph Rumpel",
-      "twitter": "https://twitter.com/christophrumpel"
+      "twitter": "https://twitter.com/christophrumpel",
+      "web": "http://christoph-rumpel.com/"
     },
     {
       "name": "Stefan Baumgartner",
@@ -33,7 +34,7 @@
     {
       "name": "Hans Christian Reinl",
       "team": [
-        "2011-11-03"
+        "2011-08-25"
       ],
       "twitter": "https://twitter.com/drublic",
       "web": "http://drublic.de/"

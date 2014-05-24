@@ -13,7 +13,8 @@
     },
     {
       "name": "Jens Grochtdreis",
-      "twitter": "https://twitter.com/Flocke"
+      "twitter": "https://twitter.com/Flocke",
+      "web": "http://grochtdreis.de/"
     },
     {
       "name": "Peter Kröner",
@@ -25,7 +26,8 @@
     },
     {
       "name": "Matthias Mees",
-      "twitter": "https://twitter.com/yellowled"
+      "twitter": "https://twitter.com/yellowled",
+      "web": "http://yellowled.de/"
     }
   ],
   "trello": "https://trello.com/b/RqSws07I/revision-165",

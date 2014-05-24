@@ -6,7 +6,8 @@
   "people": [
     {
       "name": "Benedikt Kastl",
-      "twitter": "https://twitter.com/bkastl"
+      "twitter": "https://twitter.com/bkastl",
+      "web": "http://benediktkastl.de/"
     },
     {
       "name": "Christian Schaefer",
@@ -27,7 +28,7 @@
     {
       "name": "Hans Christian Reinl",
       "team": [
-        "2011-11-03"
+        "2011-08-25"
       ],
       "twitter": "https://twitter.com/drublic",
       "web": "http://drublic.de/"

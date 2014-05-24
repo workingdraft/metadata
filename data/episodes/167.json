@@ -12,11 +12,13 @@
     },
     {
       "name": "Marc Thiele",
-      "twitter": "https://twitter.com/marcthiele"
+      "twitter": "https://twitter.com/marcthiele",
+      "web": "http://marcthiele.com/"
     },
     {
       "name": "Bastian Allgeier",
-      "twitter": "https://twitter.com/bastianallgeier"
+      "twitter": "https://twitter.com/bastianallgeier",
+      "web": "http://bastianallgeier.com/"
     }
   ],
   "trello": "https://trello.com/b/VDzYcA6M/revision-167",

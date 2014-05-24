@@ -6,7 +6,8 @@
   "people": [
     {
       "name": "Bruce Lawson",
-      "twitter": "https://twitter.com/brucel"
+      "twitter": "https://twitter.com/brucel",
+      "web": "http://www.brucelawson.co.uk/"
     },
     {
       "name": "Christian Schaefer",
@@ -17,11 +18,13 @@
     },
     {
       "name": "Gunnar Bittersmann",
-      "twitter": "https://twitter.com/g16n"
+      "twitter": "https://twitter.com/g16n",
+      "web": "http://bittersmann.de/"
     },
     {
       "name": "Sven Wolfermann",
-      "twitter": "https://twitter.com/maddesigns"
+      "twitter": "https://twitter.com/maddesigns",
+      "web": "http://maddesigns.de/"
     },
     {
       "name": "Peter Kröner",

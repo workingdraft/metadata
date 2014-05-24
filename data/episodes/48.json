@@ -7,7 +7,8 @@
   "people": [
     {
       "name": "Marc Hinse",
-      "twitter": "https://twitter.com/MadeMyDay"
+      "twitter": "https://twitter.com/MadeMyDay",
+      "web": "http://siebennull.com/"
     },
     {
       "name": "Christian Schaefer",
@@ -19,30 +20,38 @@
     {
       "name": "Hans Christian Reinl",
       "team": [
-        "2011-11-03"
+        "2011-08-25"
       ],
       "twitter": "https://twitter.com/drublic",
       "web": "http://drublic.de/"
     },
     {
       "name": "Maik Wagner",
-      "twitter": "https://twitter.com/fernmuendlich"
+      "twitter": "https://twitter.com/fernmuendlich",
+      "web": "http://www.fernmuendli.ch/"
     },
     {
       "name": "Frederic Hemberger",
-      "twitter": "https://twitter.com/fhemberger"
+      "twitter": "https://twitter.com/fhemberger",
+      "web": "http://frederic-hemberger.de/"
     },
     {
       "name": "Anselm Hannemann",
-      "twitter": "https://twitter.com/helloanselm"
+      "team": [
+        "2014-05-05"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
     },
     {
       "name": "David Maciejewski",
-      "twitter": "https://twitter.com/macx"
+      "twitter": "https://twitter.com/macx",
+      "web": "http://macx.io/"
     },
     {
       "name": "Sven Wolfermann",
-      "twitter": "https://twitter.com/maddesigns"
+      "twitter": "https://twitter.com/maddesigns",
+      "web": "http://maddesigns.de/"
     },
     {
       "name": "Rodney Rehm",

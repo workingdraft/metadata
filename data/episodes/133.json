@@ -6,7 +6,8 @@
   "people": [
     {
       "name": "Jens Grochtdreis",
-      "twitter": "https://twitter.com/Flocke"
+      "twitter": "https://twitter.com/Flocke",
+      "web": "http://grochtdreis.de/"
     },
     {
       "name": "Stefan Baumgartner",
@@ -18,7 +19,11 @@
     },
     {
       "name": "Anselm Hannemann",
-      "twitter": "https://twitter.com/helloanselm"
+      "team": [
+        "2014-05-05"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
     }
   ],
   "href": "http://workingdraft.de/133/",

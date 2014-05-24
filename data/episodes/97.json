@@ -7,7 +7,8 @@
   "people": [
     {
       "name": "Bruce Lawson",
-      "twitter": "https://twitter.com/brucel"
+      "twitter": "https://twitter.com/brucel",
+      "web": "http://www.brucelawson.co.uk/"
     },
     {
       "name": "Christian Schaefer",
@@ -19,18 +20,23 @@
     {
       "name": "Hans Christian Reinl",
       "team": [
-        "2011-11-03"
+        "2011-08-25"
       ],
       "twitter": "https://twitter.com/drublic",
       "web": "http://drublic.de/"
     },
     {
       "name": "Anselm Hannemann",
-      "twitter": "https://twitter.com/helloanselm"
+      "team": [
+        "2014-05-05"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
     },
     {
       "name": "David Maciejewski",
-      "twitter": "https://twitter.com/macx"
+      "twitter": "https://twitter.com/macx",
+      "web": "http://macx.io/"
     },
     {
       "name": "Rodney Rehm",

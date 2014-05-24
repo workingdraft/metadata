@@ -22,14 +22,15 @@
     {
       "name": "Hans Christian Reinl",
       "team": [
-        "2011-11-03"
+        "2011-08-25"
       ],
       "twitter": "https://twitter.com/drublic",
       "web": "http://drublic.de/"
     },
     {
       "name": "Gerrit van Aaken",
-      "twitter": "https://twitter.com/gerritvanaaken"
+      "twitter": "https://twitter.com/gerritvanaaken",
+      "web": "http://praegnanz.de/"
     }
   ],
   "trello": "https://trello.com/b/eLJuUVg8/revision-149",

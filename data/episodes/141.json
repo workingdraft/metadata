@@ -13,7 +13,8 @@
   "people": [
     {
       "name": "Ole Michaelis",
-      "twitter": "https://twitter.com/codestars"
+      "twitter": "https://twitter.com/codestars",
+      "web": "http://codestars.eu/"
     },
     {
       "name": "Stefan Baumgartner",
@@ -26,7 +27,7 @@
     {
       "name": "Hans Christian Reinl",
       "team": [
-        "2011-11-03"
+        "2011-08-25"
       ],
       "twitter": "https://twitter.com/drublic",
       "web": "http://drublic.de/"

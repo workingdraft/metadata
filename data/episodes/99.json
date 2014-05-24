@@ -6,7 +6,8 @@
   "people": [
     {
       "name": "Marc Hinse",
-      "twitter": "https://twitter.com/MadeMyDay"
+      "twitter": "https://twitter.com/MadeMyDay",
+      "web": "http://siebennull.com/"
     },
     {
       "name": "Kahlil Lechelt",
@@ -20,14 +21,15 @@
     {
       "name": "Hans Christian Reinl",
       "team": [
-        "2011-11-03"
+        "2011-08-25"
       ],
       "twitter": "https://twitter.com/drublic",
       "web": "http://drublic.de/"
     },
     {
       "name": "Frederic Hemberger",
-      "twitter": "https://twitter.com/fhemberger"
+      "twitter": "https://twitter.com/fhemberger",
+      "web": "http://frederic-hemberger.de/"
     },
     {
       "name": "Peter Kröner",
