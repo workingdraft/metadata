@@ -1,0 +1,92 @@
+{
+  "id": 171,
+  "date": "2014-05-24",
+  "duration": "01:03:52",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "trello": "https://trello.com/b/Iu67v9TI/revision-171",
+  "href": "http://workingdraft.de/171/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2403/0/wd-171.mp3",
+  "title": "Drag & Drop erklärbärt",
+  "description": "Wir freuen uns außerordentlich mit dem ehemaligen Dauergast <a href=\"http://twitter.com/helloanselm\">Anselm Hannemann</a> einen neuen Moderator in unserer Runde begrüßen zu dürfen. Zur Feier des Tages legen wir auch gleich mit einer tiefgehenden Analyse der Drag &#038; Drop API los und spielen (mehr oder weniger) wieder HTML5 Glücksrad.",
+  "news": [
+    {
+      "title": "Atom.io",
+      "href": "https://github.com/blog/1831-atom-free-and-open-source-for-everyone",
+      "time": "00:00:32",
+      "description": "GitHubs Webtechnologien Editor wird frei und Open Source. Finden wir gut!"
+    }
+  ],
+  "topics": [
+    {
+      "title": "Drag & Drop erklärbärt",
+      "time": "00:00:56",
+      "description": "HTML5 Erklärbär Peter hat sich sehr eingehend mit einer seit Urzeiten vorhandenen API beschäftigt, und Drag &#038; Drop sowohl aus Entwickler-, Anwender- und Historikersicht eingehend aufgearbeitet. Wir erfahren, warum Drag &#038; Drop so eine unglaublich grausame API hat, man gefühlte 2 Millionen Events binden muss und warum Browserdefaults eigentlich mal gegen alles sind. Kleiner Spoiler: Der IE ist an allem Schuld. Außerdem gibt&#8217;s etymologische Aufklärung in Sachen Planeten mit dem Paradebeispiel Neptun. Und ja, das hat auch was mit dem eigentlichen Thema zu tun."
+    }
+  ],
+  "randomSpec": [
+    {
+      "title": "das ruby Element",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/multipage/text-level-semantics.html#the-ruby-element",
+      "time": "00:53:11",
+      "description": "Glücksfee Anselm landet beim Scrollen in einem uns sehr bekannten Thema. Um die unendliche Geschichte zu vermeiden scrollt der Wandernde vom Alten Berg noch einmal und landet bei den <code>ruby</code>-Elementen"
+    }
+  ],
+  "links": [
+    {
+      "title": "Gremlins.js",
+      "href": "https://github.com/marmelab/gremlins.js/",
+      "time": "00:59:40",
+      "description": "Mit dieser JS Bibliothek könnt ihr eine Gremlin Horde auf eure App loslassen und sie einem UI Stresstest unterziehen."
+    },
+    {
+      "title": "Git Code School",
+      "href": "https://try.github.io/levels/1/challenges/1",
+      "time": "00:59:40",
+      "description": "Vorausgesetzt die Server antworten, könnt ihr mit diesem interaktiven Tutorial Git von Grund auf erlernen."
+    },
+    {
+      "title": "Accessible SVG",
+      "href": "http://www.sitepoint.com/tips-accessible-svg/",
+      "time": "00:59:40",
+      "description": "SVG ist nicht nur Endprodukt einer Illustrator Speicheroption, sondern kann durchaus Semantik enthalten. Wie man auf ARIA-Ebene diese richtig einsetzen kann, zeigt dieser Sitepoint Artikel."
+    },
+    {
+      "title": "HTML5 Device Orientation",
+      "href": "http://www.sitepoint.com/using-device-orientation-html5/",
+      "time": "00:59:40",
+      "description": "Ebenfalls auf Sitepoint: Ein guter Artikel zur Device Orientation API. Sehr vollständig und gut illustriert."
+    }
+  ],
+  "tip": [
+    {
+      "title": "Argumentationsfeuer für Designsünden",
+      "time": "00:00:00",
+      "description": "Wir alle wissen, dass Scrolling-Areas in Scrolling-Areas nicht funktionieren und kein Mensch Share Buttons klickt. Mit <a href=\"http://baymard.com/blog/inline-scroll-areas\">diesem Artikel</a> beim Baymard Institute und den Datenerhebungen von <a href=\"http://www.lukew.com/ff/entry.asp?1852\">Luke Wroblewski</a> habt ihr nun auch harte Fakten, die ihr im Notfall entgegenhalten könnt."
+    }
+  ]
+}

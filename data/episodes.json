@@ -2757,13 +2757,17 @@
   },
   "171": {
     "id": 171,
-    "date": null,
-    "duration": "00:00:00",
-    "people": [],
+    "date": "2014-05-24",
+    "duration": "01:03:52",
+    "people": [
+      "ddprrt",
+      "helloanselm",
+      "sir_pepe"
+    ],
     "trello": "https://trello.com/b/Iu67v9TI/revision-171",
-    "href": "",
-    "audio": "",
-    "title": ""
+    "href": "http://workingdraft.de/171/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2403/0/wd-171.mp3",
+    "title": "Drag & Drop erklärbärt"
   },
   "172": {
     "id": 172,
