@@ -26,7 +26,7 @@
   "drublic": {
     "name": "Hans Christian Reinl",
     "team": [
-      "2011-11-03"
+      "2011-08-25"
     ],
     "twitter": "https://twitter.com/drublic",
     "web": "http://drublic.de/"
@@ -56,46 +56,58 @@
     "twitter": "https://twitter.com/ddprrt",
     "web": "http://fettblog.eu/"
   },
+  "helloanselm": {
+    "name": "Anselm Hannemann",
+    "team": [
+      "2014-05-05"
+    ],
+    "twitter": "https://twitter.com/helloanselm",
+    "web": "http://anselm-hannemann.com/"
+  },
   "marcthiele": {
     "name": "Marc Thiele",
-    "twitter": "https://twitter.com/marcthiele"
+    "twitter": "https://twitter.com/marcthiele",
+    "web": "http://marcthiele.com/"
   },
   "derPepo": {
     "name": "Pascal Szewczyk",
-    "twitter": "https://twitter.com/derPepo"
+    "twitter": "https://twitter.com/derPepo",
+    "web": "http://elektrowecker.de/"
   },
   "djesse": {
     "name": "Dirk Jesse",
-    "twitter": "https://twitter.com/djesse"
+    "twitter": "https://twitter.com/djesse",
+    "web": "http://www.highresolution.info/"
   },
   "MadeMyDay": {
     "name": "Marc Hinse",
-    "twitter": "https://twitter.com/MadeMyDay"
+    "twitter": "https://twitter.com/MadeMyDay",
+    "web": "http://siebennull.com/"
   },
   "makochnet": {
     "name": "Marcel Koch",
     "twitter": "https://twitter.com/makochnet",
     "web": "http://www.marcelkoch.net/"
   },
-  "helloanselm": {
-    "name": "Anselm Hannemann",
-    "twitter": "https://twitter.com/helloanselm"
-  },
   "fhemberger": {
     "name": "Frederic Hemberger",
-    "twitter": "https://twitter.com/fhemberger"
+    "twitter": "https://twitter.com/fhemberger",
+    "web": "http://frederic-hemberger.de/"
   },
   "maddesigns": {
     "name": "Sven Wolfermann",
-    "twitter": "https://twitter.com/maddesigns"
+    "twitter": "https://twitter.com/maddesigns",
+    "web": "http://maddesigns.de/"
   },
   "fernmuendlich": {
     "name": "Maik Wagner",
-    "twitter": "https://twitter.com/fernmuendlich"
+    "twitter": "https://twitter.com/fernmuendlich",
+    "web": "http://www.fernmuendli.ch/"
   },
   "macx": {
     "name": "David Maciejewski",
-    "twitter": "https://twitter.com/macx"
+    "twitter": "https://twitter.com/macx",
+    "web": "http://macx.io/"
   },
   "draftkraft": {
     "name": "Haymo Meran",
@@ -103,23 +115,28 @@
   },
   "yellowled": {
     "name": "Matthias Mees",
-    "twitter": "https://twitter.com/yellowled"
+    "twitter": "https://twitter.com/yellowled",
+    "web": "http://yellowled.de/"
   },
   "bueltge": {
     "name": "Frank Bueltge",
-    "twitter": "https://twitter.com/bueltge"
+    "twitter": "https://twitter.com/bueltge",
+    "web": "http://bueltge.de/"
   },
   "Flocke": {
     "name": "Jens Grochtdreis",
-    "twitter": "https://twitter.com/Flocke"
+    "twitter": "https://twitter.com/Flocke",
+    "web": "http://grochtdreis.de/"
   },
   "derCemDerin": {
     "name": "Cem Derin",
-    "twitter": "https://twitter.com/derCemDerin"
+    "twitter": "https://twitter.com/derCemDerin",
+    "web": "http://cemderin.net/"
   },
   "dantz": {
     "name": "Andreas Dantz",
-    "twitter": "https://twitter.com/dantz"
+    "twitter": "https://twitter.com/dantz",
+    "web": "http://dantz.me/"
   },
   "dm_ms": {
     "name": "Daniel Melanchthon",
@@ -131,51 +148,62 @@
   },
   "nicobruenjes": {
     "name": "Nico Brünjes",
-    "twitter": "https://twitter.com/nicobruenjes"
+    "twitter": "https://twitter.com/nicobruenjes",
+    "web": "http://nicobruenjes.de/"
   },
   "gerritvanaaken": {
     "name": "Gerrit van Aaken",
-    "twitter": "https://twitter.com/gerritvanaaken"
+    "twitter": "https://twitter.com/gerritvanaaken",
+    "web": "http://praegnanz.de/"
   },
   "muehlwitz": {
     "name": "Guido Mühlwitz",
-    "twitter": "https://twitter.com/muehlwitz"
+    "twitter": "https://twitter.com/muehlwitz",
+    "web": "http://www.guido-muehlwitz.de/"
   },
   "polarity": {
     "name": "Robert Agthe",
-    "twitter": "https://twitter.com/polarity"
+    "twitter": "https://twitter.com/polarity",
+    "web": "http://robert-agthe.de/"
   },
   "asciidisco": {
     "name": "asciidisco",
-    "twitter": "https://twitter.com/asciidisco"
+    "twitter": "https://twitter.com/asciidisco",
+    "web": "http://www.asciidisco.com/"
   },
   "bkastl": {
     "name": "Benedikt Kastl",
-    "twitter": "https://twitter.com/bkastl"
+    "twitter": "https://twitter.com/bkastl",
+    "web": "http://benediktkastl.de/"
   },
   "czillgens": {
     "name": "Christopher Zillgens",
-    "twitter": "https://twitter.com/czillgens"
+    "twitter": "https://twitter.com/czillgens",
+    "web": "http://christophzillgens.com/en/"
   },
   "marcozehe": {
     "name": "Marco Zehe",
-    "twitter": "https://twitter.com/marcozehe"
+    "twitter": "https://twitter.com/marcozehe",
+    "web": "http://www.zehe-edv.de/"
   },
   "brucel": {
     "name": "Bruce Lawson",
-    "twitter": "https://twitter.com/brucel"
+    "twitter": "https://twitter.com/brucel",
+    "web": "http://www.brucelawson.co.uk/"
   },
   "paul_irish": {
     "name": "Paul Irish",
-    "twitter": "https://twitter.com/paul_irish"
+    "twitter": "https://twitter.com/paul_irish",
+    "web": "http://www.paulirish.com/"
   },
   "klick_ass": {
     "name": "Andre Jay Meissner",
-    "twitter": "https://twitter.com/klick_ass"
+    "twitter": "http://klick-ass.com/"
   },
   "g16n": {
     "name": "Gunnar Bittersmann",
-    "twitter": "https://twitter.com/g16n"
+    "twitter": "https://twitter.com/g16n",
+    "web": "http://bittersmann.de/"
   },
   "codepo8": {
     "name": "Christian Heilmann",
@@ -184,7 +212,8 @@
   },
   "thedeftone": {
     "name": "Jan Monschke",
-    "twitter": "https://twitter.com/thedeftone"
+    "twitter": "https://twitter.com/thedeftone",
+    "web": "http://janmonschke.com/"
   },
   "sippndipp": {
     "name": "Sebastian Deutsch",
@@ -204,19 +233,23 @@
   },
   "stn1978": {
     "name": "Stefan Nitzsche",
-    "twitter": "https://twitter.com/stn1978"
+    "twitter": "https://twitter.com/stn1978",
+    "web": "http://www.stn.my/"
   },
   "patrick_h_lauke": {
     "name": "Patrick Lauke",
-    "twitter": "https://twitter.com/patrick_h_lauke"
+    "twitter": "https://twitter.com/patrick_h_lauke",
+    "web": "http://www.splintered.co.uk/"
   },
   "codestars": {
     "name": "Ole Michaelis",
-    "twitter": "https://twitter.com/codestars"
+    "twitter": "https://twitter.com/codestars",
+    "web": "http://codestars.eu/"
   },
   "jkphl": {
     "name": "Joschi Kuphal",
-    "twitter": "https://twitter.com/jkphl"
+    "twitter": "https://twitter.com/jkphl",
+    "web": "http://jkphl.is/"
   },
   "IngoKasch": {
     "name": "Ingo Kasch",
@@ -224,7 +257,8 @@
   },
   "bastianallgeier": {
     "name": "Bastian Allgeier",
-    "twitter": "https://twitter.com/bastianallgeier"
+    "twitter": "https://twitter.com/bastianallgeier",
+    "web": "http://bastianallgeier.com/"
   },
   "espylaub": {
     "name": "Alex Feyerke",
@@ -232,7 +266,8 @@
   },
   "christophrumpel": {
     "name": "Christoph Rumpel",
-    "twitter": "https://twitter.com/christophrumpel"
+    "twitter": "https://twitter.com/christophrumpel",
+    "web": "http://christoph-rumpel.com/"
   },
   "Acconut_": {
     "name": "Marius Kleidl",
@@ -240,7 +275,8 @@
   },
   "tbaldauf": {
     "name": "Tobias Baldauf",
-    "twitter": "https://twitter.com/tbaldauf"
+    "twitter": "https://twitter.com/tbaldauf",
+    "web": "http://tobias.is/"
   },
   "goloroden": {
     "name": " Golo Roden",
@@ -269,11 +305,17 @@
   },
   "passy": {
     "name": "Pascal Hartig",
-    "twitter": "https://twitter.com/passy"
+    "twitter": "https://twitter.com/passy",
+    "web": "http://passy.me/"
   },
   "pbakaus": {
     "name": "Paul Bakaus",
     "twitter": "https://twitter.com/pbakaus",
-    "web": "http://paulbakaus.com"
+    "web": "http://paulbakaus.com/"
+  },
+  "chriscoyier": {
+    "name": "Chris Coyier",
+    "twitter": "https://twitter.com/chriscoyier",
+    "web": "http://css-tricks.com/"
   }
 }
