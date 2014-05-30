@@ -1,0 +1,95 @@
+{
+  "id": 173,
+  "date": "2014-05-30",
+  "duration": "00:38:53",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "trello": "https://trello.com/b/eomGdd83/revision-173",
+  "live": [
+    {
+      "title": "Revision 173",
+      "href": "http://livestre.am/4RCGO",
+      "duration": "01:34:45",
+      "date": "2014-05-26"
+    }
+  ],
+  "href": "http://workingdraft.de/173/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2424/0/wd-173.mp3",
+  "title": "Neues aus der Zukunft",
+  "description": "Da die Themenliste nach dem Ausmisten diesmal etwas dünn ausfiel, besprachen Schepp, Anselm und Peter einfach drei neue Features in <a href=\"http://blog.chromium.org/2014/05/chrome-36-beta-elementanimate-html.html\">Chrome 36</a>, der jüngst den Beta-Status erreicht hat.",
+  "topics": [
+    {
+      "title": "element.animate()",
+      "href": "http://updates.html5rocks.com/2014/05/Web-Animations---element-animate-is-now-in-Chrome-36",
+      "time": "00:00:35",
+      "description": "JavaScript-Animationen steigen aus den Gräbern empor&nbsp;&ndash; allerdings in einer mit der CSS-Animations-Engine verzahnten und daher sehr performanten Form. Wer performante JS-Animationen schon heute haben will kann entweder auf <a href=\"https://github.com/web-animations/web-animations-js\">einen Polyfill</a> oder die Library <a href=\"https://github.com/julianshapiro/velocity\">VelocityJS</a> zurückgreifen. Jake Archibald hat die Details zu der neuen Animations-API mal im Smashing Magazine <a href=\"http://www.smashingmagazine.com/2013/03/04/animating-web-gonna-need-bigger-api/\">aufgeschrieben</a>"
+    },
+    {
+      "title": "HTML Imports",
+      "href": "http://www.html5rocks.com/en/tutorials/webcomponents/imports/",
+      "time": "00:07:46",
+      "description": "Klingt wie <code>include()</code> aus PHP, ist aber besser! HTML Imports laden und parsen HTML-Dokumente, die für JS als <code>Document</code>-Objekt bereitgestellt werden. Das Ganze funktioniert auch mit CORS, hat ein <code>async</code>-Attribut und kann via <a href=\"https://github.com/Polymer/vulcanize\">Vulcanize</a> optimiert werden. Peter erklärt die JS-API und Use Cases für HTML Imports, während sich Schepp wehmütig an glorreiche Tage mit XSLT zurückerinnert."
+    },
+    {
+      "title": "Object.observe()",
+      "href": "http://www.html5rocks.com/en/tutorials/es7/observe/",
+      "time": "00:17:28",
+      "description": "Während DOM Mutation Observers das DOM auf Änderungen überwachen (siehe <a href=\"http://workingdraft.de/148/\">Revision 148</a>), achtet <code>Object.observe()</code> auf alle Arten von JS-Objekten (und <code>Array.observe()</code> auf Arrays). Wichtig ist das vor allem für die Data-Binding-Funktionalität in modernen MVC-Frameworks. Nachdem wir den fälligen <a href=\" https://github.com/Polymer/observe-js\">Polyfill</a> erwähnt haben, schweifen wir etwas ab und reden auch noch über HTC-Dateien im alten IE, CSS Expressions im alten IE und <a href=\"http://www.polymer-project.org/\">Polymer</a> (für alles außer dem alten IE)"
+    }
+  ],
+  "links": [
+    {
+      "title": "EmpireJS",
+      "href": "https://www.youtube.com/user/EmpireJS",
+      "time": "00:34:30",
+      "description": "Konferenztalks auf Youtube."
+    },
+    {
+      "title": "Compressor Head",
+      "href": "http://googledevelopers.blogspot.de/2014/05/introducing-new-video-series-compressor.html",
+      "time": "00:34:30",
+      "description": "Datenkompression als solche anschaulich als Video erklärt."
+    },
+    {
+      "title": "Fluxxor",
+      "href": "http://fluxxor.com/",
+      "time": "00:34:30",
+      "description": "Facebooks M und C für die Kombination mit der View-Engine <a href=\"https://facebook.github.io/react/\">React</a>."
+    },
+    {
+      "title": "Performance Budget with Grunt",
+      "href": "http://timkadlec.com/2014/05/performance-budgeting-with-grunt/",
+      "time": "00:34:30",
+      "description": "Ein Grunt-Task, der motzt, wenn man langsame Webseiten baut."
+    },
+    {
+      "title": "Script-injected “async scripts” considered harmful",
+      "href": "https://www.igvita.com/2014/05/20/script-injected-async-scripts-considered-harmful/",
+      "time": "00:34:30",
+      "description": "Ein subtiles Detail über dynamisch eingefügte Scripts."
+    }
+  ]
+}

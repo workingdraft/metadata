@@ -2784,5 +2784,27 @@
     "href": "http://workingdraft.de/172/",
     "audio": "http://workingdraft.de/podpress_trac/web/2418/0/wd-172.mp3",
     "title": "Interview mit Chris Coyier"
+  },
+  "173": {
+    "id": 173,
+    "date": "2014-05-30",
+    "duration": "00:38:53",
+    "people": [
+      "derSchepp",
+      "helloanselm",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/eomGdd83/revision-173",
+    "live": [
+      {
+        "title": "Revision 173",
+        "href": "http://livestre.am/4RCGO",
+        "duration": "01:34:45",
+        "date": "2014-05-26"
+      }
+    ],
+    "href": "http://workingdraft.de/173/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2424/0/wd-173.mp3",
+    "title": "Neues aus der Zukunft"
   }
 }
