@@ -16968,5 +16968,101 @@
         "description": "Ein subtiles Detail über dynamisch eingefügte Scripts."
       }
     ]
+  },
+  "174": {
+    "id": 174,
+    "date": "2014-06-15",
+    "duration": "01:10:40",
+    "people": [
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Anselm Hannemann",
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
+      }
+    ],
+    "trello": "https://trello.com/b/gMmMU8R4/revision-174",
+    "live": [
+      {
+        "title": "Revision 174",
+        "href": "http://livestre.am/4RXTq",
+        "duration": "01:35:13",
+        "date": "2014-06-02"
+      }
+    ],
+    "href": "http://workingdraft.de/174/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2432/0/wd-174.mp3",
+    "title": "Front-End-Workflow",
+    "description": "Schepp, Anselm und Hans fanden sich für Revision 174 zusammen und referieren zum Spezial-Thema Moderner Front-End-Workflow.",
+    "news": [
+      {
+        "title": "Launching status.modern.ie & Internet Explorer platform priorities",
+        "href": "http://blogs.msdn.com/b/ie/archive/2014/05/27/launching-status-modern-ie-amp-internet-explorer-platform-priorities.aspx",
+        "time": "00:00:13",
+        "description": "Microsoft veröffentlich status.modern.ie als Open Source Projekt und hofft auf die Hilfe beim erfassen von Feature-Support in den übrigen Browsern. Außerdem steht die nächste Version des Internet Explorers an."
+      },
+      {
+        "title": "Understanding web pages better",
+        "href": "http://googlewebmastercentral.blogspot.de/2014/05/understanding-web-pages-better.html",
+        "time": "00:00:13",
+        "description": "Googles Page Crawling Algorithmus versteht nun noch mehr JavaScript."
+      },
+      {
+        "title": "Preview the new caniuse.com features",
+        "href": "http://a.deveria.com/2013/preview-the-new-caniuse-com-features/",
+        "time": "00:00:13",
+        "description": "Eine Preview des neuen caniuse.com-Designs."
+      }
+    ],
+    "topics": [
+      {
+        "title": "Moderne Art zu entwickeln (agil, modular, etc.)",
+        "time": "00:02:27",
+        "description": "Was ist eigentlich die moderne Art zu Entwickeln? Hilft agiles Development (zum Beispiel mit Scrum) uns Entwicklern oder verbreiten die vielen Meetings eher Unmut? Wir sprechen auch über komponenten-basiertes Entwickeln, gerade im Bezug auf große Webprojekte."
+      },
+      {
+        "title": "How ‘DevOps’ is Killing the Developer",
+        "href": "http://jeffknupp.com/blog/2014/04/15/how-devops-is-killing-the-developer/",
+        "time": "00:38:25",
+        "description": "<a href=\"https://twitter.com/christophrumpel/status/463560063987499008\">Christoph Rumpel ist der Meinung</a>, dass wir die Rolle von DevOps näher beleuchten sollten. Was sich hinter dem Begriff DevOps verbirgt und wie wir in unseren Teams mit den Arbeiten abseits der eigentlichen Web-Programmierung umgehen, diskutieren wir."
+      },
+      {
+        "title": "A Maintainable Style Guide",
+        "href": "http://ianfeather.co.uk/a-maintainable-style-guide/",
+        "time": "00:52:12",
+        "description": "Style Guides helfen ein Projekt zwischen Designern und Entwicklern besser zu managen und die Kommunikation zu erleichtern. Ian Feather ist der Meinung, dass Style Guides nur Sinn machen, wenn Sie mit dem Code aus dem Projekt selbst erstellt werden und beschreibt die Technik, die Lonely Planet verwendet, um ihren Style Guide zu erzeugen. Wir besprechen diese und decken die Vor- und Nachteile auf."
+      }
+    ],
+    "links": [
+      {
+        "title": "XSS Game",
+        "href": "https://xss-game.appspot.com/",
+        "time": "01:08:03",
+        "description": "Ein Hacker-Game mit dem man Cross-Site-Scripting lernt und so Attacken vermeiden kann."
+      },
+      {
+        "title": "Implement Custom Gestures",
+        "href": "https://developers.google.com/web/fundamentals/input/touch-input/touchevents/",
+        "time": "01:08:03",
+        "description": "Eine Rund-Um-Erklärung zu Touch Input Gesten auf technischer und user-experience Ebene."
+      }
+    ]
   }
 }

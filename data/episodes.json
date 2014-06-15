@@ -2806,5 +2806,27 @@
     "href": "http://workingdraft.de/173/",
     "audio": "http://workingdraft.de/podpress_trac/web/2424/0/wd-173.mp3",
     "title": "Neues aus der Zukunft"
+  },
+  "174": {
+    "id": 174,
+    "date": "2014-06-15",
+    "duration": "01:10:40",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "helloanselm"
+    ],
+    "trello": "https://trello.com/b/gMmMU8R4/revision-174",
+    "live": [
+      {
+        "title": "Revision 174",
+        "href": "http://livestre.am/4RXTq",
+        "duration": "01:35:13",
+        "date": "2014-06-02"
+      }
+    ],
+    "href": "http://workingdraft.de/174/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2432/0/wd-174.mp3",
+    "title": "Front-End-Workflow"
   }
 }
