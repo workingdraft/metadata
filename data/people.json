@@ -317,5 +317,10 @@
     "name": "Chris Coyier",
     "twitter": "https://twitter.com/chriscoyier",
     "web": "http://css-tricks.com/"
+  },
+  "janl": {
+    "name": "Jan Lehnardt",
+    "twitter": "https://twitter.com/janl",
+    "web": "http://writing.jan.io/"
   }
 }

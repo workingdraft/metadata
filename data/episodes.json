@@ -2828,5 +2828,27 @@
     "href": "http://workingdraft.de/174/",
     "audio": "http://workingdraft.de/podpress_trac/web/2432/0/wd-174.mp3",
     "title": "Front-End-Workflow"
+  },
+  "175": {
+    "id": 175,
+    "date": "2014-06-16",
+    "duration": "02:27:27",
+    "people": [
+      "derSchepp",
+      "ddprrt",
+      "janl"
+    ],
+    "trello": "https://trello.com/b/qOUUdh0Q/revision-175",
+    "live": [
+      {
+        "title": "Revision 175",
+        "href": "http://livestre.am/4SjoU",
+        "duration": "02:12:19",
+        "date": "2014-06-09"
+      }
+    ],
+    "href": "http://workingdraft.de/175/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2436/0/wd-175.mp3",
+    "title": "Die Open Source Reise des Jan Lenhardt"
   }
 }
