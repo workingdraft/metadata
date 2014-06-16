@@ -35,8 +35,8 @@
   ],
   "href": "http://workingdraft.de/175/",
   "audio": "http://workingdraft.de/podpress_trac/web/2436/0/wd-175.mp3",
-  "title": "Die Open Source Reise des Jan Lenhardt",
-  "description": "Zur 175. Revision haben wir uns mit <a href=\"http://twitter.com/janl\">Jan Lenhardt</a> einen Riesen der deutschen Open Source Szene eingeladen. Entsprechend riesig ist auch diese Mammutepisode mit über zweieinhalb Stunden. Doch soviel sei gesagt: Der Umfang verspricht auch sehr viele interessante Insights! Viel Spaß!",
+  "title": "Die Open Source Reise des Jan Lehnardt",
+  "description": "Zur 175. Revision haben wir uns mit <a href=\"http://twitter.com/janl\">Jan Lehnardt</a> einen Riesen der deutschen Open Source Szene eingeladen. Entsprechend riesig ist auch diese Mammutepisode mit über zweieinhalb Stunden. Doch soviel sei gesagt: Der Umfang verspricht auch sehr viele interessante Insights! Viel Spaß!",
   "news": [
     {
       "title": "Beyond Tellerrand Tickets",
@@ -56,7 +56,7 @@
       "title": "Mustache.js",
       "href": "http://mustache.github.io",
       "time": "00:24:04",
-      "description": "Es gibt kaum einen Web-Entwickler, der noch nicht mit Logic Less Templates und der Mustache-style Syntax zu tun hatte. Jan zeichnet sich für die populäre JavaScript Implementierung des nicht minder populären Konzepts verantwortlich und erklärt auch, warum Dinge wie <a href=\"http://twitter.github.io/hogan.js/\">ganz in Ordnung sind</a>, und dass man <a href=\"https://www.youtube.com/watch?v=zwoiwoVNaCQ\">Jacob &#8216;Fat&#8217; Thorton</a> auch gern umarmen darf."
+      "description": "Es gibt kaum einen Web-Entwickler, der noch nicht mit Logic Less Templates und der Mustache-style Syntax zu tun hatte. Jan zeichnet sich für die populäre JavaScript Implementierung des nicht minder populären Konzepts verantwortlich und erklärt auch, warum Dinge wie <a href=\"http://twitter.github.io/hogan.js/\">HoganJS ganz in Ordnung sind</a>, und dass man <a href=\"https://www.youtube.com/watch?v=zwoiwoVNaCQ\">Jacob &#8216;Fat&#8217; Thorton</a> auch gern umarmen darf."
     },
     {
       "title": "Hoodie",
@@ -72,7 +72,7 @@
     },
     {
       "title": "JSConf.eu",
-      "href": "http://2013.jsconf.eu/call-for-speakers/",
+      "href": "http://2014.jsconf.eu/call-for-speakers/",
       "time": "01:43:51",
       "description": "Der Call For Speakers zur Berliner Ausgabe der JSConf ist offen, und Jan erzählt aus dem Nähkästchen vom Organisieren."
     }
