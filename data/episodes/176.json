@@ -1,0 +1,98 @@
+{
+  "id": 176,
+  "date": "2014-06-28",
+  "duration": "01:05:20",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "trello": "https://trello.com/b/RzjgIquk/revision-176",
+  "live": [
+    {
+      "title": "Revision 176",
+      "href": "http://livestre.am/4SDZj",
+      "duration": "01:48:01",
+      "date": "2014-06-16"
+    }
+  ],
+  "href": "http://workingdraft.de/176/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2446/0/wd-176.mp3",
+  "title": "will-change, Critical Path und z-index",
+  "description": "Ungeachtet der Fußball-WM widmete sich das leeterarische Quartett, diesmal bestehend aus Anselm, Hans, Rodney und Peter, einigen kleinen Neuheiten aus der Frontend-Welt.",
+  "news": [
+    {
+      "title": "Improving Viewport Unit Support in WebKit",
+      "href": "http://blogs.adobe.com/webplatform/2014/06/12/improving-viewport-unit-support-in-webkit/",
+      "time": "00:00:30",
+      "description": "Endlich (weitgehend) bugfreie Viewport-Units auch in WebKit."
+    },
+    {
+      "title": "IE Developer Channel",
+      "href": "http://blogs.msdn.com/b/ie/archive/2014/06/16/announcing-internet-explorer-developer-channel.aspx",
+      "time": "00:00:30",
+      "description": "Regelmäßig erscheinende Dev-Versionen des IE! Ein Traum wird wahr."
+    }
+  ],
+  "topics": [
+    {
+      "title": "will-change",
+      "time": "00:01:07",
+      "description": "<a href=\"http://dev.opera.com/articles/css-will-change-property/\">Ein Opera-Artikel</a> erklärt die neue CSS-Eigenschaft <code>will-change</code>. Im Prinzip handelt es sich um die Standardisierung des <a href=\"http://aerotwist.com/blog/on-translate3d-and-layer-creation-hacks/\">3D-Transform-Hacks</a>. Wir erläutern nochmals die technischen Hintergründe und diskutieren über Sinnhaftigkeit, Art und mögliche Häufigkeit des Einsatzes dieses neuen Features."
+    },
+    {
+      "title": "Critical Path",
+      "time": "00:17:06",
+      "description": "Eine Webseite bietet einen <a href=\"http://jonassebastianohlsson.com/criticalpathcssgenerator/\">Critical Path CSS Generator</a> an, den wir zum Anlass nehmen das Thema gründlich zu beleuchten. Zunächst kaprizieren wir uns auf CSS-Inlining, das unter anderem Hans <a href=\"https://medium.com/programming-ideas-tutorial-and-experience/a-counter-statement-putting-the-css-in-the-head-f98103d09ce1\">etwas kritisch sieht</a>. Gegen Ende schweifen wir in eine Debatte über Tools im Allgemeinen und <a href=\"https://github.com/giakki/uncss\">Uncss</a> im Speziellen ab, erinnern an <a href=\"http://workingdraft.de/166/\">Revision 166</a> und landem am Ende bei <a href=\"https://github.com/pocketjoso/penthouse\">Penthouse</a>."
+    },
+    {
+      "title": "Sassy Z-Index Management For Complex Layouts",
+      "href": "http://www.smashingmagazine.com/2014/06/12/sassy-z-index-management-for-complex-layouts/",
+      "time": "00:47:36",
+      "description": "Ein Sass-Mixin löst ein Problem, dessen Existenz von Rodney und Peter bestritten wird. Beim Klärungsversuch vergleichen wir unsere Projekte und wie wir darin <code>z-index</code> verwenden."
+    }
+  ],
+  "links": [
+    {
+      "title": "beeplay.js",
+      "href": "http://watilde.github.io/beeplay/",
+      "time": "01:01:47",
+      "description": "Töne mit JavaScript erzeugen. DJ Rod mixt live im Studio <a href=\"http://jsfiddle.net/pwp52/\">eine Huldigung auf seinen Arbeitgeber</a> ab."
+    },
+    {
+      "title": "The Humble Button Element",
+      "href": "http://demosthenes.info/blog/884/The-Humble-Button-Element",
+      "time": "01:01:47",
+      "description": "Wichtige Semantik-(Argumentations)-Nachhilfe."
+    }
+  ]
+}

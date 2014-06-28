@@ -2850,5 +2850,28 @@
     "href": "http://workingdraft.de/175/",
     "audio": "http://workingdraft.de/podpress_trac/web/2436/0/wd-175.mp3",
     "title": "Die Open Source Reise des Jan Lehnardt"
+  },
+  "176": {
+    "id": 176,
+    "date": "2014-06-28",
+    "duration": "01:05:20",
+    "people": [
+      "drublic",
+      "helloanselm",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/RzjgIquk/revision-176",
+    "live": [
+      {
+        "title": "Revision 176",
+        "href": "http://livestre.am/4SDZj",
+        "duration": "01:48:01",
+        "date": "2014-06-16"
+      }
+    ],
+    "href": "http://workingdraft.de/176/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2446/0/wd-176.mp3",
+    "title": "will-change, Critical Path und z-index"
   }
 }
