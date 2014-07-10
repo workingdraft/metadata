@@ -50,8 +50,9 @@ function analyze(html) {
     } else if (title.indexOf("verlosung") > -1) {
       return;
     }
-    
-    data[bucket] = analyzeContents(this);
+
+    data[bucket] = (data[bucket] || []).concat(analyzeContents(this));
+  
     if (bucket === undefined && data[bucket].length) {
       if (data[bucket][0].title.slice(0, 1) === '[') {
         // Episode 87
