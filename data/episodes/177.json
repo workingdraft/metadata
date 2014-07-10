@@ -1,0 +1,86 @@
+{
+  "id": 177,
+  "date": "2014-07-08",
+  "duration": "00:39:04",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "trello": "https://trello.com/b/20ZbOMXy/revision-177",
+  "href": "http://workingdraft.de/177/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2452/0/wd-177.mp3",
+  "title": "CSS-Benamung, Glücksrad, Links",
+  "description": "Sommerloch und Fußball haben sich verschworen, um unsere Themenliste auszudünnen. Also sprechen wir kurzerhand über einen Artikel von Hans, der sein Werk vor Peter, Anselm und Stefan verteidigt.",
+  "topics": [
+    {
+      "title": "CSS Naming Conventions: Less Rules, more Fun",
+      "href": "https://medium.com/@drublic/css-naming-conventions-less-rules-more-fun-12af220e949b",
+      "time": "00:00:33",
+      "description": "Hans argumentiert für einfachere CSS-Konventionen, als sie in den etablierten und sehr ausführlichen bekannten Systemen <a href=\"https://smacss.com/\">Smacss</a>, <a href=\"http://oocss.org/\">OOCSS</a> und <a href=\"http://bem.info/method/\">BEM</a> propagiert werden. Vier einfache Konzepte sollten reichen. Peter sieht ein mögliches Problem darin, dass ein einfaches System besonders kompetente Entwickler erfordert. Fazit: ein Webentwickler-Team braucht Kompetenz, Zeit und gute Kommunikation, um wirklich gutes CSS abzuliefern."
+    }
+  ],
+  "randomSpec": [
+    {
+      "title": "Autofill-Features",
+      "href": "http://www.whatwg.org/specs/web-apps/current-work/multipage/association-of-controls-and-forms.html#autofill",
+      "time": "00:27:22",
+      "description": "Nach einem kurzen Irrweg in Richtung <a href=\"http://www.whatwg.org/specs/web-apps/current-work/multipage/history.html#javascript-protocol\">JavaScript-Links</a> reden wir über die Features, die HTML5 rund um Autocompletion für Formulare bringt. Das ist auf dem Papier im Moment noch etwas beeindruckender als im Browser."
+    }
+  ],
+  "links": [
+    {
+      "title": "Videos von der JSConf US",
+      "href": "https://www.youtube.com/playlist?list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN",
+      "time": "00:35:20",
+      "description": "Schlaue Leute erzählen in kurzen Videos schlaue Dinge."
+    },
+    {
+      "title": "Normalize OpenType",
+      "href": "http://kennethormandy.com/journal/normalize-opentype-css",
+      "time": "00:35:20",
+      "description": "Drop-in-CSS-Modul für schönere Typografie."
+    },
+    {
+      "title": "Philip Roberts: Help, I’m stuck in an event-loop. on Vimeo",
+      "href": "http://vimeo.com/96425312",
+      "time": "00:35:20",
+      "description": "Anschauliche Erklärung von asynchronität in JavaScript."
+    },
+    {
+      "title": "Falsehoods Programmers Believe",
+      "href": "http://wayfinder.co/pathways/53998ffd774fd817001977ef/falsehoods-programmers-believe",
+      "time": "00:35:20",
+      "description": "Artikelsammlung voller klassischer Programmierer-Irrtümer betreffend Namen, Adressen, Zeiten und vielem vielem mehr."
+    }
+  ]
+}

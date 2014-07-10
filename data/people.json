@@ -322,5 +322,21 @@
     "name": "Jan Lehnardt",
     "twitter": "https://twitter.com/janl",
     "web": "http://writing.jan.io/"
+  },
+  "pangratz": {
+    "name": "Clemens Müller",
+    "twitter": "https://twitter.com/pangratz"
+  },
+  "LevelBossMike": {
+    "name": "Michael Klein",
+    "twitter": "https://twitter.com/LevelBossMike"
+  },
+  "jakoblehner": {
+    "name": "Jakob Lehner",
+    "twitter": "https://twitter.com/jakoblehner"
+  },
+  "manuel_mitasch": {
+    "name": "Manuel Mitasch",
+    "twitter": "manuel_mitasch"
   }
 }

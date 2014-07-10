@@ -1,0 +1,124 @@
+{
+  "id": 178,
+  "date": "2014-07-10",
+  "duration": "00:59:28",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Clemens Müller",
+      "twitter": "https://twitter.com/pangratz"
+    },
+    {
+      "name": "Michael Klein",
+      "twitter": "https://twitter.com/LevelBossMike"
+    },
+    {
+      "name": "Jakob Lehner",
+      "twitter": "https://twitter.com/jakoblehner"
+    },
+    {
+      "name": "Manuel Mitasch",
+      "twitter": "manuel_mitasch"
+    }
+  ],
+  "trello": "https://trello.com/b/ldNHJt3X/revision-178",
+  "href": "http://workingdraft.de/178/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2459/0/wd-178.mp3",
+  "title": "Ember.js in der Stahlstadt",
+  "description": "Das vorherrschende Sommerloch veranlasst die Working Draft Crew zu einer Spezialrevision: Peter, Anselm und Stefan geben sich in rekordverdächtigen 8 Minuten die Klinke in die Hand und klappern die Eckpfeiler unseres Newspodcasts ab, bevor wir die Tür und Tor für ein ausgedehntes Face To Face Gespräch rund um Ember.js öffnen. Dazu eingeladen sind Runtastic Mitarbeiter und Stahlstadt.js Organisatoren <a href=\"https://twitter.com/pangratz\">Clemens Müller</a>, <a href=\"https://twitter.com/LevelBossMike\">Michael Klein</a>, <a href=\"https://twitter.com/jakoblehner\">Jakob Lehner</a> und <a href=\"https://twitter.com/manuel_mitasch\">Manuel Mitasch</a>. Viel Spaß!",
+  "news": [
+    {
+      "title": "Opera Mini auf iOS",
+      "href": "http://dev.opera.com/blog/opera-mini-8-for-ios/",
+      "time": "00:00:36",
+      "description": "Opera hat die neue Version ihres Mini-Browsers für iOS veröffentlicht und mit dem Turbo Mode ein neues, sehr spannendes Feature entworfen: Anstatt wie bislang die gesamte Seite auf den Presto-Servern des norwegischen Browserherstellers vorrendern zu lassen, kann man nun in unterschiedlichen Qualitätsstufen die Bilder reduzieren. JavaScript und CSS wird wie im hauseigenen Safari interpretiert."
+    }
+  ],
+  "links": [
+    {
+      "title": "A Look At preserveAspectRatio in SVG",
+      "href": "http://jonibologna.com/a-look-at-preserveaspectratio-in-svg/",
+      "time": "00:02:00",
+      "description": "Sehr anschaulich und mit vielen Insights erklärt Joni Trythall wie man das Seitenverhältnis in SVG steuert."
+    },
+    {
+      "title": "Velocity.js",
+      "href": "http://julian.com/research/velocity/",
+      "time": "00:02:00",
+      "description": "Schneller als CSS3 und so komfortabel wie jQuery.animate? Velocity.js machts möglich."
+    },
+    {
+      "title": "Grid Layouts in CSS3",
+      "href": "http://de.slideshare.net/igalia/blinkon2",
+      "time": "00:02:00",
+      "description": "Sehr anschauliche und unmfassende Präsentation zu CSS3 Grid Layouts."
+    },
+    {
+      "title": "Installable Web Apps",
+      "href": "http://www.2ality.com/2014/06/installable-web-apps.html",
+      "time": "00:02:00",
+      "description": "JavaScript-Doktor Rauschmayr zeigt den aktuellen Status von installierbaren Web Applikationen unterschiedlichster Plattformen auf."
+    },
+    {
+      "title": "Ember-CLI",
+      "href": "http://iamstef.net/ember-cli/",
+      "description": "Ein ganz eigener Projektgenerator für Ember in Form einer hübschen Command Line."
+    },
+    {
+      "title": "Ember.js Codeschool",
+      "href": "http://ember.codeschool.com/levels/1",
+      "description": "Zwar kostenpflichtig, aber laut Expertenmeinung immer noch der beste Kurs zu Ember."
+    },
+    {
+      "title": "Ember.js Unit Tests",
+      "href": "https://github.com/emberjs/ember.js/#how-to-run-unit-tests",
+      "description": "Die Ember.js Unit Tests geben guten Einblick in die zahlreichen Features des Frameworks."
+    },
+    {
+      "title": "Ember.js Tutorial Video",
+      "href": "https://www.youtube.com/watch?v=1QHrlFlaXdI",
+      "description": "Toller Einstieg, der einige Basisfeatures zeigt."
+    },
+    {
+      "title": "Getting Started with Ember",
+      "href": "http://emberjs.com/guides/getting-started/",
+      "description": "So wünscht man es sich: Die offizielle Doku ist immer noch die Beste."
+    },
+    {
+      "title": "Hello Ember",
+      "href": "http://dev.ghost.org/hello-ember/",
+      "description": "Wie und warum die Blogging-Plattform Ghost sich für Ember entschieden hat. Inklusive Link auf eine der <a href=\"https://github.com/TryGhost/Ghost/issues/2144\">schönsten Github Diskussionen</a>"
+    }
+  ],
+  "topics": [
+    {
+      "title": "Ember.js",
+      "href": "http://emberjs.com/",
+      "time": "00:07:34",
+      "description": "Nach dem letzten Linzer JavaScript Meetup &#8212; <strong><a href=\"http://www.meetup.com/stahlstadt-js/events/187301912/\">stahlstadt.js</a></strong> &#8212; konnte Stefan die Organisatoren zu einer sehr ausführlichen Diskussion rund um das <a href=\"http://www.emberjs.com\">Ember.js</a> Framework gewinnen. Wir erfahren, was Ember mit &#8220;ambitionierten Web-Applikationen&#8221; meint, welchen Zusammenhang es mit Ruby/Ruby on Rails gibt und welche Prinzipien hinter dem JavaScript Toolset stecken. Außerdem wird aus dem Nähkästchen geplaudert, wie Ember mit Hilfe der Community in die Administrationsoberfläche von <a href=\"http://ghost.io\">Ghost</a> gewandert ist. Bei der nicht unbedingt flachen Lernkurve haben wir ausserdem noch eine Menge Tipps und Informationen für Einsteiger parat!"
+    }
+  ]
+}

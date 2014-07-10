@@ -2873,5 +2873,38 @@
     "href": "http://workingdraft.de/176/",
     "audio": "http://workingdraft.de/podpress_trac/web/2446/0/wd-176.mp3",
     "title": "will-change, Critical Path und z-index"
+  },
+  "177": {
+    "id": 177,
+    "date": "2014-07-08",
+    "duration": "00:39:04",
+    "people": [
+      "drublic",
+      "ddprrt",
+      "helloanselm",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/20ZbOMXy/revision-177",
+    "href": "http://workingdraft.de/177/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2452/0/wd-177.mp3",
+    "title": "CSS-Benamung, Glücksrad, Links"
+  },
+  "178": {
+    "id": 178,
+    "date": "2014-07-10",
+    "duration": "00:59:28",
+    "people": [
+      "ddprrt",
+      "helloanselm",
+      "sir_pepe",
+      "pangratz",
+      "LevelBossMike",
+      "jakoblehner",
+      "manuel_mitasch"
+    ],
+    "trello": "https://trello.com/b/ldNHJt3X/revision-178",
+    "href": "http://workingdraft.de/178/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2459/0/wd-178.mp3",
+    "title": "Ember.js in der Stahlstadt"
   }
 }
