@@ -2906,5 +2906,27 @@
     "href": "http://workingdraft.de/178/",
     "audio": "http://workingdraft.de/podpress_trac/web/2459/0/wd-178.mp3",
     "title": "Ember.js in der Stahlstadt"
+  },
+  "179": {
+    "id": 179,
+    "date": "2014-07-26",
+    "duration": "00:50:32",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/0r1DGHLi/revision-179",
+    "live": [
+      {
+        "title": "Revision 179",
+        "href": "http://livestre.am/4THhi",
+        "duration": "01:33:14",
+        "date": "2014-07-07"
+      }
+    ],
+    "href": "http://workingdraft.de/179/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2477/0/wd-179.mp3",
+    "title": "Web Components"
   }
 }

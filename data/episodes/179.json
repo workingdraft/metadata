@@ -1,0 +1,84 @@
+{
+  "id": 179,
+  "date": "2014-07-26",
+  "duration": "00:50:32",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "trello": "https://trello.com/b/0r1DGHLi/revision-179",
+  "live": [
+    {
+      "title": "Revision 179",
+      "href": "http://livestre.am/4THhi",
+      "duration": "01:33:14",
+      "date": "2014-07-07"
+    }
+  ],
+  "href": "http://workingdraft.de/179/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2477/0/wd-179.mp3",
+  "title": "Web Components",
+  "description": "Revision 179 ohne besondere Vorkommnisse.",
+  "news": [
+    {
+      "title": "position: sticky aus Blink entfernt",
+      "href": "http://src.chromium.org/viewvc/blink?view=revision&revision=177128",
+      "time": "00:00:10",
+      "description": "Die Blink-Entwickler (Google) entfernen position: sticky erst mal wieder, bis sie das Compositing System erneuert haben."
+    },
+    {
+      "title": "Chrome Canary Connection Emulation",
+      "href": "http://www.elijahmanor.com/enhanced-chrome-emulation-tools/",
+      "time": "00:00:10",
+      "description": "Die Chrome Developer Tools können nun Verbindungsgeschwindigkeit simulieren."
+    }
+  ],
+  "topics": [
+    {
+      "title": "Web Components",
+      "time": "00:01:27",
+      "description": "Web-Components wird als Oberbegriff für Technologien, die HTML um neue, eigene Elemente (also komplette Interfaces) erweitern.<br>\nDas HTML5 video-Tag erzeugt im Browser beispielsweise einen Player, bestehend aus verschiedenen Elementen, diese werden mithilfe des ShadowDOM gebaut. Dazu kommt die Funktionalität, die dahinter steht: Das alles ist durch Web-Components für Web-Interface-Entwickler nun auch möglich. Und zwar bereits ab sofort, denn das <a href=\"http://www.polymer-project.org/\">Polymer Framework</a> für Web-Component Umsetzung bietet die neuen Technologien cross-browser an.<br>\nEinige grundlegenden Dinge werden <a href=\"http://toddmotto.com/web-components-concepts-shadow-dom-imports-templates-custom-elements/\">von Todd Motto</a> und <a href=\"http://www.peterkroener.de/web-components-erklaert-teil-1-was-sind-web-components/\">Peter in seiner Artikel-Serie zum Thema</a> noch mal ausführlicher beschrieben.<br>\nWir diskutieren über die Anzahl der Dateien, die geladen werden müssen: Styles, HTML, JS pro Component. Unsere Schlussfolgerung: dies wird nicht mehr all zu wichtig sein, wenn man SPDY verwendet, da man besser Deltas als große Dateien durchs Kabel jagt. Auch Probleme mit den Spezifikationen sprechen wir ans: Peter vermisst bei Components beispielsweise das Responsive Web-Design und auch sogenannte <a href=\"http://www.xanthir.com/b4PR0\">Element Queries</a> fehlen noch. Des weiteren hat man zum Thema <a href=\"https://www.youtube.com/watch?v=BgvDZZ8Ms8c\">Barrierefreiheit von Components</a> auch noch nicht viel gehört."
+    }
+  ],
+  "links": [
+    {
+      "title": "The ServiceWorker: The network layer is yours to own",
+      "href": "https://www.youtube.com/watch?v=4uQMl7mFB6g",
+      "time": "00:47:22",
+      "description": "Ein lustiges Video, welches Service Worker näher erläutert."
+    },
+    {
+      "title": "“Merge Pull Requests” Considered Harmful",
+      "href": "http://blog.spreedly.com/2014/06/24/merge-pull-request-considered-harmful/#.U8u8HvKSweT",
+      "time": "00:47:22",
+      "description": "Ein Artikel, der zu besseren Merging-Strategien rät, als den “Merge Pull Request” Button auf GitHub zu verwenden."
+    },
+    {
+      "title": "HTTP/2",
+      "href": "http://schepp.github.io/HTTP-2/#/",
+      "time": "00:47:22",
+      "description": "Schepps Präsentation zum Thema HTTP/2 und SPDY deckt so ziemlich die meisten Fragen in diesem Context ab."
+    }
+  ]
+}
