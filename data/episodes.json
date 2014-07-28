@@ -2928,5 +2928,27 @@
     "href": "http://workingdraft.de/179/",
     "audio": "http://workingdraft.de/podpress_trac/web/2477/0/wd-179.mp3",
     "title": "Web Components"
+  },
+  "180": {
+    "id": 180,
+    "date": "2014-07-28",
+    "duration": "00:56:54",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "helloanselm"
+    ],
+    "trello": "https://trello.com/b/N4ucYIHF/revision-180",
+    "live": [
+      {
+        "title": "Revision 180",
+        "href": "http://livestre.am/4U2Sg",
+        "duration": "02:01:01",
+        "date": "2014-07-14"
+      }
+    ],
+    "href": "http://workingdraft.de/180/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2490/0/wd-180.mp3",
+    "title": "Media Queries und Web-Worker Analysen"
   }
 }

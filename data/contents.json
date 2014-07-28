@@ -17593,5 +17593,106 @@
         "description": "Schepps Präsentation zum Thema HTTP/2 und SPDY deckt so ziemlich die meisten Fragen in diesem Context ab."
       }
     ]
+  },
+  "180": {
+    "id": 180,
+    "date": "2014-07-28",
+    "duration": "00:56:54",
+    "people": [
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Anselm Hannemann",
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
+      }
+    ],
+    "trello": "https://trello.com/b/N4ucYIHF/revision-180",
+    "live": [
+      {
+        "title": "Revision 180",
+        "href": "http://livestre.am/4U2Sg",
+        "duration": "02:01:01",
+        "date": "2014-07-14"
+      }
+    ],
+    "href": "http://workingdraft.de/180/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2490/0/wd-180.mp3",
+    "title": "Media Queries und Web-Worker Analysen",
+    "description": "Hans, Schepp und Anselm fanden dieses mal zwei spannende Themen, die uns als responsive Webentwickler mehr oder weniger betreffen und es gibt eine Menge Linktipps.",
+    "topics": [
+      {
+        "title": "The Future of Media Queries",
+        "href": "http://www.slideshare.net/yiibu/the-future-of-mediaqueries",
+        "time": "00:00:19",
+        "description": "Nachdem in neuen Spezifikationen immer mehr neue Media Query Typen auftauchen, nehmen wir dies als Anlass, um über den Sinn und Unsinn von zu spezifischer Auswahl an Media Queries und die damit einhergehenden Problematiken für Entwickler zu sprechen. Auf mögliche Alternativen zu Media Queries und die in der Präsentation aufgezeigten Lösungen gehen wir kurz ein und geben unsere Meinung kund."
+      },
+      {
+        "title": "Front-End Technology Survey Round-Up und die Webkrauts Umfrage-Ergebnisse",
+        "href": "https://medium.com/@rogerdudler/front-end-technology-stack-survey-2014-809f7a8c92f3",
+        "time": "00:19:48",
+        "description": "Zwei umfangreiche Umfragen im Front-End und Webentwicklungsbereich nahmen wir zum Anlass, um über Verwendung und Verbreitung von Front-End Technologien zu sprechen, um herauszufinden, wie nischenhaft unsere verwendeten Tools wirklich sind und wie verbreitet Bootstrap tatsächlich ist. Im zweiten Teil, der Webkrauts-Umfrage, geht es hingegen mehr um den Webworker an sich, seine Arbeitsweise, sein Einkommen, Arbeitszeiten und Weiterbildungmöglichkeiten. Wir sprechen, wie es uns ergeht, was wir aus den Ergebnissen für Rückschlüsse ziehen können und wo wir die Szene ganz anders eingeschätzt hätten…"
+      }
+    ],
+    "links": [
+      {
+        "title": "LXJS (2014) Videos",
+        "href": "https://www.youtube.com/user/lxjs2012/videos",
+        "time": "00:51:56",
+        "description": "Alle Videos der LXJS Konferenz in Lissabon, Portugal, sind bereits online auf ihrem YouTube Kanal ansehbar und bringen eine Menge Wissen mit. Alles in allem lohnenswerte Stunden Material, die man sich ansehen sollte."
+      },
+      {
+        "title": "How a browser paints a Pixel",
+        "href": "http://aerotwist.com/blog/pixels-are-expensive/",
+        "time": "00:51:56",
+        "description": "Paul Lewis erklärt ganz beiläufig an Hand von perceived Performance Optimierung (aka 60fps) wie ein Browser eigentlich CSS in Pixel umwandelt, was dabei passiert und wie man vermeiden kann, die Performance einer Seite kaputt zu machen, weil der Browser zu viele Pixelberechnungen in der Zeit durchführen muss, als dass er dies noch flüssig darstellen könnte."
+      },
+      {
+        "title": "Durchstarten mit Gulp",
+        "href": "http://mo.phlow.de/gulp/",
+        "time": "00:51:56",
+        "description": "Wer sich noch nicht richtig mit Gulp beschäftigen konnte, aber einen guten Einstieg sucht, dem sei dieser ausführliche Artikel empfohlen, der Schritt für Schritt erklärt, wie man Gulp aufsetzt, Tasks einrichtet, konfiguriert und seine Abläufe damit automatisieren kann."
+      },
+      {
+        "title": "CSS / SVG Clipping",
+        "href": "http://sarasoueidan.com/blog/css-svg-clipping/",
+        "time": "00:51:56",
+        "description": "Sara Soueidan erklärt in ihrem Blogartikel ausführlich, wie man mit CSS und / oder SVG seine HTML, CSS oder SVG Elemente mit Clip-Paths beschneiden kann und so in schöne Formen wie Hexagone oder Freiformen bringt."
+      },
+      {
+        "title": "Simplicity",
+        "href": "http://bastianallgeier.com/notes/simplicity",
+        "time": "00:51:56",
+        "description": "Bastian Allgeier schreibt in seinem Artikel „Simplicity“ über die Veränderung unseres Workflows. Oftmals sinnieren wir darüber, welche Toolchain wir für ein Projekt brauchen und lassen dabei die eigentliche kreative Arbeit außen vor. Er appelliert daran, sich auf das Wesentliche zu konzentrieren und sich nicht auf technische Hilfsmittel zu beschränken."
+      },
+      {
+        "title": "Technical Dept 101",
+        "href": "https://medium.com/@joaomilho/festina-lente-e29070811b84",
+        "time": "00:51:56",
+        "description": "Ein Einstieg, um zu verstehen, woher Legacy-Code kommt, wie dieser entstehen kann und warum Code-Rewrites notwendig sind. Zum besseren Verständnis für Manager oder andere Außenstehende, die nicht selbst in der Coder-Rolle stecken."
+      },
+      {
+        "title": "NightlyBuild.io",
+        "href": "http://www.nightlybuild.io/",
+        "time": "00:51:56",
+        "description": "Zum Zeitpunkt der Revisionsaufnahme noch nicht bereit, mittlerweile online: Die Website zur nächtlichen 1-Tageskonferenz im September in Köln, mitorganisiert unter anderem von Hans und Anselm. Die Tickets kosten 35€ und es sind noch ein paar erhältlich."
+      }
+    ]
   }
 }
