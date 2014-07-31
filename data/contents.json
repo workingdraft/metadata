@@ -17694,5 +17694,85 @@
         "description": "Zum Zeitpunkt der Revisionsaufnahme noch nicht bereit, mittlerweile online: Die Website zur nächtlichen 1-Tageskonferenz im September in Köln, mitorganisiert unter anderem von Hans und Anselm. Die Tickets kosten 35€ und es sind noch ein paar erhältlich."
       }
     ]
+  },
+  "181": {
+    "id": 181,
+    "date": "2014-07-31",
+    "duration": "01:05:04",
+    "people": [
+      {
+        "name": "asciidisco",
+        "twitter": "https://twitter.com/asciidisco",
+        "web": "http://www.asciidisco.com/"
+      },
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      }
+    ],
+    "trello": "https://trello.com/b/Qi4USJ9S/revision-181",
+    "live": [
+      {
+        "title": "Revision 181",
+        "href": "http://livestre.am/4UrUO",
+        "duration": "01:49:49",
+        "date": "2014-07-22"
+      }
+    ],
+    "href": "http://workingdraft.de/181/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2483/0/wd-181.mp3",
+    "title": "Module, Events, Verlosung",
+    "description": "Mit dem <a href=\"https://twitter.com/asciidisco\">Herrn Golasch</a> an Bord ranteten wir (Hans, Schepp und Peter) über JavaScript-Module und erzählten von selbstorganisierten Klein-Events, für die wir an Ort und Stelle auch Tickets verlosen.",
+    "topics": [
+      {
+        "title": "NPM AMD ES6 JSPM OMG WTF BBQ",
+        "time": "00:00:14",
+        "description": "Ohne so richtig konkreten Anlass sprachen wir über verschiedene Ansätze für JavaScript-Module. <a href=\"http://jsmodules.io/\">ES6-Module</a> sind zwar praktisch fertig, aber noch von keinem Browser (oder sonst irgendwas) unterstützt. Beim Gespräch über die heute nutzbaren Alternativen lässt Peter kein gutes Haar an AMD bzw. <a href=\"http://requirejs.org/\">RequireJS</a> und dem damit verbundenen Konfigurationskrieg. Sein Alternativ-Vorschlag <a href=\"http://browserify.org/\">Browserify</a> bringt Node-Module in den Browser, hat aber seine ganz eigenen Macken. Auch über den Package-Manager-Wildwuchs zürnen wir; zum Glück haben wir heutzutage „nur“ noch <a href=\"https://www.npmjs.org/\">NPM</a>, <a href=\"http://bower.io/\">Bower</a> und toolspezifische Manager wie <a href=\"https://atmospherejs.com/\">Atmosphere</a> von <a href=\"https://www.meteor.com/\">Meteor</a> an der Backe, was uns aber trotzdem recht viel erscheint. Ungeachtet dessen setzen wir für die nahe Zunkunft Hoffnung in <em>noch einen</em> Package Manager: <a href=\"http://jspm.io/\">JSPM</a> ist ein auf ES6 aufsetzender Allesfresser, der die Modulformatsgrenzen zwischen ES6, AMD und allem übrigen verschwimmen lässt (<a href=\"https://www.youtube.com/watch?v=szJjsduHBQQ\">Talk auf der JSConf</a>). Zum Abschluss geben wir ein paar alltagstaugliche Modul-Tool-Tipps von uns (<a href=\"https://www.npmjs.org/package/grunt-bower-clean\">grunt-bower-clean</a>, <a href=\"http://kenneth.io/blog/2013/04/01/visualize-your-javaScript-dependencies-with-dependo/\">dependo</a>) und erklären, warum <a href=\"https://github.com/SlexAxton/yepnope.js\">yepnope.js</a> nicht mehr das Mittel der Wahl sein sollte."
+      },
+      {
+        "title": "Dalekathon",
+        "time": "00:37:12",
+        "description": "Sebastian und Rodney rufen zur regen Beteiligung an ihrem fünftägigen <a href=\"http://dalekjs.com/\">Dalek.js</a>-Hackathon auf. Gerne auch online!"
+      },
+      {
+        "title": "NightlyBuild.io – Tickets zu gewinnen!",
+        "href": "http://www.nightlybuild.io/",
+        "time": "00:44:25",
+        "description": "Die halbe Workingdraft-Truppe veranstaltet (mit Verstärkung) eine After-Work-Konferenz in Köln! Für kleines Geld wird viel geboten. Sebastian und Hans erzählen auch direkt, wie man so etwas auf die Beine stellt. Wer die 35&thinsp;€ nicht selbst stemmen, sondern eins von <strong>zwei Tickets gewinnen</strong> möchte, soll uns einfach seinen sehnlichsten Speaker-Wunsch mitteilen."
+      }
+    ],
+    "links": [
+      {
+        "title": "jit-grunt",
+        "href": "https://github.com/shootaroo/jit-grunt",
+        "time": "01:01:18",
+        "description": "Automatisches und vor allem schnelles laden von Grunt-Plugins."
+      },
+      {
+        "title": "Speed in Software Development",
+        "href": "http://www.targetprocess.com/articles/speed-in-software-development.html",
+        "time": "01:01:18",
+        "description": "Monströser Artikel zum Thema Geschwindigkeit und Produktivität bei Softwareentwicklung."
+      }
+    ]
   }
 }

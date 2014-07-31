@@ -2950,5 +2950,28 @@
     "href": "http://workingdraft.de/180/",
     "audio": "http://workingdraft.de/podpress_trac/web/2490/0/wd-180.mp3",
     "title": "Media Queries und Web-Worker Analysen"
+  },
+  "181": {
+    "id": 181,
+    "date": "2014-07-31",
+    "duration": "01:05:04",
+    "people": [
+      "asciidisco",
+      "derSchepp",
+      "drublic",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/Qi4USJ9S/revision-181",
+    "live": [
+      {
+        "title": "Revision 181",
+        "href": "http://livestre.am/4UrUO",
+        "duration": "01:49:49",
+        "date": "2014-07-22"
+      }
+    ],
+    "href": "http://workingdraft.de/181/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2483/0/wd-181.mp3",
+    "title": "Module, Events, Verlosung"
   }
 }
