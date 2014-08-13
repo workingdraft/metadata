@@ -1,0 +1,96 @@
+{
+  "id": 182,
+  "date": "2014-08-13",
+  "duration": "01:18:25",
+  "people": [
+    {
+      "name": "David Hasenbeck",
+      "twitter": "https://twitter.com/dawitux"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "trello": "https://trello.com/b/EDojmU2H/revision-182",
+  "live": [
+    {
+      "title": "Revision 182",
+      "href": "http://livestre.am/4ULWr",
+      "duration": "02:06:46",
+      "date": "2014-07-28"
+    }
+  ],
+  "href": "http://workingdraft.de/182/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2500/0/wd-182.mp3",
+  "title": "Agile Methoden, responsive Bilder und noch eine Verlosung",
+  "description": "Wer bei uns einen guten Kommentar abgibt ist dann auch gleich mal Gast im Podcast. So geschehen mit <a href=\"https://twitter.com/dawitux\">David Hasenbeck</a>, der noch einiges an Feedback zu <a href=\"/174\">Revision 174</a> in petto hatte.",
+  "topics": [
+    {
+      "title": "Agile Methoden",
+      "time": "00:00:23",
+      "description": "David erklärt mit vier Jahren Scrum-Master Erfahrung, was es nun eigentlich mit dieser mittlerweile zum Usus gewordenen Projektmanagement-Strategie auf sich hat. Er reduziert das Prinzip auf zwei ganz grundlegende Regeln, erzählt von den verschiedenen Rollen und deren Aufgaben und gibt vor allem Klarheit, warum es in Ordnung ist, sich das System für den eigenen Use Case zurechtzubiegen. Schepp und Stefan streuen noch Kanban als Planungsalternative ein, das gewisse Ähnlichkeiten besitzt, aber doch ganz anders funktionieren kann."
+    },
+    {
+      "title": "Responsive Images sind da!",
+      "href": "http://dev.opera.com/articles/responsive-images/",
+      "time": "00:34:00",
+      "description": "Jubelt und jauchzet! Es ist soweit! Die ersten Implementierungen für Responsive Images sind in den Blink-Browsern gelandet. Und Firefox zieht nach. Mit Ende Oktober erwartet man sich in der <a href=\"http://responsiveimages.org/\">RICG</a> eine entsprechend großflächige Abdeckung. Und doch war es ein harter Weg, den vor allem Host Anselm mitbestritten hat. Peter und Anselm erzählen vom Weg zur Spezifikation, die mittlerweile abgesegnet und implementiert ist, und was es mit <code>picture</code>-Element, <code>sizes</code> und <code>srcset</code> auf sich hat. Lektüre dazu: Anselms <a href=\"http://helloanselm.com/wwnrw-respimg/#/\">Präsentation von der WWNRW</a> und der umfangreiche Artikel bei <a href=\"http://dev.opera.com/articles/responsive-images/\">Opera</a>. Guter Polyfill: <a href=\"https://github.com/scottjehl/picturefill\">Picturefill</a>."
+    }
+  ],
+  "links": [
+    {
+      "title": "tracking.js",
+      "href": "http://trackingjs.com/",
+      "time": "01:14:07",
+      "description": "Face-Tracking und andere Bildverarbeitungsalgorithmen im Browser? tracking.js macht&#8217;s möglich."
+    },
+    {
+      "title": "CSS Triggers",
+      "href": "http://csstriggers.com/",
+      "time": "01:14:07",
+      "description": "Paul Lewis recherchiert, welche CSS Properties einen Repaint auslösen."
+    },
+    {
+      "title": "Zwei Tickets für die Coldfront",
+      "href": "http://coldfrontconf.com/",
+      "time": "01:14:07",
+      "description": "Wir verlosen zwei Karten für die Coldfront Conference in Dänemark."
+    }
+  ]
+}

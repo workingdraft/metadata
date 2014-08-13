@@ -2973,5 +2973,30 @@
     "href": "http://workingdraft.de/181/",
     "audio": "http://workingdraft.de/podpress_trac/web/2483/0/wd-181.mp3",
     "title": "Module, Events, Verlosung"
+  },
+  "182": {
+    "id": 182,
+    "date": "2014-08-13",
+    "duration": "01:18:25",
+    "people": [
+      "dawitux",
+      "ddprrt",
+      "derSchepp",
+      "drublic",
+      "helloanselm",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/EDojmU2H/revision-182",
+    "live": [
+      {
+        "title": "Revision 182",
+        "href": "http://livestre.am/4ULWr",
+        "duration": "02:06:46",
+        "date": "2014-07-28"
+      }
+    ],
+    "href": "http://workingdraft.de/182/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2500/0/wd-182.mp3",
+    "title": "Agile Methoden, responsive Bilder und noch eine Verlosung"
   }
 }
