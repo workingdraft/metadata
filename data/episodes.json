@@ -2998,5 +2998,40 @@
     "href": "http://workingdraft.de/182/",
     "audio": "http://workingdraft.de/podpress_trac/web/2500/0/wd-182.mp3",
     "title": "Agile Methoden, responsive Bilder und noch eine Verlosung"
+  },
+  "183": {
+    "id": 183,
+    "date": "2014-08-17",
+    "duration": "00:30:52",
+    "people": [
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/HdC66Ykr/revision-183",
+    "live": [
+      {
+        "title": "Revision 183",
+        "href": "http://livestre.am/4V5nK",
+        "duration": "01:13:16",
+        "date": "2014-08-04"
+      }
+    ],
+    "href": "http://workingdraft.de/183/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2505/0/wd-183.mp3",
+    "title": "Web Manifest Spec und Links"
+  },
+  "184": {
+    "id": 184,
+    "date": "2014-08-19",
+    "duration": "00:52:02",
+    "people": [
+      "ddprrt",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/NDHAVWX1/revision-184",
+    "live": true,
+    "href": "http://workingdraft.de/184/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2513/0/wd-184.mp3",
+    "title": "Web Components Type Extension und Rework.css"
   }
 }

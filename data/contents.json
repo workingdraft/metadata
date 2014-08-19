@@ -17870,5 +17870,113 @@
         "description": "Wir verlosen zwei Karten für die Coldfront Conference in Dänemark."
       }
     ]
+  },
+  "183": {
+    "id": 183,
+    "date": "2014-08-17",
+    "duration": "00:30:52",
+    "people": [
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      }
+    ],
+    "trello": "https://trello.com/b/HdC66Ykr/revision-183",
+    "live": [
+      {
+        "title": "Revision 183",
+        "href": "http://livestre.am/4V5nK",
+        "duration": "01:13:16",
+        "date": "2014-08-04"
+      }
+    ],
+    "href": "http://workingdraft.de/183/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2505/0/wd-183.mp3",
+    "title": "Web Manifest Spec und Links",
+    "description": "Schepp und Peter zogen mit Heldenmut in die Schlacht gegen das Sommerloch. Aber ob das alleine reicht?",
+    "topics": [
+      {
+        "title": "The Web Manifest specification",
+        "href": "https://w3c.github.io/manifest/",
+        "time": "00:00:16",
+        "description": "Der HTML5 Doctor <a href=\"http://html5doctor.com/web-manifest-specification/\">verbreitet</a> die Kunde kündet von der <a href=\"https://w3c.github.io/manifest/\">Web Manifest specification</a>, einem Entwurf für ein Webapp-Metadaten-Format. Peter findet es gut, Schepp ist eher gedämpft begeistert. Wir reden über <a href=\"http://www.2ality.com/2014/06/installable-web-apps.html\">installierbare Webapps</a>, <a href=\"https://github.com/slightlyoff/ServiceWorker/blob/master/explainer.md\">Service Workers</a>, <a href=\"http://appcachefacts.info/\">App Cache</a>, <a href=\"http://humanstxt.org/DE\">humans.txt</a> und <a href=\"http://webplatformdaily.org/\">Open Web Platform Daily Digest</a>."
+      }
+    ],
+    "links": [
+      {
+        "title": "Markov Chains",
+        "href": "http://setosa.io/blog/2014/07/26/markov-chains/",
+        "time": "00:28:38",
+        "description": "Markow-Ketten bunt und animiert erklärt."
+      },
+      {
+        "title": "Understanding SVG Coordinate Systems & Transformations",
+        "href": "http://sarasoueidan.com/blog/svg-coordinate-systems/",
+        "time": "00:28:38",
+        "description": "Epische dreiteilige SVG-Artikelserie aus der Feder Sara Soueidans."
+      }
+    ]
+  },
+  "184": {
+    "id": 184,
+    "date": "2014-08-19",
+    "duration": "00:52:02",
+    "people": [
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      },
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      }
+    ],
+    "trello": "https://trello.com/b/NDHAVWX1/revision-184",
+    "live": true,
+    "href": "http://workingdraft.de/184/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2513/0/wd-184.mp3",
+    "title": "Web Components Type Extension und Rework.css",
+    "description": "Zwei Stühle, drei Meinungen: Beschaulich kleine Runde mit angenehmen Fortbildungsfaktor.",
+    "topics": [
+      {
+        "title": "Rework.css",
+        "href": "https://github.com/reworkcss/rework",
+        "time": "00:00:17",
+        "description": "Stefan hat sich näher mit dem Rework.css Framework beschäftigt, einer Node.js Bibliothek die CSS Manipulationen erlaubt, und unter anderem den Grundstein für Projekte wie das auf die Nase gefallene <a href=\"http://www.myth.io/\">Myth</a> oder <a href=\"https://github.com/visionmedia/styl\">Styl</a> legt. Auch Nicolas Ghallagers <a href=\"https://github.com/suitcss/suit\">SUIT Framework</a> bekommt dadurch eine Zwischensprache. Wir erklären, dass man durch die plugingestützte Architektur sich schnell ein ganz passables Tool stricken kann um sich &#8212; nicht unähnlich zum Autoprefixer &#8212; bei etlichen Standardaufgaben die Drecksarbeit erledigen zu lassen. Zaubern wird man aber dennoch nicht können."
+      },
+      {
+        "title": "Why Web Components are ready for production",
+        "href": "http://developer.telerik.com/featured/web-components-ready-production/",
+        "time": "00:23:44",
+        "description": "Web Components sind ja im Moment der letzte Schrei, doch wenn man sich die Kompatibilitätstabelle ansieht, schaut es abseits der Blink-Umgebungen &#8212; von generellem Commitment abgesehen &#8212; eher düster aus. TJ Van Toll meint allerdings, dass man gewisse Bereiche aus dem Gebiet der Web Components auch schon heute verwenden kann. Peter nimmt diesen Artikel zum Anlass um über <a href=\"http://www.peterkroener.de/web-components-erklaert-teil-3-native-html-elemente-erweitern/\">seine jüngsten Recherchen zum Thema Type Extensions</a> zu referieren, die mittlereile auch von <a href=\"https://github.com/github/time-elements\">Github</a> im Live Environment eingesetzt werden."
+      }
+    ],
+    "links": [
+      {
+        "title": "Tablesaw",
+        "href": "http://filamentgroup.com/lab/tablesaw.html",
+        "time": "00:50:15",
+        "description": "Das dreckige Dutzend an Responsive Tables Techniken, vereint in einer knackigen JavaScript Library von der Filament Group."
+      }
+    ]
   }
 }
