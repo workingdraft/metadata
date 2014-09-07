@@ -1,0 +1,107 @@
+{
+  "id": 185,
+  "date": "2014-09-07",
+  "duration": "00:45:13",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "trello": "https://trello.com/b/xKmumV7C/revision-185",
+  "live": [
+    {
+      "title": "Revision 185",
+      "href": "http://livestre.am/4W4rp",
+      "duration": "01:46:18",
+      "date": "2014-08-25"
+    }
+  ],
+  "href": "http://workingdraft.de/185/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2522/0/wd-185.mp3",
+  "title": "JS Debuggingstrategien & Network Information API",
+  "description": "Die aktuelle Folge in (fast) vollständiger Besetzung mit einer Diskussion zum Thema JavaScript Debugging und zur neuen Netzwerk Analyse API.",
+  "news": [
+    {
+      "title": "Sass 3.4 is Released",
+      "href": "http://blog.sass-lang.com/posts/221239-sass-34-is-released",
+      "time": "00:00:30",
+      "description": "Sass 3.4 ist draußen mit einigen Kleinigkeiten. Beim Upgrade ist auf <a href=\"http://sass-lang.com/documentation/file.SASS_CHANGELOG.html#backwards_incompatibilities__must_read\">die Kompatibilität zu alten Versionen</a> zu achten."
+    }
+  ],
+  "topics": [
+    {
+      "title": "JavaScript Fehlerbehebungstrategien",
+      "href": "http://strawpoll.me/2375480/r",
+      "time": "00:00:50",
+      "description": "Peter startete eine Umfrage per Twitter, wie Developer JavaScript Fehler analysieren. Wir diskutieren die beiden Ansätze.<br>\nHans benutzt in erster Linie console.log, weil ihm das Debugging zu umständlich ist, und vielleicht auch weil er keine Übung hat. Wenn er ganz viel Details braucht, dann greift er zum Debugger. Im Verhältnis: eine Verteilung von 80% console.log vs. 20% Debugger.<bt><br>\nMeist wird zum Debugger gegriffen, wenn man herausfinden will, wo eine Veränderung ursprünglich herkommt. Wenn man nur Werte analysieren will, nimmt man üblicherweise die Konsole.<br>\nEin Tipp kommt von Peter. Er nutzt console.log als bool’schen Wert für einen bedingten Breakpoint im Debugger, um sich Werte ausgeben zu lassen, ohne wirklich console.log in den JavaScript-Code zu schreiben. Außerdem hat er den Eindruck, dass der Debugger nicht angenehm zu bedienen ist, und er ist manchmal zu punktuell und zu detailliert. Manchmal will man eher weniger tief und in der Breite Code analysieren.<br>\nStefan nutzt gerne die Debugger-eigene Konsole.</bt>"
+    },
+    {
+      "title": "HTML5: Network Information API – Tuts+ Code Tutorial",
+      "href": "http://code.tutsplus.com/tutorials/html5-network-information-api--cms-21598",
+      "time": "00:17:17",
+      "description": "Stefan meint, über die API kann eine Webseite entscheiden, wie &#8220;fett&#8221; sie daherkommen will. Peter weißt aber darauf hin, dass die gelieferten Infos, respektive die Folgerungen daraus ganz schön daneben liegen können. Peter fragt sich also, warum entwickeln Google und Co. so eine unbrauchbare API? Schepp meint der Usecase könnte in ChromeOS liegen (vgl. <a href=\"http://w3c-webmob.github.io/netinfo-usecases/\">W3C Use Cases</a>). Anselm meint, man kann vielleicht auf bestimmte, &#8220;sichere&#8221; Abfragen, also z.B. die Abfrage nach &#8220;Cellular&#8221;, gehen kann. Peter sieht die einzige brauchbare Umsetzung von soetwas in der Art wie Youtube es tut. Anselm liest folgende von der Spec genannten Use Cases vor: Die BBC-Seite warnt bei &#8220;Cellular&#8221; den Benutzer vor dem Start vor hohen Kosten. Ein weiterer Use Case: der Firefox Marketplace bietet nur dann eine SMS-basierte Authentifizierung an, wenn beim Endgerät &#8220;Cellular&#8221; entdeckt wird. Anselm sieht den Vorteil gegenüber dem Youtube-Verfahren darin, dass die API viel leichter einzubinden und abzufragen ist. Peter meint weiterhin, die API sei nicht zu gebrauchen."
+    }
+  ],
+  "links": [
+    {
+      "title": "grunt-split-images",
+      "href": "https://www.npmjs.org/package/grunt-split-images",
+      "time": "00:40:57",
+      "description": "CSS in verschiedene Dateien verteilen, die zum einen Layout, zum anderen Stylingbilder betreffen. Letztere lässt sich dann praktisch per Lazy Loading nachladen."
+    },
+    {
+      "title": "Building markdown-based developer docs",
+      "href": "https://medium.com/code-stories/building-markdown-based-developer-docs-87c0317c56f7",
+      "time": "00:40:57",
+      "description": "Markdown-basierte Dokumentation im Code, die sich automatisiert auslesen lässt."
+    },
+    {
+      "title": "Let’s build a browser engine!",
+      "href": "http://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html",
+      "time": "00:40:57",
+      "description": "Ein Tutorial, das beschreibt, wie man eine eigene Browser Engine bauen kann."
+    },
+    {
+      "title": "How to secure your site in an afternoon",
+      "href": "https://www.joshemerson.co.uk/blog/secure-your-site",
+      "time": "00:40:57",
+      "description": "SSL für die eigene Website in nur wenigen Schritten."
+    }
+  ]
+}

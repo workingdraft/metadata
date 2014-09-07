@@ -3032,5 +3032,29 @@
     "href": "http://workingdraft.de/184/",
     "audio": "http://workingdraft.de/podpress_trac/web/2513/0/wd-184.mp3",
     "title": "Web Components Type Extension und Rework.css"
+  },
+  "185": {
+    "id": 185,
+    "date": "2014-09-07",
+    "duration": "00:45:13",
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "drublic",
+      "helloanselm",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/xKmumV7C/revision-185",
+    "live": [
+      {
+        "title": "Revision 185",
+        "href": "http://livestre.am/4W4rp",
+        "duration": "01:46:18",
+        "date": "2014-08-25"
+      }
+    ],
+    "href": "http://workingdraft.de/185/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2522/0/wd-185.mp3",
+    "title": "JS Debuggingstrategien & Network Information API"
   }
 }
