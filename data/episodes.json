@@ -3056,5 +3056,27 @@
     "href": "http://workingdraft.de/185/",
     "audio": "http://workingdraft.de/podpress_trac/web/2522/0/wd-185.mp3",
     "title": "JS Debuggingstrategien & Network Information API"
+  },
+  "186": {
+    "id": 186,
+    "date": "2014-09-15",
+    "duration": "00:36:11",
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "drublic"
+    ],
+    "trello": "https://trello.com/b/9R1Jn6yx/revision-186",
+    "live": [
+      {
+        "title": "Revision 186",
+        "href": "http://livestre.am/4WpcN",
+        "duration": "01:22:19",
+        "date": "2014-09-01"
+      }
+    ],
+    "href": "http://workingdraft.de/186/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2530/0/wd-186.mp3",
+    "title": "RESTful API Design"
   }
 }

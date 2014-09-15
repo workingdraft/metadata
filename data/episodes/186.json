@@ -1,0 +1,78 @@
+{
+  "id": 186,
+  "date": "2014-09-15",
+  "duration": "00:36:11",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    }
+  ],
+  "trello": "https://trello.com/b/9R1Jn6yx/revision-186",
+  "live": [
+    {
+      "title": "Revision 186",
+      "href": "http://livestre.am/4WpcN",
+      "duration": "01:22:19",
+      "date": "2014-09-01"
+    }
+  ],
+  "href": "http://workingdraft.de/186/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2530/0/wd-186.mp3",
+  "title": "RESTful API Design",
+  "description": "Hans, Schepp und Stefan erzählen diesmal von ihren Erfahrungen in der Zusammenarbeit zwischen Backend und Frontend Entwicklern bei Schnittstellendefinitionen.",
+  "news": [
+    {
+      "title": "YUI",
+      "href": "http://yahooeng.tumblr.com/post/96098168666/important-announcement-regarding-yui",
+      "time": "00:00:16",
+      "description": "Yahoo stellt die Entwicklung des in die Jahre gekommenen YUI Frameworks ein. Bei der künftigen Technologiewahl durchaus zu berücksichtigen."
+    }
+  ],
+  "topics": [
+    {
+      "title": "Schnittstellendesign",
+      "href": "http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api",
+      "time": "00:01:06",
+      "description": "Schepp und Stefan resümieren über ein paar Tools für Entwickler, die sich für das reibungslose Schnittstellendesign eignen, und werfen mit <a href=\"http://apiary.io/\">Apiary</a> die neue Offenbarung für kollaborative API Definitionen in den Raum, das wir an dieser Stelle noch einmal jedem ans Herz legen wollen. Zusätzlich spricht man über das &#8220;perfekte Lehrbuchprojekt&#8221;: Saubere Definitionen, Mock-Objekte, Unit Tests und Co. So wie es halt sein soll. Weiters auf der Empfehlungs-Liste: <a href=\"http://fatfreeframework.com/home\">Fat Free PHP Framework</a> und <a href=\"http://www.getpostman.com/\">Postman</a>. REST in peace!"
+    }
+  ],
+  "links": [
+    {
+      "title": "Regex Editoren",
+      "time": "00:32:55",
+      "description": "<a href=\"https://www.debuggex.com/\">Debuggex</a> und <a href=\"http://regex101.com/\">Regex 101</a> sind zwei Regex Testing Tools, die gut visualisieren wie euer regulärer Ausdruck funktioniert."
+    },
+    {
+      "title": "perf.fail",
+      "href": "http://perf.fail/",
+      "time": "00:32:55",
+      "description": "Von den Performance Gurus zur Schau gestellte Fehltritte, die durchaus zu vermeiden gewesen wären. Gutes Lehrmaterial."
+    },
+    {
+      "title": "P5.js",
+      "href": "https://github.com/lmccart/p5.js",
+      "time": "00:32:55",
+      "description": "Schöne Visualisierungen mit angenehmer API? P5.js macht das."
+    }
+  ]
+}
