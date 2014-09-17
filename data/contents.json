@@ -18163,5 +18163,90 @@
         "description": "Schöne Visualisierungen mit angenehmer API? P5.js macht das."
       }
     ]
+  },
+  "187": {
+    "id": 187,
+    "date": "2014-09-16",
+    "duration": "02:18:59",
+    "people": [
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      },
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      {
+        "name": "Mike Adolphs",
+        "twitter": "https://twitter.com/fooforge"
+      }
+    ],
+    "trello": "https://trello.com/b/35pQhXCd/revision-187",
+    "live": [
+      {
+        "title": "Revision 187",
+        "href": "http://livestre.am/4WKqW",
+        "duration": "03:02:10",
+        "date": "2014-09-08"
+      }
+    ],
+    "href": "http://workingdraft.de/187/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2540/0/wd-187.mp3",
+    "title": "Arbeiten bei GitHub",
+    "description": "Zur aktuellen Revision haben sich Stefan und der Schepp <a href=\"https://twitter.com/fooforge\">Mike Adolphs</a> eingeladen, der seines Zeichens im Enterprise Support bei GitHub sitz.",
+    "topics": [
+      {
+        "title": "Arbeiten bei GitHub",
+        "href": "https://gist.github.com/Schepp/9fb648c7ca4b5ce9e4a4",
+        "time": "00:00:16",
+        "description": "Mike erzählt uns, was es bedeutet für eine große, amerikanische Firma tätig zu sein, die hauptsächlich aus Leuten besteht, die remote arbeiten und über den ganzen Globus verteilt sind. Wie sind die Rekrutierungsprozesse, die Arbeitsbedingungen, was muss man als Deutscher beachten, wenn man den Schritt in diese Richtung wagt? Wir bekommen einen exklusiven und ausführlichen Einblick in die Arbeitsweisen des wohl wichtigsten Social Networks für Entwickler und lernen das Thema &#8220;Support&#8221; ganz neu kennen. Eine ausführliche Zusammenfassung des 2 Stunden Gesprächs von Schriftführer Schepp könnt ihr auf <a href=\"https://gist.github.com/Schepp/9fb648c7ca4b5ce9e4a4\">gist.github.com</a> einsehen."
+      }
+    ],
+    "links": [
+      {
+        "title": "Jeffrey Zeldman Documentary",
+        "href": "http://alistapart.com/blog/post/jeffrey-zeldman-documentary",
+        "time": "02:14:31",
+        "description": "40-minütige Dokumentation über den Blue Beanie Webdesigner."
+      },
+      {
+        "title": "Batsh",
+        "href": "https://github.com/BYVoid/Batsh",
+        "time": "02:14:31",
+        "description": "Unix Bash oder Windows Batch? Batsh macht beides, mit JavaScript-ähnlicher Syntax."
+      },
+      {
+        "title": "Windows Boxes for Vagrant",
+        "href": "http://blog.syntaxc4.net/post/2014/09/03/windows-boxes-for-vagrant-courtesy-of-modern-ie.aspx",
+        "time": "02:14:31",
+        "description": "Modern.ie Virtualisierung über Vagrant? Geht! Endlich!"
+      },
+      {
+        "title": "Angular JS Tips&Tricks",
+        "href": "http://blog.revolunet.com/blog/2013/05/01/angular-tips-n-tricks/",
+        "time": "02:14:31",
+        "description": "Schepp ist gerade voll in Angular JS drin und findet diese Hinweise sehr hilfreich. Nicht <a href=\"http://blog.revolunet.com/blog/2013/07/23/angularjs-tips-n-tricks-2/\">Teil zwei</a> vergessen."
+      },
+      {
+        "title": "CSS Shapes Editor",
+        "href": "http://blogs.adobe.com/webplatform/2014/09/03/css-shapes-editor-for-chrome/",
+        "time": "02:14:31",
+        "description": "CSS Shapes können echt schwierig sein, mit einem tollen Editor allerdings klappt das ziemlich prima und easy. Danke Adobe!"
+      },
+      {
+        "title": "Cross Storage",
+        "href": "https://github.com/zendesk/cross-storage",
+        "time": "02:14:31",
+        "description": "Zendesk gibt uns eine schöne API, mit der wir alle localStorage Tricks einfach anwenden können, die uns Kommunikation über unterschiedliche Domains erlauben."
+      }
+    ]
   }
 }

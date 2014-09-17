@@ -3078,5 +3078,27 @@
     "href": "http://workingdraft.de/186/",
     "audio": "http://workingdraft.de/podpress_trac/web/2530/0/wd-186.mp3",
     "title": "RESTful API Design"
+  },
+  "187": {
+    "id": 187,
+    "date": "2014-09-16",
+    "duration": "02:18:59",
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "fooforge"
+    ],
+    "trello": "https://trello.com/b/35pQhXCd/revision-187",
+    "live": [
+      {
+        "title": "Revision 187",
+        "href": "http://livestre.am/4WKqW",
+        "duration": "03:02:10",
+        "date": "2014-09-08"
+      }
+    ],
+    "href": "http://workingdraft.de/187/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2540/0/wd-187.mp3",
+    "title": "Arbeiten bei GitHub"
   }
 }
