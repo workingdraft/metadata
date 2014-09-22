@@ -3100,5 +3100,27 @@
     "href": "http://workingdraft.de/187/",
     "audio": "http://workingdraft.de/podpress_trac/web/2540/0/wd-187.mp3",
     "title": "Arbeiten bei GitHub"
+  },
+  "188": {
+    "id": 188,
+    "date": "2014-09-22",
+    "duration": "00:27:41",
+    "people": [
+      "ddprrt",
+      "drublic",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/lvG1k0O4/revision-188",
+    "live": [
+      {
+        "title": "Revision 188",
+        "href": "http://livestre.am/4X3NK",
+        "duration": "01:22:21",
+        "date": "2014-09-15"
+      }
+    ],
+    "href": "http://workingdraft.de/188/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2550/0/wd-188.mp3",
+    "title": "AMCSS und Links"
   }
 }

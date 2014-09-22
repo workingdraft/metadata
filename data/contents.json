@@ -18248,5 +18248,83 @@
         "description": "Zendesk gibt uns eine schöne API, mit der wir alle localStorage Tricks einfach anwenden können, die uns Kommunikation über unterschiedliche Domains erlauben."
       }
     ]
+  },
+  "188": {
+    "id": 188,
+    "date": "2014-09-22",
+    "duration": "00:27:41",
+    "people": [
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      },
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      }
+    ],
+    "trello": "https://trello.com/b/lvG1k0O4/revision-188",
+    "live": [
+      {
+        "title": "Revision 188",
+        "href": "http://livestre.am/4X3NK",
+        "duration": "01:22:21",
+        "date": "2014-09-15"
+      }
+    ],
+    "href": "http://workingdraft.de/188/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2550/0/wd-188.mp3",
+    "title": "AMCSS und Links",
+    "description": "Hans, Stefan und Peter präsentieren auch heute ein strittiges CSS-Thema, garniert mit ein paar Links.",
+    "topics": [
+      {
+        "title": "AMCSS – Attribute Modules for CSS",
+        "href": "http://amcss.github.io/",
+        "time": "00:00:21",
+        "description": "HTML-Attribute als <a href=\"https://developer.mozilla.org/de/docs/Web/CSS/Attributselektoren\">Attributselektor</a>-Hooks ausdenken, Genie oder Häresie? Wir werden uns nicht ganz einig. Zum einen ist bekannt, dass Browser nicht bekannte Attribute ignorieren (sonst würden <a href=\"https://html.spec.whatwg.org/multipage/dom.html#embedding-custom-non-visible-data-with-the-data-*-attributes\">data-Attribute gar nicht funktionieren</a>), zum anderen sieht der Standard andere selbst erfundene Attribute nicht vor. Beim Versuch, diese Technologie zu bewerten streifen wir <a href=\"https://angularjs.org/\">AngularJS</a> mit seinen eigenen <code>ng-*</code>-Attributen und die <a href=\"http://w3c.github.io/webcomponents/spec/custom/\">Custom Element Spec</a> mit der Möglichkeit, sich sogar eigene HTML-Tags auszudenken."
+      }
+    ],
+    "links": [
+      {
+        "title": "AniJS, Declarative handling library for UI interactions",
+        "href": "http://anijs.github.io/",
+        "time": "00:24:17",
+        "description": "Passend zum Thema „selbsterfundene Attribute“ verwendet AniJS eben solche Attribute um Animationen zu beschreiben."
+      },
+      {
+        "title": "Naming CSS Stuff Is Really Hard",
+        "href": "http://seesparkbox.com/foundry/naming_css_stuff_is_really_hard",
+        "time": "00:24:17",
+        "description": "Überblicksartikel zu Problemen und Herangehensweisen der Namensfindung in CSS."
+      },
+      {
+        "title": "Grid by Example",
+        "href": "http://gridbyexample.com/",
+        "time": "00:24:17",
+        "description": "Showcase für Grid-Layout (CSS3)."
+      },
+      {
+        "title": "SVG for JPG Alpha",
+        "href": "http://peterhrynkow.com/how-to-compress-a-png-like-a-jpeg/",
+        "time": "00:24:17",
+        "description": "Ein schöner Hack: JPG + SVG = PNG."
+      }
+    ]
   }
 }
