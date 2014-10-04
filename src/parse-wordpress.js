@@ -15,7 +15,7 @@ function analyze(html) {
   var title = ($('.postcontainer h2').text() || "").match(/^revision (\d+):(.+)/i);
   var data = {
     id: parseInt(title[1], 10),
-    title: trim(title[2]),
+    title: trim(title.slice(2).join(':')),
     audio: content.find(".podpress_downloadimglink").attr("href") || "",
     href: $('[rel="bookmark"]').attr("href") || ""
   };
