@@ -3122,5 +3122,27 @@
     "href": "http://workingdraft.de/188/",
     "audio": "http://workingdraft.de/podpress_trac/web/2550/0/wd-188.mp3",
     "title": "AMCSS und Links"
+  },
+  "189": {
+    "id": 189,
+    "date": "2014-10-04",
+    "duration": "01:27:55",
+    "people": [
+      "drublic",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/F1k9o0n8/revision-189"
+  },
+  "190": {
+    "id": 190,
+    "date": "2014-10-04",
+    "duration": "01:09:20",
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "jkphl"
+    ],
+    "trello": "https://trello.com/b/duPOsDwB/revision-190"
   }
 }
