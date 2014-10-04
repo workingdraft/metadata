@@ -1,0 +1,68 @@
+{
+  "id": 190,
+  "date": "2014-10-04",
+  "duration": "01:09:20",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Joschi Kuphal",
+      "twitter": "https://twitter.com/jkphl",
+      "web": "http://jkphl.is/"
+    }
+  ],
+  "trello": "https://trello.com/b/duPOsDwB/revision-190",
+  "live": [
+    {
+      "title": "Revision 190",
+      "href": "http://livestre.am/4XJGk",
+      "duration": "00:42:58",
+      "date": "2014-09-29"
+    }
+  ],
+  "href": "http://workingdraft.de/190/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2561/0/wd-190.mp3",
+  "title": "border:none",
+  "description": "Schepp und Stefan haben sich diesmal <a href=\"https://twitter.com/jkphl\">Joschi Kuphal</a> eingeladen, der uns von den Tücken und Späßen des Konferenzorganisation erzählt.",
+  "topics": [
+    {
+      "title": "border:none",
+      "href": "https://border-none.net/2014",
+      "time": "00:01:40",
+      "description": "Joschi erzählt uns von der <strong>border:none</strong>, der etwas anderen Konferenz. Nicht nur inhaltlich, sondern auch vom Ablauf soll sich das Nürnberger Edelstück vom Rest der Web-Zusammenkünfte unterscheiden. Wir lauschen den organisatorischen Tücken, den großen Plänen und erfahren, warum die <strong>border:none</strong> so besonders ist. Außerdem gibt es einen Hinweis auf die <a href=\"http://nueww.de/\">Nürnberger Web Week</a> und die nächste Ausgabe des <a href=\"http://accessibility-club.org/\">Accessibility Clubs</a>. Das ganze findet übrigens in der Woche vom 17. Oktober statt. Lohnt sich!"
+    }
+  ],
+  "links": [
+    {
+      "title": "pup",
+      "href": "https://github.com/EricChiang/pup",
+      "time": "01:05:48",
+      "description": "Ein Stream Editor für Websites mit CSS Selektoren für die Commandline? Also wenn ihr das braucht, hier werdet ihr fündig."
+    },
+    {
+      "title": "Using Serviceworker today",
+      "href": "http://jakearchibald.com/2014/using-serviceworker-today/",
+      "time": "01:05:48",
+      "description": "Jake Archibald erzählt uns, was man mit den in Canary angekommenen Serviceworkern anstellen kann."
+    },
+    {
+      "title": "Scroll event change in iOS8",
+      "href": "http://developer.telerik.com/featured/scroll-event-change-ios-8-big-deal/",
+      "time": "01:05:48",
+      "description": "Nerviges und unnötiges Parallax vom Designer vorgeworfen bekommen? Kunde guckt nur am iPad nach? Fürchtet euch nicht mehr! iOS8 schafft mit Scroll Events, die dem Desktop ähnlich sind Abhilfe gegen ultimativen Kunden- und Designerfrust, der euch als Entwickler trifft!"
+    }
+  ]
+}

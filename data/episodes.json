@@ -3132,7 +3132,18 @@
       "rodneyrehm",
       "sir_pepe"
     ],
-    "trello": "https://trello.com/b/F1k9o0n8/revision-189"
+    "trello": "https://trello.com/b/F1k9o0n8/revision-189",
+    "live": [
+      {
+        "title": "Revision 189",
+        "href": "http://livestre.am/4XpNd",
+        "duration": "02:17:23",
+        "date": "2014-09-22"
+      }
+    ],
+    "href": "http://workingdraft.de/189/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2555/0/wd-189.mp3",
+    "title": "iOS 8 und ES6"
   },
   "190": {
     "id": 190,
@@ -3143,6 +3154,17 @@
       "derSchepp",
       "jkphl"
     ],
-    "trello": "https://trello.com/b/duPOsDwB/revision-190"
+    "trello": "https://trello.com/b/duPOsDwB/revision-190",
+    "live": [
+      {
+        "title": "Revision 190",
+        "href": "http://livestre.am/4XJGk",
+        "duration": "00:42:58",
+        "date": "2014-09-29"
+      }
+    ],
+    "href": "http://workingdraft.de/190/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2561/0/wd-190.mp3",
+    "title": "border:none"
   }
 }

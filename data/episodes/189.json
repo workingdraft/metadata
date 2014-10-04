@@ -1,0 +1,77 @@
+{
+  "id": 189,
+  "date": "2014-10-04",
+  "duration": "01:27:55",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "trello": "https://trello.com/b/F1k9o0n8/revision-189",
+  "live": [
+    {
+      "title": "Revision 189",
+      "href": "http://livestre.am/4XpNd",
+      "duration": "02:17:23",
+      "date": "2014-09-22"
+    }
+  ],
+  "href": "http://workingdraft.de/189/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2555/0/wd-189.mp3",
+  "title": "iOS 8 und ES6",
+  "description": "Rod, Hans und Peter sezierten die Features des neuen Safari in iOS 8 und plauderten über ES6, bis uns plötzlich die Zeit ausging.",
+  "topics": [
+    {
+      "title": "Safari in iOS 8",
+      "time": "00:00:12",
+      "description": "Anhand eines <a href=\"http://www.sencha.com/blog/apple-shows-love-for-html5-with-ios-8\">Sencha-Blogposts</a> hangeln wir uns durch die Featureliste der neuesten Safari-Version und reden über CSS Blend Modes (<a href=\"http://www.w3.org/TR/compositing-1/\">Specs</a> <a href=\"http://webplatform.adobe.com/blend-modes/\">Erklär-Artikel</a>, <a href=\"http://caniuse.com/#feat=css-mixblendmode\">Caniuse</a>), die möglicherweise zum Untergang verdammten CSS Shapes (<a href=\"http://www.w3.org/TR/css-shapes/\">Specs</a>, <a href=\"http://caniuse.com/#feat=css-shapes\">Caniuse</a>), WebGL (<a href=\"https://www.khronos.org/registry/webgl/specs/1.0/\">Specs</a>, <a href=\"http://caniuse.com/#feat=webgl\">Caniuse</a>), HTML Templates (<a href=\"http://www.w3.org/TR/html-templates/\">Specs</a>, <a href=\"http://caniuse.com/#feat=template\">Caniuse</a>), ES6-Promises <a href=\"https://people.mozilla.org/~jorendorff/es6-draft.html#sec-promise-objects\">Specs</a>, <a href=\"http://caniuse.com/#feat=promises\">Caniuse</a>) die Navigation Timing API (<a href=\"http://www.w3.org/TR/navigation-timing/\">Specs</a>, <a href=\"http://caniuse.com/#feat=nav-timing\">Caniuse</a>), SPDY (<a href=\"http://tools.ietf.org/html/draft-mbelshe-httpbis-spdy-00\">Specs</a>, <a href=\"http://caniuse.com/#feat=spdy\">Caniuse</a>), das srcset-Attribut (<a href=\"https://html.spec.whatwg.org/multipage/embedded-content.html#attr-img-srcset\">Specs</a>, <a href=\"http://caniuse.com/#feat=srcset\">Caniuse</a>), Indexed DB <a href=\"http://www.w3.org/TR/IndexedDB/, http://caniuse.com/#feat=indexeddb\">Specs</a>, <a href=\"http://caniuse.com/#feat=indexeddb\">Caniuse</a>), die Highres Timing API (<a href=\"http://www.w3.org/TR/hr-time/\">Specs</a>, <a href=\"http://caniuse.com/#feat=high-resolution-time\">Caniuse</a>), APNG (<a href=\"https://wiki.mozilla.org/APNG_Specification\">Specs</a>, <a href=\"http://caniuse.com/#feat=apng\">Caniuse</a>), SVG Fragment Identifiers <a href=\"http://www.w3.org/TR/SVG/linking.html#SVGFragmentIdentifiers\">Specs</a>, <a href=\"http://caniuse.com/#feat=svg-fragment\">Caniuse</a>), object-fit und object-position (<a href=\"http://www.w3.org/TR/css3-images/\">Specs</a>, <a href=\"http://caniuse.com/#search=object-fit\">Caniuse</a>), text-decoration-style (<a href=\"http://dev.w3.org/csswg/css-text-decor-3/\">Specs</a>, <a href=\"http://caniuse.com/#feat=text-decoration\">Caniuse</a>) und diverse weitere Webtechnologien. Abseits davon kommen wir auch auf das jetzt Apps zu Verfügung stehende <a href=\"http://nshipster.com/wkwebkit/\">wkwebkit</a> (mit Nitro) zu spechen, machen uns über <a href=\"https://twitter.com/maddesigns/status/514005100986392576\">Bugs</a> lustig und geben am Ende unseren allgemeinen Gesamteindruck wieder."
+    },
+    {
+      "title": "ES6-Workflow",
+      "href": "http://www.peterkroener.de/erfahrungsbericht-ein-workflow-fuer-ecmascript-6/",
+      "time": "00:50:08",
+      "description": "Zu Forschungszwecken hat sich Peter ein ECMAScript&nbsp;6-Projekt aufgebürdet und berichtet von seinen Erfahrungen. Um ES6 in Browsern von heute zu nutzen <a href=\"http://kangax.github.io/compat-table/es6/\">braucht</a> man einen Transpiler, der ES6-Code in ES5-Code transformiert. Zur Auswahl stehen <a href=\"https://github.com/google/traceur-compiler\">Traceur</a>, das <a href=\"http://sweetjs.org/\">Sweet.js</a>-Modul <a href=\"https://github.com/jlongster/es6-macros\">es6-macros</a> und <a href=\"https://github.com/termi/es6-transpiler\">ES6 Transpiler</a>, was trotz Mängeln Peters Favorit ist, kombiniert mit <a href=\"https://github.com/facebook/regenerator\">Regenerator</a>. Kurz kommt auch zu Sprache, wie kompliziert es sein kann, die neuen Features in die tägliche Programmierpraxis einfließen zu lassen."
+    }
+  ],
+  "links": [
+    {
+      "title": "CSS only custom selects",
+      "href": "https://twitter.com/toddmparker/status/511626859659153408",
+      "time": "01:25:29",
+      "description": "Das ultimative CSS-Styling für Selects."
+    },
+    {
+      "title": "HTML Elements",
+      "href": "http://htmlelement.info/",
+      "time": "01:25:29",
+      "description": "Übersichtsseite mit den wichtigsten Facetten aller HTML-Elemente."
+    },
+    {
+      "title": "All You Need To Know About Vertical-Align",
+      "href": "http://christopheraue.net/2014/03/05/vertical-align/",
+      "time": "01:25:29",
+      "description": "Ein kniffliges Thema umfassend aufbereitet."
+    }
+  ]
+}
