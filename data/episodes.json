@@ -3254,5 +3254,22 @@
     "href": "http://workingdraft.de/195/",
     "audio": "http://workingdraft.de/podpress_trac/web/2599/0/wd-195.mp3",
     "title": "Web Crypto API und Firefox Developer Edition"
+  },
+  "196": {
+    "id": 196,
+    "date": "2014-11-17",
+    "duration": "00:41:47",
+    "lang": "EN",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "helloanselm",
+      "tkadlec"
+    ],
+    "trello": "https://trello.com/b/FPhJKLeH/revision-196",
+    "live": false,
+    "href": "http://workingdraft.de/196/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2596/0/wd-196.mp3",
+    "title": "Interview mit Tim Kadlec"
   }
 }

@@ -356,5 +356,10 @@
     "name": "Tim Taubert",
     "twitter": "https://twitter.com/ttaubert",
     "web": "http://timtaubert.de/"
+  },
+  "tkadlec": {
+    "name": "Tim Kadlec",
+    "twitter": "https://twitter.com/tkadlec",
+    "web": "http://timkadlec.com/"
   }
 }

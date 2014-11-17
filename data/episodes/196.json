@@ -1,0 +1,49 @@
+{
+  "id": 196,
+  "date": "2014-11-17",
+  "duration": "00:41:47",
+  "lang": "EN",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Tim Kadlec",
+      "twitter": "https://twitter.com/tkadlec",
+      "web": "http://timkadlec.com/"
+    }
+  ],
+  "trello": "https://trello.com/b/FPhJKLeH/revision-196",
+  "live": false,
+  "href": "http://workingdraft.de/196/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2596/0/wd-196.mp3",
+  "title": "Interview mit Tim Kadlec",
+  "description": "Caution for all the Haters: Diese Revision ist auf <strong>ENGLISCH</strong>.\n\nUnser Freund Marc bietet uns auf seiner Beyond Tellerrand Konferenz immer einen Spot zur Aufnahme <3. auch=\"\" auf=\"\" der=\"\" ersten=\"\" berliner=\"\" konferenz=\"\" haben=\"\" wir=\"\" gemeinsam=\"\" mit=\"\" performance-optimierer=\"\" tim=\"\" kadlec=\"\" eine=\"\" folge=\"\" eingetütet.=\"\" anselm,=\"\" schepp=\"\" und=\"\" hans=\"\" löchern=\"\" ihn=\"\" unangenehmen=\"\" fragen=\"\" zu=\"\" den=\"\" themen=\"\" cartoons,=\"\" mittlerer=\"\" westen=\"\" reisen.<=\"\"></3.>",
+  "topics": [
+    {
+      "title": "Interview mit Tim Kadlec",
+      "time": "00:00:30",
+      "description": "Wie jeder Gast stellt auch Tim sich vor und erklärt, wie es dazu kam, dass er heutzutage ein Performance-Papst ist. Tims Vortrag zum Thema Perceived Performance ist unser Einstieg in die Schnittmenge zwischen datengetriebener, entwicklungsorientierter Performance-Analyse und dem Verhalten, dass der Endbenutzer empfindet. Tim schildert seine Erfahrungen als Entwickler und wie wir Ladegeschwindigkeiten und das Erlebnis des Benutzers von Webseiten und Applikationen verbessern können. Für Entwickler ist es schwierig &#8220;Performance&#8221; als solches an Stakeholder und Manager zu verkaufen, meint Hans. Wo liegen die Business-Values, wie lassen sich diese belegen? Tims Perspektive ist es, dass Zahlen manchmal nicht entscheidend sind, sondern gerade auch das Verhalten der Applikation eine große Rolle spielt, um den Benutzer bei Laune zu halten. Ein Thema, welches wir schon öfter besprochen haben, ist das Performance Budget. Tim ist einer der großen Fürsprecher solch eines Wertes. Wir fragen, was ist eigentlich sinnvoll und wie kommen wir zu unseren Werten. Abschließend gehen wir auf die aktuellen Entwicklungen in der Performance-Optimierung ein und diskutieren die zukunftsweisenden Technologien Service Workers, HTTP2, Offline und mehr."
+    }
+  ]
+}
