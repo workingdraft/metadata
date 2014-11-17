@@ -3199,8 +3199,22 @@
       "helloanselm"
     ],
     "trello": "https://trello.com/b/btzPQgzU/revision-192",
+    "live": false,
     "href": "http://workingdraft.de/192/",
     "audio": "http://workingdraft.de/podpress_trac/web/2576/0/wd-192.mp3",
     "title": "Komplizierte Job-Titel und Webfonts-Performance"
+  },
+  "193": {
+    "id": 193,
+    "date": "2014-11-08",
+    "duration": "00:27:24",
+    "people": [
+      "sir_pepe",
+      "the_Zieger"
+    ],
+    "trello": "https://trello.com/b/R49l5arX/revision-193",
+    "href": "http://workingdraft.de/193/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2585/0/wd-193.mp3",
+    "title": "Rückschau border:none"
   }
 }

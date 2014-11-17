@@ -346,5 +346,10 @@
   "fooforge": {
     "name": "Mike Adolphs",
     "twitter": "https://twitter.com/fooforge"
+  },
+  "the_Zieger": {
+    "name": "Eric Zieger",
+    "twitter": "https://twitter.com/the_Zieger",
+    "web": "http://eric-zieger.de/"
   }
 }

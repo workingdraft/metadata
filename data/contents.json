@@ -18594,6 +18594,7 @@
       }
     ],
     "trello": "https://trello.com/b/btzPQgzU/revision-192",
+    "live": false,
     "href": "http://workingdraft.de/192/",
     "audio": "http://workingdraft.de/podpress_trac/web/2576/0/wd-192.mp3",
     "title": "Komplizierte Job-Titel und Webfonts-Performance",
@@ -18654,6 +18655,47 @@
         "href": "https://ind.ie/pulse/",
         "time": "00:33:30",
         "description": "Mit Pulse gibt es nun den ersten dezentralisierten File Syncronisations Dienst als App"
+      }
+    ]
+  },
+  "193": {
+    "id": 193,
+    "date": "2014-11-08",
+    "duration": "00:27:24",
+    "people": [
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      },
+      {
+        "name": "Eric Zieger",
+        "twitter": "https://twitter.com/the_Zieger",
+        "web": "http://eric-zieger.de/"
+      }
+    ],
+    "trello": "https://trello.com/b/R49l5arX/revision-193",
+    "href": "http://workingdraft.de/193/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2585/0/wd-193.mp3",
+    "title": "Rückschau border:none",
+    "description": "Mit Themen und Personal war es diemal nicht so dicke, weswegen kurzerhand Peter eine Gast zum Thema <a href=\"https://border-none.net/2014\">border:none 2014</a> ausquetschte.",
+    "topics": [
+      {
+        "title": "border:none 2014",
+        "href": "https://border-none.net/2014",
+        "time": "00:01:15",
+        "description": "<p>Eric (Mediengestalter-Auzi, <a href=\"https://twitter.com/the_Zieger/\">Twitter</a>, <a href=\"http://www.eric-zieger.de/\">Webseite</a>) war auf der Konferenz <strong>border:none</strong> zu Gast und erzählt ein wenig wie es war. Das Thema der Konferenz ist die Dezentralisierung des Webs (siehe <a href=\"http://workingdraft.de/190/\">Revision 190</a>) und wird in Talks und Creator Units (Workshops) bearbeitet. Eric hat sich in der Creator Unit mit <a href=\"http://adactio.com/\">Jeremy Keith</a> mit ganz konkreten Techniken zur Dezentalisierung (<a href=\"https://indieauth.com/\">IndieAuth</a>, <a href=\"http://indiewebcamp.com/Webmention\">Webmeintion</a> via <a href=\"http://webmention.io/\">Webmeintion.io</a>) auseinandergesetzt. Fazit: Dezentalisieren ist kein Hexenwerk!</p>"
+      }
+    ],
+    "links": [
+      {
+        "title": "pelias/pelias",
+        "href": "https://github.com/pelias/pelias/tree/master",
+        "time": "00:26:04",
+        "description": "Open-Source Geocoder mit offenen Daten."
       }
     ]
   }
