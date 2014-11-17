@@ -1,0 +1,65 @@
+{
+  "id": 194,
+  "date": "2014-11-09",
+  "duration": "00:33:58",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "trello": "https://trello.com/b/IZugzvc0/revision-194",
+  "live": [
+    {
+      "title": "Revision 194",
+      "href": "http://livestre.am/4YOgX",
+      "duration": "01:15:08",
+      "date": "2014-10-27"
+    }
+  ],
+  "href": "http://workingdraft.de/194/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2587/0/wd-194.mp3",
+  "title": "Kompression und Links",
+  "description": "Es war mal wieder an der Zeit, ein althergebrachtes Thema aus aktuellem Anlass aufzuwärmen. Und so begab es sich, dass seine Heiligkeit Performance-Papst Schepp I. den Novizen Hans und Peter die Kompressions-Leviten las.",
+  "topics": [
+    {
+      "title": "Compressing the Web",
+      "href": "http://blogs.msdn.com/b/ieinternals/archive/2014/10/21/http-compression-optimize-file-formats-with-deflate.aspx",
+      "time": "00:00:14",
+      "description": "Ein Artikel aus dem IEInternals-Blog ist uns Anlass genug, um ausgiebig über Datenkompression zu sprechen&nbsp;&ndash; was komprimiert man wie, was besser nicht, und wie geht man vor? Hans und Peter outen sich als Snippets-in-Htaccess-Paster (mit z.B. <a href=\"http://html5boilerplate.com/\">HTML5 Boilerplate</a> als Quelle). Ausgiebig vergleichen wir <a href=\"https://www.ietf.org/rfc/rfc1951.txt\">Deflate</a>, <a href=\"http://tools.ietf.org/html/rfc1952\">Gzip</a>, <a href=\"http://en.wikipedia.org/wiki/Bzip2\">bzip2</a> und <a href=\"https://code.google.com/p/zopfli/\">Zopfli</a> und philosophieren über die Kosten-Nutzen-Relation der verschiedenen Techniken. Mit dem Angriff von Tools wie <a href=\"https://github.com/gruntjs/grunt-contrib-compress\">grunt-contrib-compress</a> sollte der Arbeitsaufwand wieder in Ordnung kommen. Zum Schluss streifen wir noch die Zukunft von neuen Bildformaten, von HTTP und des Mobilfunknetzes."
+    }
+  ],
+  "links": [
+    {
+      "title": "fnordware/AdobeWebM",
+      "href": "https://github.com/fnordware/AdobeWebM",
+      "time": "00:32:47",
+      "description": "WebM plug-ins für alle möglichen Adobe-Programme."
+    },
+    {
+      "title": "In the DOM, no one will hear you scream",
+      "href": "http://de.slideshare.net/x00mario/in-the-dom-no-one-will-hear-you-scream",
+      "time": "00:32:47",
+      "description": "Security-Guru Mario Heiderich watet durch die besonders ekelhaften Teile des DOM."
+    }
+  ]
+}

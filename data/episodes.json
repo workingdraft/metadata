@@ -3213,8 +3213,31 @@
       "the_Zieger"
     ],
     "trello": "https://trello.com/b/R49l5arX/revision-193",
+    "live": false,
     "href": "http://workingdraft.de/193/",
     "audio": "http://workingdraft.de/podpress_trac/web/2585/0/wd-193.mp3",
     "title": "Rückschau border:none"
+  },
+  "194": {
+    "id": 194,
+    "date": "2014-11-09",
+    "duration": "00:33:58",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/IZugzvc0/revision-194",
+    "live": [
+      {
+        "title": "Revision 194",
+        "href": "http://livestre.am/4YOgX",
+        "duration": "01:15:08",
+        "date": "2014-10-27"
+      }
+    ],
+    "href": "http://workingdraft.de/194/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2587/0/wd-194.mp3",
+    "title": "Kompression und Links"
   }
 }
