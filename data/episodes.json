@@ -3239,5 +3239,20 @@
     "href": "http://workingdraft.de/194/",
     "audio": "http://workingdraft.de/podpress_trac/web/2587/0/wd-194.mp3",
     "title": "Kompression und Links"
+  },
+  "195": {
+    "id": 195,
+    "date": "2014-11-11",
+    "duration": "01:16:53",
+    "people": [
+      "ddprrt",
+      "sir_pepe",
+      "ttaubert"
+    ],
+    "trello": "https://trello.com/b/JBDXXdRo/revision-195",
+    "live": false,
+    "href": "http://workingdraft.de/195/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2599/0/wd-195.mp3",
+    "title": "Web Crypto API und Firefox Developer Edition"
   }
 }

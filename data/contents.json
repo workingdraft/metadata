@@ -18764,5 +18764,75 @@
         "description": "Security-Guru Mario Heiderich watet durch die besonders ekelhaften Teile des DOM."
       }
     ]
+  },
+  "195": {
+    "id": 195,
+    "date": "2014-11-11",
+    "duration": "01:16:53",
+    "people": [
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      },
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      },
+      {
+        "name": "Tim Taubert",
+        "twitter": "https://twitter.com/ttaubert",
+        "web": "http://timtaubert.de/"
+      }
+    ],
+    "trello": "https://trello.com/b/JBDXXdRo/revision-195",
+    "live": false,
+    "href": "http://workingdraft.de/195/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2599/0/wd-195.mp3",
+    "title": "Web Crypto API und Firefox Developer Edition",
+    "description": "Wer etwas auf sich hielt, war diese Woche auf der Beyond Tellerrand. Übrig blieben nur Peter und Stefan, die sich <a href=\"https://twitter.com/ttaubert\">Tim Taubert</a> von Mozilla in die Sendung holten um kräftig über die Web Crypto API abzunerden.",
+    "news": [
+      {
+        "title": "Update aus der Google Webmaster-Zentrale",
+        "href": "http://googlewebmastercentral-de.blogspot.de/2014/10/aktualisierung-der-technischen-richtlinien.html",
+        "time": "00:00:17",
+        "description": "Google verlangt jetzt explizit Zugriff auf JS, CSS und Bilder."
+      },
+      {
+        "title": "HTML5 ist Webstandard",
+        "href": "http://www.w3.org/blog/news/archives/4167",
+        "time": "00:00:17",
+        "description": "Das W3C hat HTML 5.0 zur Recommendation erhoben. <a href=\"http://www.peterkroener.de/html5-ist-webstandard-die-wichtigsten-fakten/\">Peter ordnet diesen Schritt in seinem Blog etwas ein.</a>"
+      }
+    ],
+    "topics": [
+      {
+        "title": "Web Crypto API",
+        "href": "http://www.w3.org/TR/WebCryptoAPI/",
+        "time": "00:01:02",
+        "description": "Unser Gast Tim Taubert (<a href=\"https://twitter.com/ttaubert\">@ttaubert</a>, <a href=\"https://timtaubert.de/\">timtaubert.de</a>) werkelt als Firefox-Entwickler im berliner Mozilla-Büro und hat sich in letzter Zeit intensiv mit der <a href=\"http://www.w3.org/TR/WebCryptoAPI/\">Web Crypto API</a> <a href=\"https://timtaubert.de/blog/2014/10/keeping-secrets-with-javascript/\">befasst</a>, die wir lang und breit durchsprechen. Nach Kenntnisnahme allgemeiner Kritikpunkte und <a href=\"http://www.w3.org/TR/WebCryptoAPI/#use-cases\">Use Cases</a> geht es in die technischen Details: <a href=\"http://de.wikipedia.org/wiki/Kryptographisch_sicherer_Zufallszahlengenerator\">kryptographisch sichere Zufallszahlengeneratoren</a> (und der Vergleich mit <code>Math.random()</code>), unterstützte <a href=\"http://www.w3.org/TR/WebCryptoAPI/#algorithms\">Hash-Algorithmen</a> (und die Diskussion über die Unterstützung veralteter Algorithmen), <a href=\"http://de.wikipedia.org/wiki/Keyed-Hash_Message_Authentication_Code\">Hash-based message authentication codes</a>, <a href=\"http://de.wikipedia.org/wiki/PBKDF2\">PBKDF2</a> (und warum Langsamkeit ein Feature sein kann) und <a href=\"http://de.wikipedia.org/wiki/Advanced_Encryption_Standard\">AES</a> sind nur einige Aspekte rund um die neue API. Allgemeiner gibt Tim auch Tipps zur Crypto-Bullshit-Erkennung für Webentwickler und fordert eine Art jQuery für Crypto (auch wenn das Epic Fails der Marke <a href=\"http://de.wikipedia.org/wiki/Heartbleed\">Heartbleed</a> (<a href=\"http://xkcd.com/1354/\">XKCD</a>) nach sich ziehen könnte). Die größte Baustelle rund um die Crypto-API ist neben der überschaubaren <a href=\"http://caniuse.com/#feat=cryptography\">Browserunterstützung</a> vor allem das Fehlen einer nennenswerten Crypto-JS-Community und damit auch das Fehlen von bewärten Libraries."
+      },
+      {
+        "title": "Firefox Developer Edition",
+        "href": "https://www.mozilla.org/de/firefox/developer/",
+        "time": "01:06:19",
+        "description": "Mozilla rebrandet den Aurora-Branch als Firefox Developer Edition. Tim erklärt kurz die Hintergründe zu diesem Schritt."
+      }
+    ],
+    "links": [
+      {
+        "title": "Reducing JavaScript Bloat with Shoestring",
+        "href": "http://timkadlec.com/2014/10/reducing-javascript-bloat-with-shoestring/",
+        "time": "01:15:12",
+        "description": "<a href=\"https://github.com/filamentgroup/shoestring\">Shoestring</a> ist ein leichtgewichtiger jQuery-Ersatz aus der Feder der Filament Group (d.h. ausnamsweise von Leuten, die sowas auch wirklich können). Tim Kadlec stellt die Library in einem kleinen Blogpost vor."
+      }
+    ]
   }
 }
