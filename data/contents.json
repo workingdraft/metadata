@@ -18471,5 +18471,97 @@
         "description": "Nerviges und unnötiges Parallax vom Designer vorgeworfen bekommen? Kunde guckt nur am iPad nach? Fürchtet euch nicht mehr! iOS8 schafft mit Scroll Events, die dem Desktop ähnlich sind Abhilfe gegen ultimativen Kunden- und Designerfrust, der euch als Entwickler trifft!"
       }
     ]
+  },
+  "191": {
+    "id": 191,
+    "date": "2014-10-26",
+    "duration": "00:38:59",
+    "people": [
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      },
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      null,
+      {
+        "name": "Anselm Hannemann",
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
+      }
+    ],
+    "trello": "https://trello.com/b/J6bni0b4/revision-191",
+    "live": [
+      {
+        "title": "Revision 191",
+        "href": "http://livestre.am/4Y0Aw",
+        "duration": "00:40:45",
+        "date": "2014-10-06"
+      }
+    ],
+    "href": "http://workingdraft.de/191/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2572/0/wd-191.mp3",
+    "title": "Code Style Checker und Coding Conventions",
+    "description": "Anselm, Hans, Stefan und Schepp reden heute über Konventionen und das Miteinander in größeren Projekten.",
+    "news": [
+      {
+        "title": "Brick 2.0",
+        "href": "http://brick.mozilla.io/",
+        "time": "00:00:18",
+        "description": "Mozilla bringt ihre Web Components Bibliothek auf Version 2.0, und verabschiedet sich damit von <em>x-tag</em>. Ab jetzt soll die Web Components Plattform direkt verwendet werden."
+      },
+      {
+        "title": "libsass 3.0",
+        "href": "https://github.com/sass/libsass/releases/tag/3.0rc2",
+        "time": "00:00:18",
+        "description": "Die native (und viel schnellere) Implementierung von Sass erscheint in Version 3.0. Und hat damit endlich eine Menge Features inkludiert, die von Fans der Ruby-Variante hoch geschätzt werden."
+      },
+      {
+        "title": "IE Windows 10 Technical Preview",
+        "href": "http://blogs.msdn.com/b/ie/archive/2014/10/01/internet-explorer-and-the-windows-10-technical-preview.aspx",
+        "time": "00:00:18",
+        "description": "Windows 10 kommt, und mit ein neuer Internet Explorer. Was der Browser auf der neuen Plattform bietet, erfahrt ihr hier."
+      }
+    ],
+    "topics": [
+      {
+        "title": "Code Style Checker und Coding Conventions",
+        "href": "https://yannick.cr/posts/enforcing-coding-rules-in-your-team-with-jscs/post",
+        "time": "00:03:45",
+        "description": "Obigen Artikel als Ausgangsbasis nutzen wir zu einer ausgiebigen Diskussion rund um Coding Conventions und Code Style Checker. Gut finden wir das alle, genutzt wird neben JSHint unter anderem auch <a href=\"http://pear.php.net/package/PHP_CodeSniffer/redirected\">PHP Codesniffer</a>, <a href=\"https://www.npmjs.org/package/grunt-jscs-checker\">jscs</a> und <a href=\"https://github.com/ahmednuaman/grunt-scss-lint\">SCSS Lint</a>. Wir reden über den JS Formatter als <a href=\"https://github.com/paulirish/sublime-jsfmt/\">Sublime Plugin</a> von Paul Irish, und lernen die Pre-commit Hooks von Git kennen (und schätzen)."
+      }
+    ],
+    "links": [
+      {
+        "title": "HTTP/2 FAQ",
+        "href": "https://http2.github.io/faq/",
+        "time": "00:36:12",
+        "description": "Was Sie schon immer über HTTP/2 wissen wollten, aber bisher nicht zu fragen wagten."
+      },
+      {
+        "title": "Respimage",
+        "href": "https://github.com/aFarkas/respimage",
+        "time": "00:36:12",
+        "description": "Wenn ein Pull Request nicht mehr reicht braucht man eine eigene Bibliothek. Respimage ist der performantere Picturefill."
+      },
+      {
+        "title": "CSSUrl",
+        "href": "https://github.com/nzakas/cssurl",
+        "time": "00:36:12",
+        "description": "Node Tool um URLs im CSS einzubetten. Falls eure bisherigen Tools nicht schon ausreichen."
+      }
+    ]
   }
 }
