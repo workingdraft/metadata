@@ -18492,7 +18492,14 @@
         ],
         "twitter": "https://twitter.com/derSchepp"
       },
-      null,
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
       {
         "name": "Anselm Hannemann",
         "team": [
@@ -18561,6 +18568,92 @@
         "href": "https://github.com/nzakas/cssurl",
         "time": "00:36:12",
         "description": "Node Tool um URLs im CSS einzubetten. Falls eure bisherigen Tools nicht schon ausreichen."
+      }
+    ]
+  },
+  "192": {
+    "id": 192,
+    "date": "2014-10-26",
+    "duration": "00:40:50",
+    "people": [
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Anselm Hannemann",
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
+      }
+    ],
+    "trello": "https://trello.com/b/btzPQgzU/revision-192",
+    "href": "http://workingdraft.de/192/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2576/0/wd-192.mp3",
+    "title": "Komplizierte Job-Titel und Webfonts-Performance",
+    "description": "In kleiner Besetzung sind in dieser Folge nur <a href=\"https://drublic.de/\">Hans</a> und <a href=\"https://helloanselm.com/\">Anselm</a> dabei, sprechen aber in knapp vierzig Minuten doch über interessante Themen, die uns Webentwickler betreffen—zunächst über ein nicht so technisches, aber trotzdem relevantes Thema, Recruiting, dann sehr technisch über Performanceoptimierung von WebFonts. Abgerundet wie immer mit den besten Links der Woche.",
+    "topics": [
+      {
+        "title": "Job Title – it’s complicated",
+        "href": "http://bradfrostweb.com/blog/post/job-title-its-complicated/",
+        "time": "00:00:17",
+        "description": "Wir sprechen darüber, wie wir Freunden, Familie und Bekannten unsere Jobs erklären. Aber auch, welchen Stellenwert Job-Bezeichnungen haben und dass es schwer ist, selbst betitelte Freelancer einzuschätzen. Wir diskutieren Tests, Prüfungen und Auszeichnungen und welche Möglichkeiten wir sehen, um Leute im Front-End Bereich einzukategorisieren.Schreibt uns gerne im Kommentarbereich eure Meinung, Einschätzung und was ihr von unseren Vorschlägen haltet. Uns interessiert vor allem auch, wie viel Wert ihr auf Rollen und Titel legt oder ob euer Chef Wert darauf legt und warum."
+      },
+      {
+        "title": "Loading webfonts with high performance on responsive websites",
+        "href": "http://bdadam.com/blog/loading-webfonts-with-high-performance.html",
+        "time": "00:17:27",
+        "description": "Wir besprechen, wie man Webfonts generell auf Webprojekten einbauen sollte, was es für Performanceprobleme generell gibt und wie man diese mit bestimmten Techniken wir asynchronem Laden der Webfonts und speichern im localStorage beheben kann. Außerdem blicken wir ein wenig in die Zukunft, was mit WOFF2.0 möglich sein wird und wie wir selbst mit Webfonts umgehen."
+      }
+    ],
+    "links": [
+      {
+        "title": "A Guide to SVG Animations (SMIL)",
+        "href": "http://css-tricks.com/guide-svg-animations-smil/",
+        "time": "00:33:30",
+        "description": "Sara Soueidan schrieb erneut ein langes, ausführliches und sehr gutes Tutorial über SVG. Diesmal im Fokus: SVG Animations (SMIL)."
+      },
+      {
+        "title": "Quick Research on Pointer Events Performance Issues und ein Kommentar von Alex Sexton",
+        "href": "https://plus.google.com/u/0/wm/4/+JacobRossiGT/posts/VLDTsgYzw9b",
+        "time": "00:33:30",
+        "description": "zum gleichen Streit-ThemaNachdem Blink Entwickler Pointer Events entfernt haben und Touch Events bevorzugen, hat Jacob Rossi sich mit den Problemen beschäftigt und hat Interessantes herausgefunden. Alex Sexton stützt die Argumente und stellt die Frage, warum man einen schlechteren Nicht-Standard einem besseren Standard bevorzugen sollte."
+      },
+      {
+        "title": "LazySizes",
+        "href": "https://github.com/aFarkas/lazysizes",
+        "time": "00:33:30",
+        "description": "Alexander Farkas, der noch vor kurzem einen eigenen Responsive Images Polyfill vorgestellt hat, hat nun auch passend dazu ein lazyload Script geschrieben, welches mit dem sizes-Attribut umgehen kann und ein lazyloading von Responsive Images erlaubt."
+      },
+      {
+        "title": "Polarr",
+        "href": "https://www.polarr.co/editor",
+        "time": "00:33:30",
+        "description": "Polarr ist ein supercooles neues online Tool zum Bearbeiten von Bildern im Browser. In unseren Tests lieferte es nicht nur beeindruckende Ergebnisse, sondern auch eine gute Performance und Vielfalt an Werkzeugen. Unser Fazit: Kann durchaus mit Lightroom oder ähnlichen Tools mithalten, wenn man nur mal schnell Korrekturen am Foto vornehmen möchte."
+      },
+      {
+        "title": "HireMyFriend",
+        "href": "https://hiremyfriend.io/",
+        "time": "00:33:30",
+        "description": "Hier kann man sich anmelden und Empfehlungen für Freunde aussprechen. Ein sehr interessantes Konzept, was wir für gut befinden."
+      },
+      {
+        "title": "Move fast & break nothing",
+        "href": "http://zachholman.com/talk/move-fast-break-nothing/",
+        "time": "00:33:30",
+        "description": "Zach Holman schreibt über Development und Deployment Strategien und dass man nich alles kaputt gehen lassen kann bei Releases."
+      },
+      {
+        "title": "Ind.ie Pulse",
+        "href": "https://ind.ie/pulse/",
+        "time": "00:33:30",
+        "description": "Mit Pulse gibt es nun den ersten dezentralisierten File Syncronisations Dienst als App"
       }
     ]
   }

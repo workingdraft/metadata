@@ -18,7 +18,14 @@
       ],
       "twitter": "https://twitter.com/derSchepp"
     },
-    null,
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
     {
       "name": "Anselm Hannemann",
       "team": [

@@ -3174,7 +3174,7 @@
     "people": [
       "ddprrt",
       "derSchepp",
-      "duration",
+      "drublic",
       "helloanselm"
     ],
     "trello": "https://trello.com/b/J6bni0b4/revision-191",
@@ -3189,5 +3189,18 @@
     "href": "http://workingdraft.de/191/",
     "audio": "http://workingdraft.de/podpress_trac/web/2572/0/wd-191.mp3",
     "title": "Code Style Checker und Coding Conventions"
+  },
+  "192": {
+    "id": 192,
+    "date": "2014-10-26",
+    "duration": "00:40:50",
+    "people": [
+      "drublic",
+      "helloanselm"
+    ],
+    "trello": "https://trello.com/b/btzPQgzU/revision-192",
+    "href": "http://workingdraft.de/192/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2576/0/wd-192.mp3",
+    "title": "Komplizierte Job-Titel und Webfonts-Performance"
   }
 }
