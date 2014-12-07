@@ -3271,5 +3271,52 @@
     "href": "http://workingdraft.de/196/",
     "audio": "http://workingdraft.de/podpress_trac/web/2596/0/wd-196.mp3",
     "title": "Interview mit Tim Kadlec"
+  },
+  "197": {
+    "id": 197,
+    "date": "2014-11-23",
+    "duration": "01:02:02",
+    "lang": "EN",
+    "people": [
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/El3udVrJ/revision-197",
+    "live": [
+      {
+        "title": "Revision 197",
+        "href": "http://livestre.am/4ZIO3",
+        "duration": "01:06:39",
+        "date": "2014-11-17"
+      }
+    ],
+    "href": "http://workingdraft.de/197/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2606/0/wd-197.mp3",
+    "title": "Responsive Images, IE 12 und Links"
+  },
+  "198": {
+    "id": 198,
+    "date": "2014-12-07",
+    "duration": "01:22:23",
+    "lang": "EN",
+    "people": [
+      "drublic",
+      "helloanselm",
+      "maddesigns",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/uVDXjT3d/revision-198",
+    "live": [
+      {
+        "title": "Revision 198",
+        "href": "http://livestre.am/503bl",
+        "duration": "01:51:10",
+        "date": "2014-11-24"
+      }
+    ],
+    "href": "http://workingdraft.de/198/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2611/0/wd-198.mp3",
+    "title": "Workflow, Fokus, Shapes"
   }
 }

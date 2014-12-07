@@ -18883,5 +18883,162 @@
         "description": "Wie jeder Gast stellt auch Tim sich vor und erklärt, wie es dazu kam, dass er heutzutage ein Performance-Papst ist. Tims Vortrag zum Thema Perceived Performance ist unser Einstieg in die Schnittmenge zwischen datengetriebener, entwicklungsorientierter Performance-Analyse und dem Verhalten, dass der Endbenutzer empfindet. Tim schildert seine Erfahrungen als Entwickler und wie wir Ladegeschwindigkeiten und das Erlebnis des Benutzers von Webseiten und Applikationen verbessern können. Für Entwickler ist es schwierig &#8220;Performance&#8221; als solches an Stakeholder und Manager zu verkaufen, meint Hans. Wo liegen die Business-Values, wie lassen sich diese belegen? Tims Perspektive ist es, dass Zahlen manchmal nicht entscheidend sind, sondern gerade auch das Verhalten der Applikation eine große Rolle spielt, um den Benutzer bei Laune zu halten. Ein Thema, welches wir schon öfter besprochen haben, ist das Performance Budget. Tim ist einer der großen Fürsprecher solch eines Wertes. Wir fragen, was ist eigentlich sinnvoll und wie kommen wir zu unseren Werten. Abschließend gehen wir auf die aktuellen Entwicklungen in der Performance-Optimierung ein und diskutieren die zukunftsweisenden Technologien Service Workers, HTTP2, Offline und mehr."
       }
     ]
+  },
+  "197": {
+    "id": 197,
+    "date": "2014-11-23",
+    "duration": "01:02:02",
+    "lang": "EN",
+    "people": [
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      }
+    ],
+    "trello": "https://trello.com/b/El3udVrJ/revision-197",
+    "live": [
+      {
+        "title": "Revision 197",
+        "href": "http://livestre.am/4ZIO3",
+        "duration": "01:06:39",
+        "date": "2014-11-17"
+      }
+    ],
+    "href": "http://workingdraft.de/197/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2606/0/wd-197.mp3",
+    "title": "Responsive Images, IE 12 und Links",
+    "description": "Der ewig optimistische Sonnenschein Schepp und Miese-Peter nahmen für diese Revision verschiedene neue Produkte unter die Lupe, die Webentwicklern in Zukunft Arbeit abnehmen (für Responsive Images) oder (in Form einer neuen IE-Version) aufbürden könnten. Außerdem gibt es reichlich Links.",
+    "topics": [
+      {
+        "title": "Responsive Images Specification and Real-World Scenarios",
+        "href": "http://www.scientiamobile.com/page/responsive-images-specification-real-world-scenarios",
+        "time": "00:00:21",
+        "description": "Von den Machern von <a href=\"http://wurfl.sourceforge.net/\">WURFL</a> (einer Datenbank rund um User Agent Strings inkl. Browsermetriken): <a href=\"http://www.scientiamobile.com/page/responsive-images-specification-real-world-scenarios\">WIT</a>, ein Service für Responsive Images. Weil die normalen <a href=\"http://responsiveimages.org/\">Responsive Images</a> nicht ganz einfach zu nutzen sind, erzeugt WIT ganz einfach aus einer Basis-Bilddatei mehrere Varianten für Responsive Images. Nach der Vorstellung des Dienstes debattieren Peter und Schepp, ob WIT ein Zwischenschritt ist oder eine fertige Lösung für auch die ferne Zukunft sein kann. Auch das Konkurrenzprodukt <a href=\"http://www.akamai.de/html/technology/image-converter.html\">Akamai Image Converter</a> lassen wir nicht unerwähnt."
+      },
+      {
+        "title": "Neues aus dem Hause Microsoft",
+        "time": "00:28:33",
+        "description": "<a href=\"http://blogs.msdn.com/b/ie/archive/2014/11/11/living-on-the-edge-our-next-step-in-interoperability.aspx\">Aus einem langen Blogpost</a> erfahren wir neues über einen möglichen IE 12. Nach ein wenig Geunke über Windows- und IE-Versionen arbeiten wir uns durch die neuen Features. So wird <a href=\"https://developer.mozilla.org/de/docs/Web/CSS/transform-style\">Preserve-3D für Transforms</a> unterstützt, <a href=\"https://developer.mozilla.org/en-US/docs/Web/Security/CSP\">Content Security Policy 1.0</a> ist ebenso an Bord (in <a href=\"http://workingdraft.de/124/\">Revision 124</a> ausführlich besprochen) wie erste Spuren von <a href=\"http://dev.w3.org/csswg/mediaqueries-4/\">Media Queries Level 4</a>. Peter erzählt, wie die <a href=\"http://www.w3.org/TR/gamepad/\">Gamepad API</a> früher war und wozu man WAV-Support für <code>&lt;audio&gt;</code> würde haben wollen&nbsp;&ndash; beides steckt auch im neuen IE. Zuletzt werden auch <a href=\"http://www.w3.org/TR/selection-api/\">Selection API</a> sowie zahlreiche ES6-Features-Features unterstützt. Wem das noch nicht reicht: Wünsche bitte in der <a href=\"https://wpdev.uservoice.com/forums/257854-internet-explorer-platform\">IE Platform Suggestion Box</a> einwerfen. Auch nicht unerwähnt soll <a href=\"https://remote.modern.ie/\">Remote IE</a> bleiben, eine Art Browserstack für IE."
+      }
+    ],
+    "links": [
+      {
+        "title": "All About Angular 2.0",
+        "href": "http://eisenbergeffect.bluespire.com/all-about-angular-2-0/?utm_source=javascriptweekly",
+        "time": "00:57:37",
+        "description": "Ein langer Artikel beantwortet alle Fragen zu AngularJS 2.0."
+      },
+      {
+        "title": "Dealing With Compiled Files in Git",
+        "href": "http://blog.andrewray.me/dealing-with-compiled-files-in-git/",
+        "time": "00:57:37",
+        "description": "Einckecken oder nicht einchecken, das ist hier die Frage."
+      },
+      {
+        "title": "Pleeease",
+        "href": "http://pleeease.io/",
+        "time": "00:57:37",
+        "description": "Ein CSS-Post-Processor mit Inlining-Superkräften!"
+      },
+      {
+        "title": "ChromeDevTools auf Twitter",
+        "href": "https://twitter.com/chromedevtools",
+        "time": "00:57:37",
+        "description": "Bitte verfolgen Sie unauffällig."
+      },
+      {
+        "title": "Luke Wroblewski: Mobile Navigation, Conversion, Input, & More",
+        "href": "http://www.lukew.com/ff/entry.asp?1936",
+        "time": "00:57:37",
+        "description": "„.. two and a half hour seminar on optimizing mobile experiences for conversion using design.“."
+      }
+    ]
+  },
+  "198": {
+    "id": 198,
+    "date": "2014-12-07",
+    "duration": "01:22:23",
+    "lang": "EN",
+    "people": [
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Anselm Hannemann",
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
+      },
+      {
+        "name": "Sven Wolfermann",
+        "twitter": "https://twitter.com/maddesigns",
+        "web": "http://maddesigns.de/"
+      },
+      {
+        "name": "Rodney Rehm",
+        "team": [
+          "2011-09-16"
+        ],
+        "twitter": "https://twitter.com/rodneyrehm",
+        "web": "http://rodneyrehm.de/en/"
+      },
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      }
+    ],
+    "trello": "https://trello.com/b/uVDXjT3d/revision-198",
+    "live": [
+      {
+        "title": "Revision 198",
+        "href": "http://livestre.am/503bl",
+        "duration": "01:51:10",
+        "date": "2014-11-24"
+      }
+    ],
+    "href": "http://workingdraft.de/198/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2611/0/wd-198.mp3",
+    "title": "Workflow, Fokus, Shapes",
+    "description": "Mit fast voller Mannschaft, ergänzt durch <b>Sven Wolfermann</b> (<a href=\"http://maddesigns.de/\">maddesigns.de</a>, <a href=\"https://twitter.com/maddesigns\">@maddesigns</a>) ackerten wir uns durch drei Themen. News und Links gab es diesmal nicht.",
+    "topics": [
+      {
+        "title": "Git, Grunt/Gulp, Compass, SASS/LESS Workflow im Team",
+        "time": "00:00:20",
+        "description": "Ein Hörer <a href=\"https://twitter.com/andi1984/status/512269033824337920\">hat sich gewünscht</a>, dass wir über „Git, Grunt/Gulp, Compass, SASS/LESS und den Workflow im Team“ sprechen, was wir uns nicht zweimal sagen lassen. Rodney schlägt auf und berichtet vom seinem Arbeitssetup, bestehend aus Git, Grunt, Sass, <a href=\"https://www.atlassian.com/software/stash\">Stash</a> und <a href=\"http://jenkins-ci.org/\">Jenkins</a>. Für den Workflow kommt <a href=\"http://nvie.com/posts/a-successful-git-branching-model/\">Gitflow</a> zu Einsatz. Rodney legt Wert auf die Feststellung, dass er Git wie von Gott gewollt mit rohen Konsolen-Befehlen bändigt, während die verweichlichten Kollegen auf <a href=\"https://github.com/nvie/gitflow\">Gitflow-Aliases</a> oder gar GUIs wie <a href=\"https://www.atlassian.com/software/sourcetree/overview\">Source Tree</a> oder gar <a href=\"http://www.git-tower.com/\">Tower</a> zurückgreifen. Hans berichtet ebenfalls von seinen Erfahrungen mit dem Gitflow-Workflow. Man ist sich einig: die Arbeit mit Pull Requests fürt zu höherer Codequalität, weniger Bugs und besserem Wissensaustausch im Team. Die unvermeidliche Diskussion Grunt vs. Gulp halten wir mit etwas Mühe im Rahmen (denn so wichtig ist das Build-Tool gar nicht) und sprechen am Ende noch noch über Best Practices beim Code-Review und dem Umgang mit QA."
+      },
+      {
+        "title": "Rodneys Zwischenbericht aus dem Focusing-Schützengraben",
+        "time": "00:33:18",
+        "description": "Seit Monaten verbrennt Rodney Zeit damit, in Browsern zu ermitteln, welche Elemente fokussierbar und antabbar (nicht das gleiche!) sind und welche es sein sollten. Zusammenfassung: Alles ist kaputt, nichts funktioniert. Nur wenn man auf einer statischen Webseite einfach Links/Inputs durchtabben möchte, klappt alles einigermaßen, doch alles, was auch nur etwas komplizierter ist, endet im Chaos. Browser scrollen ungefragt (und uneinheitlich), das Verhalten bei Image Maps und SVG-Elementen ist uneinheitlich und generell machen keine zwei Browser irgendwo das gleiche. Und noch schlimmer: die Spezifikationen sind zu schlecht, als dass man den Browsern daraus einen Strick drehen könnte&nbsp;&hellip;"
+      },
+      {
+        "title": "CSS Shapes",
+        "href": "http://maddesigns.de/css3-shapes-2451.html",
+        "time": "01:10:11",
+        "description": "Sven hat über <a href=\"http://www.w3.org/TR/css-shapes/\">CSS Shapes</a> geschrieben und gibt uns einen kurzen Überblick. Das neue CSS-Feature erlaubt es, Textfluss an einer nicht-quadratischen Form auszurichten. Es funktioniert zur Zeit in Chrome, Opera und Safari, für eine Firefox-Implementierung kann man <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1040714\">seine Stimme erheben</a>. Es gibt auch einen <a href=\"http://blogs.adobe.com/webplatform/2014/05/12/css-shapes-polyfill/\">Polyfill</a>, von dem Sven jedoch nicht restlos überzeugt ist&nbsp;&ndash; Progressive Enhancement ist der bessere Weg."
+      }
+    ]
   }
 }

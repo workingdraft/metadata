@@ -1,0 +1,81 @@
+{
+  "id": 197,
+  "date": "2014-11-23",
+  "duration": "01:02:02",
+  "lang": "EN",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "trello": "https://trello.com/b/El3udVrJ/revision-197",
+  "live": [
+    {
+      "title": "Revision 197",
+      "href": "http://livestre.am/4ZIO3",
+      "duration": "01:06:39",
+      "date": "2014-11-17"
+    }
+  ],
+  "href": "http://workingdraft.de/197/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2606/0/wd-197.mp3",
+  "title": "Responsive Images, IE 12 und Links",
+  "description": "Der ewig optimistische Sonnenschein Schepp und Miese-Peter nahmen für diese Revision verschiedene neue Produkte unter die Lupe, die Webentwicklern in Zukunft Arbeit abnehmen (für Responsive Images) oder (in Form einer neuen IE-Version) aufbürden könnten. Außerdem gibt es reichlich Links.",
+  "topics": [
+    {
+      "title": "Responsive Images Specification and Real-World Scenarios",
+      "href": "http://www.scientiamobile.com/page/responsive-images-specification-real-world-scenarios",
+      "time": "00:00:21",
+      "description": "Von den Machern von <a href=\"http://wurfl.sourceforge.net/\">WURFL</a> (einer Datenbank rund um User Agent Strings inkl. Browsermetriken): <a href=\"http://www.scientiamobile.com/page/responsive-images-specification-real-world-scenarios\">WIT</a>, ein Service für Responsive Images. Weil die normalen <a href=\"http://responsiveimages.org/\">Responsive Images</a> nicht ganz einfach zu nutzen sind, erzeugt WIT ganz einfach aus einer Basis-Bilddatei mehrere Varianten für Responsive Images. Nach der Vorstellung des Dienstes debattieren Peter und Schepp, ob WIT ein Zwischenschritt ist oder eine fertige Lösung für auch die ferne Zukunft sein kann. Auch das Konkurrenzprodukt <a href=\"http://www.akamai.de/html/technology/image-converter.html\">Akamai Image Converter</a> lassen wir nicht unerwähnt."
+    },
+    {
+      "title": "Neues aus dem Hause Microsoft",
+      "time": "00:28:33",
+      "description": "<a href=\"http://blogs.msdn.com/b/ie/archive/2014/11/11/living-on-the-edge-our-next-step-in-interoperability.aspx\">Aus einem langen Blogpost</a> erfahren wir neues über einen möglichen IE 12. Nach ein wenig Geunke über Windows- und IE-Versionen arbeiten wir uns durch die neuen Features. So wird <a href=\"https://developer.mozilla.org/de/docs/Web/CSS/transform-style\">Preserve-3D für Transforms</a> unterstützt, <a href=\"https://developer.mozilla.org/en-US/docs/Web/Security/CSP\">Content Security Policy 1.0</a> ist ebenso an Bord (in <a href=\"http://workingdraft.de/124/\">Revision 124</a> ausführlich besprochen) wie erste Spuren von <a href=\"http://dev.w3.org/csswg/mediaqueries-4/\">Media Queries Level 4</a>. Peter erzählt, wie die <a href=\"http://www.w3.org/TR/gamepad/\">Gamepad API</a> früher war und wozu man WAV-Support für <code>&lt;audio&gt;</code> würde haben wollen&nbsp;&ndash; beides steckt auch im neuen IE. Zuletzt werden auch <a href=\"http://www.w3.org/TR/selection-api/\">Selection API</a> sowie zahlreiche ES6-Features-Features unterstützt. Wem das noch nicht reicht: Wünsche bitte in der <a href=\"https://wpdev.uservoice.com/forums/257854-internet-explorer-platform\">IE Platform Suggestion Box</a> einwerfen. Auch nicht unerwähnt soll <a href=\"https://remote.modern.ie/\">Remote IE</a> bleiben, eine Art Browserstack für IE."
+    }
+  ],
+  "links": [
+    {
+      "title": "All About Angular 2.0",
+      "href": "http://eisenbergeffect.bluespire.com/all-about-angular-2-0/?utm_source=javascriptweekly",
+      "time": "00:57:37",
+      "description": "Ein langer Artikel beantwortet alle Fragen zu AngularJS 2.0."
+    },
+    {
+      "title": "Dealing With Compiled Files in Git",
+      "href": "http://blog.andrewray.me/dealing-with-compiled-files-in-git/",
+      "time": "00:57:37",
+      "description": "Einckecken oder nicht einchecken, das ist hier die Frage."
+    },
+    {
+      "title": "Pleeease",
+      "href": "http://pleeease.io/",
+      "time": "00:57:37",
+      "description": "Ein CSS-Post-Processor mit Inlining-Superkräften!"
+    },
+    {
+      "title": "ChromeDevTools auf Twitter",
+      "href": "https://twitter.com/chromedevtools",
+      "time": "00:57:37",
+      "description": "Bitte verfolgen Sie unauffällig."
+    },
+    {
+      "title": "Luke Wroblewski: Mobile Navigation, Conversion, Input, & More",
+      "href": "http://www.lukew.com/ff/entry.asp?1936",
+      "time": "00:57:37",
+      "description": "„.. two and a half hour seminar on optimizing mobile experiences for conversion using design.“."
+    }
+  ]
+}

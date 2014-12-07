@@ -1,0 +1,76 @@
+{
+  "id": 198,
+  "date": "2014-12-07",
+  "duration": "01:22:23",
+  "lang": "EN",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Sven Wolfermann",
+      "twitter": "https://twitter.com/maddesigns",
+      "web": "http://maddesigns.de/"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "trello": "https://trello.com/b/uVDXjT3d/revision-198",
+  "live": [
+    {
+      "title": "Revision 198",
+      "href": "http://livestre.am/503bl",
+      "duration": "01:51:10",
+      "date": "2014-11-24"
+    }
+  ],
+  "href": "http://workingdraft.de/198/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2611/0/wd-198.mp3",
+  "title": "Workflow, Fokus, Shapes",
+  "description": "Mit fast voller Mannschaft, ergänzt durch <b>Sven Wolfermann</b> (<a href=\"http://maddesigns.de/\">maddesigns.de</a>, <a href=\"https://twitter.com/maddesigns\">@maddesigns</a>) ackerten wir uns durch drei Themen. News und Links gab es diesmal nicht.",
+  "topics": [
+    {
+      "title": "Git, Grunt/Gulp, Compass, SASS/LESS Workflow im Team",
+      "time": "00:00:20",
+      "description": "Ein Hörer <a href=\"https://twitter.com/andi1984/status/512269033824337920\">hat sich gewünscht</a>, dass wir über „Git, Grunt/Gulp, Compass, SASS/LESS und den Workflow im Team“ sprechen, was wir uns nicht zweimal sagen lassen. Rodney schlägt auf und berichtet vom seinem Arbeitssetup, bestehend aus Git, Grunt, Sass, <a href=\"https://www.atlassian.com/software/stash\">Stash</a> und <a href=\"http://jenkins-ci.org/\">Jenkins</a>. Für den Workflow kommt <a href=\"http://nvie.com/posts/a-successful-git-branching-model/\">Gitflow</a> zu Einsatz. Rodney legt Wert auf die Feststellung, dass er Git wie von Gott gewollt mit rohen Konsolen-Befehlen bändigt, während die verweichlichten Kollegen auf <a href=\"https://github.com/nvie/gitflow\">Gitflow-Aliases</a> oder gar GUIs wie <a href=\"https://www.atlassian.com/software/sourcetree/overview\">Source Tree</a> oder gar <a href=\"http://www.git-tower.com/\">Tower</a> zurückgreifen. Hans berichtet ebenfalls von seinen Erfahrungen mit dem Gitflow-Workflow. Man ist sich einig: die Arbeit mit Pull Requests fürt zu höherer Codequalität, weniger Bugs und besserem Wissensaustausch im Team. Die unvermeidliche Diskussion Grunt vs. Gulp halten wir mit etwas Mühe im Rahmen (denn so wichtig ist das Build-Tool gar nicht) und sprechen am Ende noch noch über Best Practices beim Code-Review und dem Umgang mit QA."
+    },
+    {
+      "title": "Rodneys Zwischenbericht aus dem Focusing-Schützengraben",
+      "time": "00:33:18",
+      "description": "Seit Monaten verbrennt Rodney Zeit damit, in Browsern zu ermitteln, welche Elemente fokussierbar und antabbar (nicht das gleiche!) sind und welche es sein sollten. Zusammenfassung: Alles ist kaputt, nichts funktioniert. Nur wenn man auf einer statischen Webseite einfach Links/Inputs durchtabben möchte, klappt alles einigermaßen, doch alles, was auch nur etwas komplizierter ist, endet im Chaos. Browser scrollen ungefragt (und uneinheitlich), das Verhalten bei Image Maps und SVG-Elementen ist uneinheitlich und generell machen keine zwei Browser irgendwo das gleiche. Und noch schlimmer: die Spezifikationen sind zu schlecht, als dass man den Browsern daraus einen Strick drehen könnte&nbsp;&hellip;"
+    },
+    {
+      "title": "CSS Shapes",
+      "href": "http://maddesigns.de/css3-shapes-2451.html",
+      "time": "01:10:11",
+      "description": "Sven hat über <a href=\"http://www.w3.org/TR/css-shapes/\">CSS Shapes</a> geschrieben und gibt uns einen kurzen Überblick. Das neue CSS-Feature erlaubt es, Textfluss an einer nicht-quadratischen Form auszurichten. Es funktioniert zur Zeit in Chrome, Opera und Safari, für eine Firefox-Implementierung kann man <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1040714\">seine Stimme erheben</a>. Es gibt auch einen <a href=\"http://blogs.adobe.com/webplatform/2014/05/12/css-shapes-polyfill/\">Polyfill</a>, von dem Sven jedoch nicht restlos überzeugt ist&nbsp;&ndash; Progressive Enhancement ist der bessere Weg."
+    }
+  ]
+}
