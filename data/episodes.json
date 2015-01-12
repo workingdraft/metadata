@@ -3399,5 +3399,21 @@
     "href": "http://workingdraft.de/202/",
     "audio": "http://workingdraft.de/podpress_trac/web/2640/0/wd-202.mp3",
     "title": "Sicherheitslücken – DOM Clobbering, XSS via CSS, ES6 Fallen"
+  },
+  "203": {
+    "id": 203,
+    "date": "2015-01-10",
+    "duration": "01:19:09",
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "drublic",
+      "PascalPrecht",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/jwUajcet/revision-203",
+    "href": "http://workingdraft.de/203/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2648/0/wd-203.mp3",
+    "title": "AngularJS x.x"
   }
 }

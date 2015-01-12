@@ -1,0 +1,93 @@
+{
+  "id": 203,
+  "date": "2015-01-10",
+  "duration": "01:19:09",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Pascal Precht",
+      "twitter": "https://twitter.com/PascalPrecht",
+      "web": "http://pascalprecht.github.io/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "trello": "https://trello.com/b/jwUajcet/revision-203",
+  "href": "http://workingdraft.de/203/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2648/0/wd-203.mp3",
+  "title": "AngularJS x.x",
+  "description": "Unser Peter musste sich in letzter Zeit berufsbedingt deutlicher mit AngularJS auseinandersetzen und hatte sich doch eine Meinung gebildet. Verbunden mit genereller Verwunderung über die kürzliche AngularJS 2.0 Ankündigung war das für uns Grund genug, diesem Framework noch eine weitere Episode zu spendieren. Hilfestellung bot <a href=\"http://pascalprecht.github.io/\">Pascal Precht</a>, der dem Kommentar- und Fragefeuerwerk entgegenstand.",
+  "topics": [
+    {
+      "title": "AngularJS x.x",
+      "time": "00:01:08",
+      "description": "Phase 2 des <a href=\"http://en.wikipedia.org/wiki/Hype_cycle\">Hype Cycles</a> erfolgreich überstanden, nähern wir uns beim AngularJS Framework in raschen Zügen Phase Nummer 3: Desillusionierung. Von vielen Seiten hört man, <a href=\"https://medium.com/@mnemon1ck/why-you-should-not-use-angularjs-1df5ddf6fc99\">AngularJS soll man gar nicht verwenden</a> (andere Frameworks übrigens auch nicht), andere meinen sogar, das Toolset eignet sich <a href=\"http://www.fse.guru/2-years-with-angular\">sowieso nur für Demos</a> und ist von der Pieke auf gebrochen. Es helfe Google mit der kommenden Version, die alles umreisst, was wir bislang kennen!<p></p>\n<p>Doch warum wirkt <a href=\"http://eisenbergeffect.bluespire.com/all-about-angular-2-0/?utm_source=javascriptweekly\">Angular 2.0</a> wie eine große Entschuldigung seitens Google und als wehmütiger Versuch, jetzt alles richtig zu machen? Und warum bringt dieser Versuch wieder die Gemüter zum kochen? Sollte man Angular 1.x nun komplett in die Tonne werfen? Warum braucht&#8217;s wieder eine eigene Sprache und Tool-Chain mit <a href=\"https://docs.google.com/document/d/11YUzC-1d0V1-Q3V0fQ7KSit97HnZoKVygDxpWzEYW0U/edit\">AtScript</a>, und warum sagt man ständig, AtScript sei keine eigene Sprache? Frage um Fragen und ein Thema nach dem anderen. In ihrer Mitte ein tapferer Jungentwickler namens <a href=\"http://pascalprecht.github.io/\">Pascal Precht</a>, der uns die Welt von AngularJS erklärt und aufzeigt, warum alles so katastrophal und verwirrend wirkt.</p>\n<p>Apropos verwirrend: Wir finden die AngularJS Quellen für 1.x <a href=\"https://github.com/angular/angular.js\">in diesem GitHub Repository</a>, für Angular 2.x <a href=\"https://github.com/angular/angular\">in jenem</a>. Man erkenne den feinen Unterschied.</p>\n<p>Zum Schluß noch ein kleiner Disclaimer: Wir bemühten uns redlichst, etwaige Vergleiche zu anderen und anderwertigen Frameworks zu vermeiden um entsprechenden Grundsatzdiskussionen aus dem Weg zu gehen, allerdings rutscht uns das eine oder andere Schlüsselwort in den Gesprächsverlauf rein. Seht es uns nach und erkennt die Anstrengung, den Fokus wieder auf Angular zu richten.</p>"
+    }
+  ],
+  "links": [
+    {
+      "title": "AngularJS: Login und Sicherheit",
+      "href": "https://angularjs.de/artikel/angularjs-login-sicherheit?utm_content=buffer47481&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
+      "time": "01:13:50",
+      "description": "von unseren Kollegen bei AngularJS.de!"
+    },
+    {
+      "title": "Integrating Web Components with AngularJS",
+      "href": "http://pascalprecht.github.io/2014/10/25/integrating-web-components-with-angularjs/",
+      "time": "01:13:50",
+      "description": "Unser Gast beschreibt eine laut Eigenaussage &#8220;Hacky Solution&#8221;, wie man jetzt schon Web Components in AngularJS 1.3 verwenden kann. Also noch vor der 2.0er Revolution. Diese Erklärung gibt es auch in audiovisueller Darbietung samt Kollegin Carmen Popoviciu auf der letztjährigen <a href=\"https://www.youtube.com/watch?v=gSTNTXtQwaY\">NG Europe</a> Konferenz"
+    },
+    {
+      "title": "Moderne Web-Entwicklung mit AngularJS",
+      "href": "http://mediathek.hhu.de/watch/a5c73fd1-f751-4465-87e9-fce057eb1d08",
+      "time": "01:13:50",
+      "description": "Robin und Phil, die ihr schon vom Podcast kennen solltet, zeigen euch ausführlich eine Einleitung in die aktuelle Angular JS Version, die sie bei der Rhein Java User Group zum Besten gaben. Sehr detailliert und empfehlenswert, sowie eine gute Einleitung für die <a href=\"https://angularjs.de/veranstaltungen\">Workshops</a>, die sie zusammen mit Peter geben."
+    },
+    {
+      "title": "Thoughtram",
+      "href": "http://thoughtram.io/",
+      "time": "01:13:50",
+      "description": "Apropos Workshop. Auch Gast Pascal zeigt euch die Vor- und Nachteile von Angular 1.x live und in Farbe. Buchbar auf dieser Seite"
+    },
+    {
+      "title": "vivus.js",
+      "href": "http://maxwellito.github.io/vivus/",
+      "time": "01:13:50",
+      "description": "Themenwechsel. Animierte Strokes bei SVG, einfach steuerbar per Bibliothek. Vivus macht das für euch."
+    },
+    {
+      "title": "The origin of the <blink> tag",
+      "href": "http://www.montulli.org/theoriginofthe%3Cblink%3Etag",
+      "time": "01:13:50",
+      "description": "Schon etwas älter, nicht minder interessant: Wie ist eigentlich der &lt;blink&gt; Tag entstanden? Der Erfinder plaudert aus dem Nähkästchen. Spoiler: Entsteht so wie alle <strike>großartigen</strike> blöden Ideen."
+    }
+  ]
+}
