@@ -19208,5 +19208,54 @@
         "description": "In its tenth year 24 ways is till one of the online christmas calendars which you have to visit."
       }
     ]
+  },
+  "201": {
+    "id": 201,
+    "date": "2014-12-22",
+    "duration": "00:44:52",
+    "people": [
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      },
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      }
+    ],
+    "trello": "https://trello.com/b/fCXn7knn/revision-201",
+    "href": "http://workingdraft.de/201/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2633/0/wd-201.mp3",
+    "title": "Offline-Apps und Links",
+    "description": "In trauter Zweisamkeit quatschten Stefan und Peter über Offline-Technologien für Webapps und verlasen am Ende ganze zwei Links.",
+    "topics": [
+      {
+        "title": "Technologien für Offline-Webapps",
+        "time": "00:00:22",
+        "description": "Stefan macht Webtech-Vorlesung an der FH Oberösterreich und hat sich für seinen nächsten Termin vorgenommen, über Offline-Technologien zu sprechen. Während APIs wie <a href=\"http://www.w3.org/TR/webstorage/\">Web Storage</a> oder <a href=\"http://www.w3.org/TR/IndexedDB/\">Indexed DB</a> vergleichsweise unproblematisch sind, ist der <a href=\"http://www.w3.org/TR/html5/browsers.html#offline\">Application Cache</a> bekanntermaßen ein etwas <a href=\"http://alistapart.com/article/application-cache-is-a-douchebag\">schwierigerer Fall</a>. Grundprobleme sind laut Peter durch die Spec-Schreiber falsch verstandene Anforderungen, die zu hohe Abstraktionsschicht und die mangelnde Flexibilität. Abhilfe verspricht der <a href=\"https://github.com/slightlyoff/ServiceWorker\">Service Worker</a>, der neben vielen anderen Dingen unter anderem auch Offline-Webapps ermöglicht. Am besten erklärt dies <a href=\"https://www.youtube.com/watch?v=SmZ9XcTpMS4&amp;list=UUzoVCacndDCfGDf41P-z0iA\">Jake Archibald in seinem JSConf-Talk</a>. Einziger Haken ist die <a href=\"https://jakearchibald.github.io/isserviceworkerready/\">überschaubare Browserunterstützung</a>, bezüglich der wir jedoch einigermaßen optimistisch sind. Chrome und Firefox arbeiten schon fleißig am Service Worker und zu welchem Implementierungs-Tempo Microsoft fähig ist, sieht man daran dass die aktuelle IE-Preview-Version <a href=\"https://kangax.github.io/compat-table/es6/\">die beste ES6-Unterstützung aller Browser</a> bietet. Zum Ende darf Peter nochmals seinen Mobilgeräte-Sind-Schlechte-Computer-Rant zum Besten geben."
+      }
+    ],
+    "links": [
+      {
+        "title": "Polyfill Service",
+        "href": "http://cdn.polyfill.io/v1/docs/",
+        "time": "00:41:47",
+        "description": "Ein einziges Script von einem CDN einbinden, das per Browsersniffing nur die nötigsten Polyfills in dieses Script hineinpackt."
+      },
+      {
+        "title": "State of JS Implementations, 2014 Edition",
+        "href": "http://wingolog.org/archives/2014/12/09/state-of-js-implementations-2014-edition",
+        "time": "00:41:47",
+        "description": "Andy Wingo über die JS-Engines moderner Browser."
+      }
+    ]
   }
 }
