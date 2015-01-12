@@ -19101,5 +19101,112 @@
         "description": "Anselm fragt den Rest, wie sie an Refactoring von Code herangehen. Peter ist der festen Überzeugung, dass es hier nur eine einzige Möglichkeit gibt: Die alten Tests nehmen und darauf den Code neu schreiben. Gibt es keine Tests, müssen andere Prinzipien herhalten, wie sie Hans und Schepp pflegen. So muss man oft auf Grund verschiedener Gegebenheiten leider auf bestehende Tests verzichten und sich selbst eine Lösung ausdenken. Schepp nutzt dabei auch oft Tools wie seine IDE PHP Storm, JSHint und Code-Style-Checker für halbautomatisiertes Anpassen an Codestandards. Immer hilft jedenfalls der direkte Vergleich des alten Stands zum neuen. Auch visuelle Regression Tests mit Hilfe von Screenshots und Diff-Tools können vor allem CSS und HTML Refactorings unterstützen. Und zu guter letzt wünschen wir uns noch einen HTML Regression-Checker als Tool für Markup-Refactorings."
       }
     ]
+  },
+  "200": {
+    "id": 200,
+    "date": "2014-12-14",
+    "duration": "01:21:04",
+    "lang": "EN",
+    "people": [
+      {
+        "name": "Jeremy Keith",
+        "twitter": "https://twitter.com/adactio",
+        "web": "http://adactio.com/"
+      },
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      },
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      {
+        "name": "Anselm Hannemann",
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
+      }
+    ],
+    "trello": "https://trello.com/b/hc9yyaCM/revision-200",
+    "live": [
+      {
+        "title": "Revision 200",
+        "href": "http://livestre.am/50CUw",
+        "duration": "02:42:42",
+        "date": "2014-12-08"
+      }
+    ],
+    "href": "http://workingdraft.de/200/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2626/0/wd-200.mp3",
+    "title": "The Indie Web",
+    "description": "For our 200th anniversay Schepp, Anselm and Stefan invited Jeremy Keith. Enjoy our excessive talk about the Indie Web!\n\nZum 200. Jubiläum luden Schepp, Anselm und Stefan niemand geringeren als <a href=\"http://www.adactio.com\">Jeremy Keith</a> ein. Viel Spaß bei unserer ausgiebigen Plauderei zum &#8220;Indie Web&#8221;. Die Episode und alle Shownotes sind dieses Mal auf Englisch!",
+    "topics": [
+      {
+        "title": "The Indie Web Building Blocks",
+        "href": "https://adactio.com/journal/7698",
+        "time": "00:00:39",
+        "description": "Jeremy explains what’s the meaning behind the whole indie web term and why it exists. He continues to explain the technical basics: Decentralizing sources, authenticate on websites using your very own website and a social network of choice, sharing links to your blog posts to the social networks and getting mentions from twitter etc on your website and store them there. You can do this with just one requirement: if you have your own domain. It even can work on <a href=\"http://aaron-gustafson.com/notebook/2014/enabling-webmentions-in-jekyll/\">static sites</a> and there are open source services like <a href=\"https://www.brid.gy/\">Bridgy</a> that help you with concatenating the external sources."
+      },
+      {
+        "title": "IndieWebCamps",
+        "href": "https://adactio.com/journal/7129",
+        "time": "00:22:57",
+        "description": "We talk about the people who are part of the indiewebcamp thing and how it’s been created. It was created to create solutions and not only discuss stuff. We also speak about how to teach people about indie technology, how to learn to integrate it and where you can do so. Finally we talk about content ownership and the problem with external services who own your content and do what they want with it (like deleting it even if you don’t want to, thanks archive.org for storing things anyways). And Jeremy shares <a href=\"https://adactio.com/version1/.\">his first website version</a>. If you are considering going to the upcoming beyond tellerand in Düsseldorf (which you should), be aware that there&#8217;s an accompanying <a href=\"https://indiewebcamp.com/2015/Germany\">IndieWebCamp</a> happening."
+      },
+      {
+        "title": "Useless Design Patterns",
+        "href": "https://kev.inburke.com/kevin/invalid-username-or-password-useless/",
+        "time": "00:48:23",
+        "description": "We’re talking about false assumptions of security which often have heavy impact on usability. Like on login screens when there’s only a generic error message not saying if username or password is wrong. We speak about if passwords should be shown by default to avoid the &#8216;confirm password&#8217; fields and typing errors and most of the time people are in private and if not, they should be able to switch to hidden type mode. We also talk about captchas which are non-sense. In fact we should always ask ourselves why are we doing this or wait a minute, is this really a good idea? And test with real users to figure out what works and what doesn’t. Because assumptions by us is often simply wrong.."
+      }
+    ],
+    "links": [
+      {
+        "title": "Responsible Web Components",
+        "href": "https://adactio.com/journal/7967",
+        "time": "01:13:15",
+        "description": "In another brilliant article by Jeremy we learn how web components can be used as a means of extending existing elements rather than replacing them. See web components as an enhancement!"
+      },
+      {
+        "title": "Multiplexing with SPDY and HTTP/2",
+        "href": "https://www.youtube.com/watch?v=J_BxVEOVRNw&feature=youtu.be&t=21m37s",
+        "time": "01:13:15",
+        "description": "Guy Bedford talks about multiplexing with SPDY and HTTP/2 in his talk."
+      },
+      {
+        "title": "FiyMyJS for Sublime",
+        "href": "https://github.com/addyosmani/sublime-fixmyjs/releases/tag/v0.3.2",
+        "time": "01:13:15",
+        "description": "Can&#8217;t remember your team&#8217;s coding guidelines? Use them automaticlaly with Addy Osmani&#8217;s Sublime plugin."
+      },
+      {
+        "title": "HTTPs and web performance",
+        "href": "http://calendar.perfplanet.com/2014/https-and-web-performance/",
+        "time": "01:13:15",
+        "description": "Dean Hume explains how HTTPS influences the performance of your website."
+      },
+      {
+        "title": "Iterators gonna iterate",
+        "href": "http://jakearchibald.com/2014/iterators-gonna-iterate/",
+        "time": "01:13:15",
+        "description": "Iterators are a new JS language feature which appear in the recent Chrome releases. Jake Archibald describes how they work."
+      },
+      {
+        "title": "24 Ways",
+        "href": "http://24ways.org/2014",
+        "time": "01:13:15",
+        "description": "In its tenth year 24 ways is till one of the online christmas calendars which you have to visit."
+      }
+    ]
   }
 }
