@@ -19038,5 +19038,68 @@
         "description": "Sven hat über <a href=\"http://www.w3.org/TR/css-shapes/\">CSS Shapes</a> geschrieben und gibt uns einen kurzen Überblick. Das neue CSS-Feature erlaubt es, Textfluss an einer nicht-quadratischen Form auszurichten. Es funktioniert zur Zeit in Chrome, Opera und Safari, für eine Firefox-Implementierung kann man <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1040714\">seine Stimme erheben</a>. Es gibt auch einen <a href=\"http://blogs.adobe.com/webplatform/2014/05/12/css-shapes-polyfill/\">Polyfill</a>, von dem Sven jedoch nicht restlos überzeugt ist&nbsp;&ndash; Progressive Enhancement ist der bessere Weg."
       }
     ]
+  },
+  "199": {
+    "id": 199,
+    "date": "2014-12-13",
+    "duration": "00:54:32",
+    "people": [
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Anselm Hannemann",
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
+      },
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      }
+    ],
+    "trello": "https://trello.com/b/vJ100OXl/revision-199",
+    "live": [
+      {
+        "title": "Revision 199",
+        "href": "http://livestre.am/50kVv",
+        "duration": "02:03:08",
+        "date": "2014-12-01"
+      }
+    ],
+    "href": "http://workingdraft.de/199/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2617/0/wd-199.mp3",
+    "title": "Simplifizierung und Code-Refactoring Methodik",
+    "description": "Schepp, Peter, Hans und Anselm haben in dieser Revision zwar keinerlei News oder Links zu vermelden, geben aber dafür ihr bestes, um ein bisschen in die Zukunft zu sehen und Methoden zur Refakturierung von Code zu analysieren.",
+    "topics": [
+      {
+        "title": "Simplifizierung",
+        "time": "00:00:23",
+        "description": "Nach Jahren des Aufrüstens sehen wir einen Trend zur Simplifizierung des Front-End Workflows. Hans klärt in seinem anfänglichen Plädoyer auf, was der aktuelle Status ist, was die Probleme und Unterschiede zwischen klassischen Präprozessoren und Postprozessoren sind und fragt sich, ob ein Tool wie <a href=\"http://pleeease.io/\">Pleeease</a> vielleicht sogar Sass ablösen könnte? Wir diskutieren und orakeln gemeinsam, wie die Zukunft aussehen kann und kommen zum Schluss, dass das Programmier-Business manchmal durchaus mit der Mode-Industrie zu vergleichen ist."
+      },
+      {
+        "title": "Code Refactoring Methoden",
+        "time": "00:30:20",
+        "description": "Anselm fragt den Rest, wie sie an Refactoring von Code herangehen. Peter ist der festen Überzeugung, dass es hier nur eine einzige Möglichkeit gibt: Die alten Tests nehmen und darauf den Code neu schreiben. Gibt es keine Tests, müssen andere Prinzipien herhalten, wie sie Hans und Schepp pflegen. So muss man oft auf Grund verschiedener Gegebenheiten leider auf bestehende Tests verzichten und sich selbst eine Lösung ausdenken. Schepp nutzt dabei auch oft Tools wie seine IDE PHP Storm, JSHint und Code-Style-Checker für halbautomatisiertes Anpassen an Codestandards. Immer hilft jedenfalls der direkte Vergleich des alten Stands zum neuen. Auch visuelle Regression Tests mit Hilfe von Screenshots und Diff-Tools können vor allem CSS und HTML Refactorings unterstützen. Und zu guter letzt wünschen wir uns noch einen HTML Regression-Checker als Tool für Markup-Refactorings."
+      }
+    ]
   }
 }
