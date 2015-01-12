@@ -3376,5 +3376,28 @@
     "href": "http://workingdraft.de/201/",
     "audio": "http://workingdraft.de/podpress_trac/web/2633/0/wd-201.mp3",
     "title": "Offline-Apps und Links"
+  },
+  "202": {
+    "id": 202,
+    "date": "2014-12-29",
+    "duration": "01:38:50",
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "Mario Heiderich",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/VVyyQCIw/revision-202",
+    "live": [
+      {
+        "title": "Revision 202",
+        "href": "http://livestre.am/51aiQ",
+        "duration": "02:10:50",
+        "date": "2014-12-22"
+      }
+    ],
+    "href": "http://workingdraft.de/202/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2640/0/wd-202.mp3",
+    "title": "Sicherheitslücken – DOM Clobbering, XSS via CSS, ES6 Fallen"
   }
 }

@@ -1,0 +1,75 @@
+{
+  "id": 202,
+  "date": "2014-12-29",
+  "duration": "01:38:50",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Mario Heiderich",
+      "twitter": "https://twitter.com/0x6D6172696F",
+      "web": "http://mario.heideri.ch/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "trello": "https://trello.com/b/VVyyQCIw/revision-202",
+  "live": [
+    {
+      "title": "Revision 202",
+      "href": "http://livestre.am/51aiQ",
+      "duration": "02:10:50",
+      "date": "2014-12-22"
+    }
+  ],
+  "href": "http://workingdraft.de/202/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2640/0/wd-202.mp3",
+  "title": "Sicherheitslücken – DOM Clobbering, XSS via CSS, ES6 Fallen",
+  "description": "Wir haben uns kurz vor Heiligabend den <a href=\"http://mario.heideri.ch/\">Mario Heiderich</a> eingeladen, um über grauenvolle, abstruse und schier unlösbare Sicherheitslücken moderner Browser zu reden. Der richtige Stoff für besinnliche Weihnachtsstimmung und frohlockende Ausblicke ins neue Jahr!",
+  "topics": [
+    {
+      "title": "DOM Clobbering, XSS via CSS, Template Injection, etc.",
+      "time": "00:00:11",
+      "description": "Mario Heiderich, ehemaliger Webentwickler, heutiger Security-Experte, erzählt uns von den ganzen, dunklen Seiten der modernen Webentwicklung, die verheerende Schäden anrichten können, ohne das wir uns richtig wehren können. So beschreibt er aktuelle Sicherheitslücken in den <a href=\"https://code.google.com/p/mustache-security/\">Template Engines</a> von AngularJS oder KendoUI und hält auch fest, dass diese Dinge gerne von den Bibliotheksherstellern auch mal auf die lange Bank geschoben werden (wie beispielsweise Frederic Hembergers <a href=\"https://github.com/jquery/jquery/pull/1506\">jQuery Pull Request</a> von &#8220;neulich&#8221; zeigt). Es gibt Hilfestellungen, wie beispielswiese Marios <a href=\"https://github.com/cure53/DOMPurify\">DOMPurify</a>, mit dem man Zeichenketten auf verdächtigen Code prüfen und gegebenenfalls bereinigen kann.<p></p>\n<p>Es muss allerdings nicht immer JavaScript sein. Mit CSS kann man mit Hilfe der <code>@-moz-document</code> Regel und Regular Expressions im Firefox ganz einfach <a href=\"https://html5sec.org/cssession/\">Session Token aus der URL klauen</a>. Mario erklärt ausserdem, wie man die Paint-Zyklen der Browser und CSS Filter dazu ausnutzen kann, um auf bestimmte Zeichen zu schließen, die der Benutzer eingibt. Zukünftige Spaßquelle bieten SVGs im Allgemeinen und <a href=\"https://html5sec.org/otfsvg/\">SVGs in Webfonts im Speziellen</a>.</p>\n<p>Ebenfalls lückenreich und angriffsanfällig ist der DOM. Mit <a href=\"http://de.slideshare.net/x00mario/in-the-dom-no-one-will-hear-you-scream\">In the DOM, no one will hear you scream</a> gibt es einen mittlerweile sehr bekannten Talk von Mario, der uns das Prinzip des DOM Clobbering näherbringt. Der Abwärtskompatibilität von HTML sei es geschuldet, dass man derartige Dinge überhaupt durchführen kann.</p>\n<p>Dass man allerdings auch mit kommenden Technologien allerlei Unfung anstellen kann, zeigt der Ausblick auf Template Strings in EcmaScript 6. Mario sieht sich in seiner Rolle für die nächsten Jahre auf jeden Fall beschäftigt.</p>\n<p>Abhilfe gewünscht? Mario lässt uns nicht im Schneeregen stehen, sondern gibt auch ein paar hilfreiche Schutzhinweise. Für hundertprozentige Absicherung empfiehlt die Workingdraft Crew eine Ausbildung zum Reisbauer auf dem zweiten Bildungsweg.</p>\n<p>Weitere Links zu den Themen, die besprochen wurden:</p>\n<ul>\n<li><a href=\"https://github.com/cure53/xss-challenge-wiki\">XSS CHallenge Wiki</a> von Mario</li>\n<li><a href=\"https://html5sec.org/\">Sicherheitslücken im Test auf html5sec.org</a></li>\n<li><a href=\"http://kangax.github.io/compat-table/es6/\">EcmaScript 6 Compatibilty Table</a></li>\n<li><a href=\"https://code.google.com/p/mustache-security/\">Mustache Security</a></li>\n</ul>\n<p>Zu guter Letzt gibt es noch einige Hinweise auf themenbezogene Konferenzen.</p>"
+    }
+  ],
+  "links": [
+    {
+      "title": "HTTPS Mythen",
+      "href": "http://www.golem.de/news/netzverschluesselung-mythen-ueber-https-1412-111188.html",
+      "time": "01:35:37",
+      "description": "Golem klärt auf, was es mit den herumschwirrenden HTTPS Gerüchten und Mythen tatsächlich auf sich hat."
+    },
+    {
+      "title": "Let’s make a Firefox Extension, the painless way",
+      "href": "https://pomax.github.io/#gh-weblog-1418833974687",
+      "time": "01:35:37",
+      "description": "Ein knackiges Tutorial beschreibt, wie man Extensions für Firefox entwickelt."
+    },
+    {
+      "title": "Flexbox Adventures",
+      "href": "http://chriswrightdesign.com/experiments/flexbox-adventures/",
+      "time": "01:35:37",
+      "description": "Schon wieder ein Flexbox Tutorial? Ja! Dieses zeigt allerdings interaktiv und ausführlich, was es mit den Properties <code>flex-grow</code>, <code>flex-shrink</code> und <code>flex-basis</code> auf sich hat."
+    }
+  ]
+}
