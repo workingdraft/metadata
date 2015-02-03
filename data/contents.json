@@ -19425,5 +19425,237 @@
         "description": "Schon etwas älter, nicht minder interessant: Wie ist eigentlich der &lt;blink&gt; Tag entstanden? Der Erfinder plaudert aus dem Nähkästchen. Spoiler: Entsteht so wie alle <strike>großartigen</strike> blöden Ideen."
       }
     ]
+  },
+  "204": {
+    "id": 204,
+    "date": "2015-01-22",
+    "duration": "00:58:47",
+    "people": [
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      },
+      {
+        "name": "Rodney Rehm",
+        "team": [
+          "2011-09-16"
+        ],
+        "twitter": "https://twitter.com/rodneyrehm",
+        "web": "http://rodneyrehm.de/en/"
+      },
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      }
+    ],
+    "trello": "https://trello.com/b/4am7fLqS/revision-204",
+    "href": "http://workingdraft.de/204/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2656/0/wd-204.mp3",
+    "title": "Fokus, Build-Tools, Links",
+    "description": "Wer keine spannenden Themen hat, muss eben selbst spannend sein. Und so grillten Hans, Peter, Stefan und Anselm Fokus-Forscher Rodney zu seinen neuesten Forschungsergebnissen und wärmten kurz (und ohne nennenswerten Erkenntnisgewinn) die große Build-Tool-Debatte wieder auf.",
+    "topics": [
+      {
+        "title": "Neues von der Fokus-Front",
+        "time": "00:00:15",
+        "description": "Nach seinem ersten Bericht in <a href=\"http://workingdraft.de/198/\">Revision 198</a> meldet sich Rodney wieder zu Wort und berichtet von neuen Erkenntnissen aus seinem Fokus-Forschungs-Projekt, speziell von neuen Erkenntnissen rund um Shadow DOM, <a href=\"http://www.w3.org/html/wg/drafts/html/master/interactive-elements.html#the-dialog-element\"><code>&lt;dialog&gt;</code></a>, Canvas-Element und <code>&lt;video&gt;</code>. Letzteres ist interessanterweise je nach Browser unterschiedlich zu bedienen. Tabindex in Shadow DOM funktioniert in Chrome auf sinnvolle Weise, ist in Firefox (wie auch der Rest von Shadow DOM) noch buggy. In <code>&lt;dialog&gt;</code> wirken sich die bekannten Probleme von Image Maps verwirrend aus. Die Fokussierbarkeit von Canvas-Subtrees könnte für <a href=\"http://n12v.com/focus-transition/\">Focus Transitions</a> genutzt werden. Aus Rodneys bisherigen Erkenntnissen lassen sich drei Empfehlungen ableiten:<p></p>\n<ol>\n<li>Repariert Browser-Bugs mit <a href=\"https://github.com/medialize/ally.js\">Rodneys Scriptsammlung</a></li>\n<li>niemals positiven <code>tabindex</code> benutzen, nur <code>0</code> und <code>-1</code> sind brauchbare Werte</li>\n<li>niemals <code>accesskey</code> benutzen</li>\n</ol>\n<p>Als nächste Themen wird sich Rodney blutige SVG-Details sowie fokus-relevante Pseudoklassen (<code>:focus</code>, <code>:active</code> etc) zur Brust nehmen.</p>"
+      },
+      {
+        "title": "How to Use npm as a Build Tool",
+        "href": "http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/",
+        "time": "00:42:15",
+        "description": "Keith Cirkel hat <a href=\"http://blog.keithcirkel.co.uk/why-we-should-stop-using-grunt/\">keine Lust mehr auf Grunt und Gulp</a> und erklärt daher mal, wie man auch NPM als Build-Tool einsetzen kann (<a href=\"http://substack.net/task_automation_with_npm_run\">wie auch andere vor ihm</a>). Wir mit all unseren Monster-Projekten sind nur mäßig überzeugt: große Aufgaben können durchaus komplexe Tools erfordern. Peter gibt wieder eine Theorie von den in jedem Projekt vorhandenen hässlichen Ecken zum besten und will trotzdem für sein nächstes Projekt mal <a href=\"https://blog.jcoglan.com/2014/02/05/building-javascript-projects-with-make/\">Makefiles</a> versuchen."
+      }
+    ],
+    "links": [
+      {
+        "title": "appcache-nanny",
+        "href": "https://github.com/gr2m/appcache-nanny",
+        "time": "00:55:31",
+        "description": "Soll den Umgang mit dem gefürchteten Application Cache etwas verschönern."
+      },
+      {
+        "title": "The 2014 CSS Report: Examining how CSS is being used in the wild",
+        "href": "http://reports.quickleft.com/css",
+        "time": "00:55:31",
+        "description": "Datenpunkte zum CSS-Einsatz in freier Wildbahn."
+      }
+    ]
+  },
+  "205": {
+    "id": 205,
+    "date": "2015-01-31",
+    "duration": "00:57:16",
+    "people": [
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      },
+      {
+        "name": "Anselm Hannemann",
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
+      },
+      {
+        "name": "Kahlil Lechelt",
+        "team": [
+          "2011-08-25",
+          "2013-03-01"
+        ],
+        "twitter": "https://twitter.com/distilledhype",
+        "web": "http://distilledhype.com/"
+      }
+    ],
+    "trello": "https://trello.com/b/MMOMgPLh/revision-205",
+    "href": "http://workingdraft.de/205/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2666/0/wd-205.mp3",
+    "title": "Perceived Performance, Ampersand.js",
+    "description": "Zur 205. begrüßen Anselm und Stefan Schrödingers Co-Host (ist er aktiv, ist er es nicht?) Kahlil Lechelt wieder im virtuellen Studio. Die (Wieder-)Entdeckung eines vielversprechenden Frameworks hat ihn zurückgerufen.",
+    "news": [
+      {
+        "title": "IO.js",
+        "href": "http://blog.risingstack.com/iojs-overview/",
+        "time": "00:01:03",
+        "description": "Node.js ohne Node.js? Ein Open Source Fork der JavaScript-Umgebung beschäftigt die Szene. Dieser Beitrag klärt auf."
+      },
+      {
+        "title": "Firefox 35",
+        "href": "https://developer.mozilla.org/en-US/Firefox/Releases/35",
+        "time": "00:01:03",
+        "description": "Allerlei sinnvolle Neuerungen in der 35er Version des Fuches."
+      }
+    ],
+    "topics": [
+      {
+        "title": "Perceived Performance & fetch()",
+        "href": "https://github.com/whatwg/fetch/issues/19",
+        "time": "00:04:40",
+        "description": "Folgender Gedankengang: Ein <a href=\"https://www.npmjs.com/package/whatwg-fetch\">Polyfill</a> zum kommenden <code>fetch</code>-Befehl wird veröffentlicht und kommt gut an (in Kürze: verdauliches XHR mit Promies). Ein gewisser Steve Souders bringt seine Meinung, dass es doch ideal wäre mit diesem Standard auch Ladebalken steuern zu lassen, um dem User eine gewisse Geschwindigkeit anzuzeigen, oder im schlimmsten Fall vorzugaukeln. Hat bei <a href=\"http://calendar.perfplanet.com/2014/the-power-of-perceived-performance/\">eBay</a> ja auch gut funktioniert. Wir sprechen &#8212; im Vorgaukel-Falle &#8212; von unseren eigenen Erfahrungen und überlegen, wie so ein Standard ideal aussehen könnte."
+      },
+      {
+        "title": "Ampersand.js",
+        "href": "http://ampersandjs.com/",
+        "time": "00:26:46",
+        "description": "Aufgepumptes Backbone.js mit saftiger Tool-Chain im Hintergrund? Kahlil hat Ampersand für sich entdeckt und schwärmt uns im Beinah-Monolog entsprechend vor. Wer damit noch nichts zu tun hatte bisher, und sich nicht irgendwelchen Hype-Frameworks verschrieben hat, sollte durchaus einen längeren Blick darauf werfen. Ebenso erwähnt: <a href=\"http://jade-lang.com/\">Jade</a> als Templating-Language und das Buch der AmpersandJS Entwickler <a href=\"http://humanjavascript.com/\">Human Javascript</a>."
+      }
+    ],
+    "links": [
+      {
+        "title": "GitHub Cheat Sheet",
+        "href": "https://github.com/tiimgreen/github-cheat-sheet",
+        "time": "00:55:18",
+        "description": "Was mit Git und GitHub doch alles möglich ist. Tolle Kniffe, die oft unentdeckt bleiben."
+      }
+    ]
+  },
+  "206": {
+    "id": 206,
+    "date": "2015-02-03",
+    "duration": "01:24:03",
+    "people": [
+      {
+        "name": "Christian Heilmann",
+        "twitter": "https://twitter.com/codepo8",
+        "web": "http://christianheilmann.com/"
+      },
+      {
+        "name": "Rodney Rehm",
+        "team": [
+          "2011-09-16"
+        ],
+        "twitter": "https://twitter.com/rodneyrehm",
+        "web": "http://rodneyrehm.de/en/"
+      },
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      }
+    ],
+    "trello": "https://trello.com/b/u5GwJ1L4/revision-206",
+    "href": "http://workingdraft.de/206/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2674/0/wd-206.mp3",
+    "title": "ES6 Template Strings, Jobwechsel, Spartan",
+    "description": "Ganz unverhofft gesellte sich diese Revision der gute <a href=\"https://twitter.com/codepo8\">Chris Heilmann</a> auf einen Plauderabend zu uns.",
+    "news": [
+      {
+        "title": "“WebKit’s JavaScriptCore and Web Inspector now have a code coverage profiler that tells you what JS code has executed”",
+        "href": "https://twitter.com/saambarati/status/558740930501419008",
+        "time": "00:00:45",
+        "description": "Die News der Woche ist dieses neue Feature des kommenden Safari bzw. des jetzigen WebKit-Nightlys, mit Hilfe dessen man ungenutzte Code-Stellen in seinem JavaScript ausfindig machen kann."
+      }
+    ],
+    "topics": [
+      {
+        "title": "ES6 Template Strings",
+        "href": "http://updates.html5rocks.com/2015/01/ES6-Template-Strings",
+        "time": "00:03:02",
+        "description": "Die neuen ESCMAScript 6/2015 Template Strings erlauben in ihren Backticks viele neue String-Spielereien, wie etwa Multiline-Strings, Variablen-Ersetzung innerhalb des Strings, Filterung und Internationalisierung. Mit dem Browsersupport sieht es leider <a href=\"http://kangax.github.io/compat-table/es6/#template_strings\">noch nicht so gut aus</a>, aber es gibt Transpiler und Polyfills dafür."
+      },
+      {
+        "title": "Chris Heilmann geht zu Microsoft",
+        "href": "http://christianheilmann.com/2015/01/29/on-towards-my-next-challenge-2/",
+        "time": "00:17:25",
+        "description": "Dass für Chris bei Mozilla die Luft ein wenig raus war, war ja bekannt. Dass er jetzt zu Microsoft geht war hingegen ein ganz schöne Überraschung (<a href=\"http://aaron-gustafson.com/notebook/ch-ch-ch-changes/\">Aaron Gustafson übrigens ebenfalls</a>). Wir sprachen mit Chris über seine Zeit bei Mozilla und seine Aufgaben und Pläne im neuen Job. Außerdem durfte auch <a href=\"http://www.smashingmagazine.com/2015/01/26/inside-microsofts-new-rendering-engine-project-spartan/\">Microsofts Spartan Browser</a> in unserer Diskussion nicht fehlen."
+      }
+    ],
+    "tip": [
+      {
+        "title": "display: flex doesn’t work for button elements",
+        "href": "https://bugzilla.mozilla.org/show_bug.cgi?id=984869#c2",
+        "time": "01:06:42",
+        "description": "Rodney erzählt von seinen erfolglosen Versuchen, die Firefox-Buttons in eine Flexbox-Konstruktion zu zwängen. Er erzählt uns außerdem, warum das alles sowas von nicht funktioniert und welchen Workaround-Joker man erfolgreich ziehen kann."
+      }
+    ],
+    "links": [
+      {
+        "title": "JavaScript Application Architecture On The Road To 2015",
+        "href": "https://medium.com/@addyosmani/javascript-application-architecture-on-the-road-to-2015-d8125811101b",
+        "time": "01:17:40",
+        "description": "Addy Osmani legt uns seine Sicht auf die JavaScript-Architektur des Jahres 2015 in einem ellenlangen Artikel dar. Lesenswert!"
+      },
+      {
+        "title": "A Vision for Our Sass",
+        "href": "http://alistapart.com/article/a-vision-for-our-sass",
+        "time": "01:17:40",
+        "description": "Felicity Evans formuliert und erklärt in diesem ALA-Artikel Ihr Manifest für guten SASS-Code-Stil. Gehen wir sehr mit d&#8217;accord!"
+      },
+      {
+        "title": "Useful SVGO[ptimization] Tools",
+        "href": "http://sarasoueidan.com/blog/svgo-tools/",
+        "time": "01:17:40",
+        "description": "Sara Soueidan bietet hier ein kleines Roundup an verschiedenen GUIs und Ausprägungen des SVG-Optimierers <a href=\"https://github.com/svg/svgo\">SVGO</a> auf. Gutes Thema!"
+      },
+      {
+        "title": "Using WEBP/JPEG 2000/JPEG-XR/APNG Now With Picturefill and Modernizr",
+        "href": "http://www.useragentman.com/blog/2015/01/14/using-webp-jpeg2000-jpegxr-apng-now-with-picturefill-and-modernizr/",
+        "time": "01:17:40",
+        "description": "Zoltan “Du Lac” Hawryluk, Urgestein der Webszene, widmet sich der Frage, welche Vorzüge die verschiedenen exotischeren Bildformate abseits von JPEG haben und wie man sie im Alltag einsetzen kann. Erschöpfend, gut!"
+      }
+    ]
   }
 }

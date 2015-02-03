@@ -1,0 +1,71 @@
+{
+  "id": 204,
+  "date": "2015-01-22",
+  "duration": "00:58:47",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "trello": "https://trello.com/b/4am7fLqS/revision-204",
+  "href": "http://workingdraft.de/204/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2656/0/wd-204.mp3",
+  "title": "Fokus, Build-Tools, Links",
+  "description": "Wer keine spannenden Themen hat, muss eben selbst spannend sein. Und so grillten Hans, Peter, Stefan und Anselm Fokus-Forscher Rodney zu seinen neuesten Forschungsergebnissen und wärmten kurz (und ohne nennenswerten Erkenntnisgewinn) die große Build-Tool-Debatte wieder auf.",
+  "topics": [
+    {
+      "title": "Neues von der Fokus-Front",
+      "time": "00:00:15",
+      "description": "Nach seinem ersten Bericht in <a href=\"http://workingdraft.de/198/\">Revision 198</a> meldet sich Rodney wieder zu Wort und berichtet von neuen Erkenntnissen aus seinem Fokus-Forschungs-Projekt, speziell von neuen Erkenntnissen rund um Shadow DOM, <a href=\"http://www.w3.org/html/wg/drafts/html/master/interactive-elements.html#the-dialog-element\"><code>&lt;dialog&gt;</code></a>, Canvas-Element und <code>&lt;video&gt;</code>. Letzteres ist interessanterweise je nach Browser unterschiedlich zu bedienen. Tabindex in Shadow DOM funktioniert in Chrome auf sinnvolle Weise, ist in Firefox (wie auch der Rest von Shadow DOM) noch buggy. In <code>&lt;dialog&gt;</code> wirken sich die bekannten Probleme von Image Maps verwirrend aus. Die Fokussierbarkeit von Canvas-Subtrees könnte für <a href=\"http://n12v.com/focus-transition/\">Focus Transitions</a> genutzt werden. Aus Rodneys bisherigen Erkenntnissen lassen sich drei Empfehlungen ableiten:<p></p>\n<ol>\n<li>Repariert Browser-Bugs mit <a href=\"https://github.com/medialize/ally.js\">Rodneys Scriptsammlung</a></li>\n<li>niemals positiven <code>tabindex</code> benutzen, nur <code>0</code> und <code>-1</code> sind brauchbare Werte</li>\n<li>niemals <code>accesskey</code> benutzen</li>\n</ol>\n<p>Als nächste Themen wird sich Rodney blutige SVG-Details sowie fokus-relevante Pseudoklassen (<code>:focus</code>, <code>:active</code> etc) zur Brust nehmen.</p>"
+    },
+    {
+      "title": "How to Use npm as a Build Tool",
+      "href": "http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/",
+      "time": "00:42:15",
+      "description": "Keith Cirkel hat <a href=\"http://blog.keithcirkel.co.uk/why-we-should-stop-using-grunt/\">keine Lust mehr auf Grunt und Gulp</a> und erklärt daher mal, wie man auch NPM als Build-Tool einsetzen kann (<a href=\"http://substack.net/task_automation_with_npm_run\">wie auch andere vor ihm</a>). Wir mit all unseren Monster-Projekten sind nur mäßig überzeugt: große Aufgaben können durchaus komplexe Tools erfordern. Peter gibt wieder eine Theorie von den in jedem Projekt vorhandenen hässlichen Ecken zum besten und will trotzdem für sein nächstes Projekt mal <a href=\"https://blog.jcoglan.com/2014/02/05/building-javascript-projects-with-make/\">Makefiles</a> versuchen."
+    }
+  ],
+  "links": [
+    {
+      "title": "appcache-nanny",
+      "href": "https://github.com/gr2m/appcache-nanny",
+      "time": "00:55:31",
+      "description": "Soll den Umgang mit dem gefürchteten Application Cache etwas verschönern."
+    },
+    {
+      "title": "The 2014 CSS Report: Examining how CSS is being used in the wild",
+      "href": "http://reports.quickleft.com/css",
+      "time": "00:55:31",
+      "description": "Datenpunkte zum CSS-Einsatz in freier Wildbahn."
+    }
+  ]
+}

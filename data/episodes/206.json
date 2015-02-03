@@ -1,0 +1,88 @@
+{
+  "id": 206,
+  "date": "2015-02-03",
+  "duration": "01:24:03",
+  "people": [
+    {
+      "name": "Christian Heilmann",
+      "twitter": "https://twitter.com/codepo8",
+      "web": "http://christianheilmann.com/"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    }
+  ],
+  "trello": "https://trello.com/b/u5GwJ1L4/revision-206",
+  "href": "http://workingdraft.de/206/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2674/0/wd-206.mp3",
+  "title": "ES6 Template Strings, Jobwechsel, Spartan",
+  "description": "Ganz unverhofft gesellte sich diese Revision der gute <a href=\"https://twitter.com/codepo8\">Chris Heilmann</a> auf einen Plauderabend zu uns.",
+  "news": [
+    {
+      "title": "“WebKit’s JavaScriptCore and Web Inspector now have a code coverage profiler that tells you what JS code has executed”",
+      "href": "https://twitter.com/saambarati/status/558740930501419008",
+      "time": "00:00:45",
+      "description": "Die News der Woche ist dieses neue Feature des kommenden Safari bzw. des jetzigen WebKit-Nightlys, mit Hilfe dessen man ungenutzte Code-Stellen in seinem JavaScript ausfindig machen kann."
+    }
+  ],
+  "topics": [
+    {
+      "title": "ES6 Template Strings",
+      "href": "http://updates.html5rocks.com/2015/01/ES6-Template-Strings",
+      "time": "00:03:02",
+      "description": "Die neuen ESCMAScript 6/2015 Template Strings erlauben in ihren Backticks viele neue String-Spielereien, wie etwa Multiline-Strings, Variablen-Ersetzung innerhalb des Strings, Filterung und Internationalisierung. Mit dem Browsersupport sieht es leider <a href=\"http://kangax.github.io/compat-table/es6/#template_strings\">noch nicht so gut aus</a>, aber es gibt Transpiler und Polyfills dafür."
+    },
+    {
+      "title": "Chris Heilmann geht zu Microsoft",
+      "href": "http://christianheilmann.com/2015/01/29/on-towards-my-next-challenge-2/",
+      "time": "00:17:25",
+      "description": "Dass für Chris bei Mozilla die Luft ein wenig raus war, war ja bekannt. Dass er jetzt zu Microsoft geht war hingegen ein ganz schöne Überraschung (<a href=\"http://aaron-gustafson.com/notebook/ch-ch-ch-changes/\">Aaron Gustafson übrigens ebenfalls</a>). Wir sprachen mit Chris über seine Zeit bei Mozilla und seine Aufgaben und Pläne im neuen Job. Außerdem durfte auch <a href=\"http://www.smashingmagazine.com/2015/01/26/inside-microsofts-new-rendering-engine-project-spartan/\">Microsofts Spartan Browser</a> in unserer Diskussion nicht fehlen."
+    }
+  ],
+  "tip": [
+    {
+      "title": "display: flex doesn’t work for button elements",
+      "href": "https://bugzilla.mozilla.org/show_bug.cgi?id=984869#c2",
+      "time": "01:06:42",
+      "description": "Rodney erzählt von seinen erfolglosen Versuchen, die Firefox-Buttons in eine Flexbox-Konstruktion zu zwängen. Er erzählt uns außerdem, warum das alles sowas von nicht funktioniert und welchen Workaround-Joker man erfolgreich ziehen kann."
+    }
+  ],
+  "links": [
+    {
+      "title": "JavaScript Application Architecture On The Road To 2015",
+      "href": "https://medium.com/@addyosmani/javascript-application-architecture-on-the-road-to-2015-d8125811101b",
+      "time": "01:17:40",
+      "description": "Addy Osmani legt uns seine Sicht auf die JavaScript-Architektur des Jahres 2015 in einem ellenlangen Artikel dar. Lesenswert!"
+    },
+    {
+      "title": "A Vision for Our Sass",
+      "href": "http://alistapart.com/article/a-vision-for-our-sass",
+      "time": "01:17:40",
+      "description": "Felicity Evans formuliert und erklärt in diesem ALA-Artikel Ihr Manifest für guten SASS-Code-Stil. Gehen wir sehr mit d&#8217;accord!"
+    },
+    {
+      "title": "Useful SVGO[ptimization] Tools",
+      "href": "http://sarasoueidan.com/blog/svgo-tools/",
+      "time": "01:17:40",
+      "description": "Sara Soueidan bietet hier ein kleines Roundup an verschiedenen GUIs und Ausprägungen des SVG-Optimierers <a href=\"https://github.com/svg/svgo\">SVGO</a> auf. Gutes Thema!"
+    },
+    {
+      "title": "Using WEBP/JPEG 2000/JPEG-XR/APNG Now With Picturefill and Modernizr",
+      "href": "http://www.useragentman.com/blog/2015/01/14/using-webp-jpeg2000-jpegxr-apng-now-with-picturefill-and-modernizr/",
+      "time": "01:17:40",
+      "description": "Zoltan “Du Lac” Hawryluk, Urgestein der Webszene, widmet sich der Frage, welche Vorzüge die verschiedenen exotischeren Bildformate abseits von JPEG haben und wie man sie im Alltag einsetzen kann. Erschöpfend, gut!"
+    }
+  ]
+}

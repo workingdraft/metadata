@@ -1,0 +1,73 @@
+{
+  "id": 205,
+  "date": "2015-01-31",
+  "duration": "00:57:16",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype",
+      "web": "http://distilledhype.com/"
+    }
+  ],
+  "trello": "https://trello.com/b/MMOMgPLh/revision-205",
+  "href": "http://workingdraft.de/205/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2666/0/wd-205.mp3",
+  "title": "Perceived Performance, Ampersand.js",
+  "description": "Zur 205. begrüßen Anselm und Stefan Schrödingers Co-Host (ist er aktiv, ist er es nicht?) Kahlil Lechelt wieder im virtuellen Studio. Die (Wieder-)Entdeckung eines vielversprechenden Frameworks hat ihn zurückgerufen.",
+  "news": [
+    {
+      "title": "IO.js",
+      "href": "http://blog.risingstack.com/iojs-overview/",
+      "time": "00:01:03",
+      "description": "Node.js ohne Node.js? Ein Open Source Fork der JavaScript-Umgebung beschäftigt die Szene. Dieser Beitrag klärt auf."
+    },
+    {
+      "title": "Firefox 35",
+      "href": "https://developer.mozilla.org/en-US/Firefox/Releases/35",
+      "time": "00:01:03",
+      "description": "Allerlei sinnvolle Neuerungen in der 35er Version des Fuches."
+    }
+  ],
+  "topics": [
+    {
+      "title": "Perceived Performance & fetch()",
+      "href": "https://github.com/whatwg/fetch/issues/19",
+      "time": "00:04:40",
+      "description": "Folgender Gedankengang: Ein <a href=\"https://www.npmjs.com/package/whatwg-fetch\">Polyfill</a> zum kommenden <code>fetch</code>-Befehl wird veröffentlicht und kommt gut an (in Kürze: verdauliches XHR mit Promies). Ein gewisser Steve Souders bringt seine Meinung, dass es doch ideal wäre mit diesem Standard auch Ladebalken steuern zu lassen, um dem User eine gewisse Geschwindigkeit anzuzeigen, oder im schlimmsten Fall vorzugaukeln. Hat bei <a href=\"http://calendar.perfplanet.com/2014/the-power-of-perceived-performance/\">eBay</a> ja auch gut funktioniert. Wir sprechen &#8212; im Vorgaukel-Falle &#8212; von unseren eigenen Erfahrungen und überlegen, wie so ein Standard ideal aussehen könnte."
+    },
+    {
+      "title": "Ampersand.js",
+      "href": "http://ampersandjs.com/",
+      "time": "00:26:46",
+      "description": "Aufgepumptes Backbone.js mit saftiger Tool-Chain im Hintergrund? Kahlil hat Ampersand für sich entdeckt und schwärmt uns im Beinah-Monolog entsprechend vor. Wer damit noch nichts zu tun hatte bisher, und sich nicht irgendwelchen Hype-Frameworks verschrieben hat, sollte durchaus einen längeren Blick darauf werfen. Ebenso erwähnt: <a href=\"http://jade-lang.com/\">Jade</a> als Templating-Language und das Buch der AmpersandJS Entwickler <a href=\"http://humanjavascript.com/\">Human Javascript</a>."
+    }
+  ],
+  "links": [
+    {
+      "title": "GitHub Cheat Sheet",
+      "href": "https://github.com/tiimgreen/github-cheat-sheet",
+      "time": "00:55:18",
+      "description": "Was mit Git und GitHub doch alles möglich ist. Tolle Kniffe, die oft unentdeckt bleiben."
+    }
+  ]
+}
