@@ -47,7 +47,7 @@ function analyze(html) {
       bucket = 'topics';
     } else if (title.indexOf("woche") > -1) {
       bucket = 'tip';
-    } else if (title.indexOf("verlosung") > -1) {
+    } else if (title.indexOf("verlosung") > -1 || title.indexOf("job") > -1) {
       return;
     }
 

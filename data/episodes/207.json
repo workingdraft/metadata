@@ -1,0 +1,98 @@
+{
+  "id": 207,
+  "date": "2015-02-09",
+  "duration": "01:03:06",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Michael Kühnel",
+      "twitter": "https://twitter.com/mkuehnel",
+      "web": "http://michael-kuehnel.de/"
+    }
+  ],
+  "trello": "https://trello.com/b/rR0qAOp7/revision-207",
+  "href": "http://workingdraft.de/207/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2679/0/wd-207.mp3",
+  "title": "6to5, Yeoman, Links",
+  "live": [
+    {
+      "title": "Revision 207",
+      "href": "http://livestre.am/52Jt1",
+      "duration": "01:55:47",
+      "date": "2015-02-02"
+    }
+  ],
+  "description": "Mit Ehrengast <a href=\"http://michael-kuehnel.de/\">Michael Kühnel</a> (<a href=\"https://twitter.com/mkuehnel\">@mkuehnel</a>, Selbstbeschreibung „Webentwickler seit seit Netscape 4.7“) ackerten sich Schepp, Hans, Peter und Stefan durch die Themen der Woche.",
+  "news": [
+    {
+      "title": "HTML5 Boilerplate 5.0",
+      "href": "https://github.com/h5bp/html5-boilerplate/blob/v5.0.0/CHANGELOG.md",
+      "time": "00:02:22",
+      "description": "Die neueste Version des allseits beliebten Webseiten-Starterkits."
+    }
+  ],
+  "topics": [
+    {
+      "title": "6to5, 2to3",
+      "href": "http://6to5.org/blog/2015/01/27/2to3/",
+      "time": "00:02:54",
+      "description": "Der neueste ES6-Transpiler im Hype-Durchlauferhitzer ist aktuell <a href=\"http://6to5.org/\">6to5</a>, laut der <a href=\"https://kangax.github.io/compat-table/es6/\">ECMAScript 6 compatibility table</a> mit der größten Feature-Abdeckung überhaupt. Nachdem Hans eine mäßig steile ES6-These in den Raum geworfen hat, beginnt ein unausgeschlafener Peter über alles mögliche aus dem ES6-Dunstkreis (v.a. Klassen und die <a href=\"https://github.com/addyosmani/es6-tools\">diversen Tools und Transpiler</a>) abzuranten. Zentrale Aussage: so viel wird sich für Otto Normalentwickler gar nicht ändern, dann die meisten Features einer Programmiersprache benutzt man in 90% der Fälle eh nicht."
+    },
+    {
+      "title": "Yeoman",
+      "href": "http://yeoman.io/",
+      "time": "00:37:30",
+      "description": "Michael ist Yeoman-Fan und lässt seiner Begeisterung freien Lauf. Vor allem wirbt er dafür, eigene Generatoren zu bauen, was mit Hilfe der <a href=\"http://yeoman.io/authoring/\">Docs</a> und dem <a href=\"https://github.com/yeoman/generator-generator\">Yeoman-Generator für Yeoman-Generatoren</a> (yo dawg) auch ganz einfach ist. Mit <a href=\"https://github.com/SBoudrias/Inquirer.js\">Inquirer.js</a> wird Prompting einfach und auch <a href=\"http://yeoman.io/authoring/testing.html\">testen</a> ist ganz einfach. Selbst Generators für WordPress und Typo3 sollen in freier Wildbahn gesichtet worden sein."
+    }
+  ],
+  "links": [
+    {
+      "title": "FormatJS",
+      "href": "http://formatjs.io/",
+      "time": "00:57:19",
+      "description": "Diverse JavaScript-Libs um Daten nutzerfreundlich zu formatieren."
+    },
+    {
+      "title": "Making Pinterest — Demystifying SEO with experiments",
+      "href": "http://engineering.pinterest.com/post/109318939139/demystifying-seo-with-experiments",
+      "time": "00:57:19",
+      "description": "Die wissenschaftliche Methodik (est. 1700) erreicht Pinterest bzw. Suchmaschinenoptimierer. Das ist schon eine Meldung wert!"
+    },
+    {
+      "title": "Devdocs.io",
+      "href": "http://devdocs.io/",
+      "time": "00:57:19",
+      "description": "Die Webdev-Dokumentations-Metasuchmaschine ist jetzt offlinefähig!"
+    }
+  ]
+}
