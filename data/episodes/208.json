@@ -1,0 +1,83 @@
+{
+  "id": 208,
+  "date": "2015-02-22",
+  "duration": "00:46:11",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    }
+  ],
+  "trello": "https://trello.com/b/dXDhVqJd/revision-208",
+  "href": "http://workingdraft.de/208/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2685/0/wd-208.mp3",
+  "title": "JavaScript Dialekte",
+  "description": "Einen Dialekt im Team (bestehend aus Hans, Peter, Anselm und Stefan), zig Dialekte in unserer Themenliste.",
+  "topics": [
+    {
+      "title": "JavaScript Dialekte",
+      "time": "00:00:28",
+      "description": "Wir nehmen den jüngsten Artikel des Doktors zu <a href=\"http://www.2ality.com/2015/02/soundscript.html?m=1\">Googles SoundScript</a> zum Anlass mal generell über JavaScript Dialekte und deren Sinnhaftigkeit bzw. -losigkeit zu reden. Wir erkennen, dass SoundScript etwas ganz anderes vorhat als Googles andere Dialekte wie <a href=\"https://docs.google.com/document/d/11YUzC-1d0V1-Q3V0fQ7KSit97HnZoKVygDxpWzEYW0U/edit\">AtScript</a> und mit der zwingenden VM-Unterstützung wohl weiterhin Nische bleiben wird. <p></p>\n<p>Bei der Diskussion zu Dialekten und statischer Typisierung ebenso im Programm: <a href=\"http://www.peterkroener.de/typescript-teil-2-die-einordnung/\">TypeScript</a>, <a href=\"http://coffeescript.org/\">CoffeeScript</a>, Facebook&#8217;s Typechecker <a href=\"http://www.peterkroener.de/kurz-ausprobiert-flow-statischer-typchecker-javascript/\">Flow</a>, sowie der ursprüngliche und eingestampfte Versuch von EcmaScript in der <a href=\"http://www.ecmascript.org/es4/spec/overview.pdf\">Zombie-Version 4</a>.</p>\n<p>Sämtliche Themen in Union finden sich dann in einem anschließenden Review zu EcmaScript 6 und den Möglichkeiten mit <a href=\"https://github.com/jlongster/es6-macros\">SweetJS</a> und <a href=\"https://babeljs.io/\">6to5</a> (jetzt BabelJS). Mit der unausweichlichen Frage: Werden wir das überhaupt nutzen?</p>\n<p>Gegen Ende brechen wir allerdings eine Lanze für <a href=\"https://facebook.github.io/react/\">ReactJS</a> (und den damit verbundenen <a href=\"https://facebook.github.io/jsx/\">JSX</a> Dialekt): Sieht auf den ersten Blick etwas abstoßend aus, macht aber Spaß.\n</p>"
+    }
+  ],
+  "links": [
+    {
+      "title": "htaccess Snippets",
+      "href": "https://github.com/phanan/htaccess",
+      "time": "00:41:18",
+      "description": "Mal wieder was für Apache konfigurieren? Hier gibt&#8217;s Rezepte. Gibt&#8217;s ebenso vom <a href=\"https://github.com/h5bp/server-configs\">HTML5 Boilerplate</a> für verschiedene Servertypen."
+    },
+    {
+      "title": "Client-side templating’s major bug",
+      "href": "http://timkadlec.com/2015/02/client-side-templatings-major-bug/",
+      "time": "00:41:18",
+      "description": "Tim Kadlec beschreibt seine sehr interessante Sicht bez. Client-side Templating."
+    },
+    {
+      "title": "EcmaScript 5 compatibilty table",
+      "href": "https://github.com/AlloyTeam/Mars/blob/master/tools/es5-mobile-compat-table.md",
+      "time": "00:41:18",
+      "description": "Für mittlerweile ausrangierte Browser."
+    },
+    {
+      "title": "Reframing Accessibilty for the Web",
+      "href": "http://alistapart.com/article/reframing-accessibility-for-the-web",
+      "time": "00:41:18",
+      "description": "Accessibility hat nicht zwingend mit Behinderungen zu tun. Der Artikel von A List Apart klärt gut auf."
+    },
+    {
+      "title": "Codrops CSS Reference",
+      "href": "http://tympanus.net/codrops/2015/02/03/introducing-codrops-css-reference/",
+      "time": "00:41:18",
+      "description": "Sehr umfangreiche und mit vielen, vielen Beispielen ausgestattete CSS Referenz von Sara Soueidan."
+    }
+  ]
+}

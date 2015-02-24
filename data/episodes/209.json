@@ -1,0 +1,76 @@
+{
+  "id": 209,
+  "date": "2015-02-24",
+  "duration": "01:00:41",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    }
+  ],
+  "trello": "https://trello.com/b/lN8Cy2Le/revision-209",
+  "href": "http://workingdraft.de/209/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2687/0/wd-209.mp3",
+  "title": "Geschwindigkeitsrausch",
+  "description": "In trauter Zweisamkeit diskutieren Stefan und Anselm über den Drang zu sechzig Frames pro Sekunde.",
+  "news": [
+    {
+      "title": "Browsersync 2.0",
+      "href": "http://www.wearejh.com/news/browsersync-2-0/",
+      "time": "00:00:21",
+      "description": "Die neue Version des Entwicklertools kommt mit graphischer Oberfläche und verstärktem weinre Support."
+    }
+  ],
+  "topics": [
+    {
+      "title": "FLIP your animations",
+      "href": "http://aerotwist.com/blog/flip-your-animations/",
+      "time": "00:03:10",
+      "description": "Geschwindigkeitsrausch: Paul Lewis stellt eine Micro Optimisation für CSS Transitions und Animations vor, und wir fragen uns nur: Warum gibt&#8217;s das nicht nativ in den Browsern? In der anschließenden Diskussion sprechen wir über Sinn und Unsinn dieser feingranularen Optimierungen und stehen für &#8220;nichts implementieren, was eigentlich schon so funktionieren sollte&#8221; ein."
+    },
+    {
+      "title": "60 fps on the mobile web",
+      "href": "http://engineering.flipboard.com/2015/02/mobile-web/",
+      "time": "00:17:48",
+      "description": "Da der DOM für Flipbook viel zu langsam war hat man kurzerhand mit Canvas und React das ganze Ding selbst implementiert (The Fast). Damit aber auch gleich einen massiven Shitstorm der Community ausgelöst (The Furious). Wir hinterfragen die Mutter dieses Gedanken, loben die Vielseitigkeit von React und analysieren ab welchem Zeitpunkt man mehr Probleme damit schafft als löst. Gegen Ende stehen wieder einmal für &#8220;nichts implementieren, was eigentlich schon so funktionieren sollte&#8221; ein und verweisen auf Chris Heilmanns <a href=\"http://christianheilmann.com/2015/02/15/flipboard-and-the-mobile-web-dream/\">exzellenter Sicht der Dinge</a> zu diesem Thema."
+    },
+    {
+      "title": "CSS Variables are a bad idea",
+      "href": "http://aaron-gustafson.com/notebook/css-variables-are-a-bad-idea/",
+      "time": "00:41:51",
+      "description": "Aaron Gustafson schreibt den &#8220;considered harmful&#8221; Artikel der keiner sein möchte und spricht sich gegen CSS Variablen aus. Den Grundgedanken hinter seinen Überlegungen verstanden versucht Stefan allerdings zu missionieren: Sieht man die Spezifikation als Variablen im Sinne eines Präprozessors sollte man es wirklich besser bleiben lassen. Hat man allerdings den Scope der &#8220;CSS Custom Properties&#8221; (so wie sie eigentlich heißen) erkannt, hat man damit ein mächtiges Werkzeug in der Hand, für das es viele ungelöste Use Cases gibt. Vorsicht sei geboten bei Poylfills wie <a href=\"http://pleeease.io/\">Pleeease</a>. Wenn man&#8217;s wirklich meint, lassen sich CSS Custom Properties nicht polyfillen, ohne massiv Browserfeatures nach zu implementieren. Und wir wissen ja, dass wir &#8220;nichts implementieren, was eigentlich so funtionieren sollte&#8221;. Ein Hinweis auf Rodneys <a href=\"http://blog.rodneyrehm.de/archives/30-CSS-Polyfill-Preprocessor-Its-A-Myth.html\">Artikel zu dem Thema</a> aus dem Jahr 2013 sei noch einmal sehr ans Herz gelegt."
+    }
+  ],
+  "links": [
+    {
+      "title": "Designing for the Elderly",
+      "href": "http://www.smashingmagazine.com/2015/02/05/designing-digital-technology-for-the-elderly/",
+      "time": "00:56:39",
+      "description": "Worauf man achten muss, wenn man für ältere Menschen designed. Guter Artikel auf Smashing Magazine."
+    },
+    {
+      "title": "Plumin.js",
+      "href": "http://www.pluminjs.com/",
+      "time": "00:56:39",
+      "description": "Schreib dir deinen eigenen Webfont mit einer pfiffigen JavaScript API. Wir sagen nur Wow!"
+    },
+    {
+      "title": "Revisiting LESS",
+      "href": "http://fettblog.eu/revisiting-less-stylesheets/",
+      "time": "00:56:39",
+      "description": "Als Sass User schreibt Stefan über seine Erfahrungen mit der zwangsbeglückten Nutzung von LESS. Die herausragenden Features scheinen banal, sind aber am Ende die, die am glücklichsten machen."
+    }
+  ]
+}
