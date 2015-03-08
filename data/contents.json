@@ -19922,5 +19922,149 @@
         "description": "Als Sass User schreibt Stefan über seine Erfahrungen mit der zwangsbeglückten Nutzung von LESS. Die herausragenden Features scheinen banal, sind aber am Ende die, die am glücklichsten machen."
       }
     ]
+  },
+  "210": {
+    "id": 210,
+    "date": "2015-03-05",
+    "duration": "00:55:32",
+    "people": [
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      },
+      {
+        "name": "Anselm Hannemann",
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
+      },
+      {
+        "name": "Rodney Rehm",
+        "team": [
+          "2011-09-16"
+        ],
+        "twitter": "https://twitter.com/rodneyrehm",
+        "web": "http://rodneyrehm.de/en/"
+      },
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      }
+    ],
+    "trello": "https://trello.com/b/vf0o070X/revision-210",
+    "href": "http://workingdraft.de/210/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2696/0/wd-210.mp3",
+    "title": "Webfonts und JavaScript-Module",
+    "description": "Peter, Rodney, Hans und Anselm nahmen sich aktuelle Themen zum Anlass, mal ganz grundsätzlich die Lage rund um Webfonts (bescheiden) und JS-Module (kompliziert) auszudiskutieren.",
+    "topics": [
+      {
+        "title": "Font Loading Revisited with Font Events",
+        "href": "http://www.filamentgroup.com/lab/font-events.html",
+        "time": "00:00:10",
+        "description": "Die Filament Group widmet sich in epischer Breite dem überaus kniffligen Problem des Webfont-Ladens. Da <code>@font-face</code> CSS bzw. das Rendering blockiert (mit unterschiedlichen Effekten in unterschiedlichen Browsern), gibt es zahllose Font-mit-JS-Lade-Techniken, die allesamt mehr oder minder Hacks sind. Es soll mal eine <a href=\"https://dev.opera.com/articles/better-font-face/\">Font-Face-API</a> geben (<a href=\"https://github.com/zachleat/fontfaceonload\">Polyfill</a>, <a href=\"https://github.com/bramstein/fontfaceobserver\">Wrapper-Library</a>) doch eigentlich sind wir uns einig: hier liegt ein Browser- bzw. Spezifikations-Bug vor und die ganze JS-Hackerei ist äußerst unbefriedigend."
+      },
+      {
+        "title": "JavaScript-Module",
+        "time": "00:15:45",
+        "description": "<a href=\"http://blog.npmjs.org/post/111385956875/welcome-jquery-developers\">Dichtmachung des jQuery-Plugin-Repositories</a> nehmen wir zum Anlass, ausführlich über JavaScript-Module (AMD vs. CommonJS vs. ES6) zu quatschen. Peter und Hans glauben dass es lange dauern wird bis ES6-Module in Browsern ankommen werden, sie aber dank <a href=\"https://github.com/esnext/es6-module-transpiler\">Transpilern</a> schon schneller adaptiert werden könnten, wenn die Entwicklerschaft will. Warum sie das ggf. nicht unbedingt möchte, erkkärt Rodney aus seiner Enterpriseperspektive. Nur wenn er demnächst ein komplett neues Script basteln würde, könnte sich Rod die Nutzung von ES6-Module vorstellen, wenn er denn davon ausgehen kann, dass die Community solche Module in der Breite denn schon akzeptiert (was fraglich ist). Und natürlich ist keine Moduldiskussion komplett ohne einen Schwenk in dem Themenbereich Isomorphic JavaScript."
+      }
+    ],
+    "links": [
+      {
+        "title": "Transitioning to SCSS at Scale",
+        "href": "https://codeascraft.com/2015/02/02/transitioning-to-scss-at-scale/",
+        "time": "00:52:22",
+        "description": "Etsy hat seine bizarr gigantische CSS-Codebase auf SCSS transformiert und dabei einige bemerkenswerte Techniken zum Einsatz gebracht."
+      }
+    ]
+  },
+  "211": {
+    "id": 211,
+    "date": "2015-03-08",
+    "duration": "01:17:57",
+    "people": [
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      {
+        "name": "Anselm Hannemann",
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
+      },
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      },
+      {
+        "name": "Jacob Rossi",
+        "twitter": "https://twitter.com/jacobrossi"
+      }
+    ],
+    "trello": "https://trello.com/b/1vUszgH4/revision-211",
+    "href": "http://workingdraft.de/211/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2701/0/wd-211.mp3",
+    "title": "Project Spartan with Jacob Rossi",
+    "live": [
+      {
+        "title": "Revision 211",
+        "href": "http://livestre.am/53UmZ",
+        "duration": "01:30:43",
+        "date": "2015-03-02"
+      }
+    ],
+    "topics": [
+      {
+        "title": "Project Spartan",
+        "href": "http://www.smashingmagazine.com/2015/01/26/inside-microsofts-new-rendering-engine-project-spartan/",
+        "time": "00:02:08",
+        "description": "Jacob gives deep insights behind the strategy of Spartan, how it&#8217;s related to the Internet Explorer of old, and what we as web developers can expect from it. Included are: The difference between EdgeHTML and Trident, Enterprise Mode (not related to Leonard Nimoy) and <a href=\"http://www.winbuzzer.com/benchmark-deep-dive-microsoft-windows-10-spartan-browser-vs-ie11-vs-google-chrome-41-vs-mozilla-firefox-36/\">overall performance discussion.</a>"
+      },
+      {
+        "title": "WebRTC and ORTC",
+        "href": "https://webrtchacks.com/microsoft-room-ie-webrtc/",
+        "time": "00:44:49",
+        "description": "Microsoft&#8217;s browser was still lacking a WebRTC implementation. This will change with Spartan, and more: We also will get the next level called &#8220;Object RTC&#8221;. Jacob explains what&#8217;s behind."
+      },
+      {
+        "title": "Pointer Events vs Touch Events",
+        "href": "https://dvcs.w3.org/hg/pointerevents/raw-file/tip/pointerEvents.html",
+        "time": "00:47:45",
+        "description": "Jacob not only is deeply involved in Project Spartan, but has also co-written the sublime and solid Pointer Events API. He explains how it came to fruition, and how Microsoft will behave with not having Apple on board. While the Working Draft crew is strongly ranting about Apple&#8217;s broken <a href=\"http://www.w3.org/TR/touch-events/#the-touchstart-event\">Touch API</a>, Jacob calls Safari developers &#8220;nice guys&#8221; and tells how it came to reverse engineering the standard by the W3C and the implementation in Windows Phone."
+      },
+      {
+        "title": "Vendor Prefixes and what could be their successor?",
+        "time": "01:00:09",
+        "description": "This also leads us to a discussion on vendor prefixes, which we all think are bad and should be avoided. Nevertheless, browser vendors need to test things. Jacob gives ideas. Nothing written in stone, tough"
+      }
+    ]
   }
 }

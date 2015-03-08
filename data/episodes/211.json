@@ -1,0 +1,79 @@
+{
+  "id": 211,
+  "date": "2015-03-08",
+  "duration": "01:17:57",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Jacob Rossi",
+      "twitter": "https://twitter.com/jacobrossi"
+    }
+  ],
+  "trello": "https://trello.com/b/1vUszgH4/revision-211",
+  "href": "http://workingdraft.de/211/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2701/0/wd-211.mp3",
+  "title": "Project Spartan with Jacob Rossi",
+  "live": [
+    {
+      "title": "Revision 211",
+      "href": "http://livestre.am/53UmZ",
+      "duration": "01:30:43",
+      "date": "2015-03-02"
+    }
+  ],
+  "topics": [
+    {
+      "title": "Project Spartan",
+      "href": "http://www.smashingmagazine.com/2015/01/26/inside-microsofts-new-rendering-engine-project-spartan/",
+      "time": "00:02:08",
+      "description": "Jacob gives deep insights behind the strategy of Spartan, how it&#8217;s related to the Internet Explorer of old, and what we as web developers can expect from it. Included are: The difference between EdgeHTML and Trident, Enterprise Mode (not related to Leonard Nimoy) and <a href=\"http://www.winbuzzer.com/benchmark-deep-dive-microsoft-windows-10-spartan-browser-vs-ie11-vs-google-chrome-41-vs-mozilla-firefox-36/\">overall performance discussion.</a>"
+    },
+    {
+      "title": "WebRTC and ORTC",
+      "href": "https://webrtchacks.com/microsoft-room-ie-webrtc/",
+      "time": "00:44:49",
+      "description": "Microsoft&#8217;s browser was still lacking a WebRTC implementation. This will change with Spartan, and more: We also will get the next level called &#8220;Object RTC&#8221;. Jacob explains what&#8217;s behind."
+    },
+    {
+      "title": "Pointer Events vs Touch Events",
+      "href": "https://dvcs.w3.org/hg/pointerevents/raw-file/tip/pointerEvents.html",
+      "time": "00:47:45",
+      "description": "Jacob not only is deeply involved in Project Spartan, but has also co-written the sublime and solid Pointer Events API. He explains how it came to fruition, and how Microsoft will behave with not having Apple on board. While the Working Draft crew is strongly ranting about Apple&#8217;s broken <a href=\"http://www.w3.org/TR/touch-events/#the-touchstart-event\">Touch API</a>, Jacob calls Safari developers &#8220;nice guys&#8221; and tells how it came to reverse engineering the standard by the W3C and the implementation in Windows Phone."
+    },
+    {
+      "title": "Vendor Prefixes and what could be their successor?",
+      "time": "01:00:09",
+      "description": "This also leads us to a discussion on vendor prefixes, which we all think are bad and should be avoided. Nevertheless, browser vendors need to test things. Jacob gives ideas. Nothing written in stone, tough"
+    }
+  ]
+}

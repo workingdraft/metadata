@@ -1,0 +1,65 @@
+{
+  "id": 210,
+  "date": "2015-03-05",
+  "duration": "00:55:32",
+  "people": [
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    }
+  ],
+  "trello": "https://trello.com/b/vf0o070X/revision-210",
+  "href": "http://workingdraft.de/210/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2696/0/wd-210.mp3",
+  "title": "Webfonts und JavaScript-Module",
+  "description": "Peter, Rodney, Hans und Anselm nahmen sich aktuelle Themen zum Anlass, mal ganz grundsätzlich die Lage rund um Webfonts (bescheiden) und JS-Module (kompliziert) auszudiskutieren.",
+  "topics": [
+    {
+      "title": "Font Loading Revisited with Font Events",
+      "href": "http://www.filamentgroup.com/lab/font-events.html",
+      "time": "00:00:10",
+      "description": "Die Filament Group widmet sich in epischer Breite dem überaus kniffligen Problem des Webfont-Ladens. Da <code>@font-face</code> CSS bzw. das Rendering blockiert (mit unterschiedlichen Effekten in unterschiedlichen Browsern), gibt es zahllose Font-mit-JS-Lade-Techniken, die allesamt mehr oder minder Hacks sind. Es soll mal eine <a href=\"https://dev.opera.com/articles/better-font-face/\">Font-Face-API</a> geben (<a href=\"https://github.com/zachleat/fontfaceonload\">Polyfill</a>, <a href=\"https://github.com/bramstein/fontfaceobserver\">Wrapper-Library</a>) doch eigentlich sind wir uns einig: hier liegt ein Browser- bzw. Spezifikations-Bug vor und die ganze JS-Hackerei ist äußerst unbefriedigend."
+    },
+    {
+      "title": "JavaScript-Module",
+      "time": "00:15:45",
+      "description": "<a href=\"http://blog.npmjs.org/post/111385956875/welcome-jquery-developers\">Dichtmachung des jQuery-Plugin-Repositories</a> nehmen wir zum Anlass, ausführlich über JavaScript-Module (AMD vs. CommonJS vs. ES6) zu quatschen. Peter und Hans glauben dass es lange dauern wird bis ES6-Module in Browsern ankommen werden, sie aber dank <a href=\"https://github.com/esnext/es6-module-transpiler\">Transpilern</a> schon schneller adaptiert werden könnten, wenn die Entwicklerschaft will. Warum sie das ggf. nicht unbedingt möchte, erkkärt Rodney aus seiner Enterpriseperspektive. Nur wenn er demnächst ein komplett neues Script basteln würde, könnte sich Rod die Nutzung von ES6-Module vorstellen, wenn er denn davon ausgehen kann, dass die Community solche Module in der Breite denn schon akzeptiert (was fraglich ist). Und natürlich ist keine Moduldiskussion komplett ohne einen Schwenk in dem Themenbereich Isomorphic JavaScript."
+    }
+  ],
+  "links": [
+    {
+      "title": "Transitioning to SCSS at Scale",
+      "href": "https://codeascraft.com/2015/02/02/transitioning-to-scss-at-scale/",
+      "time": "00:52:22",
+      "description": "Etsy hat seine bizarr gigantische CSS-Codebase auf SCSS transformiert und dabei einige bemerkenswerte Techniken zum Einsatz gebracht."
+    }
+  ]
+}
