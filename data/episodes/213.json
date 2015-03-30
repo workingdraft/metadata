@@ -1,0 +1,91 @@
+{
+  "id": 213,
+  "date": "2015-03-30",
+  "duration": "00:50:35",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    }
+  ],
+  "trello": "https://trello.com/b/d1uk0kzm/revision-213",
+  "href": "http://workingdraft.de/213/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2709/0/wd-213.mp3",
+  "title": "React is a Good Idea!",
+  "description": "Rodney, Anselm, Schepp und Stefan trotzen sämtlichen Bahnproblemen und stellen Schlechtredner gnadenlos bloss.",
+  "news": [
+    {
+      "title": "Opera Mini server upgrade",
+      "href": "https://dev.opera.com/blog/opera-mini-server-upgrade/",
+      "time": "00:00:18",
+      "description": "Operas Presto existiert tatsächlich noch. Und hat sogar ein Update erfahren: Auf den Render-Servern des Opera Mini. Flexbox, rem Einheiten und vieles mehr sind jetzt auch nun hier verfügbar."
+    }
+  ],
+  "topics": [
+    {
+      "title": "React is a terrible idea",
+      "href": "https://www.pandastrike.com/posts/20150311-react-bad-idea",
+      "time": "00:03:07",
+      "description": "Kaum ein weiteres Pamphlet ging so viral wie Panda Strikes Äpfel und Birnen Vergleich zu React. Wir schütteln verbal Köpfe und zeigen deutlich, warum dieser Beitrag auf so vielen Twitter-Zeitleisten kam, und warum die eigentlichen Inhalte mehr schlecht als recht sind. Man hört schon in den Schaunotizen den allgemeinen Konsens heraus, wie wir zu dem Thema stehen, und hinterfragen kritisch und reflektiert diverse Punkte aus dem Schrieb."
+    }
+  ],
+  "links": [
+    {
+      "title": "Lint like it’s 2015",
+      "href": "https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48",
+      "time": "00:46:40",
+      "description": "ES6, Babel, ESLint? So geht&#8217;s."
+    },
+    {
+      "title": "Introduction to fetch()",
+      "href": "http://updates.html5rocks.com/2015/03/introduction-to-fetch",
+      "time": "00:46:40",
+      "description": "fetch() (a.k.a das native $.ajax) gibt&#8217;s nun in Chrome, der Artikel erklärt die Funktionsweise."
+    },
+    {
+      "title": "Push Notifications on the open web",
+      "href": "http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web",
+      "time": "00:46:40",
+      "description": "Notification API und Web Push Notficiations jetzt in Chrome 42. Hier wird erklärt, wie man solche entwickelt."
+    },
+    {
+      "title": "Detecting injected content from third-parties on your site",
+      "href": "https://paul.kinlan.me/detecting-injected-content/",
+      "time": "00:46:40",
+      "description": "Der Titel sagt alles. Gute Sicherheitslehre von Paul Kinlan."
+    },
+    {
+      "title": "UI Animation Reviews: Web Navigation",
+      "href": "http://valhead.com/2015/03/10/screencast-ui-animation-reviews-web-navigation/",
+      "time": "00:46:40",
+      "description": "Wieder mal ein UX Thema. Von Val Head im Screencast."
+    }
+  ]
+}

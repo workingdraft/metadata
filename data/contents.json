@@ -20066,5 +20066,178 @@
         "description": "This also leads us to a discussion on vendor prefixes, which we all think are bad and should be avoided. Nevertheless, browser vendors need to test things. Jacob gives ideas. Nothing written in stone, tough"
       }
     ]
+  },
+  "212": {
+    "id": 212,
+    "date": "2015-03-21",
+    "duration": "00:51:37",
+    "people": [
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      },
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      }
+    ],
+    "trello": "https://trello.com/b/M112TMDp/revision-212",
+    "href": "http://workingdraft.de/212/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2707/0/wd-212.mp3",
+    "title": "HTML5 (Retro | Per)spektive",
+    "description": "HTML5, lange nach dem Hype. Was war gut, was weniger, was nutzen wir tatsächlich und wie hat sich die Weiterentwicklung geändert. Hans, Peter und Stefan resümieren.",
+    "topics": [
+      {
+        "title": "HTML5 number inputs – Comma and period as decimal marks",
+        "href": "https://www.aeyoun.com/posts/html5-input-number-localization.html",
+        "time": "00:00:10",
+        "description": "Den Artikel über schwer lokalisierbare number-<code>&lt;input&gt;</code>s nehmen wir zum Anlass um über Erfolg und Misserfolg von HTML5 Technologien zu reden. Wo ging gewaltig was schief, welche Dinge sind passabel geraten. Wie schaut der Entwicklungsprozess heute aus und gefällt er uns? Kleiner Spoiler vorweg: Wir sind nicht sonderlich begeistert und haben dutzende Verbesserungsvorschläge, sehen aber gewissen Dingen positiv entgegen. Frage an die Hörerschaft: Welche HTML5 Technologien habt ihr regelmäßig und gut im Einsatz, wo seht ihr Verbesserungspotential? Zum Thema gehören: <a href=\"https://developer.mozilla.org/en/docs/Web/HTML/Element/Input#attr-inputmode\">das <code>inputmode</code>-Attribut</a>, ein Video <a href=\"https://www.youtube.com/watch?v=l4bmZ1gRqCc\">zu Zahlen</a> (ohne Graf) und <a href=\"http://skilldrick.co.uk/wp-content/uploads/2011/06/crockford.jpg\">Douglas Crockford als Chuck Norris</a>"
+      },
+      {
+        "title": "Intent to deprecate: Insecure usage of powerful features",
+        "href": "https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/2LXKVWYkOus",
+        "time": "00:34:12",
+        "description": "Blink-Entwickler überlegen, Features wie Webcam, Geolocation, etc. nur noch über HTTPS zur Verfügung zu stellen. Eine Entwicklung, die wir begrüßen und entsprechend kritisch analysieren."
+      }
+    ],
+    "links": [
+      {
+        "title": "List of pseudo elements",
+        "href": "https://gist.github.com/webtobesocial/aefd6e25064c08e0cc9a",
+        "time": "00:46:00",
+        "description": "Vendor-prefixte Pseudo Elemente wollen wir nicht! Aber zu wissen, welche es für welche Hersteller es gibt, ist trotzdem eine gute Sache."
+      },
+      {
+        "title": "ngConf Videos",
+        "href": "https://www.youtube.com/playlist?list=PLOETEcp3DkCoNnlhE-7fovYvqwVPrRiY7",
+        "time": "00:46:00",
+        "description": "In der ersten Märzwoche fand die ngConf statt. Tolle Sachen sind dort passiert, und ein paar sehr lehrreiche Talks gabs auch. Alles dokumentiert auf YouTube."
+      },
+      {
+        "title": "EmberConf Videos",
+        "href": "https://www.youtube.com/playlist?list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU",
+        "time": "00:46:00",
+        "description": "Beinah selbe Zeit, anderes Framework. Nicht minder schlechter Inhalt. Hochwertige Keynote und sehr interessante Einblicke in die aktuelle Entwicklung rund um Ember.js."
+      },
+      {
+        "title": "Side Effects in CSS",
+        "href": "http://philipwalton.com/articles/side-effects-in-css/",
+        "time": "00:46:00",
+        "description": "Phil Walton bricht eine weitere Lanze für BEM."
+      },
+      {
+        "title": "Slideout",
+        "href": "https://mango.github.io/slideout/",
+        "time": "00:46:00",
+        "description": "Off Canvas Menü zum Dazuinstallieren? Und eines, das sogar funktioniert? Hans ist davon überzeugt."
+      }
+    ]
+  },
+  "213": {
+    "id": 213,
+    "date": "2015-03-30",
+    "duration": "00:50:35",
+    "people": [
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      {
+        "name": "Anselm Hannemann",
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
+      },
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      },
+      {
+        "name": "Rodney Rehm",
+        "team": [
+          "2011-09-16"
+        ],
+        "twitter": "https://twitter.com/rodneyrehm",
+        "web": "http://rodneyrehm.de/en/"
+      }
+    ],
+    "trello": "https://trello.com/b/d1uk0kzm/revision-213",
+    "href": "http://workingdraft.de/213/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2709/0/wd-213.mp3",
+    "title": "React is a Good Idea!",
+    "description": "Rodney, Anselm, Schepp und Stefan trotzen sämtlichen Bahnproblemen und stellen Schlechtredner gnadenlos bloss.",
+    "news": [
+      {
+        "title": "Opera Mini server upgrade",
+        "href": "https://dev.opera.com/blog/opera-mini-server-upgrade/",
+        "time": "00:00:18",
+        "description": "Operas Presto existiert tatsächlich noch. Und hat sogar ein Update erfahren: Auf den Render-Servern des Opera Mini. Flexbox, rem Einheiten und vieles mehr sind jetzt auch nun hier verfügbar."
+      }
+    ],
+    "topics": [
+      {
+        "title": "React is a terrible idea",
+        "href": "https://www.pandastrike.com/posts/20150311-react-bad-idea",
+        "time": "00:03:07",
+        "description": "Kaum ein weiteres Pamphlet ging so viral wie Panda Strikes Äpfel und Birnen Vergleich zu React. Wir schütteln verbal Köpfe und zeigen deutlich, warum dieser Beitrag auf so vielen Twitter-Zeitleisten kam, und warum die eigentlichen Inhalte mehr schlecht als recht sind. Man hört schon in den Schaunotizen den allgemeinen Konsens heraus, wie wir zu dem Thema stehen, und hinterfragen kritisch und reflektiert diverse Punkte aus dem Schrieb."
+      }
+    ],
+    "links": [
+      {
+        "title": "Lint like it’s 2015",
+        "href": "https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48",
+        "time": "00:46:40",
+        "description": "ES6, Babel, ESLint? So geht&#8217;s."
+      },
+      {
+        "title": "Introduction to fetch()",
+        "href": "http://updates.html5rocks.com/2015/03/introduction-to-fetch",
+        "time": "00:46:40",
+        "description": "fetch() (a.k.a das native $.ajax) gibt&#8217;s nun in Chrome, der Artikel erklärt die Funktionsweise."
+      },
+      {
+        "title": "Push Notifications on the open web",
+        "href": "http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web",
+        "time": "00:46:40",
+        "description": "Notification API und Web Push Notficiations jetzt in Chrome 42. Hier wird erklärt, wie man solche entwickelt."
+      },
+      {
+        "title": "Detecting injected content from third-parties on your site",
+        "href": "https://paul.kinlan.me/detecting-injected-content/",
+        "time": "00:46:40",
+        "description": "Der Titel sagt alles. Gute Sicherheitslehre von Paul Kinlan."
+      },
+      {
+        "title": "UI Animation Reviews: Web Navigation",
+        "href": "http://valhead.com/2015/03/10/screencast-ui-animation-reviews-web-navigation/",
+        "time": "00:46:40",
+        "description": "Wieder mal ein UX Thema. Von Val Head im Screencast."
+      }
+    ]
   }
 }
