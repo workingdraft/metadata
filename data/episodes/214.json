@@ -1,0 +1,83 @@
+{
+  "id": 214,
+  "date": "2015-04-08",
+  "duration": "00:57:49",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "trello": "https://trello.com/b/1b4IxX6T/revision-214",
+  "href": "http://workingdraft.de/214/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2728/0/wd-214.mp3",
+  "title": "Fetch, Zentralisierung, Links",
+  "description": "Anselm, Hans, Peter und Stefan versammelten sich in vorösterlicher Stimmung um in Eintracht mal wieder festzustellen, wie kaputt doch alles ist.",
+  "topics": [
+    {
+      "title": "That’s so fetch!",
+      "href": "http://jakearchibald.com/2015/thats-so-fetch/",
+      "time": "00:00:12",
+      "description": "Jake Archibald verteidigt die unter Beschuss geratene <a href=\"https://fetch.spec.whatwg.org/#fetch-api\">Fetch-API</a>. Fetch soll als Ersatz für das alterwürdige XHR dienen, wird aber unter anderem kritisert, weil man laufende Requests (noch) nicht abbrechen kann. Man <a href=\"https://github.com/whatwg/fetch/issues/27\">diskutiert darüber</a> und denkt über abbrechbare Promises nach, was Peter aufs heftigste kritisiert. <a href=\"https://github.com/substack/stream-handbook\">Streams</a> wärend vielleicht sinnvoller. Während das unfertige Fetch bereits in neue Noch-Nicht-Standards wie Service Worker <a href=\"https://github.com/slightlyoff/ServiceWorker/issues/625\">integriert wird</a>, <a href=\"https://twitter.com/dan_abramov/status/581552232287600642\">Object.observe() ziemlich kaputt ist</a> und <a href=\"https://github.com/lukehoban/ecmascript-asyncawait\">asynchrone Funktionen</a> (mit dem gleichen Nichtabbrechbarkeits-Problem wie Fetch) dank BabelJS bereits verwendet werden diskutieren wir, ob heutzutage nicht zu viel halbgares Zeug im Browser landet."
+    },
+    {
+      "title": "Zentralisierte dezentrale Versionskontrolle",
+      "time": "00:32:20",
+      "description": "In der Woche vor der Aufnahme dieser Revision war <a href=\"https://github.com/blog/1981-large-scale-ddos-attack-on-github-com\">Github tagelang aufgrund von DDOS-Angriffen kaum zu erreichen</a>. In Folge dessen war <a href=\"http://bower.io/\">Bower</a> kaputt, manche Builds funktionieren nicht&nbsp;&ndash; wir berichten von unseren Erfahrungen und machen uns Gedanken über mögliche Abhilfen. Man kann sich zwar ein eigenes Zentralrepository stricken (z.B. mit <a href=\"https://enterprise.github.com\">GitHub Enterprise</a> oder <a href=\"https://about.gitlab.com/\">GitLab</a>), muss da aber das Für und Wider sorgfältig abwägen."
+    }
+  ],
+  "links": [
+    {
+      "title": "Gulp Cheat Sheet",
+      "href": "https://github.com/osscafe/gulp-cheatsheet",
+      "time": "00:54:35",
+      "description": "Nomen est omen."
+    },
+    {
+      "title": "GitHub TODO > Issue Hook",
+      "href": "https://github.com/naholyr/github-todos/",
+      "time": "00:54:35",
+      "description": "Git-Hook, der TODO-Kommentare in Github-Issues verwandelt."
+    },
+    {
+      "title": "So Coded 2015",
+      "href": "http://2015-info.socoded.com/#about",
+      "time": "00:54:35",
+      "description": "Ist eine Konferenz, müsst ihr hin."
+    },
+    {
+      "title": "Front Trends Ticket von Hans",
+      "href": "https://twitter.com/drublic/status/582556498213117952",
+      "time": "00:54:35",
+      "description": "Hans hat Tickets zur <a href=\"http://2015.front-trends.com/\">Front-Trends 2015</a> übrig und will sie loswerden."
+    }
+  ]
+}

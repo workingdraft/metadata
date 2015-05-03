@@ -20239,5 +20239,240 @@
         "description": "Wieder mal ein UX Thema. Von Val Head im Screencast."
       }
     ]
+  },
+  "214": {
+    "id": 214,
+    "date": "2015-04-08",
+    "duration": "00:57:49",
+    "people": [
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Anselm Hannemann",
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
+      },
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      },
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      }
+    ],
+    "trello": "https://trello.com/b/1b4IxX6T/revision-214",
+    "href": "http://workingdraft.de/214/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2728/0/wd-214.mp3",
+    "title": "Fetch, Zentralisierung, Links",
+    "description": "Anselm, Hans, Peter und Stefan versammelten sich in vorösterlicher Stimmung um in Eintracht mal wieder festzustellen, wie kaputt doch alles ist.",
+    "topics": [
+      {
+        "title": "That’s so fetch!",
+        "href": "http://jakearchibald.com/2015/thats-so-fetch/",
+        "time": "00:00:12",
+        "description": "Jake Archibald verteidigt die unter Beschuss geratene <a href=\"https://fetch.spec.whatwg.org/#fetch-api\">Fetch-API</a>. Fetch soll als Ersatz für das alterwürdige XHR dienen, wird aber unter anderem kritisert, weil man laufende Requests (noch) nicht abbrechen kann. Man <a href=\"https://github.com/whatwg/fetch/issues/27\">diskutiert darüber</a> und denkt über abbrechbare Promises nach, was Peter aufs heftigste kritisiert. <a href=\"https://github.com/substack/stream-handbook\">Streams</a> wärend vielleicht sinnvoller. Während das unfertige Fetch bereits in neue Noch-Nicht-Standards wie Service Worker <a href=\"https://github.com/slightlyoff/ServiceWorker/issues/625\">integriert wird</a>, <a href=\"https://twitter.com/dan_abramov/status/581552232287600642\">Object.observe() ziemlich kaputt ist</a> und <a href=\"https://github.com/lukehoban/ecmascript-asyncawait\">asynchrone Funktionen</a> (mit dem gleichen Nichtabbrechbarkeits-Problem wie Fetch) dank BabelJS bereits verwendet werden diskutieren wir, ob heutzutage nicht zu viel halbgares Zeug im Browser landet."
+      },
+      {
+        "title": "Zentralisierte dezentrale Versionskontrolle",
+        "time": "00:32:20",
+        "description": "In der Woche vor der Aufnahme dieser Revision war <a href=\"https://github.com/blog/1981-large-scale-ddos-attack-on-github-com\">Github tagelang aufgrund von DDOS-Angriffen kaum zu erreichen</a>. In Folge dessen war <a href=\"http://bower.io/\">Bower</a> kaputt, manche Builds funktionieren nicht&nbsp;&ndash; wir berichten von unseren Erfahrungen und machen uns Gedanken über mögliche Abhilfen. Man kann sich zwar ein eigenes Zentralrepository stricken (z.B. mit <a href=\"https://enterprise.github.com\">GitHub Enterprise</a> oder <a href=\"https://about.gitlab.com/\">GitLab</a>), muss da aber das Für und Wider sorgfältig abwägen."
+      }
+    ],
+    "links": [
+      {
+        "title": "Gulp Cheat Sheet",
+        "href": "https://github.com/osscafe/gulp-cheatsheet",
+        "time": "00:54:35",
+        "description": "Nomen est omen."
+      },
+      {
+        "title": "GitHub TODO > Issue Hook",
+        "href": "https://github.com/naholyr/github-todos/",
+        "time": "00:54:35",
+        "description": "Git-Hook, der TODO-Kommentare in Github-Issues verwandelt."
+      },
+      {
+        "title": "So Coded 2015",
+        "href": "http://2015-info.socoded.com/#about",
+        "time": "00:54:35",
+        "description": "Ist eine Konferenz, müsst ihr hin."
+      },
+      {
+        "title": "Front Trends Ticket von Hans",
+        "href": "https://twitter.com/drublic/status/582556498213117952",
+        "time": "00:54:35",
+        "description": "Hans hat Tickets zur <a href=\"http://2015.front-trends.com/\">Front-Trends 2015</a> übrig und will sie loswerden."
+      }
+    ]
+  },
+  "215": {
+    "id": 215,
+    "date": "2015-04-25",
+    "duration": "00:44:14",
+    "people": [
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      },
+      {
+        "name": "Rodney Rehm",
+        "team": [
+          "2011-09-16"
+        ],
+        "twitter": "https://twitter.com/rodneyrehm",
+        "web": "http://rodneyrehm.de/en/"
+      }
+    ],
+    "trello": "https://trello.com/b/YuuRwflO/revision-215",
+    "href": "http://workingdraft.de/215/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2734/0/wd-215.mp3",
+    "title": "Einheitsbrei",
+    "description": "Schepp, Hans, Stefan und Rodney quatschen über rem, em, px und vh.",
+    "topics": [
+      {
+        "title": "R.I.P. REM, Viva CSS Reference Pixel!",
+        "href": "https://mindtheshift.wordpress.com/2015/04/02/r-i-p-rem-viva-css-reference-pixel/",
+        "time": "00:00:19",
+        "description": "In unserer Aufzeichnungswoche ist dieser Artikel halbwegs viral gegangen und auch bei uns am Schirm gelandet. In argwilliger Meinungsmache (hatten wir das nicht schon letztens?) werden Einheiten wie <em>rem</em> und <em>em</em> angefochten und der gute, alte Pixel wieder hochzelebriert. Wir <strike>feuern kampflustig mit allem dagegen, was wir haben</strike> setzen uns mit der Thematik kritisch auseinander und reflektieren, kommen auch zu dem Schluß dass nicht alles Schwarz-und-Weiß ist. <em>em</em> haben durchaus ihre Verwendung bei relativen Abständen, mit <em>rem</em> lassen sich responsive Fragestellungen äußerst elegant lösen. Einziger Nachteil: Die IEs kleinergleich 10 haben Probleme mit <em>rems</em> (und Rehms!) und Pseudo-Elementen. Darüber hinaus gibt uns Rodney Einblick in die Zusammenarbeit mit seinen Designern, die die fiktive Einheit &#8220;bu&#8221; erfunden haben, und streifen folgende Artikel und Videos:<p></p>\n<ul>\n<li><a href=\"https://vasilis.nl/nerd/you-should-understand-css-units/\">You should understand CSS Units</a></li>\n<li><a href=\"https://vimeo.com/52851511\">A pixel is not a pixel (Video)</a></li>\n<li><a href=\"https://vimeo.com/100523275\">The mobile viewports (Video)</a></li>\n</ul>"
+      },
+      {
+        "title": "Precise Control over Responsive Typography",
+        "href": "http://madebymike.com.au/writing/precise-control-responsive-typography/",
+        "time": "00:23:09",
+        "description": "Eine interessante Technik, die flüssiges Skalieren von Schriften auf unterschiedlichen Screengrößen erlaubt, gibt uns genug Zündstoff um die sehr beliebten, allerdings umfangreich kaputten Viewport Units wieder aufzuwärmen. Rodney erzählt als Inhaber des <a href=\"https://github.com/rodneyrehm/viewport-units-buggyfill\">Viewport Unit Buggyfills</a> von den Problemen, die seine Anwender haben, und Schepp kennt ein paar gefinkelte Techniken, wie man gut ohne JavaScript beim Fixen auskommt. Darüberhinaus philosophieren wir über Umsetzungsstabilität von Webstandards, den einen oder anderen Hack, und ab welcher Projektgröße die vertretbar sind. Denn: alles, was man halbherzig ausbügelt, kommt wohl irgendwann wieder auf einen zurück."
+      }
+    ],
+    "links": [
+      {
+        "title": "IE Diagnostics Adapter",
+        "href": "http://blogs.msdn.com/b/ie/archive/2015/04/02/introducing-the-ie-diagnostics-adapter-for-third-party-developer-tools.aspx",
+        "time": "00:39:31",
+        "description": "Mit den Chrome Dev Tools mal eben den IE debuggen? Microsoft (richtig gelesen!) macht&#8217;s möglich."
+      },
+      {
+        "title": "Oppoturnistic Encryption",
+        "href": "http://bitsup.blogspot.fr/2015/03/opportunistic-encryption-for-firefox.html",
+        "time": "00:39:31",
+        "description": "Wem halbgare Werbekampagnen mit gemeinsamen Wunsch nach HTTPS schonmal übel auf den Kopf gefallen sind, darf sich über folgende Lösung von Firefox freuen."
+      },
+      {
+        "title": "Annnotated version of the original jQuery release",
+        "href": "http://ejohn.org/blog/annotated-version-of-the-original-jquery-release/",
+        "time": "00:39:31",
+        "description": "John Resig kann nicht nur programmieren, sondern auch gut Geschichten erzählen. Hier kombiniert er mit Nähkästchenplauderei zur ersten jQuery Veröffentlichung."
+      },
+      {
+        "title": "Building better interfaces with SVG",
+        "href": "http://slides.com/sarasoueidan/building-better-interfaces-with-svg",
+        "time": "00:39:31",
+        "description": "Die Königin der Vektorgrafiken Sara Soueidan brilliert wieder einmal mit einem Slideset, dass sich gewaschen hat. Auch ohne Tonspur wertvoll!"
+      },
+      {
+        "title": "NPM Shrinkpack",
+        "href": "https://github.com/JamieMason/shrinkpack",
+        "time": "00:39:31",
+        "description": "NPM dependencies in ihrer Version einfrieren und gleichzeitig als Binärdatei für das eigene Team verfügbar machen, so die NPM Repository Abhängigkeit loswerden? Dieses Tool macht&#8217;s möglich."
+      }
+    ]
+  },
+  "216": {
+    "id": 216,
+    "date": "2015-05-01",
+    "duration": "00:46:58",
+    "people": [
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      },
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      }
+    ],
+    "trello": "https://trello.com/b/2N4vuUK5/revision-216",
+    "href": "http://workingdraft.de/216/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2741/0/wd-216.mp3",
+    "title": "Working Draft considered harmful",
+    "description": "Stefan, Schepp und Peter regen sich über das Thema der Woche auf und beenden die Sendung mit ein paar interessanten Links.",
+    "topics": [
+      {
+        "title": "jQuery considered harmful",
+        "href": "http://lea.verou.me/2015/04/jquery-considered-harmful/",
+        "time": "00:00:09",
+        "description": "Lea Verou liefert einen der weniger guten Anti-jQuery-Artikel der letzten Monate ab. Weil sie sich vor Wrapper-Elementen und Technologie-Lockdown fürchtet, schlägt sie vor auf jQuery zu verzichten. Dass jQuery <a href=\"https://docs.google.com/document/d/1LPaPA30bLUB_publLIMF0RlhdnPx_ePXm7oW02iiT6o/edit#\">zahllose Browserbugs (nicht nur im IE)</a> repariert und durch seine API und seine Plugins Webentwicklern das Leben sehr viel einfacher machen kann, wird übersehen&nbsp;&ndash; auch wenn es um jQuery-Alternativen wie <a href=\"http://zeptojs.com/\">Zepto</a> und <a href=\"https://github.com/filamentgroup/shoestring\">Shoestring</a> geht. Nur in Ausnahmefällen können wir uns vorstellen, auf jQuery zu verzichten; Schepp berichtet von einem solchen Ausnahmefall. Am Ende richtet sich unser Unverständnis auf Leas <a href=\"http://lea.verou.me/2015/04/idea-extending-native-dom-prototypes-without-collisions/\">Technik zur Erweiterung der DOM-Prototypen „ohne“ Kollisionen</a>. Dass das grundsätzlich eine dumme Idee ist <a href=\"http://perfectionkills.com/whats-wrong-with-extending-the-dom/\">ist seit Ewigkeiten bekannt</a> und würde selbst durch die <a href=\"http://www.peterkroener.de/ecmascript-6-symbols/\">Symbols in ECMAScript&nbsp;6</a> nur ein wenig besser."
+      }
+    ],
+    "links": [
+      {
+        "title": "Git Large File Storage",
+        "href": "https://git-lfs.github.com/",
+        "time": "00:43:48",
+        "description": "Git-Erweiterung für große Binärdateien (PSD etc)."
+      },
+      {
+        "title": "Understanding the Real Advantages of Using ESLint",
+        "href": "http://rangle.io/blog/understanding-the-real-advantages-of-using-eslint/",
+        "time": "00:43:48",
+        "description": "Wie sich ESLint zu JSHint verhält und warum es rockt."
+      },
+      {
+        "title": "Gulp-Rezepte",
+        "href": "http://fettblog.eu/gulp-recipes-part-1/",
+        "time": "00:43:48",
+        "description": "Gulp-Guru Stefan sammelt Lösungen für häufige Probleme mit dem trendigsten Buildsystem aller Zeiten."
+      }
+    ]
   }
 }

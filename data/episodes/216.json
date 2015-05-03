@@ -1,0 +1,63 @@
+{
+  "id": 216,
+  "date": "2015-05-01",
+  "duration": "00:46:58",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "trello": "https://trello.com/b/2N4vuUK5/revision-216",
+  "href": "http://workingdraft.de/216/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2741/0/wd-216.mp3",
+  "title": "Working Draft considered harmful",
+  "description": "Stefan, Schepp und Peter regen sich über das Thema der Woche auf und beenden die Sendung mit ein paar interessanten Links.",
+  "topics": [
+    {
+      "title": "jQuery considered harmful",
+      "href": "http://lea.verou.me/2015/04/jquery-considered-harmful/",
+      "time": "00:00:09",
+      "description": "Lea Verou liefert einen der weniger guten Anti-jQuery-Artikel der letzten Monate ab. Weil sie sich vor Wrapper-Elementen und Technologie-Lockdown fürchtet, schlägt sie vor auf jQuery zu verzichten. Dass jQuery <a href=\"https://docs.google.com/document/d/1LPaPA30bLUB_publLIMF0RlhdnPx_ePXm7oW02iiT6o/edit#\">zahllose Browserbugs (nicht nur im IE)</a> repariert und durch seine API und seine Plugins Webentwicklern das Leben sehr viel einfacher machen kann, wird übersehen&nbsp;&ndash; auch wenn es um jQuery-Alternativen wie <a href=\"http://zeptojs.com/\">Zepto</a> und <a href=\"https://github.com/filamentgroup/shoestring\">Shoestring</a> geht. Nur in Ausnahmefällen können wir uns vorstellen, auf jQuery zu verzichten; Schepp berichtet von einem solchen Ausnahmefall. Am Ende richtet sich unser Unverständnis auf Leas <a href=\"http://lea.verou.me/2015/04/idea-extending-native-dom-prototypes-without-collisions/\">Technik zur Erweiterung der DOM-Prototypen „ohne“ Kollisionen</a>. Dass das grundsätzlich eine dumme Idee ist <a href=\"http://perfectionkills.com/whats-wrong-with-extending-the-dom/\">ist seit Ewigkeiten bekannt</a> und würde selbst durch die <a href=\"http://www.peterkroener.de/ecmascript-6-symbols/\">Symbols in ECMAScript&nbsp;6</a> nur ein wenig besser."
+    }
+  ],
+  "links": [
+    {
+      "title": "Git Large File Storage",
+      "href": "https://git-lfs.github.com/",
+      "time": "00:43:48",
+      "description": "Git-Erweiterung für große Binärdateien (PSD etc)."
+    },
+    {
+      "title": "Understanding the Real Advantages of Using ESLint",
+      "href": "http://rangle.io/blog/understanding-the-real-advantages-of-using-eslint/",
+      "time": "00:43:48",
+      "description": "Wie sich ESLint zu JSHint verhält und warum es rockt."
+    },
+    {
+      "title": "Gulp-Rezepte",
+      "href": "http://fettblog.eu/gulp-recipes-part-1/",
+      "time": "00:43:48",
+      "description": "Gulp-Guru Stefan sammelt Lösungen für häufige Probleme mit dem trendigsten Buildsystem aller Zeiten."
+    }
+  ]
+}

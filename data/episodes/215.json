@@ -1,0 +1,89 @@
+{
+  "id": 215,
+  "date": "2015-04-25",
+  "duration": "00:44:14",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    }
+  ],
+  "trello": "https://trello.com/b/YuuRwflO/revision-215",
+  "href": "http://workingdraft.de/215/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2734/0/wd-215.mp3",
+  "title": "Einheitsbrei",
+  "description": "Schepp, Hans, Stefan und Rodney quatschen über rem, em, px und vh.",
+  "topics": [
+    {
+      "title": "R.I.P. REM, Viva CSS Reference Pixel!",
+      "href": "https://mindtheshift.wordpress.com/2015/04/02/r-i-p-rem-viva-css-reference-pixel/",
+      "time": "00:00:19",
+      "description": "In unserer Aufzeichnungswoche ist dieser Artikel halbwegs viral gegangen und auch bei uns am Schirm gelandet. In argwilliger Meinungsmache (hatten wir das nicht schon letztens?) werden Einheiten wie <em>rem</em> und <em>em</em> angefochten und der gute, alte Pixel wieder hochzelebriert. Wir <strike>feuern kampflustig mit allem dagegen, was wir haben</strike> setzen uns mit der Thematik kritisch auseinander und reflektieren, kommen auch zu dem Schluß dass nicht alles Schwarz-und-Weiß ist. <em>em</em> haben durchaus ihre Verwendung bei relativen Abständen, mit <em>rem</em> lassen sich responsive Fragestellungen äußerst elegant lösen. Einziger Nachteil: Die IEs kleinergleich 10 haben Probleme mit <em>rems</em> (und Rehms!) und Pseudo-Elementen. Darüber hinaus gibt uns Rodney Einblick in die Zusammenarbeit mit seinen Designern, die die fiktive Einheit &#8220;bu&#8221; erfunden haben, und streifen folgende Artikel und Videos:<p></p>\n<ul>\n<li><a href=\"https://vasilis.nl/nerd/you-should-understand-css-units/\">You should understand CSS Units</a></li>\n<li><a href=\"https://vimeo.com/52851511\">A pixel is not a pixel (Video)</a></li>\n<li><a href=\"https://vimeo.com/100523275\">The mobile viewports (Video)</a></li>\n</ul>"
+    },
+    {
+      "title": "Precise Control over Responsive Typography",
+      "href": "http://madebymike.com.au/writing/precise-control-responsive-typography/",
+      "time": "00:23:09",
+      "description": "Eine interessante Technik, die flüssiges Skalieren von Schriften auf unterschiedlichen Screengrößen erlaubt, gibt uns genug Zündstoff um die sehr beliebten, allerdings umfangreich kaputten Viewport Units wieder aufzuwärmen. Rodney erzählt als Inhaber des <a href=\"https://github.com/rodneyrehm/viewport-units-buggyfill\">Viewport Unit Buggyfills</a> von den Problemen, die seine Anwender haben, und Schepp kennt ein paar gefinkelte Techniken, wie man gut ohne JavaScript beim Fixen auskommt. Darüberhinaus philosophieren wir über Umsetzungsstabilität von Webstandards, den einen oder anderen Hack, und ab welcher Projektgröße die vertretbar sind. Denn: alles, was man halbherzig ausbügelt, kommt wohl irgendwann wieder auf einen zurück."
+    }
+  ],
+  "links": [
+    {
+      "title": "IE Diagnostics Adapter",
+      "href": "http://blogs.msdn.com/b/ie/archive/2015/04/02/introducing-the-ie-diagnostics-adapter-for-third-party-developer-tools.aspx",
+      "time": "00:39:31",
+      "description": "Mit den Chrome Dev Tools mal eben den IE debuggen? Microsoft (richtig gelesen!) macht&#8217;s möglich."
+    },
+    {
+      "title": "Oppoturnistic Encryption",
+      "href": "http://bitsup.blogspot.fr/2015/03/opportunistic-encryption-for-firefox.html",
+      "time": "00:39:31",
+      "description": "Wem halbgare Werbekampagnen mit gemeinsamen Wunsch nach HTTPS schonmal übel auf den Kopf gefallen sind, darf sich über folgende Lösung von Firefox freuen."
+    },
+    {
+      "title": "Annnotated version of the original jQuery release",
+      "href": "http://ejohn.org/blog/annotated-version-of-the-original-jquery-release/",
+      "time": "00:39:31",
+      "description": "John Resig kann nicht nur programmieren, sondern auch gut Geschichten erzählen. Hier kombiniert er mit Nähkästchenplauderei zur ersten jQuery Veröffentlichung."
+    },
+    {
+      "title": "Building better interfaces with SVG",
+      "href": "http://slides.com/sarasoueidan/building-better-interfaces-with-svg",
+      "time": "00:39:31",
+      "description": "Die Königin der Vektorgrafiken Sara Soueidan brilliert wieder einmal mit einem Slideset, dass sich gewaschen hat. Auch ohne Tonspur wertvoll!"
+    },
+    {
+      "title": "NPM Shrinkpack",
+      "href": "https://github.com/JamieMason/shrinkpack",
+      "time": "00:39:31",
+      "description": "NPM dependencies in ihrer Version einfrieren und gleichzeitig als Binärdatei für das eigene Team verfügbar machen, so die NPM Repository Abhängigkeit loswerden? Dieses Tool macht&#8217;s möglich."
+    }
+  ]
+}
