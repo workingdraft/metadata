@@ -1,0 +1,48 @@
+{
+  "id": 219,
+  "date": "2015-05-24",
+  "duration": "00:16:15",
+  "people": [
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Sara Soueidan",
+      "twitter": "https://twitter.com/SaraSoueidan"
+    }
+  ],
+  "trello": "https://trello.com/b/dEg8riBE/revision-219",
+  "href": "http://workingdraft.de/219/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2765/0/wd-219.mp3",
+  "title": "Interview mit Sara Soueidan",
+  "description": "Natürlich waren wir auch dieses Mal wieder auf der (grandiosen) <a href=\"http://beyondtellerrand.com/events/duesseldorf-2015/\">beyond tellerrand // Düsseldorf</a> und haben uns wie gehabt einen der Sprecher herausgeangelt und zu einem Interview genötigt :)<br>\nGetroffen hat es niemanden geringeres als <a href=\"http://sarasoueidan.com/\">Sara Soueidan</a>, der CSS- und SVG-Shooting-Star des letzten Jahres. Wir sprachen allerdings genau nicht über technische Themen, sondern interessierten uns viel mehr für ihren Hintergrund.\n\n<img src=\"http://workingdraft.de/wp-content/uploads/2015/05/CEzVLq8XIAAAbgq.jpg\" alt=\"Working Draft im Interview mit Sara Soueidan\" width=\"1024\" height=\"768\" class=\"alignleft size-full wp-image-2767\"><br>\nFoto mit freundlicher Genehmigung von Gunnar Bittersmann"
+}

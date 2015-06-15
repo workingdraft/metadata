@@ -1,0 +1,41 @@
+{
+  "id": 220,
+  "date": "2015-05-25",
+  "duration": "01:04:54",
+  "people": [
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    }
+  ],
+  "trello": "https://trello.com/b/zrUk3pRK/revision-220",
+  "href": "http://workingdraft.de/220/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2757/0/wd-220.mp3",
+  "title": "Tools are [not] the Problem",
+  "description": "<dt>[00:00:14] <strong>Tools are [not] the Problem</strong></dt>\n<dd>Schepp und Anselm debattieren zu zweit mit kleinen Abschweifungen über den Artikel von <a href=\"http://www.quirksmode.org/blog/archives/2015/05/tools_dont_solv.html\">Peter Paul Koch</a>, die Gegendarstellung von <a href=\"https://medium.com/@sebmarkbage/tooling-is-not-the-problem-of-the-web-cb0ae1fdbbc6\">Sebastian Markbåge</a> bezüglich der Facebook Instant Articles Ankündigung, zu der auch <a href=\"http://timkadlec.com/2015/05/choosing-performance/\">Tim Kadlec im Bezug auf Performance</a> Stellung nimmt.<br>\n    Wir fragen uns, was der richtige Weg ist, warum es so unterschiedliche Meinungen zu dem Thema gibt und wie der Missstand denn zu beheben wäre.\n  </dd>\n<dt>[00:37:33] <strong>SVG Icon <del>Systeme</del> Probleme</strong></dt>\n<dd>Wir nehmen den Artikel <a href=\"http://damonbauer.me/implementing-svg/\">Implementing an SVG Icons System</a> von Damon Bauer zum Anlass und sprechen über SVG. Anselm erzählt von Iconfonts, dem Wechsel zu SVG und etlichen kleinen Problemchen, die er beim Einsatz gefunden hat. Schepp pflichtet bei, wir stellen aber auch fest, dass SVG einfach super coole Sachen wie Vererbungen kann, die wir super nützlich finden. Außerdem erwähnten wir die Grunt-Tasks <a href=\"https://github.com/sindresorhus/grunt-svgmin\">grunt-svgmin</a> und <a href=\"https://github.com/jkphl/grunt-svg-sprite\">grunt-svg-sprite</a>.\n  </dd>",
+  "links": [
+    {
+      "title": "Lovefield",
+      "href": "https://github.com/google/lovefield",
+      "time": "01:01:15",
+      "description": "SQL-ähnliche Syntax schreiben schreiben und JavaScript IndexedDB Queries herausbekommen? Das macht Lovefield für euch. Leider nicht ganz schlank als Library."
+    },
+    {
+      "title": "Windows 95",
+      "href": "http://win95.ajf.me/",
+      "time": "01:01:15",
+      "description": "Yeah, Windows 95 läuft nun im Browser!"
+    }
+  ]
+}

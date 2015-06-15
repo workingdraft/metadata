@@ -1,0 +1,64 @@
+{
+  "id": 217,
+  "date": "2015-05-04",
+  "duration": "00:42:33",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "trello": "https://trello.com/b/HqUcM6l8/revision-217",
+  "href": "http://workingdraft.de/217/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2743/0/wd-217.mp3",
+  "title": "Offline First und Links",
+  "description": "Da diese Woche nichts spannendes passiert war, ließen Peter, Hans und Anselm den Schepp einfach ein wenig von seinem aktuellen Offline-First-Projekt erzählen.",
+  "topics": [
+    {
+      "title": "Offline First",
+      "time": "00:00:11",
+      "description": "Schepp bastelt eine „appige“ Mobile-Variante seines Projektes <a href=\"https://salzundbrot.com/\">Salz&amp;Brot</a> und verfolgt dabei den <a href=\"http://offlinefirst.org/\">Offline-First-Gedanken</a>. Dafür verwendet er unter anderem den <a href=\"http://www.w3.org/TR/html5/browsers.html#offline\">Application Cache</a> in Kombination mit <a href=\"https://www.npmjs.com/package/grunt-appcache\">grunt-appcache</a> und den Scripts aus einem <a href=\"http://www.html5rocks.com/en/tutorials/appcache/beginner/?redirect_from_locale=fr\">Artikel von HTML5 Rocks</a>.Für den Daten-Sync wird gechunktes JSON (via <a href=\"http://oboejs.com/\">Oboe.js</a>) gestreamt und (aus einer Reihe von Gründen und mit teilweiser <a href=\"http://pieroxy.net/blog/pages/lz-string/index.html\">Kompression</a>) mit <a href=\"http://www.w3.org/TR/webstorage/\">localStorage</a> gespeichert, nicht mit <a href=\"http://www.raymondcamden.com/2015/04/17/indexeddb-and-limits\">IndexedDB</a>. Desweiteren kommen <a href=\"https://angularjs.org/\">AngularJS</a>, jQuery und jQuery-Plugins zum Einsatz. Für die Zukunft plant Schepp, den Suchalgorithmus in einen <a href=\"http://dev.w3.org/html5/workers/\">Web Worker</a> auszulagern, Optimierungen mit der <a href=\"http://www.w3.org/TR/page-visibility/\">Page Visibility API</a> einzubauen, <a href=\"https://developer.chrome.com/multidevice/android/installtohomescreen\">add to homescreen in Chrome</a> zu nutzen und natürlich <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorker_API\">Service Worker</a> und <a href=\"http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web\">Push Notfications</a> zu Felde zu führen."
+    }
+  ],
+  "links": [
+    {
+      "title": "The WebKit Open Source Project – Web Platform Status",
+      "href": "http://www.webkit.org/status.html",
+      "time": "00:40:17",
+      "description": "Status diverser Technologien in der Webkit-Engine, ganz wie vom IE-Team vorgemacht."
+    },
+    {
+      "title": "mdo-ular CSS",
+      "href": "http://jqueryuk.com/2015/videos.php?s=mdo-ular-css",
+      "time": "00:40:17",
+      "description": "Video eines kurzen Talks über <q lang=\"en\">writing better CSS with fewer, more flexible guidelines that help put the focus on what’s between the curly braces.</q>."
+    }
+  ]
+}

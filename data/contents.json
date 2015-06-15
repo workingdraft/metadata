@@ -20474,5 +20474,323 @@
         "description": "Gulp-Guru Stefan sammelt Lösungen für häufige Probleme mit dem trendigsten Buildsystem aller Zeiten."
       }
     ]
+  },
+  "217": {
+    "id": 217,
+    "date": "2015-05-04",
+    "duration": "00:42:33",
+    "people": [
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      {
+        "name": "Anselm Hannemann",
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
+      },
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      }
+    ],
+    "trello": "https://trello.com/b/HqUcM6l8/revision-217",
+    "href": "http://workingdraft.de/217/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2743/0/wd-217.mp3",
+    "title": "Offline First und Links",
+    "description": "Da diese Woche nichts spannendes passiert war, ließen Peter, Hans und Anselm den Schepp einfach ein wenig von seinem aktuellen Offline-First-Projekt erzählen.",
+    "topics": [
+      {
+        "title": "Offline First",
+        "time": "00:00:11",
+        "description": "Schepp bastelt eine „appige“ Mobile-Variante seines Projektes <a href=\"https://salzundbrot.com/\">Salz&amp;Brot</a> und verfolgt dabei den <a href=\"http://offlinefirst.org/\">Offline-First-Gedanken</a>. Dafür verwendet er unter anderem den <a href=\"http://www.w3.org/TR/html5/browsers.html#offline\">Application Cache</a> in Kombination mit <a href=\"https://www.npmjs.com/package/grunt-appcache\">grunt-appcache</a> und den Scripts aus einem <a href=\"http://www.html5rocks.com/en/tutorials/appcache/beginner/?redirect_from_locale=fr\">Artikel von HTML5 Rocks</a>.Für den Daten-Sync wird gechunktes JSON (via <a href=\"http://oboejs.com/\">Oboe.js</a>) gestreamt und (aus einer Reihe von Gründen und mit teilweiser <a href=\"http://pieroxy.net/blog/pages/lz-string/index.html\">Kompression</a>) mit <a href=\"http://www.w3.org/TR/webstorage/\">localStorage</a> gespeichert, nicht mit <a href=\"http://www.raymondcamden.com/2015/04/17/indexeddb-and-limits\">IndexedDB</a>. Desweiteren kommen <a href=\"https://angularjs.org/\">AngularJS</a>, jQuery und jQuery-Plugins zum Einsatz. Für die Zukunft plant Schepp, den Suchalgorithmus in einen <a href=\"http://dev.w3.org/html5/workers/\">Web Worker</a> auszulagern, Optimierungen mit der <a href=\"http://www.w3.org/TR/page-visibility/\">Page Visibility API</a> einzubauen, <a href=\"https://developer.chrome.com/multidevice/android/installtohomescreen\">add to homescreen in Chrome</a> zu nutzen und natürlich <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorker_API\">Service Worker</a> und <a href=\"http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web\">Push Notfications</a> zu Felde zu führen."
+      }
+    ],
+    "links": [
+      {
+        "title": "The WebKit Open Source Project – Web Platform Status",
+        "href": "http://www.webkit.org/status.html",
+        "time": "00:40:17",
+        "description": "Status diverser Technologien in der Webkit-Engine, ganz wie vom IE-Team vorgemacht."
+      },
+      {
+        "title": "mdo-ular CSS",
+        "href": "http://jqueryuk.com/2015/videos.php?s=mdo-ular-css",
+        "time": "00:40:17",
+        "description": "Video eines kurzen Talks über <q lang=\"en\">writing better CSS with fewer, more flexible guidelines that help put the focus on what’s between the curly braces.</q>."
+      }
+    ]
+  },
+  "218": {
+    "id": 218,
+    "date": "2015-05-23",
+    "duration": "00:43:05",
+    "people": [
+      {
+        "name": "Rodney Rehm",
+        "team": [
+          "2011-09-16"
+        ],
+        "twitter": "https://twitter.com/rodneyrehm",
+        "web": "http://rodneyrehm.de/en/"
+      },
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      },
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      }
+    ],
+    "trello": "https://trello.com/b/m1mCaC6j/revision-218",
+    "href": "http://workingdraft.de/218/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2762/0/wd-218.mp3",
+    "title": "ECMAScript 6",
+    "description": "Dieses Mal haben sich Peter, Hans, Rodney und Stefan zusammengefunden, um ein wenig von der Arbeit mit ECMAScript 6 zu berichten.",
+    "topics": [
+      {
+        "title": "ES6 in der Praxis",
+        "time": "00:00:10",
+        "description": "Hans und Stefan berichten davon, wie ihre Erfahrungen mit dem Einsatz von ES6. Es geht dabei um Tools, und inwiefern es einem im Vergleich zum Vorgänger das Leben einfacher macht. Darüberhinaus reden wir auch darüber, wie zweckmäßig der Einsatz von ES6 heute schon ist und wie spekulieren darüber, wie lange es wohl dauern wird, bis es im Alltag angekommen sein wird."
+      },
+      {
+        "title": "ES6 Module-Loader sind wieder gestrichen",
+        "href": "https://github.com/lukehoban/es6features/issues/75#issuecomment-97763850",
+        "time": "00:25:36",
+        "description": "Nicht undiskutiert bleiben durfte auch die Tatsache, dass d<a href=\"https://github.com/tc39/tc39-notes/blob/master/es6/2014-09/sept-25.md#loader-pipeline\">ie TC39 in letzter Sekunde in Sachen ES6 Module-Loader einen Rückzieher gemacht hat</a>, und JavaScript damit weiterhin ohne einen solchen dastehen wird. Wir reden über die möglichen Gründe für diesen Schritt und darüber, welche Möglichkeiten man derzeit für&#8217;s Module Laden hat. Dabei fällt auch das Stichwort <a href=\"https://github.com/umdjs/umd\">&#8222;Universal Module Definition&#8220;</a>."
+      }
+    ],
+    "links": [
+      {
+        "title": "ramjet",
+        "href": "http://www.rich-harris.co.uk/ramjet/",
+        "time": "00:40:12",
+        "description": "&#8222;Ramjet makes it looks as though one DOM element is capable of transforming into another, no matter where the two elements sit in the DOM tree.&#8220; WOW!"
+      },
+      {
+        "title": "Git-Extras",
+        "href": "https://github.com/tj/git-extras",
+        "time": "00:40:12",
+        "description": "Hilfereiche Toolsammlung für Git Nr. 1"
+      },
+      {
+        "title": "Hub",
+        "href": "https://github.com/github/hub",
+        "time": "00:40:12",
+        "description": "Hilfereiche Toolsammlung für Git Nr. 2"
+      },
+      {
+        "title": "LanguageTool",
+        "href": "https://languagetool.org/",
+        "time": "00:40:12",
+        "description": "Ein Open Source Grammatikfehler-Suchprogramm"
+      }
+    ]
+  },
+  "219": {
+    "id": 219,
+    "date": "2015-05-24",
+    "duration": "00:16:15",
+    "people": [
+      {
+        "name": "Rodney Rehm",
+        "team": [
+          "2011-09-16"
+        ],
+        "twitter": "https://twitter.com/rodneyrehm",
+        "web": "http://rodneyrehm.de/en/"
+      },
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      },
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Anselm Hannemann",
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
+      },
+      {
+        "name": "Sara Soueidan",
+        "twitter": "https://twitter.com/SaraSoueidan"
+      }
+    ],
+    "trello": "https://trello.com/b/dEg8riBE/revision-219",
+    "href": "http://workingdraft.de/219/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2765/0/wd-219.mp3",
+    "title": "Interview mit Sara Soueidan",
+    "description": "Natürlich waren wir auch dieses Mal wieder auf der (grandiosen) <a href=\"http://beyondtellerrand.com/events/duesseldorf-2015/\">beyond tellerrand // Düsseldorf</a> und haben uns wie gehabt einen der Sprecher herausgeangelt und zu einem Interview genötigt :)<br>\nGetroffen hat es niemanden geringeres als <a href=\"http://sarasoueidan.com/\">Sara Soueidan</a>, der CSS- und SVG-Shooting-Star des letzten Jahres. Wir sprachen allerdings genau nicht über technische Themen, sondern interessierten uns viel mehr für ihren Hintergrund.\n\n<img src=\"http://workingdraft.de/wp-content/uploads/2015/05/CEzVLq8XIAAAbgq.jpg\" alt=\"Working Draft im Interview mit Sara Soueidan\" width=\"1024\" height=\"768\" class=\"alignleft size-full wp-image-2767\"><br>\nFoto mit freundlicher Genehmigung von Gunnar Bittersmann"
+  },
+  "220": {
+    "id": 220,
+    "date": "2015-05-25",
+    "duration": "01:04:54",
+    "people": [
+      {
+        "name": "Anselm Hannemann",
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
+      },
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      }
+    ],
+    "trello": "https://trello.com/b/zrUk3pRK/revision-220",
+    "href": "http://workingdraft.de/220/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2757/0/wd-220.mp3",
+    "title": "Tools are [not] the Problem",
+    "description": "<dt>[00:00:14] <strong>Tools are [not] the Problem</strong></dt>\n<dd>Schepp und Anselm debattieren zu zweit mit kleinen Abschweifungen über den Artikel von <a href=\"http://www.quirksmode.org/blog/archives/2015/05/tools_dont_solv.html\">Peter Paul Koch</a>, die Gegendarstellung von <a href=\"https://medium.com/@sebmarkbage/tooling-is-not-the-problem-of-the-web-cb0ae1fdbbc6\">Sebastian Markbåge</a> bezüglich der Facebook Instant Articles Ankündigung, zu der auch <a href=\"http://timkadlec.com/2015/05/choosing-performance/\">Tim Kadlec im Bezug auf Performance</a> Stellung nimmt.<br>\n    Wir fragen uns, was der richtige Weg ist, warum es so unterschiedliche Meinungen zu dem Thema gibt und wie der Missstand denn zu beheben wäre.\n  </dd>\n<dt>[00:37:33] <strong>SVG Icon <del>Systeme</del> Probleme</strong></dt>\n<dd>Wir nehmen den Artikel <a href=\"http://damonbauer.me/implementing-svg/\">Implementing an SVG Icons System</a> von Damon Bauer zum Anlass und sprechen über SVG. Anselm erzählt von Iconfonts, dem Wechsel zu SVG und etlichen kleinen Problemchen, die er beim Einsatz gefunden hat. Schepp pflichtet bei, wir stellen aber auch fest, dass SVG einfach super coole Sachen wie Vererbungen kann, die wir super nützlich finden. Außerdem erwähnten wir die Grunt-Tasks <a href=\"https://github.com/sindresorhus/grunt-svgmin\">grunt-svgmin</a> und <a href=\"https://github.com/jkphl/grunt-svg-sprite\">grunt-svg-sprite</a>.\n  </dd>",
+    "links": [
+      {
+        "title": "Lovefield",
+        "href": "https://github.com/google/lovefield",
+        "time": "01:01:15",
+        "description": "SQL-ähnliche Syntax schreiben schreiben und JavaScript IndexedDB Queries herausbekommen? Das macht Lovefield für euch. Leider nicht ganz schlank als Library."
+      },
+      {
+        "title": "Windows 95",
+        "href": "http://win95.ajf.me/",
+        "time": "01:01:15",
+        "description": "Yeah, Windows 95 läuft nun im Browser!"
+      }
+    ]
+  },
+  "221": {
+    "id": 221,
+    "date": "2015-05-25",
+    "duration": "01:04:54",
+    "people": [
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      },
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      }
+    ],
+    "trello": "https://trello.com/b/Nl2n4CrM/revision-221",
+    "href": "http://workingdraft.de/221/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2787/0/wd-221.mp3",
+    "title": "Pattern libraries, Styleguides und PatternLab",
+    "news": [
+      {
+        "title": "Please update Picturefill",
+        "href": "https://css-tricks.com/please-update-picturefill/",
+        "time": "00:00:39",
+        "description": "Ein kleines Public Service Annoucement der Responsive Images Group: Holt euch den neuen Picturefill. Der ist den Standards nahe und rüstet dort auf wo&#8217;s nötig ist.."
+      }
+    ],
+    "topics": [
+      {
+        "title": "PatternLab",
+        "href": "http://demo.patternlab.io/",
+        "time": "00:01:33",
+        "description": "Stefan hat&#8217;s schon bei einigen Projekten im Einsatz, Schepp hat gerade den Intensivkurs vom Großmeister Brad Frost selbst absolviert: PatternLab, das Tool, dass allen Beteiligten eines Projektes hilft Designs, Technik und Responsiveness besser zu verstehen und zu managen. Wir erzählen von unseren Erfahrungen mit dem Tool und der Atomic Design Herangehensweise, und räumen mit Vorurteilen und Missverständnissen auf. In Summe also ein &#8222;Was tut es, und wozu ist das jetzt gut?&#8220;. Darüber hinaus erzählt Stefan, wie er das Grundprinzip in ein eigenes Tool verwandeln konnte, dass näher an dem von ihm verwendeten CMS liegt, und auch dort eine nötige Brücke im Entwicklungsfluss stellt."
+      }
+    ],
+    "links": [
+      {
+        "title": "Art directing SVG using Viewbox",
+        "href": "http://sarasoueidan.com/blog/svg-art-direction-using-viewbox/",
+        "time": "00:38:25",
+        "description": "Ein SVG Artikel über das viewbox-Attribut. Natürlich von Sara Soueidan."
+      },
+      {
+        "title": "Mosaic Academy",
+        "href": "http://mosaic.academy/",
+        "time": "00:38:25",
+        "description": "Schnellcheck für eure JavaScript Kenntnisse. Gut für Training und Verständnis.."
+      },
+      {
+        "title": "text-rendering: optimizeSpeed vs optimizeLegibility",
+        "href": "http://bocoup.com/weblog/text-rendering/",
+        "time": "00:38:25",
+        "description": "Schöneres Font-Rendering wirkt sich massiv auf die perceived performance der Seite aus."
+      },
+      {
+        "title": "Canvas Recording",
+        "href": "https://github.com/muaz-khan/WebRTC-Experiment/tree/master/RecordRTC/Canvas-Recording",
+        "time": "00:38:25",
+        "description": "Browserscreen in einer Canvas aufzeichnen und über Web-RTC durch die Gegend schicken? Geht anscheinend."
+      },
+      {
+        "title": "Galen",
+        "href": "http://galenframework.com/",
+        "time": "00:38:25",
+        "description": "CSS Tests mit toller Beschreibungssprache. Zwar Selenium, aber gute Idee."
+      }
+    ]
   }
 }

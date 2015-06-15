@@ -1,0 +1,82 @@
+{
+  "id": 221,
+  "date": "2015-05-25",
+  "duration": "01:04:54",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    }
+  ],
+  "trello": "https://trello.com/b/Nl2n4CrM/revision-221",
+  "href": "http://workingdraft.de/221/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2787/0/wd-221.mp3",
+  "title": "Pattern libraries, Styleguides und PatternLab",
+  "news": [
+    {
+      "title": "Please update Picturefill",
+      "href": "https://css-tricks.com/please-update-picturefill/",
+      "time": "00:00:39",
+      "description": "Ein kleines Public Service Annoucement der Responsive Images Group: Holt euch den neuen Picturefill. Der ist den Standards nahe und rüstet dort auf wo&#8217;s nötig ist.."
+    }
+  ],
+  "topics": [
+    {
+      "title": "PatternLab",
+      "href": "http://demo.patternlab.io/",
+      "time": "00:01:33",
+      "description": "Stefan hat&#8217;s schon bei einigen Projekten im Einsatz, Schepp hat gerade den Intensivkurs vom Großmeister Brad Frost selbst absolviert: PatternLab, das Tool, dass allen Beteiligten eines Projektes hilft Designs, Technik und Responsiveness besser zu verstehen und zu managen. Wir erzählen von unseren Erfahrungen mit dem Tool und der Atomic Design Herangehensweise, und räumen mit Vorurteilen und Missverständnissen auf. In Summe also ein &#8222;Was tut es, und wozu ist das jetzt gut?&#8220;. Darüber hinaus erzählt Stefan, wie er das Grundprinzip in ein eigenes Tool verwandeln konnte, dass näher an dem von ihm verwendeten CMS liegt, und auch dort eine nötige Brücke im Entwicklungsfluss stellt."
+    }
+  ],
+  "links": [
+    {
+      "title": "Art directing SVG using Viewbox",
+      "href": "http://sarasoueidan.com/blog/svg-art-direction-using-viewbox/",
+      "time": "00:38:25",
+      "description": "Ein SVG Artikel über das viewbox-Attribut. Natürlich von Sara Soueidan."
+    },
+    {
+      "title": "Mosaic Academy",
+      "href": "http://mosaic.academy/",
+      "time": "00:38:25",
+      "description": "Schnellcheck für eure JavaScript Kenntnisse. Gut für Training und Verständnis.."
+    },
+    {
+      "title": "text-rendering: optimizeSpeed vs optimizeLegibility",
+      "href": "http://bocoup.com/weblog/text-rendering/",
+      "time": "00:38:25",
+      "description": "Schöneres Font-Rendering wirkt sich massiv auf die perceived performance der Seite aus."
+    },
+    {
+      "title": "Canvas Recording",
+      "href": "https://github.com/muaz-khan/WebRTC-Experiment/tree/master/RecordRTC/Canvas-Recording",
+      "time": "00:38:25",
+      "description": "Browserscreen in einer Canvas aufzeichnen und über Web-RTC durch die Gegend schicken? Geht anscheinend."
+    },
+    {
+      "title": "Galen",
+      "href": "http://galenframework.com/",
+      "time": "00:38:25",
+      "description": "CSS Tests mit toller Beschreibungssprache. Zwar Selenium, aber gute Idee."
+    }
+  ]
+}

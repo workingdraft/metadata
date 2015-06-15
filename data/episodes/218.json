@@ -1,0 +1,83 @@
+{
+  "id": 218,
+  "date": "2015-05-23",
+  "duration": "00:43:05",
+  "people": [
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "trello": "https://trello.com/b/m1mCaC6j/revision-218",
+  "href": "http://workingdraft.de/218/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2762/0/wd-218.mp3",
+  "title": "ECMAScript 6",
+  "description": "Dieses Mal haben sich Peter, Hans, Rodney und Stefan zusammengefunden, um ein wenig von der Arbeit mit ECMAScript 6 zu berichten.",
+  "topics": [
+    {
+      "title": "ES6 in der Praxis",
+      "time": "00:00:10",
+      "description": "Hans und Stefan berichten davon, wie ihre Erfahrungen mit dem Einsatz von ES6. Es geht dabei um Tools, und inwiefern es einem im Vergleich zum Vorgänger das Leben einfacher macht. Darüberhinaus reden wir auch darüber, wie zweckmäßig der Einsatz von ES6 heute schon ist und wie spekulieren darüber, wie lange es wohl dauern wird, bis es im Alltag angekommen sein wird."
+    },
+    {
+      "title": "ES6 Module-Loader sind wieder gestrichen",
+      "href": "https://github.com/lukehoban/es6features/issues/75#issuecomment-97763850",
+      "time": "00:25:36",
+      "description": "Nicht undiskutiert bleiben durfte auch die Tatsache, dass d<a href=\"https://github.com/tc39/tc39-notes/blob/master/es6/2014-09/sept-25.md#loader-pipeline\">ie TC39 in letzter Sekunde in Sachen ES6 Module-Loader einen Rückzieher gemacht hat</a>, und JavaScript damit weiterhin ohne einen solchen dastehen wird. Wir reden über die möglichen Gründe für diesen Schritt und darüber, welche Möglichkeiten man derzeit für&#8217;s Module Laden hat. Dabei fällt auch das Stichwort <a href=\"https://github.com/umdjs/umd\">&#8222;Universal Module Definition&#8220;</a>."
+    }
+  ],
+  "links": [
+    {
+      "title": "ramjet",
+      "href": "http://www.rich-harris.co.uk/ramjet/",
+      "time": "00:40:12",
+      "description": "&#8222;Ramjet makes it looks as though one DOM element is capable of transforming into another, no matter where the two elements sit in the DOM tree.&#8220; WOW!"
+    },
+    {
+      "title": "Git-Extras",
+      "href": "https://github.com/tj/git-extras",
+      "time": "00:40:12",
+      "description": "Hilfereiche Toolsammlung für Git Nr. 1"
+    },
+    {
+      "title": "Hub",
+      "href": "https://github.com/github/hub",
+      "time": "00:40:12",
+      "description": "Hilfereiche Toolsammlung für Git Nr. 2"
+    },
+    {
+      "title": "LanguageTool",
+      "href": "https://languagetool.org/",
+      "time": "00:40:12",
+      "description": "Ein Open Source Grammatikfehler-Suchprogramm"
+    }
+  ]
+}
