@@ -1,0 +1,77 @@
+{
+  "id": 224,
+  "date": "2015-06-19",
+  "duration": "01:19:56",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Lisa Gringl",
+      "twitter": "https://twitter.com/kringal"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    }
+  ],
+  "trello": "https://trello.com/b/Caf95hEu/revision-224",
+  "href": "http://workingdraft.de/224/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2798/0/wd-224.mp3",
+  "title": "Design meets Code",
+  "description": "Für die heutige Revision haben Schepp, Anselm und Stefan sich <a href=\"https://twitter.com/kringal\">Lisa Gringl</a> aus Kärnten/Wien/Tirol ins virtuelle Studio geholt, um über Grenzen und Brücken von Design und Code zu sprechen.",
+  "topics": [
+    {
+      "title": "Datenvisualisierung",
+      "href": "http://alignedleft.com/tutorials/d3",
+      "time": "00:01:15",
+      "description": "Eins von Lisas Steckenpferden sind umfangreiche und interaktive Visualisierungen großer Datenmengen, die sie als Designerin mit D3 umsetzt, und erst vor kurzem in einem Talk auf der <a href=\"https://futureofwebdesign.com/london-2015/\">Future of Web Design&#8220; Konferenz</a> in London ausführlicher erklärte. Erwähnt werden: <a href=\"https://flowingdata.com/\">Flowing Data</a> und der <a href=\"https://github.com/preciousforever/sketch-data-populator\">Sketch Data Populator</a>"
+    },
+    {
+      "title": "Coden als Webdesigner — Die Praxis",
+      "time": "00:04:00",
+      "description": "Da Lisas Ursprünge in der Entwicklung liegen und erst später die Entscheidung zur Designerin gefallen ist, liegt ihr die Umsetzung der kreativen Ergebnisse naturgemäß am Herzen. Sie spricht über Workflows, Tools wie Sketch und Framer, den Einsatz von Template Libraries und Styleguides, und dass man für Ember zum Beispiel sehr schön solche Patternbibliotheken erstellen kann. Ebenso erwähnt werden die flexiblen Grenzen und die einzelnen Schritte, die ein Endprodukt annehmen kann."
+    },
+    {
+      "title": "Design-Versionierung",
+      "time": "00:44:33",
+      "description": "Da Lisas Designs auch einige Iterationen durchlaufen, kann sie als codende Kreative durchaus ein Liedchen von &#8222;_v2&#8243;, &#8222;_final&#8220; und &#8222;_really_final_this_time&#8220; Dateien erzählen. Der Wunsch liegt an einem anständigen Versionierungstool, wie wir es von Git und Konsorten her kennen. Genannt werden Tools wie die <a href=\"http://www.invisionapp.com/\">InvisionApp</a>, <a href=\"https://www.pixelapse.com/\">Pixelapse</a> und das bereits ausprobierte und für gut befundene <a href=\"https://git-lfs.github.com\">Git LFS</a>"
+    },
+    {
+      "title": "PostCSS",
+      "href": "https://github.com/postcss/postcss",
+      "time": "00:52:13",
+      "description": "Zum Abschluß wird noch das aktuell gehypte PostCSS durch die Mangel genommen. Und das artet ganz schnell in einen Rant seitens Stefan aus. Wir klären auf, was PostCSS und Ableger wie <a href=\"http://cssnext.io/\">CSSNext</a> und <a href=\"http://pleeease.io/\">Pleeeease</a> vorgeben zu sein, aber sie schlußendlich wirklich sind, und welche Gefahren diese Tools bergen wenn man sich nicht grundlegend mit dem Unterbau beschäftigt. Postprocessoren als Transpiler sind ein Mythos, wie schon der weise <a href=\"http://blog.rodneyrehm.de/archives/30-CSS-Polyfill-Preprocessor-Its-A-Myth.html\">Rodney Rehm vor einem Jahr verkündete</a>. Ausnahmsweise finden wir einmal nicht alles schlecht und loben den Einsatz von rem/pixel Fallbacks und richtiges Postprocessing wie Autoprefixer, sowie die unglaubliche Erweiterbarkeit, mit der sich in der Theorie andere Präprozessoren auch umsetzen lassen könnten."
+    }
+  ],
+  "links": [
+    {
+      "title": "GitFlow considered harmful",
+      "href": "http://endoflineblog.com/gitflow-considered-harmful",
+      "time": "01:17:02",
+      "description": "Noch ein Considered Harmful Artikel, aber einer, den man durchaus mal durchlesen kann."
+    },
+    {
+      "title": "Framer.js",
+      "href": "http://framerjs.com/",
+      "time": "01:17:02",
+      "description": "CoffeeScript gestärktes Prototyping-Tool für interaktive Abläufe. Von Designern empfohlen!"
+    }
+  ]
+}

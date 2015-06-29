@@ -1,0 +1,58 @@
+{
+  "id": 222,
+  "date": "2015-06-19",
+  "duration": "00:40:44",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    }
+  ],
+  "trello": "https://trello.com/b/AmD4bocA/revision-222",
+  "href": "http://workingdraft.de/222/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2784/0/wd-222.mp3",
+  "title": "Is React really fast und Dependency Updates",
+  "description": "Hans, Peter und Anselm plaudern diesmal wieder einmal über ein paar ihrer Lieblingsthemen: Tooling und Performance mit und ohne Frameworks. Dabei kommen wir auch nicht umhin, hier und da abzuschweifen und Randthemen aufzugreifen.",
+  "topics": [
+    {
+      "title": "Is React really fast?",
+      "href": "http://blog.500tech.com/is-reactjs-fast/",
+      "time": "00:00:12",
+      "description": "So ganz haben wir nicht verstanden, worauf die Daten im Artikel basieren, aber unseren Senf geben wir natürlich schon dazu. Allein schon, weil die Meinungen von Peter, Hans und Anselm nicht übereinstimmen. Als Nebenschauplatz finden wir heraus, <a href=\"http://www.quirksmode.org/blog/archives/2015/06/web_vs_native_r.html\">warum Linkbaiting Artikel funktionieren</a> (ganz was neues). Denn die eigentliche Frage zu dem Thema ist ja: Performt das Tool, das ich nutze, für den Zweck, den ich habe? Und ist measured Performance zwischen verschiedenen Frameworks wirklich das Problem? Wir glauben nicht…"
+    },
+    {
+      "title": "Tools to notify you when dependencies update",
+      "href": "https://css-tricks.com/tools-to-notify-you-when-dependencies-update/",
+      "time": "00:16:48",
+      "description": "Da wären wir wieder beim Lieblings-Thema: Tooling. Diesmal geht es darum, wie man dependencies updaten kann, <a href=\"https://www.npmjs.com/package/david\">über neue Versionen informiert wird</a>. Und während Peter dazu plädiert, dass das unnötig sei, weil eh keiner seine dependencies updated, sagen Hans und Anselm, dass sie dafür durchaus Anwendungsfälle haben und teilweise solche Tools auch aktiv nutzen. Nebenschauplatz hier: Sollte man selbst Scripte wie Slider nochmal schreiben oder lieber doch auf ein vorhandenes Tool zurückgreifen?"
+    }
+  ],
+  "links": [
+    {
+      "title": "Browser Remote",
+      "href": "https://github.com/auchenberg/browser-remote",
+      "time": "00:38:07",
+      "description": "Mit Browser Remote wird es möglich via Chrome Extension fremde Chrome Browser zu debuggen, was für Kunden-Remote-Debugging gegebenenfalls sehr hilfreich sein kann."
+    }
+  ]
+}

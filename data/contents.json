@@ -20792,5 +20792,217 @@
         "description": "CSS Tests mit toller Beschreibungssprache. Zwar Selenium, aber gute Idee."
       }
     ]
+  },
+  "222": {
+    "id": 222,
+    "date": "2015-06-19",
+    "duration": "00:40:44",
+    "people": [
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      },
+      {
+        "name": "Anselm Hannemann",
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
+      }
+    ],
+    "trello": "https://trello.com/b/AmD4bocA/revision-222",
+    "href": "http://workingdraft.de/222/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2784/0/wd-222.mp3",
+    "title": "Is React really fast und Dependency Updates",
+    "description": "Hans, Peter und Anselm plaudern diesmal wieder einmal über ein paar ihrer Lieblingsthemen: Tooling und Performance mit und ohne Frameworks. Dabei kommen wir auch nicht umhin, hier und da abzuschweifen und Randthemen aufzugreifen.",
+    "topics": [
+      {
+        "title": "Is React really fast?",
+        "href": "http://blog.500tech.com/is-reactjs-fast/",
+        "time": "00:00:12",
+        "description": "So ganz haben wir nicht verstanden, worauf die Daten im Artikel basieren, aber unseren Senf geben wir natürlich schon dazu. Allein schon, weil die Meinungen von Peter, Hans und Anselm nicht übereinstimmen. Als Nebenschauplatz finden wir heraus, <a href=\"http://www.quirksmode.org/blog/archives/2015/06/web_vs_native_r.html\">warum Linkbaiting Artikel funktionieren</a> (ganz was neues). Denn die eigentliche Frage zu dem Thema ist ja: Performt das Tool, das ich nutze, für den Zweck, den ich habe? Und ist measured Performance zwischen verschiedenen Frameworks wirklich das Problem? Wir glauben nicht…"
+      },
+      {
+        "title": "Tools to notify you when dependencies update",
+        "href": "https://css-tricks.com/tools-to-notify-you-when-dependencies-update/",
+        "time": "00:16:48",
+        "description": "Da wären wir wieder beim Lieblings-Thema: Tooling. Diesmal geht es darum, wie man dependencies updaten kann, <a href=\"https://www.npmjs.com/package/david\">über neue Versionen informiert wird</a>. Und während Peter dazu plädiert, dass das unnötig sei, weil eh keiner seine dependencies updated, sagen Hans und Anselm, dass sie dafür durchaus Anwendungsfälle haben und teilweise solche Tools auch aktiv nutzen. Nebenschauplatz hier: Sollte man selbst Scripte wie Slider nochmal schreiben oder lieber doch auf ein vorhandenes Tool zurückgreifen?"
+      }
+    ],
+    "links": [
+      {
+        "title": "Browser Remote",
+        "href": "https://github.com/auchenberg/browser-remote",
+        "time": "00:38:07",
+        "description": "Mit Browser Remote wird es möglich via Chrome Extension fremde Chrome Browser zu debuggen, was für Kunden-Remote-Debugging gegebenenfalls sehr hilfreich sein kann."
+      }
+    ]
+  },
+  "223": {
+    "id": 223,
+    "date": "2015-06-27",
+    "duration": "01:12:11",
+    "people": [
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      },
+      {
+        "name": "Rodney Rehm",
+        "team": [
+          "2011-09-16"
+        ],
+        "twitter": "https://twitter.com/rodneyrehm",
+        "web": "http://rodneyrehm.de/en/"
+      },
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      }
+    ],
+    "trello": "https://trello.com/b/5QRMIgCp/revision-223",
+    "href": "http://workingdraft.de/223/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2792/0/wd-223.mp3",
+    "title": "Safari 9, Web Components und A11Y tools",
+    "description": "Schepp, Peter, Rodney und Stefan üben sich als Verschwörungstheoretiker. Grundsatz ihrer Theorie: Unfertige Standards, die ohne Präfix in Browsern landen und so der jeweiligen Firma einen Vorsprung liefern. <a href=\"https://de.wiktionary.org/wiki/was_liegt,_das_pickt\">Was liegt, das pickt</a>, denn <span lang=\"la\">pactum sund servanda</span>. Die heutigen Exponate:",
+    "topics": [
+      {
+        "title": "Safari 9",
+        "href": "https://developer.apple.com/library/prerelease/mac/releasenotes/General/WhatsNewInSafari/Articles/Safari_9.html",
+        "time": "00:00:20",
+        "description": "Die aktuelle Version des Safaris ist in einem Previewrelease verfügbar, und die Reaktionen sind eher bescheiden. Mit dem Force Touch Callbacks übergeht man schnell mal alle Bemühungen in Richtung <a href=\"http://www.w3.org/TR/pointerevents/#pointerevent-interface\">Pointer Events</a>, <a href=\"https://www.apple.com/de/airplay/\">AirPlay Support</a> ist hochproprietär, kommt aber als Standard daher, und die neuen Erweiterungen des <code>link</code>-Elements sorgen für umständliche <a href=\"https://readable-email.org/list/whatwg/topic/apple-s-new-link-rel-icon-mask-not-quite-favicon-syntax-causing-problems-in-other-browsers-needs-standardization\">Hotfixes</a> bei anderen Browsern. Halbfertige Dinge kommen mit Präfix in den Browser, total unfertige und unabgesegnte CSS Eigenschaften total ohne. Wir gehen die gesamte Feature Liste durch und geben zu jedem Punkt Senf ab. Großes Urteil: Für ein Jahr Pause ziemlich dünn, und noch dazu mit zuviel fragwürdigen Erweiterungen ausgestattet als dass wir das gut finden würden. Wir fühlen uns an die 90er und einen bestimmten anderen Browser rückerinnert."
+      },
+      {
+        "title": "The State of Web Components",
+        "href": "https://hacks.mozilla.org/2015/06/the-state-of-web-components/",
+        "time": "00:41:29",
+        "description": "Mozilla gibt Auskunft über den aktuellen Stand der Web Components Standards, und wir sprechen über deren tatsächliche Verwendbarkeit. Stefan findet Type Extensions im Sinne von Progressive Enhancement gut, Peter wirft aber gekonnt den beschränkten Use-Case ebenjener ein, weil die Implementierung wichtige Zugriffe auf diverse Funktionalitäten unterbindet. Wir sehen uns dem AppCache Problem gegenüber: Gute Idee, aber zu hohe Abstraktion macht&#8217;s unbrauchbar. Das zeigt auch der Versuch, HTML in Custom Elements <a href=\"https://github.com/domenic/html-as-custom-elements\">nachzuimplementieren</a>. Wir halten es am Schluß wie Schepp: In Ruhe abwarten und Tee trinken. Wenn&#8217;s fertig ist kann man&#8217;s ja verwenden"
+      },
+      {
+        "title": "Tota11y",
+        "href": "http://khan.github.io/tota11y/",
+        "time": "00:56:00",
+        "description": "Ein weiteres Accessibility Tool, dass uns sagen soll wo unsere Barrierefreiheitsschnitzer sind. Peter fühlt sich an bereits vorher <a href=\"http://achecker.ca/checker/index.php\">gescheiterte Versuche erinnert</a>, Rodney will das eher als ersten, allerdings nicht <a href=\"https://github.com/addyosmani/a11y\">finalen Check automatisiert</a>. In einer finalen Runde meinen wir, dass barrierefreiem Webdesign in der Geschäftswelt nicht genug Bedeutung bemessen wird und für eine ausführliche Umsetzung vor allem das Bewusstsein dafür sowie Fachkräfte fehlen."
+      }
+    ],
+    "links": [
+      {
+        "title": "PurifyCSS",
+        "href": "https://github.com/purifycss/purifycss",
+        "time": "01:10:16",
+        "description": "Baut auf CleanCSS auf und schmeisst unnützen CSS Code weg, checkt allerdings, welche Klassen durch JavaScript verändert werden"
+      },
+      {
+        "title": "When Responsive Images Get Ugly",
+        "href": "http://codepen.io/Tigt/blog/when-responsive-images-get-ugly",
+        "time": "01:10:16",
+        "description": "Massenweise Edge Cases für <code>srcset</code> und <code>picture</code>, sowie Lösungsansätze. Vieles davon vielleicht nicht in der realen Welt nötig, aber dennoch gut zu wissen."
+      }
+    ]
+  },
+  "224": {
+    "id": 224,
+    "date": "2015-06-19",
+    "duration": "01:19:56",
+    "people": [
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      {
+        "name": "Lisa Gringl",
+        "twitter": "https://twitter.com/kringal"
+      },
+      {
+        "name": "Anselm Hannemann",
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
+      },
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      }
+    ],
+    "trello": "https://trello.com/b/Caf95hEu/revision-224",
+    "href": "http://workingdraft.de/224/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2798/0/wd-224.mp3",
+    "title": "Design meets Code",
+    "description": "Für die heutige Revision haben Schepp, Anselm und Stefan sich <a href=\"https://twitter.com/kringal\">Lisa Gringl</a> aus Kärnten/Wien/Tirol ins virtuelle Studio geholt, um über Grenzen und Brücken von Design und Code zu sprechen.",
+    "topics": [
+      {
+        "title": "Datenvisualisierung",
+        "href": "http://alignedleft.com/tutorials/d3",
+        "time": "00:01:15",
+        "description": "Eins von Lisas Steckenpferden sind umfangreiche und interaktive Visualisierungen großer Datenmengen, die sie als Designerin mit D3 umsetzt, und erst vor kurzem in einem Talk auf der <a href=\"https://futureofwebdesign.com/london-2015/\">Future of Web Design&#8220; Konferenz</a> in London ausführlicher erklärte. Erwähnt werden: <a href=\"https://flowingdata.com/\">Flowing Data</a> und der <a href=\"https://github.com/preciousforever/sketch-data-populator\">Sketch Data Populator</a>"
+      },
+      {
+        "title": "Coden als Webdesigner — Die Praxis",
+        "time": "00:04:00",
+        "description": "Da Lisas Ursprünge in der Entwicklung liegen und erst später die Entscheidung zur Designerin gefallen ist, liegt ihr die Umsetzung der kreativen Ergebnisse naturgemäß am Herzen. Sie spricht über Workflows, Tools wie Sketch und Framer, den Einsatz von Template Libraries und Styleguides, und dass man für Ember zum Beispiel sehr schön solche Patternbibliotheken erstellen kann. Ebenso erwähnt werden die flexiblen Grenzen und die einzelnen Schritte, die ein Endprodukt annehmen kann."
+      },
+      {
+        "title": "Design-Versionierung",
+        "time": "00:44:33",
+        "description": "Da Lisas Designs auch einige Iterationen durchlaufen, kann sie als codende Kreative durchaus ein Liedchen von &#8222;_v2&#8243;, &#8222;_final&#8220; und &#8222;_really_final_this_time&#8220; Dateien erzählen. Der Wunsch liegt an einem anständigen Versionierungstool, wie wir es von Git und Konsorten her kennen. Genannt werden Tools wie die <a href=\"http://www.invisionapp.com/\">InvisionApp</a>, <a href=\"https://www.pixelapse.com/\">Pixelapse</a> und das bereits ausprobierte und für gut befundene <a href=\"https://git-lfs.github.com\">Git LFS</a>"
+      },
+      {
+        "title": "PostCSS",
+        "href": "https://github.com/postcss/postcss",
+        "time": "00:52:13",
+        "description": "Zum Abschluß wird noch das aktuell gehypte PostCSS durch die Mangel genommen. Und das artet ganz schnell in einen Rant seitens Stefan aus. Wir klären auf, was PostCSS und Ableger wie <a href=\"http://cssnext.io/\">CSSNext</a> und <a href=\"http://pleeease.io/\">Pleeeease</a> vorgeben zu sein, aber sie schlußendlich wirklich sind, und welche Gefahren diese Tools bergen wenn man sich nicht grundlegend mit dem Unterbau beschäftigt. Postprocessoren als Transpiler sind ein Mythos, wie schon der weise <a href=\"http://blog.rodneyrehm.de/archives/30-CSS-Polyfill-Preprocessor-Its-A-Myth.html\">Rodney Rehm vor einem Jahr verkündete</a>. Ausnahmsweise finden wir einmal nicht alles schlecht und loben den Einsatz von rem/pixel Fallbacks und richtiges Postprocessing wie Autoprefixer, sowie die unglaubliche Erweiterbarkeit, mit der sich in der Theorie andere Präprozessoren auch umsetzen lassen könnten."
+      }
+    ],
+    "links": [
+      {
+        "title": "GitFlow considered harmful",
+        "href": "http://endoflineblog.com/gitflow-considered-harmful",
+        "time": "01:17:02",
+        "description": "Noch ein Considered Harmful Artikel, aber einer, den man durchaus mal durchlesen kann."
+      },
+      {
+        "title": "Framer.js",
+        "href": "http://framerjs.com/",
+        "time": "01:17:02",
+        "description": "CoffeeScript gestärktes Prototyping-Tool für interaktive Abläufe. Von Designern empfohlen!"
+      }
+    ]
   }
 }

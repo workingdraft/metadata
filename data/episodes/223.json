@@ -1,0 +1,77 @@
+{
+  "id": 223,
+  "date": "2015-06-27",
+  "duration": "01:12:11",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    }
+  ],
+  "trello": "https://trello.com/b/5QRMIgCp/revision-223",
+  "href": "http://workingdraft.de/223/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2792/0/wd-223.mp3",
+  "title": "Safari 9, Web Components und A11Y tools",
+  "description": "Schepp, Peter, Rodney und Stefan üben sich als Verschwörungstheoretiker. Grundsatz ihrer Theorie: Unfertige Standards, die ohne Präfix in Browsern landen und so der jeweiligen Firma einen Vorsprung liefern. <a href=\"https://de.wiktionary.org/wiki/was_liegt,_das_pickt\">Was liegt, das pickt</a>, denn <span lang=\"la\">pactum sund servanda</span>. Die heutigen Exponate:",
+  "topics": [
+    {
+      "title": "Safari 9",
+      "href": "https://developer.apple.com/library/prerelease/mac/releasenotes/General/WhatsNewInSafari/Articles/Safari_9.html",
+      "time": "00:00:20",
+      "description": "Die aktuelle Version des Safaris ist in einem Previewrelease verfügbar, und die Reaktionen sind eher bescheiden. Mit dem Force Touch Callbacks übergeht man schnell mal alle Bemühungen in Richtung <a href=\"http://www.w3.org/TR/pointerevents/#pointerevent-interface\">Pointer Events</a>, <a href=\"https://www.apple.com/de/airplay/\">AirPlay Support</a> ist hochproprietär, kommt aber als Standard daher, und die neuen Erweiterungen des <code>link</code>-Elements sorgen für umständliche <a href=\"https://readable-email.org/list/whatwg/topic/apple-s-new-link-rel-icon-mask-not-quite-favicon-syntax-causing-problems-in-other-browsers-needs-standardization\">Hotfixes</a> bei anderen Browsern. Halbfertige Dinge kommen mit Präfix in den Browser, total unfertige und unabgesegnte CSS Eigenschaften total ohne. Wir gehen die gesamte Feature Liste durch und geben zu jedem Punkt Senf ab. Großes Urteil: Für ein Jahr Pause ziemlich dünn, und noch dazu mit zuviel fragwürdigen Erweiterungen ausgestattet als dass wir das gut finden würden. Wir fühlen uns an die 90er und einen bestimmten anderen Browser rückerinnert."
+    },
+    {
+      "title": "The State of Web Components",
+      "href": "https://hacks.mozilla.org/2015/06/the-state-of-web-components/",
+      "time": "00:41:29",
+      "description": "Mozilla gibt Auskunft über den aktuellen Stand der Web Components Standards, und wir sprechen über deren tatsächliche Verwendbarkeit. Stefan findet Type Extensions im Sinne von Progressive Enhancement gut, Peter wirft aber gekonnt den beschränkten Use-Case ebenjener ein, weil die Implementierung wichtige Zugriffe auf diverse Funktionalitäten unterbindet. Wir sehen uns dem AppCache Problem gegenüber: Gute Idee, aber zu hohe Abstraktion macht&#8217;s unbrauchbar. Das zeigt auch der Versuch, HTML in Custom Elements <a href=\"https://github.com/domenic/html-as-custom-elements\">nachzuimplementieren</a>. Wir halten es am Schluß wie Schepp: In Ruhe abwarten und Tee trinken. Wenn&#8217;s fertig ist kann man&#8217;s ja verwenden"
+    },
+    {
+      "title": "Tota11y",
+      "href": "http://khan.github.io/tota11y/",
+      "time": "00:56:00",
+      "description": "Ein weiteres Accessibility Tool, dass uns sagen soll wo unsere Barrierefreiheitsschnitzer sind. Peter fühlt sich an bereits vorher <a href=\"http://achecker.ca/checker/index.php\">gescheiterte Versuche erinnert</a>, Rodney will das eher als ersten, allerdings nicht <a href=\"https://github.com/addyosmani/a11y\">finalen Check automatisiert</a>. In einer finalen Runde meinen wir, dass barrierefreiem Webdesign in der Geschäftswelt nicht genug Bedeutung bemessen wird und für eine ausführliche Umsetzung vor allem das Bewusstsein dafür sowie Fachkräfte fehlen."
+    }
+  ],
+  "links": [
+    {
+      "title": "PurifyCSS",
+      "href": "https://github.com/purifycss/purifycss",
+      "time": "01:10:16",
+      "description": "Baut auf CleanCSS auf und schmeisst unnützen CSS Code weg, checkt allerdings, welche Klassen durch JavaScript verändert werden"
+    },
+    {
+      "title": "When Responsive Images Get Ugly",
+      "href": "http://codepen.io/Tigt/blog/when-responsive-images-get-ugly",
+      "time": "01:10:16",
+      "description": "Massenweise Edge Cases für <code>srcset</code> und <code>picture</code>, sowie Lösungsansätze. Vieles davon vielleicht nicht in der realen Welt nötig, aber dennoch gut zu wissen."
+    }
+  ]
+}
