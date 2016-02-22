@@ -1,0 +1,51 @@
+{
+  "id": 226,
+  "date": "2015-07-22",
+  "duration": "43:46",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    }
+  ],
+  "trello": "https://trello.com/b/1KDfUZyV/revision-226",
+  "href": "http://workingdraft.de/226/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2813/0/wd-226.mp3",
+  "title": "Progressive Enhancement",
+  "description": "Diesmal widmen Hans, Rodney und Schepp sich einzig und allein einem Thema, und zwar…",
+  "topics": [
+    {
+      "title": "Progressive Enhancement",
+      "href": "https://adactio.com/journal/9206",
+      "time": "00:00:22",
+      "description": "Angeregt durch eine Diskussion auf Twitter zwischen Jake Archibald und Jeremy Keith, und aufgrund des Artikels von Jeremy, sprachen wir darüber, inwieweit wir das Thema &#8222;Progressive Enhancement&#8220; in unsere Projekte implementieren.. Rodney erwähnte dabei Aaron Gustafsons Konzept der <a href=\"http://www.aaron-gustafson.com/notebook/interface-experience-maps/\">Interface Experience Maps</a>. Wir stellten auch fest, dass wenn man eine Single Page Webapp baut, es sehr schwierig wird, einen Ausfall von JavaScript mit einzuplanen."
+    }
+  ],
+  "links": [
+    {
+      "title": "Watchman",
+      "href": "https://facebook.github.io/watchman/",
+      "time": "00:42:06",
+      "description": "Ein generischer Watcher/Taskrunner, von Facebook. Oldie but Goldie!"
+    }
+  ]
+}

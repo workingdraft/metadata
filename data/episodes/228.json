@@ -1,0 +1,52 @@
+{
+  "id": 228,
+  "date": "2015-08-06",
+  "duration": "33:58",
+  "people": [
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    },
+    {
+      "name": "David Hasenbeck",
+      "twitter": "https://twitter.com/dawitux"
+    },
+    {
+      "name": "Anna Müller",
+      "twitter": "https://twitter.com/saemple"
+    }
+  ],
+  "trello": "https://trello.com/b/vVlWujUl/revision-228",
+  "href": "http://workingdraft.de/228/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2820/0/wd-228.mp3",
+  "title": "Wie Sipgate arbeitet",
+  "description": "Heute gibt es mal wieder ein Interview von uns, und zwar mit der VoIP-Firma <a href=\"http://www.sipgate.de/\">Sipgate</a> zum Thema &#8222;Arbeitsstrukturen&#8220;. Anlass ist <a href=\"https://medium.com/@sipgate/willkommen-bei-sipgate-dce407c86784\">ein sehr detaillierter und wahnsinnig interessanter Artikel</a> der Firma darüber, wie man dort zu Werke geht. Für uns klang das so ungewöhnlich und so gut, dass wir dachten, wir lassen uns das &#8222;System Sipgate&#8220; nochmal persönlich erklären. Unsere Gesprächspartner bei Sipgate waren die Texterin <a href=\"https://twitter.com/saemple\">Anna Müller</a> und der Backend-Entwickler <a href=\"https://twitter.com/dawitux\">David Hasenbeck</a>.",
+  "topics": [
+    {
+      "title": "Willkommen bei Sipgate! Wie wir arbeiten. Eine Bedienungsanleitung.",
+      "href": "https://medium.com/@sipgate/willkommen-bei-sipgate-dce407c86784",
+      "time": "00:00:00",
+      "description": "&#8222;Jedes Unternehmen hat seinen Mikrokosmos mit eigenen Regeln und individuellen Gepflogenheiten — so auch wir bei sipgate. Um neuen Kolleginnen und Kollegen einen schnellen Einstieg in unseren Modus Operandi zu ermöglichen, haben wir diese Bedienungsanleitung verfasst. Und dann festgestellt, dass diese vielleicht auch für andere interessant sein könnte.&#8220; &#8211; Oh ja, sehr interessant!"
+    }
+  ],
+  "links": [
+    {
+      "title": "Styling SVG  Content with CSS",
+      "href": "http://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css/",
+      "time": "00:32:34",
+      "description": "An in-depth article on how to style the contents of the SVG <use> element and overcome some challenges it brings.</use>"
+    }
+  ]
+}

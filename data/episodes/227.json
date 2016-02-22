@@ -1,0 +1,64 @@
+{
+  "id": 227,
+  "date": "2015-07-30",
+  "duration": "01:01:27",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    }
+  ],
+  "trello": "https://trello.com/b/Sgn5KlFg/revision-227",
+  "href": "http://workingdraft.de/227/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2818/0/wd-227.mp3",
+  "title": "Ask Anselm Anything und Underscore",
+  "description": "An diesem lauen Sommerabend telefonieren sich Anselm, Hans und Peter zusammen, um letzte wichtige Fragen vor dem Urlaub zu klären. Als da wären&#8230;",
+  "topics": [
+    {
+      "title": "Ask me Anything",
+      "href": "https://github.com/anselmh/AMA",
+      "time": "00:00:13",
+      "description": "Reddit und <a href=\"https://github.com/sindresorhus/amas\">Sindre Sorhus</a> zum Vorbild, hat Anselm auf GitHub eine sogenannte &#8222;Ask me Anything&#8220;-Sektion (AMA) aufgemacht, auf der jedermann ihn zu allem befragen kann. Ob er jedem immer antwortet und was das Ganze für einen Sinn haben könnte, das wollen Hans und Peter in einem persönlichen AMA gerne herausfinden. Fest steht: Hans sieht für sich da nicht viel Sinn drin und Peter <a href=\"http://www.peterkroener.de/artikel/fragen-zu-html5-beantwortet/\">antwortet bei sich im Blog</a> eigentlich nur auf Fachfragen."
+    },
+    {
+      "title": "You Might Not Need Underscore",
+      "href": "https://www.reindex.io/blog/you-might-not-need-underscore/",
+      "time": "00:14:57",
+      "description": "Peter und Hans unterhalten sich eine gute Dreiviertelstunde über die Nützlichkeit von Underscore bzw. seinem Zwilling lodash, und ob die Bibliotehken dank neuerer ECMAScript Features nicht vielleicht sogar gänzlich überflüssig geworden sind. Wir stellen fest: Beide haben ihre ganz eigenen Perspektiven auf die Dinge."
+    }
+  ],
+  "links": [
+    {
+      "title": "Introducing Material Design Lite",
+      "href": "https://medium.com/google-developers/introducing-material-design-lite-3ce67098c031",
+      "time": "00:58:18",
+      "description": "Google stellt die UI-Bibliothek Material Design Lite vor, die es erlaubt, den <a href=\"http://google.com/design/spec\">Material Design</a> Look &#038; Feel mit jedem beliebigen MVC-Framework zu verheiraten."
+    },
+    {
+      "title": "Web Platform Incubator Community Group (WICG)",
+      "href": "http://blog.yoav.ws/by_the_people/",
+      "time": "00:58:18",
+      "description": "Ihr habt eine Idee für einen neuen nützlichen Webstandard? Ihr habt Lust, Eure Idee bis zu einer Spezifikation voranzutreiben? Diese Community Group soll Euch dabei helfen, Eure Idee zu validieren und sie gedanklich wie auch inhaltlich &#8222;zur Marktreife&#8220; zu bringen, auf dass sie am Ende tatsächlich in eine gut durchdachte und dokumentierte Spezifikation münden kann."
+    }
+  ]
+}

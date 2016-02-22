@@ -1,0 +1,85 @@
+{
+  "id": 230,
+  "date": "2015-08-31",
+  "duration": "01:11:48",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    }
+  ],
+  "trello": "https://trello.com/b/Ypo0UoU9/revision-230",
+  "href": "http://workingdraft.de/230/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2840/0/wd-230.mp3",
+  "title": "CSS input modality und die Unzufriedenheit mit der Gesamtsituation",
+  "description": "Mit Schepp, Stefan, Peter, Hans und Anselm ging es diesmal nach einem kurzen Schlenker in die CSS-Zukunft mit voller Kraft auf die Meta-Ebene.",
+  "topics": [
+    {
+      "title": "Proposing CSS input modality",
+      "href": "http://radar.oreilly.com/2015/08/proposing-css-input-modailty.html",
+      "time": "00:00:15",
+      "description": "Wir bespechen einen Vorschlag für Media Queries für Eingabe-Verfahren. Dabei tangieren wir <a href=\"https://drafts.csswg.org/mediaqueries-4/\">Selectors Level 4</a>, Schepps DIY-Spezial-Lösung für Touch-Detection, Focus-Styles und Barrierefreiheit und das nicht ganz JS-Tool <a href=\"https://github.com/ten1seven/what-input\">what-input</a>, das sich ebenfalls mit dem Erkennen von Eingebemodi befasst."
+    },
+    {
+      "title": "What’s wrong with the web",
+      "href": "http://developer.telerik.com/featured/whats-wrong-with-the-web/",
+      "time": "00:13:24",
+      "description": "Wir stimmen ein vielstimmiges Wehklagen über den Ist-Zustand des WWW an. Angefangen bei diesem <a href=\"http://www.theverge.com/2015/7/20/9002721/the-mobile-web-sucks\">lächerlichen Verge-Artikel</a> von vor einiger Zeit über <a href=\"http://www.marco.org/2015/08/11/ad-blocking-ethics\">Werbeblockerei</a> und langsame Webseiten allgemein (<a href=\"http://digiday.com/publishers/gq-com-cut-page-load-time-80-percent/\">und wie GQ schnell wurde</a>) bis hin zu <a href=\"http://www.stefan-niggemeier.de/blog/18047/wie-waldo-im-wimmelbild-journalismus-und-die-inflation-von-online-werbung/\">lästiger Werbung</a> haben wir uns über viel zu beschweren. Datensammelei (vertreten durch u.A. <a href=\"https://segment.com/\">segment.com</a> und geblockt durch <a href=\"https://disconnect.me/\">disconnect.me</a> und <a href=\"https://www.ghostery.com/de/\">Ghostery</a>) darf auch nicht fehlen. Am Ende kommen wir zu Peters Schlechte-Computer-Hypothese, die sich auch in der Präsentation <a href=\"http://idlewords.com/talks/web_design_first_100_years.htm\">Web Design: The First 100 Years</a> wiederfindet. Ach, und das WLAN im ICE ist natürlich <a href=\"https://twitter.com/Silbendrechsler/status/632957114038796289\">auch doof</a>."
+    }
+  ],
+  "links": [
+    {
+      "title": "npm-windows-upgrade",
+      "href": "https://www.npmjs.com/package/npm-windows-upgrade",
+      "time": "01:09:17",
+      "description": "Upgrade npm on Windows, easily and automatically."
+    },
+    {
+      "title": "Punched Card Coding",
+      "href": "https://www.youtube.com/watch?v=xhUfiOSOk3g",
+      "time": "01:09:17",
+      "description": "Ein Fachmann erzählt davon, wie man interaktive HTML-E-Mails erschafft. Ein kreatives Hack-Feuerwerk und absolutes Must-See."
+    },
+    {
+      "title": "Tern is getting ES6 support",
+      "href": "http://ternjs.net/",
+      "time": "01:09:17",
+      "description": "ES6 für Tern&nbsp;&hellip; wenn wir die Kohle dafür aufbringen. Was wir tun sollten."
+    }
+  ]
+}

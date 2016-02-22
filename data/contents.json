@@ -21004,5 +21004,380 @@
         "description": "CoffeeScript gestärktes Prototyping-Tool für interaktive Abläufe. Von Designern empfohlen!"
       }
     ]
+  },
+  "225": {
+    "id": 225,
+    "date": "2015-07-21",
+    "duration": "01:14:00",
+    "people": [
+      {
+        "name": "Rodney Rehm",
+        "team": [
+          "2011-09-16"
+        ],
+        "twitter": "https://twitter.com/rodneyrehm",
+        "web": "http://rodneyrehm.de/en/"
+      },
+      {
+        "name": "Anselm Hannemann",
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
+      },
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      },
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      }
+    ],
+    "trello": "https://trello.com/b/uJnD5kZx/revision-225",
+    "href": "http://workingdraft.de/225/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2806/0/wd-225.mp3",
+    "title": "Web Components und Web Assembly",
+    "description": "Rodney, Anselm, Peter und Stefan klären Missverständnisse zu Web Components und Web Assembly auf.",
+    "topics": [
+      {
+        "title": "Practical questions around web components",
+        "href": "http://ianfeather.co.uk/practical-questions-around-web-components/",
+        "time": "00:00:16",
+        "description": "Ian Feather hat im Zuge seines Besuches bei der EdgeConf einen Artikel zum Thema Web Components geschrieben, und versucht Anwenderfragen zu beantworten. Rodney, der ebenfalls beim gleichen Event war, erinnert sich an die Diskussionsrunden, die denen zugrunde liegen. Wir gehen munter Frage für Frage durch, und verstricken uns gleich bei Nummer 2 in eine Diskussion, die das gesamte Konzept kritisch hinterfragt. Sind Web Components heute schon nutzbar? Gibt es bei Web Designern überhaupt einen Nutzen dafür? Oder doch wieder nur ein Fehlschlag, weil sich nicht mal <a href=\"https://github.com/domenic/html-as-custom-elements\">standard HTML Elemente damit umsetzen lassen können</a>? Unsere Ansichten gibt&#8217;s hier."
+      },
+      {
+        "title": "Web Assembly",
+        "href": "http://www.2ality.com/2015/06/web-assembly.html",
+        "time": "00:57:48",
+        "description": "Web Assembly wurde groß angekündigt und kaum einer weiß, was er jetzt damit zu tun hat. Rodney erzählt von Beweggründen und gibt Einblicke hinter das Format."
+      }
+    ],
+    "links": [
+      {
+        "title": "CSSConf 2015",
+        "href": "https://2015.cssconf.com/#videos",
+        "time": "01:12:13",
+        "description": "Die CSSConf war und Videos gibt&#8217;s auch schon!"
+      },
+      {
+        "title": "NightlyBuild 2015",
+        "href": "http://www.nightlybuild.io/",
+        "time": "01:12:13",
+        "description": "Die NightlyBuild geht in die zweite Runde!"
+      }
+    ]
+  },
+  "226": {
+    "id": 226,
+    "date": "2015-07-22",
+    "duration": "43:46",
+    "people": [
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      {
+        "name": "Rodney Rehm",
+        "team": [
+          "2011-09-16"
+        ],
+        "twitter": "https://twitter.com/rodneyrehm",
+        "web": "http://rodneyrehm.de/en/"
+      }
+    ],
+    "trello": "https://trello.com/b/1KDfUZyV/revision-226",
+    "href": "http://workingdraft.de/226/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2813/0/wd-226.mp3",
+    "title": "Progressive Enhancement",
+    "description": "Diesmal widmen Hans, Rodney und Schepp sich einzig und allein einem Thema, und zwar…",
+    "topics": [
+      {
+        "title": "Progressive Enhancement",
+        "href": "https://adactio.com/journal/9206",
+        "time": "00:00:22",
+        "description": "Angeregt durch eine Diskussion auf Twitter zwischen Jake Archibald und Jeremy Keith, und aufgrund des Artikels von Jeremy, sprachen wir darüber, inwieweit wir das Thema &#8222;Progressive Enhancement&#8220; in unsere Projekte implementieren.. Rodney erwähnte dabei Aaron Gustafsons Konzept der <a href=\"http://www.aaron-gustafson.com/notebook/interface-experience-maps/\">Interface Experience Maps</a>. Wir stellten auch fest, dass wenn man eine Single Page Webapp baut, es sehr schwierig wird, einen Ausfall von JavaScript mit einzuplanen."
+      }
+    ],
+    "links": [
+      {
+        "title": "Watchman",
+        "href": "https://facebook.github.io/watchman/",
+        "time": "00:42:06",
+        "description": "Ein generischer Watcher/Taskrunner, von Facebook. Oldie but Goldie!"
+      }
+    ]
+  },
+  "227": {
+    "id": 227,
+    "date": "2015-07-30",
+    "duration": "01:01:27",
+    "people": [
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      },
+      {
+        "name": "Anselm Hannemann",
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
+      }
+    ],
+    "trello": "https://trello.com/b/Sgn5KlFg/revision-227",
+    "href": "http://workingdraft.de/227/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2818/0/wd-227.mp3",
+    "title": "Ask Anselm Anything und Underscore",
+    "description": "An diesem lauen Sommerabend telefonieren sich Anselm, Hans und Peter zusammen, um letzte wichtige Fragen vor dem Urlaub zu klären. Als da wären&#8230;",
+    "topics": [
+      {
+        "title": "Ask me Anything",
+        "href": "https://github.com/anselmh/AMA",
+        "time": "00:00:13",
+        "description": "Reddit und <a href=\"https://github.com/sindresorhus/amas\">Sindre Sorhus</a> zum Vorbild, hat Anselm auf GitHub eine sogenannte &#8222;Ask me Anything&#8220;-Sektion (AMA) aufgemacht, auf der jedermann ihn zu allem befragen kann. Ob er jedem immer antwortet und was das Ganze für einen Sinn haben könnte, das wollen Hans und Peter in einem persönlichen AMA gerne herausfinden. Fest steht: Hans sieht für sich da nicht viel Sinn drin und Peter <a href=\"http://www.peterkroener.de/artikel/fragen-zu-html5-beantwortet/\">antwortet bei sich im Blog</a> eigentlich nur auf Fachfragen."
+      },
+      {
+        "title": "You Might Not Need Underscore",
+        "href": "https://www.reindex.io/blog/you-might-not-need-underscore/",
+        "time": "00:14:57",
+        "description": "Peter und Hans unterhalten sich eine gute Dreiviertelstunde über die Nützlichkeit von Underscore bzw. seinem Zwilling lodash, und ob die Bibliotehken dank neuerer ECMAScript Features nicht vielleicht sogar gänzlich überflüssig geworden sind. Wir stellen fest: Beide haben ihre ganz eigenen Perspektiven auf die Dinge."
+      }
+    ],
+    "links": [
+      {
+        "title": "Introducing Material Design Lite",
+        "href": "https://medium.com/google-developers/introducing-material-design-lite-3ce67098c031",
+        "time": "00:58:18",
+        "description": "Google stellt die UI-Bibliothek Material Design Lite vor, die es erlaubt, den <a href=\"http://google.com/design/spec\">Material Design</a> Look &#038; Feel mit jedem beliebigen MVC-Framework zu verheiraten."
+      },
+      {
+        "title": "Web Platform Incubator Community Group (WICG)",
+        "href": "http://blog.yoav.ws/by_the_people/",
+        "time": "00:58:18",
+        "description": "Ihr habt eine Idee für einen neuen nützlichen Webstandard? Ihr habt Lust, Eure Idee bis zu einer Spezifikation voranzutreiben? Diese Community Group soll Euch dabei helfen, Eure Idee zu validieren und sie gedanklich wie auch inhaltlich &#8222;zur Marktreife&#8220; zu bringen, auf dass sie am Ende tatsächlich in eine gut durchdachte und dokumentierte Spezifikation münden kann."
+      }
+    ]
+  },
+  "228": {
+    "id": 228,
+    "date": "2015-08-06",
+    "duration": "33:58",
+    "people": [
+      {
+        "name": "Anselm Hannemann",
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
+      },
+      {
+        "name": "Rodney Rehm",
+        "team": [
+          "2011-09-16"
+        ],
+        "twitter": "https://twitter.com/rodneyrehm",
+        "web": "http://rodneyrehm.de/en/"
+      },
+      {
+        "name": "David Hasenbeck",
+        "twitter": "https://twitter.com/dawitux"
+      },
+      {
+        "name": "Anna Müller",
+        "twitter": "https://twitter.com/saemple"
+      }
+    ],
+    "trello": "https://trello.com/b/vVlWujUl/revision-228",
+    "href": "http://workingdraft.de/228/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2820/0/wd-228.mp3",
+    "title": "Wie Sipgate arbeitet",
+    "description": "Heute gibt es mal wieder ein Interview von uns, und zwar mit der VoIP-Firma <a href=\"http://www.sipgate.de/\">Sipgate</a> zum Thema &#8222;Arbeitsstrukturen&#8220;. Anlass ist <a href=\"https://medium.com/@sipgate/willkommen-bei-sipgate-dce407c86784\">ein sehr detaillierter und wahnsinnig interessanter Artikel</a> der Firma darüber, wie man dort zu Werke geht. Für uns klang das so ungewöhnlich und so gut, dass wir dachten, wir lassen uns das &#8222;System Sipgate&#8220; nochmal persönlich erklären. Unsere Gesprächspartner bei Sipgate waren die Texterin <a href=\"https://twitter.com/saemple\">Anna Müller</a> und der Backend-Entwickler <a href=\"https://twitter.com/dawitux\">David Hasenbeck</a>.",
+    "topics": [
+      {
+        "title": "Willkommen bei Sipgate! Wie wir arbeiten. Eine Bedienungsanleitung.",
+        "href": "https://medium.com/@sipgate/willkommen-bei-sipgate-dce407c86784",
+        "time": "00:00:00",
+        "description": "&#8222;Jedes Unternehmen hat seinen Mikrokosmos mit eigenen Regeln und individuellen Gepflogenheiten — so auch wir bei sipgate. Um neuen Kolleginnen und Kollegen einen schnellen Einstieg in unseren Modus Operandi zu ermöglichen, haben wir diese Bedienungsanleitung verfasst. Und dann festgestellt, dass diese vielleicht auch für andere interessant sein könnte.&#8220; &#8211; Oh ja, sehr interessant!"
+      }
+    ],
+    "links": [
+      {
+        "title": "Styling SVG  Content with CSS",
+        "href": "http://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css/",
+        "time": "00:32:34",
+        "description": "An in-depth article on how to style the contents of the SVG <use> element and overcome some challenges it brings.</use>"
+      }
+    ]
+  },
+  "229": {
+    "id": 229,
+    "date": "2015-08-11",
+    "duration": "39:48",
+    "people": [
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      },
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      }
+    ],
+    "trello": "https://trello.com/b/uZ6alz9y/revision-229",
+    "href": "http://workingdraft.de/229/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2830/0/wd-229.mp3",
+    "title": "Stop pushing the web forward",
+    "description": "Weder Sommerhitze noch Sommerloch konnten Stefan, Schepp und Peter davon abhalten das einzige nennenswerte Thema der Woche in eigentlich völlig ungebührlicher Breite durchzukauen.",
+    "topics": [
+      {
+        "title": "Stop pushing the web forward",
+        "href": "http://www.quirksmode.org/blog/archives/2015/07/stop_pushing_th.html",
+        "time": "00:00:10",
+        "description": "Peter-Paul Koch fordert ein Moratorium über neue Browserfeatures und wir sind einigermaßen perplex. Nicht nur glauben wir, dass PPK weiß, dass sich das nicht durchsetzen lässt, auch über Motivation und Ziele hinter dieser Forderung sind wir ziemlich verwirrt und wir halten sie am Ende für ziemlichen Käse. Schützenhilfe bekommen wir aus der Richtung von <a href=\"https://jakearchibald.com/2015/if-we-stand-still-we-go-backwards/\">Jake Archibald</a> und <a href=\"https://dev.opera.com/articles/on-a-moratorium-on-new-browser-features/\">Bruce Lawson</a>, die ebenfalls nicht viel mit dem Moratorium anfangen können."
+      }
+    ],
+    "links": [
+      {
+        "title": "Designing for Performance – free online",
+        "href": "http://designingforperformance.com/",
+        "time": "00:37:32",
+        "description": "Ein Einsteiger-Buch über Performance für Designer, jetzt kostenlos online."
+      }
+    ]
+  },
+  "230": {
+    "id": 230,
+    "date": "2015-08-31",
+    "duration": "01:11:48",
+    "people": [
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      },
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      },
+      {
+        "name": "Anselm Hannemann",
+        "team": [
+          "2014-05-05"
+        ],
+        "twitter": "https://twitter.com/helloanselm",
+        "web": "http://anselm-hannemann.com/"
+      },
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      }
+    ],
+    "trello": "https://trello.com/b/Ypo0UoU9/revision-230",
+    "href": "http://workingdraft.de/230/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2840/0/wd-230.mp3",
+    "title": "CSS input modality und die Unzufriedenheit mit der Gesamtsituation",
+    "description": "Mit Schepp, Stefan, Peter, Hans und Anselm ging es diesmal nach einem kurzen Schlenker in die CSS-Zukunft mit voller Kraft auf die Meta-Ebene.",
+    "topics": [
+      {
+        "title": "Proposing CSS input modality",
+        "href": "http://radar.oreilly.com/2015/08/proposing-css-input-modailty.html",
+        "time": "00:00:15",
+        "description": "Wir bespechen einen Vorschlag für Media Queries für Eingabe-Verfahren. Dabei tangieren wir <a href=\"https://drafts.csswg.org/mediaqueries-4/\">Selectors Level 4</a>, Schepps DIY-Spezial-Lösung für Touch-Detection, Focus-Styles und Barrierefreiheit und das nicht ganz JS-Tool <a href=\"https://github.com/ten1seven/what-input\">what-input</a>, das sich ebenfalls mit dem Erkennen von Eingebemodi befasst."
+      },
+      {
+        "title": "What’s wrong with the web",
+        "href": "http://developer.telerik.com/featured/whats-wrong-with-the-web/",
+        "time": "00:13:24",
+        "description": "Wir stimmen ein vielstimmiges Wehklagen über den Ist-Zustand des WWW an. Angefangen bei diesem <a href=\"http://www.theverge.com/2015/7/20/9002721/the-mobile-web-sucks\">lächerlichen Verge-Artikel</a> von vor einiger Zeit über <a href=\"http://www.marco.org/2015/08/11/ad-blocking-ethics\">Werbeblockerei</a> und langsame Webseiten allgemein (<a href=\"http://digiday.com/publishers/gq-com-cut-page-load-time-80-percent/\">und wie GQ schnell wurde</a>) bis hin zu <a href=\"http://www.stefan-niggemeier.de/blog/18047/wie-waldo-im-wimmelbild-journalismus-und-die-inflation-von-online-werbung/\">lästiger Werbung</a> haben wir uns über viel zu beschweren. Datensammelei (vertreten durch u.A. <a href=\"https://segment.com/\">segment.com</a> und geblockt durch <a href=\"https://disconnect.me/\">disconnect.me</a> und <a href=\"https://www.ghostery.com/de/\">Ghostery</a>) darf auch nicht fehlen. Am Ende kommen wir zu Peters Schlechte-Computer-Hypothese, die sich auch in der Präsentation <a href=\"http://idlewords.com/talks/web_design_first_100_years.htm\">Web Design: The First 100 Years</a> wiederfindet. Ach, und das WLAN im ICE ist natürlich <a href=\"https://twitter.com/Silbendrechsler/status/632957114038796289\">auch doof</a>."
+      }
+    ],
+    "links": [
+      {
+        "title": "npm-windows-upgrade",
+        "href": "https://www.npmjs.com/package/npm-windows-upgrade",
+        "time": "01:09:17",
+        "description": "Upgrade npm on Windows, easily and automatically."
+      },
+      {
+        "title": "Punched Card Coding",
+        "href": "https://www.youtube.com/watch?v=xhUfiOSOk3g",
+        "time": "01:09:17",
+        "description": "Ein Fachmann erzählt davon, wie man interaktive HTML-E-Mails erschafft. Ein kreatives Hack-Feuerwerk und absolutes Must-See."
+      },
+      {
+        "title": "Tern is getting ES6 support",
+        "href": "http://ternjs.net/",
+        "time": "01:09:17",
+        "description": "ES6 für Tern&nbsp;&hellip; wenn wir die Kohle dafür aufbringen. Was wir tun sollten."
+      }
+    ]
   }
 }

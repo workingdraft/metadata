@@ -1,0 +1,72 @@
+{
+  "id": 225,
+  "date": "2015-07-21",
+  "duration": "01:14:00",
+  "people": [
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    }
+  ],
+  "trello": "https://trello.com/b/uJnD5kZx/revision-225",
+  "href": "http://workingdraft.de/225/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2806/0/wd-225.mp3",
+  "title": "Web Components und Web Assembly",
+  "description": "Rodney, Anselm, Peter und Stefan klären Missverständnisse zu Web Components und Web Assembly auf.",
+  "topics": [
+    {
+      "title": "Practical questions around web components",
+      "href": "http://ianfeather.co.uk/practical-questions-around-web-components/",
+      "time": "00:00:16",
+      "description": "Ian Feather hat im Zuge seines Besuches bei der EdgeConf einen Artikel zum Thema Web Components geschrieben, und versucht Anwenderfragen zu beantworten. Rodney, der ebenfalls beim gleichen Event war, erinnert sich an die Diskussionsrunden, die denen zugrunde liegen. Wir gehen munter Frage für Frage durch, und verstricken uns gleich bei Nummer 2 in eine Diskussion, die das gesamte Konzept kritisch hinterfragt. Sind Web Components heute schon nutzbar? Gibt es bei Web Designern überhaupt einen Nutzen dafür? Oder doch wieder nur ein Fehlschlag, weil sich nicht mal <a href=\"https://github.com/domenic/html-as-custom-elements\">standard HTML Elemente damit umsetzen lassen können</a>? Unsere Ansichten gibt&#8217;s hier."
+    },
+    {
+      "title": "Web Assembly",
+      "href": "http://www.2ality.com/2015/06/web-assembly.html",
+      "time": "00:57:48",
+      "description": "Web Assembly wurde groß angekündigt und kaum einer weiß, was er jetzt damit zu tun hat. Rodney erzählt von Beweggründen und gibt Einblicke hinter das Format."
+    }
+  ],
+  "links": [
+    {
+      "title": "CSSConf 2015",
+      "href": "https://2015.cssconf.com/#videos",
+      "time": "01:12:13",
+      "description": "Die CSSConf war und Videos gibt&#8217;s auch schon!"
+    },
+    {
+      "title": "NightlyBuild 2015",
+      "href": "http://www.nightlybuild.io/",
+      "time": "01:12:13",
+      "description": "Die NightlyBuild geht in die zweite Runde!"
+    }
+  ]
+}

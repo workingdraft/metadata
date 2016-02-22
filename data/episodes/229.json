@@ -1,0 +1,51 @@
+{
+  "id": 229,
+  "date": "2015-08-11",
+  "duration": "39:48",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    }
+  ],
+  "trello": "https://trello.com/b/uZ6alz9y/revision-229",
+  "href": "http://workingdraft.de/229/",
+  "audio": "http://workingdraft.de/podpress_trac/web/2830/0/wd-229.mp3",
+  "title": "Stop pushing the web forward",
+  "description": "Weder Sommerhitze noch Sommerloch konnten Stefan, Schepp und Peter davon abhalten das einzige nennenswerte Thema der Woche in eigentlich völlig ungebührlicher Breite durchzukauen.",
+  "topics": [
+    {
+      "title": "Stop pushing the web forward",
+      "href": "http://www.quirksmode.org/blog/archives/2015/07/stop_pushing_th.html",
+      "time": "00:00:10",
+      "description": "Peter-Paul Koch fordert ein Moratorium über neue Browserfeatures und wir sind einigermaßen perplex. Nicht nur glauben wir, dass PPK weiß, dass sich das nicht durchsetzen lässt, auch über Motivation und Ziele hinter dieser Forderung sind wir ziemlich verwirrt und wir halten sie am Ende für ziemlichen Käse. Schützenhilfe bekommen wir aus der Richtung von <a href=\"https://jakearchibald.com/2015/if-we-stand-still-we-go-backwards/\">Jake Archibald</a> und <a href=\"https://dev.opera.com/articles/on-a-moratorium-on-new-browser-features/\">Bruce Lawson</a>, die ebenfalls nicht viel mit dem Moratorium anfangen können."
+    }
+  ],
+  "links": [
+    {
+      "title": "Designing for Performance – free online",
+      "href": "http://designingforperformance.com/",
+      "time": "00:37:32",
+      "description": "Ein Einsteiger-Buch über Performance für Designer, jetzt kostenlos online."
+    }
+  ]
+}
