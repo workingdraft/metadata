@@ -1,0 +1,74 @@
+{
+  "id": 317,
+  "date": "2017-11-20",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    }
+  ],
+  "duration": "55:44",
+  "href": "https://workingdraft.de/317/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3499/0/wd-317.mp3",
+  "title": "Post-PostCSS",
+  "description": "Stefan, Hans und Schepp geben Erfahrungsberichte zu dem in <a href=\"/224\">Revision 224 zum ersten Mal vorgestellten PostCSS</a>.",
+  "topics": [
+    {
+      "title": "PostCSS",
+      "href": "http://postcss.org/",
+      "time": "00:00:17",
+      "description": "PostCSS ist gleichzeitig wenig und auch vieles. Das Framework selbst bietet nicht mehr und nicht weniger als eine Möglichkeit CSS in einen Abstract Syntax Tree zu verwandeln, und das später wieder in CSS zu verwandeln. Erst die Plugins mit all den möglichen Transformationen machen PostCSS zu dem mächtigen Werkzeug, das es sein will. Und ab diesem Punkt scheiden sich die Geister. Während Schepp Präprozessoren-Features nur schwer zusammenstellen kann, Stefan die &#8222;Nutz das CSS der Zukunft&#8220; Message mit fake news abstempelt, liebt Hans die Flexibilität und Einfachheit des Werkzeugs. Wir plaudern eine Stunde aus dem Nähkästchen und zeigen drei doch sehr unterschiedliche Erfahrungen."
+    }
+  ],
+  "links": [
+    {
+      "title": "The whole web at maximum FPS: How WebRender gets rid of jank",
+      "href": "https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/",
+      "time": "00:52:20",
+      "description": "Firefox ist wieder schnell, und Lin Clark erklärt wieso."
+    },
+    {
+      "title": "Introducing OpenType Variable Fonts",
+      "href": "https://medium.com/@tiro/https-medium-com-tiro-introducing-opentype-variable-fonts-12ba6cd2369",
+      "time": "00:52:20",
+      "description": "Variable Fonts erlaubt viel Schnitt-Anpassung für wenig Datentransfer. In diesem Artikel wird erklärt wie das funktioniert."
+    },
+    {
+      "title": "Special session: OpenType",
+      "href": "https://www.youtube.com/watch?v=6kizDePhcFU",
+      "time": "00:52:20",
+      "description": "&#8230; ebenso in diesem Video."
+    },
+    {
+      "title": "Get the advantages of TypeScript without transpiling",
+      "href": "http://seg.phault.net/blog/2017/10/typescript-without-transpiling/",
+      "time": "00:52:20",
+      "description": "TypeScript features kann man auch nutzen ohne sich die Sprache einzukaufen. Mit etwas JSDoc und Tooling wird erklärt wie."
+    },
+    {
+      "title": "RuhrJS Videos",
+      "href": "https://www.youtube.com/channel/UC-0xLLbMjs5zANHldhGld-A",
+      "time": "00:52:20",
+      "description": "Die RuhrJS Videos sind schon da! Tolle Konferenz mit interesannten Vorträgen."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 307,
+  "date": "2017-07-25",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    }
+  ],
+  "duration": "56:08",
+  "href": "https://workingdraft.de/307/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3436/0/wd-307.mp3",
+  "title": "HEIF, Bildformate und -optimierung",
+  "description": "Hans und Anselm quatschen in bestem Wissen und doch einiger Ausführlichkeit über Bildformate und Bildoptimierung auf Webseiten und geben wertvolle Tipps für Webentwickler und Designer, um bessere Bildqualität bei geringer Dateigröße auszuliefern. Alles mit praktischen Tipps und nicht nur Theorie.",
+  "topics": [
+    {
+      "title": "Bildformate und -optimierung",
+      "href": "https://iso.500px.com/heif-first-nail-jpegs-coffin/",
+      "time": "00:00:13",
+      "description": "Angesichts der Tatsache, dass Apple im Herbst mit HEIF ein ganz neues Bildformat an die Massen bringen wird, sehen wir uns gewillt, noch einmal für fast alle gängigen Probleme und Herausforderungen im Alltag des Webentwicklers und Designers Lösungen zu finden und Empfehlungen zu geben. Wir sprechen über Barrierefreiheit, Suchmaschinenoptimierung, Bildoptimierung auf dem eigenen Rechner oder dem Server und generelle Workflows und Ideen, um auch Kunden mitzugeben, wie Bilder optimiert werden können."
+    }
+  ],
+  "links": [
+    {
+      "title": "sonar",
+      "href": "https://sonarwhal.com/",
+      "time": "00:52:32",
+      "description": "sonar ist ein absolut umfangreiches, flexibles Linting-Tool für Webseiten mit Dutzenden an Anwendungsszenarien."
+    }
+  ]
+}

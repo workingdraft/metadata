@@ -1,0 +1,45 @@
+{
+  "id": 338,
+  "date": "2018-05-5",
+  "people": [
+    {
+      "name": "Robin Mehner",
+      "twitter": "https://twitter.com/rmehner"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    }
+  ],
+  "duration": "1:07:12",
+  "href": "https://workingdraft.de/338/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3687/0/wd-338.mp3",
+  "title": "Web Apps, PWAs und Offline in der Praxis",
+  "description": "Für diese Revision haben wir uns den <a href=\"https://coding-robin.de/\">Robin Mehner</a> (<a href=\"https://twitter.com/rmehner\">@rmehner</a> auf Twitter) eingeladen, der nicht nur (Mit-)Organisator verschiedener Berliner Meetups wie der BerlinJS oder der <a href=\"http://up.front.ug/\">Up.front</a> ist, sondern auch der Reject.JS-Konferenz (als es sie noch gab). Wir quatschten mit Robin über seine Erfahrungen und Learnings beim Bau von offline-fähigen Web Apps, über die Erwartungshaltung von Benutzern dieser Anwendungen und über die Service Worker Technologie und ihre Fallstricke im Speziellen.",
+  "topics": [
+    {
+      "title": "(Progressive) Web Apps",
+      "time": "00:01:08",
+      "description": "Im Verlauf unseres Gesprächs über den Bau und den Betrieb von Web-Apps, berührten wir folgende Punkte (not in order of appearance):<p></p>\n<ul>\n<li><a href=\"https://www.youtube.com/watch?v=SmZ9XcTpMS4\">Service Worker Intro Talk: &#8222;The ServiceWorker is coming, look busy&#8220;</a></li>\n<li><a href=\"https://caniuse.com/#feat=serviceworkers\">Service Worker Support in Browsern</a></li>\n<li><a href=\"https://medium.com/@firt/pwas-are-coming-to-ios-11-3-cupertino-we-have-a-problem-2ff49fd7d6ea\">PWAs in iOS</a></li>\n<li><a href=\"https://github.com/GoogleChromeLabs/sw-toolbox\">Die Service Worker Toolbox</a></li>\n<li><a href=\"https://developers.google.com/web/tools/workbox/\">Das fantastische Google Workbox Toolkit</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=CPP9ew4Co0M\">Talk zu Service Worker Gotschas: &#8222;ServiceWorkers Outbreak: index-sw-9a4c43b4b47781ca619eaaf5ac1db.js&#8220;</a></li>\n<li><a href=\"https://developers.google.com/web/fundamentals/push-notifications/\">Push Notifications</a></li>\n<li><a href=\"https://www.npmjs.com/package/web-push\">Die web-push Library</a></li>\n<li><a href=\"https://sakurity.com/blog/2016/12/10/serviceworker_botnet.html\">Building Botnets on ServiceWorkers</a></li>\n<li><a href=\"https://developers.google.com/web/updates/2016/07/offline-google-analytics\">Service Worker Offline Analytics</a></li>\n</ul>"
+    }
+  ],
+  "links": [
+    {
+      "title": "Nightly Build 2018",
+      "href": "https://ti.to/nightlybuild/nightlybuild-2018",
+      "time": "01:04:16",
+      "description": "Auch dieses Jahr gibt es wieder eine Ausgabe von Hans&#8216;, Anselms, Sebastians und Davids After-Work-Konferenz im Herbst in Köln-Ehrenfeld. Diesmal aber in einer neuen Location. Thema ist &#8222;Die Zukunft des Arbeitens&#8220;."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 292,
+  "date": "2017-03-6",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Johannes Schickling",
+      "twitter": "https://twitter.com/_schickling"
+    }
+  ],
+  "duration": "1:06:05",
+  "href": "https://workingdraft.de/292/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3319/0/wd-292.mp3",
+  "title": "Bessere APIs mit GraphQL",
+  "description": "<a href=\"http://workingdraft.wire.com\" style=\"display: block; margin: 1em 0; width: 100%; max-width: 500px\"><img src=\"http://workingdraft.de/wp-content/uploads/2017/02/Wire-800x350.png\" alt=\"\" width=\"800\" height=\"350\" class=\"alignleft size-full wp-image-3294\" style=\"width: 100%; height: auto\" srcset=\"https://workingdraft.de/wp-content/uploads/2017/02/Wire-800x350.png 800w, https://workingdraft.de/wp-content/uploads/2017/02/Wire-800x350-300x131.png 300w, https://workingdraft.de/wp-content/uploads/2017/02/Wire-800x350-768x336.png 768w\" sizes=\"(max-width: 800px) 100vw, 800px\"></a>\n\nWie bereits vor zwei Wochen wird diese Revision von <a href=\"http://workingdraft.wire.com\">Wire</a>, dem <a href=\"https://www.heise.de/newsticker/meldung/Sicherheits-Audit-von-Krypto-Messenger-Wire-abgeschlossen-3621550.html\">sicheren</a> <a href=\"https://github.com/wireapp\">Open Source</a> Messaging Client für all eure Plattformen gesponsort. Zudem gehören – dank der neuen Textsuche – verlorengegangene Nachrichten ab sofort der Vergangenheit an.\n\nZur neusten Sendung ist <a href=\"https://twitter.com/_schickling\">Johannes Schickling</a> mit von der Partie. Nachdem er in London sein erstes Startup erfolgreich hinter sich gelassen hat, arbeitet er nun in Berlin am nächsten Coup. Das Thema ist GraphQL, die Firma heißt <a href=\"https://www.graph.cool/\">Graphcool</a>.",
+  "topics": [
+    {
+      "title": "GraphQL",
+      "href": "http://graphql.org/",
+      "time": "00:01:39",
+      "description": "Johannes hat uns das Thema GraphQL mitgebracht. Wir sprechen darüber, für was man GraphQL einsetzen kann und <a href=\"https://learngraphql.com/\">wie man den Umgang damit lernt</a>.<br>\nMit <a href=\"https://www.learnapollo.com/\">Apollo</a> (flexibel in der Nutzung, Integrationen für alle möglichen SPA-Frameworks) gibt es ein tolles Tool, was den Einsatz von GraphQL stark vereinfacht. Auch <a href=\"https://facebook.github.io/relay/\">Facebooks Relay</a> (viel automatisches Caching, React only) ist ganz interessant.<br>\nAußerdem stellt uns Johannes eine <a href=\"https://api.graph.cool/simple/v1/cixos23120m0n0173veiiwrjr\">Test API von Graphcool</a> zur Verfügung.<br>\nMit <a href=\"https://graphql-europe.org\">GraphQL-Europe</a> findet zusätzlich im Mai die erste europäische Konferenz zum Thema statt.<br>\nWeitere Links zum Thema findet ihr <a href=\"https://github.com/chentsulin/awesome-graphql\">hier</a>."
+    }
+  ],
+  "news": [
+    {
+      "title": "Die erste SHA1 Kollision",
+      "href": "https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html",
+      "time": "01:03:31",
+      "description": "SHA1 ist mittlerweile nicht mehr sicher. Mit einiger Rechenpower hat ein Google-Team die ersten beiden gleichen SHA1-Strings erzeugt."
+    }
+  ],
+  "links": [
+    {
+      "title": "A Detailed Introduction To Webpack",
+      "href": "https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/",
+      "time": "01:04:51",
+      "description": "In <a href=\"http://workingdraft.de/289/\">Revision 289</a> haben wir uns ausführlich zum Thema Webpack unterhalten. Für alle, die die Grundlagen von Webpack noch mal in einem Artikel zusammengefasst lesen möchten, gibt es diesen jetzt beim Smashing Magazine."
+    }
+  ]
+}

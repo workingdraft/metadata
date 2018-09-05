@@ -1,0 +1,68 @@
+{
+  "id": 337,
+  "date": "2018-04-26",
+  "people": [
+    {
+      "name": "Frederic Hemberger",
+      "twitter": "https://twitter.com/fhemberger",
+      "web": "http://frederic-hemberger.de/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    }
+  ],
+  "duration": "52:53",
+  "href": "https://workingdraft.de/337/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3667/0/wd-337.mp3",
+  "title": "DevOps",
+  "description": "Wir hatten mal wieder Frederic Hemberger (<a href=\"https://frederic-hemberger.de/\">Web</a>, <a href=\"https://twitter.com/fhemberger\">Twitter</a>) zu Gast, mit dem wir uns über das neueste aus der DevOps-Welt austauschten.",
+  "topics": [
+    {
+      "title": "DevOps",
+      "time": "00:01:12",
+      "description": "Wir quatschen über <a href=\"https://de.wikipedia.org/wiki/DevOps\">DevOps</a> und tauschen Erfahrungen mit diverse Tools aus (bzw. stellen im Falle von Peter allerlei naive Fragen)."
+    }
+  ],
+  "links": [
+    {
+      "title": "Wildcard TLS-Zertifikate bei Let’s Encrypt",
+      "href": "https://community.letsencrypt.org/t/acme-v2-and-wildcard-certificate-support-is-live/55579",
+      "time": "00:49:58",
+      "description": "Es gibt einiges neues bei Let&#8217;s Encrypt, nicht nur (aber auch) Wildcard-Zertifikate."
+    },
+    {
+      "title": "Git’s Hidden Feature: Notes",
+      "href": "https://brianschrader.com/archive/gits-hidden-feature-notes/",
+      "time": "00:49:58",
+      "description": "Eines der zahllosen Git-Features, die nicht jeder kennt."
+    },
+    {
+      "title": "gitleaks",
+      "href": "https://github.com/zricethezav/gitleaks",
+      "time": "00:49:58",
+      "description": "Durchsucht die gesamte History eine Git-Repositories nach versehentlich eingecheckten privaten Schlüssen und mehr."
+    }
+  ]
+}

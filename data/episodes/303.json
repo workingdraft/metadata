@@ -1,0 +1,68 @@
+{
+  "id": 303,
+  "date": "2017-06-21",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    }
+  ],
+  "duration": "58:33",
+  "href": "https://workingdraft.de/303/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3404/0/wd-303.mp3",
+  "title": "Cloud Hosting",
+  "description": "Eine knifflige Problemstellung mit einem der dutzend AWS Dienste brachte Hans und Stefan in den Dialog. Prompt war ein Working Draft Thema geboren. So gesellte sich noch Anselm dazu um die Diskussionsrunde zu komplettieren und einen guten Rundumschlag über die modernen Hosting-Möglichkeiten über den Wolken geben.",
+  "news": [
+    {
+      "title": "NPM 5",
+      "href": "http://blog.npmjs.org/post/161081169345/v500",
+      "time": "00:00:15",
+      "description": "NPM 5 ist draussen und hat etliche Neuerungen hinsichtlich Versionslocks, Download-Performance u.ä. Das vielleicht größte NPM Upgrade seit semi-flachen Abhängigkeitsbäumen."
+    }
+  ],
+  "topics": [
+    {
+      "title": "Cloud Hosting",
+      "time": "00:05:32",
+      "description": "Vorbei sind die Zeiten, in denen man sich beim Rechenzentrum nebenan ein paar hundert Megabyte für&#8217;s teure Geld besorgte. Heute sind alle hippen Websites und Web-Applikationen in der Cloud! Wir erzählen von unseren Erfahrungen mit Diensten wie <a href=\"https://aws.amazon.com/de/\">AWS</a> und den damit verbundenen Services wie S3, EC2, CF,<br>\n SES, RDS, MFG, KTHXBYE. Zahlreiche Kürzel, für die man jeweils ein eigenes Diplom benötigt. Da machen es 1-Click Dienstleister wie <a href=\"https://www.digitalocean.com/\">Digital Ocean</a>, <a href=\"https://www.heroku.com/\">Heroku</a>, <a href=\"https://zeit.co/now\">Now</a> und <a href=\"https://www.netlify.com/\">Netlify</a> doch um einiges einfacher, und helfen auch die Kosten entsprechend zu kalkulieren. Wenn man nämlich nach Stunde und Megabyte bezahlt, kann das einem bei entsprechend hohem Traffic schonmal böse überraschen"
+    }
+  ],
+  "links": [
+    {
+      "title": "H2 Push is tougher than I thought",
+      "href": "https://jakearchibald.com/2017/h2-push-tougher-than-i-thought/",
+      "time": "00:55:30",
+      "description": "Schönes neues HTTP2 Feature, allerdings noch nicht reif genug, mein Jake Archibald."
+    },
+    {
+      "title": "Preload, Prefetch & Priorities in Chrome",
+      "href": "https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf",
+      "time": "00:55:30",
+      "description": "Ein Artikel von Addy Osmani beschreibt wie sich die neuen HTML Attribute auf den Ladevorgang im Chrome Browser auswirken."
+    },
+    {
+      "title": "11 things I learned reading the Flexbox spec",
+      "href": "https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b",
+      "time": "00:55:30",
+      "description": "In der Spezifikation von Flexbox stecken ein paar spannende Details, die man berücksichtigen kann wenn man mit den Properties jongliert."
+    },
+    {
+      "title": "70% CSS Repetition",
+      "href": "https://meiert.com/en/blog/20170531/70-percent-css-repetition/",
+      "time": "00:55:30",
+      "description": "Quasi Nachlese zu unserer Revision <a href=\"/301/\">301</a>."
+    }
+  ]
+}

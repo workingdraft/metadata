@@ -1,0 +1,66 @@
+{
+  "id": 274,
+  "date": "2016-08-29",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Aaron Czichon",
+      "twitter": "https://twitter.com/inoverse"
+    }
+  ],
+  "duration": "36:58",
+  "href": "https://workingdraft.de/274/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3168/0/wd-274.mp3",
+  "title": "Ionic Framework",
+  "description": "In dieser Revision haben Schepp, Hans und Stefan <a href=\"https://twitter.com/inoverse\">Aaron Czichon</a> zu Gast um ausführlich über das mobile Crossplattform Framework Ionic zu sprechen.",
+  "topics": [
+    {
+      "title": "Ionic, Cordova, Phonegap",
+      "href": "http://ionic.io/",
+      "time": "00:01:44",
+      "description": "Ionic ist ein auf Angular (2) basierendes Framework, dass für schnelle, plattformübergreifende Mobilentwicklung gestaltet wurde und auf Cordova aufbaut. Aaron erklärt ausführlich die Entwicklung, die das Projekt Phonegap seit 2011 durchgemacht hat, und welche Rolle es im Entstehen des Ionic Frameworks einnimmt. Wir sprechen über Gestaltungsmöglichkeiten, die Ionic Cloud und finden heraus, dass man auch ganz gut ohne Phonegap/Cordova Kern mit Ionic Applikationen gestalten kann. Sehr aufschlußreiche Reise! Aaron gibt übrigens zum Thema Workshops, unter anderem auf <a href=\"http://ionicframework.de/\">seiner eigenen Website</a> und bei den <a href=\"http://angular-days.de/\">Angular Days</a> in Berlin."
+    }
+  ],
+  "links": [
+    {
+      "title": "CSS Writing Mode",
+      "href": "https://ishadeed.com/article/css-writing-mode/",
+      "time": "00:33:15",
+      "description": "Den Textfluss mal eben auf den Kopf stellen? Mit diesem ewig vorhandenen, doch gerne übersehenen Property geht das teilweise besser als mit CSS Transforms."
+    },
+    {
+      "title": "DevTools Challenger",
+      "href": "http://devtoolschallenger.com/",
+      "time": "00:33:15",
+      "description": "Mozilla macht mit dem DevTools Challenger auf sich aufmerksam. Interaktives Spiel, dass einlädt die Firefox Tools ausgiebig zu testen."
+    },
+    {
+      "title": "webrender",
+      "href": "https://air.mozilla.org/bay-area-rust-meetup-february-2016/",
+      "time": "00:33:15",
+      "description": "webrender ist eine sehr interessante Entwicklung für den Servo Browser (und andere), die es ermöglicht superschnell CSS Direktiven auf der GPU zu zeichnen. Zukunftsmusik für einen Zukunftsbrowser, aber etwas, dass wir im Blickfeld haben sollten"
+    }
+  ]
+}

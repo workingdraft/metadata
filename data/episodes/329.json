@@ -1,0 +1,64 @@
+{
+  "id": 329,
+  "date": "2018-02-18",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    null
+  ],
+  "duration": "1:07:48",
+  "href": "https://workingdraft.de/329/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3588/0/wd-329.mp3",
+  "title": "Actor Model und CSS Paint API",
+  "description": "Schepp, Hans, Anselm und Peter durften diesmal <strong>Surma</strong> (<a href=\"https://dassur.ma/\">Web</a>, <a href=\"https://twitter.com/DasSurma\">Twitter</a>) begrüßen und sich mit ihm einmal quer durch den zukünftigen Web-Stack philosophieren.",
+  "news": [
+    {
+      "title": "Using page speed in mobile search ranking",
+      "href": "https://webmasters.googleblog.com/2018/01/using-page-speed-in-mobile-search.html",
+      "time": "00:01:00",
+      "description": "Es ist offiziell: Ladegeschwindigkeit wirkt sich ab Juli auf die Suchaschinen-Platzierung aus."
+    }
+  ],
+  "topics": [
+    {
+      "title": "Performance und das Actor Model",
+      "time": "00:02:37",
+      "description": "Inspiriert von Sprachen wie <a href=\"https://de.wikipedia.org/wiki/Erlang_(Programmiersprache)\">Erlang</a>, <a href=\"https://elixir-lang.org\">Elixir</a> und <a href=\"https://www.ponylang.org\">Pony</a> hat sich Surma mit dem Actor Model beschäftigt und das Ergebnis seiner Überlegungen auch <a href=\"https://dassur.ma/things/actormodel/\">aufgeschrieben</a>. Actor sind Prozesse, die lokalen State haben und über Messages mit anderen Actors kommunizieren können. Im Browser ließe sich dieses Konzept z.B. mit <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API\">Web Workers</a> umsetzen&nbsp;&ndash; da ein Worker exakt einen OS-Thread in Anspruch nimmt, bietet es sich an, für den korrekt dimensionierten Worker-Pool die Anzahl der Cores im Rechner mit <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/NavigatorConcurrentHardware/hardwareConcurrency\">navigator.hardware_concurrency</a> zu ermitteln. Die Kommunikation ließe sich mit einer Library wie <a href=\"https://github.com/GoogleChromeLabs/comlink\">Comlink</a> umsetzen und der Main-Thread könnte zu einem reinen UI-Rendering-Thread herabgestuft werden. Außerdem sprechen wir noch über <a href=\"https://github.com/WebReflection/hyperHTML\">hyperHTML</a>, <a href=\"https://github.com/Polymer/lit-html\">litHTML</a>, Service Worker, was <a href=\"https://paulbakaus.com/2009/10/06/why-i-would-hire-game-developers-for-my-startup/\">Spiele-Entwickler für ein Startup tun könnten</a> und gleiten langsam in das Thema Houdini über."
+    },
+    {
+      "title": "Houdini und die CSS Paint API",
+      "time": "00:48:34",
+      "description": "Neu in Chrome (Version 65) ist jetzt <a href=\"https://developers.google.com/web/updates/2018/01/paintapi\">eine erste Implementierung der CSS Paint API</a>. Dieses erste Feature aus dem Houdini-Projekt (erklärt von <a href=\"http://workingdraft.de/250/\">Bruce Lawson in Revision 250</a>) ermöglicht DIY-CSS-Painting&nbsp;&ndash; Surma erklärt die Details. Außerdem kommen wir noch auf den Canvas Super Cookie zu sprechen, der in <a href=\"http://workingdraft.de/319/\">Revision 319</a> Thema war."
+    }
+  ]
+}

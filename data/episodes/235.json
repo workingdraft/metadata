@@ -1,0 +1,66 @@
+{
+  "id": 235,
+  "date": "2015-10-3",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Philipp Tarasiewicz",
+      "twitter": "https://twitter.com/justphilmusic"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "duration": "1:01:51",
+  "href": "https://workingdraft.de/235/",
+  "audio": "https://workingdraft.de/podpress_trac/web/2883/0/wd-235.mp3",
+  "title": "Houdini, Go Lang und Angular 2",
+  "description": "Es ergab sich, dass wir <a href=\"https://angularjs.de/entwickler/justphil\">Philipp Tarasiewicz</a>, AngularJS- und Go-Entwickler, erneut für die Sendung gewinnen konnten. Wir sprechen mit ihm über seine Kernkompetenzen.",
+  "topics": [
+    {
+      "title": "The Performance of Houdini Paint",
+      "href": "http://bfgeek.com/houdini/2015/09/14/the-performance-of-houdini-paint/",
+      "time": "00:01:19",
+      "description": "Es gibt einen neuen Player im Pool der Standardisierungen: <a href=\"https://dev.opera.com/articles/houdini-f2f-report/\">Houdini</a>, eine Art &#8222;Web Components für CSS&#8220; zum Beschreiben von eigener Styling-Funktionalität. Beispielsweise könnte man etwas wie Schepps <a href=\"https://github.com/Schepp/box-sizing-polyfill\">box-sizing Polyfill</a> damit beschreiben. Wir sprechen über die Aufgaben einer API und diskutieren über bereits bestehende Funktionalitäten, wie beispielsweise <a href=\"https://developers.google.com/web/updates/2014/05/Web-Animations---element-animate-is-now-in-Chrome-36\">Web Animations</a>. Weitere Links:<p></p>\n<ul>\n<li><a href=\"https://github.com/domenic/html-as-custom-elements\">HTML as Custom-Elements</a></li>\n</ul>"
+    },
+    {
+      "title": "Go Lang",
+      "href": "https://golang.org/",
+      "time": "00:11:00",
+      "description": "Go ist eine von Google entworfene <a href=\"https://en.wikipedia.org/wiki/Low-level_programming_language\">Low-Level Programmiersprache</a>, die zumindest ursprünglich ziemlich systemnah arbeitet. Mittlerweile ist Go eine &#8222;General Purpose&#8220; Sprache geworden, die wir in der Diskussion mit C++ und Rust vergleichen. Philipp erklärt uns das gute Ökosystem von Go. Weitere Links:<p></p>\n<ul>\n<li><a href=\"https://github.com/ubolonton/js-csp\">https://github.com/ubolonton/js-csp</a></li>\n<li><a href=\"http://gobot.io/\">Go für IOT</a></li>\n<li><a href=\"https://golang.org/\">Zum Start: Go-Webseite reicht</a></li>\n</ul>"
+    },
+    {
+      "title": "AngularJS 2.0",
+      "href": "https://angular.io/",
+      "time": "00:35:30",
+      "description": "Wie wir bereits schon öfter angesprochen haben, ist bei Angular zeitnah eine Überarbeitung fällig. Mit Angular 2 wird das Framework aufgeräumt und arbeitet unter der Haube mit Web Components bzw. <a href=\"https://www.polymer-project.org/1.0/\">Polymer</a>. Wir sprechen über Isomorphe Ansätze und den Alpha-Status. Philipp empfiehlt neue Projekte nur mit Angular 2 anzufangen, wenn es sich um langfristige Projekte handelt. Angular 1.x Projekte sollte man dann aber so bauen, dass sie leicht nach Angular 2 zu konvertieren sind."
+    }
+  ],
+  "links": [
+    {
+      "title": "What forces layout / reflow",
+      "href": "https://gist.github.com/paulirish/5d52fb081b3570c81e3a",
+      "time": "00:59:53",
+      "description": "Eine Liste an JavaScript-Eigenschaften, die einen Reflow im Browser triggern."
+    }
+  ]
+}

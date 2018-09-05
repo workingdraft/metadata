@@ -1,0 +1,54 @@
+{
+  "id": 294,
+  "date": "2017-03-22",
+  "people": [
+    {
+      "name": "Sven Wolfermann",
+      "twitter": "https://twitter.com/maddesigns",
+      "web": "http://maddesigns.de/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    }
+  ],
+  "duration": "46:08",
+  "href": "https://workingdraft.de/294/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3338/0/wd-294.mp3",
+  "title": "CSS Grids",
+  "description": "<a href=\"http://workingdraft.wire.com\" style=\"display: block; margin: 1em 0; width: 100%; max-width: 500px\"><img src=\"http://workingdraft.de/wp-content/uploads/2017/02/Wire-800x350.png\" alt=\"\" width=\"800\" height=\"350\" class=\"alignleft size-full wp-image-3294\" style=\"width: 100%; height: auto\" srcset=\"https://workingdraft.de/wp-content/uploads/2017/02/Wire-800x350.png 800w, https://workingdraft.de/wp-content/uploads/2017/02/Wire-800x350-300x131.png 300w, https://workingdraft.de/wp-content/uploads/2017/02/Wire-800x350-768x336.png 768w\" sizes=\"(max-width: 800px) 100vw, 800px\"></a>\n\nBereits zum dritten Mal wird unser Podcast jetzt von <a href=\"http://workingdraft.wire.com\">Wire</a> gesponsort, dem <a href=\"https://www.heise.de/newsticker/meldung/Sicherheits-Audit-von-Krypto-Messenger-Wire-abgeschlossen-3621550.html\">sicheren</a> <a href=\"https://github.com/wireapp\">Open Source</a> Messaging Client für all eure Plattformen. Dank verbesserter Technik verbindet sich der Messenger nun noch schneller mit der Gegenseite, und die Übertragungsqualität ist dabei auch noch gestiegen!\n\nFür diese Revision haben wir uns nach längerer Zeit mal wieder den <a href=\"https://twitter.com/maddesigns\">Sven Wolfermann</a> eingeladen, den man desöfteren auf Konferenzen, Community-Events und Unkonferenzen mit Vorträgen zu fortgeschrittenen CSS-Techniken antreffen kann. Selbiges gilt für <a href=\"http://maddesigns.de/\">sein Blog unter maddesigns.de</a>. Denn wir wollten diese Woche gerne über die neuen CSS Grids sprechen, die jetzt nach und nach in den neuen Browsern freigeschaltet werden.",
+  "topics": [
+    {
+      "title": "CSS Grids",
+      "href": "http://maddesigns.de/css-grid-layout-2764.html",
+      "time": "00:02:28",
+      "description": "Lange wurde daran gearbeitet und wir hatten sie eigentlich <a href=\"http://workingdraft.de/246/\">schon letztes Jahr erwartet</a>, nun ist es endlich soweit: CSS Grids kommen! Mit Sven sprechen wir darüber, welche Lücke die Grids füllen und inwiefern sie vergleichbar sind mit den guten alten Tabellenlayouts oder <a href=\"https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/\">Flexbox</a>. Weiter geht es mit der Frage des <a href=\"http://caniuse.com/#feat=css-grid\">Browser-Supports</a>, und <a href=\"https://rachelandrew.co.uk/archives/2016/11/26/should-i-try-to-use-the-ie-implementation-of-css-grid-layout/\">ob der Internet Explorer mit seiner Vorversion von Grids gut genug ist, um den praktischen Einsatz zu wagen</a>. Die Möglichkeiten und Vorzüge von Grids machen einige Demos deutlich, die man mal gesehen haben sollte:<p></p>\n<ul>\n<li><a href=\"gridbyexample.com\">Grid by Example</a></li>\n<li><a href=\"http://codepen.io/maddesigns/pen/GjKkAd\">CSS Grid Article Layout</a></li>\n<li><a href=\"http://codepen.io/maddesigns/pen/LRyzyY\">Async CSS Grid Article Layout (5 columns)</a></li>\n<li><a href=\"http://codepen.io/maddesigns/pen/GraRVd\">CSS Grids Panel</a></li>\n<li><a href=\"http://codepen.io/stacy/pen/gLxONO\">CSS Grid Layout &#8211; responsive gallery demo</a></li>\n<li><a href=\"http://codepen.io/rachelandrew/pen/LRWPNp\n\">Websafe colors meet CSS Grid (auto-placement demo)<br>\n</a></li>\n<li><a href=\"http://codepen.io/i-like-robots/pen/QKKgoO\">CSS grid layout &#8211; skeleton demo steps</a></li>\n<li><a href=\"http://labs.jensimmons.com/2016/\">The Experimental Layout Lab of Jen Simmons</a></li>\n</ul>\n<p>Wer nach unserem Gespräch Lust bekommen hat, sich selbst mit den CSS Grids zu befassen, dem empfiehlt Sven folgendes Lernmaterial, um schnell in die Spur zu kommen:</p>\n<ul>\n<li><a href=\"gridbyexample.com\">Grid by Example</a></li>\n<li><a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout\">Basic concepts of grid layout</a></li>\n<li><a href=\"https://tympanus.net/codrops/css_reference/grid/\">CSS Reference: Grid</a></li>\n<li><a href=\"http://igalia.github.io/css-grid-layout/\">CSS Grid Layout Examples</a></li>\n<li><a href=\"http://jensimmons.com/post/feb-27-2017/learn-css-grid\">Learn CSS Grid</a></li>\n</ul>\n<p>Abschließend blicken wir in die Zukunft und sprechen über das Konzept der &#8222;<a href=\"https://css-tricks.com/will-flattening-html-css-grids/\">Subgrids</a>&#8222;, das von vielen Entwicklern im Zuge der Grids-Entwicklung nachgefragt wurde, und das <a href=\"https://twitter.com/rachelandrew/status/842130526647554048\">in eine nächste Ausbaustufe des Layoutstandards gewandert ist</a>.\n</p>"
+    }
+  ],
+  "links": [
+    {
+      "title": "Animista",
+      "href": "http://animista.net/",
+      "time": "00:43:57",
+      "description": "Eine Bibliothek von fix und fertigen CSS-Animationen"
+    },
+    {
+      "title": "Scram.js",
+      "href": "https://github.com/scramjs/scram-engine",
+      "time": "00:43:57",
+      "description": "Ein Electron-basiertes Framework, das es erlaubt, mit Web Components serverseitigen Code zu schreiben."
+    }
+  ]
+}

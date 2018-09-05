@@ -1,0 +1,56 @@
+{
+  "id": 234,
+  "date": "2015-09-20",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    }
+  ],
+  "duration": "35:32",
+  "href": "https://workingdraft.de/234/",
+  "audio": "https://workingdraft.de/podpress_trac/web/2873/0/wd-234.mp3",
+  "title": "Probleme mit Feature-Detection und Vererbung in CSS",
+  "description": "Auch diese Sendung ist nur leicht besetzt: Anselm und Hans geben ihr bestes aus der aktuellen Themenlage die schönsten Themen zu besprechen.",
+  "news": [
+    {
+      "title": "Node.js v4.0",
+      "href": "https://nodejs.org/en/blog/release/v4.0.0/",
+      "time": "00:00:13",
+      "description": "Node.js wurde in Version 4.0 veröffentlicht. Dies ist die erste Version, die vorne keine Null hat."
+    },
+    {
+      "title": "Modernizr v3",
+      "href": "https://twitter.com/Modernizr/status/643464140397285376",
+      "time": "00:00:13",
+      "description": "Lange hat es gedauert, aber nun ist es endlich so weit: Modernizr Version 3 mit vielen neuen Feature-Detects und einem neuen Builder ist da."
+    }
+  ],
+  "topics": [
+    {
+      "title": "The Problems with Feature Detection",
+      "href": "http://blog.html5test.com/2015/08/the-problems-with-feature-detection/",
+      "time": "00:02:24",
+      "description": "Die Veröffentlichung von Modernizr v3 nehmen wir zum Anlasse einmal genauer über Feature-Detection und die damit verbundenen Schwierigkeiten von &#8222;False-Positives&#8220; und nicht zu erkennenden Features zu sprechen."
+    },
+    {
+      "title": "Back to the :roots",
+      "href": "http://simurai.com/blog/2015/09/09/back-to-the-roots/",
+      "time": "00:23:20",
+      "description": "Simurais Artikel &#8222;Back to the :roots&#8220; zeigt auf, welche Möglichkeiten CSS von Haus aus mitbringt, um beispielsweise per <code>inherit</code>&#8211; oder <code>currentColor</code>-Eigenschaften durch Vererbung zum Theming nutzen kann. Wir diskutieren, wie sich diese Art der Vererbung in Projekten einsetzen lässt und wie unser Vorgehen in solchen Situationen ist."
+    }
+  ]
+}

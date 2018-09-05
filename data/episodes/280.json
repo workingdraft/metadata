@@ -1,0 +1,62 @@
+{
+  "id": 280,
+  "date": "2016-10-28",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    }
+  ],
+  "duration": "48:11",
+  "href": "https://workingdraft.de/280/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3213/0/wd-280.mp3",
+  "title": "Yarn und Styled Components",
+  "description": "Hans, Stefan und Schepp besprechen heute den kürzlich veröffentlichten Paketmanager Yarn und die &#8222;Styled Components&#8220; CSS Lösung für React.",
+  "topics": [
+    {
+      "title": "Yarn",
+      "href": "https://code.facebook.com/posts/1840075619545360",
+      "time": "00:01:51",
+      "description": "Yarn schickt sich an als neuer Paket-Manager für NPM und Bower die ultimative Lösung für den Web-Entwickler von heute zu sein, der sowohl am Front-End als auch bei Node die bestmöglichen Ergebnisser erzielt: Schnell, stabil, sicher. Und mit einem Lockfile der sichere Garant auf allen Plattformen zu jeder Zeit einen bestimmten Status herstellen zu können. Mit Facebook, Google und <a href=\"http://yehudakatz.com/2016/10/11/im-excited-to-work-on-yarn-the-new-js-package-manager-2/\">Yehuda Katz</a> an Bord ist die Hersteller-Runde ziemlich prominent besetzt und Garant für langfristigen Fortbestand.<br>\n  Wir haben Yarn getestet und sind ein wenig in die Tiefen vorgedrungen: Wie arbeitet das Lockfile und der daraus resultierende Dependency Tree? Wie <a href=\"https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc#.q739apzbs\">unterscheidet er sich von NPM</a>, und im Speziellen vom <a href=\"https://medium.com/@boennemann/avoid-yarn-for-packages-and-fully-enjoy-its-benefits-for-application-development-8bdd4deb33cf#.24pfiyfmj\">shrinkwrap feature</a> der NPM CLI? Wie funktioniert das Zusammenspiel mit Bower und NPM über Yarn? <a href=\"https://bower.io/blog/2016/using-bower-with-yarn/\">Funktioniert es überhaupt</a>? Wir klären auf!"
+    },
+    {
+      "title": "Styled Components",
+      "href": "https://styled-components.com/",
+      "time": "00:30:39",
+      "description": "Max Stoiber und Glenn Maddern veröffentlichen mit Styled Components die Mutter der React Styling Lösungen. Das ganze ist schick, verwendet tatsächlich Stylesheets und hat mit eingebauten CSS Modulen auch echt sauberen Output. Wir erinnern uns an den Weg dorthin (im JavaScript gerenderte Style Attribute, würgs) und befinden die jetzige Lösung für elegant und sehr nutzbar!"
+    }
+  ],
+  "links": [
+    {
+      "title": "CSS Hide and Seek",
+      "href": "http://hugogiraudel.com/2016/10/13/css-hide-and-seek/",
+      "time": "00:45:04",
+      "description": "Der ultimative, kampferprobte Screenreader-Only Hack. 2016 Edition."
+    },
+    {
+      "title": "Taking PHP seriously",
+      "href": "https://slack.engineering/taking-php-seriously-cf7a60065329#.8yt03af6j",
+      "time": "00:45:04",
+      "description": "PHP. Du vielgenutztes Ziel aller Programmier-Spöttereien. Wie schaffst du es nur von so vielen großen Firmen so gewinnbringend eingesetzt zu werden. Ein Slack Entwickler deckt auf."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": 245,
+  "date": "2015-12-19",
+  "people": [
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    }
+  ],
+  "duration": "40:58",
+  "href": "https://workingdraft.de/245/",
+  "audio": "https://workingdraft.de/podpress_trac/web/2963/0/wd-245.mp3",
+  "title": "Web Components und Links",
+  "description": "Schepp, Stefan und Peter debattierten Web Components und verteilten die allwöchentliche Ladung Links.",
+  "topics": [
+    {
+      "title": "Web Components und Gremlin.js",
+      "href": "http://grml.in/",
+      "time": "00:00:10",
+      "description": "Angeregt durch das Erscheinen der Minimal-Web-Components-Library <a href=\"http://grml.in/\">Gremlin.js</a> (nicht zu verwechseln mit dem Test-Tool <a href=\"https://github.com/marmelab/gremlins.js\">Gremlins.js</a>) plaudern wir über Web Components allgemein. Neben Web Components in unserem Alltag (nicht existent) geht es um <a href=\"http://www.w3.org/TR/custom-elements/\">Custom Elements</a>, <a href=\"http://www.w3.org/WAI/intro/aria\">WAI-ARIA</a>, <a href=\"https://developer.mozilla.org/de/docs/Web/API/MutationObserver\">Mutation Observers</a>, und<br>\n<a href=\"http://handlebarsjs.com/\">Handlebars.js</a> sowie die möglichen Alternativ-Libraries <a href=\"https://x-tag.github.io/\">X-Tag</a> und <a href=\"https://www.polymer-project.org/1.0/\">Polymer</a>. Am Ende stellen wir in Frage, ob für man für den Funktionsumfang von Gremlin.js überhaupt Gremlin.js selbst braucht."
+    }
+  ],
+  "links": [
+    {
+      "title": "Zwei Flexbox-Links",
+      "time": "00:37:20",
+      "description": "<a href=\"https://medium.com/@Heydon/flexbox-grid-finesse-4d22b80bfee1#.s3pyw4ra6\">Flexbox Grid Finesse</a> gibt Tipps für den Einsatz von Flexbox für Grid-Layouts. <a href=\"https://medium.com/@samserif/flexbox-s-best-kept-secret-bd3d892826b6#.9w1h1pa6k\">Flexbox’s Best-Kept Secret</a> zeigt, was man im Flexbox-Kontext mit Auto-Margins anstellen kann."
+    },
+    {
+      "title": "Taking Let’s Encrypt for a Spin",
+      "href": "https://timkadlec.com/2015/12/taking-lets-encrypt-for-a-spin/",
+      "time": "00:37:20",
+      "description": "Tim Kadlec beschreibt, wie einfach es ist, <a href=\"https://letsencrypt.org/\">Let&#8217;s encrypt</a> zu verwenden."
+    },
+    {
+      "title": "Optimizing performance of multi-tier web applications using HTTP/2 push",
+      "href": "http://blog.kazuhooku.com/2015/12/optimizing-performance-of-multi-tiered.html",
+      "time": "00:37:20",
+      "description": "Das Push-Feature von HTTP/2 erklärt."
+    },
+    {
+      "title": "HTTP/2 is here! Goodbye SPDY? Not quite yet",
+      "href": "https://blog.cloudflare.com/introducing-http2/",
+      "time": "00:37:20",
+      "description": "Warum SPDY auch in einer Welt mit HTTP/2 erst mal noch wichtig ist."
+    }
+  ]
+}

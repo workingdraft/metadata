@@ -1,0 +1,70 @@
+{
+  "id": 321,
+  "date": "2017-12-10",
+  "people": [
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    }
+  ],
+  "duration": "32:51",
+  "href": "https://workingdraft.de/321/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3522/0/wd-321.mp3",
+  "title": "HTTP/2 Server Push",
+  "description": "Im Duett über die Tücken der modernen HTTP/2 Server. Mit Anselm und Stefan",
+  "news": [
+    {
+      "title": "Colloq",
+      "href": "https://colloq.io/",
+      "time": "00:00:15",
+      "description": "Anselms Projekt zur Verbesserung der Event-Aufbereitung ist endlich da! Tolles Service für Teilnehmer und Gastgeber"
+    },
+    {
+      "title": "Firefox Quantum",
+      "href": "https://developer.mozilla.org/en-US/Firefox/Releases/57#Quantum_CSS_notes",
+      "time": "00:00:15",
+      "description": "Der neue Firefox ist komplett anders unter der Haube, und dann auch noch sauschnell. Toller Rewrite der in die Jahre gekommenen Browserengine."
+    }
+  ],
+  "topics": [
+    {
+      "title": "HTTP/2 push is tougher than I thought",
+      "href": "https://jakearchibald.com/2017/h2-push-tougher-than-i-thought/",
+      "time": "00:04:50",
+      "description": "Jake Archibald kramt einen alten Artikel hoch und macht nochmal darauf aufmerksam, dass im HTTP/2 Land nicht alles heile ist. Anselm und Stefan teilen Erfahrungen und erläutern, warum es nicht mehr die Silberkugel für jedes Problem gibt. Außerdem erwähnen wir die beliebten HTTP/2 Server wie <a href=\"https://caddyserver.com\">Caddy Server</a> und die sehr fortgeschrittene Implementierung in <a href=\"https://nodejs.org/api/http2.html\">Node.js</a>"
+    }
+  ],
+  "links": [
+    {
+      "title": "ComLink",
+      "href": "https://github.com/GoogleChromeLabs/comlink",
+      "time": "00:30:12",
+      "description": "Wrapper rund um <code>postMessage()</code> macht Kommunizieren einfacher."
+    },
+    {
+      "title": "Luxon",
+      "href": "http://moment.github.io/luxon/",
+      "time": "00:30:12",
+      "description": "Das neue Moment.js mit fescher und moderner API."
+    },
+    {
+      "title": "Accessible React Apps",
+      "href": "http://simplyaccessible.com/article/react-a11y/",
+      "time": "00:30:12",
+      "description": "Macht eure React Apps barrierefrei. Der Artikel gibt Grundlagentipps und zeigt Tools."
+    }
+  ]
+}

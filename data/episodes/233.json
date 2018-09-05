@@ -1,0 +1,70 @@
+{
+  "id": 233,
+  "date": "2015-09-01",
+  "duration": "01:09:40",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    }
+  ],
+  "href": "https://workingdraft.de/233/",
+  "audio": "https://workingdraft.de/podpress_trac/web/2865/0/wd-233.mp3",
+  "title": "CSS Layout Techniken",
+  "description": "Dank Post-Nightlybuild-schem Glückssyndrom gehen wir in reduzierter Besetzung aus Anselm und Stefan in die Gefilde der modernen Layout-Techniken.",
+  "news": [
+    {
+      "title": "Mobile Friendly Web Pages using App Banners",
+      "href": "http://googlewebmastercentral.blogspot.co.uk/2015/09/mobile-friendly-web-pages-using-app.html",
+      "time": "00:00:12",
+      "description": "Wer seinen Usern mit dreister, großflächiger App-Werbung die Tür zum Content vor der Nase zuschmeißt, wird ab 1. November von Google in den Such-Rankings bestraft. Gute Sache."
+    },
+    {
+      "title": "Edge und Video",
+      "href": "http://dev.modern.ie/platform/status/webmcontainer/",
+      "time": "00:00:12",
+      "description": "Edge implementiert den WebM Container. Ein Schritt näher zu offenen, hochoptimierten Medienformaten. Der nächste Schritt: Die <a href=\"http://aomedia.org/press-release/alliance-to-deliver-next-generation-open-media-formats/\">Allianz für offene Medien</a>."
+    }
+  ],
+  "topics": [
+    {
+      "title": "CSS Grid / Flex Layout",
+      "href": "https://rachelandrew.co.uk/archives/2015/09/02/css-grid-and-the-box-alignment-module/",
+      "time": "00:01:47",
+      "description": "Rachel Andrew hat es sich zum Ziel gesetzt, das CSS Grid Layout Modul solange zu evangelisieren, bis Browser es auch unterstützen. Sie macht das nicht nur hochmotiviert, sondern auch sehr gut. Ihren jüngsten Artikel nehmen wir zum Anlass um über die neuen Layoutmöglichkeiten zu diskutieren. Grundkonsens: Die Spezifikationen sind umfangreich und wirken auf den ersten Blick höchst kompliziert. In der Anwendung sind sowohl <a href=\"https://medium.com/@patrickbrosset/css-grid-layout-6c9cba6e8a5a\">Grid</a>&#8211; als auch Flexbox höchst einfach. Etwas, auf das wir uns freuen können. Nebenbei erwähnen wir auch noch Vasilis&#8216; <a href=\"https://vasilis.nl/nerd/but-vasilis/\">responsive Layout-Techniken</a>, die Media-Query frei funktionieren und großartige Ergebnisse liefern."
+    }
+  ],
+  "links": [
+    {
+      "title": "Toxy",
+      "href": "https://github.com/h2non/toxy",
+      "time": "00:35:07",
+      "description": "Node Proxy, der suboptimale Bedingungen simuliert. Von Latenzzeiten bis zum Paketverlust ist alles drin."
+    },
+    {
+      "title": "Reactive Programming mit ES6",
+      "href": "https://github.com/pandastrike/fairmont/wiki/Reactive-Programming",
+      "time": "00:35:07",
+      "description": "Buzzword oder tolle, neue Progammieridee? Der Artikel gibt Aufschluß."
+    },
+    {
+      "title": "Front-End Tooling mit Gulp, Yeoman und Bower",
+      "href": "https://www.manning.com/books/front-end-tooling-with-gulp-bower-and-yeoman/?a_aid=fettblog&a_bid=238ac06a",
+      "time": "00:35:07",
+      "description": "Stefan schreibt ein Buch über Front-End Automatisierung. Working Draft Hörer bekommen da mit dem Code <em>fetoolpc</em> eine Menge Rabatt"
+    }
+  ]
+}

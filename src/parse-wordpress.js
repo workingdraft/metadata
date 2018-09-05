@@ -13,6 +13,11 @@ function analyze(html) {
   }
   
   var title = ($('.postcontainer h2').text() || "").match(/^revision (\d+):(.+)/i);
+
+  if(!title || !title.length) {
+    title = ($('.postcontainer h2').text() || "").match(/^iteration (\d+):(.+)/i);
+  }
+
   var data = {
     id: parseInt(title[1], 10),
     title: trim(title.slice(2).join(':')),
@@ -39,11 +44,12 @@ function analyze(html) {
     
     if (title.indexOf("news") > -1) {
       bucket = 'news';
-    } else if (title.indexOf("keine") > -1 && title.indexOf("notizen") > -1 || title.indexOf("links") > -1) {
+    } else if (title.indexOf("keine") > -1 && title.indexOf("notizen") > -1 || title.indexOf("links") > -1 || title.indexOf("raffle") > -1) {
       bucket = 'links';
     } else if (title.indexOf("glücksrad") > -1) {
       bucket = 'randomSpec';
-    } else if (title.indexOf("notizen") > -1 || title.indexOf("notes") > -1 || title.indexOf("fragen über fragen") > -1 ) {
+    } else if (title.indexOf("notizen") > -1 || title.indexOf("topics") > -1 
+      || title.indexOf("notes") > -1 || title.indexOf("fragen über fragen") > -1 || title.indexOf("prognosen") > -1 ) {
       bucket = 'topics';
     } else if (title.indexOf("woche") > -1) {
       bucket = 'tip';

@@ -1,0 +1,63 @@
+{
+  "id": 253,
+  "date": "2016-02-28",
+  "people": [
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    }
+  ],
+  "duration": "58:46",
+  "href": "https://workingdraft.de/253/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3024/0/wd-253.mp3",
+  "title": "CMS, CMS, CMS!",
+  "description": "Obwohl es nicht die Kernkompetenz von Anselm, Stefan und Peter ist, waren diese Revision mal wieder Content Management Systeme dran. Dazu kommen die üblichen drei Links.",
+  "topics": [
+    {
+      "title": "CMS, CMS, CMS!",
+      "time": "00:00:10",
+      "description": "Cory Etzkorn hat mit <a href=\"http://coryetzkorn.com/blog/choosing-the-best-cms/\">Choosing the Best CMS</a> einen langen, detaillierten Artikel über Content Management Systeme geschrieben, an dem wir uns entlang hangeln. Stefan ist ein Fan des flexiblen <a href=\"https://craftcms.com/\">Craft CMS</a>&nbsp;&ndash; außer richtig guten Lösungen für Mehrsprachigkeit und Content Staging fehlt es an nichts. Einigkeit herrscht darüber, dass unter den Homepage-Zusammenklick-Baukästen <a href=\"https://squarespace.com/\">Squarespace</a> der beste Baukasten ist. An <a href=\"https://wordpress.org/\">WordPress</a> finden wir besonders die Vielfalt und Flexibilität beeindruckend, speziell dass man mit sehr wenig Fachwissen sehr weit kommen kann. Während keiner von uns <a href=\"http://www.siteleaf.com/\">Siteleaf</a> kennt, können wir umso mehr positives über  <a href=\"https://getkirby.com/\">Kirby</a> (kleines textbasiertes CMS) sagen. Der nerdige statische Seitengenerator <a href=\"https://jekyllrb.com/\">Jekyll</a> wird gerade von Peter evaluiert, doch vor Langsamkeit und Ruby-Gefrickel wird gewarnt. Für Software-Nerds ist die Kombination von Jekyll mit <a href=\"https://pages.github.com/\">Github Pages</a> sehr zu empfehlen, jedoch ist es prinzipbedingt nicht unbedingt kundentauglich. Das gilt auch für das ähnliche <a href=\"https://middlemanapp.com/\">Middleman</a>, das einem noch mehr Ruby-Skills als Jekyll abverlangt. Zum Ende geben wir noch unsere gänzlich unfundierten Meinungen und Vorurteile zu <a href=\"https://www.drupal.org/\">Drupal</a>, <a href=\"https://typo3.org/\">Typo3</a>, <a href=\"http://www.joomla.de/\">Joomla</a>, <a href=\"http://de.modx.com/\">MODx</a> und <a href=\"https://grabaperch.com/\">Perch</a> zum Besten. Als kostenlose Geschäftsidee offerieren wir das Konzept Static Site Generator als App mit gegenüber klassischen CMS klaren Vorteilen bei Sicherheit und Performance."
+    }
+  ],
+  "links": [
+    {
+      "title": "Investigating the overhead cost of compiled es2015",
+      "href": "https://github.com/samccone/The-cost-of-transpiling-es2015-in-2016",
+      "time": "00:56:31",
+      "description": "Konkrete Zahlen zum Aufbläh-Effekt von JS-Transpilern."
+    },
+    {
+      "title": "CSS Variables: Why Should You Care?",
+      "href": "https://developers.google.com/web/updates/2016/02/css-variables-why-should-you-care",
+      "time": "00:56:31",
+      "description": "Kurzer Überblick. Anlass: demnächst auch in Chrome!"
+    },
+    {
+      "title": "Let’s Encrypt Smart Renew.sh",
+      "href": "https://github.com/ScottHelme/Lets-Encrypt-Smart-Renew",
+      "time": "00:56:31",
+      "description": "Damit das Zertifikat auch in Zukunft schön knackig und frisch bleibt."
+    }
+  ]
+}

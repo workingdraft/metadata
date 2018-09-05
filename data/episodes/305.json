@@ -1,0 +1,89 @@
+{
+  "id": 305,
+  "date": "2017-06-26",
+  "people": [
+    {
+      "name": "Kira Schacht",
+      "twitter": "https://twitter.com/daten_drang"
+    },
+    {
+      "name": "Phil Ninh",
+      "twitter": "https://twitter.com/philninh"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    }
+  ],
+  "duration": "53:16",
+  "href": "https://workingdraft.de/305/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3416/0/wd-305.mp3",
+  "title": "Datenjournalismus",
+  "description": "Als kleinen Themen- und Tapetenwechsel haben wir uns für diese Folge die Datenjournalisten <a href=\"https://twitter.com/daten_drang\">Kira Schacht</a> und <a href=\"https://twitter.com/philninh\">Phil Ninh</a> von <a href=\"http://journocode.com/\">Journocode</a> eingeladen, um etwas über ihr Berufsfeld und den Herstellungsprozess von datengetriebenen und/oder interaktiven Reportagen zu erfahren.",
+  "topics": [
+    {
+      "title": "Datenjournalismus",
+      "href": "https://de.wikipedia.org/wiki/Datenjournalismus",
+      "time": "00:00:18",
+      "description": "In unserem Gespräch erkunden wir, was Datenjournalismus, aka &#8222;Data Driven Journalism&#8220; (DDJ), überhaupt ist und wann er zum ersten Mal in Erscheinung getreten ist. Vorreiter in der Welt in Sachen datengetriebener Publikationen sind <a href=\"https://www.nytimes.com/\">The New York Times</a> und <a href=\"https://www.theguardian.com/international\">The Guardian</a>, während es in Deutschland die <a href=\"https://www.morgenpost.de\">Berliner Morgenpost</a> und in Österreich der <a href=\"http://derstandard.at\">Standard</a> und das <a href=\"http://orf.at/\">ORF</a> sind. Wir reden darüber, wie ein solches Reportage-Projekt ans Rollen kommt, und wir reden über die Schwierigkeit der Beschaffung von brauchbaren bzw. gut formatierten Daten hier in unseren Gefilden. Natürlich kommen wir als technischer Podcast irgendwann auch auf das Thema &#8222;Tooling&#8220;: Welche Software und welche Bibliotheken kommen bei der Datenaufbereitung und später bei der Präsentation zum Einsatz? Das wäre z.B. <a href=\"http://openrefine.org/\">OpenRefine</a> zur Datenbereinigung (Zitat: &#8222;A free, open source, powerful tool for working with messy data&#8220;), <a href=\"https://www.r-project.org/\">R</a> für die Extraktion von statistischen Daten und Libraries wie <a href=\"https://d3js.org/\">d3.js</a> für eine anschauliche Präsentation im Web."
+    }
+  ],
+  "links": [
+    {
+      "title": "Journocode",
+      "href": "http://journocode.com/",
+      "description": "Die Gruppierung aus Dortmund hat es sich zur Aufgabe gemacht, Datenjournalismus zu fördern, indem Journalisten ans Programmieren, und vis versa Coder und Statistiker an Journalismus herangeführt werden. Zu diesem Zweck <a href=\"http://journocode.com/events/\">gibt es regelmäßig Meetups und Hack-Sessions</a>."
+    },
+    {
+      "title": "Snow Fall – The Avalanche at Tunnel Creek",
+      "href": "http://www.nytimes.com/projects/2012/snow-fall/#/",
+      "description": "Das von unseren Gästen erwähnte &#8222;Interactive Story Telling&#8220;-Projekt der New York Times."
+    },
+    {
+      "title": "Berliner Morgenpost Interaktiv",
+      "href": "https://www.morgenpost.de/interaktiv/",
+      "description": "Landingpage für Datenjournalismus-Projekte der Berliner Morgenpost."
+    },
+    {
+      "title": "Rheinische Post Interaktiv",
+      "href": "https://interaktiv.rp-online.de/",
+      "description": "Landingpage für Datenjournalismus-Projekte der Rheinischen Post."
+    },
+    {
+      "title": "Tour de France in Düsseldorf",
+      "href": "https://interaktiv.rp-online.de/tour-de-france-2017",
+      "description": "Das im Gespräch erwähnte Projekt, an dem Kira und Phil gerade saßen."
+    },
+    {
+      "title": "Video: Hacking the Visual Norm – Nadieh Bremer",
+      "href": "https://www.youtube.com/watch?v=gBFtER8yHVY",
+      "description": "&#8222;During this talk Nadieh will take you through several of her data visualisation projects, both from the business environment of her day job and the experiments made in her evenings.&#8220;"
+    },
+    {
+      "title": "Video: Des Traynor – Creating Dashboards – Data Visualisations that Resonate",
+      "href": "https://vimeo.com/channels/beyondtellerrand/34784156",
+      "description": "&#8222;Info-graphics &#038; data visualisations are popping up everywhere and they don&#8217;t always make sense. Many horrible acts have been committed in the name of &#8218;Making this chart seem a bit more fun'&#8220;"
+    },
+    {
+      "title": "Video: Alex Graul | Using JS to build bigger, better datavis to enlighten and elate",
+      "href": "https://vimeo.com/channels/fronteers12/52851512",
+      "description": "&#8222;With this talk I want to show you how to design and build not just simple and not-so-simple charts to illustrate data but how to design &#038; architect larger more complex pieces of content that tell stories and illustrate ideas.&#8220;"
+    },
+    {
+      "title": "Netzwerk Recherche Konferenz 2017",
+      "href": "https://netzwerkrecherche.org/termine/konferenzen/jahreskonferenzen/nr-jahreskonferenz-2017/",
+      "description": "Die alljährliche Konferenz des <a href=\"https://netzwerkrecherche.org\">Netzwerk Recherche e.V.</a>, ein gemeinnütziger Verein, der 2001 von Journalistinnen und Journalisten gegründet wurde, um die journalistische Recherche und den Qualitätsjournalismus in Deutschland zu stärken."
+    }
+  ]
+}

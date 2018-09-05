@@ -1,0 +1,52 @@
+{
+  "id": 320,
+  "date": "2017-12-2",
+  "people": [
+    {
+      "name": "Lars Wolff",
+      "twitter": "https://twitter.com/larsvegas"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    }
+  ],
+  "duration": "1:01:44",
+  "href": "https://workingdraft.de/320/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3538/0/wd-320.mp3",
+  "title": "API- und Load-Testing in der Cloud",
+  "description": "Dieses mal hatten wir <a href=\"https://twitter.com/larsvegas\">Lars Wolff</a> von <a href=\"https://stormforger.com/\">Stormforger</a> zu Gast. Stormforger ist ein API- und Load-Testing-Tool, das uns auffiel, weil sich die Testszenarien per JavaScript beschreiben lassen. Darüber wollten wir mehr wissen&#8230;",
+  "topics": [
+    {
+      "title": "API- und Load-Testing mit Stormforger",
+      "href": "https://stormforger.com/",
+      "time": "00:02:40",
+      "description": "Im Laufe unseres Gesprächs fielen diverse Dinge und Themen, die wir verlinken wollten, und Lars hat später noch ein paar mehr dazugepackt. Hier sind sie:<p></p>\n<ul>\n<li><a href=\"https://stormforger.com/blog/2016/07/08/types-of-performance-testing/\">Methoden für Performance Testing </a></li>\n<li><a href=\"https://stormforger.com/blog/2015/11/14/why-load-performance-testing-the-cloud/\">Warum eigentlich die Cloud testen? </a></li>\n<li><a href=\"http://developer-media.de/?course=performance-testing-101-http-basierte-systeme\">Performancetesting 101</a></li>\n<li><a href=\"https://docs.stormforger.com/guides/har-converter/\">[Video] StormForger HTTP Archive Converter</a></li>\n<li><a href=\"https://stormforger.com/presentations/2017/code-talks-how-to-get-started-testing-restful-and-graphql/\">[TALK, VIDEO] How to get started testing RESTful APIs and GraphQL </a></li>\n<li><a href=\"https://stormforger.com/presentations/2017/developer-week-nuernberg/\">[TALK, Panel Video, Sketchnote] Last- und Performancetests in der Cloud</a></li>\n<li><a href=\"http://www.perf-tooling.today/\">perf-tooling.today</a></li>\n<li><a href=\"http://highscalability.com/\">highscalability.com</a></li>\n</ul>"
+    }
+  ],
+  "links": [
+    {
+      "title": "Cologne Web Performance Optimization Group",
+      "href": "https://www.meetup.com/de-DE/cologne-germany-high-performance-website-optimization-group/",
+      "time": "01:00:01",
+      "description": "Das eine Meetup in Köln, in das Lars involviert ist&#8230;"
+    },
+    {
+      "title": "AWS Cologne",
+      "href": "https://www.meetup.com/aws-cologne/",
+      "time": "01:00:01",
+      "description": "&#8230;und das andere."
+    }
+  ]
+}

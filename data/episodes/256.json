@@ -1,0 +1,65 @@
+{
+  "id": 256,
+  "date": "2016-03-21",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    }
+  ],
+  "duration": "54:55",
+  "href": "https://workingdraft.de/256/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3049/0/wd-256.mp3",
+  "title": "Arbeiten mit einem CMS – Berichte aus der Praxis",
+  "description": "Zur Revision 256 ergab es sich, dass wir uns eine ganze Sendung lang einer Hörerfrage widmeten, welche uns im Rahmen der <a href=\"http://workingdraft.de/253/\">Revision 253 – CMS, CMS, CMS!</a> gestellt wurde.",
+  "topics": [
+    {
+      "title": "Hörerfrage CMS-Workflow",
+      "href": "http://workingdraft.de/253/#comment-10808",
+      "time": "00:00:36",
+      "description": "Ein Hörer, Tilman, fragte, wie wir denn mit unterschiedlichen Bereichen bei der Webseiten-Entwicklung umgehen, wenn wir mit Content Management Systemen arbeiten. Wir sprechen darüber, welche CMS wir verwenden, welche Rollen wir in diesen Projekten einnehmen und wie wir moderne Frontends im Zusammenspiel mit fast jedem CMS bauen können."
+    }
+  ],
+  "links": [
+    {
+      "title": "Styling broken Images",
+      "href": "http://bitsofco.de/styling-broken-images/",
+      "time": "00:51:39",
+      "description": "Bilder, die nicht geladen werden können, sehen meistens etwas &#8222;zerschossen&#8220; aus. Mithilfe dieses Tutorials lässt sich da Abhilfe schaffen."
+    },
+    {
+      "title": "Material Conference 2016 in Island",
+      "href": "https://www.kickstarter.com/projects/material16/material-conference-2016",
+      "time": "00:51:39",
+      "description": "Dieses Jahr wird erstmalig die Material Conference stattfinden. Eine Konferenz, die das Web als &#8222;Material&#8220; untersucht. Die Veranstalter brauchen eure Hilfe und haben eine Kickstarter Campaign ins Leben gerufen. Schaut’s euch mal an."
+    }
+  ]
+}

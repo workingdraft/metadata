@@ -1,0 +1,99 @@
+{
+  "id": 238,
+  "date": "2015-10-18",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Martin Schuhfuss",
+      "twitter": "https://twitter.com/usefulthink"
+    }
+  ],
+  "duration": "1:01:33",
+  "href": "https://workingdraft.de/238/",
+  "audio": "https://workingdraft.de/podpress_trac/web/2902/0/wd-238.mp3",
+  "title": "Creative Coding, Sass Eyeglass und AMP",
+  "description": "Stefan und Schepp haben heute <a href=\"https://twitter.com/usefulthink\">Martin Schuhfuß</a> eingeladen, der bei den<br>\ndiesjährigen Events der JSConfEU und der <a href=\"https://www.youtube.com/watch?v=LJxeeaSyoVo\">OTSConf</a> mit seinen kreativen Entwicklungen für Aufsehen gesorgt hat.",
+  "topics": [
+    {
+      "title": "Creative Coding",
+      "time": "00:00:12",
+      "description": "Martin erzählt uns von seinem &#8222;Werdegang&#8220; als Creative Coder, und wie er da grundsätzlich an neue Projekte rangeht.<br>\nSchepp ergänzt durch seine Erfahrungen beim letztjährigen Beyond Tellerrand Workshop. Neben zahlreichen Spielereien gibt&#8217;s<br>\nda natürlich auch noch einiges tatsächlich sinnvolles zu machen. Ideen und Informationen holen kann man sich hier:<p></p>\n<ul>\n<li><a href=\"http://www.adafruit.com/\">Adafruit</a></li>\n<li><a href=\"http://hackaday.io/\">Hackaday</a></li>\n<li><a href=\"http://www.instructables.com/\">Instructables</a></li>\n<li><a href=\"http://creativecodingpodcast.com/\">Creative Coding Podcast</a></li>\n</ul>"
+    },
+    {
+      "title": "Eyeglass for Sass",
+      "href": "http://eyeglass.rocks/",
+      "time": "00:21:00",
+      "description": "Sass bietet für die Libsass Implementierung nun eine Möglichkeit, in JavaScript<br>\nFunktionserweiterungen zu stricken, anstatt wie bislang mühselig mit Ruby oder gar Sass-Syntax zu arbeiten. Wir diskutieren<br>\nüber Sinn und Unsinn, finden wenige Use-Cases und verweise auf das geliebt-gehasste PostCSS, das mit der<br>\n<a href=\"https://github.com/andyjansson/postcss-functions\">PostCSS-Functions</a> Erweiterung doch eine viel zugänglichere<br>\nMöglichkeit dafür bietet."
+    },
+    {
+      "title": "Accelerated Mobile Pages",
+      "href": "https://www.ampproject.org/faq/",
+      "time": "00:34:19",
+      "description": "Google bietet einen Service, um jedermann Facebook-ähnliche Instapages zu ermöglichen. Das ganze basiert auf<br>\nWebtechnologien und einem Subset, dass hinsichtlich Performance optimiert wurde. Wie alles im Internet sorgt das<br>\nganze für Aufregung, sowohl in der einen oder anderen Richtung. Warum, können wir allerdings nicht ganz nachvollziehen."
+    }
+  ],
+  "links": [
+    {
+      "title": "Decode HH",
+      "href": "http://www.meetup.com/decode-hh/",
+      "time": "00:51:29",
+      "description": "Martins Design-Concept-Code Meetup braucht dringend kreative Leute, die tolle Dinge zeigen wollen."
+    },
+    {
+      "title": "Perfjankie",
+      "href": "https://github.com/axemclion/perfjankie",
+      "time": "00:51:29",
+      "description": "Perfjankie monitort eure Webseiten und gibt euch Auskunft über lahme Renderzyklen."
+    },
+    {
+      "title": "Surge",
+      "href": "https://surge.sh/",
+      "time": "00:51:29",
+      "description": "Supereinfaches Deployment für Seiten."
+    },
+    {
+      "title": "Netlify",
+      "href": "https://www.netlify.com/",
+      "time": "00:51:29",
+      "description": "Ähnlich dem darüber."
+    },
+    {
+      "title": "“Tomato” versus “#FF6347”—the tragicomic history of CSS color names",
+      "href": "http://arstechnica.com/information-technology/2015/10/tomato-versus-ff6347-the-tragicomic-history-of-css-color-names/",
+      "time": "00:51:29",
+      "description": "Was hinter Farbnamen alles stehen kann."
+    },
+    {
+      "title": "Get started with functional programming",
+      "href": "https://www.youtube.com/watch?v=6f5dt923FmQ",
+      "time": "00:51:29",
+      "description": "Die Videos der OTS School sind ja alle super, aber dieses eine von Anouk Ruhaak legen wir euch besonders ans Herz"
+    },
+    {
+      "title": "Evolutionary Algorithms 101",
+      "href": "https://www.youtube.com/watch?v=t3XofbN2HgE",
+      "time": "00:51:29",
+      "description": "Ebenso dem von Manuel Ernst"
+    },
+    {
+      "title": "CSS Unconf",
+      "href": "http://2016.cssunconf.eu/",
+      "time": "00:51:29",
+      "description": "Es wird eine Unkonferenz für CSS geben, die Martin mitorganisiert"
+    }
+  ]
+}

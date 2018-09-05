@@ -1,0 +1,41 @@
+{
+  "id": 341,
+  "date": "2018-06-11",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "duration": "59:30",
+  "href": "https://workingdraft.de/341/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3678/0/wd-341.mp3",
+  "title": "Visual Studio Code",
+  "description": "Hans und Peter nutzen beide <a href=\"https://code.visualstudio.com/\">Visual Studio Code</a> und geben ihre Tool-, Extension-, und Konfigurations-Tipps zum besten! Anlass waren die Veröffentlichung des Artikels <a href=\"https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c687c39596f5\">Top JavaScript VSCode Extensions for Faster Development</a> sowie <a href=\"https://vscodecandothat.com/\">vscodecandothat.com</a>.",
+  "topics": [
+    {
+      "title": "Visual Studio Code",
+      "time": "00:00:08",
+      "description": "Hans und Peter nutzen beide früher <a href=\"https://www.sublimetext.com/\">Sublime Text</a> und sind nun großteils auf Visual Studio Code umgestiegen. VS Code ist umfassend erweiterbar und konfigurierbar, also gibt es viel an Extensions und Geheimtipps zu verteilen. Neben eingebauten Features wie dem <a href=\"https://code.visualstudio.com/docs/editor/debugging\">Debugger</a>, dem <a href=\"https://code.visualstudio.com/docs/editor/versioncontrol#_vs-code-as-git-editor\">Git-Support</a> und der <a href=\"https://code.visualstudio.com/docs/getstarted/theme-color-reference\">visuellen Anpassbarkeit</a> (hier <a href=\"https://i.imgur.com/N3XJjHA.png\">ein Bild von Peters Ton-in-Ton-Setup</a>) gibt es eine Menge von Extensions zu besprechen:<p></p>\n<ul>\n<li><a href=\"https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost\">Import Cost</a></li>\n<li><a href=\"https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight\">TODO highlight</a></li>\n<li><a href=\"http://gitlens.amod.io/\">GitLens</a></li>\n<li><a href=\"https://github.com/jest-community/vscode-jest\">vscode-jest</a> (für Integration in <a href=\"https://facebook.github.io/jest/\">Jest</a>)</li>\n<li><a href=\"https://github.com/ryanluker/vscode-coverage-gutters\">coverage-gutters</a></li>\n<li><a href=\"https://marketplace.visualstudio.com/items?itemName=kisstkondoros.csstriggers\">css-triggers</a> (mit Daten von <a href=\"https://csstriggers.com/\">csstriggers.com</a>)</li>\n<li><a href=\"https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint\">HTMLHint</a></li>\n<li><a href=\"https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig\">EditorConfig</a></li>\n<li><a href=\"https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore\">gitignore</a> (ähnliche Extensions gibt es auch für die Config-Files von Docker, Jenkins etc.)</li>\n<li><a href=\"https://marketplace.visualstudio.com/items?itemName=raymondcamden.htmlescape-vscode-extension\">HTML Escape</a></li>\n<li><a href=\"https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-instant-markdown\">Instant Markdown</a> und <a href=\"https://github.com/DavidAnson/vscode-markdownlint\">markdownlint</a></li>\n<li><a href=\"https://marketplace.visualstudio.com/items?itemName=kirozen.wordcounter\">WordCounter</a></li>\n</ul>\n<p>Außerdem sprechen wir über das integrierte Terminal von VS Code und warum wir stattdessen <a href=\"https://github.com/zeit/hyper\">Hyper</a> und <a href=\"https://gnometerminator.blogspot.de/\">Terminator</a> benutzen und warum damit unsere Benutzung der Desktop-Manager <a href=\"http://mizage.com/divvy/\">Divvy</a> und <a href=\"https://de.wikipedia.org/wiki/Unity_(Benutzeroberfl%C3%A4che)\">Unity</a> einhergeht.\n</p>"
+    }
+  ],
+  "links": [
+    {
+      "title": "Scrolling",
+      "time": "00:54:53",
+      "description": "Hans empfiehlt den Artikel <a href=\"https://evilmartians.com/chronicles/scroll-to-the-future-modern-javascript-css-scrolling-implementations\">Scroll to the future</a> sowie die CSS-Features <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-behavior\">scroll-behavior</a> und <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Scroll_Snap_Points\">Scroll Snap Points</a>."
+    }
+  ]
+}

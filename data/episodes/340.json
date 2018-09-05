@@ -1,0 +1,80 @@
+{
+  "id": 340,
+  "date": "2018-05-28",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    }
+  ],
+  "duration": "57:30",
+  "href": "https://workingdraft.de/340/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3675/0/wd-340.mp3",
+  "title": "Glücksrad",
+  "description": "Mangels tagesaktueller Themen spielten wir in Person von Schepp, Peter, Hans und Stefan mal wieder eine Runde HTML5-Glücksrad.",
+  "randomSpec": [
+    {
+      "title": "Drag & Drop",
+      "href": "https://html.spec.whatwg.org/#dnd",
+      "time": "00:00:47",
+      "description": "Von der Benutzung der nativen HTML5-D&amp;D-Api ohne Library raten wir dringend ab, wenngleich Peter zur Zeit eine entsprechende React-Library sucht. Für seine Zwecke nicht brauchbar sind, aber trotzdem erwähnt wurden <a href=\"https://github.com/Shopify/draggable\">Draggable</a> <a href=\"https://bevacqua.github.io/dragula/\">Dragula</a> <a href=\"https://github.com/pqina/filepond\">Filepond</a> <a href=\"http://interactjs.io/\">Interact.js</a> und <a href=\"https://github.com/RubaXa/Sortable\">Sortable</a>."
+    },
+    {
+      "title": "Das Form-Element",
+      "href": "https://html.spec.whatwg.org/#the-form-element",
+      "time": "00:08:30",
+      "description": "Damit er selbst nichts zu diesem Thema erzählen muss, fordert Peter den Rest der Mannschaft zu Quick-Fire-Funfacts über Formulare auf. Und sie gehen ihm tatsächlich auf den Leim! Schepp informiert darüber, dass Submit-Buttons selbst Werte übermitteln (ihre value-Eigenschaft), Hans unterliegt einem kleinen Irrtum bzgl. Input-Types, Stefan findet einen Use Case für Fieldsets und Legend-Elemente. Am Ende versuchen wir noch zu klären, warum die <a href=\"https://html.spec.whatwg.org/#textFieldSelection\">TextSelection-Api</a> bei Number nicht fluppt und betrauern zum wiederholten Male die schlechte Unterstützung für das inputmode-Attribut."
+    },
+    {
+      "title": "Das Script-Element",
+      "href": "https://html.spec.whatwg.org/#script",
+      "time": "00:20:24",
+      "description": "Wir kommen über async und defer relativ schnell zu document.write(). Und dann ist der Weg nicht mehr weit zum <a href=\"https://www.meetup.com/de-DE/90s-Dev-Meetup/\">90s WebDev Meetup</a> und einen <a href=\"https://www.youtube.com/watch?v=Z-nXRZkge2U\">faszinierenden Talk über Netscape Navigator 2.0</a>. Früher war eben doch nicht alles besser!"
+    },
+    {
+      "title": "document.open()",
+      "href": "https://html.spec.whatwg.org/#opening-the-input-stream",
+      "time": "00:28:15",
+      "description": "Wir verwechseln erst mal alle <a href=\"https://html.spec.whatwg.org/#opening-the-input-stream\">document.open()</a> mit <a href=\"https://html.spec.whatwg.org/#dom-open\">window.open()</a> und sinnieren ein wenig über die verloren gegangene Kulturtechnik des Popups. Mit der egentlichen Funktion wissen wir nicht viel anzufangen, allerdings <a href=\"https://jakearchibald.com/2016/fun-hacks-faster-content/\">hat Jake Archibald mal etwas lustiges damit zusammengehackt</a>."
+    },
+    {
+      "title": "Das tbody-Element",
+      "href": "https://html.spec.whatwg.org/#the-tbody-element",
+      "time": "00:34:50",
+      "description": "Gehört zusammen mit <a href=\"https://html.spec.whatwg.org/#the-thead-element\">thead</a> und <a href=\"https://html.spec.whatwg.org/#the-tfoot-element\">tfoot</a> zu den obskursten HTML-Elementen. Wir quatschen über Tabellenelemente allgemein, wobei Hans und Peter besonders intensiv debattieren, ob ein Datagrid-Element in den HTML-Standard gehören sollte (der IE4 <a href=\"https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/platform-apis/ms531387%28v%3dvs.85%29\">konnte das sogar schon mal</a>)."
+    },
+    {
+      "title": "Das beforeunload-Event",
+      "href": "https://html.spec.whatwg.org/#unloading-documents",
+      "time": "00:50:16",
+      "description": "Wir sprechen über <a href=\"https://html.spec.whatwg.org/#dom-alert\">window.alert()</a>, <a href=\"https://html.spec.whatwg.org/#dom-prompt\">window.prompt()</a> und <a href=\"https://html.spec.whatwg.org/#dom-confirm\">window.confirm()</a> sowie mögliche Use Cases für das Unload-Event. Je nachdem was man vorhat, ist man mit entweder der <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Beacon_API\">Beacon API</a> oder <a href=\"https://developers.google.com/web/updates/2015/12/background-sync\">Background Sync</a> besser bedient. Wenn das alles nun bloß auch überall funktionieren würde&nbsp;&hellip;"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 240,
+  "date": "2015-11-7",
+  "people": [
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    }
+  ],
+  "duration": "29:15",
+  "href": "https://workingdraft.de/240/",
+  "audio": "https://workingdraft.de/podpress_trac/web/2919/0/wd-240.mp3",
+  "title": "Content Blocker",
+  "description": "In Dreierbesetzung mit Anselm, Hans und Stefan geht es heute um ein recht untechnisches Thema.",
+  "topics": [
+    {
+      "title": "Content Blocker",
+      "time": "00:00:15",
+      "description": "Nachdem mit iOS 9 nun eine sehr zugängliche Möglichkeit geschaffen wurde, schwere Assets auszuknipsen (zum Beispiel Web Fonts oder Werbungen), kommt das Thema vom Ad Blocking bzw. Content Blocking wieder sehr prominent durch. Aktuell zum Beispiel auch bei der Bild, die bei eingeschaltetem Ad Blocker den Zugriff zum Content sperren. Wir betrachten das Thema von verschiedenen Seiten, denken über alternative Businessmodelle nach und stellen uns die Frage: Würden wir für Content zahlen? Und wenn ja, wieviel?"
+    }
+  ],
+  "links": [
+    {
+      "title": "Khan Coding Style Guides",
+      "href": "https://github.com/Khan/style-guides/",
+      "time": "00:26:22",
+      "description": "Die Ideen der Khan Academy in Sachen Coding. Von allgemeinen Guidelines bis hin zu sehr spezifischen, z.B. für React."
+    },
+    {
+      "title": "Code Cartoons",
+      "href": "https://code-cartoons.com/",
+      "time": "00:26:22",
+      "description": "Die Code Cartoons erklären sehr anschaulich Programmierparadigmen hinter React wie Flux oder Redux."
+    }
+  ]
+}

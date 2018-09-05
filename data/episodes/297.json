@@ -1,0 +1,76 @@
+{
+  "id": 297,
+  "date": "2017-04-18",
+  "people": [
+    {
+      "name": "Bastian Krol",
+      "twitter": "https://twitter.com/bastiankrol"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    }
+  ],
+  "duration": "53:46",
+  "href": "https://workingdraft.de/297/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3357/0/wd-297.mp3",
+  "title": "Elm",
+  "description": "<a href=\"http://workingdraft.wire.com\" style=\"display: block; margin: 1em 0; width: 100%; max-width: 500px\"><img src=\"http://workingdraft.de/wp-content/uploads/2017/02/Wire-800x350.png\" alt=\"\" width=\"800\" height=\"350\" class=\"alignleft size-full wp-image-3294\" style=\"width: 100%; height: auto\" srcset=\"https://workingdraft.de/wp-content/uploads/2017/02/Wire-800x350.png 800w, https://workingdraft.de/wp-content/uploads/2017/02/Wire-800x350-300x131.png 300w, https://workingdraft.de/wp-content/uploads/2017/02/Wire-800x350-768x336.png 768w\" sizes=\"(max-width: 800px) 100vw, 800px\"></a>\n\nWieder wird unser Podcast von <a href=\"http://workingdraft.wire.com\">Wire</a> gesponsort, dem <a href=\"https://www.heise.de/newsticker/meldung/Sicherheits-Audit-von-Krypto-Messenger-Wire-abgeschlossen-3621550.html\">sicheren</a> <a href=\"https://github.com/wireapp\">Open Source</a> Messaging Client für all eure Plattformen, welcher auch den Desktop als First-Class-Citizen betrachtet.\n\nIn dieser Sendung ist <a href=\"https://twitter.com/bastiankrol\">Bastian Krol</a> mit am Start und spricht mit uns über Elm.",
+  "topics": [
+    {
+      "title": "Promises vs. Reactive",
+      "time": "00:03:43",
+      "description": "Aufgrund von Hans&#8216; Frage aus der Vorbesprechung, wie aktuell Promises in JavaScript sind und welche Alternativen sich bieten, sprechen wir über Reactive Programming im Frontend und Node.js."
+    },
+    {
+      "title": "Elm",
+      "time": "00:13:08",
+      "description": "Bastians mitgebrachtes Thema ist Elm. <a href=\"http://elm-lang.org/\">Elm</a> ist eine eigene Programmiersprache, die nach JavaScript kompiliert. Wir sprechen über die Vorzüge und die Einsatzbereiche. Bastian ist Teil der <a href=\"https://elm-lang.de/\">deutschen Community</a>, es gibt einen <a href=\"https://elmlang.herokuapp.com/\">Slack Channel</a>, man kann <a href=\"https://ellie-app.com/new\">Elm im Browser ausprobieren</a>, die Diskussionen zur Sprache <a href=\"https://groups.google.com/forum/#!forum/elm-discuss\">finden auf der Mailingliste</a> statt. Außerdem möchten wir noch auf <a href=\" https://atom.io/packages/elmjutsu\">die Atom-Erweiterung</a> hinweisen."
+    }
+  ],
+  "links": [
+    {
+      "title": "eslint-plugin-promise: Enforce best practices for JavaScript promises",
+      "href": "https://github.com/xjamundx/eslint-plugin-promise",
+      "time": "00:51:00",
+      "description": "Passend zur Diskussion über Promises liefern wir einen Link zum ESLint Plugin für schöneren Promise-Code."
+    },
+    {
+      "title": "CSS Custom Properties in Microsoft Edge",
+      "href": "https://blogs.windows.com/msedgedev/2017/03/24/css-custom-properties/#SOKZGZJeJJmj4B1x.97",
+      "time": "00:51:00",
+      "description": "CSS Custom properties landen in Microsoft Edge. Damit sind diese nun einsatzbereit."
+    },
+    {
+      "title": "CSS Grids Garden",
+      "href": "http://cssgridgarden.com/",
+      "time": "00:51:00",
+      "description": "Ein guter Einstieg ins Thema CSS Grids und wie diese funktionieren."
+    },
+    {
+      "title": "RuhrJS Konferenz",
+      "href": "https://ruhrjs.de/",
+      "time": "00:51:00",
+      "description": "Die zweite Ausgabe der JavaScript Konferenz findet am 14. und 15. Oktober 2017 in Bochum statt."
+    }
+  ]
+}

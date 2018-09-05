@@ -1,0 +1,63 @@
+{
+  "id": 310,
+  "date": "2017-09-8",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    }
+  ],
+  "duration": "35:53",
+  "href": "https://workingdraft.de/310/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3465/0/wd-310.mp3",
+  "title": "Service Worker – Bericht aus der Praxis",
+  "description": "Weil Schepp sich in letzter Zeit auch mit Service Workern beschäftigt hat, und weil sowohl <a href=\"https://steffenjahr.de/2017/05/12/microsoft-edge-and-you-pwa-service-worker-ahead/\">Microsoft</a> als auch <a href=\"https://twitter.com/webmaxru/status/893027996659060738\">Apple</a> an ihnen arbeiten, ließen Hans und Anselm sich von ihm ein paar Erfahrungen aus der Praxis berichten.",
+  "topics": [
+    {
+      "title": "Service Worker",
+      "href": "https://developers.google.com/web/fundamentals/getting-started/primers/service-workers",
+      "time": "00:00:14",
+      "description": "Schepp berichtete, wir es Service Worker in erster Linie zur Steigerung der Ladezeiten, wie auch zur Offlinifizierung einsetzt. Nicht ohne sich dabei in einem asynchronen Script-Dschungel zu verstricken, dem man am besten mit <code>async/await</code>-Konstrukten entgegentritt. Hilfreich beim Einarbeiten in das Thema sind verschiedene Online-Tutorials, Howtos und Tools, als da wären:<p></p>\n<ul>\n<li><a href=\"https://serviceworke.rs/\">Das Service Worker Cookbook</a></li>\n<li><a href=\"https://developers.google.com/web/tools/lighthouse/\">Lighthouse</a> (auch als <a href=\"https://developers.google.com/web/tools/lighthouse/#cli\">CLI</a>, mit mehr Freiheiten)</li>\n<li><a href=\"https://sonarwhal.com/\">sonar</a></li>\n<li><a href=\"http://manifoldjs.com/\">PWA Builder</a></li>\n<li><a href=\"https://github.com/GoogleChrome/sw-toolbox\">Die Service Worker Toolbox</a> und <a href=\"https://github.com/GoogleChrome/sw-toolbox/tree/master/lib/strategies\">ihre verschiedenen Cache-Strategien</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=CPP9ew4Co0M\">Alexander Pope: ServiceWorkers Outbreak: index-sw-9a4c43b4b47781ca619eaaf5ac1db.js | JSConf EU 2017</a></li>\n</ul>"
+    }
+  ],
+  "links": [
+    {
+      "title": "You’re Offline",
+      "href": "https://mxb.at/blog/youre-offline/",
+      "time": "00:31:07",
+      "description": "Max Böck beschäftigt sich als einer von wenigen mit der Frage, wie eine UI reagieren sollte, wenn man offline geht."
+    },
+    {
+      "title": "How many users resize their browser?",
+      "href": "https://pudding.cool/process/resize/",
+      "time": "00:31:07",
+      "description": "Zitat: &#8222;TL;DR: 2-3% of users resize their browser, and you should care.&#8220;"
+    },
+    {
+      "title": "Performance and Resilience: Stress-Testing Third Parties",
+      "href": "https://csswizardry.com/2017/07/performance-and-resilience-stress-testing-third-parties/",
+      "time": "00:31:07",
+      "description": "Harry Roberts erklärt, wie man die Auswirkungen von 3rd Party Scripten auf die eigene Webseite analysiert und quantifiziert, und wie man die eigene Seite gegen Ausfälle bei externen  Anbietern abhärtet."
+    }
+  ]
+}

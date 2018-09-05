@@ -1,0 +1,48 @@
+{
+  "id": 335,
+  "date": "2018-04-13",
+  "people": [
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "asciidisco",
+      "twitter": "https://twitter.com/asciidisco",
+      "web": "http://www.asciidisco.com/"
+    }
+  ],
+  "duration": "1:06:42",
+  "href": "https://workingdraft.de/335/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3658/0/wd-335.mp3",
+  "title": "EME? CDM? DRM? CENC? IDK!",
+  "description": "Anselm, Hans und Rodney lassen sich von <a href=\"https://asciidisco.com/\">Sebastian Golasch</a> alles rund um DRM (Digital Rights Management, auch Dumb Restrictions Mania) erklären. Sebastian wollte eigentlich nur Netflix in Kodi zum Laufen bringen. Wir stellen wieder einmal fest: Kaninchenlöcher können ganz schön tief sein…",
+  "topics": [
+    {
+      "title": "Web Video DRM",
+      "time": "00:02:00",
+      "description": "Ein epischer Monolog, gelegentlich unterbrochen von Fragen und Halbwissen, entfaltet sich, im Zuge dessen folgende Stichworte eine Rolle spielen:<p></p>\n<ul>\n<li><a href=\"https://w3c.github.io/encrypted-media/\">Encrypted Media Extensions (spec)</a></li>\n<li><a href=\"https://www.w3.org/TR/media-source/\">Media Source Extensions (spec)</a></li>\n<li><a href=\"https://hsivonen.fi/eme/\">What is EME?</a></li>\n<li><a href=\"https://www.html5rocks.com/en/tutorials/eme/basics/\">Encrypted Media Extensions (EME), HTML5Rocks</a></li>\n<li><a href=\"https://source.android.com/devices/drm#security\">Android Docs &#8211; DRM</a></li>\n<li><a href=\"https://docs.google.com/presentation/d/1WWIe6ExAmkQhjYF7m62SiKA8TB7p36LeHwInDIVtwL8/edit#slide=id.gf2a03f66_0127\">Paid Video Content in Chrome (slides)</a></li>\n<li><a href=\"https://www.eff.org/deeplinks/2017/07/amid-unprecedented-controversy-w3c-greenlights-drm-web\">EFF Statement &#8211; Web DRM, intent to publish</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=htulvpe9tj4\">End-to-End Adaptive Video Streaming with DASH and HLS (video)</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=w6muSE-w0U8\">Building a Streaming HTML5 Video Player (video)</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=zKMVsK9A6VY\">DRM In the Age of HTML5: What You Need to Do Now (video)</a></li>\n<li><a href=\"https://github.com/asciidisco/plugin.video.netflix\">Kodi Netflix Plugin</a></li>\n</ul>"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": 251,
+  "date": "2016-01-30",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Malte Ubl",
+      "twitter": "https://twitter.com/cramforce"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    }
+  ],
+  "duration": "59:01",
+  "href": "https://workingdraft.de/251/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3011/0/wd-251.mp3",
+  "title": "Googles AMP und die Zukunft der Parallelität",
+  "description": "Die Revision 251 ist auch wieder hochkarätig besetzt: Wir haben uns <a href=\"https://medium.com/@cramforce\">Malte Ubl</a> von Google eingeladen um über <a href=\"https://www.ampproject.org/\">AMP</a> zu sprechen und uns erklären zu lassen, was es mit diesem Projekt auf sich hat.",
+  "topics": [
+    {
+      "title": "AMP",
+      "href": "https://www.ampproject.org/",
+      "time": "00:01:11",
+      "description": "Um besser zu verstehen, was es mit Googles Projekt AMP auf sich hat, haben wir uns Malte Ubl, den Projektleiter mal eingeladen und uns erklären lassen, worum es geht. Maltes Artikel, <a href=\"https://medium.com/@cramforce/why-amp-is-fast-7d2ff1f48597#.8ip7h12s1\">warum AMP schnell ist</a>. Ein weiterer <a href=\"http://www.mondaynote.com/2016/01/18/googles-amp-poised-to-take-the-lead-from-facebooks-and-apples-walled-gardens/\">Artikel zum Thema AMP ist hier zu finden</a>. Ein <a href=\"https://wordpress.org/plugins/amp/\">WordPress Plugin</a> gibt es auch."
+    },
+    {
+      "title": "2016 will be the year of concurrency on the web",
+      "href": "https://medium.com/@cramforce/2016-will-be-the-year-of-concurrency-on-the-web-c39b1e99b30f#.u8g4m3u1b",
+      "time": "00:43:20",
+      "description": "WebWorker sind das neue heiße Ding und werden 2016 einen starken Aufschwung erleben, meint Malte. Wir unterhalten uns darüber, wie wir mit der Parallelität im Web umgehen."
+    }
+  ],
+  "links": [
+    {
+      "title": "Understand promises before you start using async/await",
+      "href": "https://medium.com/@bluepnume/learn-about-promises-before-you-start-using-async-await-eb148164a9c8#.dfjfbs4o8",
+      "time": "00:55:31",
+      "description": "Dieser Artikel hilft, erst mal Promises zu verstehen, bevor man sich mit weiterer Asynchronität in ES2016 beschäftigt."
+    },
+    {
+      "title": "JavaScript web apps considered valuable",
+      "href": "http://molily.de/javascript-web-apps/",
+      "time": "00:55:31",
+      "description": "Ein Statement zum Thema JavaScript Applikationen."
+    },
+    {
+      "title": "Arialinter",
+      "href": "https://github.com/globant-ui/arialinter",
+      "time": "00:55:31",
+      "description": "Arialinter ist ein Tool, dass die Verwendung von Aria-Attributen überprüft."
+    },
+    {
+      "title": "Cycle.js Fundamentals – Course by @andrestaltz",
+      "href": "https://egghead.io/series/cycle-js-fundamentals",
+      "time": "00:55:31",
+      "description": "Ein Video-Kurs zum Thema Cycle.js und Reactive Programming."
+    },
+    {
+      "title": "How to make your web app installable",
+      "href": "https://medium.com/@franciov/how-to-make-your-web-app-installable-8b71571605e",
+      "time": "00:55:31",
+      "description": "Wer wissen möchte, was man tuen muss um Websites auf Smartphones app-ähnlich zu installieren, sollte diesen Artikel lesen."
+    }
+  ]
+}

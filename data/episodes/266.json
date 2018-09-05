@@ -1,0 +1,58 @@
+{
+  "id": 266,
+  "date": "2016-06-29",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Daniel Mies",
+      "twitter": "https://twitter.com/danielmies"
+    }
+  ],
+  "duration": "1:00:05",
+  "href": "https://workingdraft.de/266/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3125/0/wd-266.mp3",
+  "title": "TypeScript",
+  "description": "Wir waren mal wieder reif für einen Gast und so luden wir diese Revision den <a href=\"https://twitter.com/danielmies\">Daniel Mies</a> zu uns ein.",
+  "topics": [
+    {
+      "title": "TypeScript",
+      "href": "https://www.typescriptlang.org/",
+      "time": "00:01:02",
+      "description": "Wir wählten TypeScript als Hauptthema dieser Folge, weil Daniel in seinen JavaScript-basierten Projekten reichlich gute Erfahrung damit gemacht hat. TypeScript ist im Prinzip ein Superset von EcmaScript Next, also reinrassiges JavaScript mit ein paar wenigen, aber wichtigen Erweiterungen oben drauf. Diese Erweiterungen haben nur einen Zweck, nämlich die Entwicklung in der Sprache JavaScript robuster und angenehmer zu gestalten. Die Eckpfeiler dafür sind: <p></p>\n<ul>\n<li>Typisierung von Variablen zur Absicherung gegen Typ-Fehler</li>\n<li>Interfaces zur Typisierung ganzer Objektstrukturen</li>\n<li><a href=\"https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841#.2e76pj3s5\">Decorators</a> zur Anreicherung von Funktionen/Methoden um weitere Aufrufe</li>\n</ul>\n<p>All diese Features ermöglichen es einer TypeScript-fähigen IDE schon zum Zeitpunkt der Codeerstellung Fehler zu erkennen, und sie ermöglichen auch bessere Code-Assistenz-Werkzeuge.</p>\n<p>Um Typisierung und Interfaces auch für externe JavaScript-Bibliotheken nutzen zu können, gibt es das <a href=\"https://github.com/typings/typings\">Typings</a>-Projekt, eine Sammlung von Typ- und Interface-Definitionen für all die populären Libraries.</p>\n<p>Wer jetzt Blut geleckt hat: Die <a href=\"https://www.typescriptlang.org/docs/tutorial.html\">TypeScript-Doku</a> ist laut Daniel sehr gut. Darüberhinaus hat Damiel selbst <a href=\"https://blog.codecentric.de/2016/03/einfuehrung-in-typescript-setup-und-typsystem/\">eine kleine Einführung geschrieben</a>. Zu guter Letzt gibt dann noch das exzellente <a href=\"https://github.com/basarat/typescript-book\">TypeScript Book</a>, das Pattern und Best-Practices dokumentiert.\n</p>"
+    },
+    {
+      "title": "State of the gap",
+      "href": "https://remysharp.com/2016/05/28/state-of-the-gap",
+      "time": "00:35:38",
+      "description": "Abschließend beschäftigten wir noch mit der Frage, ob Adobe Cordova / PhoneGap in Zeiten moderner Browser überhaupt noch benötigt wird. Wir denken schon, auch wenn diese Bedarfsmomente eher selten sind."
+    }
+  ],
+  "links": [
+    {
+      "title": "CSS Line Spacing Exposed",
+      "href": "http://tavmjong.free.fr/blog/?p=1632",
+      "time": "00:56:18",
+      "description": "Hier taucht der Autor tief in die Layout-Mechaniken von CSS Zeilendurchschüssen ein."
+    },
+    {
+      "title": "Jugend hackt – Mit Code die Welt verbessern",
+      "href": "http://jugendhackt.de/",
+      "time": "00:56:18",
+      "description": "&#8222;Jugend hackt&#8220; ist eine Veranstaltungsreihe, die bundesweit stattfindet, sowie in der Schweiz, und die junge Leute an das Thema &#8222;Programmieren&#8220; heranführen soll. Dafür werden kontinuierlich erfahrene Mentoren gesucht, die den Neulingen helfend zur Seite stehen. Vielleicht wäre das ja auch mal was für Euch?"
+    }
+  ]
+}

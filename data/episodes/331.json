@@ -1,0 +1,78 @@
+{
+  "id": 331,
+  "date": "2018-03-2",
+  "people": [
+    {
+      "name": "Nik Graf",
+      "twitter": "https://twitter.com/nikgraf"
+    },
+    {
+      "name": "Philipp Müns",
+      "twitter": "https://twitter.com/pmmuens"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    }
+  ],
+  "duration": "1:31:28",
+  "href": "https://workingdraft.de/331/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3610/0/wd-331.mp3",
+  "title": "Serverless",
+  "description": "Die neuste Sendung steht ganz im Zeichen von <strong>Serverless-Architektur</strong> und der Thematik außen herum. Wir haben uns zwei Gäste zum Thema eingeladen, die sich auskennen: <a href=\"https://twitter.com/nikgraf\" title=\"Nik Grafs Twitter-Profil-Seite\">Nik Graf</a> und <a href=\"https://twitter.com/pmmuens\" title=\"Philipp M&#xFC;ns Twitter-Profil-Seite\">Philipp Müns</a>. Nik und Philipp arbeiten gemeinsam an einem <a href=\"http://github.com/serverless/serverless\">Open-Source</a> <a href=\"http://serverless.com\">Serverless-Framework</a>.",
+  "topics": [
+    {
+      "title": "Serverless",
+      "time": "00:02:29",
+      "description": "Wir sprechen über <a href=\"https://martinfowler.com/articles/serverless.html\">Serverless-Architekturen, wie sie von Martin Fowler beschrieben werden</a>, definieren was Serverless bedeutet und wie es sich von einer &#8222;klassischen&#8220; Container-basierten Architektur unterscheidet. Neben den Fallstricken und Vorteilen, sprechen wir auch über generelle Funktionalitäten, die speziell im Bereich Serverless zu beachten sind. Darüberhinaus schneiden wir auch das Thema Event-Driven-Architecture an.<p></p>\n<p>Einige Links und Lösungen, die wir erwähnten:</p>\n<ul>\n<li>Serverless Starting-Point: <a href=\"https://serverless.com/blog/framework-example-golang-lambda-support/\">Go Lambda</a></li>\n<li>Serverless <a href=\"https://serverless.com/framework/docs/getting-started/\">Quickstart-Guide</a> und <a href=\"http://github.com/serverless/examples\">Beispiele</a></li>\n<li>Video: Nik Graf zum Thema <a href=\"https://www.youtube.com/watch?v=mRkUnA3mEt4&amp;list=PLIIjEI2fYC-C3NJF7a4-Cvh5hjdCmrVmN\">REST API Bau</a> mit Serverless in Node.js und <a href=\"https://www.youtube.com/watch?v=SVZ01R9jPpo&amp;list=PLIIjEI2fYC-B0QxvWI6XnRB_ze0m0BKUj\">mit Datenbank-Anbindung</a>\n</li><li>Amazon Lamda Edge: quasi Functions im CDN</li>\n<li>Amazon Fargate (Container in der Cloud)</li>\n<li>Amazon Aurora (SQL Database as a Function)</li>\n<li>V8 Snapshots zur Reduktion der Cold Start Zeiten von Node.js Functions</li>\n</ul>\n<p>In diesem Zusammenhang sei auch noch einmal die <a href=\"http://workingdraft.de/314/\">Revision 314 mit Golo Roden</a> erwähnt, die sich mit den architektonischen Grundlagen von Domain Driven Development und event-basierten Architekturen beschäftigt.\n</p>"
+    }
+  ],
+  "links": [
+    {
+      "title": "Reason Conf",
+      "href": "https://www.reason-conf.com/",
+      "time": "01:27:09",
+      "description": "Vom 11. &#8211; 13. Mai findet in Wien die erste ReasonML Konferenz statt."
+    },
+    {
+      "title": "Workshop „Datenschutz im Web — Fallstricke, Strategien, Risikomanagement, DSGVO“",
+      "href": "https://colloq.io/events/tollwerkstatt-workshops/2018/nurnberg/1",
+      "time": "01:27:09",
+      "description": "Ab Mai (2018) ändert sich das Datenschutz-Recht in Europa. Wer mehr darüber erfahren möchte, sollte am Workshop in Nürnberg am 05. März teilnehmen."
+    },
+    {
+      "title": "Let’s make multi-colored icons with SVG symbols and CSS variables",
+      "href": "https://medium.freecodecamp.org/lets-make-your-svg-symbol-icons-multi-colored-with-css-variables-cddd1769fca4",
+      "time": "01:27:09",
+      "description": "Multiple Farben in SVG-Icons."
+    }
+  ]
+}

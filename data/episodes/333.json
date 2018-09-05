@@ -1,0 +1,44 @@
+{
+  "id": 333,
+  "date": "2018-03-30",
+  "people": [
+    {
+      "name": "Ola Gasidlo",
+      "twitter": "https://twitter.com/misprintedtype"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    }
+  ],
+  "duration": "48:15",
+  "href": "https://workingdraft.de/333/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3627/0/wd-333.mp3",
+  "title": "Webcompat und Open Source Arbeit",
+  "description": "Zur Revision 333 haben wir uns <a href=\"https://twitter.com/misprintedtype\">Ola Gasidlo</a> eingeladen und über Themen gesprochen, die sie bewegen. Ola arbeitet bei Mozilla vor allem am Projekt Webcompat, das auf der Website als &#8222;Bug reporting for the internet&#8220; beschrieben wird.",
+  "topics": [
+    {
+      "title": "Webcompat",
+      "href": "https://webcompat.com/",
+      "time": "00:00:30",
+      "description": "Ola erklärt uns, was es mit Webcompat auf sich hat und wie sie versucht mit ihrer Arbeit gemeinsam mit ihren Kollegen dazu beizutragen, das Internet als Ganzes zu verbessern. Die Platform Webcompat funktioniert wie ein Bugtracker für das gesamte Web. Webcompat macht es für Entwicklerinnen und Entwickler und andere &#8222;Webworker&#8220; einfach Bugs, die in Browsern oder auf Webseiten auffallen, zu reporten. Die Experten des Teams kümmern sich dann um die Nachbearbeitung und das Nachhalten des Bugs bei den entsprechenden Unternehmen. Wie genau das funktioniert wissen nun spätestens nach dem Interview alle Zuhörenden."
+    },
+    {
+      "title": "Open Source Arbeit",
+      "time": "00:14:35",
+      "description": "Durch ihre Arbeit an einem vergangenen Projekt ist Ola im Open Source Bereich sehr aktiv. Wir unterhalten uns darüber, wie man zu Open Source Projekten kommt, welche Verantwortung dies mit sich bringt, über ihre Arbeit mit der Community und vieles mehr. Für alle Interessierten gibt es die <a href=\"http://www.opentechschool.org/\">Open Tech School</a>, <a href=\"https://yourfirstpr.github.io/\">Your First PR</a> und den <a href=\"https://opensourcefriday.com/\">Open Source Friday</a>. Für die Open Tech School in Dortmund ist <a href=\"http://discourse.opentechschool.org/users/Madeleine\">Madeleine</a> eine Ansprechpartnerin."
+    }
+  ]
+}

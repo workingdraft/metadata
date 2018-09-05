@@ -1,0 +1,42 @@
+{
+  "id": 255,
+  "date": "2016-03-13",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "duration": "45:22",
+  "href": "https://workingdraft.de/255/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3037/0/wd-255.mp3",
+  "title": "Hack the Planet!",
+  "description": "Hans und Peter hatten keine Themen, also plauderten sie ein wenig über die diversen Hacks, die sie in ihren langen und ruhmreichen Frontendler-Karrieren so auf die Browser-Welt losgelassen haben.",
+  "topics": [
+    {
+      "title": "Hack the Planet",
+      "time": "00:00:09",
+      "description": "<p>Angestoßen durch <a href=\"https://github.com/jed/lave\">lave</a>, eine Art JSON für ganz harte (und wohl eine Ergänzung zum <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Structured_clone_algorithm\">Structured clone algorithm</a>), pflügen Hans und Peter durch ihr Hack-Archiv. Angefangen bei klassischen <a href=\"http://www.webdevout.net/css-hacks\">CSS-Hacks</a> über <a href=\"https://de.wikipedia.org/wiki/Conditional_Comments\">Conditional Comments</a> und dem <a href=\"http://www.satzansatz.de/cssd/onhavinglayout.html\">hasLayout-Allheilmittel <code>zoom: 1</code></a> geht es recht bald zum Thema Clearfix und seinen divseren Permutationen im Wandel der Zeit (Hans schwört auf <code>overflow: hidden</code>). Peters Lieblings-CSS-Hack bleibt hingegen <code>.wichtig, .egal:not(.egal){}</code>. In Folge betreten wir das Feld der HTML-Hacks, spekulieren über Details im <a href=\"https://html.spec.whatwg.org/#the-head-element\">head</a>&#8211; sowie über Anwendungsfälle des <a href=\"https://html.spec.whatwg.org/#the-noscript-element\">noscript</a>-Elements. Da <a href=\"https://html.spec.whatwg.org/#custom-data-attribute\">data-Attribute</a> letztlich auch nur die Großzügigkeit des HTML-Parsers ausnutzen, sortieren wir diese (speziell ohne data-Präfix) auch in der Hack-Rubrik ein. Wir beenden das Thema mit Erzählungen aus der React-Hackerei, erwähnen neben dem Universal-Schlangenöl <code>setTimeout(fn, 0)</code> auch das modernere <a href=\"https://developer.mozilla.org/de/docs/Web/API/Window/setImmediate\">setImmediate(fn)</a> und hören auf, bevor wir auf noch schrägere Hacks als Peters <a href=\"https://github.com/SirPepe/Unsync\">Funktionsverasynchronisierungslibrary</a> zu sprechen kommen.</p>"
+    }
+  ],
+  "links": [
+    {
+      "title": "tbranyen/diffhtml: Easily swap out markup with an intelligent virtual dom",
+      "href": "https://github.com/tbranyen/diffhtml",
+      "time": "00:43:30",
+      "description": "Für alle, denen React zu High-Level ist."
+    }
+  ]
+}

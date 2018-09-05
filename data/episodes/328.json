@@ -1,0 +1,65 @@
+{
+  "id": 328,
+  "date": "2018-02-6",
+  "people": [
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype",
+      "web": "http://distilledhype.com/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    }
+  ],
+  "duration": "1:04:20",
+  "href": "https://workingdraft.de/328/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3586/0/wd-328.mp3",
+  "title": "Web Components",
+  "description": "In dieser Revision war Working-Draft-Alumnus Kahlil (<a href=\"https://www.kahlillechelt.com/\">Webseite</a>, <a href=\"https://twitter.com/kahliltweets\">Twitter</a>, <a href=\"http://reactive.audio/\">Podcast</a>) zu Gast um mit Hans und Peter über Web Components zu plaudern.",
+  "news": [
+    {
+      "title": "Service Worker landen in Safari und Edge",
+      "href": "https://webkit.org/blog/8042/release-notes-for-safari-technology-preview-46/",
+      "time": "00:00:45",
+      "description": "Jeweils in den neuen Preview-Builds."
+    }
+  ],
+  "topics": [
+    {
+      "title": "Web Components",
+      "time": "00:01:08",
+      "description": "Inspiriert durch <a href=\"https://medium.com/@mikeal/ive-seen-the-future-it-s-full-of-html-2577246f2210\">einen Artikel von Mikeal Rogers</a> berichtet Kahlil von seiner Begeisterung für Web Components. Neben konkreten Webstandards wie <a href=\"https://developer.mozilla.org/en-US/docs/Web/Web_Components/Custom_Elements\">Custom Elements</a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/Web_Components/Shadow_DOM\">Shadow DOM</a>, <a href=\"https://developer.mozilla.org/de/docs/Web/HTML/Element/template\">Template-Elementen</a> und <a href=\"https://developer.mozilla.org/en-US/docs/Web/Web_Components/HTML_Imports\">HTML Imports</a> (RIP) und Tools im Stile von <a href=\"https://www.polymer-project.org/\">Polymer</a> und dem CDN <a href=\"https://unpkg.com/\">unpkg</a> treibt uns auch die Frage nach dem Warum und den möglichen Vorteilen von Web Components um. Während Kahlil in Web Components, kombiniert mit modernen Template-Libraries (<a href=\"https://github.com/Polymer/lit-html\">lit-html</a>, <a href=\"https://github.com/WebReflection/hyperHTML\">hyperHTML</a>/<a href=\"https://github.com/WebReflection/viperHTML\">viperHTML</a>) bzw. Data Binding für Template Elemente (<a href=\"http://workingdraft.de/319/\">wie in Revision 319 besprochen</a>) eine Alternative zu bzw. neue Basis für Frontend-JS-Frameworks sieht&nbsp;&ndash; zu nennen wären neben Polymer <a href=\"https://x-tag.github.io/\">X-Tag</a> und <a href=\"https://stenciljs.com/\">Stencil</a>&nbsp;&ndash; ist Peter weniger euphorisch. Die durch Web Components hergestellte Interoperabilität von Komponenten kann ein großes Plus sein (<a href=\"https://www.youtube.com/watch?v=FJ2KEvzlyo4\">EA-Erfahrungsbericht bei der Polymer-Conf</a>), doch wie oft sich das wirklich positiv zu Buche schlägt, bleibt dahingestellt. Peter setzt selbst Web Components ein (<a href=\"https://github.com/SirPepe/html-import\">html-import</a>, <a href=\"https://github.com/SirPepe/scoped-style\">scoped-style</a>), sieht sie jedoch nur als eine für sehr bestimmte Anwendungsfälle brauchbare HTML-Abstraktion, quasi das jQuery-Plugin&nbsp;2.0."
+    }
+  ],
+  "links": [
+    {
+      "title": "Native form validation",
+      "href": "https://www.quirksmode.org/blog/archives/2017/12/native_form_val.html",
+      "time": "01:02:48",
+      "description": "PPK wendet sich gewohnter Detailversessenheit der Funktionsweise und der Browserunterstützung von HTML5-Formularvalidierung zu."
+    },
+    {
+      "title": "Reactive Podcast",
+      "href": "http://reactive.audio/",
+      "time": "01:02:48",
+      "description": "Kahlils Podcast: „Three friends talk about tech, culture and software development“"
+    }
+  ]
+}

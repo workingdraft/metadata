@@ -1,0 +1,54 @@
+{
+  "id": 259,
+  "date": "2016-04-18",
+  "people": [
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Max Stoiber",
+      "twitter": "https://twitter.com/mxstbr"
+    }
+  ],
+  "duration": "42:23",
+  "href": "https://workingdraft.de/259/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3074/0/wd-259.mp3",
+  "title": "React Entwicklung und Frontend Einstieg",
+  "description": "Da die Stammbesetzung diesmal extrem spärlich besetzt und zudem unsere Themenauswahl begrenzt war, lud sich Anselm für die Sendung <a href=\"http://mxstbr.com/\">Max Stoiber</a> ein, um über React Entwicklung und den mittlerweile nicht mehr so einfachen Einstieg in die Front-end Entwicklung zu sprechen.",
+  "news": [
+    {
+      "title": "Grunt 1.0.0",
+      "href": "http://gruntjs.com/blog/2016-04-04-grunt-1.0.0-released",
+      "time": "00:00:54",
+      "description": "Endlich ist die stabile Version 1.0.0 von Grunt veröffentlicht worden, die jede Menge Bugs behebt und Kleinigkeiten verbessert."
+    }
+  ],
+  "topics": [
+    {
+      "title": "React Boilerplate",
+      "href": "https://github.com/mxstbr/react-boilerplate",
+      "time": "00:02:10",
+      "description": "Wir nehmen das von Max entwickelte React Boilerplate als Anlass, um über React Application Development zu sprechen und kämmen hier den gesamten Stack durch: Wir beginnen bei Erleichterungen im Workflow, Refactoring hin zu allumfassenden Components und die Erfahrung, die Max machen konnte. Wir sprechen über <a href=\"https://github.com/amwmedia/plop\">Component Generators</a>, Server-Side Rendering, <a href=\"https://css-tricks.com/css-modules-part-1-need/\">CSS Modules</a> und versuchen zu lösen, warum so viele React Applications nur mittelmäßigen Code ausgeben."
+    },
+    {
+      "title": "„… nobody has a clue what they’re doing”",
+      "href": "https://github.com/mxstbr/ama/issues/8",
+      "time": "00:22:10",
+      "description": "ist ein Statement von Max, als er von einem Junior-Developer gefragt wurde, ob er sich auf eine Stelle bewerben solle, weil er die Anforderungen nicht ganz erfüllen könne. Wir sprechen über den Einstieg in die Frontend Entwicklung, die heutigen Hürden dabei und warum es<br>\nwohl keinen Frontend Entwickler geben wird, der von sich behaupten kann, alles zu wissen. Abschließend sehen wir in die Zukunft und erzählen, wie wir uns diese vorstellen."
+    }
+  ],
+  "links": [
+    {
+      "title": "Why you should enforce Dangling Commas for Multiline Statements",
+      "href": "https://medium.com/@nikgraf/why-you-should-enforce-dangling-commas-for-multiline-statements-d034c98e36f8#.1gl6equg0",
+      "time": "00:41:29",
+      "description": "Max hat uns noch einen Link mitgebracht, in dem erklärt wird, warum Dangling Commas durchaus sinnvoll sein können."
+    }
+  ]
+}

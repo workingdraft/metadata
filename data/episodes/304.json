@@ -1,0 +1,59 @@
+{
+  "id": 304,
+  "date": "2017-06-24",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    }
+  ],
+  "duration": "1:03:11",
+  "href": "https://workingdraft.de/304/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3412/0/wd-304.mp3",
+  "title": "Native Browser-APIs",
+  "description": "Hans und Schepp telefonierten sich diesmal zusammen und sprachen über die weite Verbreitung und Vorteile moderner Browser-APIs.",
+  "topics": [
+    {
+      "title": "Native Browser-APIs",
+      "time": "00:00:15",
+      "description": "Schepp hat sich in letzter Zeit verstärkt damit befasst, wie man auf einer klassischen Webseite den ganzen JavaScript-Balast loswerden kann. Ziel des Ganzen ist zum einen, Download- und <a href=\"https://twitter.com/HenriHelvetica/status/877924754195324928\">Parsezeiten</a> zu vermeiden, aber auch eine schnelle Ausführungsgeschwindigkeit zu erhalten, bedingt durch den dahintersteckenden, nativen C-Code. Und da sieht es eigentlich recht gut aus mit APIs und deren Support durch Browser. Folgende Themenbereiche lassen sich heute ohne viel zusätzliches JavaScript gut bedienen:<p></p>\n<ul>\n<li>DOM-Traversal: Dank <a href=\"https://developer.mozilla.org/de/docs/Web/API/Element/querySelector\">querySelector()</a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Element/querySelectorAll\">querySelectorAll()</a>, <a href=\"https://developer.mozilla.org/de/docs/Web/API/Element/closest\">closest()</a>, <a href=\"https://developer.mozilla.org/de/docs/Web/API/Node/previousSibling\">previousSibling()</a>, <a href=\"https://developer.mozilla.org/de/docs/Web/API/Node/nextSibling\">nextSibling()</a> alles kein Hexenwerk mehr. Hilfreich sind dabei <a href=\"https://twitter.com/rauschma/status/874041577223729153\">die Tricks</a>, um Element-Collections in iterierbare Arrays umzuwandeln.</li>\n<li>DOM-Manipulation: Auch viel leichter geworden, dank <a href=\"https://developer.mozilla.org/de/docs/Web/API/ChildNode/before\">before()</a>, <a href=\"https://developer.mozilla.org/de/docs/Web/API/ChildNode/after\">after()</a> oder <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/ChildNode/replaceWith\">replaceWith()</a>. Mehrere Styles lassen sich prima &#8222;en bloc&#8220; per <code>Object.assign(elem.style, { color: '#fff', fontSize: '1rem' })</code> mit bestehenden Eigenschaften zusammenmergen.</li>\n<li>Event Delegation: Dank nunmehr einheitlicher addEventListener()-Methode, durchgehendem <a href=\"https://www.quirksmode.org/blog/archives/2008/04/delegating_the.html\">Capture-Phase</a>-Support und <a href=\"https://developer.mozilla.org/de/docs/Web/API/Element/matches\">Element.matches()</a> recht einfach selbst umzusetzen.\n</li><li>Umgang mit Arrays: Schon ES5 war ein Meilenstein und es wird nur besser: <a href=\"https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach\">forEach()</a>, <a href=\"https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/filter\">filter()</a>, <a href=\"https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/map\">map()</a>, <a href=\"https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce\">reduce()</a>, <a href=\"https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/sort\">sort()</a>, <a href=\"https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/find\">find()</a>, <a href=\"https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex\">findIndex()</a>, <a href=\"https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/includes\">includes()</a>, <a href=\"https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/every\">every()</a>, <a href=\"https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/entries\">entries()</a> und <a href=\"https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/values\">values()</a>. Und dann gibt es da ja noch die <a href=\"https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Operators/Spread_operator\">Spread-</a> und <a href=\"http://exploringjs.com/es6/ch_destructuring.html#sec_rest-operator\">Rest-Operatoren</a>.</li>\n<li>Umgang mit Objekten: Hier hat ES6 mit <a href=\"https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Object/assign\">assign()</a> und <a href=\"https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Object/keys\">keys()</a> den Grundstein gelegt. Nun wurde u.a. <a href=\"https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Object/entries\">entries()</a> und <a href=\"https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Object/values\">values()</a> nachgelegt.</li>\n<li>Für Karusell-Slider bieten sich die <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Scroll_Snap_Points\">CSS Snap Points</a> an.</li>\n<li>Für das Schriften-Laden die <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/CSS_Font_Loading_API\">CSS Font Loading API</a>.</li>\n<li>Für das Lazyloading von Bildern kann man heutzutage gut die <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API\">Intersection Observer API</a> verwenden.</li>\n<li>Und für weiches Scrollen auf der Seite steht neuerdings die CSS-Eigenschaft <a href=\"https://developer.mozilla.org/de/docs/Web/CSS/scroll-behavior\">scroll-behavior</a> mit dem Wert <code>smooth</code> zur Verfügung.</li>\n</ul>"
+    }
+  ],
+  "links": [
+    {
+      "title": "How the minmax() Function Works",
+      "href": "https://bitsofco.de/how-the-minmax-function-works/",
+      "time": "00:57:09",
+      "description": "Die CSS Grid Spec führt eine <code>minmax()</code>-Funktion ein, welche recht praktisch ist."
+    },
+    {
+      "title": "Lea Verou – CSS Variables: var(–subtitle);",
+      "href": "https://www.youtube.com/watch?v=2an6-WVPuJU",
+      "time": "00:57:09",
+      "description": "Wie alle Talks von Lea sehr sehenswert, diesmal mit dem Thema CSS Custom Properties (im Volksmund &#8222;CSS Variablen&#8220;) zum Thema."
+    },
+    {
+      "title": "Essential apps for switching from Mac to Windows",
+      "href": "https://char.gd/blog/2017/essential-apps-for-switching-from-mac-to-windows",
+      "time": "00:57:09",
+      "description": "Tolle Ressource für Entwickler, die an einem Wechsel zu Windows interessiert sind, ergänzend zu dem vor zwei Revisionen schon einmal verlinkten &#8222;<a href=\"https://github.com/felixrieseberg/windows-development-environment\">Turning Windows into an environment ready for modern development</a>&#8222;."
+    },
+    {
+      "title": "Inside Chrome: The Secret Project to Crush IE and Remake the Web",
+      "href": "https://www.wired.com/2008/09/mf-chrome/",
+      "time": "00:57:09",
+      "description": "Weil Chrome bald 10 Jahre alt wird dachten wir, verlinken wir dieses historische Fundstück."
+    }
+  ]
+}

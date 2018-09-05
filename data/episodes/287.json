@@ -1,0 +1,54 @@
+{
+  "id": 287,
+  "date": "2017-01-29",
+  "people": [
+    {
+      "name": "Joschi Kuphal",
+      "twitter": "https://twitter.com/jkphl",
+      "web": "http://jkphl.is/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    }
+  ],
+  "duration": "1:04:27",
+  "href": "https://workingdraft.de/287/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3256/0/wd-287.mp3",
+  "title": "Microinformationen und CoderDojo",
+  "description": "Anselm und Hans haben dieses mal <a href=\"https://jkphl.is/\">Joschi Kuphal</a> (<a href=\"https://tollwerk.de/\">seine Firma</a>, <a href=\"https://twitter.com/jkphl\">Twitter</a>) zu Gast.",
+  "news": [],
+  "topics": [
+    {
+      "title": "Microinformationen",
+      "time": "00:00:53",
+      "description": "Joschi Kuphal beschäftigt sich seit vielen Jahren mit Microinformationen &#8211; Informationen, die gerade Suchmaschinen helfen, Inhalte besser zu erkennen (<a href=\"https://micrometa.jkphl.is\">sein Parser</a>). Aufgrund seiner Expertise, hilft er <a href=\"http://workingdraft.de/262/\">uns als unwissende</a> das Thema zu verstehen.<br>\nEr erklärt uns die Unterschiede zwischen den einzelnen Formaten: <a href=\"http://microformats.org/wiki/microformats2\">Microformats 2</a>, <a href=\"https://www.w3.org/TR/microdata/\">Microdata</a>, <a href=\"http://json-ld.org/\">JSON LD</a> und <a href=\"http://rdfa.info/\">RDFa</a>."
+    },
+    {
+      "title": "CoderDojo",
+      "time": "00:43:25",
+      "description": "Joschi hat in Nürnberg aus Eigeninitiative (eigenes Kind) vor ca. 2 Jahren das CoderDojo gegründet. Dort lernen Mentoren mit Kindern spielerisch Robotik und Programmierung. Die Veranstaltungen gibt es weltweit.<br>\nBeim CoderDojo in Nürnberg gab es nun eine <a href=\"https://coderdojo-nbg.org/take-a-seat.html\">Crowdfunding Kampagne</a>, um 50 gute Stühle für die Kinder zu besorgen.<br>\nMentoren sind beim CoderDojo überall herzlich willkommen. Wenn man Interesse an der Organisation eines eigenen Dojos hat sollte einfach Leute finden, die mitmachen möchten, und den Anregungen der <a href=\"https://coderdojo.com/\">Mutter-Foundation</a> folgen oder andere CoderDojos fragen."
+    }
+  ],
+  "links": [
+    {
+      "title": "WDRL – Web Development Reading List | The 2016 Almanac",
+      "href": "https://wdrl.info/almanac/2016",
+      "time": "01:02:28",
+      "description": "Anselm hat alle Links seiner WDRL von 2016 in einem übersichtlichen Nachschlagewerk aufbereitet."
+    }
+  ]
+}

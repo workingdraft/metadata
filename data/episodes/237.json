@@ -1,0 +1,86 @@
+{
+  "id": 237,
+  "date": "2015-10-17",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    }
+  ],
+  "duration": "53:25",
+  "href": "https://workingdraft.de/237/",
+  "audio": "https://workingdraft.de/podpress_trac/web/2899/0/wd-237.mp3",
+  "title": "Remote Work und Informationsnachschub",
+  "description": "Hans, Schepp und Stefan widmen sich heute zwei Meta-Themen:",
+  "topics": [
+    {
+      "title": "Remote First vs Remote Friendly",
+      "href": "http://zachholman.com/posts/remote-first/",
+      "time": "00:00:20",
+      "description": "Zach Holmans Beitrag zur Remote-Arbeit nehmen wir zum Anlass um unsere Erfahrungen zu teilen. Wir erläutern, was<br>\ngut funktioniert, was weniger gut läuft, und auf welche Dinge man achten muss um anständig verteilt zu arbeiten.<br>\nHans macht das mittlerweile sehr oft und sehr gern, Schepp holt sich familienbedingt die Abwechslung im Agentur-Büro.<br>\nStefan erzählt, dass Remote Work Best Practices auch sehr hilfreich sind, wenn die <a href=\"https://ruxit.com\">Büros</a><br>\n sich über den Globus verteilen."
+    },
+    {
+      "title": "The fallacy of keeping up",
+      "href": "http://timkadlec.com/2015/09/the-fallacy-of-keeping-up/",
+      "time": "00:21:07",
+      "description": "Tim Kadlec schreibt wie er bei neuen Technologien am Ball bleibt. Wir klinken uns da ein und beschreiben<br>\nunsere Wege, um mit dem neuesten Schritt halten zu können. Viel selektives Lesen, Konzepte statt Frameworks lernen,<br>\nund Newsletter (vor allem die <a href=\"http://wdrl.info\">WDRL</a>) abonnieren. Und natürlich Working Draft hören."
+    }
+  ],
+  "links": [
+    {
+      "title": "Why do we have repeating-linear-gradient anyway",
+      "href": "https://css-tricks.com/why-do-we-have-repeating-linear-gradient-anyway/",
+      "time": "00:48:10",
+      "description": "Ana Tudor ana-lysiert die <code>repeating-linear-gradient</code> Funktion der <code>background-image</code> Eingeschaft aufs Genaueste.<br>\nMöglichkeiten inklusive Browser-Unterschiede in diesem umfangreichen Artikel."
+    },
+    {
+      "title": "Loupe",
+      "href": "http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D",
+      "time": "00:48:10",
+      "description": "Loupe zeigt euch was die JavaScript Engine macht wenn Code ausgeführt wird."
+    },
+    {
+      "title": "CSS Vintage Washout",
+      "href": "http://una.im/vintage-washout/#💁",
+      "time": "00:48:10",
+      "description": "Una Kravets&#8216; Serie über CSS Filtereffekte ist nicht nur außerordentlich unterhaltsam, sondern auch sehr lehrreich. Empfehlenswert!."
+    },
+    {
+      "title": "Chrome DevTools Update",
+      "href": "https://speakerdeck.com/addyosmani/whats-new-in-chrome-devtools",
+      "time": "00:48:10",
+      "description": "Addy Osmani zeigt, was alles neu ist in den Chrome DevTools."
+    },
+    {
+      "title": "HTMLGL",
+      "href": "http://pixelscommander.com/en/web-applications-performance/render-html-css-in-webgl-to-get-highest-performance-possibl/",
+      "time": "00:48:10",
+      "description": "HTML Rendering in WebGL? Das ganze noch 100% accessible? Tolle Techdemo mit gutem Artikel."
+    },
+    {
+      "title": "RUM SpeedIndex",
+      "href": "https://github.com/WPO-Foundation/RUM-SpeedIndex",
+      "time": "00:48:10",
+      "description": "Berechnet den angenäherten SpeedIndex am Client."
+    }
+  ]
+}

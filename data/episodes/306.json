@@ -1,0 +1,78 @@
+{
+  "id": 306,
+  "date": "2017-07-3",
+  "people": [
+    {
+      "name": "Manuel Matuzovic",
+      "twitter": "https://twitter.com/mmatuzo"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    }
+  ],
+  "duration": "1:19:37",
+  "href": "https://workingdraft.de/306/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3431/0/wd-306.mp3",
+  "title": "Accessibility und CSS Grids",
+  "description": "Mit <a href=\"https://twitter.com/mmatuzo\">Manuel Matuzović</a> von den <a href=\"https://twitter.com/wearewebclerks\">Webclerks</a> gehen wir in den Themen Accessibility und CSS Grids in ein Nachspiel und ergänzen frühere Folgen. Von der Stammpartie mit dabei: Schepp, Hans und Stefan.",
+  "topics": [
+    {
+      "title": "Mit einfachen Mitteln Accessibility verbessern",
+      "href": "https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9",
+      "time": "00:03:07",
+      "description": "Manuel gibt in seinen Artikeln und Beispielen einen guten Rundumschlag zum Thema Barrierefreiheit. Wir unterhalten uns über seine <a href=\"https://medium.com/alistapart/writing-html-with-accessibility-in-mind-a62026493412\">Artikel</a>, sowie etliche weitere Quellen, die uns in Accessibility noch weiterhelfen können. Zu empfehlen sind die <a href=\"https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g\">A11ycasts von Google</a>, den in die Jahre gekommenen aber immer noch gültigen Eintrag im <a href=\"https://yuiblog.com/blog/2010/08/16/video-zakas-tsaran/\">YUI Theatre</a> (<a href=\"https://yuiblog.com/blog/category/accessibility\">2</a>, <a href=\"https://yuiblog.com/blog/2007/06/12/video-intro-to-screen-magnifiers/\">3</a>) und Heydons <a href=\"https://inclusive-components.design/\">Inclusive Components</a> wenns um SPAs geht. Manuel hat auf <a href=\"https://codepen.io/matuzo/pen/awdevz\">Codepen</a> noch weitere <a href=\"https://codepen.io/matuzo/pen/LLGKmP\">Beispiele</a>. Außerdem sehen wir uns den <a href=\"https://github.com/WICG/focus-ring\">Focus Ring</a> genauer an und lassen alte Diskussionen über das lang-Attribut erneut aufkochen, so wie damals im <a href=\"https://github.com/h5bp/html5-boilerplate/commit/d916a720253d171a9b54818f2a07d14acbd2e4c7\">HTML 5 Boilerplate</a>, Hans und Anwesende erinnern sich."
+    },
+    {
+      "title": "Grid auto layout",
+      "href": "https://fettblog.eu/grid-concepts/",
+      "time": "00:52:49",
+      "description": "CSS Grid ist nun auch in den Preview Versionen von Edge verfügbar und damit beinah flächendeckend. Wir schauen uns ein wichtiges Feature im Vergleich zur IE10+ Version an, nämlich Auto Layout. Und erklären damit auch gleich ein paar Grundkonzepte, basierend auf Stefans Artikel. Unser Grundsatz: Grid kann man schon gut jetzt einsetzen, vor allem wenn man nicht die ganze Magie benötigt. Für den Schuß Extra-Magie gibt es gute <a href=\"https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks\">Fallbacks</a>"
+    }
+  ],
+  "links": [
+    {
+      "title": "place-items",
+      "href": "https://developer.mozilla.org/en-US/docs/Web/CSS/place-items",
+      "time": "01:16:18",
+      "description": "Zentrieren in einer CSS Shorthand. Lässt glatt die Hölle zufrieren."
+    },
+    {
+      "title": "space-evenly",
+      "href": "https://codepen.io/matuzo/pen/GmXVWo?editors=1100",
+      "time": "01:16:18",
+      "description": "Eine neue Raumverteilung für Flexbox."
+    },
+    {
+      "title": "Service Workers Outbreak",
+      "href": "https://www.youtube.com/watch?v=CPP9ew4Co0M&index=5",
+      "time": "01:16:18",
+      "description": "Fesches Video von der JSConf EU zum Thema Service Workers."
+    },
+    {
+      "title": "Parsing JavaScript: Better lazy than eager",
+      "href": "https://www.youtube.com/watch?v=Fg7niTmNNLg&index=10",
+      "time": "01:16:18",
+      "description": "Die Münchner V8 Garde wieder in bester Form: Marja Hölltä erklärt JavaScript Parsing Interna."
+    }
+  ]
+}

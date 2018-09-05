@@ -59,7 +59,8 @@
   "helloanselm": {
     "name": "Anselm Hannemann",
     "team": [
-      "2014-05-05"
+      "2014-05-05",
+      "2018-05-14"
     ],
     "twitter": "https://twitter.com/helloanselm",
     "web": "http://anselm-hannemann.com/"
@@ -401,5 +402,190 @@
   "saemple": {
     "name": "Anna Müller",
     "twitter": "https://twitter.com/saemple"
+  },
+  "derMambo": {
+    "name": "Manuel Schoebel",
+    "twitter": "https://twitter.com/derMambo"
+  },
+  "yauh": {
+    "name": "Stephan Hochhaus",
+    "twitter": "https://twitter.com/yauh"
+  },
+  "usefulthink": {
+    "name": "Martin Schuhfuss",
+    "twitter": "https://twitter.com/usefulthink"
+  },
+  "kainiklas": {
+    "name": "Kai Niklas"
+  },
+  "rauschma": {
+    "name": "Axel Rauschmayer",
+    "twitter": "https://twitter.com/rauschma"
+  },
+  "cramforce": {
+    "name": "Malte Ubl",
+    "twitter": "https://twitter.com/cramforce"
+  },
+  "RouvenWessling": {
+    "name": "Rouven Wessling"
+  },
+  "ThomasScholte": {
+    "name": "Thomas Scholte"
+  },
+  "mxstbr": {
+    "name": "Max Stoiber",
+    "twitter": "https://twitter.com/mxstbr"
+  },
+  "ppk": {
+    "name": "Peter-Paul Koch",
+    "twitter": "https://twitter.com/ppk"
+  },
+  "danielmies": {
+    "name": "Daniel Mies",
+    "twitter": "https://twitter.com/danielmies"
+  },
+  "html5test": {
+    "name": "Niels Leenheer",
+    "twitter": "https://twitter.com/html5test"
+  },
+  "inoverse": {
+    "name": "Aaron Czichon",
+    "twitter": "https://twitter.com/inoverse"
+  },
+  "ChristophReinartz": {
+    "name": "Christoph Reinartz"
+  },
+  "nikgraf": {
+    "name": "Nik Graf",
+    "twitter": "https://twitter.com/nikgraf"
+  },
+  "tobiasblock": {
+    "name": "Tobias Block",
+    "twitter": "https://twitter.com/tobiasblock"
+  },
+  "codebryo": {
+    "name": "Roman Kuba",
+    "twitter": "https://twitter.com/codebryo"
+  },
+  "smashingmag": {
+    "name": "Vitaly Friedman",
+    "twitter": "https://twitter.com/smashingmag"
+  },
+  "kabaehr": {
+    "name": "Katharina Baehr",
+    "twitter": "https://twitter.com/kabaehr"
+  },
+  "rogerdudler": {
+    "name": "Roger Dudler",
+    "twitter": "https://twitter.com/rogerdudler"
+  },
+  "wSokra": {
+    "name": "Tobias Koppers",
+    "twitter": "https://twitter.com/wSokra"
+  },
+  "Jhnnns": {
+    "name": "Johannes Ewald",
+    "twitter": "https://twitter.com/Jhnnns"
+  },
+  "_schickling": {
+    "name": "Johannes Schickling",
+    "twitter": "https://twitter.com/_schickling"
+  },
+  "bastiankrol": {
+    "name": "Bastian Krol",
+    "twitter": "https://twitter.com/bastiankrol"
+  },
+  "stefanjudis": {
+    "name": "Stefan Judis",
+    "twitter": "https://twitter.com/stefanjudis"
+  },
+  "j9t": {
+    "name": "Jens Oliver Meiert",
+    "twitter": "https://twitter.com/j9t"
+  },
+  "daten_drang": {
+    "name": "Kira Schacht",
+    "twitter": "https://twitter.com/daten_drang"
+  },
+  "philninh": {
+    "name": "Phil Ninh",
+    "twitter": "https://twitter.com/philninh"
+  },
+  "mmatuzo": {
+    "name": "Manuel Matuzovic",
+    "twitter": "https://twitter.com/mmatuzo"
+  },
+  "davidhellmann": {
+    "name": "David Hellmann"
+  },
+  "justinschueler": {
+    "name": "Justin Schueler"
+  },
+  "larsvegas": {
+    "name": "Lars Wolff",
+    "twitter": "https://twitter.com/larsvegas"
+  },
+  "foobartel": {
+    "name": "Holger Bartel",
+    "twitter": "https://twitter.com/foobartel"
+  },
+  "tobiastom": {
+    "name": "Tobias Tom",
+    "twitter": "https://twitter.com/tobiastom"
+  },
+  "muhdiekuh": {
+    "name": "Hans-Christian Otto",
+    "twitter": "https://twitter.com/muhdiekuh"
+  },
+  "jank": {
+    "name": "Jan Krutisch"
+  },
+  "marcusschwemer": {
+    "name": "Marcus Schwemer",
+    "twitter": "https://twitter.com/marcusschwemer"
+  },
+  "dennisreimann": {
+    "name": "Dennis Reimann",
+    "twitter": "https://twitter.com/dennisreimann"
+  },
+  "janpersiel": {
+    "name": "Jan Persiel",
+    "twitter": "https://twitter.com/janpersiel"
+  },
+  "DasSurma": {
+    "name": "Surma",
+    "twitter": "https://twitter.com/DasSurma"
+  },
+  "pmmuens": {
+    "name": "Philipp Müns",
+    "twitter": "https://twitter.com/pmmuens"
+  },
+  "bmeurer": {
+    "name": "Benedikt Meurer",
+    "twitter": "https://twitter.com/bmeurer"
+  },
+  "misprintedtype": {
+    "name": "Ola Gasidlo",
+    "twitter": "https://twitter.com/misprintedtype"
+  },
+  "glyphe": {
+    "name": "Oliver Schöndorfer",
+    "twitter": "https://twitter.com/glyphe"
+  },
+  "sebastiangreger": {
+    "name": "Sebastian Greger",
+    "twitter": "https://twitter.com/sebastiangreger"
+  },
+  "l_a_w_4_2": {
+    "name": "Baltasar Cevc",
+    "twitter": "https://twitter.com/l_a_w_4_2"
+  },
+  "rmehner": {
+    "name": "Robin Mehner",
+    "twitter": "https://twitter.com/rmehner"
+  },
+  "ryyppy": {
+    "name": "Patrick Stapfer",
+    "twitter": "https://twitter.com/ryyppy"
   }
 }

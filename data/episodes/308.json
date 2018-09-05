@@ -1,0 +1,49 @@
+{
+  "id": 308,
+  "date": "2017-08-7",
+  "people": [
+    {
+      "name": "Sven Wolfermann",
+      "twitter": "https://twitter.com/maddesigns",
+      "web": "http://maddesigns.de/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "duration": "1:24:39",
+  "href": "https://workingdraft.de/308/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3443/0/wd-308.mp3",
+  "title": "CSS mit Sven Wolfermann",
+  "description": "Von CSS-Guru Sven Wolfermann (<a href=\"http://maddesigns.de/\">Webseite</a>, <a href=\"https://twitter.com/maddesigns?lang=de\">Twitter</a>) ließen sich Hans und Peter erzählen, was denn modernes CSS so alles zu leisten im Stande ist.",
+  "topics": [
+    {
+      "title": "CSS-Features, die man heutzutage verwenden muss",
+      "time": "00:00:57",
+      "description": "Zu den Must-Haves im Jahr 2017 gehören ganz klar <a href=\"https://developer.mozilla.org/de/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes\">Flexbox</a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/calc\">calc()</a> und <a href=\"https://snook.ca/archives/html_and_css/font-size-with-rem\">rem</a>&nbsp;&ndash; wer hier noch zu den Oldschool-Alternativen Float-Layout, Kopfrechnen und em zurückgreifen will, braucht dafür sehr gute Gründe. Ebenfalls mittlerweile zu 100% im Browser-Mainstream angekommen sind <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/background-position\">background-position</a> mit vier Werten, <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/color_value#currentcolor_keyword\">currentColor</a> (v.a. zum Styling von SVG-Icons), <a href=\"https://css-tricks.com/almanac/properties/u/user-select/\">user-select</a> (noch mit Vendor-Prefix) und die noch immer völlig unterbewerteten <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Lists_and_Counters/Using_CSS_counters\">CSS-Counter</a>."
+    },
+    {
+      "title": "Features die man Real-Life verwenden kann",
+      "time": "00:23:40",
+      "description": "Neben den gut unterstützten <a href=\"https://www.sitepoint.com/css-viewport-units-quick-start/\">Viewport-Units vw/vh/vmin/vmax</a> sind auch die weniger weit verbreiten Font-Detail-Properties <a href=\"https://developer.mozilla.org/de/docs/Web/CSS/font-feature-settings\">font-feature-settings</a>, <a href=\"https://developer.mozilla.org/de/docs/Web/CSS/font-stretch\">font-stretch</a>, <a href=\"https://developer.mozilla.org/de/docs/Web/CSS/font-size-adjust\">font-size-adjust</a>, <a href=\"https://developer.mozilla.org/de/docs/Web/CSS/font-variant-alternates\">font-variant-alternates</a> und <a href=\"https://developer.mozilla.org/de/docs/Web/CSS/font-kerning\">font-kerning</a> brauchbar, denn wenn die mal nicht funtkionieren fällt es kaum jemandem auf. <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-wrap\">overflow-wrap</a> als Ergänzung zu <a href=\"https://developer.mozilla.org/de/docs/Web/CSS/hyphens\">hyphens</a> ist ebenso weit verbreitet wie <a href=\"https://developer.mozilla.org/de/docs/Web/CSS/@font-face/unicode-range\">Unicode Range</a>, <a href=\"https://developer.mozilla.org/de/docs/Web/CSS/writing-mode\">Writing Mode</a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables\">Custom Properties</a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/@supports\">Feature Queries (@supports)</a>, <a href=\"https://developer.mozilla.org/de/docs/Web/CSS/object-fit\">Object-Fit</a> und  <a href=\"https://css-tricks.com/position-sticky-2/\">position:sticky</a>. Auch einige wenige Features aus <a href=\"https://www.w3.org/TR/mediaqueries-4/\">Media Queries Level 4</a> funktionieren in modernen Browsern bereits."
+    },
+    {
+      "title": "Zukunftsaussichten und Wünsche",
+      "time": "01:03:18",
+      "description": "Neben dem frommen Wunsch, dass sich allerlei bekannte Features möglichst schnell durchsetzen mögen (<b>Grid</b>, <b>Shapes</b>, <b>Blend-Modes</b>, <b>filter</b>) ist Sven besonders scharf auf <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display\">font-display</a> und <a href=\"https://www.chromestatus.com/feature/5734273533345792\">line-height-step</a>. Beim <b>Styling von Inputs</b> gibt es Fortschritte, aber auch da sehen wir noch Luft nach oben. Letzter Wunsch: die <a href=\"https://drafts.csswg.org/css-color/\">color()-Funktion</a> möge sich zeitnah durchsetzen!"
+    }
+  ]
+}

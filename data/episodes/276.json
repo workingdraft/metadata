@@ -1,0 +1,54 @@
+{
+  "id": 276,
+  "date": "2016-09-15",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "duration": "1:08:38",
+  "href": "https://workingdraft.de/276/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3185/0/wd-276.mp3",
+  "title": "Große Module, kleine Module? Viel Code, wenig Code?",
+  "description": "Hans und Peter lieferten sich eine epische Debatte rund um JavaScript, speziell Module und Dependencies. Am Ende schütteln beide auch noch mal kurz den Kopf über eher originelle Vorschläge zum Thema CSS.",
+  "topics": [
+    {
+      "title": "JavaScript-Module – Klein, groß, mittel?",
+      "time": "00:00:13",
+      "description": "Angestoßen von dem Aufpoppen des <a href=\"https://plainjs.com/\">Vanilla-JavaScript-Repositories PlainJS</a> (von früher schon bekannt: das in die gleiche Kerbe schlagende <a href=\"http://microjs.com/\">Microjs</a>) diskutieren wir ein paar Frontend-JavaScript-Grundsatzfragen. Peter springt wie immer dem designierten Prügelknaben jQuery bei, verweist auf den weniger bloatigen <a href=\"https://blog.jquery.com/2016/06/09/jquery-3-0-final-released/\">3.0-Build ohne OldIE-Support</a> und verweist darauf, dass es für Normalsterbliche annhährend unmöglich ist, etwas wie jQuerys <code>text()</code>-Methode nachzubauen (denn <a href=\"http://perfectionkills.com/the-poor-misunderstood-innerText/\">innerText ist super-kompliziert</a>). Hans hingegen führt sein <a href=\"http://drublic.github.io/css-modal/\">CSS Modal</a> an Beleg dafür an, dass es nicht immer jQuery sein muss. Unabhängig von jQuery wollen beide nicht auf <a href=\"https://lodash.com/\">Lodash</a> verzichten, obwohl da das bloat-Problem im Prinzip fortbesteht. Große Hoffnungen werden an diverse Methoden zur Dead Code Elmimination gerichtet (z.B. per <a href=\"http://rollupjs.org/\">Rollup</a> oder <a href=\"https://www.npmjs.com/package/babel-plugin-dead-code-elimination\">Babel-Plugin</a>). So könnten große Libraries neben kleinen Libraries (denen wir in Form von <a href=\"https://github.com/juliangruber/isarray/blob/master/index.js\">isArray</a> und <a href=\"https://github.com/stevemao/left-pad/blob/master/index.js\">left-pad</a>, vgl. <a href=\"http://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm\">Left-Pad-Gate</a> unterschiedlich viel Respekt zollen) weiter bestehen und verwendet werden, obwohl auch diese <a href=\"https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/\">ihre ganz eigenen Probleme haben</a>. Am Ende diskutieren wir über den Weg der Zukunft: kleine Module? Große Module mit Erweiterungs-APIs? Web Components?"
+    },
+    {
+      "title": "Writing Less Damn Code",
+      "href": "http://www.heydonworks.com/article/on-writing-less-damn-code",
+      "time": "00:55:53",
+      "description": "<a href=\"https://twitter.com/heydonworks\">Heydon Pickering</a> schlägt vor, wir mögen doch bitte weniger CSS schreiben, damit unsere Codebases besser werden mögen. Wir sind da äußerst skeptisch, und sind nicht sicher, ob die Zahl der Zeilen ein so relevanter Qualitätsindikator ist. Komponentenbasiertes CSS wie <a href=\"http://getbem.com/introduction/\">BEM</a> scheint durchaus geeignet, CSS für die heutige Zeit zu fit zu machen, führt aber naturgmäß zu mehr Code."
+    }
+  ],
+  "links": [
+    {
+      "title": "google/closure-compiler-js",
+      "href": "https://github.com/google/closure-compiler-js",
+      "time": "01:06:33",
+      "description": "JS-API für Googles Closure Complier, Gulp-Task inklusive."
+    },
+    {
+      "title": "Start Building with Web Bluetooth and Progressive Web Apps",
+      "href": "https://medium.com/@urish/start-building-with-web-bluetooth-and-progressive-web-apps-6534835959a6#.bpwe16hrk",
+      "time": "01:06:33",
+      "description": "Kleines Tutorial zu Web Bluetooth."
+    }
+  ]
+}

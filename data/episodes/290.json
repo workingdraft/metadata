@@ -1,0 +1,81 @@
+{
+  "id": 290,
+  "date": "2017-02-20",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    }
+  ],
+  "duration": "48:31",
+  "href": "https://workingdraft.de/290/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3293/0/wd-290.mp3",
+  "title": "Parse & Compile, Safari 10.1, WebGPU",
+  "description": "<a href=\"http://workingdraft.wire.com\" style=\"display: block; margin: 1em 0; width: 100%; max-width: 500px\"><img src=\"http://workingdraft.de/wp-content/uploads/2017/02/Wire-800x350.png\" alt=\"\" width=\"800\" height=\"350\" class=\"alignleft size-full wp-image-3294\" style=\"width: 100%; height: auto\" srcset=\"https://workingdraft.de/wp-content/uploads/2017/02/Wire-800x350.png 800w, https://workingdraft.de/wp-content/uploads/2017/02/Wire-800x350-300x131.png 300w, https://workingdraft.de/wp-content/uploads/2017/02/Wire-800x350-768x336.png 768w\" sizes=\"(max-width: 800px) 100vw, 800px\"></a>\n\nIn ewiger Jagd nach besserer Audioqualität und stabileren Servern sponsort uns diesmal <a href=\"http://workingdraft.wire.com\">Wire</a>, der <a href=\"https://www.heise.de/newsticker/meldung/Sicherheits-Audit-von-Krypto-Messenger-Wire-abgeschlossen-3621550.html\">sichere</a> <a href=\"https://github.com/wireapp\">Open Source</a> Messaging Client für all eure Plattformen.",
+  "news": [
+    {
+      "title": "Loading Stylesheets in Body",
+      "href": "https://jakearchibald.com/2016/link-in-body/#a-simpler-better-way",
+      "time": "00:01:04",
+      "description": "In <a href=\"http://workingdraft.de/254/\">Revision 254</a> besprochen, nun Realität: Chrome kann nun progressiv Stylesheets laden, ähnlich wie JavaScript Dateien."
+    }
+  ],
+  "topics": [
+    {
+      "title": "JavaScript parse and compile time",
+      "time": "00:02:48",
+      "description": "Bei all den Evangelien zur Web performance neigen wir dazu, die Zeit zu vernachlässigen, in der JavaScript geparsed und kompiliert wird. Die Zeit, die in den meisten Wasserfalldiagrammen gähnend weiße Leere verursacht. Die Leute von Google wollen das nun ändern und gehen gleich in mehreren Artikeln groß darauf ein. Allen voran <a href=\"https://medium.com/@addyosmani/javascript-start-up-performance-69200f43b201#.px64b2iz0\">Addy Osmanis</a> Text zur Startup Performance, aber auch Paul Lewis, der die Parse &#038; Compile Zeit <a href=\"https://aerotwist.com/blog/when-everything-is-important-nothing-is/\">von SPA frameworks verglichen hat</a>. Dazu noch ein Video von <a href=\"https://www.youtube.com/watch?v=4bZvq3nodf4&amp;feature=youtu.be\">Alex Russel</a> und Hinweis auf das <a href=\"https://developers.google.com/web/fundamentals/performance/prpl-pattern/\">PRPL pattern</a>. Nicht nur Google beschäftigt sich damit, sondern auch <a href=\"https://channel9.msdn.com/Blogs/msedgedev/nolanlaw-web-perf-crisis\">Nolan Lawson von Microsoft</a>. Wir diskutieren, teilen unsere Erfahrung mit und geben einen Rundumschlag."
+    },
+    {
+      "title": "Safari 10.1",
+      "href": "https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewInSafari/Articles/Safari_10_1.html",
+      "time": "00:29:35",
+      "description": "Safari 10.1 ist da und &#8212; hallo &#8212; da hat sich was geändert! Wir gehen die Feature Liste durch und freuen uns über ein paar Entscheidungen, die getroffen wurden. ."
+    },
+    {
+      "title": "WebGPU",
+      "href": "https://webkit.org/blog/7380/next-generation-3d-graphics-on-the-web/",
+      "time": "00:38:10",
+      "description": "Voll im Trend: Direkter und standardisierter Zugriff auf die Grafikkarte im Web Browser. Apple&#8217;s Webkit Engine macht da mit einem neuen Interface von sich reden, so aber auch <a href=\"https://github.com/gpuweb/nxt-standalone\">Google</a> und <a href=\"https://www.youtube.com/watch?v=BTURkjYJ_uk\">Mozilla</a>. Die Relevanz für uns Webworker sei mal dahingestellt, spannend ist das Thema trotzdem."
+    }
+  ],
+  "links": [
+    {
+      "title": "Gatsby",
+      "href": "https://github.com/gatsbyjs/gatsby",
+      "time": "00:46:00",
+      "description": "Statischer Seitengenerator mit React."
+    },
+    {
+      "title": "Web Components, the React way",
+      "href": "https://hackernoon.com/web-components-the-react-way-8ed5b6f4f942#.n4iutrbom",
+      "time": "00:46:00",
+      "description": "React und Web Components mischen geht nicht? Stimmt nicht! Der Artikel zeigt, wie man das am Saubersten macht."
+    },
+    {
+      "title": "Mo.js",
+      "href": "http://mojs.io/",
+      "time": "00:46:00",
+      "description": "Bewegung im Web, schön!"
+    }
+  ]
+}

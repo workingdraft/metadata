@@ -1,0 +1,52 @@
+{
+  "id": 322,
+  "date": "2017-12-11",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Tobias Tom",
+      "twitter": "https://twitter.com/tobiastom"
+    },
+    {
+      "name": "Holger Bartel",
+      "twitter": "https://twitter.com/foobartel"
+    }
+  ],
+  "duration": "47:54",
+  "href": "https://workingdraft.de/322/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3529/0/wd-322.mp3",
+  "title": "Colloq",
+  "description": "Linz, München, Köln, Lissabon, Hongkong. Der wohl verteilteste Working Draft bis heute dreht sich um Dinge die entstehen, wenn man gemeinsam an einem Ort ist. So haben <a href=\"https://twitter.com/foobartel\">Holger Bartel</a>, <a href=\"https://twitter.com/tobiastom\">Tobias Tom</a> und unser hauseigener Anselm eines schönen Tages in Düsseldorf beschlossen, die Event Plattform <a href=\"https://colloq.io\">Colloq</a> ins Leben zu rufen. Wir lauschen der Motivation und lernen aus den Erfahrungen.",
+  "topics": [
+    {
+      "title": "Colloq",
+      "href": "https://colloq.io",
+      "time": "00:00:00",
+      "description": "Wir erfahren von unserem internationalen Trio warum es etwas wie Colloq braucht, wie man ein solches Projekt ins Leben ruft und wie man sich von Datenfriedhöfen à la Lanyrd unterscheiden will. Dahinter stecken ein ausgeklügeltes Geschäftsmodell, viel Planung und ein unpopulärer, dafür wohl viel effizienterer Technologie-Stack aus PHP, eigenen Frameworks und ganz React-freiem JavaScript Code. Gehostet auf Digital Ocean und gecached bis dorthinaus präsentiert sich nicht nur eine gut bedienbare, sondern vor allem entscheidend flotte Plattform, die auch für Meetups taugt. Wie macht man das mit dem Zeitinvestment? Wir erfahren es in einer Projekt-Retrospektive."
+    }
+  ]
+}

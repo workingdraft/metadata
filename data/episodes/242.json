@@ -1,0 +1,57 @@
+{
+  "id": 242,
+  "date": "2015-11-30",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    }
+  ],
+  "duration": "1:00:53",
+  "href": "https://workingdraft.de/242/",
+  "audio": "https://workingdraft.de/podpress_trac/web/2937/0/wd-242.mp3",
+  "title": "Nützliche Services und a11y im täglichen Job",
+  "description": "Eine einfache Sendung mit allgemeinen Themen ohne Aufhänger.",
+  "news": [
+    {
+      "title": "Object.observe ist tot",
+      "href": "https://esdiscuss.org/topic/an-update-on-object-observe",
+      "time": "00:00:16",
+      "description": "Das ECMAScript-Komitee hat entschieden, Object.observe als &#8222;veraltet&#8220; zu markieren und aus der Spezifikation zu streichen, da die Funktionalität nicht den erwarteten Anklang findet."
+    }
+  ],
+  "topics": [
+    {
+      "title": "Welche Services nutzen wir als Web-Entwickler in Projekten („SaaS“)?",
+      "time": "00:01:00",
+      "description": "Bezahlte Services werden im Entwickler-Alltag immer gebräuchlicher. Wir sprechen darüber, welche Dienste wir nutzen und warum. Ingesamt lässt sich feststellen, dass jeder von uns für Dienste zahlt, es als Freelancer jedoch schwierig ist bei jedem Projekt die Dienste zu verwenden, die man gerne nutzen würde. Ähnlich verhält es sich auch bei großen Firmen, wie Rodney schildert.<br>Einige der erwähnten Dienste:<p></p>\n<ul>\n<li><a href=\"https://www.browserstack.com/\">BrowserStack</a> and <a href=\"http://saucelabs.com/\">SauceLabs</a> &#8211; bieten VMs für automatisiertes Testing, kostenlos für Open Source Projekte\n</li><li><a href=\"https://codeclimate.com/oss\">Code Climate</a> &#8211; automatisierte Code Analyse, kostenlos für Open Source Projekte\n</li><li><a href=\"https://travis-ci.org/\">Travis CI</a> &#8211; Build server, kostenlos für Open Source Projekte\n</li><li><a href=\"https://www.maxcdn.com/open-source/\">MaxCDN<a> &#8211; Content Delivery Network, kostenlos für Open Source Projekte\n<li><a href=\"http://newrelic.com/\">newrelic.com</a> &#8211; Logging und mehr für Front- und Backend\n</li></a></a></li></ul>"
+    },
+    {
+      "title": "Wie gehen wir mit Accessibility in der täglichen Arbeit um?",
+      "href": "https://www.paciellogroup.com/blog/2015/07/anybody-can-be-an-a11y-slacker/",
+      "time": "00:26:45",
+      "description": "Jeder behandelt die Zugänglichkeit von Websites in Projekten anderes. Offizielle Stellen müssen sich an bestimmte Guidelines und Standards halten, die freie Industrie hingegen nicht. Wie wir mit Accessibility in unserer Arbeit umgehen besprechen wir ausführlich. Manchmal ist es schon ganz einfach, wie <a href=\"http://www.ebaytechblog.com/2015/11/04/how-our-css-framework-helps-enforce-accessibility/\">dieser Artikel von Ebays Techteam</a> zeigt."
+    }
+  ]
+}

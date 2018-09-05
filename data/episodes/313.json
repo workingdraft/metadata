@@ -1,0 +1,42 @@
+{
+  "id": 313,
+  "date": "2017-10-13",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    }
+  ],
+  "duration": "19:52",
+  "href": "https://workingdraft.de/313/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3482/0/wd-313.mp3",
+  "title": "Origin Trials",
+  "description": "In dieser eher kurz geratenen Episode schauen Hans und Schepp sich das recht neue Konzept der Origin Trials an.",
+  "news": [
+    {
+      "title": "Yarn 1.0",
+      "href": "https://code.facebook.com/posts/274518539716230",
+      "time": "00:00:16",
+      "description": "Yarn 1.0 ist raus und bietet neuerdings <a href=\"https://yarnpkg.com/blog/2017/08/02/introducing-workspaces/\">Workspaces</a>."
+    }
+  ],
+  "topics": [
+    {
+      "title": "Origin Trials",
+      "href": "https://github.com/GoogleChrome/OriginTrials",
+      "time": "00:00:40",
+      "description": "Mit den Origin Trials setzt (zunächst) das Chrome-Team eine Idee um, über die wir vor zwei Jahren in einer <a href=\"http://workingdraft.de/211/\">Folge mit Jacob Rossi</a> sprachen. Das Problem, das die Origin Trials lösen wollen, ist dass es für Browserhersteller bislang schwierig war, neue Features in der Breite zu testen, ohne dass Entwickler sie in ihrer unfertigen Form aufgreifen und damit Fakten für die Zukunft schaffen. Der Trend geht ja schon einige Zeit weg von vendor-prefixten Vorabversionen hin zu einem Feature-Flag-System. Das Problem am Feature-Flag-System ist jedoch, dass nur die Entwickler selbst etwas testen können, sie das Feature aber nicht an ihren Usern testen können. Das geht nun mit den Origin Trials. Bei diesen <a href=\"https://github.com/GoogleChrome/OriginTrials/blob/gh-pages/developer-guide.md\">beantragt ein Seitenbesitzer</a>, dass für die Besucher seiner Domain ein bestimmtes, <a href=\"https://github.com/GoogleChrome/OriginTrials/blob/gh-pages/available-trials.md\">derzeit verfügbares</a> Vorab-Feature im Browser für eine begrenzte Zeit freigeschaltet wird. Das Feature kann also in der Breite getestet werden,<br>\n ohne sich dauerhaft festzusetzen."
+    }
+  ]
+}

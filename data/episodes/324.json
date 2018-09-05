@@ -1,0 +1,63 @@
+{
+  "id": 324,
+  "date": "2017-12-31",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans-Christian Otto",
+      "twitter": "https://twitter.com/muhdiekuh"
+    }
+  ],
+  "duration": "1:08:04",
+  "href": "https://workingdraft.de/324/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3545/0/wd-324.mp3",
+  "title": "PHP",
+  "description": "Anselm, Hans, Stefan und Schepp haben sich heute <a href=\"https://twitter.com/muhdiekuh\">Hans-Christian Otto</a> eingeladen, um über das oft missverstandene und viel Spott ausgesetztem PHP zu reden.",
+  "topics": [
+    {
+      "title": "PHP",
+      "href": "http://northwebstudio.com/blogs/1/21-interesting-facts-about-php-programming-language-php-developer-should-know",
+      "time": "00:02:39",
+      "description": "&#8222;Ich bin ja eigentlich PHP Entwickler&#8220; ist der Running Gag von Christian bei JavaScript Konferenzen<sup>1</sup>. Sorgt für Lacher, ist aber durchaus ernst gemeint. <a href=\"https://trends.builtwith.com/framework/programming-language\">Nutzen ja auch viele.</a> <a href=\"https://trends.builtwith.com/cms\">Sehr viele</a>. Wir reden über die großen Vorteile, Vorurteile, Nachteile und Nachwehen diverser Versionen, Syntaxen, APIs und Frameworks von PHP. Zu Sprache kommen <a href=\"https://symfony.com/\">Symfony</a>, <a href=\"https://laravel.com/\">Laravel</a> (samt <a href=\"https://laracasts.com/\">Laracasts</a>), <a href=\"http://php.net/manual/de/book.opcache.php\">OPCache</a>, <a href=\"https://hhvm.com/\">HHVM</a>, <a href=\"http://php.net/manual/de/migration70.new-features.php\">PHP7</a> und <a href=\"http://php.net/manual/de/book.phar.php\">Phar</a>. Auch hochexperimentelles ☢️ wie <a href=\"https://reactphp.org/\">ReactPHP</a> kommt zur Sprache.<p></p>\n<p>Wer schöneres PHP schreiben will, schaut sich den <a href=\"https://phpmd.org/\">PHP Mess Detector</a>, <a href=\"https://qafoo.com/blog.html\">den Qafoo Blog</a>, <a href=\"https://www.thalia.de/shop/home/rubrikartikel/ID31964540.html?ProvID=11000523\">das PHP Design Patterns Buch</a> und vor allem die <a href=\"http://www.php-fig.org/\">PSRs</a> an.</p>\n<aside><em><sup>1</sup> Umgekehrt funktioniert &#8222;Ich bin ja eigentlich JavaScript Entwickler&#8220; bei PHP Konferenzen auch.</em></aside>"
+    }
+  ],
+  "links": [
+    {
+      "title": "24 Accessibility",
+      "href": "http://www.24a11y.com/",
+      "time": "01:07:00",
+      "description": "A11Y Advent(s)kalender. Yay!"
+    }
+  ]
+}

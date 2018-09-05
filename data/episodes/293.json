@@ -1,0 +1,55 @@
+{
+  "id": 293,
+  "date": "2017-03-12",
+  "people": [
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "duration": "1:01:41",
+  "href": "https://workingdraft.de/293/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3332/0/wd-293.mp3",
+  "title": "Web Assembly, Bloat und Web Components",
+  "description": "Rodney, Hans und Peter widmeten sich in dieser Revision dem Thema Web Assemby sowie der ewigen Frage nach Frameworks, Bloat&nbsp;&hellip; und Web Components.",
+  "topics": [
+    {
+      "title": "Web Assembly kommt",
+      "time": "00:00:15",
+      "description": "<a href=\"https://lists.w3.org/Archives/Public/public-webassembly/2017Feb/0002.html\">Web Assembly ist beschlossene Sache.</a> Grund genug, sich dem Thema einmal vertiefend zu widmen. <a href=\"https://github.com/WebAssembly/design/blob/master/HighLevelGoals.md\">Web Assembly ist ein im Browser lauffähiges binäres Code-Format</a>, das als Kompilierziel für andere Programmiersprachen dient (ähnlich wie einst der Vorläufer <a href=\"https://de.wikipedia.org/wiki/Asm.js\">asm.js</a>). Web-Assembly-Code wird <a href=\"https://hacks.mozilla.org/2017/02/what-makes-webassembly-fast/\">aus einer Reihe von Gründen</a> sehr schnell sein, schneller als normales JS, das den Optimizern der JS-Engine bis zum heutigen Tage <a href=\"http://benediktmeurer.de/2017/03/01/v8-behind-the-scenes-february-edition/\">Kopfzerbrechen bereitet</a>. Und da es nun ein dediziertes Kompilierziel für Browser gibt, muss ECMAScript nicht mit noch weiteren für normales JS uninteressanten Funktionen wie <a href=\"https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Math/imul\">Math.imul()</a> aufgerüstet werden. Gegen Ende phantasieren wir noch ein wenig über Webentwicklung mit <a href=\"https://www.rust-lang.org\">Rust</a>, <a href=\"https://golang.org/\">Go</a> sowie <a href=\"http://www.2ality.com/2017/01/shared-array-buffer.html\">Parallelität im Browser</a>&nbsp;&ndash; alles Dinge, die es zwar noch nicht wirklich gibt, die aber in endlicher Zeit kommen könnten."
+    },
+    {
+      "title": "Und ewig grüßt das Bloat-Murmeltier",
+      "time": "00:26:19",
+      "description": "Auch diese Woche gab es wieder einiges an Diskussionen um die Frage, ob wir uns nicht die Webentwicklung zu kompliziert und zu langsam machen. Zum einen schrieb <a href=\"https://medium.com/@marcushellberg/simplifying-performance-with-web-components-7d5327314b69#.55isbldwj\">Marcus Hellberg über bessere Performance mit Web Components</a>, zum anderen schraubte der umtriebige Andrea Giammarchi eine <a href=\"https://medium.com/@WebReflection/hyperhtml-a-virtual-dom-alternative-279db455ee0e#.uzyzyhw4m\">performante Virtual-DOM-Alternative in 200 Zeilen</a> zusammen. Dass aus all diesen Erkenntnissen, Blogposts und Codezeilen irgendwelche Folgen erwachsen, glauben wir allerdings nicht und besprechen im Zuge dessen gleich auch <a href=\"https://github.com/developit/preact\">Preact</a> sowie <a href=\"https://vuejs.org/\">Vue.js</a> und verweisen auf einen demnächst bei <a href=\"http://screengui.de/\">Screenguide</a> erscheinenden Artikel von Schepp. Und warum in Sachen Web Components im Moment so wenig passiert, klären wir bei dieser Gelegenheit gleich auch."
+    }
+  ],
+  "links": [
+    {
+      "title": "ScrollDir",
+      "href": "https://dollarshaveclub.github.io/scrolldir/",
+      "time": "01:00:26",
+      "description": "Kleines JS-Plugin für Arbeit mit der vertikalen Scrollrichtung."
+    }
+  ]
+}

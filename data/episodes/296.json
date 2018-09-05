@@ -1,0 +1,48 @@
+{
+  "id": 296,
+  "date": "2017-04-3",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    }
+  ],
+  "duration": "39:33",
+  "href": "https://workingdraft.de/296/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3350/0/wd-296.mp3",
+  "title": "Das Accessibility Object Model",
+  "description": "<a href=\"http://workingdraft.wire.com\" style=\"display: block; margin: 1em 0; width: 100%; max-width: 500px\"><img src=\"http://workingdraft.de/wp-content/uploads/2017/02/Wire-800x350.png\" alt=\"\" width=\"800\" height=\"350\" class=\"alignleft size-full wp-image-3294\" style=\"width: 100%; height: auto\" srcset=\"https://workingdraft.de/wp-content/uploads/2017/02/Wire-800x350.png 800w, https://workingdraft.de/wp-content/uploads/2017/02/Wire-800x350-300x131.png 300w, https://workingdraft.de/wp-content/uploads/2017/02/Wire-800x350-768x336.png 768w\" sizes=\"(max-width: 800px) 100vw, 800px\"></a>\n\nWie jede zweite Ausgabe wird unser Podcast wieder von <a href=\"http://workingdraft.wire.com\">Wire</a> gesponsort, dem <a href=\"https://www.heise.de/newsticker/meldung/Sicherheits-Audit-von-Krypto-Messenger-Wire-abgeschlossen-3621550.html\">sicheren</a> <a href=\"https://github.com/wireapp\">Open Source</a> Messaging Client für all eure Plattformen, welcher auch den Desktop als First-Class-Citizen betrachtet. Demnächst mit erweiterten Funktionen für Teams!\n\nDiese Folge haben sich Hans und Schepp zusammengesetzt, und über die Idee eines Accessibility Object Model diskutiert.",
+  "topics": [
+    {
+      "title": "The Accessibility Object Model",
+      "href": "https://github.com/WICG/aom/blob/master/explainer.md#the-accessibility-object-model",
+      "time": "00:01:41",
+      "description": "Für jede Webseite erstellen unsere Browser einen Document Tree, einen Layout Tree, sowie einen Accessiblity Tree. Folgerichtig kommt aus der <a href=\"https://wicg.github.io/admin/charter.html\">Web Incubator Community Group</a> (WICG) die Idee, den Entwicklern zusätzlich zum Document Object Model (DOM) und CSS Object Model (CSSOM) auch ein Accessibility Object Model (AOM) an die Hand zu geben. Wir erforschen, welche neuen Programmierszenarien damit möglich werden, und ob wir die Idee insgesamt eher für gut oder für schlecht befinden (damit thematisieren wir auch die Ausführungen von Marco Zehe aus <a href=\"http://workingdraft.de/162/\">Revision 162</a>)."
+    }
+  ],
+  "links": [
+    {
+      "title": "Modern JavaScript for Ancient Web Developers",
+      "href": "https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9#.4t7dasr5a",
+      "time": "00:36:30",
+      "description": "Ein Artikel voller guter Links, um moderne JavaScript-zentrierte Entwicklung zu lernen."
+    },
+    {
+      "title": "Fuse.js",
+      "href": "https://github.com/krisk/Fuse",
+      "time": "00:36:30",
+      "description": "Lightweight fuzzy-search, in JavaScript"
+    }
+  ]
+}

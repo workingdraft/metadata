@@ -84,7 +84,7 @@ function updateEpisodeIndexLivestreams() {
     return;
   }
   
-  return httpGet("http://www.livestream.com/workingdraft/folder")
+  return httpGet("https://www.livestream.com/workingdraft/folder")
     .then(parseLivestream)
     .then(mergeEpisodeIndexLivestreams);
 }
@@ -148,7 +148,7 @@ function determineCachedEpisodes(list) {
 }
 
 function fetchEpisode(id) {
-  return httpGet("http://workingdraft.de/" + id + "/");
+  return httpGet("https://workingdraft.de/" + id + "/");
 }
 
 function updateEpisodesIndex(data) {

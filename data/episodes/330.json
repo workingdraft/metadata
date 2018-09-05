@@ -1,0 +1,48 @@
+{
+  "id": 330,
+  "date": "2018-02-28",
+  "people": [
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    }
+  ],
+  "duration": "37:37",
+  "href": "https://workingdraft.de/330/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3605/0/wd-330.mp3",
+  "title": "Geolocation API und das HTML Dialog-Element",
+  "description": "Diesmal haben wir ohne Gast in einer kompakten Ausgabe mit dem Schepp, Rodney und Hans über die Problematik der <strong>Geolocation API</strong> und das <strong>Dialog-Element</strong> gesprochen.",
+  "topics": [
+    {
+      "title": "Geolocation API",
+      "time": "00:00:18",
+      "description": "Hans <a href=\"https://twitter.com/drublic/status/955725270039789568\">beschäftigte sich in der näheren Vergangenheit</a> mit der Usability der Geolocation API. Wir unterhalten uns über die notwendigen Schritte um die Adresse eines Nutzers auszulesen, sofern diese/r zustimmt. In diesem Kontext sprechen wir auch über die Usability und <a href=\"https://developers.google.com/web/fundamentals/push-notifications/permission-ux\">User Experience der Web Permission API</a>."
+    },
+    {
+      "title": "HTML Dialog-Element",
+      "href": "https://keithjgrant.com/posts/2018/meet-the-new-dialog-element/",
+      "time": "00:17:40",
+      "description": "Mit Dialogen auf Webseiten ist das so eine Sache: Als Entwickler hat man ziemlich viel zutun, um ein Dialog-Element auch aus Accessibility-Sicht einigermaßen benutzbar zu machen. Nun soll dies durch das bereits lange Zeit in der Spezifikation befindliche native HTML-Element <code>&lt;dialog&gt;</code> verbessert werden. Wird das gelingen? Wo liegen die Probleme mit dem Element? Rodney klärt auf."
+    }
+  ],
+  "links": []
+}

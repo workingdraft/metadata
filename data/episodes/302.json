@@ -1,0 +1,78 @@
+{
+  "id": 302,
+  "date": "2017-06-19",
+  "people": [
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "duration": "1:11:05",
+  "href": "https://workingdraft.de/302/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3400/0/wd-302.mp3",
+  "title": "Zukunft und Vergangenheit von JS-Tools und Libraries",
+  "description": "Rodney und Peter hockten sich zusammen um über sehr neue und sehr alte JavaScript-Technologie zu schwafeln.",
+  "topics": [
+    {
+      "title": "Prepack",
+      "href": "https://prepack.io/",
+      "time": "00:00:12",
+      "description": "Prepack ist ein &#8222;partial evaluator for JavaScript&#8220;. Prepack führt, sofern möglich, den Initialisierungs-Code eines JS-Bundles in einem Compile-Schritt aus, damit es der Browser nicht zur Laufzeit machen muss. Es werden z.B. Closures wegoptimiert und Berechnungen durchgeführt, wo immer dies möglich ist. In eine ähnliche Kerbe schlägt das bereits mehrfach in diesem Podcast erwähnte <a href=\"https://github.com/nolanlawson/optimize-js\">optimize-js</a>, was weniger kann, aber schon eingesetzt werden kann. Prepack hingegen ist noch Alpha-Software (obwohl es schon <a href=\"https://github.com/gajus/prepack-webpack-plugin\">ein Webpack-Plugin</a> gibt), was wir anhand von mehreren Code-Samples erfahren."
+    },
+    {
+      "title": "Früher war alles besser anders",
+      "time": "00:13:32",
+      "description": "Das <a href=\"http://httparchive.org/\">HTTP Archive</a> hat <a href=\"https://discuss.httparchive.org/t/javascript-library-detection/955\">Statistiken über verbreitete JS-Libraries gesammelt</a> und wir lassen es uns nicht nehmen, die Top&nbsp;10 einzeln durchzusprechen. Auf Platz&nbsp;1 thront wenig überraschend jQuery, über <a href=\"https://jqueryui.com/\">jQuery UI</a> auf Nummer&nbsp;2 (und Rodneys Schwank zur <a href=\"http://api.jqueryui.com/position/\">position()-Funktion</a>) wundern wir uns hingegen schon etwas. Zu den ollen Polyfill-Libraries <a href=\"http://yepnopejs.com/\">Modernizer</a> (Platz&nbsp;3) und <a href=\"http://yepnopejs.com/\">YepNope</a> (Platz&nbsp;5) fällt uns vor allem eine <a href=\"https://www.youtube.com/watch?v=I2MJiJxGQsY\">Reflow-Visualisierung</a> mit der alten Modernizer-Webseite als Testsubjekt ein. <a href=\"http://getbootstrap.com/javascript/\">Bootstraps JS-Komponenten</a> auf Platz&nbsp;4 verwundern nur mäßig, <a href=\"https://github.com/woocommerce/FlexSlider\">FlexSlider</a> an Position&nbsp;6 war uns völlig unbekannt. Die Erinnerung an <a href=\"https://github.com/swfobject/swfobject\">swfobject</a> (Platz&nbsp;7) bewegt Rodney zu Geständnissen aus einer Jugend voller ActionScript. Das achtplatzierte  <a href=\"http://underscorejs.org/\">Underscore.js</a> lebt in Form von <a href=\"https://lodash.com/\">lo-dash</a> bis heute in unseren package.json-Files weiter. Mit Grausen denken wir an die Google-Maps-API (Platz&nbsp;9), wenn auch Peter neue Ideen zum nicht-sachgerechten Einsatz von Maps und Headless Browser anzubieten hat. Die Liste endet mit <a href=\"https://momentjs.com/\">Moment.js</a> auf Platz&nbsp;10, was uns aus irgendwelchen Gründen zur <a href=\"http://php.net/manual/de/function.strtotime.php\">PHP-Funktion strtotime()</a> abschweifen lässt. Da das aber kein geeigneter Abschluss für einen Podcast im Jahre des Herrn 2017 ist, wirft Rodney zum Schluss noch einen persönlichen Platz&nbsp;11 in die Runde: Libraries für Layout-Rearrangements wie <a href=\"https://aerotwist.com/blog/flip-your-animations/\">FLIP</a> (was Rodneys Favorit <a href=\"https://vuejs.org/\">Vue.js</a> von Haus aus macht). Libraries wie Vue und Tools wie Babel zeigen aber ganz klar auf wohin der Trend geht: weg von Insellösungen, hin zu integrierten Tools und Frameworks."
+    }
+  ],
+  "links": [
+    {
+      "title": "ECMAScript modules in browsers",
+      "href": "https://jakearchibald.com/2017/es-modules-in-browsers/",
+      "time": "01:06:14",
+      "description": "Gewohnte Erklärbär-Qualität aus dem Hause Jake Archibald."
+    },
+    {
+      "title": "Getting Started with Headless Chrome",
+      "href": "https://developers.google.com/web/updates/2017/04/headless-chrome",
+      "time": "01:06:14",
+      "description": "PhantomJS ist tot, es lebe Headless Chrome!"
+    },
+    {
+      "title": "Turning Windows into an environment ready for modern development",
+      "href": "https://github.com/felixrieseberg/windows-development-environment",
+      "time": "01:06:14",
+      "description": "Tools für Windows."
+    },
+    {
+      "title": "Install npm packages globally without sudo on macOS and Linux",
+      "href": "https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md",
+      "time": "01:06:14",
+      "description": "Pakete global für den jeweiligen User installieren."
+    },
+    {
+      "title": "zeit/pkg",
+      "href": "https://github.com/zeit/pkg",
+      "time": "01:06:14",
+      "description": "Bundlet Node-Apps in Executables."
+    },
+    {
+      "title": "Videos von der JSConf EU 2017",
+      "href": "https://www.youtube.com/playlist?list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_#jsconfeu2017",
+      "time": "01:06:14",
+      "description": "Schöne kurze Talks."
+    }
+  ]
+}

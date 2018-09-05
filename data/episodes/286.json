@@ -1,0 +1,66 @@
+{
+  "id": 286,
+  "date": "2017-01-23",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Katharina Baehr",
+      "twitter": "https://twitter.com/kabaehr"
+    }
+  ],
+  "duration": "57:37",
+  "href": "https://workingdraft.de/286/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3254/0/wd-286.mp3",
+  "title": "Aurelia",
+  "description": "Auf der Reise durch Frontend-Framework-Mordor sehen sich die Gefährten des Teams Working Draft unversehens dem <a href=\"http://aurelia.io/\">Aurelia-Framework</a> gegenüber. Aber keine Angst: die heldenhafte <strong>Katharina Bähr</strong> (<a href=\"http://kabaehr.de/\">Blog</a>, <a href=\"https://twitter.com/kabaehr?lang=en\">Twitter</a>) ist dabei und beantwortet jede Frage, die Schepp, Hans und Peter zu Aurelia haben.",
+  "topics": [
+    {
+      "title": "Aurelia",
+      "href": "http://aurelia.io/",
+      "time": "00:01:02",
+      "description": "Katharina ist Webentwicklerin bei <a href=\"https://www.zuehlke.com\">Zühlke</a> und berichtet von ihren Einsatzerfahrungen mit Aurelia. Aurelia ist ein OpenSource-Projekt (MIT-Lizenz) aus der Feder des <a href=\"http://eisenbergeffect.bluespire.com/leaving-angular/\">ehemaligen</a> Angular-Entwicklers <a href=\"http://eisenbergeffect.bluespire.com/\">Rob Eisenberg</a> bzw. seiner Firma <a href=\"http://bluespire.com/\">Blue Spire</a>. Aurelia ist ein modulares Frontend-JavaScript-Framework und setzt auf moderne Webstandards statt Neuerfindungen. So kommt anstelle von Eigenbau-JS-Dialekten ES6 zum Einsatz und Web Components finden ebenfalls Verwendung (aktuelle <a href=\"https://github.com/aurelia/typings\">Typinformationen für TypeScript</a> gibt es natürlich trotzdem). Das Framework folgt dem Convention-Over-Configuration-Paradigma und enthält so ziemlich alle Features, die man von einem Frontend-Framework erwarten würde (Data Binding usw.), einzig Server-Side-Rendering fehlt noch. Des weiteren sprechen wir über die Aurelia-Community, speziell im deutschsprachigen Raum, Aurelia-Plugins (u.A. für jQuery, KendoUI, Electron, Cordova) vergleichen Aurelia mit Ember, React, Angular und Konsorten und sprechen am Ende über geplante Features und Katharinas Wunschzettel für die nächsten Versionen."
+    }
+  ],
+  "links": [
+    {
+      "title": "How I converted my React app to VanillaJS (and whether or not it was a terrible idea)",
+      "href": "https://hackernoon.com/how-i-converted-my-react-app-to-vanillajs-and-whether-or-not-it-was-a-terrible-idea-4b14b1b2faff#.atydg6mjy",
+      "time": "00:54:35",
+      "description": "Erhellende kleine Reise durch das Innenleben von Frontend-Webapps."
+    },
+    {
+      "title": "Hyper – HTML/CSS/JS Terminal",
+      "href": "https://hyper.is/",
+      "time": "00:54:35",
+      "description": "Na, wie lange haltet ihr das Video auf der Startseite aus, ehe ihr auf den Download-Button drücken müsst?"
+    },
+    {
+      "title": "Videos vom JS Kongress 2016",
+      "href": "https://www.youtube.com/playlist?list=PL8ajgHZ7PoCtMSlPCt2TTRyI6dRN3vPCf",
+      "time": "00:54:35",
+      "description": "Youtube-Playlist mit vielen ca. 25 Minuten kurzen Talks."
+    }
+  ]
+}

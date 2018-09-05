@@ -1,0 +1,47 @@
+{
+  "id": 336,
+  "date": "2018-04-13",
+  "people": [
+    {
+      "name": "Joschi Kuphal",
+      "twitter": "https://twitter.com/jkphl",
+      "web": "http://jkphl.is/"
+    },
+    {
+      "name": "Baltasar Cevc",
+      "twitter": "https://twitter.com/l_a_w_4_2"
+    },
+    {
+      "name": "Sebastian Greger",
+      "twitter": "https://twitter.com/sebastiangreger"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    }
+  ],
+  "duration": "1:29:17",
+  "href": "https://workingdraft.de/336/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3632/0/wd-336.mp3",
+  "title": "DSGVO",
+  "description": "<li><a href=\"https://sebastiangreger.net/\">Sebastian Greger</a> (<a href=\"https://twitter.com/sebastiangreger\">@sebastiangreger</a>), der als Designer die Effekte und direkten Auswirkungen der DSGVO auf Websites analysiert</li>\n<li><a href=\"https://baltasar.cevc-topp.de/web/en/\">Baltasar Cevc</a> (<a href=\"https://twitter.com/l_a_w_4_2\">@l_a_w_4_2</a>), Anwalt für IT Recht, der die juristische Seite der DSGVO sehr genau kennt und</li>\n<li><a href=\"https://jkphl.is/\">Joschi Kuphal</a> (<a href=\"https://twitter.com/jkphl\">@jkphl</a>), der als Entwickler und Agentur-Chef die DSGVO umsetzen muss und mit den anderen zusammen Workshops zum Thema organisiert</li>\n\nDa dieses Thema so präsent ist, haben wir uns drei Experten zum Thema eingeladen:\n\nFür alle Entwickler, die mit personenbezogenen Daten arbeiten ist der 25. Mai 2018 ein spezielles Datum. Eine Richtlinie der EU, welche aktuell in vielen Firmen kurz vor Frist behandelt werden muss, erhält an diesem Tag ohne Wenn und Aber ihre Wirksamkeit: die Datenschutzgrundverordnung, kurz DSGVO oder englisch GDPR (General Data Protection Regulation).",
+  "topics": [
+    {
+      "title": "DSGVO",
+      "time": "00:03:40",
+      "description": "Die Datenschutzgrundverordnung birgt einige Herausforderungen für Entwickler und IT Projektarbeiter. Wir beleuchten diese und unterhalten uns über UX-Herausforderungen wie das Cookie-Overlay und Doppel-Opt-In, sowie das Löschen von nutzerspezifischen Daten in komplexen Systemen, die Behandlung von Cookies, LocalStorage und anderen Client-seitigen Speichermöglichkeiten.<br>\nEs stellt sich heraus, dass das alles ganz schön komplex ist und die Gesetzgebung noch nicht eindeutig: Es fehlt die Auslegung der Judikative, die in den nächsten Jahren Klarheit schaffen wird."
+    }
+  ],
+  "links": [
+    {
+      "title": "Workshop",
+      "href": "https://colloq.io/events/datenschutz-im-web-fallstricke-strategien-risikomanagement-dsgvo/2018/dusseldorf/1",
+      "time": "01:24:00",
+      "description": "Die Gäste organisieren einen weiteren Workshop im Umfeld der Beyond Tellerrand Konferenz in Düsseldorf. Dieser findet am 9. Mai 2018 statt. Für alle Interessierten: Es gibt noch Tickets."
+    }
+  ]
+}

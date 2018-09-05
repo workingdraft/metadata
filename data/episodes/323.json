@@ -1,0 +1,34 @@
+{
+  "id": 323,
+  "date": "2017-12-26",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "duration": "29:08",
+  "href": "https://workingdraft.de/323/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3542/0/wd-323.mp3",
+  "title": "(Asynchrone) Iteratoren",
+  "description": "Hans und Peter sprachen diesmal über SmartSteckdosen mit Wifi, den Spritverbrauch von 4er-BMW und YouPorn. Aufgezeichnet haben Sie aber nur die Diskussion über (asynchrone) Iteratoren in modernem JS.",
+  "topics": [
+    {
+      "title": "(Asynchrone) Iteratoren in JavaScript",
+      "time": "00:00:14",
+      "description": "<a href=\"https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Iteration_protocols\">Das Iterator-Protokoll</a> sorgt dafür, dass allerlei unterschiedliche JS-Objekte wie <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map\">Maps</a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set\">Sets</a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array\">Arrays</a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments\">Arguments</a> und jQuery-Objekten mit Standard-Sprachkonstrukten wie <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of\">for-of-Schleifen</a> funktionieren. Schlüsseltechnologie für das Iterator-Protokoll sind <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol\">Symbols</a>, die String-basierte Protokolle wie <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/proto\">__proto__</a> ersetzen. Das Iterator-Protokoll ist auch die Basis für Asynchrone Funktionen. Die vergleichsweise neue <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function\">async</a>/<a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await\">await</a>-Syntax macht das direkte Arbeiten mit Callbacks und Promises überflüssig. Neu geplant ist jetzt das Proposal für <a href=\"https://github.com/tc39/proposal-async-iteration\">asynchrone Iteration</a> für z.B. die Arbeit mit Streams. Teil des Proposals ist das neue for-await-of-Statement speziell für asynchrone Iteratoren. Das Propsal ist im ECMAScript-Standardisierungs-Prozess auf Stage&nbsp;3 angekommen und wird auch bereits von einem <a href=\"https://babeljs.io/docs/plugins/transform-async-generator-functions/\">Babel-Plugin</a> unterstützt."
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": 231,
+  "date": "2015-09-01",
+  "duration": "01:09:40",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Manuel Schoebel",
+      "twitter": "https://twitter.com/derMambo"
+    },
+    {
+      "name": "Stephan Hochhaus",
+      "twitter": "https://twitter.com/yauh"
+    }
+  ],
+  "href": "https://workingdraft.de/231/",
+  "audio": "https://workingdraft.de/podpress_trac/web/2852/0/wd-231.mp3",
+  "title": "Meteor, CSS in JS, dreiste Eigenwerbung",
+  "description": "Heute waren <a href=\"https://twitter.com/DerMambo\">Manuel</a> und <a href=\"https://twitter.com/yauh?lang=de\">Stephan</a> von <a href=\"https://www.shop.co/\">SHOP.CO</a> zu Gast, die durch Stefan, Schepp, Peter und Hans ausführlich zu ihrem Projekt und zum JS-Framework <a href=\"https://www.meteor.com/\">Meteor</a> ausgefragt wurden.",
+  "topics": [
+    {
+      "title": "Meteor",
+      "href": "https://www.meteor.com/",
+      "time": "00:07:52",
+      "description": "Bei Meteor handelt es sich um einen schnell und einfach aufgesetzten MEAN-Stack (<a href=\"https://www.mongodb.org/\">MongoDB</a>, <a href=\"http://expressjs.com/\">ExpressJS</a>, <a href=\"https://angularjs.org/\">AngularJS</a>, <a href=\"https://nodejs.org/\">NodeJS</a>) plus ein paar hilfreiche Libraries, der besonders für die schnelle Entwicklung einer App von Null an geeignet ist. Besonders auffällig sind die Live-Instant-Updates von Datenänderungen, das eigene Package-Repository <a href=\"https://atmospherejs.com/\">Atmosphere</a> und die Isomorphe Daten-API. Als Quelle für weitere Infos ist neben dem <a href=\"https://www.meteor.com/tutorials/blaze/creating-an-app\">Tutorial auf der Meteor-Webseite</a> vor allem das Buch <a href=\"http://meteorinaction.com/\">Meteor in Action</a>, geschrieben von unseren beiden Gästen zu empfehlen. News gibt es auf <a href=\"https://crater.io/\">crater.io</a>."
+    },
+    {
+      "title": "CSS Modules",
+      "href": "http://glenmaddern.com/articles/css-modules",
+      "time": "00:34:36",
+      "description": "CSS in JS-Modulen, in Form von JavaScript&nbsp;&ndash; gute Idee oder nicht?  Es besteht offenbar Bedarf an einer Möglichkeit, CSS zu de-globalisieren und ein vernünftiges Scoping einzurichten, was aber im Prinzip auch möglich wäre, ohne CSS zugungsten von JS komplett links liegen zu lassen (z.B. mit <a href=\"https://github.com/SirPepe/scoped-style\">Peters Web Component für Scoped Styles</a>). Trotzdem gibt es viele Stimmen, die <a href=\"https://www.youtube.com/watch?v=NoaxsCi13yQ\">das Ende von klassischem CSS heraufbeschwören</a> oder im JS-Weg zumindest manchmal für eine <a href=\"https://www.youtube.com/watch?v=ERB1TJBn32c\">echte Alternative</a> sehen."
+    }
+  ],
+  "links": [
+    {
+      "title": "Edge VM on modern.ie",
+      "href": "https://blogs.windows.com/msedgedev/2015/08/17/windows-10-virtual-machines-now-available-on-microsoft-edge-dev/",
+      "time": "01:02:56",
+      "description": "Windows-10-VMs direkt von der Quelle."
+    },
+    {
+      "title": "Stahlstadt.js",
+      "href": "http://www.meetup.com/de/stahlstadt-js/events/224721483/",
+      "time": "01:02:56",
+      "description": "Stefan macht Werbung für das Linzer JS-Meetup."
+    },
+    {
+      "title": "eslint-plugin-no-use-extend-native",
+      "href": "https://github.com/dustinspecker/eslint-plugin-no-use-extend-native",
+      "time": "01:02:56",
+      "description": "ESLint-Plugin, das vor unsachgemäßen Erweiterungen der nativen Prototypen warnt."
+    },
+    {
+      "title": "ES6 In Depth: Modules",
+      "href": "https://hacks.mozilla.org/2015/08/es6-in-depth-modules/",
+      "time": "01:02:56",
+      "description": "Mozilla erklärt ES6-Module im Detail."
+    },
+    {
+      "title": "MODXpo Munich 2015",
+      "href": "http://www.eventbrite.com/e/modxpo-munich-2015-tickets-16923091422",
+      "time": "01:02:56",
+      "description": "Hans macht Werbung für die MODXpo, auf der er uns Anselm die Bühne erklimmen werden."
+    },
+    {
+      "title": "Tasks, microtasks, queues and schedules",
+      "href": "https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/",
+      "time": "01:02:56",
+      "description": "Jake Archibald erklärt Microtasks so, dass man es auch versteht."
+    },
+    {
+      "title": "PHP.RUHR",
+      "href": "https://php.ruhr/",
+      "time": "01:02:56",
+      "description": "Schepp macht Werbung für die PHP.RUHR, wo er mal als Performance Papst der PHP-Community die Beichte abnehmen wird."
+    },
+    {
+      "title": "SHOP.CO will euch!",
+      "href": "https://jobs.lever.co/shopco",
+      "time": "01:02:56",
+      "description": "Das Startup unserer Gäste sucht vom Senior Web Developer bis hin zum Praktikanten alles!"
+    }
+  ]
+}

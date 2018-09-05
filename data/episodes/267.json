@@ -1,0 +1,88 @@
+{
+  "id": 267,
+  "date": "2016-07-10",
+  "people": [
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    }
+  ],
+  "duration": "39:39",
+  "href": "https://workingdraft.de/267/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3139/0/wd-267.mp3",
+  "title": "News und Glücksrad",
+  "description": "Aus akuter Themen-Ermangelung drehen Anselm und Stefan wieder mal am Rad. Erstaunlicherweise gibt&#8217;s zum ganz einfachen Elementen wieder außerordentlich viel zu lernen.",
+  "news": [
+    {
+      "title": "jQuery 3 ist raus!",
+      "href": "https://blog.jquery.com/2016/06/09/jquery-3-0-final-released/",
+      "time": "00:00:23",
+      "description": "jQuery 3 wurde released und bietet allerlei Neuerungen. Alte Browser müssen nun dazu geschaltet werden, alle asynchronen Calls sind Promise-kompatibel, usw. Mehr dazu in dem Blog Beitrag."
+    },
+    {
+      "title": "Nginx on HTTP/2 on Google Chrome bug",
+      "href": "https://www.nginx.com/blog/supporting-http2-google-chrome-users/",
+      "time": "00:00:23",
+      "description": "Nginx ist toll, HTTP/2 ist toll, Chrome ist toll, Ubuntu auch toll. In der Mischung: Oft nicht verwendbar. Ein ganz prekärer Bug hat sich eingeschlichen, der Google Chrome User unter falschen Voraussetzungen nicht das schöne neue HTTP/2 konsumieren lässt. Dieser Artikel zeigt die Abhilfe."
+    }
+  ],
+  "randomSpec": [
+    {
+      "title": "Das img-Element",
+      "href": "https://html.spec.whatwg.org/#the-img-element",
+      "time": "00:04:01",
+      "description": "Das <code>img</code> Element ist ja allseits bekannt, hat aber doch ein paar Besonderheiten, die es zu klären gibt. Wir reden über Image maps und das <code><a href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/CORS_enabled_image\">crossorigin</a></code> Attribut, und lassen alt gediente Input Elemente wieder aufleben."
+    },
+    {
+      "title": "Sections and headings",
+      "href": "https://html.spec.whatwg.org/#sections-and-headings",
+      "time": "00:04:01",
+      "description": "Schönes neues HTML. HTML5 kam, versprach gute Strukturen, und weder Screenreader noch Browser nahmen das ganze an. Entwickler hingegen, die ein wenig Gespür für Semantik haben, sahen darin riesige Vorteile. Wir resümieren."
+    },
+    {
+      "title": "Das wbr Element",
+      "href": "https://developer.mozilla.org/en/docs/Web/HTML/Element/wbr",
+      "time": "00:04:01",
+      "description": "Wieviele Möglichkeiten gibt es eigentlich, dem Browser zu sagen wann er abtrennen soll. Oder wie er abtrennen soll. Oder wenn er&#8217;s bleiben lassen soll. Und warum sind denn alle unterschiedlich? Mal ein Element, mal eine Entity. Im CSS kriegt man&#8217;s sowieso nicht sauber hin. Wo bitte ist die all-in-one Lösung."
+    }
+  ],
+  "links": [
+    {
+      "title": "ECMAScript 2016 Standard",
+      "href": "http://www.ecma-international.org/ecma-262/7.0/index.html",
+      "time": "00:35:47",
+      "description": "Die siebte Fassung von ECMAScript &#8212; die 2016er Edition &#8212; ist fertig. Hier kann man den gesamten Standard nachlesen. Wenn man denn will."
+    },
+    {
+      "title": "Promises — all the wrong ways",
+      "href": "https://blog.getify.com/promises-wrong-ways/",
+      "time": "00:35:47",
+      "description": "Getify beschwert sich über falsche Anwendung von Promises. Fairerweise gibt er auch gleich Lösungsvorschläge mit."
+    },
+    {
+      "title": "Form validation techniques",
+      "href": "https://bitsofco.de/form-validation-techniques/#addingmultipleerrormessagestoonetooltip",
+      "time": "00:35:47",
+      "description": "So viele Infos zu korrekter Formularvalidierung. Wo hören die Browser-Funktionalitäten auf, wo muss man selbst ran."
+    },
+    {
+      "title": "JSConf Budapest",
+      "href": "https://www.youtube.com/playlist?list=PL37ZVnwpeshE6PbF5GB4hvtU3A4HqMfxf",
+      "time": "00:35:47",
+      "description": "Viele, viele schöne Videos von der JSConf in Budapest."
+    }
+  ]
+}

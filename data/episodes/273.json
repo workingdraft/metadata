@@ -1,0 +1,63 @@
+{
+  "id": 273,
+  "date": "2016-08-26",
+  "people": [
+    {
+      "name": "Niels Leenheer",
+      "twitter": "https://twitter.com/html5test"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    }
+  ],
+  "duration": "1:06:06",
+  "href": "https://workingdraft.de/273/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3173/0/wd-273.mp3",
+  "title": "Open Device Labs, HTML5Test.com and Weird Browsers",
+  "description": "This time we had no one less than <a href=\"https://twitter.com/html5test\">Niels Leenheer</a> from Drachten in Holland as our guest, creator of <a href=\"https://html5test.com\">HTML5test.com</a>, owner of the forth largest <a href=\"https://html5test.com/devicelab\">open device lab</a> in the world and browser connaisseur.",
+  "topics": [
+    {
+      "title": "On the rise and fall of open device labs",
+      "time": "00:01:47",
+      "description": "Managing one of the largest open device labs in the world, we asked Niels how well the concept is being accepted by the developer community. We learned how exactly he manages these inquiries and what type of people ask for device testing. And of course we also talked about all the aspects that &#8211; contrary to initial expectations &#8211; does not work, and why that is."
+    },
+    {
+      "title": "HTML5test.com",
+      "href": "http://html5test.com",
+      "time": "00:19:36",
+      "description": "Device testing lead us right to the next topic which was the benchmarking site html5test.com. Incepted in 2010 the site quickly became a respected authority for information seeking developers, browser vendors and the press. And most importantly it pushed browser vendors forward and helped steer development into the right directions."
+    },
+    {
+      "title": "Weird Browsers",
+      "href": "https://frontendne.co.uk/talks/weird-browsers",
+      "time": "00:25:54",
+      "description": "Working on html5test.com brought a lot of browser-specific quirks to Niels&#8216; attention and so he shared a few interesting stories with us. We talked about &#8222;smart&#8220; TV browser, console browsers, eBook-reader browsers and browsers that hide in VR glasses. Astonishingly most of the times these browsers act pretty normal, except for when they don&#8217;t. Then things are getting pretty weird!"
+    },
+    {
+      "title": "Browser Sniffing",
+      "time": "00:52:21",
+      "description": "The conclusio of the above topic was that some broken features cannot really be feature detected. So either we manage a very defensive approach that allows sites to gracefully degrade without breaking on strange browsers. But if we don&#8217;t, and we need to resort to user agent sniffing which traps to look out for. Niels suggests using one of two libraries doing a good job a browser detection: One being the <a href=\"http://www.uaparser.org/\">UA Parser</a> and the other one being the <a href=\"https://github.com/piwik/device-detector\">Piwik Device Detector</a>."
+    }
+  ],
+  "links": [
+    {
+      "title": "Win two tickets for the code.talks in Hamburg!",
+      "href": "https://www.codetalks.de/",
+      "time": "01:03:41",
+      "description": "We already twittered it: Niels is giving away two 100% discount codes for the code.talks conference in Hamburg at the end of September. Anyone that comments below or tweets to <a href=\"https://twitter.com/html5test\">@html5test</a> the exact number of devices he currently has in his device lab qualifies for our raffle. The Raffle ends Sunday, 4th of September."
+    }
+  ]
+}

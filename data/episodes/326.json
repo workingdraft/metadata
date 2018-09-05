@@ -1,0 +1,40 @@
+{
+  "id": 326,
+  "date": "2018-01-22",
+  "people": [
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Marcus Schwemer",
+      "twitter": "https://twitter.com/marcusschwemer"
+    }
+  ],
+  "duration": "1:24:05",
+  "href": "https://workingdraft.de/326/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3564/0/wd-326.mp3",
+  "title": "TYPO3 Performance",
+  "description": "Anselm und Stefan begrüßen heute TYPO3 Experten <a href=\"https://twitter.com/marcusschwemer\">Marcus Schwemer</a> um den Performance-Krücken von TYPO3 auf die Spur zu kommen.",
+  "topics": [
+    {
+      "title": "TYPO3 Performance",
+      "href": "https://de.slideshare.net/mschwemer/typo3-performance-typo3camp-hh-2017",
+      "time": "00:01:10",
+      "description": "TYPO3 Performanceprobleme sind wie Oger: Sie haben Schichten, und es wachsen weiße Härchen aus ihnen wenn man sie zu lange in der Sonne legt. Deshalb zwiebelt Marcus die Probleme in sieben Schichten auf und erklärt mit Erfahrung und ganzheitlichem Blick, was man alles tun kann:<p></p>\n<ol>\n<li>Auslieferung: TYPO3 Kniffe für das ausliefern der Assets</li>\n<li>Frontend: Vieles, für das man Frontend Worklfows braucht, geht auch mit einer Prise TypoScript</li>\n<li>TYPO3 Cache: Die umfangreiche Cache-API und die damit verbundenen Cache-Stores für Zwischenergebnisse von Teilbereichen</li>\n<li>Extensions: Kein TYPO3 Projekt ohne Erweiterungen. Die bringen wieder einen ganzen Sack an eigenen Performanceproblemen mit</li>\n<li>Das CMS an sich: Mal eine Woche lang CMS aktualisieren? Zahlt sich aus!</li>\n<li>Services: PHP7.x ist nicht nur superschnell, sondern auch Basis für TYPO3 8. NGINX soll auch ganz gut sein</li>\n<li>Hardware: Virtualisierung macht flexible Architekturen möglich.</li>\n</ol>\n<p>Nachdem aller guten Schichten sieben sind, gibt es nach dem Rundumschlag noch den generellen Hinweis: Der Teufel steckt im Detail. Diese und weitere Tipps gibt es auch auf <a href=\"https://typo3worx.eu/\">Marcus&#8216; Blog</a>.\n</p>"
+    }
+  ]
+}

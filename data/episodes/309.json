@@ -1,0 +1,41 @@
+{
+  "id": 309,
+  "date": "2017-09-2",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "duration": "1:02:48",
+  "href": "https://workingdraft.de/309/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3454/0/wd-309.mp3",
+  "title": "Kein Thema",
+  "description": "Themen? Wer braucht denn schon Themen!",
+  "topics": [
+    {
+      "title": "Kein Thema",
+      "time": "00:00:20",
+      "description": "Stefan, Schepp und (vor allem) Peter geben sich der freien Webtech-Assoziation hin und fordern allerlei. Unter anderem wünschen wir uns Ersatz für allerlei etablierte Tools, DOM-Diffing jenseits des Main-Threads und vieles andere. Zur Sprache kommen außerdem <a href=\"https://www.youtube.com/watch?v=cD9utLH3QOk\">die ausgetüftelten Performance-Optimierungen von Lo-Dash</a>"
+    }
+  ]
+}

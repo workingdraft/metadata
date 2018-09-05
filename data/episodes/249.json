@@ -1,0 +1,58 @@
+{
+  "id": 249,
+  "date": "2016-01-17",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    }
+  ],
+  "duration": "1:08:10",
+  "href": "https://workingdraft.de/249/",
+  "audio": "https://workingdraft.de/podpress_trac/web/2996/0/wd-249.mp3",
+  "title": "Sauberes HTML, Gratis CDNs",
+  "description": "Das ist doch alles kaputt. Entweder sind&#8217;s die eigenen Webseiten, die sich partout gegen Wissen und Gewissen wehren, oder gar ganze Dienste, die einem das Blaue vom Himmel für wenig bis gar kein Geld versprechen. Peter, Hans, Anselm und Stefan debattieren über &#8222;Gewollt Böse&#8220;.",
+  "topics": [
+    {
+      "title": "On Accessibility and the Lack of Proper HTML",
+      "href": "http://www.iandevlin.com/blog/2016/01/opinion/on-accessibility-and-the-lack-of-proper-html",
+      "time": "00:00:26",
+      "description": "Was bringt sauberes HTML wenn ein hingeschleudertes DIV ebenso funktioniert und dem gestreßten Webentwickler einiges an Nerven spart. Ja, sogar die Deadline einhalten lässt. Wie sieht der Gute Wille aus, und wie die bittere Realität. Was bringt es, Qualität in seinen Code bringen, wenn es der Benutzer am Ende sowieso nicht sieht. Wir nehmen <a href=\"http://www.iandevlin.com/blog/2016/01/opinion/on-accessibility-and-the-lack-of-proper-html\">Ian Devlins Artikel</a> und <a href=\"http://www.michielbijl.nl/2016/01/11/you-dont-want-to-hire-me/\">den von Michiel Bijl</a> als Anlass für die Diskussion."
+    },
+    {
+      "title": "Choose Your Own HTTPS",
+      "href": "https://helloanselm.com/2016/choose-your-own-https/",
+      "time": "00:44:36",
+      "description": "Dienste wie Cloudflare versprechen HTTPS, HTTP/2, ein CDN, Super Caching und etliche andere Services, die Webseiten schneller, robuster und sicherer machen. Das alles zum Nulltarif. Das es nichts im Leben umsonst gibt, gibt&#8217;s natürlich einen Haken. Anselm klärt auf und zeigt die bittere Realität."
+    }
+  ]
+}

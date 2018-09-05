@@ -1,0 +1,46 @@
+{
+  "id": 332,
+  "date": "2018-03-26",
+  "people": [
+    {
+      "name": "Benedikt Meurer",
+      "twitter": "https://twitter.com/bmeurer"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    }
+  ],
+  "duration": "1:36:57",
+  "href": "https://workingdraft.de/332/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3635/0/wd-332.mp3",
+  "title": "Die V8 JavaScript Engine",
+  "description": "Diese Revision hatten wir Benedikt Meurer (<a href=\"http://benediktmeurer.de/\">Web</a>, <a href=\"https://twitter.com/bmeurer\">Twitter</a>, <a href=\"https://github.com/bmeurer\">Github</a>), seines Zeichens Tech Lead bei V8, zu Gast.",
+  "topics": [
+    {
+      "title": "Die V8 JavaScript Engine",
+      "href": "https://v8project.blogspot.de/",
+      "time": "00:00:55",
+      "description": "Benedikt erzählt uns, was sich in V8 seit <a href=\"http://workingdraft.de/8/\">Revision 8</a> und der Einführung von Crankshaft getan hat. Eigentlich ist kein Stein auf dem anderen geblieben. Nach einem kleinen Überblick über optimierende Compiler allgemein und JS-JITs in Chrome klärt uns Benedikt über die zahlreichen Limitierungen von Crankshaft auf. Diese spielen im aktuellen Chrome mit Ignition als Bytecode-Generator und TurboFan als Crankshaft-Ersatz keine Rolle mehr. Jenseits Chrome-spezifischer Details sprechen wir über Array-Subclassing (sollte man sein lassen), die Zahl 11 (in Spinal Tap und <a href=\"https://www.youtube.com/watch?v=BOUTfUmI8vs\">im Aufzug</a>) und Micro-Benchmarks vs. Real-World-Workloads. Als wichtigste Performance-Best-Practices kristallisieren sich Captain-Obvious-Erkenntnisse wie „Ideomatic JS schreiben“ und „Objekte monomorph halten“ heraus. Gegen Ende sprechen wie über die Performance-Charakteristika von neue ES-Datenstrukturen, Modulen, Workersn, <code>const</code> und modernen ES-Standards allgemein und kommen auch auf die Top 3 Performance-Irrtümer zu sprechen."
+    }
+  ]
+}

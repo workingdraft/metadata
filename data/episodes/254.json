@@ -1,0 +1,104 @@
+{
+  "id": 254,
+  "date": "2016-03-4",
+  "people": [
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    }
+  ],
+  "duration": "28:17",
+  "href": "https://workingdraft.de/254/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3033/0/wd-254.mp3",
+  "title": "Progressively loaded CSS, Grunt 1.0",
+  "description": "Der wöchentliche News-Podcast hat wieder mal Neuigkeiten! Nebenbei wird noch über progressives Laden von CSS Dateien philosophiert. Anselm, Hans, Schepp und Stefan diesmal im Boot.",
+  "news": [
+    {
+      "title": "Grunt 1.0 Release Candidate",
+      "href": "http://gruntjs.com/blog/2016-02-11-grunt-1.0.0-rc1-released",
+      "time": "00:00:25",
+      "description": "Nein! Doch! Oh! Oder: Die Hölle friert zu und Node kommt ohne Dependencies aus. Grunt 1.0.0. bringt das verwaiste Projekt auf den aktuellen Stand mit NPM, löst einige bekannte Bugs und ist ein wichtiger Schritt zur Reanimation des Projektes. Statt dem Big Bang gibt&#8217;s jetzt die bekannte API gesichert und veröffentlicht."
+    },
+    {
+      "title": "Touch Action CSS Property",
+      "href": "https://gist.github.com/gajus/bbf06ea2e37047b01e70",
+      "time": "00:00:25",
+      "description": "Die <code>touch-action</code> CSS Eigenschaft bekommt Browserreichweite. Hier gibt&#8217;s Informationen dazu."
+    },
+    {
+      "title": "Transitioning from SPDY to HTTP2",
+      "href": "http://blog.chromium.org/2016/02/transitioning-from-spdy-to-http2.html",
+      "time": "00:00:25",
+      "description": "Chrome schmeißt in absehbarer Zeit SPDY raus. Hier gibt&#8217;s Informationen für Leute, die ihre Server noch damit betreiben."
+    }
+  ],
+  "topics": [
+    {
+      "title": "The future of loading CSS",
+      "href": "https://jakearchibald.com/2016/link-in-body/",
+      "time": "00:04:10",
+      "description": "Jake Archibald beschreibt eine gravierende Änderung in Chromes Lade- und Renderstrategie für blockierende CSS Dateien. Diese Änderung (die in Edge schon so umgesetzt wird) erlaubt, CSS auch an anderen Stellen als dem Head zu laden und so progressiv Stylesheets für gewisse Bereiche der Website nachzuladen. Jake belegt dies mit einem entsprechenden Demo und einigen Use Cases. Wir beleuchten die Vor- und Nachteile und diskutieren über Properties wie <code>lazyload</code> und <code><a href=\"http://schepp.github.io/HTML5-WPO-Slides/#/2/22\">postpone</a></code>"
+    }
+  ],
+  "links": [
+    {
+      "title": "Finessing feColorMatrix",
+      "href": "http://alistapart.com/article/finessing-fecolormatrix",
+      "time": "00:24:54",
+      "description": "Una beleuchtet SVG Filter Eigenschaften bis ins äußerste Detail."
+    },
+    {
+      "title": "New ways to make your web app jank with Houdini",
+      "href": "https://surma.link/things/houdini-intro/",
+      "time": "00:24:54",
+      "description": "Houdini, eine Einführung. Hier gibt&#8217;s massiv Informationen und erste Code-Beispiele zum erweiterbaren CSS Standard."
+    },
+    {
+      "title": "Creating Fun and Immersive Audio Experiences with Web Audio",
+      "href": "http://www.sitepoint.com/creating-fun-immersive-audio-experiences-web-audio/",
+      "time": "00:24:54",
+      "description": "Die Web Audio API kann viel. Hier findet man ein paar gute Beispiele und Anwendungsfälle."
+    },
+    {
+      "title": "The Fab Four technique to create Responsive Emails without Media Queries",
+      "href": "https://medium.freecodecamp.com/the-fab-four-technique-to-create-responsive-emails-without-media-queries-baf11fdfa848#.3vk3yj3og",
+      "time": "00:24:54",
+      "description": "Eine sehr einfache, aber doch effektive Implementierung von Element Queries mit <code>calc</code>, <code>min-width</code> und <code>max-width</code> ."
+    },
+    {
+      "title": "Art directed responsive images",
+      "href": "http://cloudinary.com/blog/automatically_art_directed_responsive_images",
+      "time": "00:24:54",
+      "description": "Automatische Art Direction für responsive Images? Hier."
+    }
+  ]
+}

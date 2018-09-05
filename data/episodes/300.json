@@ -1,0 +1,81 @@
+{
+  "id": 300,
+  "date": "2017-05-6",
+  "people": [
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "duration": "50:38",
+  "href": "https://workingdraft.de/300/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3381/0/wd-300.mp3",
+  "title": "Glücksrad!",
+  "description": "Revision 300! Aus Gründen™ gab es diesmal aber keine Spezial-Sonder-Revision, sondern Anselm, Schepp, Stefan und Peter ließen einfach das Glücksrad kreisen.",
+  "randomSpec": [
+    {
+      "title": "Canvas-Element",
+      "href": "https://html.spec.whatwg.org/#canvas",
+      "time": "00:01:06",
+      "description": "Schepp nutzt die Canvas gerne für <a href=\"https://davidwalsh.name/convert-canvas-image\">Bild-Dateiformat-Konvertierung</a> und <a href=\"https://www.html5rocks.com/en/tutorials/canvas/imagefilters/\">Bildmanipulation</a> und berichtet, wie man (u.A. mit <a href=\"https://github.com/tsayen/dom-to-image\">dom-to-image</a>) via JS, SVG und Canvas Screenshots vom aktuellen DOM machen kann. Außerdem erfahren wir von der Existenz von <a href=\"http://html5-demos.appspot.com/static/css/webkit-canvas.html\">Canvas-Hintergründen in CSS</a> und der <a href=\"https://developer.mozilla.org/de/docs/Web/API/OffscreenCanvas\">Offscreen Canvas</a>."
+    },
+    {
+      "title": "Web Sockets",
+      "href": "https://html.spec.whatwg.org/#network",
+      "time": "00:09:17",
+      "description": "Einstimmiges Urteil: alle lieben <a href=\"https://socket.io/\">Socket.IO</a>. Größere Datenmengen mit <a href=\"https://webrtc.org/\">WebRTC</a> durch die Gegend zu schaufeln hat hingegen noch keiner von uns versucht."
+    },
+    {
+      "title": "Der HTML-Parser",
+      "href": "https://html.spec.whatwg.org/#parsing",
+      "time": "00:16:45",
+      "description": "Peter feiert den in HTML5 spezifizierten HTML-Parser hart, denn vorher haben Browser teils sehr exotische Parsing-Strategien verfolgt&nbsp;&ndash; das MS-Team hat <a href=\"https://blogs.windows.com/msedgedev/2017/04/19/modernizing-dom-tree-microsoft-edge/#kA7Lkghbl4VsaXuR.97\">ihren irren Legacy-Parser kürzlich erläutert</a>. Kein Wunder, dass man da früher den <a href=\"https://github.com/aFarkas/html5shiv\">html5shiv</a> brauchte!"
+    },
+    {
+      "title": "input[type=date]",
+      "href": "https://html.spec.whatwg.org/#date-state-(type=date)",
+      "time": "00:22:21",
+      "description": "Kurze Diskussion um das beste und schlimmste Webtech-Feature aller Zeiten. Dass es allerdings nicht die <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl\">ECMAScript Internationalization API</a> unterstützt, ist schon doof."
+    },
+    {
+      "title": "Keyboard-Shortcuts",
+      "href": "https://html.spec.whatwg.org/#assigning-keyboard-shortcuts",
+      "time": "00:28:58",
+      "description": "Schepp verblüfft uns, indem er sich sofort an <a href=\"https://meiert.com/de/publications/articles/20041113/\">einen Artikel über Accesskeys</a> erinnert&nbsp;&ndash; von 2004! Unser Fazit: Accesskeys sind für die Tonne, JS-Keyboard-Shortcuts allerdings nicht unbedingt."
+    },
+    {
+      "title": "Tabellen",
+      "href": "https://html.spec.whatwg.org/#tables",
+      "time": "00:37:00",
+      "description": "Während wir anfangs noch tatsächlich über Tabellen sprechen (u.A. die jQuery-Plugins <a href=\"https://datatables.net/\">DataTables</a> und <a href=\"http://js-grid.com/\">jsGrid</a>) schweifen wir kurz in Richtung „Verdienste langlebiger JS-Libraries“ ab; unter anderem fallen die Namen <a href=\"https://dojotoolkit.org/\">Dojo</a> (dem wir Promises und Module in JS zu verdanken haben), <a href=\"https://www.sencha.com/products/extjs/\">ExtJS</a>, <a href=\"http://www.telerik.com/kendo-ui\">Kendo UI</a> und <a href=\"https://mootools.net/\">MooTools</a>. Zum Ende hin geht es wieder kurz um Tabellen (speziell die weithin unbekannten Attribute <code>scope</code> und <code>headers</code>) und <a href=\"https://www.iandevlin.com/blog/2013/06/css/css-stacking-with-display-table\">Layout-Tricks</a>, die sich mit Tabellen abziehen lassen."
+    }
+  ]
+}

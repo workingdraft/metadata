@@ -1,0 +1,77 @@
+{
+  "id": 247,
+  "date": "2015-12-31",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Kahlil Lechelt",
+      "team": [
+        "2011-08-25",
+        "2013-03-01"
+      ],
+      "twitter": "https://twitter.com/distilledhype",
+      "web": "http://distilledhype.com/"
+    }
+  ],
+  "duration": "1:20:13",
+  "href": "https://workingdraft.de/247/",
+  "audio": "https://workingdraft.de/podpress_trac/web/2978/0/wd-247.mp3",
+  "title": "Reaktive funktionale Programmierung",
+  "description": "Zum Jahresabschluss holten wir uns mal wieder den <a href=\"https://twitter.com/kahliltweets\">Kahlil</a> ins Haus und besprachen mit ihm das Konzept der reaktiven funktionalen Programmierung anhand der JavaScript-Frameworks cycle.js, Rx und Bacon.js.",
+  "topics": [
+    {
+      "title": "Reaktive funktionale Programmierung",
+      "time": "00:00:13",
+      "description": "<ul>\n<li><a href=\"http://reactivex.io/\">Reactive Extensions</a></li>\n<li><a href=\"http://cycle.js.org/\">Cycle.js</a></li>\n<li><a href=\"https://baconjs.github.io/\">Bacon.js</a></li>\n<li>Observables: Collections auf einer Zeitleiste zur Datentransformation</li>\n<li>Kahlil: &#8222;Es ist wie Rohre legen&#8220;</li>\n<li>Talk zu Cycle: <a href=\"https://www.youtube.com/watch?v=1zj7M1LnJV4\">What if the user was a function?</a></li>\n<li>Slides zu Bacon: <a href=\"http://latentflip.com/bacon-talk-realtimeconfeu/\" rel=\"noreferrer\">Functional Reactive Programming and Bacon.js</a></li>\n<li><a href=\"http://futurice.com/blog/reactive-mvc-and-the-virtual-dom\">MVI-Pattern</a>, Komponenten, React</li>\n<li><a href=\"http://webkrauts.de/artikel/2015/grundlagen-funktionaler-programmierung\">Grundlagen funktionaler Programmierung</a></li>\n</ul>"
+    }
+  ],
+  "links": [
+    {
+      "title": "postcss-bem-linter",
+      "href": "https://github.com/postcss/postcss-bem-linter",
+      "time": "01:14:37",
+      "description": "A BEM linter for postcss"
+    },
+    {
+      "title": "stylelint",
+      "href": "http://stylelint.io/",
+      "time": "01:14:37",
+      "description": "A mighty, modern CSS linter that helps you enforce consistent conventions and avoid errors in your stylesheets."
+    },
+    {
+      "title": "Descriptive",
+      "href": "http://descriptive.audio/",
+      "time": "01:14:37",
+      "description": "Podcast zum Thema &#8222;Programmer Origin Stories&#8220;"
+    },
+    {
+      "title": "Reactive",
+      "href": "http://reactive.audio/",
+      "time": "01:14:37",
+      "description": "&#8222;A podcast in which we merge, filter, scan and map streams of thoughts and talk about software engineering, culture, and technology.&#8220;"
+    }
+  ]
+}

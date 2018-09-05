@@ -1,0 +1,98 @@
+{
+  "id": 248,
+  "date": "2016-01-10",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    },
+    {
+      "name": "Axel Rauschmayer",
+      "twitter": "https://twitter.com/rauschma"
+    }
+  ],
+  "duration": "1:11:43",
+  "href": "https://workingdraft.de/248/",
+  "audio": "https://workingdraft.de/podpress_trac/web/2987/0/wd-248.mp3",
+  "title": "ECMAScript 6 und 7",
+  "description": "Mit <a href=\"http://www.2ality.com/\">Dr. Axel Rauschmayer</a> als Gast haben wir das virtuelle Working Draft Studio kurzerhand in ein ECMAScript-Sprechzimmer umgewandelt.",
+  "topics": [
+    {
+      "title": "ECMAScript 6/7/2015/2016",
+      "href": "http://exploringjs.com/",
+      "time": "00:02:50",
+      "description": "Axel ist vor allem für seine umfassenden Forschungen zu den neuen Sprachstandards für JavaScript bekannt. In der Sprechstunde nehmen wir sämtliche neuen Sprachfeatures auseinander, reden über syntaktischen Zucker, neue Konzepte und Implementierungen. Außerdem gibt es noch folgendes:<p></p>\n<ul>\n<li><a href=\"http://justinfagnani.com/2015/12/21/real-mixins-with-javascript-classes/\">Mixins zur Mehrfachvererbung in JavaScript</a>\n</li><li><a href=\"https://github.com/tj/co\">Generator-basierender Flow Control mit co</a></li>\n<li><a href=\"https://tc39.github.io/process-document/\">Infos zum TC39 Prozess</a></li>\n<li><a href=\"https://github.com/tc39/ecma262/blob/master/README.md\">Aktuelle ECMAScript proposals und ihre Stufe</a></li>\n<li><a href=\"http://www.2ality.com/2015/11/tc39-process.html\">Infos zum TC39 Prozess von Axel selbst</a>\n</li><li>Dieses Beispiel, das im Zusammenhang mit Destructuring und Iterables genannt wird:\n<pre><code>let arr = ['a', 'b', 'c'];\r\nfor (let [k,v] of arr.entries()) {\r\n    console.log(`key = ${k}, value = ${v}`);\r\n}\r\n// Output:\r\n// key = 0, value = a\r\n// key = 1, value = b\r\n// key = 2, value = c\r\n</code></pre>\n</li></ul>\n<p>Außerdem sprechen wir über das kommende ECMAScript 7, JavaScript Module, und warum die umstrittensten Sachen wie Klassen gleichzeitig zu den wichtigsten fürs JavaScript Ökosystem gehören. Für weitere Informationen empfehlen wir das <a href=\"http://exploringjs.com/\">ECMAScript 6</a> Buch sowie das <a href=\"http://www.2ality.com/\">Doctor&#8217;s Diary</a>.\n</p>"
+    },
+    {
+      "title": "RollupJS",
+      "href": "http://rollupjs.org/",
+      "time": "00:39:54",
+      "description": "RollupJS ist der neueste Schrei im Modul-Bundling. Hat aber auch einen Grund. Mit ECMAScript 6 Modulen und Technologien wie Tree Shaking kann er etwas, dass bisherige Modulbundler sträflich vernachlässigten: Nur das ins Bundle schmeissen, das man auch wirklich braucht. Der Doktor klärt auf. Auch <a href=\"http://www.2ality.com/2015/12/bundling-modules-future.html\">hier</a> und <a href=\"http://www.2ality.com/2015/12/webpack-tree-shaking.html\">hier</a>."
+    }
+  ],
+  "links": [
+    {
+      "title": "CDNs",
+      "time": "01:03:20",
+      "description": "Rodney kennt eine Menge CDNs, wo JavaScript Developer ihre Bibliotheken gut verteilen können:<p></p>\n<ul>\n<li><a href=\"http://rawgit.com/\">RawGit</a> (alles von GitHub)</li>\n<li><a href=\"http://bowercdn.net/\">BowerCDN</a> (alles von Bower)</li>\n<li><a href=\"http://brcdn.org/\">BrowserifyCDN</a> (alles von NPM)</li>\n<li><a href=\"http://cdnjs.com/\">cdnjs</a></li>\n<li><a href=\"http://jsdelivr.com/\">jsDelivr</a></li>\n</ul>"
+    },
+    {
+      "title": "TL:DR; Man Pages",
+      "href": "http://tldr-pages.github.io/",
+      "time": "01:03:20",
+      "description": "Wenn Unix manuals zu geschwätzig sind, kommt man mit <code>tldr</code> schnell zu den Beispielen."
+    },
+    {
+      "title": "Do I Use",
+      "href": "https://github.com/anandthakker/doiuse",
+      "time": "01:03:20",
+      "description": "Node Tool, dass dir sagt ob du CSS Features verwendest, die deine zu unterstützenden Browser vielleicht gar nicht können."
+    },
+    {
+      "title": "Chrome CPU Throttling",
+      "href": "https://umaar.com/dev-tips/88-cpu-throttling/",
+      "time": "01:03:20",
+      "description": "Seit neuestem kann man in den Chrome (Canary) Dev Tools auch die CPU Leistung drosseln."
+    },
+    {
+      "title": "Exploring ES6",
+      "href": "http://exploringjs.com/",
+      "time": "01:03:20",
+      "description": "Das ECMAScript 6 Buch des Doktors."
+    },
+    {
+      "title": "Setting up ES6",
+      "href": "https://leanpub.com/setting-up-es6",
+      "time": "01:03:20",
+      "description": "Ein Addon zum vorigen Buch, das sich ums Tool-Setup kümmert."
+    }
+  ]
+}

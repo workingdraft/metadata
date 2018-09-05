@@ -1,0 +1,63 @@
+{
+  "id": 279,
+  "date": "2016-10-21",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    }
+  ],
+  "duration": "45:34",
+  "href": "https://workingdraft.de/279/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3203/0/wd-279.mp3",
+  "title": "Abstand und Urlaub",
+  "description": "Hans und Anselm plaudern mal aus dem Nähkästchen: Warum Hans drei Monate nichts tat, und Anselm einfach mal vier Wochen in den Urlaub fährt. Über Versuche als Selbstständige vom Beruf abzuschalten, aber auch warum wir uns in Deutschland glücklich schätzen können als Arbeitnehmer. Wir freuen uns über eure Kommentare, Erfahrungen und Tipps hierzu.",
+  "news": [
+    {
+      "title": "Angular 2",
+      "href": "https://angularjs.blogspot.de/2016/09/angular2-final.html",
+      "time": "00:00:00",
+      "description": "Viel wahrscheinlich bereits bekannt, ist nun seit dem 15. September Angular 2 als stabile Version verfügbar und kann von euch in neuen Projekten eingesetzt werden."
+    }
+  ],
+  "topics": [
+    {
+      "title": "Abstand und Urlaub",
+      "time": "00:01:06",
+      "description": "Das Hauptthema heute dreht sich rund um Urlaub und Auszeiten. Anselm hat hierzu auch <a href=\"https://helloanselm.com/notes/vacation-time-off/\">zwei</a> kleine <a href=\"https://helloanselm.com/2016/enough-vacation-time/\">Artikel</a> verfasst, die ein bisschen mehr Kontext geben und wir möchten an dieser Stelle auch nochmal auf die großartige <a href=\"https://m.signalvnoise.com/employee-benefits-at-basecamp-d2d46fd06c58#.54tqtydam\">Vacation Policy von der Firma Basecamp</a> hinweisen, die Arbeitgebern eine Inspiration sein möge. Zuletzt gibt es Dank der <a href=\"\">Geek Mental Health Week</a> dieses Jahr <a href=\"https://marcjenkins.co.uk/on-burning-out/\">noch</a> <a href=\"https://auth0.com/blog/managing-tech-job-stress-when-9-5-is-unrealistic/\">einige</a> <a href=\"https://medium.com/@ProjectDavis/combatting-stress-and-worry-with-cbt-9b318b39376d#.ksynnfd2m\">weitere</a> <a href=\"http://www.kitation.co.uk/2016/10/03/theres-no-timesheet-for-panic-attacks.html\">Artikel</a> <a href=\"https://www.sarahgebauer.com/update-2016-workaholism-the-other-side/\">zum</a> <a href=\"https://hankchizljaw.io/blog/burnout\">Thema</a> Arbeitszeit-, und Freitzeitmanagement."
+    }
+  ],
+  "links": [
+    {
+      "title": "Feature Queries mit @supports",
+      "href": "https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/",
+      "time": "00:42:15",
+      "description": "Zwar sind Feature Queries mittlerweile nicht mehr ganz neu, aber wir finden, dass sie viel zu wenig genutzt werden. Ein guter Einstiegsartikel."
+    },
+    {
+      "title": "optimize-js",
+      "href": "https://github.com/nolanlawson/optimize-js",
+      "time": "00:42:15",
+      "description": "Dieses nützliche kleine Tool wrapped immediately-invoked functions oder likely-to-be-invoked functions in parentheses."
+    },
+    {
+      "title": "Hyperform",
+      "href": "https://hyperform.js.org/",
+      "time": "00:42:15",
+      "description": "Hyperform bietet endlich eine schlanke, benutzbare Formularvalidierung, die so browsernah wie möglich funktioniert, aber auch erweiterbar ist."
+    }
+  ]
+}

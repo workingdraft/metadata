@@ -1,0 +1,46 @@
+{
+  "id": 301,
+  "date": "2017-05-22",
+  "people": [
+    {
+      "name": "Jens Oliver Meiert",
+      "twitter": "https://twitter.com/j9t"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    }
+  ],
+  "duration": "38:06",
+  "href": "https://workingdraft.de/301/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3390/0/wd-301.mp3",
+  "title": "Optimierung und Wartbarkeit von CSS",
+  "description": "Letzte Revision noch über ihn, bzw. einen <a href=\"https://meiert.com/de/publications/\">seiner Artikel</a> gesprochen, heute schon in unserer Sendung: <a href=\"https://twitter.com/j9t\">Jens Oliver Meiert</a>! Wir haben ihn auf der gerade vergangenen beyond tellerrand Düsseldorf zufällig getroffen und ihn erfolgreich in ein Interview zum Thema CSS verstrickt.",
+  "topics": [
+    {
+      "title": "Optimierung und Wartbarkeit von CSS",
+      "href": "https://meiert.com/en/blog/20170514/maintainability-survey/",
+      "time": "00:00:18",
+      "description": "Wir sprachen mit Jens über sein aktuelles Forschungsthema, nämlich der Frage, wie man CSS besser optimieren und gleichzeitig gut wartbar halten kann. Ausgangslage war Jens&#8216; Erkenntnis, dass 70% des CSS, das die Durchschnittsseite mit sich herumschleift, aus vorher bereits definierten Deklarationen besteht. Das daraus resultierende Gespräch führte uns über Bootstrap und die Möglichkeit, es <a href=\"http://getbootstrap.com/customize/\">an die eigenen Bedürfnisse anzupassen</a>, über <a href=\"http://tachyons.io/\">Tachyons</a>, Yahoos <a href=\"https://www.smashingmagazine.com/2013/10/challenging-css-best-practices-atomic-approach/\">Atomic CSS</a>, und <a href=\"https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/\">OOCSS</a> hin zu Googles <a href=\"http://www.gwtproject.org/\">GWT</a>. Zur weiteren Erforschung des Themenkomplexes bittet Jens <a href=\"https://meiert.com/en/blog/20170514/maintainability-survey/\">in einem Artikel</a> darum, <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSe8HjnEoVFBevk80_MKH2Te5SmAs8p6cJbdQWVgC1V-OorMUw/viewform\">seine Umfrage das Thema betreffend auszufüllen</a>."
+    }
+  ],
+  "links": [
+    {
+      "title": "Alle Videos der beyond tellerrand Düsseldorf 2017",
+      "href": "https://www.youtube.com/watch?v=bmq8SKjRqwQ&list=PL8ZzmQWppBBs6kqSsYUdgyNpUZgOsAGSi",
+      "description": "Die Videos der beyonds gehen mittlerweile so schnell online, da fehlt nicht mehr viel, dass man die Talks dort schon vor dem Bühnenauftritt sehen kann. Wenn Ihr nicht die Zeit findet, alle Videos zu schauen, dann doch wenigstens <a href=\"https://www.youtube.com/watch?v=7_FeYJaiAh4&amp;list=PL8ZzmQWppBBs6kqSsYUdgyNpUZgOsAGSi&amp;index=6\">das von Espen Brunborg</a>."
+    }
+  ]
+}

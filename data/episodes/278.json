@@ -1,0 +1,50 @@
+{
+  "id": 278,
+  "date": "2016-10-8",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Marc Thiele",
+      "twitter": "https://twitter.com/marcthiele",
+      "web": "http://marcthiele.com/"
+    }
+  ],
+  "duration": "1:29:42",
+  "href": "https://workingdraft.de/278/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3197/0/wd-278.mp3",
+  "title": "Beyond beyond tellerrand",
+  "description": "Während die anderen Kollegen allesamt geschlossen dem Tag der Deutschen Einheit gedachten &#8211; allen voran sicherlich Stefan :) &#8211; setzte Schepp sich mit <a href=\"https://marcthiele.com/\">Marc Thiele</a> zusammen, dem Macher der <a href=\"https://beyondtellerrand.com/\">beyond tellerrands</a> als auch des <a href=\"http://twumble.com/\">Twumble-Podcasts</a>, und wir sprachen über alles Mögliche, vor allem aber über…",
+  "topics": [
+    {
+      "title": "… Nicht-Tellerrandiges",
+      "time": "00:00:12",
+      "description": "Denn bei Marc hat sich seit seinem letzten Besuch bei uns viel Neues ergeben. Wir redeten über sein Engagement beim Smashing Magazine und darüber, wie es sich immer auszahlt, auf sein Bauchgefühl zu hören. Auch ging es darum, wie man seine Sprecherkarriere starten kann, und wie Marc sich Gedanken macht, wie man Newcomer fördern kann. Natürlich sprachen wir auch über den Konferenzzirkus insgesamt, welche Konferenzen funktionieren, welche nicht, und welche man besucht haben sollte."
+    }
+  ],
+  "links": [
+    {
+      "title": "Bonfortionöse beyond tellerrand Workshops in Berlin!",
+      "href": "https://beyondtellerrand.com/events/berlin-2016/workshops",
+      "time": "01:18:55",
+      "description": "am 7. und 10. November 2016 zu den Themen &#8222;Performance&#8220;, &#8222;Research&#8220; und &#8222;Letterpress&#8220;."
+    },
+    {
+      "title": "Exquisite beyond tellerrand Workshops in Düsseldorf!",
+      "href": "https://beyondtellerrand.com/events/duesseldorf-2017/workshops",
+      "time": "01:18:55",
+      "description": "am 14. und 17. Mai 2017 zu den Themen &#8222;Zeichnen Lernen&#8220; und &#8222;Animation&#8220;."
+    },
+    {
+      "title": "Und zwei großartige Accessibility Clubs!",
+      "href": "https://accessibility-club.org/",
+      "time": "01:18:55",
+      "description": "Und schließlich legen wir Euch nahe, zu einem der kommenden Accessibility Clubs in Berlin oder Nürnberg zu gehen, bei denen Karl Groves zu Gast sein wird."
+    }
+  ]
+}

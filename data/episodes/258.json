@@ -1,0 +1,83 @@
+{
+  "id": 258,
+  "date": "2016-04-17",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    }
+  ],
+  "duration": "1:30:44",
+  "href": "https://workingdraft.de/258/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3070/0/wd-258.mp3",
+  "title": "Das npm Debakel und warum wir so lahme Seiten bauen",
+  "description": "Schepp, Peter und Anselm erklären nochmal, was beim npm-Gate so abging und warum wir endlich mal vorher nachdenken sollten, wie wir Tools und Workflows aufbauen, statt erst dann, wenn es zu spät ist. Und danach nehmen wir uns gleich noch ein Thema vor, was nach wie vor spannend bleibt: Warum bauen wir so lahme Seiten, vor allem für mobile Endgeräte?",
+  "news": [
+    {
+      "title": "Developers can run Bash Shell and user-mode Ubuntu Linux binaries on Windows 10",
+      "href": "http://www.hanselman.com/blog/DevelopersCanRunBashShellAndUsermodeUbuntuLinuxBinariesOnWindows10.aspx",
+      "time": "00:00:11",
+      "description": "Was sollen wir noch dazu sagen, außer: Endlich! Und: Das ist großartig!"
+    }
+  ],
+  "topics": [
+    {
+      "title": "Left-Pad / npm-Gate",
+      "href": "https://twitter.com/wesbos/status/712414056150384640/photo/1",
+      "time": "00:00:47",
+      "description": "Der Entwickler eines npm Moduls für eine Left-Pad Function hat <a href=\"https://www.npmjs.com/package/left-pad\">selbiges ge-unpublished</a> und damit das halbe Internet kaputt gemacht. Da leider Babel und viele andere Projekte dieses als Dependency verwendeten, schlugen sofort alle CI Systeme fehl. Daraus entstand eine hitzige Debatte um kleine Module in JavaScript, npm und Workflows an sich. Wir sprechen darüber und versuchen herauszufinden, wie wir robustere Workflows bauen können ohne Module nur zu copy-pasten. Seitdem gibt es eine neue <a href=\"http://blog.npmjs.org/post/141905368000/changes-to-npms-unpublish-policy\">npm unpublish policy</a>, <a href=\"https://medium.com/@Rich_Harris/how-to-not-break-the-internet-with-this-one-weird-trick-e3e2d57fee28#.btpazbyfi\">Lösungs-Ansätze</a> und auch direkt <a href=\"https://medium.com/@boennemann/your-just-considered-harmful-679db7366b95#.fishn1x4i\">neue npm</a> <a href=\"https://medium.com/@Rich_Harris/how-to-not-break-the-internet-with-this-one-weird-trick-e3e2d57fee28#.btpazbyfi\">Problemchen</a>. Aber da wäre ja auch noch <a href=\"http://bower.io/\">Bower</a> und auch sowas wie das <a href=\"https://ipfs.io/ipfs/QmTkzDwWqPbnAh5YiV5VwcTLnGdwSNsNTn2aDxdXBFca7D/example#/ipfs/QmQwAP9vFjbCtKvD8RkJdCvPHqLQjZfW7Mqbbqx18zd8j7/git/readme.md\">relativ unbekannte IPFS</a>, was sich ziemlich gut als distributed package manager eignen würde."
+    },
+    {
+      "title": "The Chrome Distortion: how Chrome negatively alters our expectations.",
+      "href": "https://blog.runspired.com/2016/03/25/the-chrome-distortion-chrome-alters-our-expectations-in-highly-negative-ways/",
+      "time": "00:28:38",
+      "description": "Diesen doch sehr fraglichen Artikel-Titel haben wir zum Anlass genommen, zu hinterfragen, warum wir überhaupt feststellen können, dass mobile Browser langsam sind und ob das überhaupt die Ursache des Problems ist? Wir kommen selbstverständlich zu einem ganz anderen Schluss, denn wir bauen einfach <a href=\"http://idlewords.com/talks/website_obesity.htm\">immer unnötig größere Seiten</a>, mit vielen unnötigen Spielereien. Trotzdem versuchen wir, unsere Verantwortung dann am Ende auf die Browser zu schieben, einfach um uns besser zu fühlen. Letztendlich sprechen wir auch noch über Projektmanagement und Verantwortung als Entwickler, sowie Hardware, die Nicht-Entwickler besitzen."
+    }
+  ],
+  "links": [
+    {
+      "title": "link rel=noopener",
+      "href": "https://mathiasbynens.github.io/rel-noopener/#hax",
+      "time": "01:28:48",
+      "description": "Ein neues Attribut, um zu verhindern, dass <code>window.opener</code> durch nutzergenerierten Inhalt missbraucht werden kann."
+    },
+    {
+      "title": "A kick-start into server push",
+      "href": "http://slemgrim.com/kickstart-into-server-push/",
+      "time": "01:28:48",
+      "description": "Ein leicht verständlicher Artikel zum Thema Server Push."
+    },
+    {
+      "title": "Node.green",
+      "href": "http://node.green/",
+      "time": "01:28:48",
+      "description": "Eine coole tabellarische Aufstellung, welches ECMA-Script Feature in welcher Node Version unterstützt wird."
+    },
+    {
+      "title": "Referrer and cache control APIs for fetch()",
+      "href": "https://hacks.mozilla.org/2016/03/referrer-and-cache-control-apis-for-fetch/",
+      "time": "01:28:48",
+      "description": "Auch wenn es noch ein klein wenig dauert, bis zum Firefox 48 Release, finden wir diese Features äußerst hilfreich und ihr könnt gleich mal anfangen, das zu nutzen."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": 260,
+  "date": "2016-05-1",
+  "people": [
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    }
+  ],
+  "duration": "47:45",
+  "href": "https://workingdraft.de/260/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3087/0/wd-260.mp3",
+  "title": "Spezifikations-Neuheiten",
+  "description": "Zwei Änderungen in der Spezifikation sorgen für den nötigen Gesprächsstoff in der nächsten Stunde. Rodney, Hans und Stefan stellen sich Fragen zur HTML Sektionierung und JavaScript Modulen.",
+  "topics": [
+    {
+      "title": "H1-H6 statt beliebiger Sektionsverschachtelungen",
+      "href": "https://lists.w3.org/Archives/Public/public-html/2016Apr/0032.html",
+      "time": "00:00:20",
+      "description": "Die wunderbaren Möglichkeiten des HTML5 Outlining Algorithmus. Großartiges wurde von ihm erwartet, die Implementierung auf Seiten der Werkzeugshersteller und Webseiten-Entwickler hält sich allerdings in Grenzen. Schade, wie wir finden. Wir resümieren über unsere eigene Verwendung und hinterfragen den Entscheid, ob es gut ist die <code>&lt;section&gt;</code> Verschachtelung als Best Practice Beispiel aus der Spezifikation zu nehmen. Denn nach einem Herausnehmen folgt meistens ein Vergessen &#8230;"
+    },
+    {
+      "title": "Adding JavaScript modules to the web platform",
+      "href": "https://blog.whatwg.org/js-modules",
+      "time": "00:26:57",
+      "description": "JavaScript Module! Wir reden hier nicht von Entwicklungsmustern oder Werkzeugs-Gedöhns, sondern vom echten Zeug: JavaScript Module im Browser. Was bringt die Spezifikation, warum hat es so lange gedauert, und wie schaut die Zukunft damit aus. Rodney steht unseren Fragen Rede und Antwort."
+    }
+  ],
+  "links": [
+    {
+      "title": "JS Kongress",
+      "href": "http://js-kongress.de/",
+      "time": "00:44:26",
+      "description": "In München steht ein Kongresshaus. Eins, zwei, JavaScript. 2 Tage, 16 Speaker, Brezen. Stefan ist dort."
+    },
+    {
+      "title": "Service Worker Toolbox",
+      "href": "https://github.com/GoogleChrome/sw-toolbox",
+      "time": "00:44:26",
+      "description": "Die Service Worker Toolbox bringt Express-ähnliches Routing und Standardfunktionalität wie &#8222;Netzwerk zuerst! Cache danach!&#8220;. Erleichtert die Arbeit für Standard-Tasks."
+    },
+    {
+      "title": "EmberConf 2016",
+      "href": "https://www.youtube.com/playlist?list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW",
+      "time": "00:44:26",
+      "description": "Das Stefan nicht alleine mit seiner Ember.js Freude ist zeigen die Videos der EmberConf. Mindestens 20 andere Menschen auf diesem Erdball nutzen das Framework. Leute, die gerne mehr darüber lernen wollen, sollen sich diese Case Studies sehr detailliert anschauen."
+    }
+  ]
+}

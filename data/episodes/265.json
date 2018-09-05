@@ -1,0 +1,54 @@
+{
+  "id": 265,
+  "date": "2016-06-20",
+  "people": [
+    {
+      "name": "Pascal Szewczyk",
+      "twitter": "https://twitter.com/derPepo",
+      "web": "http://elektrowecker.de/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    }
+  ],
+  "duration": "45:53",
+  "href": "https://workingdraft.de/265/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3126/0/wd-265.mp3",
+  "title": "Weiterbildung im Frontend",
+  "description": "Nach monatelange Steineklopfen ist es endlich gelungen, mit <a href=\"https://twitter.com/derPepo\">dem Pepo</a> eine Revision zum abstrakten Thema „Weiterbildung im Frontend-Bereich“ einzutüten.",
+  "topics": [
+    {
+      "title": "Weiterbildung im Frontend-Bereich",
+      "time": "00:00:44",
+      "description": "Warum scheinen so viele Entwickler nur Dienst nach (locker interpretierter) Vorschrift zu schieben? Liegt es daran, dass <a href=\"http://www.stilldrinking.org/programming-sucks\">(Web)-Entwicklung eine so haarige Angelegenheit</a> ist? Wir sprechen über mögliche Ursachen sowie Team-Management und Organisationstechniken, Scrum, Prozessse, Checklisten und Code Reviews sowie Refactoring (<a href=\"https://speakerdeck.com/creinartz/large-scale-css-refactoring\">speziell von CSS</a>) und Planung von Refactorings."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": 270,
+  "date": "2016-08-5",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    }
+  ],
+  "duration": "31:12",
+  "href": "https://workingdraft.de/270/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3149/0/wd-270.mp3",
+  "title": "Debugging und Links",
+  "description": "Diesmal reichte die Themenliste nur für eine Kurzrevision mit Schepp, Peter und Stefan. Dazu kommen die üblichen drei Links.",
+  "topics": [
+    {
+      "title": "Debugger vs. console.log() epic throwdown challenge",
+      "time": "00:00:12",
+      "description": "Angeregt von einem <a href=\"http://lemire.me/blog/2016/06/21/i-do-not-use-a-debugger/\">„Debugger? Brauche ich nicht!“</a>-Artikel debattieren wir die Vor- und Nachteile von Debuggern und <code>console.log()</code>&nbsp;&ndash; denn tatsächlich nutzen viele auch namhafte Entwickler keinen Debugger (Peter erwähnt hier das Buch <a href=\"http://www.amazon.de/gp/product/1430219483/ref=as_li_tl?ie=UTF8&amp;camp=1638&amp;creative=6742&amp;creativeASIN=1430219483&amp;linkCode=as2&amp;tag=petedediekuns-21\">Coders at Work</a>). Mit leichter Chrome-Schlagseite berichten wir von unseren Erfahrungen mit <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger\">dem debugger-Statement</a>, <a href=\"http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/\">Source Maps</a>, Console-Methoden jenseits von <code>log()</code> (<a href=\"https://developers.google.com/web/tools/chrome-devtools/debug/console/?utm_source=dcc\">Chrome</a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Console\">Firefox</a>), Blackboxing (<a href=\"https://developer.chrome.com/devtools/docs/blackboxing\">Chrome</a>, <a href=\"https://developer.mozilla.org/en-US/docs/Tools/Debugger/How_to/Black_box_a_source\">Firefox</a>), <a href=\"https://mattdesl.svbtle.com/debugging-nodejs-in-chrome-devtools\">Node-Debugging mit Chrome</a> und mit <a href=\"https://code.visualstudio.com/\">Visual Studio Code</a><br>\nsowie divserse anderen Debugging-Techniken&nbsp;&ndash; bis hin zum etwas exotischen <a href=\"https://developer.mozilla.org/de/docs/Tools/Web_Audio_Editor\">Web Audio Editor</a> in Firefox."
+    }
+  ],
+  "links": [
+    {
+      "title": "Innovating with HTTP 2.0 Server Push",
+      "href": "https://www.igvita.com/2013/06/12/innovating-with-http-2.0-server-push/",
+      "time": "00:28:40",
+      "description": "Aktualisierter Artikel zu HTTP 2.0 Server Push."
+    },
+    {
+      "title": "pedroborges/kirby-autogit",
+      "href": "https://github.com/pedroborges/kirby-autogit",
+      "time": "00:28:40",
+      "description": "Git für Kirby."
+    },
+    {
+      "title": "Frontend Conference Zurich",
+      "href": "https://frontendconf.ch/",
+      "time": "00:28:40",
+      "description": "Konferenz mit 1A Lineup!"
+    }
+  ]
+}

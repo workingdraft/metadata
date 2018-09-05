@@ -1,0 +1,17 @@
+{
+  "id": 257,
+  "date": "2016-03-30",
+  "people": [
+    {
+      "name": "Rouven Wessling"
+    },
+    {
+      "name": "Thomas Scholte"
+    }
+  ],
+  "duration": "53:17",
+  "href": "https://workingdraft.de/257/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3057/0/wd-257.mp3",
+  "title": "Contentful – Das API-first CMS",
+  "description": "Es war mal wieder an der Zeit, dass wir uns Gäste zur Verstärkung ins virtuelle Studio holen. Nachdem sich die letzten Revisionen viel um Content Management Systeme die Arbeit als Frontend-Entwickler mit ihnen gedreht haben, lag es nahe, dass wir uns mal mit den Leuten hinter dem rein API-basierten &#8222;headless&#8220; CMS <a href=\"https://www.contentful.com/\">Contentful</a> unterhalten. Aus Berlin zugeschaltet waren <a href=\"https://twitter.com/RouvenWessling\">Rouven Weßling</a> und <a href=\"https://github.com/geigerzaehler\">Thomas Scholtes</a>.\n\nWir redeten über die Idee hinter dem CMS und seine Aufteilung in ein Multiuser-Fähiges Backend und fünf Teil-APIs:\n\nWir erfuhren außerdem weitere schöne Details, nämlich dass Contentful <a href=\"https://www.contentful.com/developers/docs/concepts/locales/\">Mehrsprachigkeit, respektive Lokalisierbarkeit ermöglicht</a>. Und auch dass man mit Hilfe der <a href=\"https://www.contentful.com/developers/docs/concepts/sync/\">Content Delivery Sync API</a> seine Daten zur Offline-Speicherung im Client regelmäßig abgleichen kann. Wohlwollend nahmen wir zur Kenntnis, <a href=\"https://www.contentful.com/blog/2015/09/22/markdown/\">dass Rich Content ausschließlich im Markdown-Format verarbeitet wird</a>. Mehrere Seiten lassen sich mit Hilfe von <a href=\"http://docs.contentfulcda.apiary.io/#reference/spaces\">Spaces</a> unter einem Account betreiben. Volltextsuchen sind dank der <a href=\"http://docs.contentfulcda.apiary.io/#reference/search-parameters\">Search API</a> leicht zu implementieren. Und es lassen sich <a href=\"http://docs.contentfulcma.apiary.io/#resources-webhooks\">Webhooks</a> einrichten, die jedes Mal getriggert werden, wenn Inhalte aktualisiert wurden.\n\nWer nun Blut geleckt hat: Contentful bietet für den schnellen Einstieg eine Reihe <a href=\"https://github.com/contentful\">von fertigen SDKs und Plugins</a> für <a href=\"https://www.contentful.com/blog/2016/03/08/js-sdk-cda-v3/\">JavaScript</a> und alle gängigen serverseitigen Sprachen sowie für diverse Frameworks, native Plattformen und statische Seitengeneratoren.\n\nZu guter Letzt wiesen wir noch auf ein interessantes Gast-Posting im Firmenblog hin, wo beschrieben wird, <a href=\"https://www.contentful.com/blog/2016/02/10/snipcart-middleman-contentful/\">wie man mit Contentful und Snipcart sogar ein Shopsystem abbilden kann</a>.\n\nDer einzige Nachteil, den wir während des ganzen Gesprächs an dem CMS ausmachen konnten: Durch die Art und Weise des Hostings lässt sich nicht sicherstellen, dass Inhalte ausschließlich in Europa gespeichert sind (zumindest derzeit).\n\nWir sind beeindruckt. Salespitch bestanden!"
+}

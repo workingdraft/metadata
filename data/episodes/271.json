@@ -1,0 +1,80 @@
+{
+  "id": 271,
+  "date": "2016-08-5",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    }
+  ],
+  "duration": "39:11",
+  "href": "https://workingdraft.de/271/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3153/0/wd-271.mp3",
+  "title": "HTTP/2 Server Push und Link Rot",
+  "description": "Schepp, Hans und Stefan nutzen die steigenden Temperaturen um Unklarheiten aus dem Weg zu räumen.",
+  "topics": [
+    {
+      "title": "HTTP/2 Server Push",
+      "href": "https://medium.com/totally-tooling-tears/issue-5-http-2-push-9c6eba8d6d7c#.q6njuebpn",
+      "time": "00:00:19",
+      "description": "Ein Artikel von Google&#8217;s Tool Advokaten erklärt nicht nur, wie man HTTP/2 Server Push in den DevTools vom Chrome erkennt,<br>\nsondern wie das Gerüst sich unter der Haube verhält. Eine Unstimmigkeit nehmen wir zum Anstoß um über das grundlegende Prinzip von Server Push zu reden, diverse Anwendungsfälle zu finden und Licht ins Dunkel zu bringen. Dazu passend sind weitere Literatur von <a href=\"http://stackoverflow.com/questions/29352282/do-browser-cancel-server-push-when-resource-is-in-cache/29354100#29354100\">Simone Bordet auf Stackoverflow</a> und ein <a href=\"https://www.youtube.com/watch?v=QpLtBftqM04\">passendes Video von selbigem</a>. Wer HTTP/2 Server Push jetzt schon einsetzen möchte, kann das zum Beispiel schon über <a href=\"https://blog.cloudflare.com/announcing-support-for-http-2-server-push-2/\">CloudFlare</a> tun."
+    },
+    {
+      "title": "AMP supercharges Link Rot",
+      "href": "https://helloanselm.com/2016/amp-supercharges-link-rot/",
+      "time": "00:22:17",
+      "description": "Kollege Anselm macht sich über langlebige URLs Gedanken und wir stimmen ein. Nothing lasts forever, und AMP ist anscheinend jetzt schon dem Linkverfall verschrieben. Leider ist das bei vielen Ressourcen so. Abhilfe schaffen SEO-Abmahnungen und Archive.org. Ein Projekt, dass man unterstützen soll."
+    }
+  ],
+  "links": [
+    {
+      "title": "WDRL.info",
+      "href": "https://wdrl.info/",
+      "time": "00:34:25",
+      "description": "Auch ein Projekt, dass man unterstützen soll ist Anselms Web Development Reading List. Mehr Newsletter braucht man nicht."
+    },
+    {
+      "title": "Comprehensive Webfonts",
+      "href": "https://www.zachleat.com/web/comprehensive-webfonts/",
+      "time": "00:34:25",
+      "description": "Webfont Ladestrategien. Alle. Mit Vorteilen. Und Nachteilen."
+    },
+    {
+      "title": "Speeding up Babel transpilation with compact mode",
+      "href": "https://blog.mariusschulz.com/2016/07/12/speeding-up-babel-transpilation-with-compact-mode",
+      "time": "00:34:25",
+      "description": "Babel ist 5x schneller wenn man die Leerzeichen per default weglässt."
+    },
+    {
+      "title": "Building and maintaining atomic design systems with Pattern Lab",
+      "href": "https://www.smashingmagazine.com/2016/07/building-maintaining-atomic-design-systems-pattern-lab/",
+      "time": "00:34:25",
+      "description": "Pattern Lab 2 ist draussen und großartig! Node.js Implementierung, flexible Templating-Sprachen. Kein vordefiniertes Atomic Design. Bravo!"
+    },
+    {
+      "title": "Can’t you make it more like Bootstrap",
+      "href": "https://www.youtube.com/watch?v=y4ggoN2xtAY",
+      "time": "00:34:25",
+      "description": "Musstet ihr schon mal Designsysteme unter Entwickler bringen? Alice Bartlett schon. Und nicht nur für eine Handvoll Webseiten, sondern für 177 verschiedene Webauftritte der Financial Times. Ein Erfahrungsbericht."
+    }
+  ]
+}

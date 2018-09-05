@@ -1,0 +1,56 @@
+{
+  "id": 315,
+  "date": "2017-11-5",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    }
+  ],
+  "duration": "30:15",
+  "href": "https://workingdraft.de/315/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3477/0/wd-315.mp3",
+  "title": "React Lizenzänderung, abortable fetch",
+  "description": "Stefan und Anselm behandeln im Duett zwei News und schmücken Sie zum vollen Thema aus.",
+  "topics": [
+    {
+      "title": "React Lizenzänderung",
+      "href": "https://medium.com/@ji/the-react-license-for-founders-and-ctos-b38d2538f3e5",
+      "time": "00:00:30",
+      "description": "Die toxische BSD+Patents Lizenz, wie ist sie entstanden, was sind die Probleme, und warum ändert Facebook jetzt alles. Wir erklären und n00ben in der großen Open Source Lizenzwelt herum."
+    },
+    {
+      "title": "Abortable fetch",
+      "href": "https://developers.google.com/web/updates/2017/09/abortable-fetch",
+      "time": "00:19:44",
+      "description": "Stell dir vor du machst eine fesche API und jeder ist so &#8222;Prima, wie mach ich das jetzt wieder weg?&#8220;. Fetch-calls kann man im Firefox und bald auch in Edge und Chrome wieder abbrechen. Damit wird die schöne, neue Promise-basierte API zum vollwertigen XHR Ersatz."
+    }
+  ],
+  "links": [
+    {
+      "title": "The Miracle of Generators",
+      "href": "https://vimeo.com/232221648",
+      "time": "00:26:45",
+      "description": "Toller Talk von Bodil Stokke zum Thema ES Generatoren auf der Frontendconf."
+    },
+    {
+      "title": "Script’18",
+      "href": "https://scriptconf.org/",
+      "time": "00:26:45",
+      "description": "Stefans JavaScript Konferenz geht in die nächste Runde. Das Line-Up inkludiert Leute wie Simona Cotin, Phil Hawksworth, Charlie Gerard und den Vue.js Erfinder Evan You."
+    }
+  ]
+}

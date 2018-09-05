@@ -1,0 +1,33 @@
+{
+  "id": 314,
+  "date": "2017-10-20",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    }
+  ],
+  "duration": "55:54",
+  "href": "https://workingdraft.de/314/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3487/0/wd-314.mp3",
+  "title": "DDD, CQRS und WTF",
+  "description": "Gast Golo Roden (<a href=\"https://twitter.com/goloroden\">Twitter</a>, <a href=\"https://github.com/goloroden\">Github</a>, <a href=\"https://www.thenativeweb.io/\">Webseite</a>) erleuchtet in dieser Revision Hans und Peter in Sachen Domain Driven Design sowie Command and Query Responsibility Seggregation. Aufgrund technischer Schwierigkeiten bei der Aufnahme, gibt es diesmal nur unseren Gast in hoher Audioqualität.",
+  "topics": [
+    {
+      "title": "DDD, CQRS, WTF",
+      "time": "00:01:21",
+      "description": "DDD (<a href=\"https://de.wikipedia.org/wiki/Domain-driven_Design\">Domain Driven Design</a>) ist ein Pattern zum Übersetzen von fachlichen Anforderungen in Software und versteht sich als Gegenentwurf zu <a href=\"https://de.wikipedia.org/wiki/CRUD\">CRUD</a>. Anhand des Beispiels einer Urlaubsantragsverwaltung erklärt Golo, wie DDD funktioniert. Mit dem Label <a href=\"https://de.wikipedia.org/wiki/Command-Query-Responsibility-Segregation\">CQRS</a> wird die Verteilung der Architektur auf zwei Datenbanken(eine für den Store, eine für denormalisierte View-Daten) beschrieben. Unterschiedliche Datenbanksysteme kommen für unterschiedliche Anforderungen (z.B. <a href=\"https://www.postgresql.org/\">Postgres</a> oder <a href=\"https://kafka.apache.org/\">Apache Kafka</a> als Event Store, <a href=\"https://www.mongodb.com/\">MongoDB</a> für Snapshots) zum Einsatz. Golo hat mit <a href=\"https://www.wolkenkit.io/\">Wolkenkit</a> auch ein eigenes Dual License-DDD-Framework (<a href=\"https://docs.wolkenkit.io\">Docs</a>, <a href=\"http://slackin.wolkenkit.io\">Slack</a>)."
+    }
+  ]
+}

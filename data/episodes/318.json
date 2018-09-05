@@ -1,0 +1,72 @@
+{
+  "id": 318,
+  "date": "2017-11-21",
+  "people": [
+    {
+      "name": "Jens Grochtdreis",
+      "twitter": "https://twitter.com/Flocke",
+      "web": "http://grochtdreis.de/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    }
+  ],
+  "duration": "1:17:28",
+  "href": "https://workingdraft.de/318/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3516/0/wd-318.mp3",
+  "title": "Strukturiertes CSS",
+  "description": "Die neuste Revision haben wir gemeinsam mit <a href=\"http://www.grochtdreis.de/\">Jens Grochtdreis</a> aufgenommen. Als Ausgangspunkt haben wir <a href=\"https://leanpub.com/modularewebentwicklung/read\">sein Buch zum Thema <i>Modulare Webentwicklung</i></a> genommen, dass er in den letzten Jahren geschrieben hat.",
+  "news": [],
+  "topics": [
+    {
+      "title": "Modulare Webentwicklung",
+      "href": "https://leanpub.com/modularewebentwicklung/read",
+      "time": "00:00:54",
+      "description": "Jens erklärt uns, was man unter Modularer Webentwicklung versteht. Er beschreibt, was seiner Meinung nach die effektivste Art und Weise der Webseiten-Entwicklung ist. Wir vergleichen aktuelle Entwicklungsmuster und sprechen über unsere eigenen Erfahrungen. Wir erwähnen auch <a href=\"https://airbnb.design/painting-with-code/\">Airbnbs Arbeiten zum Thema Living Styleguide</a>."
+    }
+  ],
+  "links": [
+    {
+      "title": "Heml",
+      "href": "https://heml.io/",
+      "time": "01:08:09",
+      "description": "Einfach saubere und responsive E-Mail-Layouts."
+    },
+    {
+      "title": "SkateJS",
+      "href": "https://skatejs.netlify.com/",
+      "time": "01:08:09",
+      "description": "Eine JavaScript Library, um das Arbeiten mit Custom Elements im Browser zu vereinfachen."
+    },
+    {
+      "title": "Frontend-Checklist",
+      "href": "http://frontendchecklist.com/",
+      "time": "01:08:09",
+      "description": "Eine Checklist für alle Frontend-bezogenen Themen einer Website."
+    },
+    {
+      "title": "Snyk + Google Lighthouse = ❤",
+      "href": "https://snyk.io/blog/snyk-and-lighthouse/",
+      "time": "01:08:09",
+      "description": "Googles Lighthouse &#8222;befragt&#8220; nun Snyk bei einem Audit der Website und kann damit Security Vulnerabilities erkennen."
+    },
+    {
+      "title": "A Look at Bootstrap 4’s New Reset: Reboot.css",
+      "href": "https://scotch.io/tutorials/a-look-at-bootstrap-4s-new-reset-rebootcss",
+      "time": "01:08:09",
+      "description": "Reboot.css ist ein neues Reset.css, dass im Rahmen der Entwicklung von Bootstrap 4 entstanden ist."
+    }
+  ]
+}

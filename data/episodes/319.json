@@ -1,0 +1,70 @@
+{
+  "id": 319,
+  "date": "2017-11-28",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    }
+  ],
+  "duration": "48:22",
+  "href": "https://workingdraft.de/319/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3507/0/wd-319.mp3",
+  "title": "Templates, Super Cookies, Animationen",
+  "description": "Schepp, Hans, Peter und Stefan sprechen über mögliche Standards, Browserfeatures v.s. Privacy und dem ewigen Kreuz mit Animationen.",
+  "topics": [
+    {
+      "title": "HTML Template Instantiation",
+      "href": "https://github.com/w3c/webcomponents/blob/gh-pages/proposals/Template-Instantiation.md",
+      "time": "00:00:16",
+      "description": "Ein Proposal möchte das gute alte <a href=\"https://developer.mozilla.org/de/docs/Web/HTML/Element/template\">Template-Element</a>, das eigentlich nur ein inaktives DocumentFragment bereitstellt, zu einem logikfreien Template-System a la <a href=\"http://handlebarsjs.com/\">Handlebars</a> aufmotzen. Wir vergleichen den Ansatz von Handlebars mit dem von <a href=\"https://shopify.github.io/liquid/\">Liquid</a> o.Ä., sind uns uneins, ob man Template-Elemente im Angesicht von <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals\">Template Litereals</a> überhaupt braucht und überlegen, wie ob man fortgeschrittenere Konzepte wie Data Binding oder die Render-VM von <a href=\"https://glimmerjs.com/\">Glimmer</a> auch in einen Webstandard integrieren könnte. Am Ende ranten wir noch kurz darüber ab, dass Mobile Safari nichts mit <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/FormData\">FormData</a> anzufangen weiß (eine Tatsache, die zwischenzeitlich zum Glück <a href=\"https://twitter.com/rmondello/status/929073607837237248\">widerlegt werden konnte</a>)."
+    },
+    {
+      "title": "Firefox takes a bite out of the canvas super cookie",
+      "href": "https://nakedsecurity.sophos.com/2017/10/30/firefox-takes-a-bite-out-of-the-canvas-super-cookie/",
+      "time": "00:21:06",
+      "description": "Firefox schränkt aus Privacygründen ein Browser-Feature ein, was dem Schepp (der dieses Feature für harmlose Zwecke einsetzt) gar nicht schmeckt. Wir erörtern Fragen rund das Abfragen von Nutzer-Zustimmung für diverse delikate Browserfeatures (z.B. mit der <a href=\"https://www.w3.org/TR/permissions/\">Permissions API</a>)."
+    },
+    {
+      "title": "anime.js und Animationen allgemein",
+      "href": "http://animejs.com/",
+      "time": "00:33:02",
+      "description": "Stefan empfiehlt eine Library für SVG-Animationen und lobpreist vor allem <a href=\"http://animejs.com/documentation/\">die anschauliche Dokumentation</a>. Ohne viel Mühe lassen sich effektvolle <a href=\"https://codepen.io/ddprrt/pen/jLwMZL\">Animationen</a> basteln (<a href=\"https://codepen.io/collection/XLebem/\">mehr auf Codepen</a>).Wir stellen trotz dieser Tollen Library einen Mangel an Standards und Go-To-Lösungen rund um Animationen fest."
+    }
+  ],
+  "links": [
+    {
+      "title": "Umar Hansa: A Modern Front-end Workflow",
+      "href": "https://vimeo.com/238586718",
+      "time": "00:47:12",
+      "description": "Beeindruckender Talk von der Fronteers Conference 2017."
+    }
+  ]
+}

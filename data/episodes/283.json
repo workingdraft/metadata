@@ -1,0 +1,64 @@
+{
+  "id": 283,
+  "date": "2016-12-12",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Christoph Rumpel",
+      "twitter": "https://twitter.com/christophrumpel",
+      "web": "http://christoph-rumpel.com/"
+    },
+    {
+      "name": "Roman Kuba",
+      "twitter": "https://twitter.com/codebryo"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    }
+  ],
+  "duration": "1:12:40",
+  "href": "https://workingdraft.de/283/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3230/0/wd-283.mp3",
+  "title": "vue.js und Chatbots",
+  "description": "Die beiden brachten jeweils ein Thema mit, das wir ausführlich diskutieren konnten.\n\nZur Revision 283 des Working Draft durften wir wieder einmal zwei Gäste empfangen. Mit dabei waren <a href=\"http://christoph-rumpel.com/\">Christoph Rumpel</a>, den ihr bereits aus der <a href=\"http://workingdraft.de/147/\">Revisionen 147</a> kennt, und <a href=\"https://github.com/codebryo\">Roman Kuba</a>, der noch nicht dabei war. Geballte Österreichische Power im Haus!",
+  "news": [],
+  "topics": [
+    {
+      "title": "vue.js",
+      "href": "https://vuejs.org/",
+      "time": "00:01:25",
+      "description": "Der neue Rising Star am JavaScript-Framework-Himmel ist ohne Zweifel vue.js. Roman klärt uns auf, was <a href=\"https://blog.codeship.com/consider-vuejs-next-web-project/\">das Framework so toll macht</a> und wie er darauf kam. Wir diskutieren Unterschiede und Parallelen zu den bekannten Frameworks Angular.js und React.js. Für alle Interessierten bietet der <a href=\"https://vuejsfeed.com/\">Vue.js Feed</a> alle News. Den erwähnten <a href=\"https://laracasts.com/series/learning-vue-step-by-step\">Laracast findet ihr hier</a>."
+    },
+    {
+      "title": "Chatbots",
+      "time": "00:41:07",
+      "description": "Auch auf dem aufsteigenden Ast befinden sich Chatbots. Die kleinen Helferchen stehen uns in Form von Siri und &#8222;OK Google&#8220; ständig zur Verfügung. Allerdings verbirgt sich dahinter so viel mehr. Christoph hat sich mit dem Thema ausführlicher beschäftigt und berichtet unter anderem von der <a href=\"https://liechtenecker.at/die-chatbotconf-2016/\">ersten Chatbot-Conference</a> und <a href=\"https://liechtenecker.at/tools/nela/\">Gehversuche mit Chatbots in seiner Agentur</a>."
+    }
+  ],
+  "links": [
+    {
+      "title": "Fullstack Radio – Vue.js",
+      "href": "http://www.fullstackradio.com/50",
+      "time": "01:10:47",
+      "description": "Ein weiterer Podcast zum Thema Vue.js."
+    },
+    {
+      "title": "NELA Chatbot",
+      "href": "http://m.me/nelabot",
+      "time": "01:10:47",
+      "description": "Der erste Chatbot, den Christophs Agentur Liechtenecker entwickelte."
+    }
+  ]
+}

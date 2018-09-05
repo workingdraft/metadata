@@ -1,0 +1,63 @@
+{
+  "id": 239,
+  "date": "2015-10-27",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    }
+  ],
+  "duration": "48:41",
+  "href": "https://workingdraft.de/239/",
+  "audio": "https://workingdraft.de/podpress_trac/web/2908/0/wd-239.mp3",
+  "title": "Webfonts Best Practices und FLIF",
+  "description": "Eine neue Woche bedeutet auch eine neue Folge Working Draft. Wir rollen das Thema Webfonts mal wieder auf und sprechen über verschiedene Bildformate.",
+  "topics": [
+    {
+      "title": "Using Webfonts in 2015",
+      "href": "https://helloanselm.com/2015/using-webfonts-in-2015/",
+      "time": "00:00:22",
+      "description": "<p>Anselm hat sich mit den Best-Practices von Webfonts befasst und diese in einem Artikel zusammengefasst. Wir sprechen darüber und stellen die Techniken vor.</p>\n<p>Weiterführende Links:</p>\n<ul>\n<li><a href=\"http://google-opensource.blogspot.co.uk/2015/09/introducing-brotli-new-compression.html\">Brotli Kompressionsalgorithmus</a></li>\n<li><a href=\"https://github.com/typekit/webfontloader\">Typekit Webfont Loader</a> und <a href=\"https://github.com/filamentgroup/font-loading\">Filament Group Font Loading</a></li>\n<li><a href=\"https://vimeo.com/118908533\">Zach Leatherman on Better @font-face with Font Load Events</a></li>\n</ul>"
+    },
+    {
+      "title": "FLIF – Free Lossless Image Format",
+      "href": "http://flif.info/",
+      "time": "00:33:16",
+      "description": "<p>Kürzlich wurde das neue Bildformat &#8222;FLIF&#8220; veröffentlicht. Dieses Format verspricht noch bessere Datenkomprimierung. Wir vergleichen mit WebP und anderen Bildformaten.</p>\n<p>Weiterführende Links:</p>\n<ul>\n<li>https://github.com/antimatter15/weppy</li>\n</ul>"
+    }
+  ],
+  "links": [
+    {
+      "title": "Inspecting Security and Privacy Settings of a Website",
+      "href": "https://hacks.mozilla.org/2015/10/inspecting-security-and-privacy-settings-of-a-website/",
+      "time": "00:46:12",
+      "description": "Vorstellung des Mozilla Security und Privacy Settings Insepctors."
+    },
+    {
+      "title": "NightlyBuild Conference Videos",
+      "href": "https://www.youtube.com/watch?v=qITgGuvCKeY&list=PLJDgiixq_VdlQjGN4RYXBAG6Q2dA2h0xW",
+      "time": "00:46:12",
+      "description": "Die Videos der NightlyBuild Conference sind verfügbar. Thema war &#8222;Work-Life-Balance&#8220;."
+    }
+  ]
+}

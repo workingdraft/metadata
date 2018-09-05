@@ -1,0 +1,65 @@
+{
+  "id": 327,
+  "date": "2018-01-31",
+  "people": [
+    {
+      "name": "Dennis Reimann",
+      "twitter": "https://twitter.com/dennisreimann"
+    },
+    {
+      "name": "Jan Persiel",
+      "twitter": "https://twitter.com/janpersiel"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "duration": "1:17:19",
+  "href": "https://workingdraft.de/327/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3584/0/wd-327.mp3",
+  "title": "UI-Engineering",
+  "description": "Nachdem wir das Thema „Zusammenarbeit von Designern und Entwicklern“ <a href=\"http://workingdraft.de/312/\">in Revision 312 schon besprochen hatten</a> legen wir diesmal noch eine Schippe drauf. Unsere Gäste Dennis Reimann (<a href=\"https://dennisreimann.de/\">Webseite</a>, <a href=\"https://twitter.com/dennisreimann\">Twitter</a>) und Jan Persiel (<a href=\"http://persiel.com/\">Webseite</a>, <a href=\"https://twitter.com/janpersiel\">Twitter</a>) nehmen sich dieses Problems auf ihre eigene Weise an und berichten uns von ihrem Kampf für interdisziplinäres UI-Engineering.",
+  "topics": [
+    {
+      "title": "Zusammenarbeit von Designern und Entwicklern",
+      "time": "00:02:00",
+      "description": "Softwareentwickler Dennis Reimann und Designer Jan Persiel sind die Köpfe hinter <a href=\"https://www.uiengineering.de/\">uiengineering.de</a>, einer Initiative für die Verbesserung der Zusammenarbeit zwischen Design und Entwicklung. Unter dem Schlagwort <a href=\"https://twitter.com/hashtag/uiengineering?src=hash\">#uiengineering</a> werden Best Practices verbreitet, gegen die Trennung der Gewerke agitiert und interdisziplinäre Ansätze für UI-Engineering gefordert. Dennis und Jan plaudern über die Grundlagen von gutem UI-Engineering, die Arbeit in Greenfield- und Brownfield-Projekten, über Prototyping (mit Papier und Whiteboard), den Umgang mit besonders schwierigen Fällen (Personen und Unternehmen), den ROI von UI-Engineering (<a href=\"https://www.uiengineering.de/podcast/s02e05-christoph-reinartz.html\">mit Trivago als einem von vielen Beispielen</a>) <a href=\"http://styletil.es/\">Style Tiles</a>, Tools und die Umsetzung von UI-Engineering in Agenturarbeit und Produktentwicklung. Und fällt noch der Name <a href=\"https://github.com/dennisreimann/uiengine\">UIengine</a>, das Ein Werkzeug zum Erzeugen und Verwalten eines Design Systems ist und von Jan und Dennis entwickelt wurde."
+    }
+  ],
+  "links": [
+    {
+      "title": "I’m harvesting credit card numbers and passwords from your site. Here’s how.",
+      "href": "https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5",
+      "time": "01:15:00",
+      "description": "Spoiler: <code>npm install</code>"
+    }
+  ]
+}

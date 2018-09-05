@@ -1,0 +1,82 @@
+{
+  "id": 250,
+  "date": "2016-01-26",
+  "people": [
+    {
+      "name": "Bruce Lawson",
+      "twitter": "https://twitter.com/brucel",
+      "web": "http://www.brucelawson.co.uk/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    }
+  ],
+  "duration": "54:59",
+  "href": "https://workingdraft.de/250/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3002/0/wd-250.mp3",
+  "title": "Achtung Baby!",
+  "description": "For our 250th episode, we managed to get our greedy hands on no one less than <a href=\"https://twitter.com/brucel\">Bruce Lawson</a> from <a href=\"http://www.opera.com/\">Opera</a>. Having barely returned from a trip to Asia and still dizzy from his jetlag, we managed to extract a whole bunch of classified information on CSS Houdini out of him (also thanks to our German interview style). And a little bit more as well:",
+  "topics": [
+    {
+      "title": "Safari 9.1",
+      "href": "https://developer.apple.com/library/prerelease/mac/releasenotes/General/WhatsNewInSafari/Articles/Safari_9_1.html#//apple_ref/doc/uid/TP40014305-CH10-SW1",
+      "time": "00:02:01",
+      "description": "We talked about the new Safari version, what features it brings, and how it looks like it&#8217;s the first installment of a new rapid release cycle."
+    },
+    {
+      "title": "The CSS Houdini Project",
+      "href": "https://wiki.css-houdini.org/",
+      "time": "00:12:13",
+      "description": "Bruce told us what the purpose of CSS Houdini is, how at came to be, which parts it consists of, and when to expect first experiments shipping to us in a browser (maybe this year already!)."
+    },
+    {
+      "title": "Subgrids Considered Essential",
+      "href": "http://meyerweb.com/eric/thoughts/2016/01/15/subgrids-considered-essential/",
+      "time": "00:37:50",
+      "description": "Prompted by a blog post from Eric Meyer we discussed the current CSS Grids spec and how it is badly lacking a subgrids feature."
+    }
+  ],
+  "links": [
+    {
+      "title": "The web accessibility basics",
+      "href": "https://www.marcozehe.de/2015/12/14/the-web-accessibility-basics/",
+      "time": "00:51:18",
+      "description": "Accessibility can never be overly discussed. Marco wrote a good roundup on how do accessibility basics right, and he also takes a glimpse at a few more advanced things."
+    },
+    {
+      "title": "Simple standalone toggletip widget pattern",
+      "href": "https://www.paciellogroup.com/blog/2016/01/simple-standalone-toggletip-widget-pattern/",
+      "time": "00:51:18",
+      "description": "Likewise, Steve Faulkner from the Partiello Group showcases a prototype for an accessible info tooltip widget."
+    }
+  ]
+}

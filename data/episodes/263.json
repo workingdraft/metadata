@@ -1,0 +1,40 @@
+{
+  "id": 263,
+  "date": "2016-05-29",
+  "people": [
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    },
+    {
+      "name": "Peter-Paul Koch",
+      "twitter": "https://twitter.com/ppk"
+    },
+    {
+      "name": "Jeremy Keith",
+      "twitter": "https://twitter.com/adactio",
+      "web": "http://adactio.com/"
+    },
+    {
+      "name": "Christian Heilmann",
+      "twitter": "https://twitter.com/codepo8",
+      "web": "http://christianheilmann.com/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    }
+  ],
+  "duration": "1:10:29",
+  "href": "https://workingdraft.de/263/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3108/0/wd-263.mp3",
+  "title": "Im Gespräch mit PPK, Chris Heilmann und Jeremy Keith",
+  "description": "Voll am podcasten hier, der <a href=\"https://twitter.com/workingdraft\">@workingdraft</a> <a href=\"https://twitter.com/hashtag/btconf?src=hash\">#btconf</a> <a href=\"https://t.co/4Kzyid5Ujl\">pic.twitter.com/4Kzyid5Ujl</a>\n\n&mdash; position: absolutely (@tcaspers) <a href=\"https://twitter.com/tcaspers/status/729990542503882752\">10. Mai 2016</a>\n\nAuch dieses Jahr waren wir auf der Düsseldorfer <a href=\"https://beyondtellerrand.com/blog/wrap-up-dus2016\">beyond tellerrand</a>, wo wir nicht nur <a href=\"https://vimeo.com/channels/beyondtellerrand/videos\">fantastische Talks</a> gesehen, sondern uns auch wieder jemanden zum Ausfragen geschnappt haben. Anstatt dass es wie sonst nur ein Interviewpartner war, ergab es sich, dass wir derer drei zusammenbekamen: Während drinnen Vorträge liefen, starteten Rodney und Schepp mit <a href=\"https://twitter.com/ppk\">PPK</a> und <a href=\"https://twitter.com/codepo8\">Chris Heilmann</a> ein, und zur Pause gesellte sich spontan noch <a href=\"https://twitter.com/adactio\">Jeremy Keith</a> dazu. Im Hof des Capitols sitzend sprachen wir, wie sollte es in dieser Runde anders sein, über übertriebenes Tooling und die Kaputtheit des Webs. Für die Ton-Qualität, die eher mittel (und heftig geräuschgefiltert) ist, entschuldigen wir uns, aber ein Interview im Innenbereich war für uns ebenso wenig praktikabel. Viel Spaß beim Hören!"
+}

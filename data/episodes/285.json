@@ -1,0 +1,72 @@
+{
+  "id": 285,
+  "date": "2016-12-29",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Vitaly Friedman",
+      "twitter": "https://twitter.com/smashingmag"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    }
+  ],
+  "duration": "1:26:02",
+  "href": "https://workingdraft.de/285/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3245/0/wd-285.mp3",
+  "title": "Plausch mit Vitaly Friedman",
+  "description": "Zum Jahresende haben sich Hans, Anselm, Schepp und Stefan niemand geringeren als <a href=\"https://twitter.com/smashingmag\">Vitaly Friedman</a> vom Smashing Magazine eingeladen, um<br>\nausgiebig über aktuelle Trends, Vitalys Werdegang und natürlich das Smashing Magazine zu plaudern.",
+  "topics": [
+    {
+      "title": "Vitaly Friedman",
+      "href": "https://smashingmagazine.com",
+      "time": "00:01:24",
+      "description": "Vitaly erzählt uns von seinem Werdegang: Aufgewachsen in Weißrussland kommt er zur Jahrtausendwende nach Deutschland und bringt sich im Autodidakt die nötigen Dinge fürs Web Design bei (und schwört immer noch auf Adobe Imagestyler). Nach einigen Projekten landet er bei Doktor Web und schließlich beim Smashing Magazine."
+    },
+    {
+      "title": "Web Performance und Style Guides",
+      "href": "https://www.smashingmagazine.com/2016/12/front-end-performance-checklist-2017-pdf-pages/",
+      "time": "00:18:50",
+      "description": "Vitaly ist auch als Consultant unterwegs und berät weltweit Firmen zu UX und Technikthemen. Aktuell beschäftigt er sich sehr stark mit Web Performance (siehe oben) und <a href=\"https://www.smashingmagazine.com/taking-pattern-libraries-next-level/\">Pattern Libraries</a>. Wir plaudern über aktuelle Technologien und Tools zu diesen Themen, und sind sehr begeistert von <a href=\"http://airbnb.design/airshots-discovering-a-workflow-for-app-screenshots/\">Air/Shots</a>, HTTP/2 und <a href=\"https://zeplin.io/\">Zeplin</a>."
+    },
+    {
+      "title": "Des Frequent Flyers Geldspartipps.",
+      "time": "00:49:52",
+      "description": "Vitaly fliegt viel. Sehr, sehr viel. Viele Reisen bedeuten auch viele kleine Optimierungsmöglichkeiten, wie man das maximale aus einem minimalen Flugbudget bekommt."
+    },
+    {
+      "title": "Schreiben für das Smashing Magazine",
+      "href": "https://www.smashingmagazine.com/2016/08/behind-the-scenes-what-it-takes-to-publish-a-smashing-article/",
+      "time": "01:12:54",
+      "description": "Das Smashing Magazine hat sich von einer Top-Ten-Listen-Seite zu einem der renommiertesten Web Magazine gemausert. Dazu gehört eine unglaublich genaue Qualitätskontrolle und auch viel Ausmusterung des Contents. Vitaly erzählt über den Review Prozess, Stefan steuert seine eigenen Erfahrungen bei."
+    }
+  ]
+}

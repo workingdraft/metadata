@@ -1,0 +1,55 @@
+{
+  "id": 268,
+  "date": "2016-07-31",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    }
+  ],
+  "duration": "57:37",
+  "href": "https://workingdraft.de/268/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3141/0/wd-268.mp3",
+  "title": "Konferenz- und Meetup-Organisation",
+  "description": "Die Working Draft Crew ist ja nicht nur fleissig am sprechen, sondern lädt auch gern mal Sprechende zu der einen oder anderen Veranstaltung ein. Hans, Schepp und Stefan plaudern über Organisation von Meetups und Konferenzen",
+  "topics": [
+    {
+      "title": "Titelthema",
+      "time": "00:00:17",
+      "description": "Was euch nun erwartet ist eine knappe Stunde Plaudern aus dem Nähkästchen. Wir sprechen über Hosting, wechselnde Gastgeber, Sponsoring. Die Vorteile von Meetups, die Vorteile von Konferenzen. Und weil wir unsere Finger doch in einigen Projekten haben, gibt&#8217;s hier eine Auflistung ebenjener:<p></p>\n<p>Hans:</p>\n<ul>\n<li><a href=\"https://www.nightlybuild.io\">Nightly Build 2016</a></li>\n</ul>\n<p>Schepp:</p>\n<ul>\n<li><a href=\"http://webworker-nrw.de/\">Webworker NRW Meetup</a></li>\n<li><a href=\"http://multimediatreff.de/\">Multimediatreff</a> &#8211; Der Multimediatreff kommt wieder! Vermutlich Ende November</li>\n</ul>\n<p>Stefan:</p>\n<ul>\n<li><a href=\"http://technologieplauscherl.at/\">Technologieplauscherl Meetup</a></li>\n<li><a href=\"http://www.meetup.com/de-DE/stahlstadt-js/\">Stahlstadt.js Meetup</a></li>\n<li><a href=\"http://www.scriptconf.org/\">Script&#8217;17</a> &#8211; JavaScript Event</li>\n</ul>"
+    }
+  ],
+  "links": [
+    {
+      "title": "CSJS – ECMAScript 2016 Stylesheets",
+      "href": "https://github.com/rtsao/csjs",
+      "time": "00:54:41",
+      "description": "Stefan hat ja sehr eindeutige Meinungen zu CSS in JS Methodologien. Diese hier findet er allerdings ganz sauber! Gilt das schon als Hölle zufrieren?"
+    },
+    {
+      "title": "Lightbike",
+      "href": "https://github.com/voxmedia/lightbike",
+      "time": "00:54:41",
+      "description": "Performance Budgets und Webdriver. Fein."
+    }
+  ]
+}

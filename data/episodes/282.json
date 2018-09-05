@@ -1,0 +1,47 @@
+{
+  "id": 282,
+  "date": "2016-12-5",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Tobias Block",
+      "twitter": "https://twitter.com/tobiasblock"
+    }
+  ],
+  "duration": "1:09:53",
+  "href": "https://workingdraft.de/282/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3220/0/wd-282.mp3",
+  "title": "AMP aus Anwenderperspektive",
+  "description": "Ein weiteres Mal widmen wir uns Googles <a href=\"https://www.ampproject.org/\">AMP</a>. Um nach der <a href=\"http://workingdraft.de/251/\">Revision mit dem AMP-Projektleiter</a> auch mal die Nutzerperspektive kennen zu lernen, luden wir uns <a href=\"https://twitter.com/tobiasblock\">Tobias Block</a> aus Düsseldorf ein, der sich als Mobile-Frontend-Developer für <a href=\"http://www.rp-online.de/\">RP-Online</a> verdingt und uns Einblicke aus der täglichen AMP-Praxis gab.",
+  "topics": [
+    {
+      "title": "AMP aus Anwenderperspektive",
+      "time": "00:01:20",
+      "description": "Nach einem kurzen AMP-Überblick kommen wir zum Kernfeature von AMP: eine komplexen Webseite eines großen Unternehmens ist mit AMP einfach schnell zu machen. Wir sprechen unter anderem über AMP und Werbung, Erträge, Links, Pageviews mit AMP, vergleichen AMP mit normalen mobilen Webseiten, spekulieren über finstere Machenschaften auf Seiten von Google, Features und noch offene Wünsche und wie sich AMP als Werkzeug auf Ganze-Firma-Skala betrachten lässt."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": 316,
+  "date": "2017-11-19",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    }
+  ],
+  "duration": "47:36",
+  "href": "https://workingdraft.de/316/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3512/0/wd-316.mp3",
+  "title": "Google Lighthouse",
+  "description": "Hans, Stefan und Schepp nahmen mal wieder einen Artikel als Anlass über ein umfassenderes Thema zu reden, was diesmal Google Lighthouse war.",
+  "topics": [
+    {
+      "title": "Google Lighthouse",
+      "href": "https://developers.google.com/web/tools/lighthouse/",
+      "time": "00:00:14",
+      "description": "Ein Artikel von Umar Hansa über <a href=\"https://www.sitepen.com/blog/2017/10/06/improving-performance-with-the-paint-timing-api/\">Chromes Paint Timing API</a> bringt uns auf die Idee, ein wenig über Googles Lighthouse zu plaudern. Lighthouse ist sowas wie das ultimative Website-Auditing-Tool, das Kriterien aus dem Bereich Progressive Web Apps, Performance, Barrierefreiheit und allgemein best-Practices unterstützt. Zudem werden Webseiten seit kurzem auch <a href=\"https://snyk.io/blog/snyk-and-lighthouse/\">auf Sicherheitslücken in verwendeten JavaScript-Bibliotheken getestet</a>. Damit löst es auch auch ein Stück weit die alten <a href=\"https://jakearchibald.com/2016/performance-benefits-of-rel-noopener/\">Google Pagespeed Insights</a> ab. Als Hintergrund zu den sogenannten &#8222;passiven Eventlistenern&#8220; verweist Schepp auf <a href=\"https://blogs.windows.com/msedgedev/2017/03/08/scrolling-on-the-web/#k0iGeWlcGJsgbSlI.97\">ein sehr interessantes Blogpost</a> dazu im Edge Blog. Und warum externe Links besser als Attribut <code>[rel=\"noopener\"]</code> verpasst bekommen sollten, das hat vor einiger Zeit Jake Archibald <a href=\"https://jakearchibald.com/2016/performance-benefits-of-rel-noopener/\">verbloggt</a>."
+    }
+  ],
+  "links": [
+    {
+      "title": "PWA Checklist",
+      "href": "https://developers.google.com/web/progressive-web-apps/checklist",
+      "time": "00:45:56",
+      "description": "Eine Checkliste von Dingen, die beim Bauen von Progressive Web Apps zu beachten sind."
+    },
+    {
+      "title": "wretch",
+      "href": "https://github.com/elbywan/wretch",
+      "time": "00:45:56",
+      "description": "Syntaktischer Zucker für die Fetch API."
+    }
+  ]
+}

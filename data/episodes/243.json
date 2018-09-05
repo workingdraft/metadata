@@ -1,0 +1,76 @@
+{
+  "id": 243,
+  "date": "2015-12-2",
+  "people": [
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    }
+  ],
+  "duration": "1:01:44",
+  "href": "https://workingdraft.de/243/",
+  "audio": "https://workingdraft.de/podpress_trac/web/2933/0/wd-243.mp3",
+  "title": "Unlearning und Diversity",
+  "description": "Diesmal haben wir (Peter, Schepp, Hans und Anselm) <a href=\"https://twitter.com/molily\">Mathias Schäfer</a> eingeladen und unterhalten uns über Unlearning und Diversity, sowie den Einstieg in die Webentwicklung.",
+  "topics": [
+    {
+      "title": "Unlearning",
+      "time": "00:01:40",
+      "description": "Mathias hat durch seine Arbeit früher bei selfhtml und heute bei <a href=\"http://www.opentechschool.org/\">OpenTechSchool</a> tiefe Einblicke in die &#8222;Kultur&#8220; der Webentwickler-Community. Wir nehmen das als Anlass und lassen uns von Problemen erzählen, wie schwierig es für Neulinge ist, sich in einer Entwicklergemeinde willkommen zu fühlen. Wir sprechen über Initiativen wie die <a href=\"http://railsgirls.com/\">RailsGirls</a>, nehmen ein <a href=\"https://www.youtube.com/watch?v=hYoNQMysDNM\">Velocity-Conference Video</a> als Anlass darüber, wie wir mehr Diversity erreichen können und kommen leider zwangsläufig auf <a href=\"http://www.attendly.com/linux-founder-linus-torvalds-delivers-a-smackdown-like-no-other/\">Negativbeispiele und die Nicht-Willkommenskultur</a> zu sprechen. Wir finden jedoch auch Lösungen, wie zum Beispiel die, privat oder bei der Open Tech School Mentor zu werden."
+    }
+  ],
+  "links": [
+    {
+      "title": "A Cartoon Intro To Redux",
+      "href": "https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.emp7zazfi",
+      "time": "00:58:51",
+      "description": "Eine anschauliche Erklärung der Unterschiede zwischen Flux und Redux als Cartoon."
+    },
+    {
+      "title": "JavaScript dates, trains, Passover, and Henry VIII",
+      "href": "https://curtisautery.appspot.com/5779342353235968",
+      "time": "00:58:51",
+      "description": "Wir haben einen sehr interessanten, wenn auch lang und komplizierten Beitrag zum Thema JavaScript Dates gefunden."
+    },
+    {
+      "title": "Mozilla’s Service Workers Cookbook",
+      "href": "https://serviceworke.rs/",
+      "time": "00:58:51",
+      "description": "Eine Kollektion an <a href=\"https://hacks.mozilla.org/2015/11/offline-service-workers/\">Service Worker Beispielen</a>. Und hier könnt ich nachsehen, <a href=\"https://jakearchibald.github.io/isserviceworkerready/\">welche Service Worker features ihr wo benutzen könnt</a>."
+    },
+    {
+      "title": "Model View Culture Magazine",
+      "href": "https://modelviewculture.com/",
+      "time": "00:58:51",
+      "description": "Passend zu unserem Hauptthema haben wir hier noch einen Link zu einem guten Magazin über Technologie und Diversity-Kultur."
+    }
+  ]
+}

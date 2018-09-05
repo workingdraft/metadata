@@ -1,0 +1,75 @@
+{
+  "id": 261,
+  "date": "2016-05-16",
+  "people": [
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    }
+  ],
+  "duration": "57:04",
+  "href": "https://workingdraft.de/261/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3099/0/wd-261.mp3",
+  "title": "SVG Icons, Element/Container Queries",
+  "description": "Anselm, Schepp und Stefan nehmen sich zwei herumsurrende Artikel als Anstoß für ein ausgedehntes Plaudern aus dem Nähkästchen.",
+  "topics": [
+    {
+      "title": "Converting Font Icons to SVG",
+      "href": "https://sarasoueidan.com/blog/icon-fonts-to-svg/",
+      "time": "00:00:27",
+      "description": "Sara Soueidan erklärt den Icon Fonts den Tod mit diesem ausführlichen Migrations-Guide. Wir sprechen über unsere Erfahrungen und den Problemchen, loben aber auch gleichzeitig neue Workflows und ein viel &#8222;sauberes&#8220; Entwicklungserlebnis."
+    },
+    {
+      "title": "Container Queries: Once more unto the breach",
+      "href": "http://alistapart.com/article/container-queries-once-more-unto-the-breach",
+      "time": "00:25:20",
+      "description": "Media Queries sind fein, man stößt allerdings schnell an seine Grenzen wenn man nicht das gesamte Bild betrachten möchte, sondern im Detail pro Komponente das Look and Feel bestimmen möchte. Container Queries sind der Titel einer neuen Spezifikation, die sich genau um solche Dinge kümmern wollen. Wir erklären warum die ehemals genannten &#8222;Element Queries&#8220; nun anders heißen, welches grundlegende Problem mit dieser Neubenamsung umgangen wird und wie man sie heute schon einsetzen kann. Schepp zum Beispiel schwört auf diesen <a href=\"https://github.com/marcj/css-element-queries\">Polyfill</a>."
+    }
+  ],
+  "links": [
+    {
+      "title": "Hotel",
+      "href": "https://www.npmjs.com/package/hotel",
+      "time": "00:51:21",
+      "description": "Hotel lässt alle eure Entwicklungsserver und die damit verbundenen Host-Einträge bequem über eine Weboberfläche verwalten."
+    },
+    {
+      "title": "Riot.js",
+      "href": "http://riotjs.com/",
+      "time": "00:51:21",
+      "description": "Eine User Interface Bibliothek, die sich an React hält aber mit deutlich geringerem Footprint auskommt."
+    },
+    {
+      "title": "Stylefmt",
+      "href": "https://github.com/morishitter/stylefmt",
+      "time": "00:51:21",
+      "description": "Coding Guidelines sind wichtig, sie einzuhalten kann schwer sein. Stylefmt formatiert eure Stylesheets nach einem festgelegten Regelwerk. Pre-Commit-Hook, und fertig ist die Einheitlichkeit."
+    },
+    {
+      "title": "Rollupify",
+      "href": "https://github.com/nolanlawson/rollupify",
+      "time": "00:51:21",
+      "description": "Rollup ist groß. Browserify ist groß. Beides zusammen gibt laut Engineering-Meister Rodney in seinem Projekt über 40% Platzeinsparung. Hossa!"
+    }
+  ]
+}

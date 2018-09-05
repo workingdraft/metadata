@@ -1,0 +1,68 @@
+{
+  "id": 277,
+  "date": "2016-09-19",
+  "people": [
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    }
+  ],
+  "duration": "36:41",
+  "href": "https://workingdraft.de/277/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3180/0/wd-277.mp3",
+  "title": "Accessibility Object Model und Custom Elements",
+  "description": "Rodney, Schepp und Stefan widmen sich heute inoffiziellen und halbgar implementierten Standards um einen Ausblick in eine erstaunliche Zukunft zu bekommen, die jetzt schon zum Greifen nah ist.",
+  "topics": [
+    {
+      "title": "Accessibility Object Model",
+      "href": "http://a11y-api.github.io/a11y-api/spec/",
+      "time": "00:00:15",
+      "description": "Das AOM erlaubt Lese- und Schreibzugriff auf Accessibility-Daten im Browser. Damit können Applikationen den Status verändern, Tools entsprechende Dinge auswerten, man kann sogar einen Screenreader in JavaScript damit bauen. Das ganze gibt&#8217;s halt noch nicht, hat aber zumindest alle wichtigen Browserhersteller an Bord. Selbsternannter Accessibility-Halbwissender Rodney Rehm erklärt uns die Details."
+    },
+    {
+      "title": "The Case for Custom Elements",
+      "href": "https://medium.com/dev-channel/the-case-for-custom-elements-part-1-65d807b4b439#.ng6adh7i3",
+      "time": "00:12:27",
+      "description": "Rob Dodson von Google erklärt wie Custom Elements schon jetzt, ganz ohne der vollständigen Web Components Implementierung und fragwürdiger Browserunterstützung eine sinnvolle Ergänzung im Werkzeuggürtel des Webworkers sind. Kapselung von Daten, Wiederverwendbarkeit weit über JavaScript Frameworks hinaus sind nur ein kleiner Bestandteil. Wir analysieren, vergleichen mit dem Status von Polymer, zerbrechen uns den Kopf zum Shadow DOM und finden&#8217;s richtig gut, was man jetzt schon anstellen kann damit. Großes Plus: Mal so schnell alle Benefits von React mit nativen Schnittstellen und einer kleinen 4K API zum DOM-Diffen. Ja warum denn nicht?"
+    }
+  ],
+  "links": [
+    {
+      "title": "I wanted to type a number",
+      "href": "https://www.filamentgroup.com/lab/type-number.html",
+      "time": "00:34:00",
+      "description": "Nummernkeyboards, jede Menge davon. Und wie man sie alle richtig, gut und weiterführend einsetzt."
+    },
+    {
+      "title": "HTC Vive Support in Firefox Nightly",
+      "href": "https://medium.com/mozilla-tech/experimental-htc-vive-support-in-firefox-nightly-3ab9eeb5dfd9#.z9e3kvsjp",
+      "time": "00:34:00",
+      "description": "Virtual Reality und Co sind interessant für dich? Dann hat der Firefox Nightly was in petto um herumzuspielen. Höchst experimentell, aber das wollen wir ja so in dieser Revision."
+    },
+    {
+      "title": "Script’17 Ticketverkauf",
+      "href": "https://scriptconf.org",
+      "time": "00:34:00",
+      "description": "Stefans JavaScript Event im Jänner hat mit dem Ticketverkauf begonnen. Die Early Birds gibt&#8217;s um 120 Euro (und sind fast alle weg), die Standard-Tickets um 150 Euro inkl. Steuern. Line-up Ankündigung folgt Mitte September."
+    }
+  ]
+}

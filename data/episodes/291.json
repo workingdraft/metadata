@@ -1,0 +1,41 @@
+{
+  "id": 291,
+  "date": "2017-02-28",
+  "people": [
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    }
+  ],
+  "duration": "44:31",
+  "href": "https://workingdraft.de/291/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3313/0/wd-291.mp3",
+  "title": "h-Element und ES2017",
+  "description": "Peter und Anselm widmeten sich diese Woche in gebotener Kürze einem (vielleicht) neuen HTML-Element sowie den Features von ES2017. Es gab während der Aufnahme keinerlei technische Probleme und wer glaubt, irgendwelche Schnitte zu hören, ist Fake News aufgesessen. Sad!",
+  "topics": [
+    {
+      "title": "Das <h>-Element",
+      "time": "00:00:17",
+      "description": "Das W3C <a href=\"https://github.com/w3c/html/issues/774\">diskutiert ein neues HTML-Element</a>, das die althergebrachten Überschriften <code>&lt;h1&gt;</code> bis <code>&lt;h6&gt;</code> ersetzen bzw. ergänzen soll. Während wir zwar den Use Case im Prinzip anerkennen, sehen wir aber doch recht viele Probleme: das größte ist, dass das &lt;h&gt;-Element eigentlich ein Sub-Feature des <a href=\"https://html.spec.whatwg.org/multipage/semantics.html#outline\">Outline-Algorithmus von HTML5</a> ist, der seit Jahren unimplementiert vor sich hin schimmelt. Styling ist eine weitere unüberwundene Hürde. Hingegen kritisiert Jake Archibald vor allem <a href=\"https://jakearchibald.com/2017/do-we-need-a-new-heading-element/\">eine mangelhafte Entscheidungsgrundlage</a>&nbsp;&ndash; es gibt viele Behauptungen und wenig Daten. Prognose: das mit dem &lt;h&gt;-Element wird nichts."
+    },
+    {
+      "title": "What’s new in ECMAScript 2017",
+      "href": "https://pawelgrzybek.com/whats-new-in-ecmascript-2017/",
+      "time": "00:20:56",
+      "description": "Pawel Grzybek hat eine kleine Liste mit den Features von ES2017 zusammengetragen und wir sprechen die einzelnen Neuerungen kurz durch. Von <a href=\"https://ponyfoo.com/articles/understanding-javascript-async-await\">async/await</a> über <a href=\"http://www.2ality.com/2017/01/shared-array-buffer.html\">Shared Memory</a> und kleine Neuerungen für Strings und Objekte bis hin zu <a href=\"https://pawelgrzybek.com/trailing-comma-in-ecmascript2017-function-parameter-list/\">mehr Kommas für Funktionsparameter</a> lassen wir kein Feature unerwähnt, empfehlen aber für genauere Infos doch die verlinkten Artikel."
+    }
+  ]
+}

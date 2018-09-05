@@ -5,9 +5,12 @@
   "live": true,
   "people": [
     {
-      "name": "Bruce Lawson",
-      "twitter": "https://twitter.com/brucel",
-      "web": "http://www.brucelawson.co.uk/"
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
     },
     {
       "name": "Christian Schaefer",

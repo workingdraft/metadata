@@ -1,0 +1,116 @@
+{
+  "id": 246,
+  "date": "2015-12-25",
+  "people": [
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    }
+  ],
+  "duration": "1:06:52",
+  "href": "https://workingdraft.de/246/",
+  "audio": "https://workingdraft.de/podpress_trac/web/2970/0/wd-246.mp3",
+  "title": "Der Blick in die Glaskugel",
+  "description": "Da sich das Jahr dem Ende zuneigt, haben sich Rodney und Schepp die Glaskugel geschnappt und wagen ein paar Prognosen für 2016: Welche Webtechnologien werden massenfähig? Welches Framework spielt eine gewichtige Rolle? Mit welcher neuen Technologie dürfen wir herumspielen?",
+  "topics": [
+    {
+      "title": "Apple kommt in die Pötte",
+      "href": "https://webkit.org/status/",
+      "time": "00:00:14"
+    },
+    {
+      "title": "Service Workers allerorten",
+      "href": "http://caniuse.com/#feat=serviceworkers",
+      "time": "00:00:14"
+    },
+    {
+      "title": "Eine exponentielle Zunahme von HTTPS",
+      "href": "https://letsencrypt.org/",
+      "time": "00:00:14"
+    },
+    {
+      "title": "Viele Webserver werden auf HTTP/2 upgraden",
+      "href": "https://schepp.github.io/HTTP-2",
+      "time": "00:00:14"
+    },
+    {
+      "title": "Immer mehr Produkte werden REST Schnittstellen haben (siehe auch JSON API und HAL)",
+      "href": "http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api",
+      "time": "00:00:14"
+    },
+    {
+      "title": "Immer mehr Produkte werden REST Schnittstellen haben (siehe auch JSON API und HAL)",
+      "href": "http://jsonapi.org/",
+      "time": "00:00:14"
+    },
+    {
+      "title": "Immer mehr Produkte werden REST Schnittstellen haben (siehe auch JSON API und HAL)",
+      "href": "http://stateless.co/hal_specification.html",
+      "time": "00:00:14"
+    },
+    {
+      "title": "Angular 2",
+      "href": "https://angular.io/",
+      "time": "00:00:14"
+    },
+    {
+      "title": "Web Components werden ohne groß Tammtamm eingesetzt (siehe auch What happened to Web Components? und The state of Web Components)",
+      "href": "http://caniuse.com/#search=components",
+      "time": "00:00:14"
+    },
+    {
+      "title": "Web Components werden ohne groß Tammtamm eingesetzt (siehe auch What happened to Web Components? und The state of Web Components)",
+      "href": "http://www.2ality.com/2015/08/web-component-status.html",
+      "time": "00:00:14"
+    },
+    {
+      "title": "Web Components werden ohne groß Tammtamm eingesetzt (siehe auch What happened to Web Components? und The state of Web Components)",
+      "href": "https://hacks.mozilla.org/2015/06/the-state-of-web-components/",
+      "time": "00:00:14"
+    },
+    {
+      "title": "Wir werden erste Webseiten mit CSS Grids bauen",
+      "href": "https://rachelandrew.co.uk/archives/2015/11/03/three-years-with-css-grid-layout/",
+      "time": "00:00:14"
+    },
+    {
+      "title": "ES7/Next/2016 kommt auf uns zu und wird dank Babel direkt nutzbar sein (siehe auch: nativer Browsersupport)",
+      "href": "https://speakerdeck.com/rauschma/from-es5-to-es6-es2015-and-es2016",
+      "time": "00:00:14"
+    },
+    {
+      "title": "ES7/Next/2016 kommt auf uns zu und wird dank Babel direkt nutzbar sein (siehe auch: nativer Browsersupport)",
+      "href": "https://babeljs.io/",
+      "time": "00:00:14"
+    },
+    {
+      "title": "ES7/Next/2016 kommt auf uns zu und wird dank Babel direkt nutzbar sein (siehe auch: nativer Browsersupport)",
+      "href": "http://kangax.github.io/compat-table/es6/",
+      "time": "00:00:14"
+    },
+    {
+      "title": "WebAssembly könnte ein paar interessante Dinge hervorbringen",
+      "href": "https://github.com/WebAssembly/design/blob/master/README.md",
+      "time": "00:00:14"
+    }
+  ],
+  "links": [
+    {
+      "title": "The “Blur Up” Technique for Loading Background Images",
+      "href": "https://css-tricks.com/the-blur-up-technique-for-loading-background-images/",
+      "time": "01:05:03",
+      "description": "Schöne Art und Weise, niedrigaufgelöste weichgezeichnete Bilder als Platzhalter für die höher aufgelösten zu verwenden"
+    }
+  ]
+}

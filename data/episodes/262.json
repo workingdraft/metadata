@@ -1,0 +1,100 @@
+{
+  "id": 262,
+  "date": "2016-05-16",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    }
+  ],
+  "duration": "54:21",
+  "href": "https://workingdraft.de/262/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3096/0/wd-262.mp3",
+  "title": "News, Glücksrad, Links",
+  "description": "In Ermangelnung großer Themen ließen Stefan, Schepp, Peter und Anselm mal wieder das Glücksrad rotieren.",
+  "news": [
+    {
+      "title": "Geolocation API removed from unsecured origins in Chrome 50",
+      "href": "https://developers.google.com/web/updates/2016/04/geolocation-on-secure-contexts-only?hl=en",
+      "time": "00:00:15",
+      "description": "Ab jetzt gibt es Ortung nur noch mit HTTPS."
+    }
+  ],
+  "randomSpec": [
+    {
+      "title": "window.open()",
+      "href": "https://html.spec.whatwg.org/multipage/browsers.html#dom-open",
+      "time": "00:00:46",
+      "description": "Popups, blast from the past! Wir erinnern uns an die seltsamen Parameter dieser Funktion (die interessanterweise in <a href=\"https://drafts.csswg.org/cssom-view/#the-features-argument-to-the-open()-method\">einer CSS-Spezifikation</a> festgehalten sind) sowie an <a href=\"https://mathiasbynens.github.io/rel-noopener/\">rel=noopener</a>."
+    },
+    {
+      "title": "CSS Marquee Module Level 3",
+      "href": "https://www.w3.org/TR/css3-marquee/",
+      "time": "00:00:46",
+      "description": "Stellt sich raus: das gibt‘s gar nicht."
+    },
+    {
+      "title": "CSS Scroll Snap Points",
+      "time": "00:00:46",
+      "description": "Kurze Diskussion über Sinn und Zweck der Scroll Snap Points, die <a href=\"https://www.w3.org/TR/css-snappoints-1/\">zwei</a> <a href=\"https://drafts.csswg.org/css-scroll-snap/\">verschiedenen</a> Spezifikationsversionen und Vorreiterrolle des IE."
+    },
+    {
+      "title": "Microdata",
+      "time": "00:00:46",
+      "description": "Erfolgloser Versuch, zwischen <a href=\"http://microformats.org/\">Microformats</a>, <a href=\"http://rdfa.info/\">RDFa</a> und <a href=\"https://html.spec.whatwg.org/#microdata\">HTML5-Microdata</a> den Überblick zu behalten. Anschließende Grundsatzdebatte über Semantik (und <a href=\"http://json-ld.org/\">JSON-LD</a>), SEO (und <a href=\"https://schema.org/\">schema.org</a>) und <a href=\"https://xkcd.com/927/\">Standards</a>."
+    },
+    {
+      "title": "CSS Round Display",
+      "href": "https://www.w3.org/TR/css-round-display-1/",
+      "time": "00:00:46",
+      "description": "Wurde bereits in <a href=\"http://workingdraft.de/236/\">Revision 236</a> für mehr so mittelgut befunden."
+    },
+    {
+      "title": "a href=“https://www.w3.org/TR/css3-hyperlinks/“>CSS3 Hyperlink Presentation Module",
+      "time": "00:00:46",
+      "description": "Ein weiterer ad acta gelegter Spezifikationsentwurf."
+    },
+    {
+      "title": "Cascading Style Sheets, level 1",
+      "href": "https://www.w3.org/TR/CSS1/",
+      "time": "00:00:46",
+      "description": "Wir bewundern das revolutionäre Frühwerk der Standards-Entwicklung."
+    }
+  ],
+  "links": [
+    {
+      "title": "Caching best practices & max-age gotchas",
+      "href": "https://jakearchibald.com/2016/caching-best-practices/",
+      "time": "00:53:33",
+      "description": "Jake Archibald in gewohnt lehrreich-humorvollem Stil."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 325,
+  "date": "2018-01-14",
+  "people": [
+    {
+      "name": "Jan Krutisch"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    }
+  ],
+  "duration": "56:23",
+  "href": "https://workingdraft.de/325/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3571/0/wd-325.mp3",
+  "title": "Die Web Audio API",
+  "description": "Dieses Mal hatten wir <a href=\"https://jan.krutisch.de\">Jan Krutisch</a> zu Gast, der mit uns einen Ausflug in die Welt der Synthesizer und Audioeffekte unternahm. Thema war nämlich die Web Audio API, mit der Jan das Glück hat, sich immer wieder beschäftigen zu dürfen, etwa in Form des <a href=\"https://www.youtube.com/watch?v=X41IwSyU-BM\">liv3c0ders</a> oder der <a href=\"https://novationmusic.de/circuit-components\">Novation Circuit Components</a>.",
+  "topics": [
+    {
+      "title": "Die Web Audio API",
+      "href": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API",
+      "time": "00:02:53",
+      "description": "Wir lernen, dass die Web Audio API einem Fließband-System ähnelt: Gespeist wird es aus einer Ton-Quelle (MP3 oder Oszillator), die im Folgenden durch beliebige viele angestöpselte Modifikator-Stationen verändert wird, bevor das Resultat dann ausgegeben wird. Im einfachsten Fall kommt dabei <a href=\"https://www.youtube.com/watch?v=2gSfPLUgWzs\">Kunst</a> heraus, im besten Fall ein Produkt für den Musikbereich, wie <a href=\"https://learningmusic.ableton.com/\">Ableton Learning Music</a> oder <a href=\"http://loopjs.com/\">Loop Drop</a>. Folgende verlinkenswerte Stichworte fielen im Verlauf unseres Gesprächs:<p></p>\n<ul>\n<li><a href=\"https://www.keithmcmillen.com/blog/making-music-in-the-browser-web-midi-api/\">Die Web Midi API</a>: Dank Ihr lassen sich angeschlossene Keyboards &#038; Co zum Steuern der Web Audio API nutzen</li>\n<li><a href=\"https://tonejs.github.io/\">Tone.js</a>: Ein Framework zur Audio-Erzeugung, das auf Web Audio API aufsetzt</li>\n<li><a href=\"https://shop.littlebits.cc/products/synth-kit\">Little Bits Korg Synth Kit</a>: Ein Baukastensystem, mit dem sich schnell die Grundlagen von Synthesizern lernen lassen</li>\n<li><a href=\"https://www.youtube.com/watch?v=Ww0jTafmd_w\">Paul Adenot: Elements of Dance Music &#8211; JSConf.Asia 2015</a>: Welche musikalischen Muster gibt es, die in Web Audio angewandt zu gefälliger Musik führen?</li>\n<li>Chrome Developers: Web Audio (<a href=\"https://www.youtube.com/watch?v=ZV_BIGmpfF8\">Part 1</a> und <a href=\"https://www.youtube.com/watch?v=QviS1fSwAGA\">Part 2</a>): Web Audio Tutorial von Chris Wilson</li>\n<li><a href=\"https://www.html5rocks.com/en/tutorials/audio/scheduling/\">A Tale of Two Clocks &#8211; Scheduling Web Audio with Precision</a>: Wie Web Audio seine eigene Systemuhrzeit hat</li>\n<li><a href=\"https://web-audio-slackin.herokuapp.com/\">Die Web Audio Slack Gruppe</a>: Wer sich über die Web Audio API austauschen möchte ist hier richtig</li>\n</ul>"
+    }
+  ]
+}

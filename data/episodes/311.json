@@ -1,0 +1,49 @@
+{
+  "id": 311,
+  "date": "2017-09-13",
+  "people": [
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    }
+  ],
+  "duration": "59:25",
+  "href": "https://workingdraft.de/311/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3460/0/wd-311.mp3",
+  "title": "CSS-Klassen und Binär-ASTs",
+  "description": "Stefan und Peter befassten sich diese Woche mit Theorie und Praxis von CSS-Klassen-Benennung und warfen einen Blick auf das geplante binäre JS-AST-Format.",
+  "topics": [
+    {
+      "title": "CSS Utility Classes and „Separation of Concerns“",
+      "href": "https://adamwathan.me/css-utility-classes-and-separation-of-concerns/",
+      "time": "00:00:09",
+      "description": "Adam Wathan illustriert in einem Blogpost seine Reise durch diverse CSS-Klassen-Benennungs-Paradigmen und wir sind mit an Bord. In Phase 1 steht der Traum der &#8222;semantischen Klassen&#8220; im Vordergrund (illustriert durch den guten alten <a href=\"http://www.csszengarden.com/\">CSS Zen Garden</a>), Phase 2 dreht sich um <a href=\"http://getbem.com/\">BEM</a> und die Behandlung von Klassen als CSS-HTML-Bridge und in Phase 3 endet der Autor bei allen Ernstes bei <a href=\"https://acss.io/\">Atomic CSS</a>. Wir halten uns mit Kritik an den diversen besonders extremistischen Paradigmen nicht zurück. Peter mag BEM (mit Ausnahmen), Stefan steht auf Scalable CSS mit <a href=\"https://csswizardry.com/\">Harry Roberts</a> mit <a href=\"https://www.youtube.com/watch?v=1OKZOV-iLj4\">Inverted Triangle (ITCSS)</a>."
+    },
+    {
+      "title": "Towards a JavaScript Binary AST",
+      "href": "https://yoric.github.io/post/binary-ast-newsletter-1/",
+      "time": "00:35:44",
+      "description": "In aller Kürze werfen wir einem Blick auf das kommende binäre AST-Format (AST = Abstract Syntax Tree, vgl. <a href=\"http://esprima.org/\">Esprima</a>) für JavaScript. Dieser verspricht besseres Minifying und vor allem schnelleres Parsing."
+    }
+  ],
+  "links": [
+    {
+      "title": "Font-size: An Unexpectedly Complex CSS Property",
+      "href": "https://manishearth.github.io/blog/2017/08/10/font-size-an-unexpectedly-complex-css-property/",
+      "time": "00:57:16",
+      "description": "Ein kleiner Blick in den sehr tiefen Abgrund, den die CSS-Eigenschaft <code>font-size</code> darstellt."
+    }
+  ]
+}

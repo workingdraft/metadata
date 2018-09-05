@@ -1,0 +1,48 @@
+{
+  "id": 312,
+  "date": "2017-09-15",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "David Hellmann"
+    },
+    {
+      "name": "Justin Schueler"
+    }
+  ],
+  "duration": "57:11",
+  "href": "https://workingdraft.de/312/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3463/0/wd-312.mp3",
+  "title": "Zusammenarbeit von Designern und Entwicklern",
+  "description": "Hans und Peter durften diesmal <a href=\"https://davidhellmann.com/\">David Hellmann</a> und <a href=\"http://justinschueler.de/\">Justin Schueler</a> auf der Podcast-Gästeliste begrüßen, mit denen sie über die ewig komplizierte Zusammenarbeit von Designern und Entwicklern sprachen.",
+  "topics": [
+    {
+      "title": "Designer sind vom Mars, Entwickler von der Venus",
+      "time": "00:01:29",
+      "description": "Unter dem Groben Thema &#8222;Zusammenarbeit von Devs und Designern&#8220; geht es rund um alle denkbaren Probleme und Vorgehensweisen, vom althergebrachten Photoshop-in-CSS-übersetzen bis hin zu agiler Entwicklung mit Design und Konzeption. Als empfehlenswerte Software-Tools empfehlen unsere Gäste natürlich <a href=\"https://www.sketchapp.com/\">Sketch</a>, <a href=\"https://zeplin.io/\">Zeplin</a>, <a href=\"https://www.invisionapp.com/\">Invision</a> und <a href=\"https://www.goabstract.com/\">Abstract</a>. Am Ende sprechen wir auch kurz über den Kampf gegen Strukturen und etablierte, alte Prozesse, den jeder geneigte Freund der agilen Methoden nur zu gut kennt."
+    }
+  ],
+  "links": [
+    {
+      "title": "webdevs – der Podcast",
+      "href": "https://soundcloud.com/webdevs_xyz/webdevs-episode-01",
+      "time": "00:55:20",
+      "description": "Im webdevs Podcast wird in lockerer Runde über verschiedenste Themen aus Design und Development geschnackt."
+    }
+  ]
+}

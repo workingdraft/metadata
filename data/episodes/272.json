@@ -1,0 +1,71 @@
+{
+  "id": 272,
+  "date": "2016-08-20",
+  "people": [
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    }
+  ],
+  "duration": "46:43",
+  "href": "https://workingdraft.de/272/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3166/0/wd-272.mp3",
+  "title": "Statische Seitengeneratoren, Metalsmith und CSS Funktionssyntax",
+  "description": "Rodney, Anselm, Schepp und Stefan nehmen aktuelle Entwicklungen im CSS Standard sowie statische Seitengeneratoren für Großprojekte in Angriff.",
+  "topics": [
+    {
+      "title": "Statische Seitengeneratoren für Großprojete und Metalsmith",
+      "href": "https://www.smashingmagazine.com/2016/08/using-a-static-site-generator-at-scale-lessons-learned/",
+      "time": "00:00:25",
+      "description": "Stefan hat das letzte Jahr damit verbracht 2000 HTML Seiten in einen statischen Buildprozess zu bringen, und spricht von seinen Erfahrungen. Wie Rodney ist er schnell zum Schluß gekommen, dass Tools wie <a href=\"http://www.metalsmith.io/\">Metalsmith</a> dank ihrer feinen Plugin-Architektur am Besten für die vielreichenden Ansprüche unserer Webseiten taugen. Rodney baut die Ally.js Dokumentation damit, und nutzt Dinge wie Cheerio und ein <a href=\"https://github.com/medialize/ally.js/blob/master/build/metalsmith/plugins/prepare.js\">selbstgeschriebens Plugin</a> um Markup nach dem Parsen zu verändern. Stefan erzählt von den Bemühungen die Stack für den gewöhnlichen Content-Autor so angenehm wie möglich zu machen und zeigt Tools wie den <a href=\"https://www.npmjs.com/package/liquid-linter\">Liquid Linter</a>"
+    },
+    {
+      "title": "CSS Function Syntaxes",
+      "href": "http://www.xanthir.com/b4iW0",
+      "time": "00:30:25",
+      "description": "Weil man die <code>color</code> Funktion mit bestehenden Mitteln nicht problemlos definieren kann schraubt man an einer neuen CSS Funktionssyntax, die sich mehr an den Properties orientiert. Damit verbunden ist ein Refactoring sämtlicher existierenden CSS Funktionen, auch jenen, die schon seit IE-Zeiten im Einsatz sind. Sehr kontrovers, aber doch durchdacht. Wir geben unseren Senf dazu und überlegen ob man das auch anders hätte lösen können."
+    }
+  ],
+  "links": [
+    {
+      "title": "How To Use Arguments And Parameters In ECMAScript 6",
+      "href": "https://www.smashingmagazine.com/2016/07/how-to-use-arguments-and-parameters-in-ecmascript-6/",
+      "time": "00:44:42",
+      "description": "Umfangreiche Erklärung zu allen Anwendungsarten von Argumenten und Parametern in ES6."
+    },
+    {
+      "title": "The History of the URL",
+      "href": "https://eager.io/blog/the-history-of-the-url-domain-and-protocol/",
+      "time": "00:44:42",
+      "description": "Geschichtlicher Exkurs zum Fundament des Web. Samt <a href=\"https://eager.io/blog/the-history-of-the-url-path-fragment-query-auth/\">Fortsetzung</a>"
+    }
+  ]
+}

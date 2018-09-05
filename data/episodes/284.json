@@ -1,0 +1,42 @@
+{
+  "id": 284,
+  "date": "2016-12-25",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    }
+  ],
+  "duration": "1:27:43",
+  "href": "https://workingdraft.de/284/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3241/0/wd-284.mp3",
+  "title": "Rückblick und Ausblick",
+  "description": "Vor ziemlich genau <a href=\"http://workingdraft.de/246/\">einem Jahr</a> telefonierten Rodney und Schepp sich zusammen, und starteten den Versuch einer Technologie-Prognose für das nachfolgende Jahr: Welche brandneuen Technologien, Frameworks, Tools und Methodiken würden 2016 Fahrt aufnehmen? Heute blicken wir zu dritt zurück auf diese Folge und schauen, was davon eingetreten ist. Soviel lässt sich sagen: Wir lagen bei mindestens so vielen Vermutungen richtig, wie wir auch falsch lagen. Ganz am Ende wagen wir sogar noch einen vorsichtigen Ausblick auf 2017.",
+  "topics": [
+    {
+      "title": "Der Jahr-2016-Progonosen-Check",
+      "time": "00:00:14",
+      "description": "Folgende URLs passierten im Verlauf der Diskussion unsere Browser-Adresszeilen:<p></p>\n<ul>\n<li><a href=\"https://jakearchibald.github.io/isserviceworkerready/\">Is Service Worker ready yet?</a></li>\n<li><a href=\"https://trends.builtwith.com/ssl/SSL-by-Default\">Sites using SSL by Default</a></li>\n<li><a href=\"https://trends.builtwith.com/docinfo/HTTP2\">Sites using HTTP/2</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/HTTP/2#Software_and_services_supporting_HTTP.2F2\">Software and Services supporting HTTP/2</a></li>\n<li><a href=\"http://meyerweb.com/eric/thoughts/2016/01/15/subgrids-considered-essential/\">Subgrids considered essential</a></li>\n</ul>"
+    }
+  ]
+}

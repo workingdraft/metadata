@@ -1,0 +1,55 @@
+{
+  "id": 339,
+  "date": "2018-05-13",
+  "people": [
+    {
+      "name": "Nik Graf",
+      "twitter": "https://twitter.com/nikgraf"
+    },
+    {
+      "name": "Patrick Stapfer",
+      "twitter": "https://twitter.com/ryyppy"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    }
+  ],
+  "duration": "59:33",
+  "href": "https://workingdraft.de/339/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3692/0/wd-339.mp3",
+  "title": "ReasonML",
+  "description": "Als Gäste sind diesmal <a href=\"https://twitter.com/nikgraf\">Nik Graf</a> und <a href=\"https://twitter.com/ryyppy\">Patrick Stapfer</a> zu Gast. Nik ist den Zuhörern schon aus Sendungen zum Thema <a href=\"http://workingdraft.de/281/\">React</a> und <a href=\"http://workingdraft.de/331/\">Serverless</a> bekannt. Patrick ist zum ersten Mal richtig mit dabei.",
+  "topics": [
+    {
+      "title": "ReasonML",
+      "href": "https://reasonml.github.io/",
+      "time": "00:03:00",
+      "description": "Unsere beiden Gäste Nik und Patrick erklären Hans, das ReasonML eine Meta Language basierend auf OCaml ist und gerade einigen Hype erfährt. Gerade im React Umfeld ist ReasonML gerade sehr sichtbar &#8211; React wurde ursprünglich mal <a href=\"https://github.com/reasonml/reason-react\">in ReasonML implementiert</a>. ReasonML wird zu JavaScript transpiliert. Die Verwendung mit Rollup und Webpack ermöglicht <a href=\"https://bucklescript.github.io/\">BuckleScript</a>."
+    }
+  ],
+  "links": [
+    {
+      "title": "ReasonML für Beginner",
+      "href": "https://egghead.io/courses/get-started-with-reason",
+      "time": "00:57:17",
+      "description": "Nik hat einige Video-Tutorials aufgenommen. Diese sind bei Egghead verfügbar."
+    },
+    {
+      "title": "ReasonML Discord Channel",
+      "href": "https://discordapp.com/invite/reasonml",
+      "time": "00:57:17",
+      "description": "Für jegliche Frage relevant und hilfreich: die ReasonMl Community."
+    },
+    {
+      "title": "ReasonConf",
+      "href": "https://www.reason-conf.com/",
+      "time": "00:57:17",
+      "description": "Vom 11. &#8211; 13. Mai fand die erste Reason Conference in Wien statt."
+    }
+  ]
+}

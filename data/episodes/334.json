@@ -1,0 +1,71 @@
+{
+  "id": 334,
+  "date": "2018-04-1",
+  "people": [
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Oliver Schöndorfer",
+      "twitter": "https://twitter.com/glyphe"
+    }
+  ],
+  "duration": "1:13:58",
+  "href": "https://workingdraft.de/334/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3629/0/wd-334.mp3",
+  "title": "Typographie im Web",
+  "description": "Nachdem sich <a href=\"https://twitter.com/workingdraft/status/970559305165524992\">kurzfristig krankheitsbedingt</a> eine kleine Moderatoren-Knappheit eingestellt hat, konnten wir glücklicherweise einen tollen Gast für die Sendung gewinnen:<br>\n<a href=\"https://www.zeichenschatz.net/\">Oliver Schöndorfer</a> (<a href=\"https://twitter.com/glyphe\">Twitter</a>), seines Zeichens Designer und Typographie-Liebhaber erklärt uns den aktuellen Horizont der Web-Typographie.",
+  "topics": [
+    {
+      "title": "Web-Typographie",
+      "time": "00:08:33",
+      "description": "Die Verwendung von Schriftarten auf Webseiten, die über die Standart-Schriften hinaus geht, ist sehr weit verbreitet. Oliver erklärt uns, wie man die Schriften aus Design-Perspektive richtig verwendet und was dabei zu beachten ist. Auch die <a href=\"https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization#format_selection\">technische Seite</a> beleuchten wir.<br>\nHier einige weiterführende Links zum Thema:<p></p>\n<ul>\n<li><a href=\"https://www.youtube.com/watch?v=jkYjiffBfUY&amp;feature=youtu.be\">Video: Erste Hilfe Web Typografie</a></li>\n<li><a href=\"https://8660.at/websichere-schriften/\">Websichere Schriften in Zeiten von Responsive Webdesign</a></li>\n<li><a href=\"https://8660.at/schriftwahl-im-webdesign/\">Schriftwahl im Webdesign</a></li>\n<li><a href=\"https://8660.at/css-font-stack-alternative-schriften-im-webdesign-klug-einsetzen/\">CSS Font Stack – Alternative Schriften im Webdesign klug einsetzen</a></li>\n</ul>"
+    },
+    {
+      "title": "Variable Fonts",
+      "href": "https://medium.com/@clagnut/get-started-with-variable-fonts-c055fd73ecd7",
+      "time": "00:51:50",
+      "description": "Ein Thema das uns in der Zukunft im Bezug auf Webfonts sicher noch stark beschäftigen wird sind Variable Fonts. Diese variablen Schriften bieten unglaublich viele Möglichkeiten um Schriftschnitte einer einzigen Schriftart performant ins <a href=\"https://webdesign.tutsplus.com/articles/how-to-use-variable-fonts-on-the-web--cms-30212\">Web zu bringen</a>."
+    }
+  ],
+  "links": [
+    {
+      "title": "ilovetypography.com",
+      "href": "https://ilovetypography.com/"
+    },
+    {
+      "title": "typewolf.com",
+      "href": "https://www.typewolf.com/"
+    },
+    {
+      "title": "typolexikon.de",
+      "href": "https://www.typolexikon.de/"
+    },
+    {
+      "title": "typografie.info",
+      "href": "https://www.typografie.info"
+    },
+    {
+      "title": "Axis Praxis: Schriftarten als Variable Font",
+      "href": "https://www.axis-praxis.org/specimens/decovar"
+    },
+    {
+      "title": "Slidedeck: You Can Save Web-Typography",
+      "href": "https://speakerdeck.com/glyphe/you-can-save-web-typography"
+    }
+  ]
+}

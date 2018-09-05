@@ -1,0 +1,66 @@
+{
+  "id": 288,
+  "date": "2017-02-15",
+  "people": [
+    {
+      "name": "Roger Dudler",
+      "twitter": "https://twitter.com/rogerdudler"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    }
+  ],
+  "duration": "51:39",
+  "href": "https://workingdraft.de/288/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3276/0/wd-288.mp3",
+  "title": "Frontify, Styleguides",
+  "description": "Zur Revision 288 haben wir uns einen Gast aus der Schweiz eingeladen: <a href=\"https://twitter.com/rogerdudler\">Roger Dudler</a>, der CTO von <a href=\"https://frontify.com/\">Frontify</a>.<br>\nGemeinsam sprechen wir über Frontify und das Thema Styleguides.",
+  "topics": [
+    {
+      "title": "Frontify",
+      "href": "https://frontify.com/",
+      "time": "00:00:36",
+      "description": "Roger erzählt über seine Arbeit bei Frontify. Frontify befasst sich vor allem mit Marken-Management und der Zusammenarbeit von Entwicklern und Designern. Außerdem berichtet Roger darüber, wie sie <a href=\"http://fractal.build/\">Fractal</a> als Inspiration für die eigenen Ideen genutzt haben. Mehr Informationen zu <a href=\"https://zeplin.io/\">Zepplin gibt es hier</a>. Fronifys <a href=\"https://www.npmjs.com/package/@frontify/frontify-api\">Pattern Library API Module findet hier hier</a>. <a href=\"https://twitter.com/rogerdudler\">Roger auf Twitter</a> oder <a href=\"mailto:roger@frontify.com\">per Mail</a>."
+    }
+  ],
+  "links": [
+    {
+      "title": "Clean Code concepts adapted for JavaScript",
+      "href": "https://github.com/ryanmcdermott/clean-code-javascript",
+      "time": "00:48:46",
+      "description": "Guidelines zum Schreiben von sauberem JavaScript Code."
+    },
+    {
+      "title": "The end of the clearfix hack?",
+      "href": "https://www.rachelandrew.co.uk/archives/2017/01/24/the-end-of-the-clearfix-hack/",
+      "time": "00:48:46",
+      "description": "Braucht man den Clearfix-Hack bald nicht mehr? <code>display: flow-root;</code> soll das Problem lösen."
+    },
+    {
+      "title": "Detecting text in an image on the web in real-time",
+      "href": "https://paul.kinlan.me/detecting-text-in-an-image/",
+      "time": "00:48:46",
+      "description": "Text von Bildern lesen &#8211; mit JavaScript."
+    }
+  ]
+}

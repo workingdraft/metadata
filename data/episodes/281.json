@@ -1,0 +1,42 @@
+{
+  "id": 281,
+  "date": "2016-11-30",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Max Stoiber",
+      "twitter": "https://twitter.com/mxstbr"
+    },
+    {
+      "name": "Nik Graf",
+      "twitter": "https://twitter.com/nikgraf"
+    }
+  ],
+  "duration": "1:01:18",
+  "href": "https://workingdraft.de/281/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3223/0/wd-281.mp3",
+  "title": "State of React",
+  "description": "Stefan hat sich heute <a href=\"https://twitter.com/nikgraf\">Nik Graf</a> und <a href=\"https://twitter.com/mxstbr\">Max Stoiber</a> vom <a href=\"http://www.meetup.com/de-DE/Vienna-ReactJS-Meetup/\">React Vienna</a> Meetup eingeladen um die diesjährige <a href=\"https://reactiveconf.com/\">Reactive Conf</a> und den aktuellen State of React zu besprechen. Viel Spaß!",
+  "news": [
+    {
+      "title": "Node.js 7.0 Release",
+      "href": "https://reactiveconf.com/",
+      "time": "00:00:18",
+      "description": "Node 7 ist draußen und zu 98% ES2015 kompatibel."
+    }
+  ],
+  "topics": [
+    {
+      "title": "The State of React",
+      "time": "00:00:40",
+      "description": "Wir plaudern ausgiebig über die Tage vor und während der Reactive Conference. Beginnend beim letzten React Vienna Meetup bis hin zu den großen Ankündigungen und die kommenden Projekte. Um unseren anhaltenden Bewusstsseinstrom zu verfolgen gibt es hier eine Linkliste mit den wichtigsten Beiträgen:<p></p>\n<ul>\n<li><a href=\"https://github.com/zeit/next.js\">Next.js</a></li>\n<li><a href=\"https://github.com/jordwalke/vimbox\">Vimbox</a></li>\n<li><a href=\"https://www.cypress.io/\">Cypress</a></li>\n<li><a href=\"https://flowtype.org/\">Flowtype</a></li>\n<li><a href=\"http://elm-lang.org/\">Elm</a></li>\n<li><a href=\"https://github.com/terezka/elm-plot\">Elm Plot</a></li>\n<li><a href=\"https://facebook.github.io/reason/\">Reason</a></li>\n<li><a href=\"https://www.youtube.com/watch?v=zyLpvEyv7l0\">A life on the command line</a></li>\n<li><a href=\"http://graphql.org/\">Graph QL</a></li>\n<li><a href=\"https://facebook.github.io/relay/\">Relay</a></li>\n</ul>"
+    }
+  ]
+}

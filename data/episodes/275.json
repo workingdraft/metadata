@@ -1,0 +1,69 @@
+{
+  "id": 275,
+  "date": "2016-09-11",
+  "people": [
+    {
+      "name": "Jens Grochtdreis",
+      "twitter": "https://twitter.com/Flocke",
+      "web": "http://grochtdreis.de/"
+    },
+    {
+      "name": "Christoph Reinartz"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    }
+  ],
+  "duration": "1:14:22",
+  "href": "https://workingdraft.de/275/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3182/0/wd-275.mp3",
+  "title": "Project Ironman",
+  "description": "Zum Thema CSS-Refactoring luden wir uns neben dem anerkannten CSS-Buddha <a href=\"http://grochtdreis.de/\">Jens Grochtdreis</a> auch <a href=\"http://www.creinartz.de/\">Christoph Reinartz</a> an, der bei Trivago Frontend Lead ist, und aus aktuellem Anlass einiges zu erzählen hatte&nbsp;&hellip;",
+  "topics": [
+    {
+      "title": "Project Ironman",
+      "time": "00:02:22",
+      "description": "Christoph erzählt, wie aus dem nicht besonders strukturierten Code, der das UI der Hotelsuchmaschine Trivago bildete, eine aufgeräumte <a href=\"https://medium.com/@pistenprinz/rebuilding-an-aircraft-on-the-fly-a-pattern-library-integration-at-trivago-b2fd6954a88e#.xdi16uyl0\">UI Pattern Library</a> wurde. Wir sprechen über <a href=\"https://medium.com/@pistenprinz/large-scale-css-refactoring-at-trivago-4602113c4a26#.7wt2phefv\">CSS-Refactorings</a>, Styleguides und Styleguide-Generatoren (z.B. <a href=\"http://patternpack.org/\">PatternPack</a> und <a href=\"https://frontify.com/\">Frontify</a>), <a href=\"http://acss.io/\">Atomic CSS</a>, <a href=\"https://speakerdeck.com/marcelosomers/fight-the-zombie-pattern-library\">die Zombie-Pattern-Library</a>&nbsp;&hellip; und vermutlich erwähnen wir auch Bootstrap ein- oder zweimal."
+    }
+  ],
+  "links": [
+    {
+      "title": "Interview zu Aufwandsschätzungen bei Software-Entwicklung",
+      "href": "https://jaxenter.de/agile-schaetzen-interview-bohlen-44461",
+      "time": "01:11:07",
+      "description": "Auch auf Frontend-Projekte anwendbar."
+    },
+    {
+      "title": "It’s not really about the button …",
+      "href": "http://www.scottohara.me/article/not-really-about-the-button.html",
+      "time": "01:11:07",
+      "description": "&#8222;A quickie on landmark discoverability&#8220;"
+    },
+    {
+      "title": "Cube Composer",
+      "href": "http://david-peter.de/cube-composer/",
+      "time": "01:11:07",
+      "description": "Funktionale Programmierung lernen, indem man Würfelchen zusammenklickt."
+    }
+  ]
+}

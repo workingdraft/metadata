@@ -1,0 +1,60 @@
+{
+  "id": 241,
+  "date": "2015-11-8",
+  "people": [
+    {
+      "name": "Kai Niklas"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    }
+  ],
+  "duration": "47:43",
+  "href": "https://workingdraft.de/241/",
+  "audio": "https://workingdraft.de/podpress_trac/web/2926/0/wd-241.mp3",
+  "title": "WebGL",
+  "description": "Diesmal konnten wir wieder einen Gast bei uns begrüßen, und zwar <a href=\"https://twitter.com/OpenGL2GO\">Kai Niklas</a>. Kai beschäftigt sich seit einiger Zeit mit OpenGL und seinem Abkömmling WebGL, <a href=\"http://decode.ro/services/webgl-programming.html\">programmiert 3D-Anwendungen</a> und tourt als <a href=\"http://www.opengl-trainer.de/\">Trainer für OpenGL</a> durch Deutschland. Und so verwundert es kaum, dass wir mit ihm zusammen das Thema &#8222;WebGL&#8220; erkunden.",
+  "topics": [
+    {
+      "title": "WebGL",
+      "href": "https://de.wikipedia.org/wiki/WebGL",
+      "time": "00:01:54",
+      "description": "Im Laufe unseres Gesprächs fielen diverse Stichworte und Links, die Ihr nachfolgend findet:<p></p>\n<ul>\n<li>Die <a href=\"https://www.khronos.org/\">Khronos Group</a> spezifiziert OpenGL und WebGL</li>\n<li><a href=\"https://de.wikipedia.org/wiki/OpenCL\">OpenCL</a> und <a href=\"https://de.wikipedia.org/wiki/WebCL\">WebCL</a>, analog zu OpenGL und WebGL die &#8222;Compute Languages&#8220; zum Berechnen von Dingen</li>\n<li><a href=\"http://caniuse.com/#feat=webgl\">WebGL Browsersupport</a></li>\n<li>Anwendungsfälle: <a href=\"http://www.bavarikon.de/3dobjects\">Virtuelle Museen</a>, <a href=\"http://threegraphs.com/\">3D Charts</a>, <a href=\"http://customizer.pennyskateboards.com/eu/\">Produkt Konfiguratoren</a> oder <a href=\"http://www.simppa.fi/blog/porsche-black-edition-engine-sound-particles/\">Customer Experiences</a></li>\n<li>Die WebGL-Frameworks <a href=\"http://threejs.org/\">Three.js</a> <a href=\"http://www.babylonjs.com/\">Babylon.js</a> und <a href=\"https://www.blend4web.com/en/\">Blend4Web</a></li>\n<li><a href=\"https://www.blender.org/\">Blender</a> als Autorenwerkzeug für 3D (also Modellieren, Szenerien zusammenstellen, Beleuchten, Texturieren)</li>\n<li><a href=\"http://usa.autodesk.com/adsk/servlet/pc/index?id=11390028&amp;siteID=123112&amp;DCMP=OTC-pr-imagemodeler\">Autodesks ImageModeler</a> als ein Werkzeug, das 3D-Modelle aus Fotografien erzeugen kann</li>\n<li><a href=\"https://www.shadertoy.com/\">Shadertoy</a>, <a href=\"http://shdr.bkcore.com/\">Shdr</a> und <a href=\"http://developer.amd.com/tools-and-sdks/archive/legacy-cpu-gpu-tools/rendermonkey-toolsuite/\">RenderMonkey</a> als Autorenwerkzeuge für WebGL-Shader (Vertex-, sowie Pixel-/Fragement-Shader)</li>\n<li>Die <a href=\"http://www.swiftless.com/\">Swiftless-Online-Tutorials</a> zum Erlernen der OpenGL/WebGL Basics</li>\n<li>Die Seiten von Three.js, Shadertoy, sowie die <a href=\"https://www.chromeexperiments.com/webgl\">Chrome WebGL Experiments</a> als Inspirationsquellen (und zum Abgucken)</li>\n<li>Und ein Blick in die Zukunft auf den OpenGL-Nachfolger &#8222;<a href=\"http://www.golem.de/news/neue-grafikschnittstelle-aus-open-gl-next-wird-vulkan-1503-112711.html\">Vulkan</a>&#8222;</li>\n</ul>"
+    }
+  ],
+  "links": [
+    {
+      "title": "mdcss",
+      "href": "https://github.com/jonathantneal/mdcss",
+      "time": "00:45:31",
+      "description": "Mit mdcss kann man Markdown-Kommentare direkt in seinem CSS verbauen und aus diesem CSS dann einen Styleguide kompilieren."
+    },
+    {
+      "title": "Buchtipp: CSS Secrets",
+      "href": "http://www.amazon.de/CSS-Secrets-Lea-Verou/dp/1449372635",
+      "time": "00:45:31",
+      "description": "Lea Verou hat ein Buch geschrieben, in das nicht nur die CSS Tricksereien ihrer vergangenen Talks geflossen sind, sondern noch einige Geheimnisse mehr stecken. Das Gute an dem Buch ist: Die Tipps haben durchaus Praxisrelevanz."
+    }
+  ]
+}

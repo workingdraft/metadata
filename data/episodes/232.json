@@ -1,0 +1,43 @@
+{
+  "id": 232,
+  "date": "2015-09-13",
+  "duration": "00:24:02",
+  "people": [
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    }
+  ],
+  "href": "https://workingdraft.de/232/",
+  "audio": "https://workingdraft.de/podpress_trac/web/2845/0/wd-232.mp3",
+  "title": "Progressive Apps",
+  "description": "Als Rumpfmannschaft, geplagt von Technikproblemen und nicht besonders vielen Themen, kratzen Hans und Peter eine Notfall-Express-Revision zusammen.",
+  "topics": [
+    {
+      "title": "Progressive Apps",
+      "href": "https://medium.com/@slightlylate/progressive-apps-escaping-tabs-without-losing-our-soul-3b93a8561955",
+      "time": "00:00:30",
+      "description": "Alex Russel postuliert <i>Progressive Apps</i>&nbsp;&ndash; Webapps, die unter gegebenen Umständen aus dem Browser heraus zu einer lokal installierten App mutieren. Hans und Peter sind sich einig darüber, dass auf Mobile niemand Webapps mag, da sie in Sachen OS-Integration und Performance hinterherhinken. Dabei gibt es (zumindest auf dem Papier und in wenigen fortschrittlichen Browsern) doch bereits Technologien, die diese Probleme lösen (z.B. <a href=\"http://www.w3.org/TR/push-api/\">Push Notifications</a> und <a href=\"http://www.html5rocks.com/en/tutorials/service-worker/introduction/?redirect_from_locale=de\">Service Worker</a>). So wie <a href=\"http://adaptivepath.org/ideas/ajax-new-approach-web-applications/\">Ajax</a> den <a href=\"https://developer.mozilla.org/de/docs/Web/API/XMLHttpRequest\">XMLHttpRequest</a> bändigt und <a href=\"http://alistapart.com/article/responsive-web-design\">Responsive Design</a> die <a href=\"https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries\">Media Queries</a> domestiziert soll <i>Progressive Apps</i> ein Konzept für den effektiven Einsatz der vielen neuen Webapp-APIs sein. Wir sehen Bedarf an einer Umsetzung des Prinzips in Software, denn handgestricktes AJAX ist im Vergleich zu einem MVC-Framework immer noch ein ziemliches Mühsal. Also baut der Welt ein Progressive-Apps-Framework!"
+    }
+  ],
+  "links": [
+    {
+      "title": "securityheaders.io",
+      "href": "https://securityheaders.io/",
+      "time": "00:22:45",
+      "description": "Prüft eure Webseite auf das Vorhandensein sicherheitsrelevanter HTTP-Header."
+    }
+  ]
+}

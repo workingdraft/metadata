@@ -1,0 +1,65 @@
+{
+  "id": 244,
+  "date": "2015-12-4",
+  "people": [
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Marco Zehe",
+      "twitter": "https://twitter.com/marcozehe",
+      "web": "http://www.zehe-edv.de/"
+    }
+  ],
+  "duration": "1:25:31",
+  "href": "https://workingdraft.de/244/",
+  "audio": "https://workingdraft.de/podpress_trac/web/2949/0/wd-244.mp3",
+  "title": "Accessibility Deep Dive und ally.js",
+  "description": "Zur Feierlichkeit des <a href=\"http://allyjs.io/\">ally.js</a> Release haben sich Rodney, Anselm und Hans niemand geringeren als <a href=\"https://twitter.com/MarcoZehe\">Marco Zehe</a> eingeladen, der für Mozilla im Bereich Accessibility arbeitet.",
+  "topics": [
+    {
+      "title": "Marcos iPhone Accessibility Erfahrungen",
+      "time": "00:01:44",
+      "description": "Etwas abseits vom Web-Thema lassen wir uns von Marco erzählen, warum iPhones solch eine tolle Sache für Blinde sind und wie er sich damit schnell und einfach selbst in fremden Regionen zurechtfinden kann."
+    },
+    {
+      "title": "What even is a table? A quick look at Accessibility APIs",
+      "href": "http://bekahsealey.com/blog/single.php?post=17-09-2015",
+      "time": "00:17:42",
+      "description": "Wir nehmen dann einen Talk als Anlass, über die <a href=\"http://usability.com.au/2005/06/accessible-data-tables-2005/\">Zugänglichkeit von Tabellen zu sprechen</a> und schweifen ab in generelle Diskussionen über Semantik. Wer aber zum Beispiel mit responsive Tables arbeiten möchte, der kann mit einigen Tricks arbeiten und <a href=\"http://juicystudio.com/article/accessible_data_tables_static_headers.php\">bewusst eine div-Suppe kreieren</a>, die dann mit aria-roles ausgestattet wird, um semantisch wieder zur Tabelle zu werden. Wichtig ist allerdings, dass man abschließend ein <code>aria-readonly=\"true\"</code> Attribut setzt, denn sonst wäre die Tabelle als bearbeitbar gekennzeichnet."
+    },
+    {
+      "title": "ally.js",
+      "href": "http://allyjs.io/",
+      "time": "00:47:30",
+      "description": "Unser Rodney hat sich 14 Monate lang damit auseinandergesetzt, wie Accessibility in verschiedenen Browsern umgesetzt wird und eine Art jQuery für Barrierefreiheit gebaut. In diesem kleinen Tutorial kannst du lernen, wie du einen <a href=\"http://allyjs.io/tutorials/accessible-dialog.html\">accessible Dialog</a> bauen kannst. Wir besprechen die Probleme damit, dass es viel zu tun gibt und wir hoffen, dass die Library in vielen Projekten zukünftig zu finden sein wird."
+    },
+    {
+      "title": "Abschließende Accessibility Tipps",
+      "time": "01:19:55",
+      "description": "Abschließend wollte Anselm von Rodney und Marco noch ein paar kleine Alltags-Tipps wissen, die jeder von uns umsetzen kann. Rodney beschreibt seinen Ansatz von Accessibility aus Eigennutz durch Tastaturnutzung, Marco erklärt, warum ein leeres <code>alt=\"\"</code> oft wichtiger ist als gar keins, <a href=\"https://leaverou.github.io/contrast-ratio/#\">dass Kontraste wichtig sind</a> und wie ärgerlich es ist, wenn Seiten pinch-to-zoom deaktivieren."
+    }
+  ]
+}

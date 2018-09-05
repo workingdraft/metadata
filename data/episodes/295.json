@@ -1,0 +1,56 @@
+{
+  "id": 295,
+  "date": "2017-04-2",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    }
+  ],
+  "duration": "35:28",
+  "href": "https://workingdraft.de/295/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3344/0/wd-295.mp3",
+  "title": "Next, Git, Guetzli",
+  "description": "In der Kürze liegt die Würze: Hans und Peter lassen sich diesmal von Stefan ein Framework für Isomorphic JS-SPAs erklären und verlesen zwei kleine Links.",
+  "topics": [
+    {
+      "title": "Next.js",
+      "time": "00:00:10",
+      "description": "Inspiriert von einem Artikel aus der Feder <a href=\"https://jsmantra.com/next-on-next-js-1a134505f346#.p3jxnoyea\">Arunoda Susiripalas</a> lauschen Hans und Peter den Ausführungen Stefans zu <a href=\"https://github.com/zeit/next.js\">Next.js</a>. Dabei handelt es sich um ein React-basiertes SPA-Framework, das dem geneigten Entwickler viel vom früher üblichen Tool-Stress mit u.A. <a href=\"https://webpack.js.org/\">Webpack</a> (siehe auch <a href=\"http://workingdraft.de/289/\">Revision 289: Tiefe Einblicke in die Webpack-Entwicklung</a>) erspart. Serverside rendering, Code splitting, hot reload etc. sind ab Werk dabei. Das ganze ist ein Werk von <a href=\"https://zeit.co/\">Zeit Inc.</a>, deren übrige Produkte ebenfalls in die Kategorie &#8222;X, aber in unkompliziert&#8220; fallen (man vergleiche <a href=\"https://zeit.co/now\">now</a> mit <a href=\"https://www.heroku.com/\">Heroku</a>)."
+    }
+  ],
+  "links": [
+    {
+      "title": "Flight rules for Git",
+      "href": "https://github.com/k88hudson/git-flight-rules",
+      "time": "00:32:28",
+      "description": "Was tun, wenn man in Git einen Fehler gemacht hat? Handliche Katastrophen-Checkliste!"
+    },
+    {
+      "title": "Guetzli, Google’s New JPEG Encoder",
+      "href": "http://christopher.org/guetzli-googles-new-jpeg-encoder/",
+      "time": "00:32:28",
+      "description": "Kurzer Überblick über das neueste Werk der Magier aus Googles Kompressions-Hogwarts."
+    }
+  ]
+}

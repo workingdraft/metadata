@@ -1,0 +1,58 @@
+{
+  "id": 289,
+  "date": "2017-02-18",
+  "people": [
+    {
+      "name": "Tobias Koppers",
+      "twitter": "https://twitter.com/wSokra"
+    },
+    {
+      "name": "Johannes Ewald",
+      "twitter": "https://twitter.com/Jhnnns"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    }
+  ],
+  "duration": "1:05:02",
+  "href": "https://workingdraft.de/289/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3284/0/wd-289.mp3",
+  "title": "Tiefe Einblicke in die Webpack Entwicklung",
+  "description": "Einem Hörertipp zum Anlass haben wir uns den Autor <a href=\"https://github.com/sokra\">Tobias Koppers</a> sowie einen der Maintainer, <a href=\"https://twitter.com/Jhnnns\">Johannes Ewald</a>, des Webpack Projektes eingeladen und den beiden viele wertvolle Tipps entlockt und über die Zukunft ausgefragt.",
+  "topics": [
+    {
+      "title": "Webpack",
+      "href": "https://webpack.js.org/",
+      "time": "00:01:00",
+      "description": "Wir lassen uns zunächst erklären, was Webpack ist, wer unsere beiden Gäste sind und welche Rolle sie bei Webpack spielen und fragen uns, wofür man Webpack braucht. Natürlich lassen wir uns auch erklären, wie so ein riesiges <a href=\"https://github.com/webpack/webpack\">Open Source Projekt</a> funktioniert und wo die Probleme liegen. Wir lassen uns erklären, warum man <a href=\"https://webpack.js.org/guides/migrating/\">ganz einfach zu Webpack 2 migrieren kann</a> und gar keine so großen Unterschiede zwischen den Versionen existieren. Zuletzt fragen wir natürlich noch unsere Gäste über die Zukunftspläne von Webpack aus und stellen fest, dass es an interessanten Ideen definitiv nicht mangelt."
+    }
+  ],
+  "links": [
+    {
+      "title": "Webpack Open Collective",
+      "href": "https://opencollective.com/webpack",
+      "time": "00:53:00",
+      "description": "Hier sammelt das Webpack Team Spenden für die Entwicklung des Projektes."
+    },
+    {
+      "title": "Google Research HTTP/2 Server Push",
+      "href": "https://24ways.org/2016/http2-server-push-and-service-workers/",
+      "time": "00:53:00",
+      "description": "Nebenbei sprach Johannes Ewald an, dass er eine Studie von Google Mitarbeitern fand, die HTTP/2 Server Push näher beleuchtet, vor allem wie starke Vorteile das aktuell bringen kann. Das wollen wir euch nicht vorenthalten."
+    }
+  ]
+}

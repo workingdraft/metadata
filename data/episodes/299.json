@@ -1,0 +1,88 @@
+{
+  "id": 299,
+  "date": "2017-05-3",
+  "people": [
+    {
+      "name": "Stefan Judis",
+      "twitter": "https://twitter.com/stefanjudis"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "duration": "46:21",
+  "href": "https://workingdraft.de/299/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3375/0/wd-299.mp3",
+  "title": "Electron",
+  "description": "<a href=\"http://workingdraft.wire.com\" style=\"display: block; margin: 1em 0; width: 100%; max-width: 500px\"><img src=\"http://workingdraft.de/wp-content/uploads/2017/02/Wire-800x350.png\" alt=\"\" width=\"800\" height=\"350\" class=\"alignleft size-full wp-image-3294\" style=\"width: 100%; height: auto\" srcset=\"https://workingdraft.de/wp-content/uploads/2017/02/Wire-800x350.png 800w, https://workingdraft.de/wp-content/uploads/2017/02/Wire-800x350-300x131.png 300w, https://workingdraft.de/wp-content/uploads/2017/02/Wire-800x350-768x336.png 768w\" sizes=\"(max-width: 800px) 100vw, 800px\"></a>\n\nEin vorerst letztes mal wird unser Podcast von <a href=\"http://workingdraft.wire.com\">Wire</a> gesponsort, dem <a href=\"https://www.heise.de/newsticker/meldung/Sicherheits-Audit-von-Krypto-Messenger-Wire-abgeschlossen-3621550.html\">sicheren</a> <a href=\"https://github.com/wireapp\">Open Source</a> Messaging Client für all eure Plattformen, welcher auch den Desktop als First-Class-Citizen betrachtet. Jetzt auch mit Open-Source-Server-Komponenten!\n\nIn dieser Revision haben wir das Vergnügen, uns von <strong>Stefan Judis</strong> (<a href=\"https://twitter.com/stefanjudis\">Twitter</a>, <a href=\"https://github.com/stefanjudis\">GitHub</a>, <a href=\"https://www.stefanjudis.de/\">Webseite</a>) alles über Electron erzählen zu lassen.",
+  "topics": [
+    {
+      "title": "Electron",
+      "href": "https://electron.atom.io/",
+      "time": "00:03:05",
+      "description": "Mit Electron können Frontend-Entwickler mit HTML, CSS und JavaScript Desktop-Apps für alle Plattformen bauen&nbsp;&ndash; mit Zugriff auf das Dateisystem und allem. Es handelt sich um ein auf <a href=\"https://www.chromium.org/\">Chromium</a> und <a href=\"https://nodejs.org/en/\">Node</a> basierendes Projekt aus der Feder von Github, das aus dem <a href=\"https://atom.io/\">Atom-Editor</a> geboren wurde. Andere bekannte Electron-Apps sind <a href=\"https://code.visualstudio.com/\">Visual Studio Code</a> und <a href=\"https://hyper.is/\">Hyper</a>. Wir diskutieren Fragen und um Cross-Plattform-Apps und Accessibility sowie die Vergleiche von Electron mit PWAs, <a href=\"https://de.wikipedia.org/wiki/Adobe_Integrated_Runtime\">Adobe AIR</a> und <a href=\"https://josephg.com/blog/electron-is-flash-for-the-desktop/\">Flash</a>. Außerdem gibt uns Stefan einen kleinen App-Bastel-Walkthrough, bei dem wir speziell auf Tools wie den <a href=\"https://www.npmjs.com/package/nativefier\">nativefier</a>, <a href=\"https://github.com/electron-userland/electron-packager\">electron-packager</a> und <a href=\"https://github.com/electron-userland/electron-builder\">electron-builder</a> eingehen. Weitere Ressourcen sind bei <a href=\"https://github.com/sindresorhus/awesome-electron\">Sindre Sorhus</a> und im Projekt <a href=\"https://github.com/electron-userland\">Electron Userland</a> zu finden."
+    }
+  ],
+  "links": [
+    {
+      "title": "The Definitive Guide to Object Streams in Node.js",
+      "href": "https://community.risingstack.com/the-definitive-guide-to-object-streams-in-node-js/",
+      "time": "00:42:54",
+      "description": "Unser liebster Österreicher erklärbärt ein gar nicht mal so unkompliziertes Thema."
+    },
+    {
+      "title": "JavaScript is a buffet, not the enemy",
+      "href": "https://scriptconf.org/blog/javascript-is-a-buffet-not-the-enemy-chris-heilmann/",
+      "time": "00:42:54",
+      "description": "Talk von Chris Heilmann (auf einer von unserem liebsten Österreicher organisierten Konferenz)."
+    },
+    {
+      "title": "Sublime Text, Atom & VS Code snippet generator",
+      "href": "https://snippets.now.sh/",
+      "time": "00:42:54",
+      "description": "Gerade für VS Code ein Segen, denn dessen doofes JSON-Format erlaubt auch bei mehrzeiligen Snippets keine Zeilenumbrüche."
+    },
+    {
+      "title": "Using flow-root today",
+      "href": "https://helloanselm.com/2017/flow-root-supports/",
+      "time": "00:42:54",
+      "description": "Clearfix 2.0, erklärt von Anselm."
+    },
+    {
+      "title": "The invisible parts of CSS",
+      "href": "https://madebymike.com.au/writing/the-invisible-parts-of-CSS/",
+      "time": "00:42:54",
+      "description": "Diverse nicht-offensichtliche Teile von CSS anschaulich erklärt."
+    }
+  ]
+}

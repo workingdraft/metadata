@@ -1,6 +1,6 @@
 'use strict';
 
-var HTTP = require("http");
+var HTTP = require("https");
 var Q = require("q");
 Q.longStackSupport = true;
 

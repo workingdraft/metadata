@@ -1,0 +1,63 @@
+{
+  "id": 264,
+  "date": "2016-06-13",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "duration": "56:11",
+  "href": "https://workingdraft.de/264/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3115/0/wd-264.mp3",
+  "title": "Make Flash great again",
+  "description": "Anselm, Peter und Stefan stellten mal wieder fest: Webentwicklung ist, als wollte man über 9000 Korken gleichzeitig unter Wasser halten. Und hin und wieder klappt das gar nicht mal so gut.",
+  "topics": [
+    {
+      "title": "CSS außer Rand und Band",
+      "time": "00:00:17",
+      "description": "Einem <a href=\"http://tomek.wiszniewski.cc/how-css-unit-tests-helped-us-move-fast/\">Artikel über CSS-Unit-Tests</a> stehen wir skeptisch gegenüber, erkennen aber an, dass die Menschheit Mittel und Wege sucht, ihr CSS unter Kontrolle zu bekommen. <a href=\"http://www.csspurge.com/\">Dieses ist nämlich oft außer Rand und Band</a>. Wir empfehlen als Gegenmittel Systeme wie <a href=\"http://getbem.com/introduction/\">BEM</a>, klassische Codequalitätssicherungsmaßnahmen wie Reviewprozesse auf CSS anzuwenden, die Finger von Reset-Stylesheets oder Stylesheets wie <a href=\"https://necolas.github.io/normalize.css/\">Normalize.css</a> zu lassen und <a href=\"https://github.com/CSSLint/csslint\">ausgiebig</a> <a href=\"https://github.com/stylelint/stylelint\">zu</a> <a href=\"https://github.com/brigade/scss-lint\">linten</a>. Stefan empfiehlt außerdem CSS-Workshops mit <a href=\"http://csswizardry.com/\">Harry Roberts</a>, der sich durch weit überdurchschnittliche Checkung in diesem Bereich auszeichnet."
+    },
+    {
+      "title": "Our best practices are killing mobile web performance",
+      "href": "http://molily.de/mobile-web-performance/",
+      "time": "00:29:44",
+      "description": "Schaden Desktop-Performance-Best-Practices auf Mobile? Zumindest bei Lazy Loading und asynchronem JavaScript sieht es so aus. Generell ist das Aufstellen allgemeingültiger Regeln in einer Welt, in der <a href=\"http://slidedeck.io/Schepp/HTTP-2\">HTTP2</a> neben Oldschool-HTTP existiert, nicht ganz einfach. Projekte wie <a href=\"https://developers.google.com/speed/pagespeed/\">PageSpeed</a> und der SpeedIndex von <a href=\"http://www.webpagetest.org/\">webpagetest.org</a> (<a href=\"http://fettblog.eu/speed-index-explained-topconf/\">hier von Stefan detailliert erklärt</a>) probieren es trotzdem. Wie wir dann von HighTechWebTech zum Fazit „Make Flash great again“ kommen, verraten wir an dieser Stelle nicht."
+    }
+  ],
+  "links": [
+    {
+      "title": "Learn Redux Video Tutorial Course",
+      "href": "https://learnredux.com/",
+      "time": "00:00:00",
+      "description": "Der umtriebige Wes Bos erklärbärt in einer kleinen Videoserie Redux."
+    },
+    {
+      "title": "Web and Chrome at Google I/O 2016",
+      "href": "https://www.youtube.com/playlist?list=PLNYkxOF6rcIDz1TzmmMRBC-kd8zPRTQIP",
+      "time": "00:00:00",
+      "description": "Das für Web-Nerds interessanteste von der I/O 2016."
+    }
+  ]
+}

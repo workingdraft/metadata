@@ -1,0 +1,73 @@
+{
+  "id": 236,
+  "date": "2015-10-6",
+  "duration": "45:59",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Anselm Hannemann",
+      "team": [
+        "2014-05-05",
+        "2018-05-14"
+      ],
+      "twitter": "https://twitter.com/helloanselm",
+      "web": "http://anselm-hannemann.com/"
+    }
+  ],
+  "href": "https://workingdraft.de/236/",
+  "audio": "https://workingdraft.de/podpress_trac/web/2890/0/wd-236.mp3",
+  "title": "CSS Round Display Spec und Open Source Projekte",
+  "description": "Eine neue Folge des Working Drafts und wir sind mit geballter Manpower am Start.",
+  "news": [],
+  "topics": [
+    {
+      "title": "CSS Round Display Level 1",
+      "href": "http://www.w3.org/TR/2015/WD-css-round-display-1-20150922/",
+      "time": "00:00:10",
+      "description": "Es gibt einen neuen Vorschlag im Media Query Umfeld: Abfragen für runde Displays. Die Spezifikation befasst sich mit abgerundeten Displays wie für Uhren, jedoch nicht für Achtecke o.Ä.<br>\nWir fragen uns, warum man sich nicht auch Gedanken über 3D-Wölbungen macht. Zum Beispiel für den Einsatz von 3D in CSS. Außerdem diskutieren wir den allgemeinen Ansatz dieser Spezifikation und vergleichen mit Media Queries Level 2 und dem Media Type &#8222;Handheld&#8220;.<br>\nUnser Fazit: First Public Working Draft, Kaffeesatzleserei unsererseits."
+    },
+    {
+      "title": "Checklist for your new Open Source JavaScript Project",
+      "href": "http://ericdouglas.github.io/2015/09/27/checklist-for-your-new-open-source-javascript-project/",
+      "time": "00:15:59",
+      "description": "Eric Douglas schlägt einen Checkliste für JavaScript Open Source Projekte vor.<br>\nPeters <a href=\"https://github.com/SirPepe/diffsync-file-json\">Diffsync-JSON-File-Adapter</a> dient uns als Minimal-Diskussionsstartpunkt ohne Tests etc.<br>\nNächste Stufe: <a href=\"https://github.com/drublic/Store\">Store</a> von Hans mit Tests, Doku, Travis und Coverall (maximaler Gewinn mit minimalem Aufwand).<br>\nWir nehmen Bezug auf eine <a href=\"http://ashleynolan.co.uk/blog/frontend-tooling-survey-2015-results\">kürzlich erschienene Tool-Umfrage</a>.<br>\nStefans Perspektive als Teilnehmer an OSS-Projekten: Tests sind das wichtigste."
+    }
+  ],
+  "links": [
+    {
+      "title": "iOS9 Viewport Change",
+      "href": "https://www.reddit.com/r/web_design/comments/3la04p/psa_safari_on_ios9_has_a_media_query_bug/",
+      "time": "00:43:47",
+      "description": "iOS9 Safari Mobile rendert Webseiten neuerdings anders, wenn man <code>initial-scale=1</code> or <code>width=device-width</code> setzt. Dies bricht bestehende Websites. Vorsicht, bitte!"
+    },
+    {
+      "title": "The Best Regex Trick",
+      "href": "http://www.rexegg.com/regex-best-trick.html",
+      "time": "00:43:47",
+      "description": "Der beste Regex Trick, wenn man einen bestimmten String sucht, jedoch nicht, wenn dieser von bestimmten Zeichen umgeben ist."
+    }
+  ]
+}

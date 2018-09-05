@@ -1,0 +1,55 @@
+{
+  "id": 298,
+  "date": "2017-04-24",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "duration": "36:37",
+  "href": "https://workingdraft.de/298/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3367/0/wd-298.mp3",
+  "title": "Module, Bundling und Optimierung",
+  "description": "Hans, Schepp und Peter (mit einer Extraportion Heuschnupfen im Gepäck) widmeten sich in dieser Revision voll und ganz ECMAScript-Modulen und den dazugehörigen Tools.",
+  "topics": [
+    {
+      "title": "Module, Bundling und Optimierung",
+      "time": "00:00:13",
+      "description": "Das Contentful-Blog fragt: <a href=\"https://www.contentful.com/blog/2017/04/04/es6-modules-support-lands-in-browsers-is-it-time-to-rethink-bundling/\">is it time to rethink bundling?</a> Wir sind uns da noch nicht ganz sicher. Zwar unterstützen mittlerweile einige Browser die neue Syntax, <a href=\"http://exploringjs.com/es6/ch_modules.html#sec_modules-vs-scripts\">die zusätzlichen Details</a> sowie den <a href=\"https://blog.whatwg.org/js-modules\">module-Type für Scripts</a> (nebst dem dazugehörigen <a href=\"https://html.spec.whatwg.org/multipage/scripting.html#attr-script-nomodule\">nomodule</a>-Attribut), aber nur weil es einen neuen Hammer gibt, ist nicht plötzlich alles ein Nagel. Um Tree Shaking wirklich effektiv zu braucht man auch Dependencies in ES6-Syntax, was heute noch nicht die Regel ist. Zudem braucht man heutzutage, wenn man auf Transpilieren verzichtet, noch dedizierte ES6-Minifier wie das Babal-Plugin <a href=\"https://github.com/babel/babili\">babili</a>. Zum Abschluss sprechen wir noch über den <a href=\"https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c\">Vergleich Rollup vs. Webpack</a> und automatisierte Mikro-Optimierungen wie <a href=\"https://github.com/nolanlawson/optimize-js\">optimize-js</a> (die, weil Teil des Buildprozesses und nicht des Source Codes, nicht so schlimm sind <a href=\"https://www.youtube.com/watch?v=r76ZjdzFExg\">wie sonst</a>)."
+    }
+  ],
+  "links": [
+    {
+      "title": "Free Microsoft Edge testing in partnership with BrowserStack",
+      "href": "https://blogs.windows.com/msedgedev/2017/03/30/free-edge-testing-browserstack/",
+      "time": "00:34:40",
+      "description": "Wer sich kein Windows installieren mag, kann sich jetzt mit Browser Stack behelfen."
+    },
+    {
+      "title": "Async iterators and generators",
+      "href": "https://jakearchibald.com/2017/async-iterators-and-generators/",
+      "time": "00:34:40",
+      "description": "Von Jake Archibald in gewohnter Qualität erklärt."
+    }
+  ]
+}
