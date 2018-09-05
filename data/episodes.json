@@ -5293,5 +5293,177 @@
     "href": "https://workingdraft.de/341/",
     "audio": "https://workingdraft.de/podpress_trac/web/3678/0/wd-341.mp3",
     "title": "Visual Studio Code"
+  },
+  "342": {
+    "id": 342,
+    "date": "2018-06-13",
+    "people": [
+      "fetzi_io",
+      "drublic"
+    ],
+    "duration": "59:43",
+    "href": "https://workingdraft.de/342/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3695/0/wd-342.mp3",
+    "title": "Was gibt es Neues in Laravel?"
+  },
+  "343": {
+    "id": 343,
+    "date": "2018-06-15",
+    "people": [
+      "drublic",
+      "ddprrt",
+      "sir_pepe",
+      "derSchepp"
+    ],
+    "duration": "1:07:04",
+    "href": "https://workingdraft.de/343/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3715/0/wd-343.mp3",
+    "title": "Neue Features für JavaScript"
+  },
+  "344": {
+    "id": 344,
+    "date": "2018-06-17",
+    "people": [
+      "another_clue",
+      "drublic",
+      "sir_pepe"
+    ],
+    "duration": "42:58",
+    "href": "https://workingdraft.de/344/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3713/0/wd-344.mp3",
+    "title": "ReactPHP"
+  },
+  "345": {
+    "id": 345,
+    "date": "2018-07-9",
+    "people": [
+      "fhemberger",
+      "derSchepp",
+      "ddprrt",
+      "drublic"
+    ],
+    "duration": "1:04:01",
+    "href": "https://workingdraft.de/345/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3736/0/wd-345.mp3",
+    "title": "DevOps – Kubernetes, VMs und Co."
+  },
+  "346": {
+    "id": 346,
+    "date": "2018-07-22",
+    "people": [
+      "sir_pepe",
+      "ddprrt",
+      "drublic",
+      "tbaldauf"
+    ],
+    "duration": "1:28:00",
+    "href": "https://workingdraft.de/346/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3744/0/wd-346.mp3",
+    "title": "Wie optimiere ich meine Bilder fürs Web?"
+  },
+  "347": {
+    "id": 347,
+    "date": "2018-07-23",
+    "people": [
+      "fetzi_io",
+      "drublic",
+      "derSchepp"
+    ],
+    "duration": "47:34",
+    "href": "https://workingdraft.de/347/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3766/0/wd-347.mp3",
+    "title": "OAuth"
+  },
+  "348": {
+    "id": 348,
+    "date": "2018-07-25",
+    "people": [
+      "maddesigns",
+      "derSchepp",
+      "ddprrt",
+      "rodneyrehm"
+    ],
+    "duration": "1:23:38",
+    "href": "https://workingdraft.de/348/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3786/0/wd-348.mp3",
+    "title": "Performance in 2018"
+  },
+  "349": {
+    "id": 349,
+    "date": "2018-07-25",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "rodneyrehm"
+    ],
+    "duration": "1:05:25",
+    "href": "https://workingdraft.de/349/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3770/0/wd-349.mp3",
+    "title": "Serverseitige Entwicklung mit NodeUnser Sponsor"
+  },
+  "350": {
+    "id": 350,
+    "date": "2018-08-9",
+    "people": [
+      "drublic",
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "duration": "52:19",
+    "href": "https://workingdraft.de/350/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3750/0/wd-350.mp3",
+    "title": "HTTP Header"
+  },
+  "351": {
+    "id": 351,
+    "date": "2018-08-13",
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "g33konaut"
+    ],
+    "duration": "1:09:23",
+    "href": "https://workingdraft.de/351/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3754/0/wd-351.mp3",
+    "title": "JavaScript und die Google Suche"
+  },
+  "352": {
+    "id": 352,
+    "date": "2018-08-16",
+    "people": [
+      "ddprrt",
+      "drublic",
+      "sir_pepe"
+    ],
+    "duration": "59:14",
+    "href": "https://workingdraft.de/352/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3805/0/wd-352.mp3",
+    "title": "TypeScript 3.0"
+  },
+  "353": {
+    "id": 353,
+    "date": "2018-08-20",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "makochnet"
+    ],
+    "duration": "1:14:51",
+    "href": "https://workingdraft.de/353/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3818/0/wd-353.mp3",
+    "title": "Kommunikation in (agilen) Teams"
+  },
+  "354": {
+    "id": 354,
+    "date": "2018-08-29",
+    "people": [
+      "ddprrt",
+      "drublic",
+      "sir_pepe"
+    ],
+    "duration": "43:27",
+    "href": "https://workingdraft.de/354/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3831/0/wd-354.mp3",
+    "title": "Babel-Presets und Konferenzen"
   }
 }

@@ -1,0 +1,49 @@
+{
+  "id": 347,
+  "date": "2018-07-23",
+  "people": [
+    {
+      "name": "Johannes Pichler",
+      "twitter": "https://twitter.com/fetzi_io"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    }
+  ],
+  "duration": "47:34",
+  "href": "https://workingdraft.de/347/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3766/0/wd-347.mp3",
+  "title": "OAuth",
+  "description": "Die Revision 347 steht ganz im Zeichen der Autorisierung mit OAuth. Zumindest sprechen wir viel über OAuth. Und zwar mit <a href=\"https://johannespichler.com/\">Johannes Pichler</a>, der bei karriere.at als Backend-Entwickler unterwegs ist.",
+  "topics": [
+    {
+      "title": "Was ist OAuth?",
+      "time": "00:01:13",
+      "description": "Johannes erklärt erst mal was OAuth ist und bringt uns das Thema der Autorisierung näher. Wir lernen <a href=\"https://jwt.io/\">JSON Web Tokens</a> kennen."
+    },
+    {
+      "title": "Security, Anwendungsfälle und Implementierungen",
+      "time": "00:12:36",
+      "description": "Wir sprechen über Praktikabilität, Sicherheit und weitere Punkte einer guten Autorisierung. Darüber hinaus sprechen wir ein Praxis-Beispiel durch und schauen auf Implementierungen von Dienstleistern wie Facebook und Google."
+    }
+  ],
+  "links": [
+    {
+      "title": "code.talks 2017 – Protect your API with OAuth2",
+      "href": "https://www.youtube.com/watch?v=v-s5Y93iv5w",
+      "description": "Ein gutes Intro zu OAuth2."
+    }
+  ]
+}

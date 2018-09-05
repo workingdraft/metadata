@@ -1,0 +1,39 @@
+{
+  "id": 344,
+  "date": "2018-06-17",
+  "people": [
+    {
+      "name": "Christian Lück",
+      "twitter": "https://twitter.com/another_clue"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "duration": "42:58",
+  "href": "https://workingdraft.de/344/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3713/0/wd-344.mp3",
+  "title": "ReactPHP",
+  "description": "Hans und Peter fragten in dieser Revision <strong>Christian Lück</strong> (<a href=\"https://www.lueck.tv/\">Web</a>, <a href=\"https://github.com/clue/\">Github</a>, <a href=\"https://twitter.com/another_clue\">Twitter</a>), seines Zeichens einer der Maintainer von React PHP, zu seinem Lieblingsthema aus.",
+  "topics": [
+    {
+      "title": "ReactPHP",
+      "href": "https://reactphp.org/",
+      "time": "00:00:43",
+      "description": "ReactPHP ist ein <a href=\"https://github.com/reactphp\">Open-Source-Projekt</a>, das aus Node.js bekannte Konzepte (v.a. asynchrones IO) für PHP umsetzt. Ein Use Case hierfür wäre alles, was mit Kommunikation und Datenströmen zu tun hat, für 0815-Webseiten eignet sich ReactPHP nicht so sehr (und es würde bei traditionellen Hostern auch nicht ohne weiteres funktionieren). Und so quatschten wir über Streaming-APIs, Event Loops, Streams, Promises, synchrone und asynchrone Funktionen in PHP&nbsp;&hellip;"
+    }
+  ]
+}

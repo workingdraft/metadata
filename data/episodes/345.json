@@ -1,0 +1,64 @@
+{
+  "id": 345,
+  "date": "2018-07-9",
+  "people": [
+    {
+      "name": "Frederic Hemberger",
+      "twitter": "https://twitter.com/fhemberger",
+      "web": "http://frederic-hemberger.de/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    }
+  ],
+  "duration": "1:04:01",
+  "href": "https://workingdraft.de/345/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3736/0/wd-345.mp3",
+  "title": "DevOps – Kubernetes, VMs und Co.",
+  "description": "Heute sprechen wir über Container-Software wie VMs, Docker und Kubernetes und wie diese ineinander greifen.\n\nZur aktuellen Sendung ist Frederic Hemberger (<a href=\"https://frederic-hemberger.de/\">Web</a>, <a href=\"https://twitter.com/fhemberger\">Twitter</a>) zu Gast, der <a href=\"http://workingdraft.de/337/\">erst kürzlich mit uns über die Beziehung von DevOps zur Täglichen Arbeit als Webentwickler gesprochen</a>.",
+  "news": [],
+  "topics": [
+    {
+      "title": "DevOps – Was sind eigentlich diese Container (und mehr)?",
+      "time": "00:00:34",
+      "description": "Erst mal müssen wir klären, was es mit diesen Container-basierten Systemen eigentlich auf sich hat und wie Docker dieses System umsetzt. Dazu sprechen wir über Virtual Machines und wie diese sich im Gegensatz zu Docker positionieren. Danach gibt Frederic uns einen Einblick in Kubernetes und was das System tut."
+    }
+  ],
+  "links": [
+    {
+      "title": "KubeWeekly",
+      "href": "https://kubeweekly.com/",
+      "description": "<i>DER</i> wöchentliche Newsletter rund um Kubernetes."
+    },
+    {
+      "title": "KubeCon’18 EU",
+      "href": "https://github.com/cloudyuga/kubecon18-eu",
+      "description": "Präsentationen und Videos der KubeCon 2018 EU."
+    },
+    {
+      "title": "Kubernetes Forum",
+      "href": "https://discuss.kubernetes.io/",
+      "description": "Für alle, die mal was diskutieren wollen (zum Thema Kubernetes)."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 354,
+  "date": "2018-08-29",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "duration": "43:27",
+  "href": "https://workingdraft.de/354/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3831/0/wd-354.mp3",
+  "title": "Babel-Presets und Konferenzen",
+  "description": "Hans, Peter und Stefan erkunden Details von Babels Zukunftsplanung und bewerben in dreister Form Konferenzen, Konferenz-Ersatzveranstaltungen und Workshops.",
+  "topics": [
+    {
+      "title": "Removing Babel’s Stage Presets",
+      "href": "https://babeljs.io/blog/2018/07/27/removing-babels-stage-presets#preventing-proposal-lock-in",
+      "time": "00:00:10",
+      "description": "Babel plant, <a href=\"https://babeljs.io/docs/en/next/presets\">Presets</a> (gemäß der <a href=\"https://tc39.github.io/process-document/\">Stages des TC39-Prozesses</a> gebündelte Implementierungen <a href=\"http://kangax.github.io/compat-table/es2016plus/\">neuer ESScript-Features</a>) abzuschaffen. Bei der Diskussion dieser Nachricht kommt heraus, dass wir kaum Presets benutzen, sondern eher Einzelfeatures wie <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax\">Object Spread</a> und <a href=\"https://babeljs.io/docs/en/babel-plugin-transform-class-properties/\">Class Properties</a> nachrüsten. Wir sprechen über unsere Transpiler-Nutzung im Wandel der Zeit, Babel als Experimentier-Plattform für z.B. den <a href=\"https://github.com/tc39/proposal-pipeline-operator\">Pipeline Operator</a>, über <a href=\"https://github.com/tc39/proposal-flatMap/pull/56\">Smoosh Gate</a> und Modul-Bundler wie <a href=\"https://parceljs.org/\">Parcel</a> und <a href=\"https://webpack.js.org/\">Webpack</a>. Im übrigen sind wir der Auffassung, dass wir alle dem Babel-Macher Henry Zhu <a href=\"https://www.patreon.com/henryzhu\">für eine harte Arbeit ein mehr Geldeinheiten rüberschieben sollten!</a>"
+    }
+  ],
+  "links": [
+    {
+      "title": "NightlyGrill",
+      "href": "https://colloq.io/events/nightlygrill/2018/koln/1",
+      "time": "00:37:19",
+      "description": "Das beste Event, dass man anstelle einer Konferenz besuchen könnte."
+    },
+    {
+      "title": "OAuth2 Workshop am 18.10.",
+      "href": "https://colloq.io/events/tollwerkstatt-workshops/2018/nurnberg/2",
+      "time": "00:37:19",
+      "description": "Lasst euch in Nürnberg von Aaron Parecki erleuchten!"
+    },
+    {
+      "title": "Webkongress Erlangen",
+      "href": "https://www.webkongress.fau.de/",
+      "time": "00:37:19",
+      "description": "Gemütliche Konferenz im gemütlichen Erlangen."
+    }
+  ]
+}

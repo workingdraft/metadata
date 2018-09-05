@@ -27630,7 +27630,10 @@
         "twitter": "https://twitter.com/sir_pepe",
         "web": "http://peterkroener.de/"
       },
-      null
+      {
+        "name": "Surma",
+        "twitter": "https://twitter.com/DasSurma"
+      }
     ],
     "duration": "1:07:48",
     "href": "https://workingdraft.de/329/",
@@ -28326,6 +28329,705 @@
         "title": "Scrolling",
         "time": "00:54:53",
         "description": "Hans empfiehlt den Artikel <a href=\"https://evilmartians.com/chronicles/scroll-to-the-future-modern-javascript-css-scrolling-implementations\">Scroll to the future</a> sowie die CSS-Features <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-behavior\">scroll-behavior</a> und <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Scroll_Snap_Points\">Scroll Snap Points</a>."
+      }
+    ]
+  },
+  "342": {
+    "id": 342,
+    "date": "2018-06-13",
+    "people": [
+      {
+        "name": "Johannes Pichler",
+        "twitter": "https://twitter.com/fetzi_io"
+      },
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      }
+    ],
+    "duration": "59:43",
+    "href": "https://workingdraft.de/342/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3695/0/wd-342.mp3",
+    "title": "Was gibt es Neues in Laravel?",
+    "description": "Deshalb ist in dieser Revision <a href=\"https://johannespichler.com/\">Johannes</a> <a href=\"https://twitter.com/fetzi_io\">Pichler</a> unser Gast und wir sprechen gemeinsam über die Neuerungen und technischen Gegebenheiten von Laravel.\n\nNachdem wir in <a href=\"http://workingdraft.de/147/\">Revision 147</a> schon einmal über das PHP Framework Laravel gesprochen haben, dachten wir uns, es sei langsam mal wieder Zeit für eine Auffrischung.",
+    "topics": [
+      {
+        "title": "Laravel",
+        "href": "https://laravel.com/",
+        "time": "00:02:00",
+        "description": "<p>Johannes erklärt, was es seit der Revision 147 alles Neues zum Thema Laravel gibt. Wir sprechen über Bootstrapping, Facades, Collections, Events, Queues und vieles mehr.</p>\n<p>Anhand eines praktischen Beispiels hangeln wir uns an einer Umsetzung einer Applikation entlang:</p>\n<ul>\n<li>REST Schnittstelle fürs Frontend</li>\n<li>Datenhaltung in DB mit Produkten, User, Metadaten</li>\n<li>User Daten kommen von Schnittstelle und können gecacht werden</li>\n<li>Übergeben von Daten an Payment Schnittstelle</li>\n</ul>\n<p>Darüber hinaus sprechen wir über die Möglichkeiten, Laravel fürs Frontend einzusetzen.</p>\n<p>Weitere Links:</p>\n<ul>\n<li><a href=\"https://laravel.com/docs/5.6/eloquent\">Eloquent ORM</a></li>\n<li><a href=\"https://spark.laravel.com/\">Spark</a> &#8211; User Verwaltung</li>\n<li><a href=\"https://laravel.com/docs/5.6/billing\">Bezahlungsmethode</a></li>\n<li><a href=\"https://lumen.laravel.com/\">Lumen</a> &#8211; ein Micro-Service Framework</li>\n<li><a href=\"https://laravel.com/docs/5.6/artisan\">Artisan</a> &#8211; das Commandline Interface</li>\n<li><a href=\"https://laravel.com/docs/5.6/horizon\">Horizon</a> &#8211; Redis Monitoring Tool</li>\n<li><a href=\"https://laravel.com/docs/5.6/dusk\">Dusk</a> &#8211; End to End Testing</li>\n</ul>"
+      }
+    ],
+    "links": [
+      {
+        "title": "Laravel Docs",
+        "href": "https://laravel.com/docs/",
+        "time": "00:55:14",
+        "description": "Viele gute Videos zum Thema Laravel und rund ums Thema. Ideal für jeden Einsteiger und auch Fortgeschrittene."
+      },
+      {
+        "title": "Laracasts",
+        "href": "https://laracasts.com",
+        "time": "00:55:14",
+        "description": "Viele gute Videos zum Thema Laravel und rund ums Thema. Ideal für jeden Einsteiger und auch Fortgeschrittene."
+      }
+    ]
+  },
+  "343": {
+    "id": 343,
+    "date": "2018-06-15",
+    "people": [
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      },
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      },
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      }
+    ],
+    "duration": "1:07:04",
+    "href": "https://workingdraft.de/343/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3715/0/wd-343.mp3",
+    "title": "Neue Features für JavaScript",
+    "description": "Inspiriert von einem vergleichsweise dünnen <a href=\"https://medium.freecodecamp.org/here-are-three-upcoming-changes-to-javascript-that-youll-love-387bce1bfb0b\">Artikel</a> über ein paar unspektakuläre JS-Neuerungen diskutierten Schepp, Hans, Stefan und Peter ihre persönlichen Favoriten in der <a href=\"https://github.com/tc39/proposals\">JS-Feature-Pipeline</a>.",
+    "topics": [
+      {
+        "title": "Kommende JavaScript-Features",
+        "time": "00:00:12",
+        "description": "Wir bespechen sowohl kommende Features die wir gut finden als auch einige, die uns nicht zusagen. Im einzelnen kommen zur Sprache:<p></p>\n<ul>\n<li>der <a href=\"https://github.com/tc39/proposal-optional-chaining\">Safe Navigation Operator</a> (auch bereits bekannt aus <a href=\"http://coffeescript.org/\">CoffeeScript</a> o.Ä.)</li>\n<li>der <a href=\"https://github.com/tc39/proposal-nullish-coalescing\">Nullish Coalescing Operator</a> (bekannt aus PHP o.Ä.)</li>\n<li>der <a href=\"https://github.com/tc39/proposal-pipeline-operator\">Pipeline Operator</a> (bekannt aus Elm)</li>\n<li><a href=\"http://2ality.com/2016/10/asynchronous-iteration.html\">Asynchrone Iteration</a></li>\n<li><a href=\"https://github.com/tc39/proposal-private-methods\">Private Methoden</a> und <a href=\"https://github.com/tc39/proposal-class-fields\">private Felder</a> für <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes\">Klassen</a></li>\n<li>das <a href=\"https://github.com/tc39/proposal-global\">Global-Proposal</a></li>\n<li><a href=\"http://github.com/tc39/proposal-decorators\">Decorators</a></li>\n<li><a href=\"https://github.com/tc39/proposal-bigint\">BigInt</a></li>\n<li><a href=\"https://github.com/tc39/proposal-dynamic-import\">Dynamisches Import</a> und <a href=\"https://github.com/tc39/proposal-import-meta\">Metainformationen für Imports</a></li>\n<li><a href=\"https://github.com/tc39/proposal-numeric-separator\">Unterstriche in Zahlen</a></li>\n<li><a href=\"https://github.com/tc39/proposal-flatMap\">flatMap</a></li>\n<li><a href=\"https://github.com/tc39/proposal-observable\">Observables</a>(bekannt aus u.A. <a href=\"http://reactivex.io/rxjs/\">RxJS</a>)</li>\n<li>Außerdem erträumt sich Peter Selbstdefinierte Equality-Logik, ist aber pessimistisch</li>\n</ul>"
+      }
+    ]
+  },
+  "344": {
+    "id": 344,
+    "date": "2018-06-17",
+    "people": [
+      {
+        "name": "Christian Lück",
+        "twitter": "https://twitter.com/another_clue"
+      },
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      }
+    ],
+    "duration": "42:58",
+    "href": "https://workingdraft.de/344/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3713/0/wd-344.mp3",
+    "title": "ReactPHP",
+    "description": "Hans und Peter fragten in dieser Revision <strong>Christian Lück</strong> (<a href=\"https://www.lueck.tv/\">Web</a>, <a href=\"https://github.com/clue/\">Github</a>, <a href=\"https://twitter.com/another_clue\">Twitter</a>), seines Zeichens einer der Maintainer von React PHP, zu seinem Lieblingsthema aus.",
+    "topics": [
+      {
+        "title": "ReactPHP",
+        "href": "https://reactphp.org/",
+        "time": "00:00:43",
+        "description": "ReactPHP ist ein <a href=\"https://github.com/reactphp\">Open-Source-Projekt</a>, das aus Node.js bekannte Konzepte (v.a. asynchrones IO) für PHP umsetzt. Ein Use Case hierfür wäre alles, was mit Kommunikation und Datenströmen zu tun hat, für 0815-Webseiten eignet sich ReactPHP nicht so sehr (und es würde bei traditionellen Hostern auch nicht ohne weiteres funktionieren). Und so quatschten wir über Streaming-APIs, Event Loops, Streams, Promises, synchrone und asynchrone Funktionen in PHP&nbsp;&hellip;"
+      }
+    ]
+  },
+  "345": {
+    "id": 345,
+    "date": "2018-07-9",
+    "people": [
+      {
+        "name": "Frederic Hemberger",
+        "twitter": "https://twitter.com/fhemberger",
+        "web": "http://frederic-hemberger.de/"
+      },
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      },
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      }
+    ],
+    "duration": "1:04:01",
+    "href": "https://workingdraft.de/345/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3736/0/wd-345.mp3",
+    "title": "DevOps – Kubernetes, VMs und Co.",
+    "description": "Heute sprechen wir über Container-Software wie VMs, Docker und Kubernetes und wie diese ineinander greifen.\n\nZur aktuellen Sendung ist Frederic Hemberger (<a href=\"https://frederic-hemberger.de/\">Web</a>, <a href=\"https://twitter.com/fhemberger\">Twitter</a>) zu Gast, der <a href=\"http://workingdraft.de/337/\">erst kürzlich mit uns über die Beziehung von DevOps zur Täglichen Arbeit als Webentwickler gesprochen</a>.",
+    "news": [],
+    "topics": [
+      {
+        "title": "DevOps – Was sind eigentlich diese Container (und mehr)?",
+        "time": "00:00:34",
+        "description": "Erst mal müssen wir klären, was es mit diesen Container-basierten Systemen eigentlich auf sich hat und wie Docker dieses System umsetzt. Dazu sprechen wir über Virtual Machines und wie diese sich im Gegensatz zu Docker positionieren. Danach gibt Frederic uns einen Einblick in Kubernetes und was das System tut."
+      }
+    ],
+    "links": [
+      {
+        "title": "KubeWeekly",
+        "href": "https://kubeweekly.com/",
+        "description": "<i>DER</i> wöchentliche Newsletter rund um Kubernetes."
+      },
+      {
+        "title": "KubeCon’18 EU",
+        "href": "https://github.com/cloudyuga/kubecon18-eu",
+        "description": "Präsentationen und Videos der KubeCon 2018 EU."
+      },
+      {
+        "title": "Kubernetes Forum",
+        "href": "https://discuss.kubernetes.io/",
+        "description": "Für alle, die mal was diskutieren wollen (zum Thema Kubernetes)."
+      }
+    ]
+  },
+  "346": {
+    "id": 346,
+    "date": "2018-07-22",
+    "people": [
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      },
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      },
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Tobias Baldauf",
+        "twitter": "https://twitter.com/tbaldauf",
+        "web": "http://tobias.is/"
+      }
+    ],
+    "duration": "1:28:00",
+    "href": "https://workingdraft.de/346/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3744/0/wd-346.mp3",
+    "title": "Wie optimiere ich meine Bilder fürs Web?",
+    "description": "Einige Jahre nach der <a href=\"http://workingdraft.de/158/\">ersten Sendung (158)</a> mit Trivago- und Ex-Akamai Performance-Experte <a href=\"https://tobias.is/\">Tobias Baldauf</a> (<a href=\"https://twitter.com/tbaldauf\">Twitter</a>, <a href=\"https://github.com/technopagan\">GitHub</a>) ist es wieder so weit: Tobias besucht uns und gibt sein Wissen preis. Dieses mal besprechen wir sehr gezielt das Thema Bildoptimierungen.",
+    "topics": [
+      {
+        "title": "SQIP – aktueller Status, die Zukunft",
+        "href": "https://github.com/technopagan/sqip/",
+        "time": "00:01:36",
+        "description": "SQIP ist eine Rendering-Technologie, die auf SVG basiert. Diese ermöglicht es kleine Platzhalter-Bilder zu erstellen und auszuliefern, bevor das eigentliche Bild geladen ist. Es gibt einige Implementierungen in CMS, wie <a href=\"https://mobile.twitter.com/axe312ger/status/991711918485360642\">Gatsby</a> und Kirby."
+      },
+      {
+        "title": "Progressives Image Encoding",
+        "time": "00:13:55",
+        "description": "Abseits von SQIP, sprechen wir über Bild-Encodings, die Bilder schneller rendern. Dazu zählt <a href=\"https://de.wikipedia.org/wiki/JPEG#Progressives_JPEG\">Progressive JPEG</a>.<br>\nWeitere Links:<p></p>\n<ul>\n<li>\n<a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API\">Intersection Observer API</a>\n</li>\n<li>\n<a href=\"https://blog.radware.com/applicationdelivery/wpo/2014/09/progressive-image-rendering-good-evil/\">JPEG-Rehabilitation im Angesicht der Radware-Studie</a>\n</li>\n<li><a href=\"https://digitalintelligencetoday.com/the-kayak-effect-why-making-customers-wait-drives-satisfaction/\">Der paradoxe Kayak-Effekt</a>\n</li>\n<li><a href=\"https://github.com/svg/svgo\">SVGO &#8211; SVG Optimierungstool</a></li>\n<li><a href=\"https://imageoptim.com/\">ImageOptim &#8211; Bild-Optimierungs-GUI für macOS</a></li>\n<li>Einige Bild-Formate, die man auch mal nutzen kann:\n<ul>\n<li><a href=\"https://github.com/mozilla/mozjpeg\">MOZJPEG</a></li>\n<li><a href=\"https://de.wikipedia.org/wiki/WebP\">WebP</a>, (wenn auch z.Z. nur in <a href=\"https://caniuse.com/#feat=webp\">diesen Browsern unterstützt</a>)</li>\n<li><a href=\"https://de.wikipedia.org/wiki/JPEG_2000\">JPEG 2000</a></li>\n<li><a href=\"https://de.wikipedia.org/wiki/JPEG_XR\">JPEG XR</a></li>\n<li><a href=\"https://de.wikipedia.org/wiki/High_Efficiency_Image_File_Format\">HEIFF</a></li>\n<li><a href=\"https://flif.info\">FLIF</a></li>\n</ul>\n</li><li>Image-Optimierung + Art Direction in der Cloud: <a href=\"https://cloudinary.com/\">Cloudinary</a></li>\n<li><a href=\"https://github.com/technopagan/mss-saliency\">MSS &#8211; Regions of Interest in Bildern finden</a></li>\n</ul>"
+      },
+      {
+        "title": "Web Performance Budgets != Fixed Thresholds",
+        "href": "https://tobias.is/blogging/web-performance-budgets-as-currency/",
+        "time": "00:55:04",
+        "description": "Web Performance Budgets sind sehr beliebt, sollten aber keine festen Thresholds haben, argumentiert Tobias."
+      },
+      {
+        "title": "UX: Web Performance und Revenue Impact",
+        "time": "01:04:32",
+        "description": "Oft ist die Erwartung, dass man durch Bildkompression bessere Performance erreicht und somit Nutzer mehr durch Bildgalerien klicken. Nachforschungen von Trivago zeigen allerdings, dass die Benutzer einige Zeit brauchen, bis die bessere Performance beim Benutzer verstanden ist. Das bedeutet also: Geduld, Kadenz beachten, User in Kohorten einteilen."
+      },
+      {
+        "title": "Ein Ausblick auf die Bildalgorithmen der Zukunft",
+        "time": "01:11:35",
+        "description": "Wir sprechen über die Zukunft und schauen auf die zunehmende Fragmentierung im Image-Format-Markt. Tobias skizziert Custom Decoder für Bilder mit WebAssembly."
+      }
+    ],
+    "links": [
+      {
+        "title": "Neue WebPerf Conferences in Europa: DeltaV",
+        "href": "https://speakerdeck.com/tbaldauf/25-percent-faster-hotel-search-web-performance-trivago",
+        "time": "01:23:28",
+        "description": "Es gibt wieder eine Konferenz in Europa die sich mit dem Thema Web Performance beschäftigt."
+      }
+    ]
+  },
+  "347": {
+    "id": 347,
+    "date": "2018-07-23",
+    "people": [
+      {
+        "name": "Johannes Pichler",
+        "twitter": "https://twitter.com/fetzi_io"
+      },
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      }
+    ],
+    "duration": "47:34",
+    "href": "https://workingdraft.de/347/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3766/0/wd-347.mp3",
+    "title": "OAuth",
+    "description": "Die Revision 347 steht ganz im Zeichen der Autorisierung mit OAuth. Zumindest sprechen wir viel über OAuth. Und zwar mit <a href=\"https://johannespichler.com/\">Johannes Pichler</a>, der bei karriere.at als Backend-Entwickler unterwegs ist.",
+    "topics": [
+      {
+        "title": "Was ist OAuth?",
+        "time": "00:01:13",
+        "description": "Johannes erklärt erst mal was OAuth ist und bringt uns das Thema der Autorisierung näher. Wir lernen <a href=\"https://jwt.io/\">JSON Web Tokens</a> kennen."
+      },
+      {
+        "title": "Security, Anwendungsfälle und Implementierungen",
+        "time": "00:12:36",
+        "description": "Wir sprechen über Praktikabilität, Sicherheit und weitere Punkte einer guten Autorisierung. Darüber hinaus sprechen wir ein Praxis-Beispiel durch und schauen auf Implementierungen von Dienstleistern wie Facebook und Google."
+      }
+    ],
+    "links": [
+      {
+        "title": "code.talks 2017 – Protect your API with OAuth2",
+        "href": "https://www.youtube.com/watch?v=v-s5Y93iv5w",
+        "description": "Ein gutes Intro zu OAuth2."
+      }
+    ]
+  },
+  "348": {
+    "id": 348,
+    "date": "2018-07-25",
+    "people": [
+      {
+        "name": "Sven Wolfermann",
+        "twitter": "https://twitter.com/maddesigns",
+        "web": "http://maddesigns.de/"
+      },
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      },
+      {
+        "name": "Rodney Rehm",
+        "team": [
+          "2011-09-16"
+        ],
+        "twitter": "https://twitter.com/rodneyrehm",
+        "web": "http://rodneyrehm.de/en/"
+      }
+    ],
+    "duration": "1:23:38",
+    "href": "https://workingdraft.de/348/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3786/0/wd-348.mp3",
+    "title": "Performance in 2018",
+    "description": "Kollege <a href=\"https://twitter.com/maddesigns\">Sven Wolfermann</a> kommt zu Besuch und erläutert mit uns den Stand der Performance Optimierungen im Jahr 2018.",
+    "topics": [
+      {
+        "title": "Performance",
+        "time": "00:00:50",
+        "description": "Gemeinsam mit Sven diskutieren wir, was man heutzutage alles machen soll und kann, um die Geschwindigkeit der Webseiten zu verbessern. Wir beginnen einsteigerfreundlich mit diversen Werkzeugen wie <a href=\"http://www.webpagetest.org/\">Webpagetest</a>, und gehen dann auf neue Browserfeatures ein, die uns die Optimierung einfacher machen. Mit dabei sind <a href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Preloading_content\"><code>preload</code> und <a href=\"https://jakearchibald.com/2017/es-modules-in-browsers/\">ES Module</a>. In Sachen Fonts besprechen wir <a href=\"https://www.zeichenschatz.net/typografie/how-to-start-with-variable-fonts-on-the-web.html\">Variable Fonts</a>, <a href=\"https://www.npmjs.com/package/subfont\">Subfont</a> und das neue <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display\"><code>font-display</code></a> property. Außerdem gibt&#8217;s einen Rundumschlag über Lazy Loading, u.a. mit der <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API\">Intersection Observer</a> API.</a>"
+      }
+    ],
+    "links": [
+      {
+        "title": "To push or not to push.",
+        "href": "https://www.youtube.com/watch?v=cznVISavm-k",
+        "time": "01:21:54",
+        "description": "Der Patrick Hamann kennt sich halt mit HTTP/2 super gut aus. Zeigt er auch hier."
+      },
+      {
+        "title": "performance.now()",
+        "href": "https://perfnow.nl/",
+        "time": "01:21:54",
+        "description": "Performance Konferenz (!) in Amsterdam (!!) mit Steve Souders (!!!) und Paul Irish (!!!!) und noch vielen, vielen anderen? Fixbesuch im November."
+      },
+      {
+        "title": "Google Workbox",
+        "href": "https://developers.google.com/web/tools/workbox/",
+        "time": "01:21:54",
+        "description": "Die Workbox hilft prima, wenn man offlinefähige Websites und PWAs machen will."
+      },
+      {
+        "title": "PWA Builder",
+        "href": "https://www.pwabuilder.com/",
+        "time": "01:21:54",
+        "description": "Noch ein wenig einfacher und oft ausreichend ist Microsofts PWA Builder."
+      }
+    ]
+  },
+  "349": {
+    "id": 349,
+    "date": "2018-07-25",
+    "people": [
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Rodney Rehm",
+        "team": [
+          "2011-09-16"
+        ],
+        "twitter": "https://twitter.com/rodneyrehm",
+        "web": "http://rodneyrehm.de/en/"
+      }
+    ],
+    "duration": "1:05:25",
+    "href": "https://workingdraft.de/349/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3770/0/wd-349.mp3",
+    "title": "Serverseitige Entwicklung mit NodeUnser Sponsor",
+    "description": "<a href=\"http://gravitycv.com/\" style=\"float: right; margin: 1rem 0 0 1rem; width: 100%; max-width: 500px\"><img src=\"http://workingdraft.de/wp-content/uploads/2018/07/Flexibles-CV-Management_GravityCV.png\" alt=\"\" class=\"alignnone size-medium wp-image-3774\" style=\"display: block; max-width: 100%;\" srcset=\"https://workingdraft.de/wp-content/uploads/2018/07/Flexibles-CV-Management_GravityCV.png 500w, https://workingdraft.de/wp-content/uploads/2018/07/Flexibles-CV-Management_GravityCV-300x132.png 300w\" sizes=\"(max-width: 500px) 100vw, 500px\"></a><p></p>\n<h2>Unser Sponsor</h2>\n<p>Diese Folge wird gesponsert vom neuen CV-Tool “GravityCV”, für einfaches, flexibles und schnelles erstellen und versenden Deines Lebenslaufs.</p>\n<p>“GravityCV” &#8211; Professionelles Design &#038; hoher Datenschutz für dein CV.<br>\nKostenlos anmelden unter <a href=\"http://gravitycv.com/\">gravitycv.com</a>.\n</p>\n\nDer Schepp, Rodney und Hans sprechen über die Entwicklung von serverseitigen Applikationen mit Node.",
+    "topics": [
+      {
+        "title": "CLI Tools",
+        "time": "00:01:27",
+        "description": "Selbstgeschriebene Command Line Interface (CLI) Tools sind hilfreich, wenn man viel auf der Command Line unterwegs ist. Mit Node kann man eigene Tools sehr einfach schreiben. Wir erklären wie und welche Module dabei helfen können. Hier eine Auswahl der genannten:<p></p>\n<ul>\n<li><a href=\"https://www.npmjs.com/package/meow\">Meow</a> &#8211; Argument Parsing</li>\n<li><a href=\"https://www.npmjs.com/package/opn\">opn</a> &#8211; Liest einzelne Dateien oder Websites</li>\n<li><a href=\"https://www.npmjs.com/package/ora\">ora</a> &#8211; Aktivitätsindikator (Spinner)</li>\n<li><a href=\"https://www.npmjs.com/package/prompt\">prompt</a> &#8211; Abfragen von User-Input</li>\n<li><a href=\"https://www.npmjs.com/package/shelljs\">shelljs</a> &#8211; Einheitliche Command Line API für Windows, Linux und Mac</li>\n<li><a href=\"https://www.npmjs.com/package/as-table\">as-table</a> &#8211; Tabellarische Daten ausgeben</li>\n<li><a href=\"https://www.npmjs.com/package/decompress\">decompress</a> und <a href=\"https://www.npmjs.com/package/archiver\">archiver</a> &#8211; Einfacher Umgang mit zip, tar und Co.</li>\n<li><a href=\"https://www.npmjs.com/package/keytar\">keytar</a> &#8211; Lokaler Passwort-Speicher</li>\n</ul>\n<p>Zur Installation eines eigenen CLI kann man einfach ein Paket von NPM installieren oder direkt von GitHub per entsprechendem Command:</p>\n<pre><code>npm install -g git+ssh://@github.com:username/repository.git</code></pre>"
+      },
+      {
+        "title": "Serverseitige Services",
+        "time": "00:20:40",
+        "description": "Natürlich sprechen wir auch drüber, wie man einen Service mit Node bauen kann. Wir haben alle mehr oder minder viel Erfahrung damit und diskutieren über unsere Ansätze. Grundsätzlich sind wir der Meinung, dass Services sich immer an die <a href=\"https://12factor.net/\">12 Factors</a> halten sollten.<br>\nEinige Tools die wir empfehlen:<p></p>\n<ul>\n<li><a href=\"https://expressjs.com/\">Express</a> &#8211; HTTP Server, <a href=\"https://dzone.com/articles/understanding-middleware-pattern-in-expressjs\">Middleware-Pattern</a></li>\n<li><a href=\"https://www.npmjs.com/package/pino\">pino</a> (für Express: <a href=\"https://www.npmjs.com/package/express-pino-logger\">express-pino-logger</a>) &#8211; Serverseitiges Logging</li>\n<li><a href=\"https://www.npmjs.com/package/fluentd\">fluentd</a> &#8211; Logging auf stdout</li>\n<li><a href=\"https://www.npmjs.com/package/sequelize\">Sequelize</a> &#8211; <a href=\"https://en.wikipedia.org/wiki/Object-relational_mapping\">ORM</a> Modul für MySQL, MariaDB, Postgres</li>\n<li><a href=\"https://www.npmjs.com/package/finale-rest\">finale-rest</a> &#8211; RESTful Implementierung für Sequelize Models in Express</li>\n<li><a href=\"http://www.passportjs.org/\">Passport</a> &#8211; Authentifizierungslirary</li>\n<li><a href=\"https://www.npmjs.com/package/helmet\">Helmet</a> &#8211; Header Management in Express Apps, <a href=\"https://www.twilio.com/blog/2017/11/securing-your-express-app.html\">hier</a> steht wies geht, <a href=\"https://www.fastly.com/blog/headers-we-want\">hier</a> auch.</li>\n<li><a href=\"https://www.npmjs.com/package/dotenv\">dotenv</a> &#8211; Configuration einfach verwalten mit einem Dotfile</li>\n<li><a href=\"https://www.npmjs.com/package/brakes\">brakes</a> &#8211; Hystrix equivalent in Node zur Umsetzung des <a href=\"https://martinfowler.com/bliki/CircuitBreaker.html\">CircuitBreaker-Patterns</a></li>\n</ul>"
+      }
+    ]
+  },
+  "350": {
+    "id": 350,
+    "date": "2018-08-9",
+    "people": [
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      }
+    ],
+    "duration": "52:19",
+    "href": "https://workingdraft.de/350/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3750/0/wd-350.mp3",
+    "title": "HTTP Header",
+    "description": "Hans, Schepp und Peter fanden sich zusammen um einfach mal eine komplette Revision über nichts anderes als HTTP-Header zu quatschen!",
+    "topics": [
+      {
+        "title": "HTTP-Header",
+        "time": "00:00:10",
+        "description": "Bei der Besprechung des geplanten <a href=\"https://wicg.github.io/feature-policy/\">feature-policy-Headers</a>, der helfen soll Third-Party-Scripts einzuhegen, erfährt Peter von der Existenz des <a href=\"https://www.google.com/intl/de/tagmanager/\">Google Tag Managers</a>. Weitere security-relevante Header sind <a href=\"https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP\">CSP</a> und <a href=\"https://de.wikipedia.org/wiki/Cross-Origin_Resource_Sharing\">CORS</a> (wobei hier besonders die praktischen <a href=\"https://cors-anywhere.herokuapp.com\">Umgehungs-Proxies</a> zu beachten sind) sowie <a href=\"https://stackoverflow.com/questions/35358038/how-to-register-a-service-workers-scope-one-directory-above-where-the-service-w\">service-worker-allowed</a> und <a href=\"https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options\">x-frame-options</a>. Ebenfalls in die gleiche Kerbe schlagend, aber nicht ganz so umfassend unterstützt werden auf die eine oder andere Weise <a href=\"https://developer.mozilla.org/de/docs/Web/HTTP/Headers/DNT\">DNT</a> und der prähistorische <a href=\"https://wiki.selfhtml.org/wiki/HTTP/Header/P3P\">P3P-Header</a>. Das Thema der effizienten Ressourcenübermittlung wird über <a href=\"https://wiki.selfhtml.org/wiki/HTTP/Header/Link\">Link</a>, <a href=\"https://tools.ietf.org/html/draft-ietf-httpbis-cache-digest-04\">Cache Digests</a>, <a href=\"https://developers.google.com/web/updates/2015/09/automating-resource-selection-with-client-hints\">Client Hints</a> sowie <a href=\"https://www.w3.org/TR/resource-hints/\">Prefetch, Preload und Preconnect</a> bedient. Als finalen Geheimtipp verweist Schepp auf <a href=\"https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Transfer-Encoding\">Transfer-Encoding: chunked</a> und dazugehörige Fußangeln."
+      }
+    ]
+  },
+  "351": {
+    "id": 351,
+    "date": "2018-08-13",
+    "people": [
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      },
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      {
+        "name": "Martin Splitt",
+        "twitter": "https://twitter.com/g33konaut"
+      }
+    ],
+    "duration": "1:09:23",
+    "href": "https://workingdraft.de/351/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3754/0/wd-351.mp3",
+    "title": "JavaScript und die Google Suche",
+    "description": "Schepp und Stefan haben sich Verstärkung aus Zürich geholt. <a href=\"https://twitter.com/g33konaut\">Martin Splitt</a>, seit kurzem Dev Rel bei Google für die Google Suche, klärt einige Mythen auf.",
+    "topics": [
+      {
+        "title": "Die Google Suche",
+        "time": "00:00:54",
+        "description": "Der Googlebot, der Seiten in Googles Suchindex aufnimmt, hat JavaScript aktiviert. Soviel ist soweit bekannt. Doch was bedeutet das im Detail? Martin gibt uns Auskunft über Browserversion, Feature Set, das Vorgehen des Google Bots bei Links und weiteres. Wir erfahren, welche Voodoo Tricks so gar nichts bewirken und worauf man tatsächlich schauen muss, wenn Google die Seite indizieren soll. Als Hilfe gibt&#8217;s Werkzeuge wie die bekannte <a href=\"https://www.google.com/webmasters/tools/home?\">Search Console formerly known as Webmaster tools</a> und den weniger bekannten <a href=\"https://search.google.com/test/mobile-friendly\">Mobile Friendly Test</a>"
+      }
+    ]
+  },
+  "352": {
+    "id": 352,
+    "date": "2018-08-16",
+    "people": [
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      },
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      }
+    ],
+    "duration": "59:14",
+    "href": "https://workingdraft.de/352/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3805/0/wd-352.mp3",
+    "title": "TypeScript 3.0",
+    "description": "Hans, Peter und Stefan nehmen den aktuellen Release von TypeScript 3.0 her um über ihre Erfahrungen mit dem Thema zu plaudern. Querbeet, von einsteigerfreundlich bis zu unverschämt fortgeschritten.",
+    "topics": [
+      {
+        "title": "TypeScript 3.0",
+        "href": "https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/",
+        "time": "00:00:17",
+        "description": "Die dritte Version von TypeScript ist da, und bringt gar nicht mal so viele Features mit sich. Das liegt zum einen daran, dass TypeScript bewusst und richtig auf semantische Versionierung pfeifft (jedes Release ist ein breaking change) und lieber durchzählt. So kann man auch einfach mal einen &#8222;unknown&#8220; Typ reinschmuggeln oder die <a href=\"https://github.com/Microsoft/TypeScript/pull/24422\">React Unterstützung</a> verbessern. In unserer Elaboration reden wir über <a href=\"https://blog.mariusschulz.com/2017/01/20/typescript-2-1-mapped-types\">mapped types</a>, <a href=\"http://koerbitz.me/posts/a-look-at-typescripts-conditional-types.html\">conditional types</a> und wie union types sowieso alles einfacher machen. Nach einem kurzen Ausflug zu <a href=\"https://parceljs.org/\">ParcelJS</a>, JSX und eierlegenden Wollmilchtools schließen wir auch ab mit einer kleinen Diskussion zu Typsystemen im Allgemeinen, und <a href=\"https://medium.com/@martin_hotell/interface-vs-type-alias-in-typescript-2-7-2a8f1777af4c\">Type Aliases vs Interfaces</a> im Konkreten. Zuviel des Guten? Wir revisionieren gerne noch einmal Schritt für Schritt."
+      }
+    ],
+    "links": [
+      {
+        "title": "Type Zoo",
+        "href": "https://github.com/pelotom/type-zoo",
+        "description": "Fesche Typoperatoren im Stile von Readonly, Partial und Pick."
+      },
+      {
+        "title": "Typelevel TS",
+        "href": "https://github.com/gcanti/typelevel-ts",
+        "description": "Type level Programmmierung."
+      },
+      {
+        "title": "Typical",
+        "href": "https://github.com/tycho01/typical",
+        "description": "Experimentelle Typ primitive."
+      },
+      {
+        "title": "TypeScript oddities",
+        "href": "https://www.youtube.com/watch?v=S7Y1rZsmHN4",
+        "description": "Ein Vortrag von Stefan zu TypeScript und Schrägheiten, die auftreten können."
+      }
+    ]
+  },
+  "353": {
+    "id": 353,
+    "date": "2018-08-20",
+    "people": [
+      {
+        "name": "Christian Schaefer",
+        "team": [
+          "2010-11-09"
+        ],
+        "twitter": "https://twitter.com/derSchepp"
+      },
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Marcel Koch",
+        "twitter": "https://twitter.com/makochnet",
+        "web": "http://www.marcelkoch.net/"
+      }
+    ],
+    "duration": "1:14:51",
+    "href": "https://workingdraft.de/353/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3818/0/wd-353.mp3",
+    "title": "Kommunikation in (agilen) Teams",
+    "description": "In dieser Revision widmen wir uns mal einem Soft-Skill und reden über Herausforderungen bei der Kommunikation im Team und darüber, wie gute Kommunikation aussehen kann. Als Fachmann für diese Themen haben wir uns Coder &#038; Kommunikations-Coach <a href=\"https://www.marcelkoch.net/\">Marcel Koch</a> (<a href=\"https://twitter.com/_mknet_\">@_mknet_</a>) in die Sendung geholt.",
+    "topics": [
+      {
+        "title": "Kommunikation im Team",
+        "time": "00:00:50",
+        "description": "Während unserer Unterhaltung erwähnten wir folgende Publikationen:<p></p>\n<ul>\n<li><a href=\"https://www.schulz-von-thun.de/die-modelle\">Die kommunikationspsychologischen Modelle</a></li>\n<li>Rhetorik &#8211; Die Kunst der Rede im digitalen Zeitalter (<a href=\"https://www.amazon.de/Rhetorik-Kunst-Rede-digitalen-Zeitalter/dp/386470569X\">Buch</a> / <a href=\"https://www.audible.de/pd/Rhetorik-Hoerbuch/B07D17SD53\">Hörbuch</a>)</li>\n<li><a href=\"https://www.amazon.de/Soft-Skills-Softwareentwickler-Konfliktmanagement-Kommunikationstypen/dp/3864901901/\">Soft Skills für Softwareentwickler: Fragetechniken, Konfliktmanagement, Kommunikationstypen und -modelle</a></li>\n</ul>"
+      }
+    ],
+    "links": [
+      {
+        "title": "transform",
+        "href": "https://transform.now.sh",
+        "time": "01:11:42",
+        "description": "Ein Online-Transformationstool zur Umwandlung von Daten in zahlreiche Formate"
+      },
+      {
+        "title": "belly",
+        "href": "https://github.com/kahlil/belly",
+        "time": "01:11:42",
+        "description": "&#8222;Git shortcuts for common tasks&#8220;"
+      }
+    ]
+  },
+  "354": {
+    "id": 354,
+    "date": "2018-08-29",
+    "people": [
+      {
+        "name": "Stefan Baumgartner",
+        "team": [
+          "2013-06-09"
+        ],
+        "twitter": "https://twitter.com/ddprrt",
+        "web": "http://fettblog.eu/"
+      },
+      {
+        "name": "Hans Christian Reinl",
+        "team": [
+          "2011-08-25"
+        ],
+        "twitter": "https://twitter.com/drublic",
+        "web": "http://drublic.de/"
+      },
+      {
+        "name": "Peter Kröner",
+        "team": [
+          "2010-11-02"
+        ],
+        "twitter": "https://twitter.com/sir_pepe",
+        "web": "http://peterkroener.de/"
+      }
+    ],
+    "duration": "43:27",
+    "href": "https://workingdraft.de/354/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3831/0/wd-354.mp3",
+    "title": "Babel-Presets und Konferenzen",
+    "description": "Hans, Peter und Stefan erkunden Details von Babels Zukunftsplanung und bewerben in dreister Form Konferenzen, Konferenz-Ersatzveranstaltungen und Workshops.",
+    "topics": [
+      {
+        "title": "Removing Babel’s Stage Presets",
+        "href": "https://babeljs.io/blog/2018/07/27/removing-babels-stage-presets#preventing-proposal-lock-in",
+        "time": "00:00:10",
+        "description": "Babel plant, <a href=\"https://babeljs.io/docs/en/next/presets\">Presets</a> (gemäß der <a href=\"https://tc39.github.io/process-document/\">Stages des TC39-Prozesses</a> gebündelte Implementierungen <a href=\"http://kangax.github.io/compat-table/es2016plus/\">neuer ESScript-Features</a>) abzuschaffen. Bei der Diskussion dieser Nachricht kommt heraus, dass wir kaum Presets benutzen, sondern eher Einzelfeatures wie <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax\">Object Spread</a> und <a href=\"https://babeljs.io/docs/en/babel-plugin-transform-class-properties/\">Class Properties</a> nachrüsten. Wir sprechen über unsere Transpiler-Nutzung im Wandel der Zeit, Babel als Experimentier-Plattform für z.B. den <a href=\"https://github.com/tc39/proposal-pipeline-operator\">Pipeline Operator</a>, über <a href=\"https://github.com/tc39/proposal-flatMap/pull/56\">Smoosh Gate</a> und Modul-Bundler wie <a href=\"https://parceljs.org/\">Parcel</a> und <a href=\"https://webpack.js.org/\">Webpack</a>. Im übrigen sind wir der Auffassung, dass wir alle dem Babel-Macher Henry Zhu <a href=\"https://www.patreon.com/henryzhu\">für eine harte Arbeit ein mehr Geldeinheiten rüberschieben sollten!</a>"
+      }
+    ],
+    "links": [
+      {
+        "title": "NightlyGrill",
+        "href": "https://colloq.io/events/nightlygrill/2018/koln/1",
+        "time": "00:37:19",
+        "description": "Das beste Event, dass man anstelle einer Konferenz besuchen könnte."
+      },
+      {
+        "title": "OAuth2 Workshop am 18.10.",
+        "href": "https://colloq.io/events/tollwerkstatt-workshops/2018/nurnberg/2",
+        "time": "00:37:19",
+        "description": "Lasst euch in Nürnberg von Aaron Parecki erleuchten!"
+      },
+      {
+        "title": "Webkongress Erlangen",
+        "href": "https://www.webkongress.fau.de/",
+        "time": "00:37:19",
+        "description": "Gemütliche Konferenz im gemütlichen Erlangen."
       }
     ]
   }

@@ -1,0 +1,45 @@
+{
+  "id": 342,
+  "date": "2018-06-13",
+  "people": [
+    {
+      "name": "Johannes Pichler",
+      "twitter": "https://twitter.com/fetzi_io"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    }
+  ],
+  "duration": "59:43",
+  "href": "https://workingdraft.de/342/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3695/0/wd-342.mp3",
+  "title": "Was gibt es Neues in Laravel?",
+  "description": "Deshalb ist in dieser Revision <a href=\"https://johannespichler.com/\">Johannes</a> <a href=\"https://twitter.com/fetzi_io\">Pichler</a> unser Gast und wir sprechen gemeinsam über die Neuerungen und technischen Gegebenheiten von Laravel.\n\nNachdem wir in <a href=\"http://workingdraft.de/147/\">Revision 147</a> schon einmal über das PHP Framework Laravel gesprochen haben, dachten wir uns, es sei langsam mal wieder Zeit für eine Auffrischung.",
+  "topics": [
+    {
+      "title": "Laravel",
+      "href": "https://laravel.com/",
+      "time": "00:02:00",
+      "description": "<p>Johannes erklärt, was es seit der Revision 147 alles Neues zum Thema Laravel gibt. Wir sprechen über Bootstrapping, Facades, Collections, Events, Queues und vieles mehr.</p>\n<p>Anhand eines praktischen Beispiels hangeln wir uns an einer Umsetzung einer Applikation entlang:</p>\n<ul>\n<li>REST Schnittstelle fürs Frontend</li>\n<li>Datenhaltung in DB mit Produkten, User, Metadaten</li>\n<li>User Daten kommen von Schnittstelle und können gecacht werden</li>\n<li>Übergeben von Daten an Payment Schnittstelle</li>\n</ul>\n<p>Darüber hinaus sprechen wir über die Möglichkeiten, Laravel fürs Frontend einzusetzen.</p>\n<p>Weitere Links:</p>\n<ul>\n<li><a href=\"https://laravel.com/docs/5.6/eloquent\">Eloquent ORM</a></li>\n<li><a href=\"https://spark.laravel.com/\">Spark</a> &#8211; User Verwaltung</li>\n<li><a href=\"https://laravel.com/docs/5.6/billing\">Bezahlungsmethode</a></li>\n<li><a href=\"https://lumen.laravel.com/\">Lumen</a> &#8211; ein Micro-Service Framework</li>\n<li><a href=\"https://laravel.com/docs/5.6/artisan\">Artisan</a> &#8211; das Commandline Interface</li>\n<li><a href=\"https://laravel.com/docs/5.6/horizon\">Horizon</a> &#8211; Redis Monitoring Tool</li>\n<li><a href=\"https://laravel.com/docs/5.6/dusk\">Dusk</a> &#8211; End to End Testing</li>\n</ul>"
+    }
+  ],
+  "links": [
+    {
+      "title": "Laravel Docs",
+      "href": "https://laravel.com/docs/",
+      "time": "00:55:14",
+      "description": "Viele gute Videos zum Thema Laravel und rund ums Thema. Ideal für jeden Einsteiger und auch Fortgeschrittene."
+    },
+    {
+      "title": "Laracasts",
+      "href": "https://laracasts.com",
+      "time": "00:55:14",
+      "description": "Viele gute Videos zum Thema Laravel und rund ums Thema. Ideal für jeden Einsteiger und auch Fortgeschrittene."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 353,
+  "date": "2018-08-20",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Marcel Koch",
+      "twitter": "https://twitter.com/makochnet",
+      "web": "http://www.marcelkoch.net/"
+    }
+  ],
+  "duration": "1:14:51",
+  "href": "https://workingdraft.de/353/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3818/0/wd-353.mp3",
+  "title": "Kommunikation in (agilen) Teams",
+  "description": "In dieser Revision widmen wir uns mal einem Soft-Skill und reden über Herausforderungen bei der Kommunikation im Team und darüber, wie gute Kommunikation aussehen kann. Als Fachmann für diese Themen haben wir uns Coder &#038; Kommunikations-Coach <a href=\"https://www.marcelkoch.net/\">Marcel Koch</a> (<a href=\"https://twitter.com/_mknet_\">@_mknet_</a>) in die Sendung geholt.",
+  "topics": [
+    {
+      "title": "Kommunikation im Team",
+      "time": "00:00:50",
+      "description": "Während unserer Unterhaltung erwähnten wir folgende Publikationen:<p></p>\n<ul>\n<li><a href=\"https://www.schulz-von-thun.de/die-modelle\">Die kommunikationspsychologischen Modelle</a></li>\n<li>Rhetorik &#8211; Die Kunst der Rede im digitalen Zeitalter (<a href=\"https://www.amazon.de/Rhetorik-Kunst-Rede-digitalen-Zeitalter/dp/386470569X\">Buch</a> / <a href=\"https://www.audible.de/pd/Rhetorik-Hoerbuch/B07D17SD53\">Hörbuch</a>)</li>\n<li><a href=\"https://www.amazon.de/Soft-Skills-Softwareentwickler-Konfliktmanagement-Kommunikationstypen/dp/3864901901/\">Soft Skills für Softwareentwickler: Fragetechniken, Konfliktmanagement, Kommunikationstypen und -modelle</a></li>\n</ul>"
+    }
+  ],
+  "links": [
+    {
+      "title": "transform",
+      "href": "https://transform.now.sh",
+      "time": "01:11:42",
+      "description": "Ein Online-Transformationstool zur Umwandlung von Daten in zahlreiche Formate"
+    },
+    {
+      "title": "belly",
+      "href": "https://github.com/kahlil/belly",
+      "time": "01:11:42",
+      "description": "&#8222;Git shortcuts for common tasks&#8220;"
+    }
+  ]
+}

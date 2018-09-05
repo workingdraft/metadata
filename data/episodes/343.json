@@ -1,0 +1,49 @@
+{
+  "id": 343,
+  "date": "2018-06-15",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    }
+  ],
+  "duration": "1:07:04",
+  "href": "https://workingdraft.de/343/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3715/0/wd-343.mp3",
+  "title": "Neue Features für JavaScript",
+  "description": "Inspiriert von einem vergleichsweise dünnen <a href=\"https://medium.freecodecamp.org/here-are-three-upcoming-changes-to-javascript-that-youll-love-387bce1bfb0b\">Artikel</a> über ein paar unspektakuläre JS-Neuerungen diskutierten Schepp, Hans, Stefan und Peter ihre persönlichen Favoriten in der <a href=\"https://github.com/tc39/proposals\">JS-Feature-Pipeline</a>.",
+  "topics": [
+    {
+      "title": "Kommende JavaScript-Features",
+      "time": "00:00:12",
+      "description": "Wir bespechen sowohl kommende Features die wir gut finden als auch einige, die uns nicht zusagen. Im einzelnen kommen zur Sprache:<p></p>\n<ul>\n<li>der <a href=\"https://github.com/tc39/proposal-optional-chaining\">Safe Navigation Operator</a> (auch bereits bekannt aus <a href=\"http://coffeescript.org/\">CoffeeScript</a> o.Ä.)</li>\n<li>der <a href=\"https://github.com/tc39/proposal-nullish-coalescing\">Nullish Coalescing Operator</a> (bekannt aus PHP o.Ä.)</li>\n<li>der <a href=\"https://github.com/tc39/proposal-pipeline-operator\">Pipeline Operator</a> (bekannt aus Elm)</li>\n<li><a href=\"http://2ality.com/2016/10/asynchronous-iteration.html\">Asynchrone Iteration</a></li>\n<li><a href=\"https://github.com/tc39/proposal-private-methods\">Private Methoden</a> und <a href=\"https://github.com/tc39/proposal-class-fields\">private Felder</a> für <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes\">Klassen</a></li>\n<li>das <a href=\"https://github.com/tc39/proposal-global\">Global-Proposal</a></li>\n<li><a href=\"http://github.com/tc39/proposal-decorators\">Decorators</a></li>\n<li><a href=\"https://github.com/tc39/proposal-bigint\">BigInt</a></li>\n<li><a href=\"https://github.com/tc39/proposal-dynamic-import\">Dynamisches Import</a> und <a href=\"https://github.com/tc39/proposal-import-meta\">Metainformationen für Imports</a></li>\n<li><a href=\"https://github.com/tc39/proposal-numeric-separator\">Unterstriche in Zahlen</a></li>\n<li><a href=\"https://github.com/tc39/proposal-flatMap\">flatMap</a></li>\n<li><a href=\"https://github.com/tc39/proposal-observable\">Observables</a>(bekannt aus u.A. <a href=\"http://reactivex.io/rxjs/\">RxJS</a>)</li>\n<li>Außerdem erträumt sich Peter Selbstdefinierte Equality-Logik, ist aber pessimistisch</li>\n</ul>"
+    }
+  ]
+}

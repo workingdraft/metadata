@@ -1,0 +1,72 @@
+{
+  "id": 348,
+  "date": "2018-07-25",
+  "people": [
+    {
+      "name": "Sven Wolfermann",
+      "twitter": "https://twitter.com/maddesigns",
+      "web": "http://maddesigns.de/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    }
+  ],
+  "duration": "1:23:38",
+  "href": "https://workingdraft.de/348/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3786/0/wd-348.mp3",
+  "title": "Performance in 2018",
+  "description": "Kollege <a href=\"https://twitter.com/maddesigns\">Sven Wolfermann</a> kommt zu Besuch und erläutert mit uns den Stand der Performance Optimierungen im Jahr 2018.",
+  "topics": [
+    {
+      "title": "Performance",
+      "time": "00:00:50",
+      "description": "Gemeinsam mit Sven diskutieren wir, was man heutzutage alles machen soll und kann, um die Geschwindigkeit der Webseiten zu verbessern. Wir beginnen einsteigerfreundlich mit diversen Werkzeugen wie <a href=\"http://www.webpagetest.org/\">Webpagetest</a>, und gehen dann auf neue Browserfeatures ein, die uns die Optimierung einfacher machen. Mit dabei sind <a href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Preloading_content\"><code>preload</code> und <a href=\"https://jakearchibald.com/2017/es-modules-in-browsers/\">ES Module</a>. In Sachen Fonts besprechen wir <a href=\"https://www.zeichenschatz.net/typografie/how-to-start-with-variable-fonts-on-the-web.html\">Variable Fonts</a>, <a href=\"https://www.npmjs.com/package/subfont\">Subfont</a> und das neue <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display\"><code>font-display</code></a> property. Außerdem gibt&#8217;s einen Rundumschlag über Lazy Loading, u.a. mit der <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API\">Intersection Observer</a> API.</a>"
+    }
+  ],
+  "links": [
+    {
+      "title": "To push or not to push.",
+      "href": "https://www.youtube.com/watch?v=cznVISavm-k",
+      "time": "01:21:54",
+      "description": "Der Patrick Hamann kennt sich halt mit HTTP/2 super gut aus. Zeigt er auch hier."
+    },
+    {
+      "title": "performance.now()",
+      "href": "https://perfnow.nl/",
+      "time": "01:21:54",
+      "description": "Performance Konferenz (!) in Amsterdam (!!) mit Steve Souders (!!!) und Paul Irish (!!!!) und noch vielen, vielen anderen? Fixbesuch im November."
+    },
+    {
+      "title": "Google Workbox",
+      "href": "https://developers.google.com/web/tools/workbox/",
+      "time": "01:21:54",
+      "description": "Die Workbox hilft prima, wenn man offlinefähige Websites und PWAs machen will."
+    },
+    {
+      "title": "PWA Builder",
+      "href": "https://www.pwabuilder.com/",
+      "time": "01:21:54",
+      "description": "Noch ein wenig einfacher und oft ausreichend ist Microsofts PWA Builder."
+    }
+  ]
+}

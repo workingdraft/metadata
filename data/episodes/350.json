@@ -1,0 +1,41 @@
+{
+  "id": 350,
+  "date": "2018-08-9",
+  "people": [
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "duration": "52:19",
+  "href": "https://workingdraft.de/350/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3750/0/wd-350.mp3",
+  "title": "HTTP Header",
+  "description": "Hans, Schepp und Peter fanden sich zusammen um einfach mal eine komplette Revision über nichts anderes als HTTP-Header zu quatschen!",
+  "topics": [
+    {
+      "title": "HTTP-Header",
+      "time": "00:00:10",
+      "description": "Bei der Besprechung des geplanten <a href=\"https://wicg.github.io/feature-policy/\">feature-policy-Headers</a>, der helfen soll Third-Party-Scripts einzuhegen, erfährt Peter von der Existenz des <a href=\"https://www.google.com/intl/de/tagmanager/\">Google Tag Managers</a>. Weitere security-relevante Header sind <a href=\"https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP\">CSP</a> und <a href=\"https://de.wikipedia.org/wiki/Cross-Origin_Resource_Sharing\">CORS</a> (wobei hier besonders die praktischen <a href=\"https://cors-anywhere.herokuapp.com\">Umgehungs-Proxies</a> zu beachten sind) sowie <a href=\"https://stackoverflow.com/questions/35358038/how-to-register-a-service-workers-scope-one-directory-above-where-the-service-w\">service-worker-allowed</a> und <a href=\"https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options\">x-frame-options</a>. Ebenfalls in die gleiche Kerbe schlagend, aber nicht ganz so umfassend unterstützt werden auf die eine oder andere Weise <a href=\"https://developer.mozilla.org/de/docs/Web/HTTP/Headers/DNT\">DNT</a> und der prähistorische <a href=\"https://wiki.selfhtml.org/wiki/HTTP/Header/P3P\">P3P-Header</a>. Das Thema der effizienten Ressourcenübermittlung wird über <a href=\"https://wiki.selfhtml.org/wiki/HTTP/Header/Link\">Link</a>, <a href=\"https://tools.ietf.org/html/draft-ietf-httpbis-cache-digest-04\">Cache Digests</a>, <a href=\"https://developers.google.com/web/updates/2015/09/automating-resource-selection-with-client-hints\">Client Hints</a> sowie <a href=\"https://www.w3.org/TR/resource-hints/\">Prefetch, Preload und Preconnect</a> bedient. Als finalen Geheimtipp verweist Schepp auf <a href=\"https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Transfer-Encoding\">Transfer-Encoding: chunked</a> und dazugehörige Fußangeln."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 349,
+  "date": "2018-07-25",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Rodney Rehm",
+      "team": [
+        "2011-09-16"
+      ],
+      "twitter": "https://twitter.com/rodneyrehm",
+      "web": "http://rodneyrehm.de/en/"
+    }
+  ],
+  "duration": "1:05:25",
+  "href": "https://workingdraft.de/349/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3770/0/wd-349.mp3",
+  "title": "Serverseitige Entwicklung mit NodeUnser Sponsor",
+  "description": "<a href=\"http://gravitycv.com/\" style=\"float: right; margin: 1rem 0 0 1rem; width: 100%; max-width: 500px\"><img src=\"http://workingdraft.de/wp-content/uploads/2018/07/Flexibles-CV-Management_GravityCV.png\" alt=\"\" class=\"alignnone size-medium wp-image-3774\" style=\"display: block; max-width: 100%;\" srcset=\"https://workingdraft.de/wp-content/uploads/2018/07/Flexibles-CV-Management_GravityCV.png 500w, https://workingdraft.de/wp-content/uploads/2018/07/Flexibles-CV-Management_GravityCV-300x132.png 300w\" sizes=\"(max-width: 500px) 100vw, 500px\"></a><p></p>\n<h2>Unser Sponsor</h2>\n<p>Diese Folge wird gesponsert vom neuen CV-Tool “GravityCV”, für einfaches, flexibles und schnelles erstellen und versenden Deines Lebenslaufs.</p>\n<p>“GravityCV” &#8211; Professionelles Design &#038; hoher Datenschutz für dein CV.<br>\nKostenlos anmelden unter <a href=\"http://gravitycv.com/\">gravitycv.com</a>.\n</p>\n\nDer Schepp, Rodney und Hans sprechen über die Entwicklung von serverseitigen Applikationen mit Node.",
+  "topics": [
+    {
+      "title": "CLI Tools",
+      "time": "00:01:27",
+      "description": "Selbstgeschriebene Command Line Interface (CLI) Tools sind hilfreich, wenn man viel auf der Command Line unterwegs ist. Mit Node kann man eigene Tools sehr einfach schreiben. Wir erklären wie und welche Module dabei helfen können. Hier eine Auswahl der genannten:<p></p>\n<ul>\n<li><a href=\"https://www.npmjs.com/package/meow\">Meow</a> &#8211; Argument Parsing</li>\n<li><a href=\"https://www.npmjs.com/package/opn\">opn</a> &#8211; Liest einzelne Dateien oder Websites</li>\n<li><a href=\"https://www.npmjs.com/package/ora\">ora</a> &#8211; Aktivitätsindikator (Spinner)</li>\n<li><a href=\"https://www.npmjs.com/package/prompt\">prompt</a> &#8211; Abfragen von User-Input</li>\n<li><a href=\"https://www.npmjs.com/package/shelljs\">shelljs</a> &#8211; Einheitliche Command Line API für Windows, Linux und Mac</li>\n<li><a href=\"https://www.npmjs.com/package/as-table\">as-table</a> &#8211; Tabellarische Daten ausgeben</li>\n<li><a href=\"https://www.npmjs.com/package/decompress\">decompress</a> und <a href=\"https://www.npmjs.com/package/archiver\">archiver</a> &#8211; Einfacher Umgang mit zip, tar und Co.</li>\n<li><a href=\"https://www.npmjs.com/package/keytar\">keytar</a> &#8211; Lokaler Passwort-Speicher</li>\n</ul>\n<p>Zur Installation eines eigenen CLI kann man einfach ein Paket von NPM installieren oder direkt von GitHub per entsprechendem Command:</p>\n<pre><code>npm install -g git+ssh://@github.com:username/repository.git</code></pre>"
+    },
+    {
+      "title": "Serverseitige Services",
+      "time": "00:20:40",
+      "description": "Natürlich sprechen wir auch drüber, wie man einen Service mit Node bauen kann. Wir haben alle mehr oder minder viel Erfahrung damit und diskutieren über unsere Ansätze. Grundsätzlich sind wir der Meinung, dass Services sich immer an die <a href=\"https://12factor.net/\">12 Factors</a> halten sollten.<br>\nEinige Tools die wir empfehlen:<p></p>\n<ul>\n<li><a href=\"https://expressjs.com/\">Express</a> &#8211; HTTP Server, <a href=\"https://dzone.com/articles/understanding-middleware-pattern-in-expressjs\">Middleware-Pattern</a></li>\n<li><a href=\"https://www.npmjs.com/package/pino\">pino</a> (für Express: <a href=\"https://www.npmjs.com/package/express-pino-logger\">express-pino-logger</a>) &#8211; Serverseitiges Logging</li>\n<li><a href=\"https://www.npmjs.com/package/fluentd\">fluentd</a> &#8211; Logging auf stdout</li>\n<li><a href=\"https://www.npmjs.com/package/sequelize\">Sequelize</a> &#8211; <a href=\"https://en.wikipedia.org/wiki/Object-relational_mapping\">ORM</a> Modul für MySQL, MariaDB, Postgres</li>\n<li><a href=\"https://www.npmjs.com/package/finale-rest\">finale-rest</a> &#8211; RESTful Implementierung für Sequelize Models in Express</li>\n<li><a href=\"http://www.passportjs.org/\">Passport</a> &#8211; Authentifizierungslirary</li>\n<li><a href=\"https://www.npmjs.com/package/helmet\">Helmet</a> &#8211; Header Management in Express Apps, <a href=\"https://www.twilio.com/blog/2017/11/securing-your-express-app.html\">hier</a> steht wies geht, <a href=\"https://www.fastly.com/blog/headers-we-want\">hier</a> auch.</li>\n<li><a href=\"https://www.npmjs.com/package/dotenv\">dotenv</a> &#8211; Configuration einfach verwalten mit einem Dotfile</li>\n<li><a href=\"https://www.npmjs.com/package/brakes\">brakes</a> &#8211; Hystrix equivalent in Node zur Umsetzung des <a href=\"https://martinfowler.com/bliki/CircuitBreaker.html\">CircuitBreaker-Patterns</a></li>\n</ul>"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": 352,
+  "date": "2018-08-16",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "duration": "59:14",
+  "href": "https://workingdraft.de/352/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3805/0/wd-352.mp3",
+  "title": "TypeScript 3.0",
+  "description": "Hans, Peter und Stefan nehmen den aktuellen Release von TypeScript 3.0 her um über ihre Erfahrungen mit dem Thema zu plaudern. Querbeet, von einsteigerfreundlich bis zu unverschämt fortgeschritten.",
+  "topics": [
+    {
+      "title": "TypeScript 3.0",
+      "href": "https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/",
+      "time": "00:00:17",
+      "description": "Die dritte Version von TypeScript ist da, und bringt gar nicht mal so viele Features mit sich. Das liegt zum einen daran, dass TypeScript bewusst und richtig auf semantische Versionierung pfeifft (jedes Release ist ein breaking change) und lieber durchzählt. So kann man auch einfach mal einen &#8222;unknown&#8220; Typ reinschmuggeln oder die <a href=\"https://github.com/Microsoft/TypeScript/pull/24422\">React Unterstützung</a> verbessern. In unserer Elaboration reden wir über <a href=\"https://blog.mariusschulz.com/2017/01/20/typescript-2-1-mapped-types\">mapped types</a>, <a href=\"http://koerbitz.me/posts/a-look-at-typescripts-conditional-types.html\">conditional types</a> und wie union types sowieso alles einfacher machen. Nach einem kurzen Ausflug zu <a href=\"https://parceljs.org/\">ParcelJS</a>, JSX und eierlegenden Wollmilchtools schließen wir auch ab mit einer kleinen Diskussion zu Typsystemen im Allgemeinen, und <a href=\"https://medium.com/@martin_hotell/interface-vs-type-alias-in-typescript-2-7-2a8f1777af4c\">Type Aliases vs Interfaces</a> im Konkreten. Zuviel des Guten? Wir revisionieren gerne noch einmal Schritt für Schritt."
+    }
+  ],
+  "links": [
+    {
+      "title": "Type Zoo",
+      "href": "https://github.com/pelotom/type-zoo",
+      "description": "Fesche Typoperatoren im Stile von Readonly, Partial und Pick."
+    },
+    {
+      "title": "Typelevel TS",
+      "href": "https://github.com/gcanti/typelevel-ts",
+      "description": "Type level Programmmierung."
+    },
+    {
+      "title": "Typical",
+      "href": "https://github.com/tycho01/typical",
+      "description": "Experimentelle Typ primitive."
+    },
+    {
+      "title": "TypeScript oddities",
+      "href": "https://www.youtube.com/watch?v=S7Y1rZsmHN4",
+      "description": "Ein Vortrag von Stefan zu TypeScript und Schrägheiten, die auftreten können."
+    }
+  ]
+}

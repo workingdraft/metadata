@@ -1,0 +1,77 @@
+{
+  "id": 346,
+  "date": "2018-07-22",
+  "people": [
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Tobias Baldauf",
+      "twitter": "https://twitter.com/tbaldauf",
+      "web": "http://tobias.is/"
+    }
+  ],
+  "duration": "1:28:00",
+  "href": "https://workingdraft.de/346/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3744/0/wd-346.mp3",
+  "title": "Wie optimiere ich meine Bilder fürs Web?",
+  "description": "Einige Jahre nach der <a href=\"http://workingdraft.de/158/\">ersten Sendung (158)</a> mit Trivago- und Ex-Akamai Performance-Experte <a href=\"https://tobias.is/\">Tobias Baldauf</a> (<a href=\"https://twitter.com/tbaldauf\">Twitter</a>, <a href=\"https://github.com/technopagan\">GitHub</a>) ist es wieder so weit: Tobias besucht uns und gibt sein Wissen preis. Dieses mal besprechen wir sehr gezielt das Thema Bildoptimierungen.",
+  "topics": [
+    {
+      "title": "SQIP – aktueller Status, die Zukunft",
+      "href": "https://github.com/technopagan/sqip/",
+      "time": "00:01:36",
+      "description": "SQIP ist eine Rendering-Technologie, die auf SVG basiert. Diese ermöglicht es kleine Platzhalter-Bilder zu erstellen und auszuliefern, bevor das eigentliche Bild geladen ist. Es gibt einige Implementierungen in CMS, wie <a href=\"https://mobile.twitter.com/axe312ger/status/991711918485360642\">Gatsby</a> und Kirby."
+    },
+    {
+      "title": "Progressives Image Encoding",
+      "time": "00:13:55",
+      "description": "Abseits von SQIP, sprechen wir über Bild-Encodings, die Bilder schneller rendern. Dazu zählt <a href=\"https://de.wikipedia.org/wiki/JPEG#Progressives_JPEG\">Progressive JPEG</a>.<br>\nWeitere Links:<p></p>\n<ul>\n<li>\n<a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API\">Intersection Observer API</a>\n</li>\n<li>\n<a href=\"https://blog.radware.com/applicationdelivery/wpo/2014/09/progressive-image-rendering-good-evil/\">JPEG-Rehabilitation im Angesicht der Radware-Studie</a>\n</li>\n<li><a href=\"https://digitalintelligencetoday.com/the-kayak-effect-why-making-customers-wait-drives-satisfaction/\">Der paradoxe Kayak-Effekt</a>\n</li>\n<li><a href=\"https://github.com/svg/svgo\">SVGO &#8211; SVG Optimierungstool</a></li>\n<li><a href=\"https://imageoptim.com/\">ImageOptim &#8211; Bild-Optimierungs-GUI für macOS</a></li>\n<li>Einige Bild-Formate, die man auch mal nutzen kann:\n<ul>\n<li><a href=\"https://github.com/mozilla/mozjpeg\">MOZJPEG</a></li>\n<li><a href=\"https://de.wikipedia.org/wiki/WebP\">WebP</a>, (wenn auch z.Z. nur in <a href=\"https://caniuse.com/#feat=webp\">diesen Browsern unterstützt</a>)</li>\n<li><a href=\"https://de.wikipedia.org/wiki/JPEG_2000\">JPEG 2000</a></li>\n<li><a href=\"https://de.wikipedia.org/wiki/JPEG_XR\">JPEG XR</a></li>\n<li><a href=\"https://de.wikipedia.org/wiki/High_Efficiency_Image_File_Format\">HEIFF</a></li>\n<li><a href=\"https://flif.info\">FLIF</a></li>\n</ul>\n</li><li>Image-Optimierung + Art Direction in der Cloud: <a href=\"https://cloudinary.com/\">Cloudinary</a></li>\n<li><a href=\"https://github.com/technopagan/mss-saliency\">MSS &#8211; Regions of Interest in Bildern finden</a></li>\n</ul>"
+    },
+    {
+      "title": "Web Performance Budgets != Fixed Thresholds",
+      "href": "https://tobias.is/blogging/web-performance-budgets-as-currency/",
+      "time": "00:55:04",
+      "description": "Web Performance Budgets sind sehr beliebt, sollten aber keine festen Thresholds haben, argumentiert Tobias."
+    },
+    {
+      "title": "UX: Web Performance und Revenue Impact",
+      "time": "01:04:32",
+      "description": "Oft ist die Erwartung, dass man durch Bildkompression bessere Performance erreicht und somit Nutzer mehr durch Bildgalerien klicken. Nachforschungen von Trivago zeigen allerdings, dass die Benutzer einige Zeit brauchen, bis die bessere Performance beim Benutzer verstanden ist. Das bedeutet also: Geduld, Kadenz beachten, User in Kohorten einteilen."
+    },
+    {
+      "title": "Ein Ausblick auf die Bildalgorithmen der Zukunft",
+      "time": "01:11:35",
+      "description": "Wir sprechen über die Zukunft und schauen auf die zunehmende Fragmentierung im Image-Format-Markt. Tobias skizziert Custom Decoder für Bilder mit WebAssembly."
+    }
+  ],
+  "links": [
+    {
+      "title": "Neue WebPerf Conferences in Europa: DeltaV",
+      "href": "https://speakerdeck.com/tbaldauf/25-percent-faster-hotel-search-web-performance-trivago",
+      "time": "01:23:28",
+      "description": "Es gibt wieder eine Konferenz in Europa die sich mit dem Thema Web Performance beschäftigt."
+    }
+  ]
+}

@@ -34,7 +34,10 @@
       "twitter": "https://twitter.com/sir_pepe",
       "web": "http://peterkroener.de/"
     },
-    null
+    {
+      "name": "Surma",
+      "twitter": "https://twitter.com/DasSurma"
+    }
   ],
   "duration": "1:07:48",
   "href": "https://workingdraft.de/329/",

@@ -1,0 +1,37 @@
+{
+  "id": 351,
+  "date": "2018-08-13",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Martin Splitt",
+      "twitter": "https://twitter.com/g33konaut"
+    }
+  ],
+  "duration": "1:09:23",
+  "href": "https://workingdraft.de/351/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3754/0/wd-351.mp3",
+  "title": "JavaScript und die Google Suche",
+  "description": "Schepp und Stefan haben sich Verstärkung aus Zürich geholt. <a href=\"https://twitter.com/g33konaut\">Martin Splitt</a>, seit kurzem Dev Rel bei Google für die Google Suche, klärt einige Mythen auf.",
+  "topics": [
+    {
+      "title": "Die Google Suche",
+      "time": "00:00:54",
+      "description": "Der Googlebot, der Seiten in Googles Suchindex aufnimmt, hat JavaScript aktiviert. Soviel ist soweit bekannt. Doch was bedeutet das im Detail? Martin gibt uns Auskunft über Browserversion, Feature Set, das Vorgehen des Google Bots bei Links und weiteres. Wir erfahren, welche Voodoo Tricks so gar nichts bewirken und worauf man tatsächlich schauen muss, wenn Google die Seite indizieren soll. Als Hilfe gibt&#8217;s Werkzeuge wie die bekannte <a href=\"https://www.google.com/webmasters/tools/home?\">Search Console formerly known as Webmaster tools</a> und den weniger bekannten <a href=\"https://search.google.com/test/mobile-friendly\">Mobile Friendly Test</a>"
+    }
+  ]
+}
