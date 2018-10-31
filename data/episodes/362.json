@@ -1,0 +1,89 @@
+{
+  "id": 362,
+  "date": "2018-10-19",
+  "people": [
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Tobias Oberrauch",
+      "xing": "https://www.xing.com/profiles/Tobias_Oberrauch"
+    }
+  ],
+  "duration": "1:00:53",
+  "href": "https://workingdraft.de/362/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3882/0/wd-362.mp3",
+  "title": "Künstliche Intelligenz",
+  "description": "Nächster Halt des Hype-Train: der Bahnhof Workingdaft-Süd! Damit uns keine Verzögerungen im Betriebsablauf heimsuchen stellt Gast Tobias Oberrauch (<a href=\"https://www.xing.com/profile/Tobias_Oberrauch/cv\">Xing</a>, <a href=\"https://twitter.com/tobiasoberrauch\">Twitter</a>), seines Zeichens KI-Consultant, für uns die Weichen in Sachen künstlicher Intelligenz.",
+  "topics": [
+    {
+      "title": "KI und ML",
+      "time": "00:00:54",
+      "description": "Tobias gibt uns einen High-Level-Einstieg in <a href=\"https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz\">künstliche Intelligenz</a>, <a hre=\"https://de.wikipedia.org/wiki/K%C3%BCnstliches_neuronales_Netz\">neuronale Netze</a> und maschinelles Lernen (in den Geschmacksrichtungen <a href=\"https://de.wikipedia.org/wiki/%C3%9Cberwachtes_Lernen\">supervised</a>, <a href=\"https://de.wikipedia.org/wiki/Best%C3%A4rkendes_Lernen\">reinforcement</a> und <a href=\"https://de.wikipedia.org/wiki/Un%C3%BCberwachtes_Lernen\">unsupervised</a>). Wir quatschen unter anderm über die Möglichkeiten und Grenzen bei Bilderkennung, autonomem fahren und von KI allgemein. Als Bastler interessiert uns natürlich besonders, wie man neuronale Netze reparieren kann (schwierig) oder sie sich selbst basteln kann. Tobias empfehlt für lezteres <a href=\"https://www.tensorflow.org/\">Tensor Flow</a>, <a href=\"https://keras.io/\">Keras</a> und <a href=\"https://www.kaggle.com/\">Kaggle</a>. Mit diesen und ähnlichen Tools lässt sich eine Reihe anstellen, wie sowohl <a href=\"https://experiments.withgoogle.com/collection/ai\">die KI-Experimente von Google</a> als auch diverse KI-Fails (u.A. von Google, Amazon, YouTube) belegen."
+    }
+  ],
+  "links": [
+    {
+      "title": "Neural Network Playground",
+      "href": "https://playground.tensorflow.org",
+      "time": "00:00:55:00",
+      "description": "Spielplatz für einfache KI-Experimente."
+    },
+    {
+      "title": "Cloud-Lernen mit Google und Microsoft",
+      "href": "https://cloud.google.com/products/machine-learning/",
+      "time": "00:00:55:00",
+      "description": "Die wolkigen Lösungen der großen Anbieter"
+    },
+    {
+      "title": "Algorithmia Algorithms",
+      "href": "https://algorithmia.com/algorithms",
+      "time": "00:00:55:00",
+      "description": "Marktplatz für KI-Algorithmen."
+    },
+    {
+      "title": "Teach Yourself Deep Learning with TensorFlow and Udacity",
+      "href": "https://ai.googleblog.com/2016/01/teach-yourself-deep-learning-with.html",
+      "time": "00:00:55:00",
+      "description": "Kurs von Google"
+    },
+    {
+      "title": "First Steps with tensorflow.js",
+      "href": "https://aralroca.com/2018/08/24/first-steps-with-tensorflow-js/",
+      "time": "00:00:55:00",
+      "description": "Tutorial für Machine Learning im Browser"
+    },
+    {
+      "title": "Introduction to Machine Learning for Coders",
+      "href": "http://www.fast.ai/2018/09/26/ml-launch/",
+      "time": "00:00:55:00",
+      "description": "Ein weiteres ML-Tutorial"
+    },
+    {
+      "title": "Tickets für die dotJS und dotCSS abzugeben!",
+      "href": "https://twitter.com/drublic",
+      "time": "00:00:55:00",
+      "description": "Meldet euch bei Hans wenn ihr Interesse habt!"
+    }
+  ]
+}

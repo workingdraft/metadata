@@ -1,0 +1,50 @@
+{
+  "id": 358,
+  "date": "2018-09-23",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Niels Leenheer",
+      "twitter": "https://twitter.com/html5test"
+    }
+  ],
+  "duration": "1:19:30",
+  "href": "https://workingdraft.de/358/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3860/0/wd-358.mp3",
+  "title": "Web Bluetooth & Web USB",
+  "description": "As Schepp was left alone by his co-moderators (due to valid reasons) he reached out to <a href=\"https://twitter.com/html5test\">Niels Leenheer</a> in order to chat a bit about the Web Bluetooth and Web USB APIs. And as you might already have guessed this episode is in English :)",
+  "topics": [
+    {
+      "title": "Web Bluetooth",
+      "href": "https://webbluetoothcg.github.io/web-bluetooth/",
+      "time": "00:02:25",
+      "description": "We talk about how Bluetooth is structured and how we see it and interface it from the browser. We mantion the <a href=\"https://www.bluetooth.com/specifications/gatt/services\">GATT standard/protocol</a> and how you can find many devices documented in the <a href=\"https://github.com/opengatt/registry\">OpenGATT Registry</a>. We talk about LEGO stuff that can be remotely controlled via Web Bluetooth, like the LEGO Batmobile (<a href=\"https://shop.lego.com/en-US/App-Controlled-Batmobile-76112\">hardware</a> / <a href=\"https://bluetooth.rocks/batmobile/\">demo</a>) or the <a href=\"https://shop.lego.com/en-US/RC-Tracked-Racer-42065\">LEGO Tracked Racer</a> which you combine with an <a href=\"https://www.sbrick.com\">SBrick Bluetooth receiver</a> in order to then <a href=\"http://bluetooth.rocks/racer/\">control it</a> with the help of <a href=\"https://github.com/360fun/sbrick.js\">sbrick.js</a>. We also talked about &#8222;the physical web&#8220; in the form of Bluetooth beacons, and we talked about <a href=\"https://shop.espruino.com/puckjs\">beacons that can run JavaScript on themselves</a>! If you prefer Bluetooth-interfacable microcontrollers, then you might wanna have a look at the <a href=\"https://www.espruino.com/\">Espruino</a> and its <a href=\"https://shop.espruino.com/mdbt42q-breakout\">Bluetooth extension</a>. And then finally, we also talked about <a href=\"https://developers.google.com/web/updates/2016/03/access-usb-devices-on-the-web\">Web USB</a> and how there are security considerations to be made."
+    }
+  ],
+  "links": [
+    {
+      "title": "Videos of Niels doing weird things",
+      "href": "https://noti.st/nielsleenheer#video",
+      "time": "01:05:41",
+      "description": "Namely: Fun with Bluetooth!"
+    },
+    {
+      "title": "Fronteers Conference 2018: October 4th/5th in Amsterdam",
+      "href": "https://fronteers.nl/congres/2018",
+      "time": "01:05:41",
+      "description": "One of the oldest and still one of the best frontend conferences in Western Europe! Non-profit and again with an amazing and diverse lineup. Although this time in a new venue in order to be able to offer more seats. Check it out, Western Germans&#8230;"
+    },
+    {
+      "title": "performance.now() Conference: November 8th/9th, Amsterdam",
+      "href": "https://perfnow.nl/",
+      "time": "01:05:41",
+      "description": "The first edition of many more to come, this conference fills the vacuum that Velocity created and features a breath-taking array of webperf speakers. Don&#8217;t miss this once in a lifetime lineup!"
+    }
+  ]
+}

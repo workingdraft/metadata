@@ -1,0 +1,49 @@
+{
+  "id": 363,
+  "date": "2018-10-27",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "duration": "1:12:32",
+  "href": "https://workingdraft.de/363/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3896/0/wd-363.mp3",
+  "title": "Und ihr so?",
+  "description": "Stefan, Schepp und Peter starteten mit dem Plan, ein wenig von aktuellen Webtech-Herausforderungen in ihrer alltäglichen Arbeit zu erzählen. Aus Zeitgründen hat es nur für für die Berichte von zwei von drei Personen gereicht.",
+  "topics": [
+    {
+      "title": "Woran arbeiten wir gerade?",
+      "time": "00:00:20",
+      "description": "<p>Schepp werkelt am Frontend der <a href=\"https://rp-online.de/\">Rheinischen Post</a> (und anderen Zeitungen aus dem Verlag), während Stefan sich für <a href=\"https://www.dynatrace.com/\">Dynatrace</a> betätigt. Seine Hauptaufgabe besteht darin, das alte GWT-Frontend durch Angular zu ersetzen, v.A. durch eine Onboarding-Prozedur. Wie betrachten die beachtliche <a href=\"https://barista.dynatrace.com/patterns/button-alignment/\">öffentliche Komponentensammlung von Dynatrace</a> und philosophieren über die Seltenheit von Greenfield-Projekte verglichen mit heroischen Migrationen. Davon kann auch Schepp ein Lied singen, der nicht nur die neueste Version der RP mitgebaut hat, sondern die Idee dahinter auch Nicht-Frontendlern und übergeordneten Stakeholdern kommunizieren musste. Heraus kam ein skinbares Designsystem, das vielseitig eingesetzt wird (man vergleiche <a href=\"https://rp-online.de/\">rp-online.de</a> mit <a href=\"https://www.wz.de/\">wz.de</a>). Am Ende kommen wir zu einer Diskussion rund um Werbung, JavaScript-Werbemittel, die <a href=\"http://idlewords.com/2015/11/the_advertising_bubble.htm\">Advertising Bubble</a> und beenden die Sendung bevor Peter eine Gelegenheit hatte, von seinen Kämpfen mit dem CSSOM zu berichten (siehe auch: <a href=\"https://en.wikipedia.org/wiki/JavaScript_Style_Sheets\">JSSS</a>).</p>"
+    }
+  ],
+  "links": [
+    {
+      "title": "DACHFest 2018",
+      "href": "https://dachfest.com/",
+      "time": "01:10:07",
+      "description": "Schepp bewirbt das DACHfest 2018 am 10. und 11. November in München."
+    }
+  ]
+}

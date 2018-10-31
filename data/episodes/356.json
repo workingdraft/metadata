@@ -1,0 +1,54 @@
+{
+  "id": 356,
+  "date": "2018-09-17",
+  "people": [
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "duration": "45:20",
+  "href": "https://workingdraft.de/356/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3833/0/wd-356.mp3",
+  "title": "Neues vom Chrome-Browser!",
+  "description": "Chrome hat ein paar neue Features, die in keinem anderen Browser funktionieren und für die es noch nicht mal anständige Spezifikationen gibt. Natürlich ist das für Schepp, Hans und Peter Anlass zu einer ganzen neuen Revision!",
+  "topics": [
+    {
+      "title": "Lazy Loading",
+      "href": "https://www.chromestatus.com/feature/5641405942726656",
+      "time": "00:00:30",
+      "description": "Wir besprechen sowohl Lazy Loading an sich als auch die Implementierung des <code>lazyload</code>-Attributs für Bilder und Iframes. Themenverwandt ist auch das asynchrone Dekodieren von Bildern, für das es sogar schon <a href=\"https://html.spec.whatwg.org/multipage/images.html#decoding-images\">Spezifikationstext</a> gibt!"
+    },
+    {
+      "title": "intrinsicsize-Attribut",
+      "href": "https://github.com/ojanvafai/intrinsicsize-attribute",
+      "time": "00:14:47",
+      "description": "Nicht mit den CSS-Werten für Intrinsic Sizing zu verwechseln, erlaubt ein neues Attribut die Angabe von intrinsischen Maßen für HTML-Medien wie Bilder und Videos. So lässt sich springender Content im Responsive Design besser bändigen, als mit CSS-Hacks wie <a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/max-width\">max-width:100%</a> und <a href=\"http://www.mademyday.de/css-height-equals-width-with-pure-css.html\">erzwungenen Seitenverhältnissen</a>."
+    },
+    {
+      "title": "Kein JavaScript mehr mit 2G?",
+      "href": "https://www.androidpolice.com/2018/08/23/chrome-android-may-start-disabling-javascript-2g-connections/",
+      "time": "00:24:43",
+      "description": "Kontrovers: Mobile Chrome könnte demnächst bei 2G-Verbindungen JavaScript deaktivieren! Damit könnte Progressive Enhancement wieder zum Thema werden, falls nicht (wie Peter postuliert) einerseits PWA zur Abwehr des Problems taugen oder das Problem selbst vom technischen Fortschritt aufgefressen wird. In Zuge dieser Besprechung streifen wir <a href=\"https://developers.google.com/web/updates/2015/09/automating-resource-selection-with-client-hints\">Client Hints</a>, die <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Network_Information_API\">Network Information API</a> und erwähnen einen Artikel, der beschreibt wie<br>\n<a href=\"https://meyerweb.com/eric/thoughts/2018/08/07/securing-sites-made-them-less-accessible/\">HTTPS Satteliteninternet drastisch verlangsamt</a>."
+    }
+  ]
+}

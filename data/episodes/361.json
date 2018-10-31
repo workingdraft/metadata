@@ -1,0 +1,41 @@
+{
+  "id": 361,
+  "date": "2018-10-8",
+  "people": [
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    }
+  ],
+  "duration": "52:23",
+  "href": "https://workingdraft.de/361/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3877/0/wd-361.mp3",
+  "title": "Idle Until Urgent",
+  "description": "Wie es der Zufall wollte, trafen sich Hans, Schepp und Peter an einem Aufnahmetag in Köln. So kam es zu einer jener seltenen Revisionen ohne laggende VOIP-Software. Trotzdem ging es am Ende ging dann doch wieder um Performance und fittere Frontend-Frameworks.",
+  "topics": [
+    {
+      "title": "Performance und intelligentere Frameworks",
+      "time": "00:00:41",
+      "description": "Unter dem Label <a href=\"https://philipwalton.com/articles/idle-until-urgent/\">Idle Until Urgent</a> stellt Philip Walton einen neuen Ansatz zur Initialisierung von Frontend-Komponenten vor. Das Prinzip scheint uns vielversprechend zu sein, weswegen wir auführlich über den Ansatz, unsere eigenen Erfahrungen mit vergleichbaren Patterns und die jeweils verwendeten APIs (<a href=\"https://developer.mozilla.org/en-US/docs/Web/Events/DOMContentLoaded\">DOMContentLoaded</a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver\">Mutation Observer</a>, <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API\">Intersection Observer</a>, <a href=\"https://developer.mozilla.org/de/docs/Web/API/Element/getBoundingClientRect\">getBoundingClientRect()</a>) fachsimpeln. Da die manuelle Implementierung solcher Patterns aber immer recht mühsam ist, fordern wir ihre Implementierung in den JavaScript-Frameworks der Zukunft. <a href=\"https://github.com/acdlite/react-fiber-architecture\">React Fiber</a> und <a href=\"https://github.com/ampproject/worker-dom\">worker-dom</a> gehen grob in uns genehme Richtungen."
+    }
+  ]
+}

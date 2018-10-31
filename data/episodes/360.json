@@ -1,0 +1,34 @@
+{
+  "id": 360,
+  "date": "2018-10-3",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Peter Kröner",
+      "team": [
+        "2010-11-02"
+      ],
+      "twitter": "https://twitter.com/sir_pepe",
+      "web": "http://peterkroener.de/"
+    }
+  ],
+  "duration": "54:22",
+  "href": "https://workingdraft.de/360/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3867/0/wd-360.mp3",
+  "title": "CSS-Gate",
+  "description": "Stefan und Peter haben für diese Revision als Entschuldigung vorzubringen, dass der eine als frischgebackener Papa und der andere als überarbeiteter Erklärbär Schlafdefizite aufweisen, bei denen ein Bailout dringend angebracht gewesen wäre. Stattdessen gibt&#8217;s einen Podcast.",
+  "topics": [
+    {
+      "title": "CSS-Gate",
+      "time": "00:00:16",
+      "description": "Der äußerest umtriebige Max Stoiber (u.A. Autor von <a href=\"https://www.styled-components.com/\">Styled Components</a>) hat mit einem <a href=\"https://twitter.com/mxstbr/status/1038073603311448064\">harmlos anmutenden Quiz</a> eine mittelschwere Kontroverse rund um CSS, die Daseinsberechtigung von CSS und das <a href=\"https://zendev.com/2018/09/11/css-dismissal-is-about-exclusion-not-technology.html\">Ansehen von CSS-Schreibern</a> ausgelöst. Beim folgenden Fehlversuch, aus der Kontroverse irgendeine Art von Lehre zu ziehen, ranten wir unter anderem über den <a href=\"https://www.webkongress.fau.de/\">Webkongress Erlangen</a>, <a href=\"https://reactjs.org/\">React</a> (und die Spinner die&#8217;s nutzen), <a href=\"https://github.com/zeit/next.js/\">Next.js</a>, <a href=\"https://material-ui.com/\">Material UI</a> und speziell Peters Meinung dazu und das unausweichliche <a href=\"https://de.wikipedia.org/wiki/Paretoprinzip\">Paretoprinzip</a>"
+    }
+  ]
+}

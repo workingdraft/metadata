@@ -1,0 +1,52 @@
+{
+  "id": 355,
+  "date": "2018-09-10",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    },
+    {
+      "name": "Simon Streubel"
+    }
+  ],
+  "duration": "1:04:00",
+  "href": "https://workingdraft.de/355/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3827/0/wd-355.mp3",
+  "title": "Apache Kafka",
+  "description": "&#8222;Kafka ist eine Bosna mit einer Käsekrainer&#8220;. Oder doch ein deutschsprachiger Schriftsteller der sich in riesige Käfer verwandeln konnte? Immerhin kommen Zoowärter vor. Und was haben die Apachen damit zu tun? Fragen über Fragen. Antworten liefert &#8222;Old Firehand&#8220; <a href=\"https://www.xing.com/profile/Simon_Streubel/\">Simon Streubel</a>, der von seinem ganz besonders käferlosen &#8222;Simons Traum&#8220; erzählt und Hans und Stefan durch Begrifflichkeiten und Funktionsweisen führt. Prostmahlzeit.",
+  "topics": [
+    {
+      "title": "Kafka",
+      "href": "https://kafka.apache.org/",
+      "time": "00:00:26",
+      "description": "Kafka ist ein Distributed Publish-Subscribe Message Broker, der ursprünglich von LinkedIn entwickelt wurde und 2014 bei Apache untergekommen ist. Das System liefert einen bequemen weg von Daten auf der einen Seite rein (Producer), und optimiert auf der anderen Seite wieder raus (Consumer). Die Verteilung sorgt für hohe Skalierbarkeit und ist daher super für Microservices geeignet. Der Zookeeper kümmert sich darum, dass alle Knoten und Quellen miteinander auch sprechen können. Ein eigenes Datenformat wie <a href=\"https://en.wikipedia.org/wiki/Apache_Avro\">AVRO</a> hilft zusätzlich dabei Daten sauber zu serialisieren. Die entstehenden Datenströme werden bequem mit <a href=\"https://kafka.apache.org/documentation/streams/\">reaktiven Stream APIs konsumiert.</a> Zuviel an Begrifflichkeiten? Die Lücken im Text füllt unsere aktuelle Episode. Die Löcher in den Bäuchen die österreichische Kafka. Hans verlost dazu sogar etwas am Ende der Revision."
+    }
+  ],
+  "links": [
+    {
+      "title": "Kafka Tool",
+      "href": "http://www.kafkatool.com/",
+      "time": "00:53:57",
+      "description": "Das Kafka Tool ist ein Tool für Kafka. In der Form einer grafischen Benutzeroberfläche."
+    },
+    {
+      "title": "Sinek",
+      "href": "https://github.com/nodefluent/node-sinek",
+      "time": "00:53:57",
+      "description": "Sinek bringt Kafka nach Node.js."
+    }
+  ]
+}

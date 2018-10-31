@@ -1,0 +1,56 @@
+{
+  "id": 357,
+  "date": "2018-09-18",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Christian Schaefer",
+      "team": [
+        "2010-11-09"
+      ],
+      "twitter": "https://twitter.com/derSchepp"
+    },
+    {
+      "name": "Hans Christian Reinl",
+      "team": [
+        "2011-08-25"
+      ],
+      "twitter": "https://twitter.com/drublic",
+      "web": "http://drublic.de/"
+    }
+  ],
+  "duration": "49:06",
+  "href": "https://workingdraft.de/357/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3837/0/wd-357.mp3",
+  "title": "Der JAMStack",
+  "description": "Ein Artikel aus grauer Vorzeit (also Februar) veranlasst uns mal den JAMStack genauer zu beleuchten.",
+  "topics": [
+    {
+      "title": "JAMStack",
+      "href": "https://medium.com/@borisschapira/back-to-static-a-paradigm-shift-for-better-ux-and-web-performance-56f4199d74ff",
+      "time": "00:00:17",
+      "description": "JAM steht für &#8222;JavaScript, APIs und Markup&#8220; und bezeichnet statisch generierte Seiten, die mit Serverless/Microservices/Cloud-Funktionen um dynamische Inhalte angereichert werden. Mit einher gehen eine ganze Reihe an Technologien, die es zu verstehen und zu verwenden gilt. Statt großen CMS Monolithen bedient man sich einem Baukasten an verschiedenen Technologien um das gleiche Ergebnis zu erzielen:<p></p>\n<ul>\n<li>Generatoren wie <a href=\"https://jekyllrb.com/\">Jekyll</a> mit Liquid, <a href=\"https://gohugo.io/&gt;Hugo&lt;/a&gt; mit der Go-Template-Engine, oder &lt;a href=\" https:=\"\"></a>Gatsby.js und React sorgen für generiertes HTML</li>\n<li>Cloudfunktionen wie <a href=\"https://azure.microsoft.com/en-us/services/functions/\">Azure Functions</a> oder Dienste wie Disqus helfen bei dynamischen Inhalten.</li>\n<li>Build-Services wie <a href=\"https://travis-ci.org/\">Travis CI</a> bauen die Seite, <a href=\"https://ifttt.com/\">IFTTT</a> sorgt für entsprechende Trigger</li>\n<li>Man schreibt Markdown in Git Repos, oder bedient sich einem Headless CMS wie <a href=\"https://www.storyblok.com/\">Storyblok</a></li>\n<li>Man hostet auf GitHub Pages, oder irgendeinem anderen CDN</li>\n</ul>\n<p>Schnelle Auslieferung und bombensichere Websites sind die Folge. Dienste wie <a href=\"https://www.netlify.com/\">Netlify</a> kümmern sich dabei von Cloud-Funktionen, Build Services und Hosting über alles.</p>\n<p>Neben all dem Lob schauen wir aber auch auf die Schattenseiten und zeigen, was alles schiefgehen kann, wenn man mit der Skalierung nicht mehr nachkommt.</p>"
+    }
+  ],
+  "links": [
+    {
+      "title": "TypeScript & Babel 7",
+      "href": "https://blogs.msdn.microsoft.com/typescript/2018/08/27/typescript-and-babel-7/",
+      "time": "00:43:50",
+      "description": "TypeScript hat zwar einen eigenen Transpiler, kann aber nun auch als Preset für Babel verwendet werden. Falls ihr euren bestehenden Stack mit Type-Checking anreichern wollt."
+    },
+    {
+      "title": "A tour of Javascript timers on the web",
+      "href": "https://nolanlawson.com/2018/09/01/a-tour-of-javascript-timers-on-the-web/",
+      "time": "00:43:50",
+      "description": "Das Thema mit JavaScript Zeit-Funktionen (<code>setTimeout</code>, &#8230;) ist ja einfach, oder? Nolan Lawson zeigt was alles dahinter steckt."
+    }
+  ]
+}

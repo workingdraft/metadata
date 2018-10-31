@@ -1,0 +1,36 @@
+{
+  "id": 359,
+  "date": "2018-09-27",
+  "people": [
+    {
+      "name": "Stefan Baumgartner",
+      "team": [
+        "2013-06-09"
+      ],
+      "twitter": "https://twitter.com/ddprrt",
+      "web": "http://fettblog.eu/"
+    },
+    {
+      "name": "Sven Wolfermann",
+      "twitter": "https://twitter.com/maddesigns",
+      "web": "http://maddesigns.de/"
+    },
+    {
+      "name": "Robert Weber",
+      "twitter": "https://twitter.com/robertweber"
+    }
+  ],
+  "duration": "37:35",
+  "href": "https://workingdraft.de/359/",
+  "audio": "https://workingdraft.de/podpress_trac/web/3849/0/wd-359.mp3",
+  "title": "HTML/CSS für EPUB und Print Stylesheets",
+  "description": "Wisst ihr, wo semantisches (X)HTML, CSS und ganz, ganz, ganz viel Responsive Design unglaublich wichtig ist? Bei Büchern! Jedes EPUB ist im Grunde ein gezipptes Bündel an Web Dokumenten, für euren Lesespaß optimiert. Wie sehr sich diese Ausprägung der Web Technologien allerdings vom Rest der weiten Web Welt unterscheidet, erklären Sven <a href=\"https://twitter.com/maddesigns\">Wolfermann</a> und <a href=\"https://twitter.com/closingtag\">Robert Weber</a>.",
+  "topics": [
+    {
+      "title": "EPUB, Mobi und PDF",
+      "href": "https://w3c.github.io/publ-cg/",
+      "time": "00:02:00",
+      "description": "In E-Books stecken Webtechnologien. Und zwar eine ganze Menge. Sven und Robert erklären wie man von Word Dokumenten (dem Verlags-Format Nummer 1) zu semantischen HTML Dokumenten kommt, und welche Werkzeuge es dafür benötigt. Danach hören wir uns an, wie man das ganze in ein EPUB Format bringt und wo sich die E-Reader von den Webbrowsern unterscheiden. Dabei lernen wir von <a href=\"https://www.npmjs.com/package/mammoth\">Mammoth</a>, <a href=\"https://www.npmjs.com/package/cheerio\">Cheerio</a>, <a href=\"https://www.w3.org/TR/wpub/\">den Standards für Publikationen mit Web Technologien</a>, <a href=\"https://www.princexml.com/\">PrinceXML</a> und <a href=\"https://docraptor.com/\">DocRaptor</a>. Weitere Infos gibt&#8217;s zu <a href=\"http://www.idpf.org/epub/profiles/edu/structure/\">EPUB</a>, <a href=\"http://www.idpf.org/epub/31/spec/epub-spec.html\">EPUB 3.1</a>, <a href=\"https://drafts.csswg.org/css-page-3/\">CSS Paged Media Module Level 3</a> und <a href=\"https://books.idea.whatwg.org/\">CSS Books</a>. Anschließend sehen wir uns an, wie man mit Print Stylesheets tatsächlich sowas wie Bücher produzieren kann, die direkt in den Druck gehen. Wahrscheinlich hatten die Belesenen von euch eines der Bücher sogar schon in der Hand."
+    }
+  ]
+}
