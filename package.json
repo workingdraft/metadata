@@ -2,7 +2,7 @@
   "dependencies": {
     "cheerio": "~0.12.4",
     "q": "~0.9.7",
-    "underscore": "~1.5.2",
+    "underscore": ">=1.12.1",
     "string.prototype.repeat": "~0.1.0"
   }
 }
